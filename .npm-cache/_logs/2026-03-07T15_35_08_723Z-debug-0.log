@@ -1,0 +1,23 @@
+0 verbose cli /usr/local/bin/node /usr/local/lib/node_modules/npm/bin/npm-cli.js
+1 info using npm@11.9.0
+2 info using node@v24.14.0
+3 silly config load:file:/usr/local/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/pda/Desktop/Type Parser/web/.npmrc
+5 silly config load:file:/Users/pda/.npmrc
+6 silly config load:file:/usr/local/etc/npmrc
+7 verbose title npm exec vercel whoami --token vcp_0FfjLAz7wFKEvnOK1xBtm6sEvHLl7O7ZgwAr6opt1BBZxPf9BB1Y8tKI
+8 verbose argv "exec" "--yes" "--" "vercel" "whoami" "--token" "vcp_0FfjLAz7wFKEvnOK1xBtm6sEvHLl7O7ZgwAr6opt1BBZxPf9BB1Y8tKI"
+9 verbose logfile logs-max:10 dir:/Users/pda/Desktop/Type Parser/.npm-cache/_logs/2026-03-07T15_35_08_723Z-
+10 verbose logfile /Users/pda/Desktop/Type Parser/.npm-cache/_logs/2026-03-07T15_35_08_723Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+13 verbose shrinkwrap failed to load node_modules/.package-lock.json out of date, updated: node_modules
+14 http fetch GET 200 https://registry.npmjs.org/vercel 781ms (cache revalidated)
+15 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+16 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+17 verbose cwd /Users/pda/Desktop/Type Parser/web
+18 verbose os Darwin 25.2.0
+19 verbose node v24.14.0
+20 verbose npm  v11.9.0
+21 verbose exit 1
+22 verbose code 1

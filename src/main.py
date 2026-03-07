@@ -70,14 +70,20 @@ def persist_source_results(
     new_releases: list[FontRelease],
     period_label: str | None = None,
 ) -> Path:
-    run_date = date.today().isoformat()
-    out_dir = DATA_DIR / source_id / run_date
-    if period_label:
-        out_dir = DATA_DIR / source_id / "periods" / period_label
+    out_dir = _source_output_dir(source_id, period_label)
     ensure_dir(out_dir)
 
-    dump_json(out_dir / "all_releases.json", [r.to_dict() for r in all_releases])
-    dump_json(out_dir / "new_releases.json", [r.to_dict() for r in new_releases])
+    merged_all = _merge_release_lists(
+        _load_releases_from_file(out_dir / "all_releases.json"),
+        all_releases,
+    )
+    merged_new = _merge_release_lists(
+        _load_releases_from_file(out_dir / "new_releases.json"),
+        new_releases,
+    )
+
+    dump_json(out_dir / "all_releases.json", [r.to_dict() for r in merged_all])
+    dump_json(out_dir / "new_releases.json", [r.to_dict() for r in merged_new])
     return out_dir
 
 
@@ -93,16 +99,12 @@ class IncrementalSourceWriter:
         self.seen_ids = seen_ids
         self.period_label = period_label
         self.flush_every = max(1, flush_every)
-        self.current_ids: set[str] = set()
-        self.all_releases: list[FontRelease] = []
-        self.new_releases: list[FontRelease] = []
+        self.output_dir = _source_output_dir(source_id=source_id, period_label=period_label)
+        self.all_releases: list[FontRelease] = _load_releases_from_file(self.output_dir / "all_releases.json")
+        self.new_releases: list[FontRelease] = _load_releases_from_file(self.output_dir / "new_releases.json")
+        self.current_ids: set[str] = {r.release_id for r in self.all_releases}
         self._counter = 0
-        self.output_dir = persist_source_results(
-            source_id=source_id,
-            all_releases=[],
-            new_releases=[],
-            period_label=period_label,
-        )
+        ensure_dir(self.output_dir)
 
     def on_release(self, release: FontRelease) -> None:
         rid = release.release_id
@@ -162,6 +164,54 @@ def maybe_download_assets(source_cfg: dict, output_dir: Path, releases: list[Fon
         if release_assets:
             dump_json(per_release_dir / "downloaded_assets.json", release_assets)
             processed += 1
+
+
+def _source_output_dir(source_id: str, period_label: str | None) -> Path:
+    run_date = date.today().isoformat()
+    out_dir = DATA_DIR / source_id / run_date
+    if period_label:
+        out_dir = DATA_DIR / source_id / "periods" / period_label
+    return out_dir
+
+
+def _load_releases_from_file(path: Path) -> list[FontRelease]:
+    rows = load_json(path, default=[])
+    if not isinstance(rows, list):
+        return []
+    out: list[FontRelease] = []
+    for row in rows:
+        if not isinstance(row, dict):
+            continue
+        try:
+            out.append(
+                FontRelease(
+                    source_id=row.get("source_id") or "",
+                    source_name=row.get("source_name") or "",
+                    source_url=row.get("source_url"),
+                    name=row.get("name") or "",
+                    styles=list(row.get("styles") or []),
+                    authors=list(row.get("authors") or []),
+                    scripts=list(row.get("scripts") or []),
+                    release_date=row.get("release_date"),
+                    image_url=row.get("image_url"),
+                    woff_url=row.get("woff_url"),
+                    specimen_pdf_url=row.get("specimen_pdf_url"),
+                    discovered_at=row.get("discovered_at") or datetime.utcnow().isoformat() + "Z",
+                    raw=dict(row.get("raw") or {}),
+                )
+            )
+        except Exception:
+            continue
+    return out
+
+
+def _merge_release_lists(existing: list[FontRelease], incoming: list[FontRelease]) -> list[FontRelease]:
+    by_id: dict[str, FontRelease] = {}
+    for release in existing:
+        by_id[release.release_id] = release
+    for release in incoming:
+        by_id[release.release_id] = release
+    return list(by_id.values())
 
 
 def run(

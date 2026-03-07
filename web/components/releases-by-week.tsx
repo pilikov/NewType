@@ -42,6 +42,24 @@ export function ReleasesByWeek({ weekGroups }: ReleasesByWeekProps) {
     return `${value} релизов`;
   }
 
+  const sourceStats = (() => {
+    const map = new Map<string, { sourceName: string; faviconUrl: string | null; count: number }>();
+    for (const release of activeWeek?.releases ?? []) {
+      const key = release.source_id;
+      const current = map.get(key);
+      if (current) {
+        current.count += 1;
+        continue;
+      }
+      map.set(key, {
+        sourceName: release.source_name,
+        faviconUrl: release.source_favicon_url ?? null,
+        count: 1
+      });
+    }
+    return Array.from(map.values()).sort((a, b) => b.count - a.count || a.sourceName.localeCompare(b.sourceName));
+  })();
+
   return (
     <section className="space-y-6">
       <div className="z-20" style={{ position: "sticky", top: 0 }}>
@@ -64,7 +82,17 @@ export function ReleasesByWeek({ weekGroups }: ReleasesByWeekProps) {
         </div>
       </div>
 
-      <div className="text-sm text-slate-600">{formatReleaseCount(activeWeek?.releaseCount ?? 0)}</div>
+      <div className="flex flex-wrap items-center gap-3 text-sm text-slate-600">
+        <span>{formatReleaseCount(activeWeek?.releaseCount ?? 0)}</span>
+        {sourceStats.map((stat) => (
+          <span key={stat.sourceName} className="inline-flex items-center gap-1.5">
+            {stat.faviconUrl ? (
+              <img src={stat.faviconUrl} alt={stat.sourceName} className="h-4 w-4 rounded-sm" loading="lazy" />
+            ) : null}
+            <span>{stat.count}</span>
+          </span>
+        ))}
+      </div>
 
       <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 xl:grid-cols-3">
         {activeWeek?.releases.map((release) => <ReleaseCard key={release.release_id} release={release} />)}
