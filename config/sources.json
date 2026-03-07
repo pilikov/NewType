@@ -1,0 +1,114 @@
+{
+  "version": 2,
+  "sources": [
+    {
+      "id": "myfonts",
+      "name": "MyFonts",
+      "enabled": true,
+      "base_url": "https://www.myfonts.com",
+      "meta": {
+        "favicon_url": "https://www.myfonts.com/favicon.ico"
+      },
+      "crawl": {
+        "mode": "myfonts_api",
+        "products_endpoint": "/products.json",
+        "page_size": 250,
+        "max_pages": 6,
+        "incremental_flush_every": 10,
+        "enable_debut_enrichment": true,
+        "max_debut_checks": 600,
+        "debut_lookback_days": 90
+      },
+      "assets": {
+        "download_image": true,
+        "download_woff": true,
+        "download_specimen_pdf": true,
+        "max_downloads_per_run": 30,
+        "download_for_all_releases": true
+      }
+    },
+    {
+      "id": "type_today",
+      "name": "type.today",
+      "enabled": true,
+      "base_url": "https://type.today",
+      "meta": {
+        "favicon_url": "https://type.today/favicon/favicon-32x32.png"
+      },
+      "crawl": {
+        "mode": "type_today_journal",
+        "journal_url": "/ru/journal",
+        "incremental_flush_every": 5,
+        "new_post_prefix": "Новый шрифт:"
+      },
+      "assets": {
+        "download_image": true,
+        "download_woff": true,
+        "download_specimen_pdf": true,
+        "max_downloads_per_run": 30
+      }
+    },
+    {
+      "id": "futurefonts",
+      "name": "Future Fonts",
+      "enabled": true,
+      "base_url": "https://www.futurefonts.com",
+      "meta": {
+        "favicon_url": "https://www.futurefonts.com/favicon.ico"
+      },
+      "crawl": {
+        "mode": "futurefonts_activity",
+        "activity_endpoint": "/api/v1/activity",
+        "incremental_flush_every": 5,
+        "max_pages_per_type": 6,
+        "lookback_days": 30,
+        "detail_fetch_limit": 40
+      },
+      "assets": {
+        "download_image": true,
+        "download_woff": true,
+        "download_specimen_pdf": true,
+        "max_downloads_per_run": 20
+      }
+    },
+    {
+      "id": "typenetwork",
+      "name": "Type Network",
+      "enabled": true,
+      "base_url": "https://store.typenetwork.com",
+      "meta": {
+        "favicon_url": "https://store.typenetwork.com/icons/favicon-32x32.png"
+      },
+      "crawl": {
+        "mode": "typenetwork_public_families",
+        "api_base_url": "https://api.typenetwork.com",
+        "families_endpoint": "/api/1/public/families/",
+        "incremental_flush_every": 10,
+        "foundries_endpoint": "/api/1/foundries/",
+        "page_size": 200,
+        "max_pages": 20,
+        "ordering": "-released",
+        "lookback_days": 90,
+        "script_id_map": {
+          "160": "Arabic",
+          "200": "Greek",
+          "215": "Latin",
+          "220": "Cyrillic",
+          "315": "Devanagari",
+          "345": "Kannada",
+          "907": "Indic"
+        },
+        "enable_image_enrichment": true,
+        "image_enrichment_limit": 12,
+        "image_site_page_limit": 6
+      },
+      "assets": {
+        "download_image": true,
+        "download_woff": false,
+        "download_specimen_pdf": false,
+        "max_downloads_per_run": 80,
+        "download_for_all_releases": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Font Releases</title>
+    <style>
+      :root {
+        --background: #f5f7fb;
+        --foreground: #0f172a;
+        --muted-foreground: #64748b;
+        --card: #ffffff;
+        --card-foreground: #0f172a;
+        --border: #e2e8f0;
+        --ring: #0ea5e9;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: "Segoe UI", sans-serif;
+        background:
+          radial-gradient(circle at 0% 0%, #dbeafe 0%, transparent 45%),
+          radial-gradient(circle at 100% 100%, #cffafe 0%, transparent 45%),
+          var(--background);
+        color: var(--foreground);
+      }
+
+      .page {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 32px 16px 48px;
+      }
+
+      .header {
+        margin-bottom: 20px;
+      }
+
+      .title {
+        margin: 0;
+        font-size: clamp(28px, 5vw, 42px);
+        line-height: 1.05;
+      }
+
+      .subtitle {
+        margin: 8px 0 0;
+        color: var(--muted-foreground);
+      }
+
+      .grid {
+        display: grid;
+        gap: 16px;
+        grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      }
+
+      /* shadcn/radix card-like structure */
+      .card {
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        background: var(--card);
+        color: var(--card-foreground);
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.06);
+        overflow: hidden;
+      }
+
+      .card-image {
+        width: 100%;
+        height: 170px;
+        object-fit: cover;
+        background: #e2e8f0;
+        display: block;
+      }
+
+      .card-header {
+        padding: 16px 16px 4px;
+      }
+
+      .card-title {
+        margin: 0;
+        font-size: 20px;
+        line-height: 1.2;
+      }
+
+      .card-description {
+        margin: 6px 0 0;
+        color: var(--muted-foreground);
+        font-size: 14px;
+      }
+
+      .card-content {
+        padding: 0 16px 12px;
+        font-size: 14px;
+      }
+
+      .meta {
+        margin: 0;
+        color: var(--muted-foreground);
+      }
+
+      .card-footer {
+        padding: 0 16px 16px;
+      }
+
+      .button {
+        display: inline-block;
+        border-radius: 8px;
+        padding: 8px 12px;
+        border: 1px solid var(--border);
+        color: var(--foreground);
+        text-decoration: none;
+        font-size: 14px;
+        transition: 160ms ease;
+      }
+
+      .button:hover {
+        border-color: var(--ring);
+        transform: translateY(-1px);
+      }
+    </style>
+  </head>
+  <body>
+    <main class="page">
+      <header class="header">
+        <h1 class="title">Font Releases</h1>
+        <p id="subtitle" class="subtitle">Загрузка релизов...</p>
+      </header>
+
+      <section id="releases" class="grid" aria-live="polite"></section>
+    </main>
+
+    <script>
+      const sources = [
+        { id: "futurefonts", path: "../data/futurefonts/2026-03-07/new_releases.json" },
+        { id: "myfonts", path: "../data/myfonts/2026-03-07/new_releases.json" },
+        { id: "type_today", path: "../data/type_today/2026-03-07/new_releases.json" }
+      ];
+
+      const fallback = [
+        {
+          source_name: "Future Fonts",
+          source_url: "https://futurefonts.xyz/",
+          name: "Demo Sans",
+          authors: ["A. Foundry"],
+          release_date: "2026-03-07",
+          image_url: null
+        },
+        {
+          source_name: "MyFonts",
+          source_url: "https://www.myfonts.com/",
+          name: "Demo Serif",
+          authors: ["Studio Beta"],
+          release_date: "2026-03-07",
+          image_url: null
+        }
+      ];
+
+      function escapeHtml(value) {
+        return String(value ?? "")
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;")
+          .replace(/"/g, "&quot;");
+      }
+
+      function releaseCardHtml(release) {
+        const title = escapeHtml(release.name || "Untitled");
+        const source = escapeHtml(release.source_name || release.source_id || "Unknown source");
+        const date = escapeHtml(release.release_date || "n/a");
+        const author = escapeHtml((release.authors || []).join(", ") || "—");
+        const url = release.source_url || "#";
+        const image = release.image_url
+          ? `<img class="card-image" src="${escapeHtml(release.image_url)}" alt="${title}" loading="lazy" />`
+          : `<div class="card-image" aria-hidden="true"></div>`;
+
+        return `
+          <article class="card">
+            ${image}
+            <header class="card-header">
+              <h2 class="card-title">${title}</h2>
+              <p class="card-description">${source}</p>
+            </header>
+            <div class="card-content">
+              <p class="meta">Дата релиза: ${date}</p>
+              <p class="meta">Автор(ы): ${author}</p>
+            </div>
+            <footer class="card-footer">
+              <a class="button" href="${escapeHtml(url)}" target="_blank" rel="noreferrer">Открыть источник</a>
+            </footer>
+          </article>
+        `;
+      }
+
+      async function loadReleases() {
+        const responses = await Promise.all(
+          sources.map(async (source) => {
+            try {
+              const response = await fetch(source.path);
+              if (!response.ok) return [];
+              return await response.json();
+            } catch {
+              return [];
+            }
+          })
+        );
+
+        const data = responses.flat();
+        return data.length ? data : fallback;
+      }
+
+      async function render() {
+        const root = document.getElementById("releases");
+        const subtitle = document.getElementById("subtitle");
+        const releases = await loadReleases();
+
+        subtitle.textContent = `Показано релизов: ${releases.length}`;
+        root.innerHTML = releases.map(releaseCardHtml).join("");
+      }
+
+      render();
+    </script>
+  </body>
+</html>
