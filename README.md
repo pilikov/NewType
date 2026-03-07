@@ -44,6 +44,19 @@ npm run dev
 Открыть в браузере:
 `http://localhost:3000`
 
+### Deploy на Vercel (минимум действий)
+1. В корне проекта запустить:
+```bash
+./deploy-vercel.sh
+```
+2. В интерактивном мастере Vercel:
+- выбрать текущий scope/account;
+- подтвердить деплой в `production`.
+
+Скрипт автоматически:
+- запускает деплой из `web/`;
+- перед билдом синхронизирует `data/` и `state/data_coverage.json` в `web/`, чтобы UI корректно работал на Vercel.
+
 Только выбранные источники:
 ```bash
 python3 -m src.main --sources myfonts,type_today

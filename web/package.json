@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "rm -rf .next && NEXT_DISABLE_DEVTOOLS=1 next dev",
+    "prebuild": "node scripts/sync-runtime-data.mjs",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
