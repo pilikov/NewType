@@ -10,24 +10,23 @@ from urllib.parse import urljoin, urlparse
 import requests
 from bs4 import BeautifulSoup
 
-from src.crawlers.futurefonts_sitemap import FutureFontsSitemapCrawler
-from src.crawlers.futurefonts_activity import FutureFontsActivityCrawler
-from src.crawlers.html_list import HtmlListCrawler
-from src.crawlers.myfonts_api import MyFontsApiCrawler
-from src.crawlers.myfonts_whats_new import MyFontsWhatsNewCrawler
-from src.crawlers.typenetwork_public_families import TypeNetworkPublicFamiliesCrawler
-from src.crawlers.type_today_journal import TypeTodayJournalCrawler
-from src.crawlers.type_today_next import TypeTodayNextCrawler
+from src.domain.run_models import RunContext, RunSummary, SourceRunSummary
 from src.models import FontRelease
+from src.orchestration.registry import build_default_crawler_registry
+from src.state.json_adapter import JsonStateAdapter
+from src.storage.json_adapter import JsonStorageAdapter
 from src.utils import download_file, dump_json, ensure_dir, load_json, sanitize_filename
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG_PATH = ROOT / "config" / "sources.json"
-STATE_PATH = ROOT / "state" / "seen_ids.json"
 DATA_DIR = ROOT / "data"
 COVERAGE_PATH = ROOT / "state" / "data_coverage.json"
 FAVICON_CACHE_PATH = ROOT / "state" / "source_favicons.json"
 FAVICON_DATA_DIR = DATA_DIR / "_meta" / "favicons"
+RUNS_DIR = ROOT / "state" / "runs"
+CRAWLER_REGISTRY = build_default_crawler_registry()
+JSON_STORAGE = JsonStorageAdapter(data_dir=DATA_DIR)
+JSON_STATE = JsonStateAdapter(seen_ids_path=ROOT / "state" / "seen_ids.json")
 
 
 def load_sources() -> list[dict]:
@@ -36,32 +35,15 @@ def load_sources() -> list[dict]:
 
 
 def load_seen_ids() -> dict[str, list[str]]:
-    return load_json(STATE_PATH, default={})
+    return JSON_STATE.load_seen_ids()
 
 
 def save_seen_ids(state: dict[str, list[str]]) -> None:
-    dump_json(STATE_PATH, state)
+    JSON_STATE.save_seen_ids(state)
 
 
 def build_crawler(source_cfg: dict):
-    mode = source_cfg.get("crawl", {}).get("mode")
-    if mode == "html_list":
-        return HtmlListCrawler(source_cfg)
-    if mode == "myfonts_api":
-        return MyFontsApiCrawler(source_cfg)
-    if mode == "myfonts_whats_new":
-        return MyFontsWhatsNewCrawler(source_cfg)
-    if mode == "type_today_next":
-        return TypeTodayNextCrawler(source_cfg)
-    if mode == "type_today_journal":
-        return TypeTodayJournalCrawler(source_cfg)
-    if mode == "futurefonts_sitemap":
-        return FutureFontsSitemapCrawler(source_cfg)
-    if mode == "futurefonts_activity":
-        return FutureFontsActivityCrawler(source_cfg)
-    if mode == "typenetwork_public_families":
-        return TypeNetworkPublicFamiliesCrawler(source_cfg)
-    raise ValueError(f"Unsupported crawl mode '{mode}' for source '{source_cfg.get('id')}'")
+    return CRAWLER_REGISTRY.build(source_cfg)
 
 
 def persist_source_results(
@@ -70,21 +52,12 @@ def persist_source_results(
     new_releases: list[FontRelease],
     period_label: str | None = None,
 ) -> Path:
-    out_dir = _source_output_dir(source_id, period_label)
-    ensure_dir(out_dir)
-
-    merged_all = _merge_release_lists(
-        _load_releases_from_file(out_dir / "all_releases.json"),
-        all_releases,
+    return JSON_STORAGE.persist_source_results(
+        source_id=source_id,
+        all_releases=all_releases,
+        new_releases=new_releases,
+        period_label=period_label,
     )
-    merged_new = _merge_release_lists(
-        _load_releases_from_file(out_dir / "new_releases.json"),
-        new_releases,
-    )
-
-    dump_json(out_dir / "all_releases.json", [r.to_dict() for r in merged_all])
-    dump_json(out_dir / "new_releases.json", [r.to_dict() for r in merged_new])
-    return out_dir
 
 
 class IncrementalSourceWriter:
@@ -99,9 +72,9 @@ class IncrementalSourceWriter:
         self.seen_ids = seen_ids
         self.period_label = period_label
         self.flush_every = max(1, flush_every)
-        self.output_dir = _source_output_dir(source_id=source_id, period_label=period_label)
-        self.all_releases: list[FontRelease] = _load_releases_from_file(self.output_dir / "all_releases.json")
-        self.new_releases: list[FontRelease] = _load_releases_from_file(self.output_dir / "new_releases.json")
+        self.output_dir = JSON_STORAGE.source_output_dir(source_id=source_id, period_label=period_label)
+        self.all_releases: list[FontRelease] = JSON_STORAGE.load_releases(self.output_dir / "all_releases.json")
+        self.new_releases: list[FontRelease] = JSON_STORAGE.load_releases(self.output_dir / "new_releases.json")
         self.current_ids: set[str] = {r.release_id for r in self.all_releases}
         self._counter = 0
         ensure_dir(self.output_dir)
@@ -119,8 +92,8 @@ class IncrementalSourceWriter:
             self.flush()
 
     def flush(self) -> None:
-        dump_json(self.output_dir / "all_releases.json", [r.to_dict() for r in self.all_releases])
-        dump_json(self.output_dir / "new_releases.json", [r.to_dict() for r in self.new_releases])
+        JSON_STORAGE.write_releases(self.output_dir / "all_releases.json", self.all_releases)
+        JSON_STORAGE.write_releases(self.output_dir / "new_releases.json", self.new_releases)
 
     def finalize(self, fallback_releases: list[FontRelease]) -> tuple[list[FontRelease], list[FontRelease], Path]:
         if not self.all_releases and fallback_releases:
@@ -166,54 +139,6 @@ def maybe_download_assets(source_cfg: dict, output_dir: Path, releases: list[Fon
             processed += 1
 
 
-def _source_output_dir(source_id: str, period_label: str | None) -> Path:
-    run_date = date.today().isoformat()
-    out_dir = DATA_DIR / source_id / run_date
-    if period_label:
-        out_dir = DATA_DIR / source_id / "periods" / period_label
-    return out_dir
-
-
-def _load_releases_from_file(path: Path) -> list[FontRelease]:
-    rows = load_json(path, default=[])
-    if not isinstance(rows, list):
-        return []
-    out: list[FontRelease] = []
-    for row in rows:
-        if not isinstance(row, dict):
-            continue
-        try:
-            out.append(
-                FontRelease(
-                    source_id=row.get("source_id") or "",
-                    source_name=row.get("source_name") or "",
-                    source_url=row.get("source_url"),
-                    name=row.get("name") or "",
-                    styles=list(row.get("styles") or []),
-                    authors=list(row.get("authors") or []),
-                    scripts=list(row.get("scripts") or []),
-                    release_date=row.get("release_date"),
-                    image_url=row.get("image_url"),
-                    woff_url=row.get("woff_url"),
-                    specimen_pdf_url=row.get("specimen_pdf_url"),
-                    discovered_at=row.get("discovered_at") or datetime.utcnow().isoformat() + "Z",
-                    raw=dict(row.get("raw") or {}),
-                )
-            )
-        except Exception:
-            continue
-    return out
-
-
-def _merge_release_lists(existing: list[FontRelease], incoming: list[FontRelease]) -> list[FontRelease]:
-    by_id: dict[str, FontRelease] = {}
-    for release in existing:
-        by_id[release.release_id] = release
-    for release in incoming:
-        by_id[release.release_id] = release
-    return list(by_id.values())
-
-
 def run(
     source_filter: set[str] | None = None,
     timeout: int = 20,
@@ -223,6 +148,11 @@ def run(
     history_weeks: int | None = None,
     history_end_date: str | None = None,
 ) -> None:
+    run_ctx = RunContext(
+        source_filter=sorted(source_filter) if source_filter else [],
+        timeout_seconds=timeout,
+    )
+    source_results: list[SourceRunSummary] = []
     sources = load_sources()
     seen_state = load_seen_ids()
     history_start, history_end = _resolve_history_range(history_weeks, history_end_date)
@@ -245,6 +175,7 @@ def run(
             source_id = source_cfg["id"]
             if source_filter and source_id not in source_filter:
                 continue
+            source_started = datetime.utcnow()
 
             if source_id == "myfonts" and (myfonts_debut_date or myfonts_start_date or myfonts_end_date):
                 source_cfg = dict(source_cfg)
@@ -297,6 +228,14 @@ def run(
                 releases = crawler.crawl(session=session, timeout=timeout)
             except Exception as e:
                 print(f"[{source_id}] crawl failed: {e}")
+                source_results.append(
+                    SourceRunSummary(
+                        source_id=source_id,
+                        status="failed",
+                        error=str(e),
+                        duration_seconds=round((datetime.utcnow() - source_started).total_seconds(), 3),
+                    )
+                )
                 continue
 
             if incremental_writer:
@@ -321,9 +260,39 @@ def run(
             print(
                 f"[{source_id}] total={len(releases)} new={len(new_releases)} output={output_dir}"
             )
+            source_results.append(
+                SourceRunSummary(
+                    source_id=source_id,
+                    status="success",
+                    total_releases=len(releases),
+                    new_releases=len(new_releases),
+                    duration_seconds=round((datetime.utcnow() - source_started).total_seconds(), 3),
+                    output_dir=str(output_dir),
+                )
+            )
 
     save_seen_ids(seen_state)
     write_data_coverage(sources)
+    run_summary = RunSummary(
+        run_id=run_ctx.run_id,
+        started_at=run_ctx.started_at,
+        finished_at=datetime.utcnow().isoformat() + "Z",
+        sources=source_results,
+    )
+    persist_run_summary(run_ctx=run_ctx, summary=run_summary)
+
+
+def persist_run_summary(run_ctx: RunContext, summary: RunSummary) -> Path:
+    ensure_dir(RUNS_DIR)
+    path = RUNS_DIR / f"{summary.run_id}.json"
+    dump_json(
+        path,
+        {
+            "context": run_ctx.to_dict(),
+            "summary": summary.to_dict(),
+        },
+    )
+    return path
 
 
 def parse_args() -> argparse.Namespace:
