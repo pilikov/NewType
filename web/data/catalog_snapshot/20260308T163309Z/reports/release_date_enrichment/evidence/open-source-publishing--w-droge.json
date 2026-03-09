@@ -1,0 +1,55 @@
+{
+  "record_id": "open-source-publishing--w-droge",
+  "source_url": "http://osp.kitchen/foundry/w-droge/",
+  "checked_at": "2026-03-09T01:50:04.131896+00:00",
+  "candidates": [
+    {
+      "date": "2011-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/w-droge/",
+      "snippet": "iceberg README.html text/html Log Alexandre Leray said — Created the skeleton of the repository Thursday, 24th February 2011 - 19:48 Eric Schrijver let loose — \"Blog contents added as README and iceberg\" Saturday, 14th A"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/w-droge/",
+      "snippet": " 24th February 2011 - 19:48 Eric Schrijver let loose — \"Blog contents added as README and iceberg\" Saturday, 14th April 2012 - 12:05 Eric Schrijver declared — \"remove README because README.html exists\" Thursday, 12th Sep"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/w-droge/",
+      "snippet": ", 14th April 2012 - 12:05 Eric Schrijver declared — \"remove README because README.html exists\" Thursday, 12th September 2013 - 16:43 Eric Schrijver comitted — Crush the skeleton, add the banner - Remove all placeholder e"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/w-droge/",
+      "snippet": " September 2013 - 19:43 Pierre Huyghebaert declared — Added a precision regarding the drawing modes Friday, 2nd January 2015 - 21:19 Ludi verbalised — De retour de Pologne avec ses alternate substitution lookup, zdrowie!"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/w-droge/",
+      "snippet": "- 21:19 Ludi verbalised — De retour de Pologne avec ses alternate substitution lookup, zdrowie! Wednesday, 10th October 2018 - 22:34 Stéphanie Vilayphiou confessed — webfonts Friday, 12th October 2018 - 09:31 These proje"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://osp.kitchen/foundry/w-droge/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "http://osp.kitchen/foundry/w-droge/",
+    "last_modified": null
+  }
+}

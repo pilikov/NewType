@@ -1,0 +1,62 @@
+{
+  "record_id": "resonay",
+  "source_url": "https://typemates.com/fonts/resonay",
+  "checked_at": "2026-03-09T01:48:32.383193+00:00",
+  "candidates": [
+    {
+      "date": "2020-12-16",
+      "score": 0.95,
+      "source_type": "jsonld:dateCreated",
+      "source_url": "https://www.typemates.com/fonts/resonay",
+      "snippet": "2020-12-16T09:36:07+01:00"
+    },
+    {
+      "date": "2021-02-02",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typemates.com/fonts/resonay",
+      "snippet": "2021-02-02T08:00:00+01:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typemates.com/fonts/resonay",
+      "snippet": "2026-03-05T11:53:35+01:00"
+    },
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/resonay",
+      "snippet": " Typographic Excellence by the Type Directors Club in 2022 and highlighted as Judges’ Choice. Specs Providing more than 2000 glyphs, 30 styles and 5 weights. Formats otf and ttf for desktop and apps, and woff and woff2 f"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/resonay",
+      "snippet": " Thin to Black —and calligraphic italics, Resonay can create stunning lettering with ease. Designed by Andrej Dieneš in 2021 TDC awarded Certificate of Typographic Excellence by the Type Directors Club in 2022 and highli"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/resonay",
+      "snippet": "ease. Designed by Andrej Dieneš in 2021 TDC awarded Certificate of Typographic Excellence by the Type Directors Club in 2022 and highlighted as Judges’ Choice. Specs Providing more than 2000 glyphs, 30 styles and 5 weigh"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typemates.com/fonts/resonay",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typemates.com/fonts/resonay",
+    "last_modified": null
+  }
+}

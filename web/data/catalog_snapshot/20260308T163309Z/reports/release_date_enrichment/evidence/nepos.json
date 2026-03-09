@@ -1,0 +1,34 @@
+{
+  "record_id": "nepos",
+  "source_url": "https://astype.de/font_d_nepos.php",
+  "checked_at": "2026-03-09T01:53:29.294966+00:00",
+  "candidates": [
+    {
+      "date": "2003-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_d_nepos.php",
+      "snippet": "as B Stencil Ornaments A Thanksgiving Wine Grape A Free Fonts: DIN Type A - Basic Presto Nepos Fonts Wood Poster Eight ©2003 – 2026 by Andreas Seidel | astype fonts RSS Feed Imprint"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_d_nepos.php",
+      "snippet": "encil Ornaments A Thanksgiving Wine Grape A Free Fonts: DIN Type A - Basic Presto Nepos Fonts Wood Poster Eight ©2003 – 2026 by Andreas Seidel | astype fonts RSS Feed Imprint"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://astype.de/font_d_nepos.php",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.astype.de/font_d_nepos.php",
+    "last_modified": null
+  }
+}

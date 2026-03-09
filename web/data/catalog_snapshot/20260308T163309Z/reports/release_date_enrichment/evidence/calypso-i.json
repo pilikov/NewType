@@ -1,0 +1,41 @@
+{
+  "record_id": "calypso-i",
+  "source_url": "https://www.typolar.com/family/index.php?id=9",
+  "checked_at": "2026-03-09T01:42:25.609961+00:00",
+  "candidates": [
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typolar.com/family/index.php?id=9",
+      "snippet": ", alternative characters, case sensitive forms and some dingbats. Designers Calypso I is designed by Jarno Lukkarila in 2010. Technical All our fonts are optimised for smooth on screen appearance on different resolutions"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typolar.com/family/index.php?id=9",
+      "snippet": "l Walmer Marker Era Grotesk Berghall Era Grotesk Outline Calypso I Heavy i 42 px i x 1.2 ≤ | ≥ x Christy Thurson on her 2021 Spring collection for Niggli Calypso I Heavy h Altis Alku Handwriting Model Neuvos Neuvos Conde"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typolar.com/family/index.php?id=9",
+      "snippet": "ng and you can cancel it any time. CONTACT US c +358 50 339 1487 a info(at)typolar.com b Facebook b Twitter b Bēhance ©2025 Typolar Ltd. All Rights Reserved. Typolar holds rights to all material at this website unless s"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.typolar.com/family/index.php?id=9",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typolar.com/family/index.php?id=9",
+    "last_modified": null
+  }
+}

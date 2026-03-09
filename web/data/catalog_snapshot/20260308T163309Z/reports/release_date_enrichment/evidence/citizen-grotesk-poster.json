@@ -1,0 +1,19 @@
+{
+  "record_id": "citizen-grotesk-poster",
+  "source_url": "https://altiplano.xyz/en/explore/citizen-grotesk-poster",
+  "checked_at": "2026-03-09T01:37:55.036132+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://altiplano.xyz/en/explore/citizen-grotesk-poster",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='altiplano.xyz', port=443): Read timed out. (read timeout=12)"
+  }
+}

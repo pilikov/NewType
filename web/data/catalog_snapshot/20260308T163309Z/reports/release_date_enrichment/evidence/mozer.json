@@ -1,0 +1,62 @@
+{
+  "record_id": "mozer",
+  "source_url": "https://fontfabric.com/typefaces/mozer",
+  "checked_at": "2026-03-09T01:53:50.563326+00:00",
+  "candidates": [
+    {
+      "date": "2019-06-17",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.fontfabric.com/fonts/mozer/",
+      "snippet": "2019-06-17T07:23:01+00:00"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/mozer/",
+      "snippet": "more fonts and licenses to buy. Checkout About Mozer is a semi-condensed, neo-grotesque sans-serif typeface released in 2019. Designed with a generous x-height, economical width, and subtle ink traps, Mozer expertly bala"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.fontfabric.com/fonts/mozer/",
+      "snippet": "2026-03-05T11:01:13+00:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.fontfabric.com/fonts/mozer/",
+      "snippet": "2026-03-05T11:01:13+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/mozer/",
+      "snippet": "pt fonts Font sale Free fonts Fonts in use Font collections Legal Infringements About Help Blog Partnerships Contact us 2026 © Fontfabric llc. Privacy Notice Manage Cookies"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.fontfabric.com/fonts/mozer/",
+      "snippet": "Mon, 09 Mar 2026 01:49:10 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fontfabric.com/typefaces/mozer",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.fontfabric.com/fonts/mozer/",
+    "last_modified": "Mon, 09 Mar 2026 01:49:10 GMT"
+  }
+}

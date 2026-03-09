@@ -1,0 +1,69 @@
+{
+  "record_id": "apk-protocol",
+  "source_url": "https://apk-type.com/typefaces/apk-protocol",
+  "checked_at": "2026-03-09T01:40:01.765609+00:00",
+  "candidates": [
+    {
+      "date": "2022-12-30",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://apk-type.com/family/apk-protocol/",
+      "snippet": "2022-12-30T07:38:38+00:00"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://apk-type.com/family/apk-protocol/",
+      "snippet": "ther with swiss based type developer Maël Bächtold the Regular was expanded into a complete font family and released in 2021. In 2023 Protocol was revised, improved and the family extended with a Medium weight. Font Desk"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://apk-type.com/family/apk-protocol/",
+      "snippet": " swiss based type developer Maël Bächtold the Regular was expanded into a complete font family and released in 2021. In 2023 Protocol was revised, improved and the family extended with a Medium weight. Font Desktop Webfo"
+    },
+    {
+      "date": "2026-01-19",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://apk-type.com/family/apk-protocol/",
+      "snippet": "2026-01-19T15:52:13+00:00"
+    },
+    {
+      "date": "2026-01-19",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://apk-type.com/family/apk-protocol/",
+      "snippet": "2026-01-19T15:52:13+00:00"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://apk-type.com/family/apk-protocol/",
+      "snippet": "a tight spacing between letters, giving it a dense and solid appearance. The outlines of this typeface were designed in 2018. In 2020 a beta version of APK Protocol Regular was made. Together with swiss based type develo"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://apk-type.com/family/apk-protocol/",
+      "snippet": "pacing between letters, giving it a dense and solid appearance. The outlines of this typeface were designed in 2018. In 2020 a beta version of APK Protocol Regular was made. Together with swiss based type developer Maël "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://apk-type.com/typefaces/apk-protocol",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://apk-type.com/family/apk-protocol/",
+    "last_modified": null
+  }
+}

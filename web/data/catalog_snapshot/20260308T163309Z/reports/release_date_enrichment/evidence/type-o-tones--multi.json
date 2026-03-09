@@ -1,0 +1,27 @@
+{
+  "record_id": "type-o-tones--multi",
+  "source_url": "https://type-o-tones.com/fonts/multi",
+  "checked_at": "2026-03-09T01:42:54.911565+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/multi",
+      "snippet": "r, Text Regular Italic, Text SemiBold, Text SemiBold Italic, Text Bold, Text Bold Italic Author Laura Meseguer Creation 2016 Actual version 1 Styles 20 Character sets Basic Latin / Latin-1 Suplement / Latin-2 Central Eur"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://type-o-tones.com/fonts/multi",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://type-o-tones.com/fonts/multi",
+    "last_modified": null
+  }
+}

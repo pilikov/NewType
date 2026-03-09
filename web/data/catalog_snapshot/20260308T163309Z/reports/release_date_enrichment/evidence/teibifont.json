@@ -1,0 +1,27 @@
+{
+  "record_id": "teibifont",
+  "source_url": "https://www.suvatypefoundry.ee/teibifont/",
+  "checked_at": "2026-03-09T02:01:46.264701+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/teibifont/",
+      "snippet": "REVIOUS FONT TEIBIFONT NEXT FONT M W J X E Q N DOWNLOAD O S D B A I P Z C R Y G L U V K T F H TEIBIFONT by Andree Paat (2016) A font inspired by duct tape created for the Interior Architecture department of the EKA. Supe"
+    },
+    {
+      "date": "2026-02-10",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/teibifont/",
+      "snippet": "2026-02-10"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/teibifont/",
+    "last_modified": null
+  }
+}

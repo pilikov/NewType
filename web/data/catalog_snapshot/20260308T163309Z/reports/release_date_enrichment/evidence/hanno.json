@@ -1,0 +1,27 @@
+{
+  "record_id": "hanno",
+  "source_url": "https://www.thatthattype.com/fonts/hanno",
+  "checked_at": "2026-03-09T01:41:54.063782+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thatthattype.com/fonts/hanno",
+      "snippet": "That That Type: Hanno Fonts License Free Trial Fonts About Log in Hanno mid century modern sans serif font © 2026 That That Type"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.thatthattype.com/fonts/hanno",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.thatthattype.com/fonts/hanno",
+    "last_modified": null
+  }
+}

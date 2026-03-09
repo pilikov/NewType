@@ -1,0 +1,34 @@
+{
+  "record_id": "marsel",
+  "source_url": "https://www.apextypefoundry.com/categorie-produit/marsel/",
+  "checked_at": "2026-03-09T01:43:10.341178+00:00",
+  "candidates": [
+    {
+      "date": "2014-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.apextypefoundry.com/categorie-produit/marsel/",
+      "snippet": "rsel 3 Thin Medium 120 € Add to cart Marsel 3 Thin Small 80 € Add to cart Marsel 3 Thin Solo 60 € Add to cart 1 2 3 → © 2014-2024 – Apex Type Foundry Instagram Newsletter Login × product(s) added to cart → × Login Sign U"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.apextypefoundry.com/categorie-produit/marsel/",
+      "snippet": "3 Thin Medium 120 € Add to cart Marsel 3 Thin Small 80 € Add to cart Marsel 3 Thin Solo 60 € Add to cart 1 2 3 → © 2014-2024 – Apex Type Foundry Instagram Newsletter Login × product(s) added to cart → × Login Sign Up Rem"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.apextypefoundry.com/categorie-produit/marsel/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.apextypefoundry.com/categorie-produit/marsel/",
+    "last_modified": null
+  }
+}

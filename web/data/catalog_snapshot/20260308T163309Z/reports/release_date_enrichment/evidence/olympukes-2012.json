@@ -1,0 +1,76 @@
+{
+  "record_id": "olympukes-2012",
+  "source_url": "https://barnbrook.net/typefaces/olympukes-2012",
+  "checked_at": "2026-03-09T01:52:47.348950+00:00",
+  "candidates": [
+    {
+      "date": "2016-06-01",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://barnbrook.net/typefaces/olympukes-2012/",
+      "snippet": "2016-06-01T15:44:02+00:00"
+    },
+    {
+      "date": "2004-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://barnbrook.net/typefaces/olympukes-2012/",
+      "snippet": "as a new set of pictograms telling the ‘real’ story of the Olympics and extending the unofficial project which began in 2004. The occasion of the London games provided an opportunity to revisit the complex contradictions"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://barnbrook.net/typefaces/olympukes-2012/",
+      "snippet": "nts Jonathan Barnbrook Search Buy Buy Olympukes 2012 Dark ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxy Olympukes 2012 Light ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxy Olympukes 2012 Released on the occasi"
+    },
+    {
+      "date": "2025-09-18",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://barnbrook.net/typefaces/olympukes-2012/",
+      "snippet": "2025-09-18T23:04:40+00:00"
+    },
+    {
+      "date": "2025-09-18",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://barnbrook.net/typefaces/olympukes-2012/",
+      "snippet": "2025-09-18T23:04:40+00:00"
+    },
+    {
+      "date": "2007-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://barnbrook.net/typefaces/olympukes-2012/",
+      "snippet": "k’s contribution to design was recognised with a retrospective at the Design Museum in London entitled Friendly Fire in 2007 and at Ginza Graphic Gallery in 2004. A touring exhibition if the studio’s work Collateral Dama"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://barnbrook.net/typefaces/olympukes-2012/",
+      "snippet": "r teaching and lecturing worldwide. Awards 59th Annual Grammy Awards – Winner of Best Recording Package for Blackstar , 2016 The Design Museum Beazley Design of The Year – Winner of Graphic Design of the Year for Blackst"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://barnbrook.net/typefaces/olympukes-2012/",
+      "snippet": "Sun, 08 Mar 2026 16:57:46 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://barnbrook.net/typefaces/olympukes-2012",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://barnbrook.net/typefaces/olympukes-2012/",
+    "last_modified": "Sun, 08 Mar 2026 16:57:46 GMT"
+  }
+}

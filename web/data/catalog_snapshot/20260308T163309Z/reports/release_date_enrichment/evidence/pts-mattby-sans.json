@@ -1,0 +1,62 @@
+{
+  "record_id": "pts-mattby-sans",
+  "source_url": "https://www.paavolatype.com/typefaces/pts-mattby-sans",
+  "checked_at": "2026-03-09T01:49:48.060904+00:00",
+  "candidates": [
+    {
+      "date": "2025-10-21",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.paavolatype.com/pts-mattby-sans/",
+      "snippet": "2025-10-21T17:45:41+00:00"
+    },
+    {
+      "date": "2025-10-21",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://www.paavolatype.com/pts-mattby-sans/",
+      "snippet": "2025-10-21T17:45:41+00:00"
+    },
+    {
+      "date": "2025-10-21",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.paavolatype.com/pts-mattby-sans/",
+      "snippet": "2025-10-21T17:47:18+00:00"
+    },
+    {
+      "date": "2025-10-21",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.paavolatype.com/pts-mattby-sans/",
+      "snippet": "2025-10-21T17:47:18+00:00"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.paavolatype.com/pts-mattby-sans/",
+      "snippet": " Winkell Test fonts About PTS Mattby Sans PTS Mattby Sans is a family based on Mattby Display, a two cut family created 2022. Featuring clean geometry, versatile functionality and timeless aesthetic, making PTS Mattby Sa"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.paavolatype.com/pts-mattby-sans/",
+      "snippet": "ly designed Numero character (unicode 2116). Licenses Test fonts Privacy Policy Cookie Policy EULA Terms & conditions © 2026 Paavola Type Studio Manage Cookie Consent We use cookies to optimize our website and our servic"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.paavolatype.com/typefaces/pts-mattby-sans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.paavolatype.com/pts-mattby-sans/",
+    "last_modified": null
+  }
+}

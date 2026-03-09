@@ -1,0 +1,34 @@
+{
+  "record_id": "dahlia",
+  "source_url": "https://vj-type.com/16-dahlia",
+  "checked_at": "2026-03-09T01:43:43.701675+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://vj-type.com/16-dahlia",
+      "snippet": "                          6 weights Bold, Bold Condensed, Medium, Medium Condensed, Regular & Regular Condensed Release 2021 Designer Jérémy Schneider Version 1.0 Specimen PDF License PDF Dahlia typeface grew from a land"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://vj-type.com/16-dahlia",
+      "snippet": "efunds Delivery Infos About Prints Contact Font Licences Font Radar Privacy Legals Terms of Use Terms of Sales To top © 2026 VJ TYPE, all rights reserved Site by Troa"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://vj-type.com/16-dahlia",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://vj-type.com/16-dahlia",
+    "last_modified": null
+  }
+}

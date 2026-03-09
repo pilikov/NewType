@@ -1,0 +1,20 @@
+{
+  "record_id": "oddmono",
+  "source_url": "https://metis-foundry.com/typefaces/oddmono",
+  "checked_at": "2026-03-09T01:43:28.673612+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://metis-foundry.com/typefaces/oddmono",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://metis-foundry.com/oddmono/",
+    "last_modified": null
+  }
+}

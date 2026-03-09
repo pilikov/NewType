@@ -1,0 +1,62 @@
+{
+  "record_id": "hill",
+  "source_url": "https://playtype.com/typefaces/hill",
+  "checked_at": "2026-03-09T02:02:58.739456+00:00",
+  "candidates": [
+    {
+      "date": "2019-10-02",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://playtype.com/typefaces/hill/",
+      "snippet": "2019-10-02T07:41:35+00:00"
+    },
+    {
+      "date": "2005-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://playtype.com/typefaces/hill/",
+      "snippet": "ext Font Buy from 50€ Thin Light Regular Demibold Bold Black Hill Buy from 50€ Styles 6 Designer Jonas Hecksher Release 2005 Hill is a straight up and neutral grotesque with a calm and friendly attitude. The design is ba"
+    },
+    {
+      "date": "2025-06-26",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://playtype.com/typefaces/hill/",
+      "snippet": "2025-06-26T09:21:14+00:00"
+    },
+    {
+      "date": "2025-06-26",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://playtype.com/typefaces/hill/",
+      "snippet": "2025-06-26T09:21:14+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://playtype.com/typefaces/hill/",
+      "snippet": "rty of their respective owners and no endorsement or derogation is intended or inferred. All other content, copyright © 2026 Playtype. All rights reserved."
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://playtype.com/typefaces/hill/",
+      "snippet": "Fri, 06 Mar 2026 16:21:01 GMT"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://playtype.com/typefaces/hill",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://playtype.com/typefaces/hill/",
+    "last_modified": "Fri, 06 Mar 2026 16:21:01 GMT"
+  }
+}

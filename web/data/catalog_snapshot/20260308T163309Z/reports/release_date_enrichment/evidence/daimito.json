@@ -1,0 +1,27 @@
+{
+  "record_id": "daimito",
+  "source_url": "https://bigtype.co/daimito",
+  "checked_at": "2026-03-09T01:55:01.874000+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://bigtype.co/daimito",
+      "snippet": "ms for designers who care about every nuance of their work. Buy Daimito @ Blaze Type You may also like Intermedial Slab 2024 Slimak 2024 Seraphine 2024 ↑ Back to Top © 2024 Big Type | All rights reserved"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://bigtype.co/daimito",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://bigtype.co/daimito",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "record_id": "true-serif",
+  "source_url": "https://bold-decisions.biz/typefaces/true-serif",
+  "checked_at": "2026-03-09T02:03:55.717884+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://bold-decisions.biz/typefaces/true-serif",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://bold-decisions.biz/typefaces/true-serif",
+    "last_modified": null
+  }
+}

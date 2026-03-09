@@ -1,0 +1,48 @@
+{
+  "record_id": "gotico-antiqua",
+  "source_url": "https://anrt-nancy.fr/fr/fonts/gotico-antiqua",
+  "checked_at": "2026-03-09T01:46:35.049416+00:00",
+  "candidates": [
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://anrt-nancy.fr/fr/fonts/gotico-antiqua",
+      "snippet": "ique ANRT Présentation Projets Candidature Recherche Publications Vidéos Articles Fontes Journal en Gotico-Antiqua Info 2015–2018 Rafaël Ribas, Alexis Faudot, Jérôme Knebusch Dans le cadre du programme de recherche Gotic"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://anrt-nancy.fr/fr/fonts/gotico-antiqua",
+      "snippet": "ride ( http://gotico-antiqua.anrt-nancy.fr ), Rafael Ribas & Alexis Faudot Rafael Ribas, étudiants-chercheurs à l’ANRT (2017–2019), ont produit quatorze fontes et un ensemble de lettres initiales. Fondés sur une série d'"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://anrt-nancy.fr/fr/fonts/gotico-antiqua",
+      "snippet": "ANRT Présentation Projets Candidature Recherche Publications Vidéos Articles Fontes Journal en Gotico-Antiqua Info 2015–2018 Rafaël Ribas, Alexis Faudot, Jérôme Knebusch Dans le cadre du programme de recherche Gotico-Ant"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://anrt-nancy.fr/fr/fonts/gotico-antiqua",
+      "snippet": "( http://gotico-antiqua.anrt-nancy.fr ), Rafael Ribas & Alexis Faudot Rafael Ribas, étudiants-chercheurs à l’ANRT (2017–2019), ont produit quatorze fontes et un ensemble de lettres initiales. Fondés sur une série d'ateli"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://anrt-nancy.fr/fr/fonts/gotico-antiqua",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://anrt-nancy.fr/fr/fonts/gotico-antiqua",
+    "last_modified": null
+  }
+}

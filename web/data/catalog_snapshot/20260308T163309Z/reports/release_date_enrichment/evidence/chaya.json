@@ -1,0 +1,27 @@
+{
+  "record_id": "chaya",
+  "source_url": "https://kevinfoleyfonts.com/chaya",
+  "checked_at": "2026-03-09T01:42:45.283490+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kevinfoleyfonts.com/chaya",
+      "snippet": "ined yet bold look and is meant to be used for titles and at large sizes. Original sketches ↑ Back to Top © Kevin Foley 2025 This website uses cookies to improve your experience and analyze site traffic. By clicking \"Acc"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://kevinfoleyfonts.com/chaya",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://kevinfoleyfonts.com/chaya",
+    "last_modified": null
+  }
+}

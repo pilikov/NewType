@@ -1,0 +1,27 @@
+{
+  "record_id": "shantell-sans",
+  "source_url": "https://shantellsans.com/",
+  "checked_at": "2026-03-09T01:47:13.868492+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://shantellsans.com/",
+      "snippet": "Mon, 16 Dec 2024 23:35:12 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://shantellsans.com/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://shantellsans.com/",
+    "last_modified": "Mon, 16 Dec 2024 23:35:12 GMT"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "factor-a",
+  "source_url": "https://intervaltype.com/typefaces/factor-a",
+  "checked_at": "2026-03-09T01:45:29.274771+00:00",
+  "candidates": [
+    {
+      "date": "2003-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://intervaltype.com/product/factor-a-variable/",
+      "snippet": "rA Regular Default Set Funk It Up Neutral 'f' and 't' Rounded lowercase Slashed Zero BUY Slava Pestov created Factor in 2003 as a scripting language for a video game. The initial implementation, now referred to as JFacto"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://intervaltype.com/product/factor-a-variable/",
+      "snippet": "s Custom Info+ Login Desktop license Web license App license Trial license Terms & Conditions Privacy Policy Copyright ©2019 All Rights Reserved. FactorA Ultralight FactorA Ultralight Italic FactorA Light FactorA Light I"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://intervaltype.com/product/factor-a-variable/",
+      "snippet": "top license Web license App license Trial license Terms & Conditions Privacy Policy E-mail Instagram Behance Copyright ©2026 All Rights Reserved."
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://intervaltype.com/typefaces/factor-a",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://intervaltype.com/product/factor-a-variable/",
+    "last_modified": null
+  }
+}

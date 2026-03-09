@@ -1,0 +1,62 @@
+{
+  "record_id": "ops-favorite",
+  "source_url": "http://ourpolitesocietytype.net/typefaces/ops-favorite",
+  "checked_at": "2026-03-09T01:58:42.301642+00:00",
+  "candidates": [
+    {
+      "date": "1999-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://ops-type.com/typefaces/ops-favorite/Text",
+      "snippet": "on University Press, 2006). 3. Friedrich A. Kittler, Gramophone, Film, Typewriter (Stanford: Stanford University Press, 1999), pp. 230–231. 4. C. Bertil Nyströmer, The Åtvidaberg International Review, ‘New strategy in Fa"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://ops-type.com/typefaces/ops-favorite/Text",
+      "snippet": "the design of today’s Apple products. [...] For the full text, see: Our Polite Society: The FACIT Model (Spector Books, 2019). 1. D.J. Enright, The Typewriter Revolution and Other Poems, New York: Library Press, 1971. p "
+    },
+    {
+      "date": "2006-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ops-type.com/typefaces/ops-favorite/Text",
+      "snippet": " Press, 1971. p 5. 2. Mauro F. Guillén, The Taylorized Beauty of the Mechanical (Princeton: Princeton University Press, 2006). 3. Friedrich A. Kittler, Gramophone, Film, Typewriter (Stanford: Stanford University Press, 1"
+    },
+    {
+      "date": "2016-04-13",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ops-type.com/typefaces/ops-favorite/Text",
+      "snippet": "st and Simone Lai, “Story of cities #21: Olivetti tries to build the ideal ‘human city’ for its workers”, The Guardian, April 13, 2016 . (last visited: 14 March 2019). I. In his 1971 poem, “The Typewriter Revolution”, Br"
+    },
+    {
+      "date": "2019-03-14",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ops-type.com/typefaces/ops-favorite/Text",
+      "snippet": "ies #21: Olivetti tries to build the ideal ‘human city’ for its workers”, The Guardian, April 13, 2016 . (last visited: 14 March 2019). I. In his 1971 poem, “The Typewriter Revolution”, British writer and critic D.J. Enr"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ops-type.com/typefaces/ops-favorite/Text",
+      "snippet": "y’ for its workers”, The Guardian, April 13, 2016 . (last visited: 14 March 2019). text specimen writer Buy Copyright © 2026 OPS Type. All rights reserved."
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://ourpolitesocietytype.net/typefaces/ops-favorite",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ops-type.com/typefaces/ops-favorite/Text",
+    "last_modified": null
+  }
+}

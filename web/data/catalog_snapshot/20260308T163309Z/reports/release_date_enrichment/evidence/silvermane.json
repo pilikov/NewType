@@ -1,0 +1,34 @@
+{
+  "record_id": "silvermane",
+  "source_url": "https://trashtype.com/silvermane",
+  "checked_at": "2026-03-09T02:01:17.470862+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://trashtype.com/silvermane",
+      "snippet": "y Zane Grey * Silvermane not enough horsepower for you? Peruse our other wares, partner. GORP PROGORP brooklyn new york 2025 TrashType Overview Type Tester Glyphs Usage Examples Download Trial Silvermane Alpha Silvermane"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://trashtype.com/silvermane",
+      "snippet": "Mon, 26 Jan 2026 23:21:39 GMT"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://trashtype.com/silvermane",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://trashtype.com/silvermane",
+    "last_modified": "Mon, 26 Jan 2026 23:21:39 GMT"
+  }
+}

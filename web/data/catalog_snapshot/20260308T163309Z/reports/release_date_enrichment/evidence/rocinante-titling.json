@@ -1,0 +1,27 @@
+{
+  "record_id": "rocinante-titling",
+  "source_url": "https://xotype.co/typefaces/rocinante-titling",
+  "checked_at": "2026-03-09T01:50:10.684515+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://xotype.co/typefaces/rocinante-titling",
+      "snippet": " a specimen See, test, and buy it. | Download a specimen Contact XO | Mailing List | Why \"XO\"? | Services | Licensing © 2026 The Type Founders, LLC | email social_instagram M"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://xotype.co/typefaces/rocinante-titling",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://xotype.co/typefaces/rocinante-titling",
+    "last_modified": null
+  }
+}

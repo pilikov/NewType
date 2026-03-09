@@ -1,0 +1,27 @@
+{
+  "record_id": "the-times-apex",
+  "source_url": "https://www.suvatypefoundry.ee/the-times-apex/",
+  "checked_at": "2026-03-09T02:01:47.718353+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/the-times-apex/",
+      "snippet": " THE TIMES APEX NEXT FONT P R W Q Z O Y B H DOWNLOAD T A E X V D C K U G I S N F M J L THE TIMES APEX by Urmet Piiling (2020) Sharing some similarities with its structural father Times New Roman, The Times Apex aims to b"
+    },
+    {
+      "date": "2026-02-10",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/the-times-apex/",
+      "snippet": "2026-02-10"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/the-times-apex/",
+    "last_modified": null
+  }
+}

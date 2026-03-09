@@ -1,0 +1,15 @@
+{
+  "input_releases": 5437,
+  "service_corpus_releases": 820,
+  "match_counts": {
+    "unmatched": 5434,
+    "matched_medium": 2,
+    "matched_high": 1
+  },
+  "matched_total": 3,
+  "match_rate_percent": 0.06,
+  "files": {
+    "json": "data/catalog_snapshot/20260308T163309Z/reports/release_date_enrichment/releases_since_2026_service_match.json",
+    "csv": "data/catalog_snapshot/20260308T163309Z/reports/release_date_enrichment/releases_since_2026_service_match.csv"
+  }
+}

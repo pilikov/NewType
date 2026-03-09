@@ -1,0 +1,20 @@
+{
+  "record_id": "stereo-typefaces--mollywood",
+  "source_url": "https://www.stereo-type.fr/fonts/mollywood/",
+  "checked_at": "2026-03-08T16:58:35.477466+00:00",
+  "candidates": [
+    {
+      "date": "2026-03-07",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.stereo-type.fr/fonts/mollywood/",
+      "snippet": "2026-03-07"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.stereo-type.fr/fonts/mollywood/",
+    "last_modified": null
+  }
+}

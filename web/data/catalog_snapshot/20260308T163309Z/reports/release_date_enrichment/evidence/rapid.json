@@ -1,0 +1,55 @@
+{
+  "record_id": "rapid",
+  "source_url": "https://www.sourcetype.com/typefaces/2530/rapid",
+  "checked_at": "2026-03-09T01:49:54.376336+00:00",
+  "candidates": [
+    {
+      "date": "1990-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.sourcetype.com/typefaces/2530/rapid",
+      "snippet": "“Use Hearing Protection” for Hacienda 51 Club (1978) 9/11 Haçienda logotype, Julian Morey for Peter Saville Associates (1990) 10/11 Wipeout 2097, The Designers Republic (1996) 11/11 10th Anniversary Sony Mini Disc (2002)"
+    },
+    {
+      "date": "1992-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.sourcetype.com/typefaces/2530/rapid",
+      "snippet": ") 10/11 Wipeout 2097, The Designers Republic (1996) 11/11 10th Anniversary Sony Mini Disc (2002) originally released in 1992 11 Type Specimen W3siaWQiOiI1MjYxIiwidHlwZSI6InNhbXBsZSIsIndpZHRoIjoieGxhcmdlIiwiZGlzcGxheW9uIj"
+    },
+    {
+      "date": "1996-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.sourcetype.com/typefaces/2530/rapid",
+      "snippet": "8) 9/11 Haçienda logotype, Julian Morey for Peter Saville Associates (1990) 10/11 Wipeout 2097, The Designers Republic (1996) 11/11 10th Anniversary Sony Mini Disc (2002) originally released in 1992 11 Type Specimen W3si"
+    },
+    {
+      "date": "2002-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.sourcetype.com/typefaces/2530/rapid",
+      "snippet": "eter Saville Associates (1990) 10/11 Wipeout 2097, The Designers Republic (1996) 11/11 10th Anniversary Sony Mini Disc (2002) originally released in 1992 11 Type Specimen W3siaWQiOiI1MjYxIiwidHlwZSI6InNhbXBsZSIsIndpZHRoI"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.sourcetype.com/typefaces/2530/rapid",
+      "snippet": "r time and space-traveling typographic needs. ST Rapid is designed by Laurenz Brunner, first released by Source Type in 2022. Available Styles Regular Regular Wide Regular Extended Medium Medium Wide Medium Extended Bold"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.sourcetype.com/typefaces/2530/rapid",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.sourcetype.com/typefaces/2530/rapid",
+    "last_modified": null
+  }
+}

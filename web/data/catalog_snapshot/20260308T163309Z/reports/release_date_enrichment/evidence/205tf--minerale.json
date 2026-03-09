@@ -1,0 +1,34 @@
+{
+  "record_id": "205tf--minerale",
+  "source_url": "https://www.205.tf/minerale",
+  "checked_at": "2026-03-09T01:59:19.519635+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/minerale",
+      "snippet": "ur newsletter: ▶︎ Follow Us Facebook Instagram LinkedIn Bluesky Typeface Minérale Designer Thomas Huot-Marchand Release 2018 Fonts In Use Article Specimen Minérale is a typeface designed with unusual stems, whose sides i"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/minerale",
+      "snippet": "tion (IMA) is the generally recognized standard body for the definition and nomenclature of mineral species. As of July 2024, the IMA recognizes 6,062 official mineral species. The chemical composition of a named mineral"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.205.tf/minerale",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.205.tf/minerale",
+    "last_modified": null
+  }
+}

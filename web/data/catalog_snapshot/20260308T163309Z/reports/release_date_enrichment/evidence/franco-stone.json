@@ -1,0 +1,48 @@
+{
+  "record_id": "franco-stone",
+  "source_url": "https://www.c-a-s-t.com/typefaces/franco-stone",
+  "checked_at": "2026-03-09T01:37:22.709440+00:00",
+  "candidates": [
+    {
+      "date": "2001-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/franco-stone/",
+      "snippet": "ovanni Lussu in ‘Traiano redivivo’ and included into the miscellany Radici della scrittura moderna (Stampa Alternativa, 2001). Styles ExtraLight OpenType Features Discretionary Ligatures Discretionary Ligatures Discretio"
+    },
+    {
+      "date": "2005-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/franco-stone/",
+      "snippet": " For more information see James Mosley, ‘Giovan Francesco Cresci and the baroque letter in Rome’, Typography papers, 6 (2005), pp. 115–55. Mosley’s classical essay ‘Trajan revived’ (Alphabet, 1964) was translated into It"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/franco-stone/",
+      "snippet": "or Optima made on a 1000 Lira banknote while visiting Florence in 1950. Shown at the Cary Graphic Arts Collection, RTI, 2018. The central role of carved lettering Another source of inspiration was the work of contemporar"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/franco-stone/",
+      "snippet": "oga, Somali, Spanish, Swahili, Swedish, Swiss German, Taita, Teso, Uzbek (Latin), Volapük, Vunjo, Zulu Production years 2020 Additional info Franco Stone: delicate but assertive Wherever a display text must be assertive "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.c-a-s-t.com/typefaces/franco-stone",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.c-a-s-t.com/typefaces/franco-stone/",
+    "last_modified": null
+  }
+}

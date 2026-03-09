@@ -1,0 +1,27 @@
+{
+  "record_id": "o-fortuna",
+  "source_url": "https://www.suvatypefoundry.ee/o-fortuna/",
+  "checked_at": "2026-03-09T01:51:35.010286+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/o-fortuna/",
+      "snippet": "NT O FORTUNA NEXT FONT R S E X Q H B M O Y N W G J D P U T K V I L DOWNLOAD C Z F A O FORTUNA by Anastassia Tšepaikina (2017) A serif font inspired by 19th-century fonts. Made during typography class from a few existing "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/o-fortuna/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/o-fortuna/",
+    "last_modified": null
+  }
+}

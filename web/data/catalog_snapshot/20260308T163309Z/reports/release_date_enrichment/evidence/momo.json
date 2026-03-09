@@ -1,0 +1,48 @@
+{
+  "record_id": "momo",
+  "source_url": "https://notyourtype.nl/typefaces/momo",
+  "checked_at": "2026-03-09T01:56:07.831412+00:00",
+  "candidates": [
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.notyourtype.nl/typefaces/momo",
+      "snippet": "umber of people working for the company. < 3 < 10 < 25 < 50 < 100 < 150 < 250 < 500 < 750 < 1000 < 1250 < 1500 < 1750 < 2000 < 2500 < 3000 < 5000 >= 5000 Select Licenses Choose which licenses you want for your selected f"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.notyourtype.nl/typefaces/momo",
+      "snippet": " you believe that you are experiencing a bug? Please tell us everything ! Make sure to add as much detail as you can :) 2021 - 2026, notyourtypefoundry All Rights Reserved. Updating cart... Your cart Your cart is empty. "
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.notyourtype.nl/typefaces/momo",
+      "snippet": "tyourtypefoundry notyourtypefoundry cart ( 0 ) Typefaces Discoveries Tools Licenses Info Typefaces momo By Xiaoyuan Gao 2023 8 styles momo is a cute, weird, chunky, modular typeface inspired by ASCII art. It wanted to be"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.notyourtype.nl/typefaces/momo",
+      "snippet": "lieve that you are experiencing a bug? Please tell us everything ! Make sure to add as much detail as you can :) 2021 - 2026, notyourtypefoundry All Rights Reserved. Updating cart... Your cart Your cart is empty. This we"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://notyourtype.nl/typefaces/momo",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.notyourtype.nl/typefaces/momo",
+    "last_modified": null
+  }
+}

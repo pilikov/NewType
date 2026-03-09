@@ -1,0 +1,48 @@
+{
+  "record_id": "conto-slab",
+  "source_url": "https://typemates.com/fonts/conto-slab",
+  "checked_at": "2026-03-09T01:54:44.279611+00:00",
+  "candidates": [
+    {
+      "date": "2016-08-31",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typemates.com/fonts/conto-slab",
+      "snippet": "2016-08-31T14:47:00+02:00"
+    },
+    {
+      "date": "2016-08-31",
+      "score": 0.95,
+      "source_type": "jsonld:dateCreated",
+      "source_url": "https://www.typemates.com/fonts/conto-slab",
+      "snippet": "2016-08-31T14:42:26+02:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typemates.com/fonts/conto-slab",
+      "snippet": "2026-03-05T12:11:15+01:00"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/conto-slab",
+      "snippet": "erious typography are matched in each weight with case and small-cap sensitive punctuation. Designed by Nils Thomsen in 2014 Specs Providing 8 weights + italics with 850 glyphs per font and 100 fancy ligatures Formats ot"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typemates.com/fonts/conto-slab",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typemates.com/fonts/conto-slab",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "record_id": "sophia-nubian",
+  "source_url": "https://software.sil.org/sophianubian",
+  "checked_at": "2026-03-09T01:49:19.801798+00:00",
+  "candidates": [
+    {
+      "date": "2019-03-13",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://software.sil.org/sophianubian/",
+      "snippet": "2019-03-13T16:09:02+00:00"
+    },
+    {
+      "date": "2019-03-13",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://software.sil.org/sophianubian/",
+      "snippet": "2019-03-13T16:09:02+00:00"
+    },
+    {
+      "date": "2025-09-17",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://software.sil.org/sophianubian/",
+      "snippet": "2025-09-17T20:14:48+00:00"
+    },
+    {
+      "date": "2025-09-17",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://software.sil.org/sophianubian/",
+      "snippet": "2025-09-17T20:14:48+00:00"
+    },
+    {
+      "date": "2008-10-13",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/sophianubian/",
+      "snippet": "L) Fonts Version Platform Details Sophia Nubian 1.0 for all platforms FONT                 | 185.6 KB                 | 13 Oct 2008 Sophia Nubian source files 1.0 for all platforms FONT                 | 325.5 KB        "
+    },
+    {
+      "date": "2009-08-27",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/sophianubian/",
+      "snippet": "       | 13 Oct 2008 Sophia Nubian source files 1.0 for all platforms FONT                 | 325.5 KB                 | 27 Aug 2009 “Sophia Nubian source files 1.0” contains the same files as “Sophia Nubian 1.0” – plus t"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/sophianubian/",
+      "snippet": "Language Software Forum Scripture Software Forum General Software Support Serve with Us About Us Contact Us Copyright © 2026 SIL Global Terms of Use Privacy Policy"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://software.sil.org/sophianubian/",
+      "snippet": "Mon, 09 Mar 2026 00:20:53 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://software.sil.org/sophianubian",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://software.sil.org/sophianubian/",
+    "last_modified": "Mon, 09 Mar 2026 00:20:53 GMT"
+  }
+}

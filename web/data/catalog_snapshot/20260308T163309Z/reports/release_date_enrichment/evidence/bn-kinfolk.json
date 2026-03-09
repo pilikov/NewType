@@ -1,0 +1,27 @@
+{
+  "record_id": "bn-kinfolk",
+  "source_url": "https://www.bnicks.com/shop/p/kinfolk",
+  "checked_at": "2026-03-09T01:41:24.746723+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.bnicks.com/shop/p/kinfolk",
+      "snippet": "interest Dribbble Terms of Service Privacy Policy Returns & Refunds brandon.m.nickerson@gmail.com All Rights Reserved ® 2024 bnicks.com"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.bnicks.com/shop/p/kinfolk",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.bnicks.com/shop/p/kinfolk",
+    "last_modified": null
+  }
+}

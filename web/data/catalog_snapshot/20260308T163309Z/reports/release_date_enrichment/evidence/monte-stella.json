@@ -1,0 +1,27 @@
+{
+  "record_id": "monte-stella",
+  "source_url": "https://www.daltonmaag.com/library/monte-stella",
+  "checked_at": "2026-03-09T01:45:18.765188+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/monte-stella.html",
+      "snippet": " font features Weight and Slant axes, including an extreme Turbo Italic for added impact. Designed and developed\n2020â2021 Designers Riccardo De Franceschi Writing Systems Latin Supporting over 790\nLanguages Aari (Lati"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.daltonmaag.com/library/monte-stella",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.daltonmaag.com/font-library/monte-stella.html",
+    "last_modified": null
+  }
+}

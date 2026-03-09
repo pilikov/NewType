@@ -1,0 +1,27 @@
+{
+  "record_id": "brutaal",
+  "source_url": "http://themicrofoundry.com/f_brutaal.html",
+  "checked_at": "2026-03-09T01:44:26.875469+00:00",
+  "candidates": [
+    {
+      "date": "2000-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "http://themicrofoundry.com/f_brutaal.html",
+      "snippet": "Sun, 18 Jun 2000 16:24:18 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://themicrofoundry.com/f_brutaal.html",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "http://themicrofoundry.com/f_brutaal.html",
+    "last_modified": "Sun, 18 Jun 2000 16:24:18 GMT"
+  }
+}

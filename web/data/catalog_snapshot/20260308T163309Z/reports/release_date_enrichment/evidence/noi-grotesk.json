@@ -1,0 +1,27 @@
+{
+  "record_id": "noi-grotesk",
+  "source_url": "https://fonts.studiofeixen.ch/typefaces/noi-grotesk",
+  "checked_at": "2026-03-09T01:51:24.956198+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fonts.studiofeixen.ch/noi-grotesk/",
+      "snippet": ";…!¡?¿·•*#/\\(){}[]-­–—_‚„“”‘’«»‹›”’¢¤$€£ƒ¥↑→↓←↔↑○¶§©®™◊|¦†‡℮№+−×÷=≠≥≤±≈~¬∅∞−×÷=≠≥≤±≈¬~ΔΩμπ∫∏∑√∂µ%‰½¼¾⅛⅜⅝⅞ Copyright © 2021 Studio Feixen Typeface designed by: Robin Eberwein and Felix Pfäffli We use cookies to ensure t"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fonts.studiofeixen.ch/typefaces/noi-grotesk",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fonts.studiofeixen.ch/noi-grotesk/",
+    "last_modified": null
+  }
+}

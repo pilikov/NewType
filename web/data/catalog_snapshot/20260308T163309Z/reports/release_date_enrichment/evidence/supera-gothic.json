@@ -1,0 +1,48 @@
+{
+  "record_id": "supera-gothic",
+  "source_url": "https://wtypefoundry.com/typefaces/supera-gothic",
+  "checked_at": "2026-03-09T01:49:27.938276+00:00",
+  "candidates": [
+    {
+      "date": "2024-02-27",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://wtypefoundry.com/typefaces/supera-gothic",
+      "snippet": "2024-02-27"
+    },
+    {
+      "date": "1999-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://wtypefoundry.com/typefaces/supera-gothic",
+      "snippet": "and 138 the answer is 56... No? Let me tell you what I believe.... The war that devastated the Real World.... OPEN RAVE 1999 - [Parque O’Higgins]... Sin mi Olguita Marina, nada tiene senti... La legal, yo no soy na' cual"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://wtypefoundry.com/typefaces/supera-gothic",
+      "snippet": " Supera Gothic:n9 Supera Gothic:i9 Supera Gothic:n2 Supera Gothic:i2 Supera Gothic Ultrablack Erbar · Simons Johnston · 2020 Tracy · 1986 Select Style Supera Gothic Thin Supera Gothic Thin Italic Supera Gothic Ultralight"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://wtypefoundry.com/typefaces/supera-gothic",
+      "snippet": "/ Software License eBook / ePub Corporate Server Instagram Subscribe hola@wtypefoundry.com BACK TO TOP © W Type Foundry 2026"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://wtypefoundry.com/typefaces/supera-gothic",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://wtypefoundry.com/typefaces/supera-gothic",
+    "last_modified": null
+  }
+}

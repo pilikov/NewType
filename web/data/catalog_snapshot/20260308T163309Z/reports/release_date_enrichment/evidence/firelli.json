@@ -1,0 +1,48 @@
+{
+  "record_id": "firelli",
+  "source_url": "https://typejockeys.com/font/firelli",
+  "checked_at": "2026-03-09T01:38:00.673552+00:00",
+  "candidates": [
+    {
+      "date": "2025-03-27",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typejockeys.com/en/font/firelli",
+      "snippet": "2025-03-27T17:06:43+01:00"
+    },
+    {
+      "date": "2025-09-17",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typejockeys.com/en/font/firelli",
+      "snippet": "2025-09-17T11:43:50+02:00"
+    },
+    {
+      "date": "2025-09-17",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.typejockeys.com/en/font/firelli",
+      "snippet": "2025-09-17T11:43:50+02:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typejockeys.com/en/font/firelli",
+      "snippet": "rrows Small Caps Circled Numbers Inferior & Superior Figures Firelli in use Flood Whitt Group Licensing Legal Privacy © 2026 Typejockeys de en Trial Fonts close Search website close"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typejockeys.com/font/firelli",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typejockeys.com/en/font/firelli",
+    "last_modified": null
+  }
+}

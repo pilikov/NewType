@@ -1,0 +1,41 @@
+{
+  "record_id": "bw-gradual",
+  "source_url": "https://brandingwithtype.com/typefaces/bw-gradual",
+  "checked_at": "2026-03-09T01:42:13.523135+00:00",
+  "candidates": [
+    {
+      "date": "2008-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://brandingwithtype.com/typefaces/bw-gradual",
+      "snippet": "the setting for the best-selling Grand Theft Auto V. Midnight Club: Los Angeles, meanwhile, is a racer that came out in 2008, and at present, it’s the last title in the series to be released, while Table Tennis is a shoc"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://brandingwithtype.com/typefaces/bw-gradual",
+      "snippet": "enType features like ligatures, old style figures or case sensitive forms among others. Version: 1.0 Relase date: 03/04/2017 Styles: 7 weights + matching oblique italics (14 styles total) Language support: Extended Latin"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://brandingwithtype.com/typefaces/bw-gradual",
+      "snippet": "By clicking subscribe, you agree that we may process your information in accordance with these terms. © Alberto Romanos 2026. All rights reserved. Legal notice . Cookie management . Major cards supported"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://brandingwithtype.com/typefaces/bw-gradual",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://brandingwithtype.com/typefaces/bw-gradual",
+    "last_modified": null
+  }
+}

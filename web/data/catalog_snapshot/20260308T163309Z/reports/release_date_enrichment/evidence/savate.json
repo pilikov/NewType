@@ -1,0 +1,34 @@
+{
+  "record_id": "savate",
+  "source_url": "https://www.plombtype.com/savate",
+  "checked_at": "2026-03-09T01:59:17.605498+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.plombtype.com/savate/",
+      "snippet": "headlines to confident, readable text. This new release is a complete redraw of the original Savate, first published in 2016 by the We.ch collective (Max Esnée and Hadrien Bulliat) through Velvetyne. While it stays true "
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.plombtype.com/savate/",
+      "snippet": "richal, Max Esnée, Emma Poncet, Mandakh Zandangarav Formats Static (OTF, TTF, WOFF, WOFF2), Variable (TTF) Release June 2025 Last updated — About Savate is a humanist sans-serif typeface with reverse contrast. Its name, "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.plombtype.com/savate",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.plombtype.com/savate/",
+    "last_modified": null
+  }
+}

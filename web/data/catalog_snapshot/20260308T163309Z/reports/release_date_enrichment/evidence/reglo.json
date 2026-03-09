@@ -1,0 +1,41 @@
+{
+  "record_id": "reglo",
+  "source_url": "http://osp.kitchen/foundry/reglo/",
+  "checked_at": "2026-03-09T01:59:41.492952+00:00",
+  "candidates": [
+    {
+      "date": "2009-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/reglo/",
+      "snippet": "eglo is a font so tough that you can seriously mistreat it.  \n  The font was designed by Sebastien Sanfilippo in autumn 2009 and is used for Radio Panik identity, among other. Snapshots | iceberg Inside this repository o"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/reglo/",
+      "snippet": ".html~ application/octet-stream Log Ludi expressed — Et voilà. Un espace où stretcher la Reglo Thursday, 12th September 2013 - 16:57 Eric Schrijver talked — The image called iceberg/{font_slug}_banner.png will show up as"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/reglo/",
+      "snippet": "oundry design) Saturday, 14th September 2013 - 19:46 Stéphanie Vilayphiou gave away — structure UFR Friday, 5th October 2018 - 16:33 Stéphanie Vilayphiou told — webfonts Friday, 5th October 2018 - 16:33 These project vie"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://osp.kitchen/foundry/reglo/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "http://osp.kitchen/foundry/reglo/",
+    "last_modified": null
+  }
+}

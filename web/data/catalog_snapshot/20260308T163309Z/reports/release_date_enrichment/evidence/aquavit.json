@@ -1,0 +1,34 @@
+{
+  "record_id": "aquavit",
+  "source_url": "https://www.floodfonts.com/aquavit",
+  "checked_at": "2026-03-09T01:43:29.999228+00:00",
+  "candidates": [
+    {
+      "date": "2000-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.floodfonts.com/aquavit/",
+      "snippet": "aga Design. He co-founded Glashaus Design, is art director at MWK Cologne and works as an independent type designer. In 2000, he founded Floodfonts and designed numerous free typefaces. His commercial fonts were released"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.floodfonts.com/aquavit/",
+      "snippet": "Fri, 13 Dec 2024 22:24:25 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.floodfonts.com/aquavit",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.floodfonts.com/aquavit/",
+    "last_modified": "Fri, 13 Dec 2024 22:24:25 GMT"
+  }
+}

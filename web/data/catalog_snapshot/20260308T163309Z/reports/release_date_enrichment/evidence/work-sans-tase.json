@@ -1,0 +1,27 @@
+{
+  "record_id": "work-sans-tase",
+  "source_url": "https://www.suvatypefoundry.ee/work-sans-tase/",
+  "checked_at": "2026-03-09T01:57:54.857200+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/work-sans-tase/",
+      "snippet": "ONT WORK SANS TASE NEXT FONT I B V U P A G R K L N DOWNLOAD Q S Z C F W Y D M O H T J E X WORK SANS TASE by Aimur Takk (2016) A typeface modified for the Estonian Academy of Arts graduation festival TASE’16. The author o"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/work-sans-tase/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/work-sans-tase/",
+    "last_modified": null
+  }
+}

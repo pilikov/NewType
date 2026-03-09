@@ -1,0 +1,48 @@
+{
+  "record_id": "jouter-sans",
+  "source_url": "https://groteskly.xyz/typefaces/jouter-sans",
+  "checked_at": "2026-03-09T02:00:01.163442+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://groteskly.xyz/fonts/jouter-sans",
+      "snippet": "es historical character with a contemporary, function-first design philosophy. Styles 18 Fonts Characters 700+ Released 2024 Updated 2025 Designers Eugene Tantsurin, Anna Remm Version 1.00 Supported Languages OpenType Fe"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://groteskly.xyz/fonts/jouter-sans",
+      "snippet": " character with a contemporary, function-first design philosophy. Styles 18 Fonts Characters 700+ Released 2024 Updated 2025 Designers Eugene Tantsurin, Anna Remm Version 1.00 Supported Languages OpenType Features Jouter"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://groteskly.xyz/fonts/jouter-sans",
+      "snippet": " Tantsurin PR Ostale Informacione Tehnologije Beograd 1B Matice Srpske Belgrade, Serbia 11160 Â© Groteskly Yours Studio 2026 Site Home All Fonts Fonts in Use Trials About Blog FAQ Licensing Cookies Privacy Refunds Contac"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://groteskly.xyz/fonts/jouter-sans",
+      "snippet": "Tue, 03 Mar 2026 13:59:44 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://groteskly.xyz/typefaces/jouter-sans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://groteskly.xyz/fonts/jouter-sans",
+    "last_modified": "Tue, 03 Mar 2026 13:59:44 GMT"
+  }
+}

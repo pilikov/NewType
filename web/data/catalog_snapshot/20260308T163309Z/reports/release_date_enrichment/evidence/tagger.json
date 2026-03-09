@@ -1,0 +1,19 @@
+{
+  "record_id": "tagger",
+  "source_url": "https://kroje.org/en/fonts/tagger/",
+  "checked_at": "2026-03-09T01:38:57.574802+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://kroje.org/en/fonts/tagger/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='kroje.org', port=443): Read timed out. (read timeout=12)"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "record_id": "wesna",
+  "source_url": "https://type-salon.com/typefaces/wesna",
+  "checked_at": "2026-03-09T01:49:37.745003+00:00",
+  "candidates": [
+    {
+      "date": "2020-12-01",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://type-salon.com/wesna/",
+      "snippet": "2020-12-01T10:45:43+00:00"
+    },
+    {
+      "date": "2022-10-10",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://type-salon.com/wesna/",
+      "snippet": "2022-10-10T14:48:22+00:00"
+    },
+    {
+      "date": "2022-10-10",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://type-salon.com/wesna/",
+      "snippet": "2022-10-10T14:48:22+00:00"
+    },
+    {
+      "date": "1999-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-salon.com/wesna/",
+      "snippet": "a fakulteta, Univerza v Ljubljani, 2005. 2 Požar, Cvetka. Vsi na volitve! Plakat kot politični medij na Slovenskem 1954-1999. Katalog razstave arhitekturnega muzeja, Ljubljana. 2000. 3 Požar, Cvetka. Stoletje plakata: pl"
+    },
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-salon.com/wesna/",
+      "snippet": " Vsi na volitve! Plakat kot politični medij na Slovenskem 1954-1999. Katalog razstave arhitekturnega muzeja, Ljubljana. 2000. 3 Požar, Cvetka. Stoletje plakata: plakat 20. stoletja na Slovnskem. Ljubljana: Muzej za arhit"
+    },
+    {
+      "date": "2005-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-salon.com/wesna/",
+      "snippet": " Meta. Gospodična, vi se lepi kot plakat. Ljubljana: Oddelek za etnologijo, Filozofska fakulteta, Univerza v Ljubljani, 2005. 2 Požar, Cvetka. Vsi na volitve! Plakat kot politični medij na Slovenskem 1954-1999. Katalog r"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-salon.com/wesna/",
+      "snippet": "e plakata: plakat 20. stoletja na Slovnskem. Ljubljana: Muzej za arhitekturo in oblikovanje (MAO) : Studia humanitatis, 2015. 4 Bernik, Stane. Plakat & Znak. Ljubljana: Art Directors Club Ljubljana Revija Sinteza, 1989. "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://type-salon.com/typefaces/wesna",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://type-salon.com/wesna/",
+    "last_modified": null
+  }
+}

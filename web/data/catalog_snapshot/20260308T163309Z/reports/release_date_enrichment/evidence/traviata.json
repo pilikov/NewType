@@ -1,0 +1,41 @@
+{
+  "record_id": "traviata",
+  "source_url": "https://vj-type.com/13-traviata",
+  "checked_at": "2026-03-09T02:01:41.518532+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://vj-type.com/13-traviata",
+      "snippet": "323 the prisoner Display —\n                                                                    1 weight Regular Release 2017 Designer Jérémy Schneider Version 1.0 Specimen PDF Traviata is a display font released in 2017 "
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://vj-type.com/13-traviata",
+      "snippet": "neider Version 1.0 Specimen PDF Traviata is a display font released in 2017 by Violaine & Jérémy. Designed for the 2017-2018 identity of the « Théâtre des Bouffes du Nord » in Paris, this font was directly inspired by th"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://vj-type.com/13-traviata",
+      "snippet": "efunds Delivery Infos About Prints Contact Font Licences Font Radar Privacy Legals Terms of Use Terms of Sales To top © 2026 VJ TYPE, all rights reserved Site by Troa"
+    },
+    {
+      "date": "2026-02-13",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://vj-type.com/13-traviata",
+      "snippet": "2026-02-13"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://vj-type.com/13-traviata",
+    "last_modified": null
+  }
+}

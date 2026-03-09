@@ -1,0 +1,20 @@
+{
+  "record_id": "optic",
+  "source_url": "http://love-letters.be/typefaces/optic",
+  "checked_at": "2026-03-09T01:49:30.306634+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://love-letters.be/typefaces/optic",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.domeinwebshop.nl/te-koop/love-letters.be/tool",
+    "last_modified": null
+  }
+}

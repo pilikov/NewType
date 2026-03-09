@@ -1,0 +1,19 @@
+{
+  "record_id": "gravostyle-basic",
+  "source_url": "https://optimo.ch/typefaces/gravostyle_basic",
+  "checked_at": "2026-03-09T01:56:54.386542+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://optimo.ch/typefaces/gravostyle_basic",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": 500,
+    "error": "HTTP 500"
+  }
+}

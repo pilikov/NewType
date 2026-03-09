@@ -1,0 +1,19 @@
+{
+  "record_id": "joyse",
+  "source_url": "https://almarenafoundry.com/joyse",
+  "checked_at": "2026-03-09T01:58:40.023383+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://almarenafoundry.com/joyse",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='almarenafoundry.com', port=443): Max retries exceeded with url: /joyse (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)')))"
+  }
+}

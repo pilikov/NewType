@@ -1,0 +1,55 @@
+{
+  "record_id": "harrison-serif",
+  "source_url": "https://typemates.com/fonts/harrison-serif",
+  "checked_at": "2026-03-09T02:03:23.769119+00:00",
+  "candidates": [
+    {
+      "date": "2017-06-19",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typemates.com/fonts/harrison-serif",
+      "snippet": "2017-06-19T12:41:00+02:00"
+    },
+    {
+      "date": "2017-06-19",
+      "score": 0.95,
+      "source_type": "jsonld:dateCreated",
+      "source_url": "https://www.typemates.com/fonts/harrison-serif",
+      "snippet": "2017-06-19T12:41:50+02:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typemates.com/fonts/harrison-serif",
+      "snippet": "2026-03-05T12:09:24+01:00"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/harrison-serif",
+      "snippet": "an have no doubt that it contains broad Latin language support and a set of helpful symbols. Designed by Jakob Runge in 2017 Contributions Lisa Fischbach TDC Awarded Selected for a Certificate of Typographic Excellence b"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/harrison-serif",
+      "snippet": "ributions Lisa Fischbach TDC Awarded Selected for a Certificate of Typographic Excellence by the Type Directors Club in 2018 Specs Providing 18 styles, 9 weights, more than 800 glyphs per font Formats otf and ttf for des"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typemates.com/fonts/harrison-serif",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typemates.com/fonts/harrison-serif",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "sonar-slab",
+  "source_url": "https://store.typenetwork.com/foundry/famirafonts/fonts/sonar-slab",
+  "checked_at": "2026-03-09T01:36:02.461633+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://store.typenetwork.com/foundry/famirafonts/fonts/sonar-slab",
+      "snippet": "Thu, 07 Nov 2024 19:04:42 GMT"
+    },
+    {
+      "date": "2026-03-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://store.typenetwork.com/foundry/famirafonts/fonts/sonar-slab",
+      "snippet": "2026-03-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://store.typenetwork.com/foundry/famirafonts/fonts/sonar-slab",
+    "last_modified": "Thu, 07 Nov 2024 19:04:42 GMT"
+  }
+}

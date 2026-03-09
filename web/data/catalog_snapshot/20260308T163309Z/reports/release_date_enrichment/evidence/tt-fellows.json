@@ -1,0 +1,90 @@
+{
+  "record_id": "tt-fellows",
+  "source_url": "https://typetype.org/typefaces/tt-fellows",
+  "checked_at": "2026-03-09T02:03:57.101070+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-13",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typetype.org/fonts/tt-fellows/",
+      "snippet": "2022-01-13T15:31:26+00:00"
+    },
+    {
+      "date": "2022-01-13",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://typetype.org/fonts/tt-fellows/",
+      "snippet": "2022-01-13T15:31:26+00:00"
+    },
+    {
+      "date": "2022-01-11",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-fellows/",
+      "snippet": "Fellows is a reliable typographic companion, ready to help designers in any situation! Release and update date Release: January 11, 2022 Last update: April 29, 2025 What's changed in the font: The number of characters in"
+    },
+    {
+      "date": "2025-04-29",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-fellows/",
+      "snippet": "ced sans serif. Its uniwidth design ensures layout stability when switching weights. TT Fellows won 1 award Update from April 29, 2025 — What’s New? Single style: from $ 47.99 Full family: from $ 329 19 styles Buy font T"
+    },
+    {
+      "date": "2026-02-27",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typetype.org/fonts/tt-fellows/",
+      "snippet": "2026-02-27T12:53:26+00:00"
+    },
+    {
+      "date": "2026-02-27",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://typetype.org/fonts/tt-fellows/",
+      "snippet": "2026-02-27T12:53:26+00:00"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-fellows/",
+      "snippet": "atives Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! TT Fellows Award Gold The European Design Awards hono"
+    },
+    {
+      "date": "2013-01-04",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-fellows/",
+      "snippet": "on ss10 | Chuvash localization ss11 | Bulgarian localization ss12 | Serbian localization Variable axes The Independent (January 4, 2013) TT Fellows in design TT Fellows Crossout The font TT Fellows is used in the interfa"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-fellows/",
+      "snippet": "font styles Popular Updated from $ 47.99 View font TT Runs 19  font styles 30% off Special offer is valid until 27 Mar, 2026 Popular Updated from $ 47.99 Original price was: $47.99. $ 33.59 Current price is: $33.59. View"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://typetype.org/fonts/tt-fellows/",
+      "snippet": "Fri, 06 Mar 2026 22:43:03 GMT"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typetype.org/typefaces/tt-fellows",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typetype.org/fonts/tt-fellows/",
+    "last_modified": "Fri, 06 Mar 2026 22:43:03 GMT"
+  }
+}

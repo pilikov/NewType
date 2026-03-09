@@ -1,0 +1,34 @@
+{
+  "record_id": "nuacht-serif-headline",
+  "source_url": "https://a2-type.co.uk/nuacht-serif-headline",
+  "checked_at": "2026-03-09T01:59:02.349885+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/nuacht-serif-headline",
+      "snippet": "cht (News) is a series of interconnected, versatile fonts designed for the Irish Independent newspaper as part of their 2018 redesign. The font system comprises Serif for long reading, Display for headlines, Sans for cap"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/nuacht-serif-headline",
+      "snippet": " Sorbian, Vunjo, Walloon, Welsh, Western Frisian, Wolof, Xhosa, Zulu Manufacturer: A2-TYPE Designer: Henrik Kubel Year: 2020 Copyright: © A2-TYPE Trademark: Nuacht Serif Headline is a trademark of A2-TYPE Licence: Terms "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://a2-type.co.uk/nuacht-serif-headline",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://a2-type.co.uk/nuacht-serif-headline",
+    "last_modified": null
+  }
+}

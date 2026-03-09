@@ -1,0 +1,41 @@
+{
+  "record_id": "fenul",
+  "source_url": "https://displaay.net/typeface/fenul",
+  "checked_at": "2026-03-09T01:55:25.589082+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://displaay.net/typeface/fenul",
+      "snippet": "an Spacing & Kerning Igino Marini Details Range 24 Weights, 48 Styles 3 VF Axes : Slant, Weight, Width First Sketch Apr 2021 Released Oct 2023 Update Mar 2026 Version 3.003 Download Free Full Trials Test All Styles Buy S"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://displaay.net/typeface/fenul",
+      "snippet": "ng Igino Marini Details Range 24 Weights, 48 Styles 3 VF Axes : Slant, Weight, Width First Sketch Apr 2021 Released Oct 2023 Update Mar 2026 Version 3.003 Download Free Full Trials Test All Styles Buy Starting 55 â¬ Dis"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://displaay.net/typeface/fenul",
+      "snippet": "Details Range 24 Weights, 48 Styles 3 VF Axes : Slant, Weight, Width First Sketch Apr 2021 Released Oct 2023 Update Mar 2026 Version 3.003 Download Free Full Trials Test All Styles Buy Starting 55 â¬ Discounts 70 % Comp"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://displaay.net/typeface/fenul",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://displaay.net/typeface/fenul",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "g2-airdancer",
+  "source_url": "https://gruppo-due.com/typefaces/airdancer/",
+  "checked_at": "2026-03-09T01:40:37.462028+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://gruppo-due.com/typefaces/airdancer/",
+      "snippet": "h Design and proof assistance from Moritz Appich and Bruno Jacoby Spacing and Kerning by Igino Marini First Released in 2024 G2 Airdancer was originally conceived for a 7-meter-tall Airdancer installation in the Lichthof"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://gruppo-due.com/typefaces/airdancer/",
+      "snippet": " request a license, you will receive a download link\n      including the relevant font files and a license agreement. © 2026 Gruppo Due GbR About Gruppo Due Retail Typefaces Custom Typefaces Projects Online Shop Free Tri"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://gruppo-due.com/typefaces/airdancer/",
+      "snippet": "Sat, 17 Jan 2026 00:16:42 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://gruppo-due.com/typefaces/airdancer/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://gruppo-due.com/typefaces/airdancer/",
+    "last_modified": "Sat, 17 Jan 2026 00:16:42 GMT"
+  }
+}

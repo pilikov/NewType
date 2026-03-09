@@ -1,0 +1,34 @@
+{
+  "record_id": "etna",
+  "source_url": "https://www.marksimonson.com/fonts/view/etna",
+  "checked_at": "2026-03-09T01:55:42.649418+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.marksimonson.com/fonts/view/etna/",
+      "snippet": "turn Policy Connect Contact Me Email Newsletter Instagram X (Twitter) Mastodon Notebook RSS Feed Mark Simonson Studio © 2026 The Type Founders, LLC"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.marksimonson.com/fonts/view/etna/",
+      "snippet": "Etna | Fonts by Mark Simonson Fonts Notebook Services About Cart Etna Fonts Buy Etna Etna (2020) was inspired by the Aetna wood type style of the late nineteenth century. Etna tames this quirky Victorian design into"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.marksimonson.com/fonts/view/etna",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.marksimonson.com/fonts/view/etna/",
+    "last_modified": null
+  }
+}

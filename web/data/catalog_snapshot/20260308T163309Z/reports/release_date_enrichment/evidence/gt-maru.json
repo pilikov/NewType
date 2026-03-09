@@ -1,0 +1,27 @@
+{
+  "record_id": "gt-maru",
+  "source_url": "https://www.grillitype.com/typefaces/gt-maru",
+  "checked_at": "2026-03-09T01:38:11.396531+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.grillitype.com/typeface/gt-maru",
+      "snippet": " Williams (Mega). Emoji designed by Grilli Type, with additional typeface production work by Anya Danilova. Released in 2021 Available in 25 styles GT Maru is available for customization and language extensions Download "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.grillitype.com/typefaces/gt-maru",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.grillitype.com/typeface/gt-maru",
+    "last_modified": null
+  }
+}

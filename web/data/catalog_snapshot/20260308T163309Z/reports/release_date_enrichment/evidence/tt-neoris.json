@@ -1,0 +1,83 @@
+{
+  "record_id": "tt-neoris",
+  "source_url": "https://typetype.org/typefaces/tt-neoris",
+  "checked_at": "2026-03-09T02:03:52.435020+00:00",
+  "candidates": [
+    {
+      "date": "2023-09-12",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typetype.org/fonts/tt-neoris/",
+      "snippet": "2023-09-12T06:15:40+00:00"
+    },
+    {
+      "date": "2023-09-12",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://typetype.org/fonts/tt-neoris/",
+      "snippet": "2023-09-12T06:15:40+00:00"
+    },
+    {
+      "date": "2023-09-12",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-neoris/",
+      "snippet": "ghlighting’ effect when used in specific text segments. Begin using the Neo-Grotesque of the future today! Release date September 12, 2023 Additionally Specimen Download font specimen (pdf) Poster Images Graphic presenta"
+    },
+    {
+      "date": "2025-10-20",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typetype.org/fonts/tt-neoris/",
+      "snippet": "2025-10-20T12:16:47+00:00"
+    },
+    {
+      "date": "2025-10-20",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://typetype.org/fonts/tt-neoris/",
+      "snippet": "2025-10-20T12:16:47+00:00"
+    },
+    {
+      "date": "1996-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-neoris/",
+      "snippet": "ero ss15 | Negative Circled Figures ss16 | Bulgarian Localization ss17 | Chuvash localization Variable axes Know How in 1996 Ideal font pairs with TT Neoris TT Lakes Neue Regular + TT Neoris Regular What is a font pair, "
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-neoris/",
+      "snippet": "atives Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! TT Neoris Awards Silver MUSE Design Awards, part of t"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-neoris/",
+      "snippet": "s Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! TT Neoris Awards Silver MUSE Design Awards, part of the pr"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://typetype.org/fonts/tt-neoris/",
+      "snippet": "Fri, 06 Mar 2026 21:59:45 GMT"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typetype.org/typefaces/tt-neoris",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typetype.org/fonts/tt-neoris/",
+    "last_modified": "Fri, 06 Mar 2026 21:59:45 GMT"
+  }
+}

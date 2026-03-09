@@ -1,0 +1,55 @@
+{
+  "record_id": "taiyo-serif",
+  "source_url": "https://kobufoundry.com/typefaces/taiyo-serif",
+  "checked_at": "2026-03-09T01:57:16.632792+00:00",
+  "candidates": [
+    {
+      "date": "2021-02-15",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://www.kobufoundry.com/product/taiyo-serif/",
+      "snippet": "2021-02-15T14:15:21+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.kobufoundry.com/product/taiyo-serif/",
+      "snippet": " to cart Account Log In Register Help Contact FAQ Font Licenses Terms & Conditions Privacy Policy join our newsletter © 2026. All rights reserved kobu.agency"
+    },
+    {
+      "date": "2021-02-15",
+      "score": 0.7,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.kobufoundry.com/product/taiyo-serif/",
+      "snippet": "2021-02-15T14:15:21+00:00"
+    },
+    {
+      "date": "2021-02-15",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.kobufoundry.com/product/taiyo-serif/",
+      "snippet": "2021-02-15T17:12:07+00:00"
+    },
+    {
+      "date": "2021-02-15",
+      "score": 0.44999999999999996,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.kobufoundry.com/product/taiyo-serif/",
+      "snippet": "2021-02-15T17:12:07+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://kobufoundry.com/typefaces/taiyo-serif",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.kobufoundry.com/product/taiyo-serif/",
+    "last_modified": null
+  }
+}

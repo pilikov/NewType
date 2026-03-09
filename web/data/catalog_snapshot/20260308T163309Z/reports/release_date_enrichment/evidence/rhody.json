@@ -1,0 +1,41 @@
+{
+  "record_id": "rhody",
+  "source_url": "https://djr.com/rhody",
+  "checked_at": "2026-03-09T01:57:05.015716+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/rhody-wide-font-of-the-month",
+      "snippet": "looming right outside my window! As our rhododendron began to bloom, I picked up my old friend Rhody where I left it in 2018, and this month I’m delighted to send you a new clipping: Rhody Wide . Because it has been half"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/rhody-wide-font-of-the-month",
+      "snippet": " in Cart Notes See all posts June 2, 2023 # David Jonathan Ross June’s Font of the Month: Rhody Wide Font of the Month, 2023/06 PDF Try Buy $24 Ahhhh, June! Here in Western Mass. things are in full bloom, and as I write "
+    },
+    {
+      "date": "2023-06-02",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/rhody-wide-font-of-the-month",
+      "snippet": "wog Rhody Rustique Slight Chance Tortellini Zenith DJR Club Typeset Glyphs Notes About Sign in Cart Notes See all posts June 2, 2023 # David Jonathan Ross June’s Font of the Month: Rhody Wide Font of the Month, 2023/06 P"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://djr.com/rhody",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://djr.com/notes/rhody-wide-font-of-the-month",
+    "last_modified": null
+  }
+}

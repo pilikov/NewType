@@ -1,0 +1,41 @@
+{
+  "record_id": "universal-variable",
+  "source_url": "https://parachutefonts.com/archive/Universal",
+  "checked_at": "2026-03-09T01:55:49.459092+00:00",
+  "candidates": [
+    {
+      "date": "2002-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/archive/Universal",
+      "snippet": "pefaces About Premium Collection Search Login Cart Follow us      Buy PF Universal Variable Originally designed in 2002 but never before released online, Universal is a variable geometric typeface and Parachute's tr"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/archive/Universal",
+      "snippet": "abled styles are only available when you purchase the entire family. ADD STYLE Close Newsletter / Follow us      © 2026 Parachute® Typefoundry. All Rights Reserved COOKIES NOTICE This Site uses cookies, including th"
+    },
+    {
+      "date": "2003-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/archive/Universal",
+      "snippet": "al design values which brought graphics to the forefront of the artistic avant-garde in Central Europe. Included in our 2003 award-winning catalog the typeface was recently revisited, updated, and enhanced with full supp"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://parachutefonts.com/archive/Universal",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://parachutefonts.com/archive/Universal",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "ropasans",
+  "source_url": "https://www.lettersoup.de/typefaces/ropasans",
+  "checked_at": "2026-03-09T01:42:59.375909+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.lettersoup.de/product-category/ropasans/",
+      "snippet": "eso, Tongan, Turkish, Turkmen, Ukrainian, Upper Sorbian, Uzbek, Vunjo, Walser, Welsh, Western Frisian, Zulu. × Glyphs © 2026 by Lettersoup Type Foundry and respective designers Imprint , Privacy Policy"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.lettersoup.de/typefaces/ropasans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.lettersoup.de/product-category/ropasans/",
+    "last_modified": null
+  }
+}

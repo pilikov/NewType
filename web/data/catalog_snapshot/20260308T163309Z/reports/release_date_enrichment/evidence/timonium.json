@@ -1,0 +1,27 @@
+{
+  "record_id": "timonium",
+  "source_url": "https://typesupply.com/fonts/timonium",
+  "checked_at": "2026-03-09T02:03:30.081103+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://typesupply.com/fonts/timonium",
+      "snippet": "Wed, 04 Mar 2026 15:50:07 GMT"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typesupply.com/fonts/timonium",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typesupply.com/fonts/timonium",
+    "last_modified": "Wed, 04 Mar 2026 15:50:07 GMT"
+  }
+}

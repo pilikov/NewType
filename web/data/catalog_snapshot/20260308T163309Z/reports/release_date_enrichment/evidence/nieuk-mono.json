@@ -1,0 +1,41 @@
+{
+  "record_id": "nieuk-mono",
+  "source_url": "https://laic.pl/nieuk-mono",
+  "checked_at": "2026-03-09T01:47:09.431459+00:00",
+  "candidates": [
+    {
+      "date": "2024-05-10",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://Laic.pl/product/typefaces/nieukmono/",
+      "snippet": "2024-05-10T11:34:00+00:00"
+    },
+    {
+      "date": "2026-02-17",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://Laic.pl/product/typefaces/nieukmono/",
+      "snippet": "2026-02-17T14:52:33+00:00"
+    },
+    {
+      "date": "2026-02-17",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://Laic.pl/product/typefaces/nieukmono/",
+      "snippet": "2026-02-17T14:52:33+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://laic.pl/nieuk-mono",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://Laic.pl/product/typefaces/nieukmono/",
+    "last_modified": null
+  }
+}

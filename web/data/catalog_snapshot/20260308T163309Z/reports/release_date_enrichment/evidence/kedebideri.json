@@ -1,0 +1,76 @@
+{
+  "record_id": "kedebideri",
+  "source_url": "https://software.sil.org/kedebideri/",
+  "checked_at": "2026-03-09T01:47:28.710410+00:00",
+  "candidates": [
+    {
+      "date": "2014-10-02",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://software.sil.org/kedebideri/",
+      "snippet": "2014-10-02T09:52:47+00:00"
+    },
+    {
+      "date": "2014-10-02",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://software.sil.org/kedebideri/",
+      "snippet": "2014-10-02T09:52:47+00:00"
+    },
+    {
+      "date": "2024-09-13",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/kedebideri/",
+      "snippet": "lease 3.001 12 September 2025 Kedebideri Release 3.000 – Now in Unicode 17.0! 9 September 2025 Kedebideri Release 2.000 13 September 2024 This font software is free to use, modify and redistribute according to the terms "
+    },
+    {
+      "date": "2025-09-09",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/kedebideri/",
+      "snippet": "ull FAQ list News & Releases Kedebideri Release 3.001 12 September 2025 Kedebideri Release 3.000 – Now in Unicode 17.0! 9 September 2025 Kedebideri Release 2.000 13 September 2024 This font software is free to use, modif"
+    },
+    {
+      "date": "2025-09-12",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/kedebideri/",
+      "snippet": "n the third syllable: keh-deh-BIH-deh-rih (kɛ̀dɛ̀bɪ́dɛ́ɺɪ́). See full FAQ list News & Releases Kedebideri Release 3.001 12 September 2025 Kedebideri Release 3.000 – Now in Unicode 17.0! 9 September 2025 Kedebideri Releas"
+    },
+    {
+      "date": "2025-09-09",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://software.sil.org/kedebideri/",
+      "snippet": "2025-09-09T18:57:38+00:00"
+    },
+    {
+      "date": "2025-09-09",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://software.sil.org/kedebideri/",
+      "snippet": "2025-09-09T18:57:38+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/kedebideri/",
+      "snippet": "pen Font License Writing Systems Technology Technical Resources Contact & Support Contact Support Community Copyright © 2026 SIL Global Terms of Use Privacy Policy"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://software.sil.org/kedebideri/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://software.sil.org/kedebideri/",
+    "last_modified": null
+  }
+}

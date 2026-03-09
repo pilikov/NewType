@@ -1,0 +1,41 @@
+{
+  "record_id": "36-days-of-type-2023",
+  "source_url": "https://tofutype.ca/typefaces/36-days-of-type-2023",
+  "checked_at": "2026-03-09T01:44:30.203004+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://tofutype.ca/36-days-of-type-2023/",
+      "snippet": " Open Source Fonts About Cart My account 36 Days An exquisitely disjointed experiment. Quick facts Initial release: May 2023 Current version: 1.002 Total styles: 1 Script: Very Basic Latin Class: Decorative, lowercase De"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://tofutype.ca/36-days-of-type-2023/",
+      "snippet": "eam Connect Email Instagram LinkedIn Purchase on MyFonts Secrets FOR THE RECORD FontsInUse Information Privacy Policy © 2026 Tofu Type Foundry"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://tofutype.ca/36-days-of-type-2023/",
+      "snippet": "Sun, 08 Mar 2026 16:48:47 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://tofutype.ca/typefaces/36-days-of-type-2023",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://tofutype.ca/36-days-of-type-2023/",
+    "last_modified": "Sun, 08 Mar 2026 16:48:47 GMT"
+  }
+}

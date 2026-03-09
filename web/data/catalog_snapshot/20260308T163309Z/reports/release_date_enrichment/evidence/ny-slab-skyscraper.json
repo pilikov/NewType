@@ -1,0 +1,34 @@
+{
+  "record_id": "ny-slab-skyscraper",
+  "source_url": "https://a2-type.co.uk/ny-slab-skyscraper",
+  "checked_at": "2026-03-09T01:49:10.104622+00:00",
+  "candidates": [
+    {
+      "date": "2015-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/ny-slab-skyscraper",
+      "snippet": "yscraper Buy Ny. is a family of custom typefaces originally designed for the redesign of The New York Times Magazine in 2015. The inspiration for the serif font is Stephenson Blake’s Garamond-like metal typeface Mazarin,"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/ny-slab-skyscraper",
+      "snippet": " Sorbian, Vunjo, Walloon, Welsh, Western Frisian, Wolof, Xhosa, Zulu Manufacturer: A2-TYPE Designer: Henrik Kubel Year: 2023 Copyright: © A2-TYPE Trademark: Ny. Slab Skyscraper is a trademark of A2-TYPE Licence: Terms an"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://a2-type.co.uk/ny-slab-skyscraper",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://a2-type.co.uk/ny-slab-skyscraper",
+    "last_modified": null
+  }
+}

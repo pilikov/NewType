@@ -1,0 +1,10 @@
+{
+  "total_releases": 5437,
+  "scripts_filled": 5317,
+  "scripts_missing": 120,
+  "coverage_percent": 97.79,
+  "files": {
+    "json": "data/catalog_snapshot/20260308T163309Z/reports/release_date_enrichment/releases_since_2026_with_scripts.json",
+    "csv": "data/catalog_snapshot/20260308T163309Z/reports/release_date_enrichment/releases_since_2026_with_scripts.csv"
+  }
+}

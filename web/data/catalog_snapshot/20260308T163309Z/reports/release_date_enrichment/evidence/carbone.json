@@ -1,0 +1,41 @@
+{
+  "record_id": "carbone",
+  "source_url": "https://skrr-type.com/carbone",
+  "checked_at": "2026-03-09T01:40:42.651107+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://skrr-type.com/carbone",
+      "snippet": "©nie Boron Instagram 1 Style 142 glyphs Version 1.2 Language support for the Western European Latin Published in August 2021 Carbone display, a compound font inspired by the Arabic, the Japanese and the Latin alphabets. "
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://skrr-type.com/carbone",
+      "snippet": "ew in cart Logo/Wordmark License View in cart App License View in cart Student License View in cart In Use Skrr Type Â© 2025 Instagram m@skrr-type.com"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://skrr-type.com/carbone",
+      "snippet": "Sun, 29 Jun 2025 09:45:06 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://skrr-type.com/carbone",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://skrr-type.com/carbone",
+    "last_modified": "Sun, 29 Jun 2025 09:45:06 GMT"
+  }
+}

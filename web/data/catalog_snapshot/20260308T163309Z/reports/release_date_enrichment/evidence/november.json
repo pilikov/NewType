@@ -1,0 +1,19 @@
+{
+  "record_id": "november",
+  "source_url": "https://www.typotheque.com/fonts/november",
+  "checked_at": "2026-03-09T01:49:21.522692+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.typotheque.com/fonts/november",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "403 Client Error: Forbidden for url: https://www.typotheque.com/fonts/november"
+  }
+}

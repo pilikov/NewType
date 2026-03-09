@@ -1,0 +1,55 @@
+{
+  "record_id": "english-egyptian",
+  "source_url": "https://www.abyme.net/catalogue/english-egyptian",
+  "checked_at": "2026-03-09T01:48:25.514107+00:00",
+  "candidates": [
+    {
+      "date": "2016-11-25",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.abyme.net/catalogue/englishegyptian/",
+      "snippet": "2016-11-25T15:18:50+00:00"
+    },
+    {
+      "date": "2024-03-16",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.abyme.net/catalogue/englishegyptian/",
+      "snippet": "2024-03-16T13:45:59+00:00"
+    },
+    {
+      "date": "2024-03-16",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.abyme.net/catalogue/englishegyptian/",
+      "snippet": "2024-03-16T13:45:59+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.abyme.net/catalogue/englishegyptian/",
+      "snippet": "ABC We Print Anything Browse all Information About us Terms and conditions Instagram Contact fonderie@abyme.net © ABYME 2025"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.abyme.net/catalogue/englishegyptian/",
+      "snippet": "Wed, 29 Oct 2025 18:14:11 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.abyme.net/catalogue/english-egyptian",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.abyme.net/catalogue/englishegyptian/",
+    "last_modified": "Wed, 29 Oct 2025 18:14:11 GMT"
+  }
+}

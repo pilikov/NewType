@@ -1,0 +1,27 @@
+{
+  "record_id": "grapho",
+  "source_url": "https://sillytypefoundry.com/types/grapho/",
+  "checked_at": "2026-03-09T01:41:13.581516+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sillytypefoundry.com/types/grapho/",
+      "snippet": "grapho menu silly type foundry hide images info grapho 2023 Grapho originates from a work by Inna Kochkina that researches writing methods through the relation of the body and the"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://sillytypefoundry.com/types/grapho/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sillytypefoundry.com/types/grapho/",
+    "last_modified": null
+  }
+}

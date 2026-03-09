@@ -1,0 +1,41 @@
+{
+  "record_id": "artigo",
+  "source_url": "https://novatypefoundry.com/fonts/artigo",
+  "checked_at": "2026-03-09T01:55:26.472696+00:00",
+  "candidates": [
+    {
+      "date": "2011-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://novatypefoundry.com/fonts/artigo/",
+      "snippet": "ew since then and now supports Greek and Cyrillic. The greek counterpart won the second prize of the Granshan Awards in 2011. Available for\n\t\t\t\tDesktop,  Webfont See EULA Language support Abenaki, Afaan Oromo, Afar, Afri"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://novatypefoundry.com/fonts/artigo/",
+      "snippet": "igo Bold Artigo Bold Italic Artigo Extrabold Artigo Extrabold Italic Family 12\n\t\t\tstyles Designed by Joana Correia Year 2018 Artigo Try it About In use Glyphs Adobe Fonts Trials Buy Regular Light Light Italic Book Book I"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://novatypefoundry.com/fonts/artigo/",
+      "snippet": "ivacy Policy Fonts Alga Anona Artigo Artigo Display Baga Laca Pro Laca Text Lemongrass Script Loretta Loretta Display © 2026 Nova Type Foundry Distinctive type crafted with warmth and precision Instagram LinkedIn Behance"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://novatypefoundry.com/fonts/artigo",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://novatypefoundry.com/fonts/artigo/",
+    "last_modified": null
+  }
+}

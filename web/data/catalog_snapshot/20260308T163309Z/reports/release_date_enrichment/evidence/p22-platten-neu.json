@@ -1,0 +1,27 @@
+{
+  "record_id": "p22-platten-neu",
+  "source_url": "https://p22.com/fonts/platten-neu/",
+  "checked_at": "2026-03-09T01:45:58.331992+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/platten-neu/",
+      "snippet": " 1 2 3 4 5 6 7 8 9 Denominators 0 1 2 3 4 5 6 7 8 9 Titling E H M T V X Y Z È É Ê Ë Ý Ē Ĕ Ė Ę Ě Ĥ Ħ Ţ Ť Ŧ Ŷ Ÿ Ź Ż Ž Ỳ © 2026 The Type Founders, LLC Fonts Designers About Privacy & Cookies Terms of Service Licensing Servi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://p22.com/fonts/platten-neu/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://p22.com/fonts/platten-neu/",
+    "last_modified": null
+  }
+}

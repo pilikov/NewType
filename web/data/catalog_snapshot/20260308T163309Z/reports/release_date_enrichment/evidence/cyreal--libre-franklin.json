@@ -1,0 +1,48 @@
+{
+  "record_id": "cyreal--libre-franklin",
+  "source_url": "https://www.cyreal.org/fonts/libre-franklin",
+  "checked_at": "2026-03-09T01:36:06.991243+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/libre-franklin/",
+      "snippet": "mpallari, Rodrigo Fuenzalida and Nhung Nguyen, Alexei Vanyashin (Cyrillic) Cyrillic was designed by Alexei Vanyashin in 2018, released in 2024. Libre Franklin Libre-Franklin Thin Libre-Franklin ExtraLight Libre-Franklin "
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/libre-franklin/",
+      "snippet": "Fuenzalida and Nhung Nguyen, Alexei Vanyashin (Cyrillic) Cyrillic was designed by Alexei Vanyashin in 2018, released in 2024. Libre Franklin Libre-Franklin Thin Libre-Franklin ExtraLight Libre-Franklin Light Libre-Frankl"
+    },
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/libre-franklin/",
+      "snippet": " woff2 Download Donate Source Files Authors: Alexei Vanyashin Impallari Type Tags: Sans Serif Scripts: Latin Cyrillic © 2010–2026 Cyreal and respective authors. All rights reserved. This site uses cookies (including Goog"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/libre-franklin/",
+      "snippet": "2 Download Donate Source Files Authors: Alexei Vanyashin Impallari Type Tags: Sans Serif Scripts: Latin Cyrillic © 2010–2026 Cyreal and respective authors. All rights reserved. This site uses cookies (including Google An"
+    },
+    {
+      "date": "2026-03-02",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.cyreal.org/fonts/libre-franklin",
+      "snippet": "2026-03-02"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.cyreal.org/fonts/libre-franklin/",
+    "last_modified": null
+  }
+}

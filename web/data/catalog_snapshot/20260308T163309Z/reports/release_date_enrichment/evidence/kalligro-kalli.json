@@ -1,0 +1,27 @@
+{
+  "record_id": "kalligro-kalli",
+  "source_url": "https://www.suvatypefoundry.ee/kalligro-kalli/",
+  "checked_at": "2026-03-09T01:58:50.844981+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/kalligro-kalli/",
+      "snippet": "FONT KALLIGRO KALLI NEXT FONT X A T Q L S J N C W R F H G B Y CONTACT D O P V E U M I K Z KALLIGRO KALLI by Aimur Takk (2016) Kalligro is a font family where both the grotesque and calligraphic incision are built onto th"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/kalligro-kalli/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/kalligro-kalli/",
+    "last_modified": null
+  }
+}

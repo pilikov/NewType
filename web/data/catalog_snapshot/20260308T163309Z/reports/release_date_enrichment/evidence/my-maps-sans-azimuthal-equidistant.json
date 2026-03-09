@@ -1,0 +1,27 @@
+{
+  "record_id": "my-maps-sans-azimuthal-equidistant",
+  "source_url": "https://www.suvatypefoundry.ee/my-maps-sans-azimuthal-equidistant/",
+  "checked_at": "2026-03-09T01:59:04.706961+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/my-maps-sans-azimuthal-equidistant/",
+      "snippet": "ZIMUTHAL EQUIDISTANT NEXT FONT G Y B X U K D V T CONTACT C N Z L R F E A Q I O P W M H J S MY MAPS SANS by Andree Paat (2016) For my BA final project I experimented with different virtual tools that have a drawing functi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/my-maps-sans-azimuthal-equidistant/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/my-maps-sans-azimuthal-equidistant/",
+    "last_modified": null
+  }
+}

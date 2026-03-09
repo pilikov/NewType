@@ -1,0 +1,27 @@
+{
+  "record_id": "rieven",
+  "source_url": "https://delvefonts.com/fonts/rieven",
+  "checked_at": "2026-03-09T01:52:46.108713+00:00",
+  "candidates": [
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://delvefonts.com/fonts/rieven/",
+      "snippet": "es are supported. Rieven Uncial received a Certificate of Excellence in Type Design from the Type Directors Club in the 2010 TDC2 competition. Features Discretionary Ligatures ft st tti TT ft st tti TT Stylistic Alternat"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://delvefonts.com/fonts/rieven",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://delvefonts.com/fonts/rieven/",
+    "last_modified": null
+  }
+}

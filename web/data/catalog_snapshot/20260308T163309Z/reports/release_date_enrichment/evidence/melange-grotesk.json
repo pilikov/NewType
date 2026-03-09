@@ -1,0 +1,34 @@
+{
+  "record_id": "melange-grotesk",
+  "source_url": "https://kimeracorp.eu/typefaces/melange-grotesk",
+  "checked_at": "2026-03-09T01:36:51.296486+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kimeracorp.eu/typefaces/melange-grotesk",
+      "snippet": "ing the user a maximum amount of control in choosing the right fit for any environment. Its development started in late 2021 by founder Michael Clasen as a result of a close study of the grotesque heritage. Design Michae"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kimeracorp.eu/typefaces/melange-grotesk",
+      "snippet": "face Typefaces, Sans Purchase Get Melange Buy Trial kimera Parkstrasse 22 80339 Munich ®All Rights reserved ©kimera\n    2026 Info Privacy Licensing Products Get updates"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://kimeracorp.eu/typefaces/melange-grotesk",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://kimeracorp.eu/typefaces/melange-grotesk",
+    "last_modified": null
+  }
+}

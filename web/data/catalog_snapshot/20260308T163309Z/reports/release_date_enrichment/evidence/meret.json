@@ -1,0 +1,62 @@
+{
+  "record_id": "meret",
+  "source_url": "https://typemates.com/fonts/meret",
+  "checked_at": "2026-03-09T01:43:35.778154+00:00",
+  "candidates": [
+    {
+      "date": "2016-08-30",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typemates.com/fonts/meret",
+      "snippet": "2016-08-30T16:21:00+02:00"
+    },
+    {
+      "date": "2018-01-17",
+      "score": 0.95,
+      "source_type": "jsonld:dateCreated",
+      "source_url": "https://www.typemates.com/fonts/meret",
+      "snippet": "2018-01-17T14:42:58+01:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typemates.com/fonts/meret",
+      "snippet": "2026-03-05T12:07:02+01:00"
+    },
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/meret",
+      "snippet": "g is a TypeMates standard and gives a wide range of flexibility for Latin language support. Designed by Nils Thomsen in 2010 Typographica’s Choice Was honoured in Typographica’s notable Typefaces of 2011 Letter.2 type aw"
+    },
+    {
+      "date": "2011-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/meret",
+      "snippet": "age support. Designed by Nils Thomsen in 2010 Typographica’s Choice Was honoured in Typographica’s notable Typefaces of 2011 Letter.2 type awarded Meret is a winner of the Letter.2 type design competition organized by th"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/meret",
+      "snippet": "on organized by the Association Typographique Internationale. Commarts awarded Meret won a Commarts Excellence Award in 2012. Specs Providing 1150 glyphs, 16 styles and 8 weights Formats otf and ttf for desktop and apps,"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typemates.com/fonts/meret",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typemates.com/fonts/meret",
+    "last_modified": null
+  }
+}

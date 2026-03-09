@@ -1,0 +1,48 @@
+{
+  "record_id": "airo",
+  "source_url": "https://laboldevita.com/fonts/airo",
+  "checked_at": "2026-03-09T01:47:52.871384+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.laboldevita.com/fonts/airo",
+      "snippet": "plications, while offering stylistic alternates that echo the displayâs expressive tone. Extended in 2021 Released in 2019 3 Subfamilies Alternate \"square\" letters 628 Glyphs (Display and Mono) Latin Extended-A The com"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.laboldevita.com/fonts/airo",
+      "snippet": " and versatile applications, while offering stylistic alternates that echo the displayâs expressive tone. Extended in 2021 Released in 2019 3 Subfamilies Alternate \"square\" letters 628 Glyphs (Display and Mono) Latin E"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.laboldevita.com/fonts/airo",
+      "snippet": "icles License (EULA) Student Discount About the Foundry Imprint General Terms and Conditions Privacy Policy Copyright Â©2026 LA BOLDE VITA (Nearly) all rights reserved. ALL FONTS Airo BHV Grotunda Kanton Gothic Neptun Re"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.laboldevita.com/fonts/airo",
+      "snippet": "Thu, 05 Mar 2026 19:01:29 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://laboldevita.com/fonts/airo",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.laboldevita.com/fonts/airo",
+    "last_modified": "Thu, 05 Mar 2026 19:01:29 GMT"
+  }
+}

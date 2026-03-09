@@ -1,0 +1,27 @@
+{
+  "record_id": "regular-slab",
+  "source_url": "https://a2-type.co.uk/regular-slab",
+  "checked_at": "2026-03-09T02:00:33.403349+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/regular-slab",
+      "snippet": " Sorbian, Vunjo, Walloon, Welsh, Western Frisian, Wolof, Xhosa, Zulu Manufacturer: A2-TYPE Designer: Henrik Kubel Year: 2016 Copyright: © A2-TYPE Trademark: Regular Slab is a trademark of A2-TYPE Licence: Terms and condi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://a2-type.co.uk/regular-slab",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://a2-type.co.uk/regular-slab",
+    "last_modified": null
+  }
+}

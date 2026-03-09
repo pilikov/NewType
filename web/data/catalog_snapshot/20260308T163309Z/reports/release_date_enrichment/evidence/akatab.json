@@ -1,0 +1,90 @@
+{
+  "record_id": "akatab",
+  "source_url": "https://software.sil.org/akatab/",
+  "checked_at": "2026-03-09T01:49:56.963564+00:00",
+  "candidates": [
+    {
+      "date": "2020-02-28",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://software.sil.org/akatab/",
+      "snippet": "2020-02-28T16:55:35+00:00"
+    },
+    {
+      "date": "2020-02-28",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://software.sil.org/akatab/",
+      "snippet": "2020-02-28T16:55:35+00:00"
+    },
+    {
+      "date": "2023-02-09",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/akatab/",
+      "snippet": "9 MB                 | 15 Feb 2021 Akatab 3.000 for all platforms PREV FONT                 | 1.38 MB                 | 9 Feb 2023 Akatab 4.000 for all platforms PREV FONT                 | 1.45 MB                 | 17 F"
+    },
+    {
+      "date": "2025-02-17",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/akatab/",
+      "snippet": "38 MB                 | 9 Feb 2023 Akatab 4.000 for all platforms PREV FONT                 | 1.45 MB                 | 17 Feb 2025 Release Notes for v4.000 Added characters to complete the Unicode block: U+2D32 TIFINAGH"
+    },
+    {
+      "date": "2025-06-05",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/akatab/",
+      "snippet": "e (OFL) . Font Version Platform Details Akatab 4.100 for all platforms FONT                 | 1.43 MB                 | 5 Jun 2025 Release Notes for v4.100 Fixed a composite reference for the ligature of YAB and LABIALIZ"
+    },
+    {
+      "date": "2025-09-17",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://software.sil.org/akatab/",
+      "snippet": "2025-09-17T20:02:47+00:00"
+    },
+    {
+      "date": "2025-09-17",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://software.sil.org/akatab/",
+      "snippet": "2025-09-17T20:02:47+00:00"
+    },
+    {
+      "date": "2020-05-27",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/akatab/",
+      "snippet": " versions Version Platform Details Akatab 1.000 for all platforms PREV FONT                 | 2.17 MB                 | 27 May 2020 Akatab 2.000 for all platforms PREV FONT                 | 2.29 MB                 | 15 "
+    },
+    {
+      "date": "2021-02-15",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/akatab/",
+      "snippet": "7 MB                 | 27 May 2020 Akatab 2.000 for all platforms PREV FONT                 | 2.29 MB                 | 15 Feb 2021 Akatab 3.000 for all platforms PREV FONT                 | 1.38 MB                 | 9 F"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/akatab/",
+      "snippet": "Language Software Forum Scripture Software Forum General Software Support Serve with Us About Us Contact Us Copyright © 2026 SIL Global Terms of Use Privacy Policy"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://software.sil.org/akatab/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://software.sil.org/akatab/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "record_id": "sensa",
+  "source_url": "https://fontfabric.com/typefaces/sensa",
+  "checked_at": "2026-03-09T01:58:30.647301+00:00",
+  "candidates": [
+    {
+      "date": "2015-11-10",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.fontfabric.com/fonts/sensa/",
+      "snippet": "2015-11-10T12:00:18+00:00"
+    },
+    {
+      "date": "2015-11-10",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/sensa/",
+      "snippet": "l Alternates, Swashes, and Localized Forms—giving you extensive control over your typographic expression. Release Date: November 10, 2015 Explore: Serif Fonts , Sans Serif Fonts , Script Fonts , Display Fonts Credits: Fo"
+    },
+    {
+      "date": "2025-11-25",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.fontfabric.com/fonts/sensa/",
+      "snippet": "2025-11-25T12:15:54+00:00"
+    },
+    {
+      "date": "2025-11-25",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.fontfabric.com/fonts/sensa/",
+      "snippet": "2025-11-25T12:15:54+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/sensa/",
+      "snippet": "pt fonts Font sale Free fonts Fonts in use Font collections Legal Infringements About Help Blog Partnerships Contact us 2026 © Fontfabric llc. Privacy Notice Manage Cookies"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.fontfabric.com/fonts/sensa/",
+      "snippet": "Mon, 09 Mar 2026 01:58:32 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fontfabric.com/typefaces/sensa",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.fontfabric.com/fonts/sensa/",
+    "last_modified": "Mon, 09 Mar 2026 01:58:32 GMT"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "cyreal--artifika",
+  "source_url": "https://www.cyreal.org/fonts/artifika",
+  "checked_at": "2026-03-09T01:36:06.507162+00:00",
+  "candidates": [
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/artifika/",
+      "snippet": "left-to-right direction, making the typeface pleasant for reading on screen. Designed by Yulya Zhdanova, Ivan Petrov in 2010-2011. To contribute, see github.com/cyrealtype/Artifika. Artifika Regular ABCDEFGHIJKLMNOPQRSTU"
+    },
+    {
+      "date": "2011-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/artifika/",
+      "snippet": "to-right direction, making the typeface pleasant for reading on screen. Designed by Yulya Zhdanova, Ivan Petrov in 2010-2011. To contribute, see github.com/cyrealtype/Artifika. Artifika Regular ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/artifika/",
+      "snippet": "tic 1 style OTF, TTF, woff2 Download Donate Source Files Authors: Yulia Zhdanova Tags: Sans Serif Scripts: Latin © 2010–2026 Cyreal and respective authors. All rights reserved. This site uses cookies (including Google An"
+    },
+    {
+      "date": "2026-03-02",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.cyreal.org/fonts/artifika",
+      "snippet": "2026-03-02"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.cyreal.org/fonts/artifika/",
+    "last_modified": null
+  }
+}

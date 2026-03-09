@@ -1,0 +1,20 @@
+{
+  "record_id": "tlayuda",
+  "source_url": "https://www.futurefonts.com/adriana-garciduenas/typefaces/tlayuda",
+  "checked_at": "2026-03-09T02:03:31.602289+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.futurefonts.com/adriana-garciduenas/typefaces/tlayuda",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.futurefonts.com/adriana-garciduenas/typefaces/tlayuda",
+    "last_modified": null
+  }
+}

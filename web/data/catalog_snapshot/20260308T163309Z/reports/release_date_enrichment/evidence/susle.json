@@ -1,0 +1,27 @@
+{
+  "record_id": "susle",
+  "source_url": "https://www.suvatypefoundry.ee/susle/",
+  "checked_at": "2026-03-09T01:59:48.896909+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/susle/",
+      "snippet": "REVIOUS FONT SUSLE NEXT FONT M K X I C G H E N A F D S T B U O P W L Y V Q DOWNLOAD R J Z SUSLE by Ingel-Kristen Veevo (2020) Susle is a type system based on the grid of the qwerty keyboard. All shapes fit together like "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/susle/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/susle/",
+    "last_modified": null
+  }
+}

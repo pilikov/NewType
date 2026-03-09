@@ -1,0 +1,20 @@
+{
+  "record_id": "dinamit",
+  "source_url": "https://revolvertype.com/typefaces/dinamit",
+  "checked_at": "2026-03-09T01:58:15.785809+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://revolvertype.com/typefaces/dinamit",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.revolvertype.com/typefaces/dinamit/",
+    "last_modified": null
+  }
+}

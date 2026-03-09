@@ -1,0 +1,27 @@
+{
+  "record_id": "baton-nouveau",
+  "source_url": "https://fatype.com/typefaces/baton",
+  "checked_at": "2026-03-09T02:01:29.093858+00:00",
+  "candidates": [
+    {
+      "date": "2023-11-23",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fatype.com/typefaces/baton",
+      "snippet": "ht Buy vii\tChloë’s Naïve xv Dé®b©ute™d ix @ 1923.84.172 25\t45°53 ' 3.67 ' S 47\tΦΙΛΟΣΟΦΙΑ 31\tC. De Gaulle S CASANOVA M Y 2023/11/23 X L République Condensed Medium Buy Lafayette Light Buy They marveled at the digital canv"
+    },
+    {
+      "date": "2026-02-14",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fatype.com/typefaces/baton",
+      "snippet": "2026-02-14"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fatype.com/typefaces/baton",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "jana-thork",
+  "source_url": "https://outrasfontes.com/typefaces/jana-thork",
+  "checked_at": "2026-03-09T01:57:25.395096+00:00",
+  "candidates": [
+    {
+      "date": "2021-05-09",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://outrasfontes.com/jana-thork/",
+      "snippet": "2021-05-09T00:48:13+00:00"
+    },
+    {
+      "date": "2021-05-09",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://outrasfontes.com/jana-thork/",
+      "snippet": "2021-05-09T00:48:13+00:00"
+    },
+    {
+      "date": "2024-05-22",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://outrasfontes.com/jana-thork/",
+      "snippet": "2024-05-22T01:20:39+00:00"
+    },
+    {
+      "date": "2024-05-22",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://outrasfontes.com/jana-thork/",
+      "snippet": "2024-05-22T01:20:39+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://outrasfontes.com/typefaces/jana-thork",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://outrasfontes.com/jana-thork/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "sweet-lily",
+  "source_url": "https://celine-hurka.com/sweetlily/",
+  "checked_at": "2026-03-09T01:49:30.272774+00:00",
+  "candidates": [
+    {
+      "date": "2023-09-13",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://celine-hurka.com/sweetlily/",
+      "snippet": "2023-09-13T07:06:32+00:00"
+    },
+    {
+      "date": "2023-09-13",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://celine-hurka.com/sweetlily/",
+      "snippet": "2023-09-13T07:06:32+00:00"
+    },
+    {
+      "date": "2025-05-18",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://celine-hurka.com/sweetlily/",
+      "snippet": "2025-05-18T02:00:15+00:00"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://celine-hurka.com/sweetlily/",
+      "snippet": "S VERSION GARDEN OF AETHER REVIVING TYPE Writing In Use Information Licensing Trial fonts Cart Céline Hurka TYPEFACES / 2023 / SWEET LILY Test A year ago, I saw the water lilies disappear. I spent three months in almost "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://celine-hurka.com/sweetlily/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://celine-hurka.com/sweetlily/",
+    "last_modified": null
+  }
+}

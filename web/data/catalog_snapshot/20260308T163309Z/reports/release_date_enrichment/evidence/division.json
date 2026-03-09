@@ -1,0 +1,41 @@
+{
+  "record_id": "division",
+  "source_url": "https://skrr-type.com/division",
+  "checked_at": "2026-03-09T01:44:22.991101+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://skrr-type.com/division",
+      "snippet": "02C) , : colon (U+003A) : ; semicolon (U+003B) ; ! exclamation mark (U+0021) ! ? question mark (U+003F) ? â¢ bullet (U+2022) â¢ * asterisk (U+002A) * # number sign (U+0023) # @ commercial at (U+0040) @ & ampersand (U+0"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://skrr-type.com/division",
+      "snippet": "App License View in cart Student License View in cart Download Trial Trial version Regular Download In Use Skrr Type Â© 2025 Instagram m@skrr-type.com"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://skrr-type.com/division",
+      "snippet": "Sun, 29 Jun 2025 09:45:08 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://skrr-type.com/division",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://skrr-type.com/division",
+    "last_modified": "Sun, 29 Jun 2025 09:45:08 GMT"
+  }
+}

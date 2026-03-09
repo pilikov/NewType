@@ -1,0 +1,34 @@
+{
+  "record_id": "type-o-tones--optica",
+  "source_url": "https://type-o-tones.com/fonts/optica",
+  "checked_at": "2026-03-09T01:47:13.400363+00:00",
+  "candidates": [
+    {
+      "date": "2004-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/optica",
+      "snippet": "ecial Buying options Optica Family Pack 2 Fonts 30 € 24 € Add to cart Twelve, Thirteen Author José Manuel Urós Creation 2004 Actual version 2 (2010) Styles 2 Character sets Basic Latin Latin-1 Supplement License Types De"
+    },
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/optica",
+      "snippet": "tica Family Pack 2 Fonts 30 € 24 € Add to cart Twelve, Thirteen Author José Manuel Urós Creation 2004 Actual version 2 (2010) Styles 2 Character sets Basic Latin Latin-1 Supplement License Types Desktop, Webfont, ePub, A"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://type-o-tones.com/fonts/optica",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://type-o-tones.com/fonts/optica",
+    "last_modified": null
+  }
+}

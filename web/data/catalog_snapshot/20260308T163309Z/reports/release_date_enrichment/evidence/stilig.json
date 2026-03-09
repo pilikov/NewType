@@ -1,0 +1,41 @@
+{
+  "record_id": "stilig",
+  "source_url": "https://skriftkompani.no/typefaces/stilig",
+  "checked_at": "2026-03-09T01:50:42.571042+00:00",
+  "candidates": [
+    {
+      "date": "1995-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://skriftkompani.no/typefaces/stilig",
+      "snippet": "License About Store Norske Stilig is a colour font inspired by the photo type font Indigo, created by Andy Song (1936â1995). Indigo was designed in 1972 for Studios Hollenstein Phototypo (1957â1978), a Paris-based bu"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://skriftkompani.no/typefaces/stilig",
+      "snippet": "andia Condensed SN Skandia Mono SN Skandia Narrow SN Stempel SN Stilig SN Tango SN Trafikk Baat AS 6104 Volda Norway Â© 2025"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://skriftkompani.no/typefaces/stilig",
+      "snippet": "Thu, 13 Nov 2025 08:22:36 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://skriftkompani.no/typefaces/stilig",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://skriftkompani.no/typefaces/stilig",
+    "last_modified": "Thu, 13 Nov 2025 08:22:36 GMT"
+  }
+}

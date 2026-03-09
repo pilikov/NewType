@@ -1,0 +1,41 @@
+{
+  "record_id": "beckett",
+  "source_url": "https://a2-type.co.uk/beckett",
+  "checked_at": "2026-03-09T01:51:47.870091+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/beckett",
+      "snippet": "a hard edge that creates an immediate impression on any surface. The font family was updated and re-released in October 2017, with 11 styles: from Extralight to Heavy. Note, if you purchased a legacy version of this font"
+    },
+    {
+      "date": "2009-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/beckett",
+      "snippet": " Buy A2 Beckett was originally designed for the Faber & Faber series of book covers ‘Samuel Beckett: Complete Works’ in 2009. The typeface’s origins are from machine-cut era wood type, characterised by a hard edge that c"
+    },
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/beckett",
+      "snippet": "leased in October 2017, with 11 styles: from Extralight to Heavy. Note, if you purchased a legacy version of this font (2010–October 2017) and require webfonts or additional styles for this discontinued version, then ple"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://a2-type.co.uk/beckett",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://a2-type.co.uk/beckett",
+    "last_modified": null
+  }
+}

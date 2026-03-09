@@ -1,0 +1,27 @@
+{
+  "record_id": "marble-arch",
+  "source_url": "https://www.daltonmaag.com/library/marble-arch",
+  "checked_at": "2026-03-09T01:42:58.057954+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/marble-arch.html",
+      "snippet": "le font, it adapts to any project, for caption, text, headline, or display, regardless of scale. Designed and developed\n2023 Designers Carlos De Toro Writing Systems Latin Supporting over 800\nLanguages Aari (Latin Script"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.daltonmaag.com/library/marble-arch",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.daltonmaag.com/font-library/marble-arch.html",
+    "last_modified": null
+  }
+}

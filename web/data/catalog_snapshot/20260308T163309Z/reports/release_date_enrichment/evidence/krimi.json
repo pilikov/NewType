@@ -1,0 +1,62 @@
+{
+  "record_id": "krimi",
+  "source_url": "https://ecal-typefaces.ch/typefaces/krimi",
+  "checked_at": "2026-03-09T01:57:36.557361+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-18",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://ecal-typefaces.ch/typeface/krimi/",
+      "snippet": "2024-01-18T10:14:13+00:00"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://ecal-typefaces.ch/typeface/krimi/",
+      "snippet": "2026-02-03T14:29:38+00:00"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://ecal-typefaces.ch/typeface/krimi/",
+      "snippet": "2026-02-03T14:29:38+00:00"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ecal-typefaces.ch/typeface/krimi/",
+      "snippet": "ches Atar Genève in 1935 for the movie ‘Le Criminel Inconnu’ by Jean Brocher. Krimi was designed by János Hunor Vári in 2022. close AÁĂÂÄÀĀĄÅÃÆBCĆČÇDÐĎĐEÉĚÊËĖÈĒĘFGĢHIĲÍÎÏÌĪĮKĶLĹĽĻŁMNŃŇŅÑOÓÔÖÒŐŌØÕŒPÞQRŔŘŖSŚŠŞẞTŤŢUÚÛÜÙŰŪŲŮ"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ecal-typefaces.ch/typeface/krimi/",
+      "snippet": "to use in their school projects. Read more in our EULA if you're unsure which license you need. ©Students, ECAL\n        2026.\n        All rights reserved. This site uses cookies to provide you an optimal browsing experie"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://ecal-typefaces.ch/typeface/krimi/",
+      "snippet": "Sun, 08 Mar 2026 18:50:48 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ecal-typefaces.ch/typefaces/krimi",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ecal-typefaces.ch/typeface/krimi/",
+    "last_modified": "Sun, 08 Mar 2026 18:50:48 GMT"
+  }
+}

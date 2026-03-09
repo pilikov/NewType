@@ -1,0 +1,27 @@
+{
+  "record_id": "condensed-sans-no-10",
+  "source_url": "https://a2-type.co.uk/condensed-sans-no-10",
+  "checked_at": "2026-03-09T01:43:18.529369+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/condensed-sans-no-10",
+      "snippet": "etnamese, Vunjo, Walloon, Welsh, Western Frisian, Wolof, Xhosa, Zulu Manufacturer: A2-TYPE Designer: Henrik Kubel Year: 2024 Copyright: © A2-TYPE Trademark: Condensed Sans No.10 is a trademark of A2-TYPE Licence: Terms a"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://a2-type.co.uk/condensed-sans-no-10",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://a2-type.co.uk/condensed-sans-no-10",
+    "last_modified": null
+  }
+}

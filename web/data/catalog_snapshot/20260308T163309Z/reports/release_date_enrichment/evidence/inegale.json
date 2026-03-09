@@ -1,0 +1,62 @@
+{
+  "record_id": "inegale",
+  "source_url": "https://www.psyops.com/typeface/inegale",
+  "checked_at": "2026-03-09T02:03:04.849383+00:00",
+  "candidates": [
+    {
+      "date": "2016-10-05",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.psyops.com/inegale/",
+      "snippet": "2016-10-05T20:02:49+00:00"
+    },
+    {
+      "date": "2023-07-11",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.psyops.com/inegale/",
+      "snippet": "2023-07-11T22:14:23+00:00"
+    },
+    {
+      "date": "2023-07-11",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.psyops.com/inegale/",
+      "snippet": "2023-07-11T22:14:23+00:00"
+    },
+    {
+      "date": "1995-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.psyops.com/inegale/",
+      "snippet": "D ITALIC 1 36 COMPANY ABOUT US PRIVACY LEARN MORE DESIGN LICENSING CONNECT WITH US CONTACT FORM JOIN OUR MAILING LIST © 1995–2025 PSY/OPS Type Foundry. All Rights Reserved. Page load link 0 Added to cart Close cart Your "
+    },
+    {
+      "date": "1999-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.psyops.com/inegale/",
+      "snippet": "Inegale is a clean and calligraphic, yet legible, typeface designed by Matthijs Van Leeuwen for PSY/OPS Type Foundry in 1999. The Inegale Set contains six modern fonts in three weights: Regular, Demi and Bold. The Inegal"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.psyops.com/inegale/",
+      "snippet": "LIC 1 36 COMPANY ABOUT US PRIVACY LEARN MORE DESIGN LICENSING CONNECT WITH US CONTACT FORM JOIN OUR MAILING LIST © 1995–2025 PSY/OPS Type Foundry. All Rights Reserved. Page load link 0 Added to cart Close cart Your Cart "
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.psyops.com/typeface/inegale",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.psyops.com/inegale/",
+    "last_modified": null
+  }
+}

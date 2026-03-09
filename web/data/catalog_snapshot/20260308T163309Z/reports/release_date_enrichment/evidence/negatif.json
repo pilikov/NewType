@@ -1,0 +1,41 @@
+{
+  "record_id": "negatif",
+  "source_url": "https://blazetype.eu/typefaces/negatif",
+  "checked_at": "2026-03-09T01:48:02.306419+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://blazetype.eu/typefaces/negatif",
+      "snippet": "l effects and to play with overlays. It's up to you to reveal your darkest side! Designed by Nicolas Dupuis Released in 2023 Styles Upright, Display Export .OTF .WOFF .WOFF2 Developed for Latin European Languages Afrikaa"
+    },
+    {
+      "date": "2024-11-02",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://blazetype.eu/typefaces/negatif",
+      "snippet": "2024-11-02"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://blazetype.eu/typefaces/negatif",
+      "snippet": " Bonto Mega Armag Arges Sichem Gueta Discotack Negatif Tangley Square Swirl Zoo Barabbas Dudler Taklobo Sapfir Darker © 2026 Blaze Type All rights reserved Cookie Consent We use cookies to provide you with the best possi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://blazetype.eu/typefaces/negatif",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://blazetype.eu/typefaces/negatif",
+    "last_modified": null
+  }
+}

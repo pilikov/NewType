@@ -1,0 +1,27 @@
+{
+  "record_id": "setimo",
+  "source_url": "https://www.daltonmaag.com/library/setimo",
+  "checked_at": "2026-03-09T01:52:12.234931+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/setimo.html",
+      "snippet": "design elements, aiding readers in navigating, absorbing, and understanding your message. Designed and developed\n2015â2017 Designers Fernando Caro Writing Systems Latin Supporting over 750\nLanguages Aari (Latin Script)"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.daltonmaag.com/library/setimo",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.daltonmaag.com/font-library/setimo.html",
+    "last_modified": null
+  }
+}

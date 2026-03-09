@@ -1,0 +1,19 @@
+{
+  "record_id": "adb-luder",
+  "source_url": "https://www.adotbelow.com/fonts/luder",
+  "checked_at": "2026-03-09T01:40:50.246062+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.adotbelow.com/fonts/luder",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "403 Client Error: Forbidden for url: https://www.adotbelow.com/fonts/luder"
+  }
+}

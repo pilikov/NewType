@@ -1,0 +1,76 @@
+{
+  "record_id": "runde-wien",
+  "source_url": "https://wannatype.com/typefaces/runde-wien",
+  "checked_at": "2026-03-09T01:57:19.190941+00:00",
+  "candidates": [
+    {
+      "date": "2020-11-17",
+      "score": 0.9,
+      "source_type": "meta:datePublished",
+      "source_url": "https://wannatype.com/product/runde-wien-pro-complete-pack/",
+      "snippet": "2020-11-17"
+    },
+    {
+      "date": "2020-11-19",
+      "score": 0.9,
+      "source_type": "meta:datePublished",
+      "source_url": "https://wannatype.com/product/runde-wien-pro-complete-pack/",
+      "snippet": "2020-11-19"
+    },
+    {
+      "date": "2020-12-20",
+      "score": 0.9,
+      "source_type": "meta:datePublished",
+      "source_url": "https://wannatype.com/product/runde-wien-pro-complete-pack/",
+      "snippet": "2020-12-20"
+    },
+    {
+      "date": "2022-03-30",
+      "score": 0.9,
+      "source_type": "meta:datePublished",
+      "source_url": "https://wannatype.com/product/runde-wien-pro-complete-pack/",
+      "snippet": "2022-03-30"
+    },
+    {
+      "date": "2022-10-28",
+      "score": 0.9,
+      "source_type": "meta:datePublished",
+      "source_url": "https://wannatype.com/product/runde-wien-pro-complete-pack/",
+      "snippet": "2022-10-28"
+    },
+    {
+      "date": "2022-11-09",
+      "score": 0.9,
+      "source_type": "meta:datePublished",
+      "source_url": "https://wannatype.com/product/runde-wien-pro-complete-pack/",
+      "snippet": "2022-11-09"
+    },
+    {
+      "date": "2023-07-24",
+      "score": 0.9,
+      "source_type": "meta:datePublished",
+      "source_url": "https://wannatype.com/product/runde-wien-pro-complete-pack/",
+      "snippet": "2023-07-24"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://wannatype.com/product/runde-wien-pro-complete-pack/",
+      "snippet": "ng. Please check your entries and try again. By clicking the submit button you agree to the wannatype privacy policy. © 2025 wannatype.com Designed by wannatype.com. Engineered by danubeweb.at. Gefördert durch die Wirtsc"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://wannatype.com/typefaces/runde-wien",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://wannatype.com/product/runde-wien-pro-complete-pack/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "ldn-sloane-square",
+  "source_url": "https://londontype.co.uk/fonts/ldn-sloane-square",
+  "checked_at": "2026-03-09T01:55:41.882901+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://londontype.co.uk/fonts/ldn-sloane-square",
+      "snippet": "Font - London Type Foundry Fonts Licensing Custom About 0 Basket Fonts Licensing Custom About Newsletter Email Submit © 2026 The London Type Foundry. All Rights Reserved. LDN Sloane Square Buy now LDN Sloane Square LDN S"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://londontype.co.uk/fonts/ldn-sloane-square",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://londontype.co.uk/fonts/ldn-sloane-square",
+    "last_modified": null
+  }
+}

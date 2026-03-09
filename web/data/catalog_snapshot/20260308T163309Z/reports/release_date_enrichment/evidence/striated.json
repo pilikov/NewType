@@ -1,0 +1,27 @@
+{
+  "record_id": "striated",
+  "source_url": "https://r-vtype.com/typefaces/striated",
+  "checked_at": "2026-03-09T02:00:42.564136+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.r-vtype.com/typeface/striated/",
+      "snippet": " PDF-Specimen Weights Regular, Italic, Medium, Medium Italic, Bold, Bold Italic Format OpenType Version 1.100, February 2025 Language Support See specimen No. 43 No. 3 Series"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://r-vtype.com/typefaces/striated",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.r-vtype.com/typeface/striated/",
+    "last_modified": null
+  }
+}

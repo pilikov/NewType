@@ -1,0 +1,34 @@
+{
+  "record_id": "dazzed",
+  "source_url": "https://displaay.net/typeface/dazzed",
+  "checked_at": "2026-03-09T01:43:52.144915+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://displaay.net/typeface/dazzed",
+      "snippet": " Martin VÃ¡cha Spacing & Kerning Igino Marini Details Range 7 Weights, 14 Styles 2 VF Axes : Slant, Weight Released Aug 2016 Update Mar 2026 Version 4.003 Download Free Full Trials Test All Styles Buy Starting 45 â¬ Dis"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://displaay.net/typeface/dazzed",
+      "snippet": "pacing & Kerning Igino Marini Details Range 7 Weights, 14 Styles 2 VF Axes : Slant, Weight Released Aug 2016 Update Mar 2026 Version 4.003 Download Free Full Trials Test All Styles Buy Starting 45 â¬ Discounts 70 % Comp"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://displaay.net/typeface/dazzed",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://displaay.net/typeface/dazzed",
+    "last_modified": null
+  }
+}

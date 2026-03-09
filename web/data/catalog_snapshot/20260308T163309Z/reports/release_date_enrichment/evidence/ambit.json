@@ -1,0 +1,19 @@
+{
+  "record_id": "ambit",
+  "source_url": "https://cotypefoundry.com/our-fonts/ambit",
+  "checked_at": "2026-03-09T01:54:00.931135+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://cotypefoundry.com/our-fonts/ambit",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "403 Client Error: Forbidden for url: https://cotypefoundry.com/our-fonts/ambit"
+  }
+}

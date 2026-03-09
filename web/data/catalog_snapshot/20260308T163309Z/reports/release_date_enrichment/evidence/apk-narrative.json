@@ -1,0 +1,48 @@
+{
+  "record_id": "apk-narrative",
+  "source_url": "https://apk-type.com/typefaces/apk-narrative",
+  "checked_at": "2026-03-09T01:36:40.555048+00:00",
+  "candidates": [
+    {
+      "date": "2025-03-19",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://apk-type.com/family/apk-narrative/",
+      "snippet": "2025-03-19T10:56:58+00:00"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://apk-type.com/family/apk-narrative/",
+      "snippet": "spects of recent APK fonts in a freshly drawn and slightly more condensed fashion. The project was started in September 2023 and we are happy to finally launch the complete type family. Default/Alternates The Default set"
+    },
+    {
+      "date": "2026-01-19",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://apk-type.com/family/apk-narrative/",
+      "snippet": "2026-01-19T15:50:22+00:00"
+    },
+    {
+      "date": "2026-01-19",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://apk-type.com/family/apk-narrative/",
+      "snippet": "2026-01-19T15:50:22+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://apk-type.com/typefaces/apk-narrative",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://apk-type.com/family/apk-narrative/",
+    "last_modified": null
+  }
+}

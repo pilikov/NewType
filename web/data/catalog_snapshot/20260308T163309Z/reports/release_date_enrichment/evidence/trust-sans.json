@@ -1,0 +1,27 @@
+{
+  "record_id": "trust-sans",
+  "source_url": "https://fonts.antoniolechuga.com/typefaces/trust-sans",
+  "checked_at": "2026-03-09T02:03:57.811315+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fonts.antoniolechuga.com/producto/trust-sans-4-pack-desktop/",
+      "snippet": "iza Text  Web $ 220.00 Original price was: $ 220.00. $ 100.00 Current price is: $ 100.00. IVA Incl. Añadir al carrito © 2026 Antonio Mejía Lechuga All Rights Reserved Consulta nuestro aviso de privacidad. EULA – End User"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fonts.antoniolechuga.com/typefaces/trust-sans",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fonts.antoniolechuga.com/producto/trust-sans-4-pack-desktop/",
+    "last_modified": null
+  }
+}

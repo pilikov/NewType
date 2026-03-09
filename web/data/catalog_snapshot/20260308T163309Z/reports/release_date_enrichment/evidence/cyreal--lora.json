@@ -1,0 +1,41 @@
+{
+  "record_id": "cyreal--lora",
+  "source_url": "https://www.cyreal.org/fonts/lora",
+  "checked_at": "2026-03-09T01:36:04.782545+00:00",
+  "candidates": [
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/lora/",
+      "snippet": "TTF, woff2 Download Donate Source Files Authors: Alexei Vanyashin Olga Karpushina Tags: Serif Scripts: Latin Cyrillic © 2010–2026 Cyreal and respective authors. All rights reserved. This site uses cookies (including Goog"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/lora/",
+      "snippet": " story, or an art essay. Technically Lora is optimised for screen appearance, and works equally well in print. In March 2019, the family has been updated to a variable font family. To contribute, see github.com/cyrealtyp"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/lora/",
+      "snippet": "woff2 Download Donate Source Files Authors: Alexei Vanyashin Olga Karpushina Tags: Serif Scripts: Latin Cyrillic © 2010–2026 Cyreal and respective authors. All rights reserved. This site uses cookies (including Google An"
+    },
+    {
+      "date": "2026-03-02",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.cyreal.org/fonts/lora",
+      "snippet": "2026-03-02"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.cyreal.org/fonts/lora/",
+    "last_modified": null
+  }
+}

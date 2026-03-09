@@ -1,0 +1,34 @@
+{
+  "record_id": "wtf-geometric-inline",
+  "source_url": "https://workhorse.studio/pages/workhorse-geo-inline",
+  "checked_at": "2026-03-09T01:55:27.665189+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://workhorse.studio/pages/workhorse-geo-inline",
+      "snippet": "ween text and any of the display typefaces. 7 Styles: Thin, Extra Light, Light, Book, Semibold, Bold, Black Designed in 2021 by Adrian Kimball Font Newsletter New font releases, major updates, and the occasional helpful "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://workhorse.studio/pages/workhorse-geo-inline",
+      "snippet": "etric Workhorse Script Workhorse Nouveau Workhorse Didot Resources Licensing FAQ Custom Type Contact Student Licenses © 2026, Workhorse Type Foundry Choosing a selection results in a full page refresh. Opens in a new win"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://workhorse.studio/pages/workhorse-geo-inline",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://workhorse.studio/pages/workhorse-geo-inline",
+    "last_modified": null
+  }
+}

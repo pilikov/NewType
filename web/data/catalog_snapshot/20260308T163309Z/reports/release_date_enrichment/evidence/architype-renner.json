@@ -1,0 +1,69 @@
+{
+  "record_id": "architype-renner",
+  "source_url": "https://www.thefoundrytypes.com/typefaces/architype-renner",
+  "checked_at": "2026-03-09T01:54:10.990058+00:00",
+  "candidates": [
+    {
+      "date": "2020-08-14",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.thefoundrytypes.com/fonts/architype-renner/",
+      "snippet": "2020-08-14T13:22:03+00:00"
+    },
+    {
+      "date": "2002-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/architype-renner/",
+      "snippet": "Main, 1927. Futura type specimen showing Light, Medium and Bold, 1930. Architype Renner, Graphics International 92, Feb 2002, p29. Licence Architype Renner through Monotype The original Foundry font collection is current"
+    },
+    {
+      "date": "2020-09-22",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.thefoundrytypes.com/fonts/architype-renner/",
+      "snippet": "2020-09-22T21:52:36+00:00"
+    },
+    {
+      "date": "2020-09-22",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.thefoundrytypes.com/fonts/architype-renner/",
+      "snippet": "2020-09-22T21:52:36+00:00"
+    },
+    {
+      "date": "1997-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/architype-renner/",
+      "snippet": "pe Renner Architype Renner, one of the first typefaces to be revived by The Foundry under the ‘Architype One’ series in 1997. Recreating the experimental, geometric glyphs which Paul Renner drew for the Futura typeface f"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/architype-renner/",
+      "snippet": "AQs Font licensing Privacy policy Account My account Orders Downloads Website by Studio Playne © The Foundry Types 1989–2026 Back to top"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.thefoundrytypes.com/fonts/architype-renner/",
+      "snippet": "Tue, 03 Mar 2026 22:42:42 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.thefoundrytypes.com/typefaces/architype-renner",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.thefoundrytypes.com/fonts/architype-renner/",
+    "last_modified": "Tue, 03 Mar 2026 22:42:42 GMT"
+  }
+}

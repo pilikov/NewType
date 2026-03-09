@@ -1,0 +1,19 @@
+{
+  "record_id": "marlene",
+  "source_url": "https://www.typotheque.com/fonts/marlene",
+  "checked_at": "2026-03-09T01:42:26.158993+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.typotheque.com/fonts/marlene",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "403 Client Error: Forbidden for url: https://www.typotheque.com/fonts/marlene"
+  }
+}

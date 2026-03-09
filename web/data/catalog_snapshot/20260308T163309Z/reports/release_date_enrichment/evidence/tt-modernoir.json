@@ -1,0 +1,83 @@
+{
+  "record_id": "tt-modernoir",
+  "source_url": "https://typetype.org/typefaces/tt-modernoir",
+  "checked_at": "2026-03-09T02:03:23.151049+00:00",
+  "candidates": [
+    {
+      "date": "2024-08-30",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typetype.org/fonts/tt-modernoir/",
+      "snippet": "2024-08-30T09:55:25+00:00"
+    },
+    {
+      "date": "2024-08-30",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://typetype.org/fonts/tt-modernoir/",
+      "snippet": "2024-08-30T09:55:25+00:00"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-modernoir/",
+      "snippet": "atives Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! Font Update: What’s New in the Latest Version Version"
+    },
+    {
+      "date": "2024-09-03",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-modernoir/",
+      "snippet": "or over 230 languages Add sophistication and romance to your design with TT Modernoir! Release and update date Release: September 3, 2024 Last update: July 15, 2025 What's changed in the font: A full lowercase set has be"
+    },
+    {
+      "date": "2025-07-15",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-modernoir/",
+      "snippet": "aturing dynamic proportions. It merges the flowing curves of Art Nouveau with the rhythmic freedom of jazz. Update from July 15, 2025 — What’s New? Single style: from $ 43.99 Full family: from $ 139 6 styles Buy font Tes"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-modernoir/",
+      "snippet": "s Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! Font Update: What’s New in the Latest Version Version from"
+    },
+    {
+      "date": "2025-10-04",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typetype.org/fonts/tt-modernoir/",
+      "snippet": "2025-10-04T08:55:19+00:00"
+    },
+    {
+      "date": "2025-10-04",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://typetype.org/fonts/tt-modernoir/",
+      "snippet": "2025-10-04T08:55:19+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://typetype.org/fonts/tt-modernoir/",
+      "snippet": "Fri, 06 Mar 2026 22:21:48 GMT"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typetype.org/typefaces/tt-modernoir",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typetype.org/fonts/tt-modernoir/",
+    "last_modified": "Fri, 06 Mar 2026 22:21:48 GMT"
+  }
+}

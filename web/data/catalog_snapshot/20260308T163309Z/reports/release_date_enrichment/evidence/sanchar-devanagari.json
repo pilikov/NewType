@@ -1,0 +1,41 @@
+{
+  "record_id": "sanchar-devanagari",
+  "source_url": "https://www.indiantypefoundry.com/fonts/sanchar-devanagari",
+  "checked_at": "2026-03-09T01:47:02.798294+00:00",
+  "candidates": [
+    {
+      "date": "2015-04-08",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.indiantypefoundry.com/fonts/sanchar-devanagari",
+      "snippet": "ooks Newspapers Wayfinding Headlines Hindi Signage Family Name Sanchar Devanagari Designer(s) Dhruvi Tolia Release Date April 8, 2015 Available Style Light, Regular, Medium, Semibold, Bold Classification Sans Supported L"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.indiantypefoundry.com/fonts/sanchar-devanagari",
+      "snippet": "ndiantypefoundry.com Back to top Design Plasticbionic - Code Dansuncoinsidense - Backend SLONLine Indian Type Foundry © 2016 - 2026"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.indiantypefoundry.com/fonts/sanchar-devanagari",
+      "snippet": "pefoundry.com Back to top Design Plasticbionic - Code Dansuncoinsidense - Backend SLONLine Indian Type Foundry © 2016 - 2026"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.indiantypefoundry.com/fonts/sanchar-devanagari",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.indiantypefoundry.com/fonts/sanchar-devanagari",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "record_id": "diodrum-arabic",
+  "source_url": "https://www.indiantypefoundry.com/fonts/diodrum-arabic",
+  "checked_at": "2026-03-09T01:44:19.744065+00:00",
+  "candidates": [
+    {
+      "date": "2015-05-11",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.indiantypefoundry.com/fonts/diodrum-arabic",
+      "snippet": "ont More info about this font Family Name Diodrum Designer(s) Alisa Nowak , Clara Jullien , Jérémie Hornus Release Date May 11, 2015 Available Style Extralight, Extralight Italic, Light, Light Italic, Regular, Regular It"
+    },
+    {
+      "date": "2016-01-18",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.indiantypefoundry.com/fonts/diodrum-arabic",
+      "snippet": "Publishing Annual Reports Non-Latin Screen Invitation Family Name Diodrum Arabic Designer(s) Bahman Eslami Release Date January 18, 2016 Available Style Extralight, Light, Regular, Medium, Semibold, Bold Classification S"
+    },
+    {
+      "date": "2016-09-21",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.indiantypefoundry.com/fonts/diodrum-arabic",
+      "snippet": "out this font More info about this font Family Name Diodrum Greek Designer(s) Alisa Nowak , Jérémie Hornus Release Date September 21, 2016 Available Style Extralight, Light, Regular, Medium, Semibold, Bold Classification"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.indiantypefoundry.com/fonts/diodrum-arabic",
+      "snippet": "ndiantypefoundry.com Back to top Design Plasticbionic - Code Dansuncoinsidense - Backend SLONLine Indian Type Foundry © 2016 - 2026"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.indiantypefoundry.com/fonts/diodrum-arabic",
+      "snippet": "pefoundry.com Back to top Design Plasticbionic - Code Dansuncoinsidense - Backend SLONLine Indian Type Foundry © 2016 - 2026"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.indiantypefoundry.com/fonts/diodrum-arabic",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.indiantypefoundry.com/fonts/diodrum-arabic",
+    "last_modified": null
+  }
+}

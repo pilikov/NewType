@@ -1,0 +1,55 @@
+{
+  "record_id": "volte-devanagari",
+  "source_url": "https://www.indiantypefoundry.com/fonts/volte-devanagari",
+  "checked_at": "2026-03-09T01:50:02.495105+00:00",
+  "candidates": [
+    {
+      "date": "2015-03-17",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.indiantypefoundry.com/fonts/volte-devanagari",
+      "snippet": " font More info about this font Family Name Volte Designer(s) Alisa Nowak , Jérémie Hornus , Namrata Goyal Release Date March 17, 2015 Available Style Light, Light Italic, Regular, Regular Italic, Medium, Medium Italic, "
+    },
+    {
+      "date": "2015-04-08",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.indiantypefoundry.com/fonts/volte-devanagari",
+      "snippet": " Newspapers Screen Books Headlines Invitation Hindi Family Name Volte Devanagari Designer(s) Namrata Goyal Release Date April 8, 2015 Available Style Light, Regular, Medium, Semibold, Bold Classification Sans, Display Su"
+    },
+    {
+      "date": "2016-09-21",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.indiantypefoundry.com/fonts/volte-devanagari",
+      "snippet": "re info about this font More info about this font Family Name Volte Rounded Designer(s) Shiva Nallaperumal Release Date September 21, 2016 Available Style Light, Regular, Medium, Semibold, Bold Classification Display, Sa"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.indiantypefoundry.com/fonts/volte-devanagari",
+      "snippet": "ndiantypefoundry.com Back to top Design Plasticbionic - Code Dansuncoinsidense - Backend SLONLine Indian Type Foundry © 2016 - 2026"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.indiantypefoundry.com/fonts/volte-devanagari",
+      "snippet": "pefoundry.com Back to top Design Plasticbionic - Code Dansuncoinsidense - Backend SLONLine Indian Type Foundry © 2016 - 2026"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.indiantypefoundry.com/fonts/volte-devanagari",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.indiantypefoundry.com/fonts/volte-devanagari",
+    "last_modified": null
+  }
+}

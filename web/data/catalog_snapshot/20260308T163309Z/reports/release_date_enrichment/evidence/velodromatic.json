@@ -1,0 +1,27 @@
+{
+  "record_id": "velodromatic",
+  "source_url": "https://www.suvatypefoundry.ee/velodromatic/",
+  "checked_at": "2026-03-09T01:56:45.707261+00:00",
+  "candidates": [
+    {
+      "date": "2004-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/velodromatic/",
+      "snippet": " FONT VELODROMATIC NEXT FONT J L W G V F S Y T N Z K DOWNLOAD C B Q U D M R A P E O H I X VELODROMATIC by Anton Koovit (2004) Typeface inspired by Sloten velodrome in Amsterdam. DOWNLOAD When using fonts featured on SUVA"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/velodromatic/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/velodromatic/",
+    "last_modified": null
+  }
+}

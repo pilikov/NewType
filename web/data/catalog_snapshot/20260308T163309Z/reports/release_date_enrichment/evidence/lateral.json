@@ -1,0 +1,20 @@
+{
+  "record_id": "lateral",
+  "source_url": "https://www.schick-toikka.com/typefaces/lateral",
+  "checked_at": "2026-03-09T01:55:32.821820+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.schick-toikka.com/typefaces/lateral",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.schick-toikka.com/typefaces/lateral",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "record_id": "mattone",
+  "source_url": "https://collletttivo.it/typefaces/mattone",
+  "checked_at": "2026-03-09T01:49:15.819716+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-18",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://www.collletttivo.it/typefaces/mattone",
+      "snippet": "2018-01-18T00:00:00.000Z"
+    },
+    {
+      "date": "2018-01-18",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.collletttivo.it/typefaces/mattone",
+      "snippet": " Details Designed by Nunzio Mazzaferro 1 Family , 3 Styles Supports Latin Licensed under SIL Open Font License Released January 18, 2018 Last updated October 6, 2023 Version 2.000 Download Donate to support our Open Sour"
+    },
+    {
+      "date": "2023-10-06",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.collletttivo.it/typefaces/mattone",
+      "snippet": "zzaferro 1 Family , 3 Styles Supports Latin Licensed under SIL Open Font License Released January 18, 2018 Last updated October 6, 2023 Version 2.000 Download Donate to support our Open Source font catalogue Collletttivo"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.collletttivo.it/typefaces/mattone",
+      "snippet": "ead and agree to the Privacy Policy submit email instagram github twitter Licensing Privacy Policy Newsletter Archive © 2026 Collletttivo Designed by Collletttivo. Developed by Luigi Gorlero ."
+    },
+    {
+      "date": "2023-10-06",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.collletttivo.it/typefaces/mattone",
+      "snippet": "2023-10-06T00:00:00.000Z"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.collletttivo.it/typefaces/mattone",
+      "snippet": "ghly visible sans serif with generous width proportions and loud curves – as round as they can be. Initially started in 2017 as a display face, Mattone was completely redrawn from scratch in 2021 and can now set longer t"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.collletttivo.it/typefaces/mattone",
+      "snippet": " – as round as they can be. Initially started in 2017 as a display face, Mattone was completely redrawn from scratch in 2021 and can now set longer text pieces at smaller sizes with a broader language support. Details De"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://collletttivo.it/typefaces/mattone",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.collletttivo.it/typefaces/mattone",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "record_id": "lost",
+  "source_url": "https://www.205.tf/lost",
+  "checked_at": "2026-03-09T01:48:05.133865+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/lost",
+      "snippet": " our newsletter: ▶︎ Follow Us Facebook Instagram LinkedIn Bluesky Typeface Lost Designer Federico Parra Barrios Release 2025 Fonts In Use Specimen Lost is a typeface that reflects the life choice that its designer, Feder"
+    },
+    {
+      "date": "2011-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/lost",
+      "snippet": "hrgastfahrten im Jahr 2021 auf etwa 359 Millionen. Im Linienverkehr legten im Jahr 2021 die U-Bahn-Züge 22,3 Millionen (2011: 20,9 Millionen) Nutzzugkilometer zurück. Im Jahr 2023 beförderte die U-Bahn wieder rund 529,8 "
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/lost",
+      "snippet": "g von 750 Volt verwendet. Für die U-Bahn verzeichnete die BVG im Jahr 2019 ihren Fahrgastrekord mit rund 596 Millionen (2018: rund 583 Millionen) Fahrgastfahrten. Aufgrund der COVID-19-Pandemie sank die Zahl der Fahrgast"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/lost",
+      "snippet": "zum Einsatz. Als Bahnstrom wird eine Gleichspannung von 750 Volt verwendet. Für die U-Bahn verzeichnete die BVG im Jahr 2019 ihren Fahrgastrekord mit rund 596 Millionen (2018: rund 583 Millionen) Fahrgastfahrten. Aufgrun"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/lost",
+      "snippet": "en (2018: rund 583 Millionen) Fahrgastfahrten. Aufgrund der COVID-19-Pandemie sank die Zahl der Fahrgastfahrten im Jahr 2021 auf etwa 359 Millionen. Im Linienverkehr legten im Jahr 2021 die U-Bahn-Züge 22,3 Millionen (20"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/lost",
+      "snippet": "inienverkehr legten im Jahr 2021 die U-Bahn-Züge 22,3 Millionen (2011: 20,9 Millionen) Nutzzugkilometer zurück. Im Jahr 2023 beförderte die U-Bahn wieder rund 529,8 Millionen Fahrgäste. Die Berliner U-Bahn unterhält – ge"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/lost",
+      "snippet": " Use Specimen Lost is a typeface that reflects the life choice that its designer, Federico Parra Barrios, made in early 2024, when he left his hometown of Bogotá to settle in Berlin after several years navigating between"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.205.tf/lost",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.205.tf/lost",
+    "last_modified": null
+  }
+}

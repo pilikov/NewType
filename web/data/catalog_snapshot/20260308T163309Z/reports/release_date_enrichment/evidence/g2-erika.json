@@ -1,0 +1,41 @@
+{
+  "record_id": "g2-erika",
+  "source_url": "https://gruppo-due.com/typeface/g2-erika",
+  "checked_at": "2026-03-09T01:40:40.543476+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://gruppo-due.com/typefaces/erika/",
+      "snippet": "shed Zero 0 Fractions 0/1 2/3 4/5 6/7 8/9 Ordinals 0a 1a 2a 3a 4a 5a 6a 7a 8a 9a No. About Designed by Moritz Appich in 2018 Design and proof assistance from Massimiliano Audretsch and Bruno Jacoby Spacing and Kerning by"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://gruppo-due.com/typefaces/erika/",
+      "snippet": " request a license, you will receive a download link\n      including the relevant font files and a license agreement. © 2026 Gruppo Due GbR About Gruppo Due Retail Typefaces Custom Typefaces Projects Online Shop Free Tri"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://gruppo-due.com/typefaces/erika/",
+      "snippet": "Sat, 17 Jan 2026 00:16:42 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://gruppo-due.com/typeface/g2-erika",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://gruppo-due.com/typefaces/erika/",
+    "last_modified": "Sat, 17 Jan 2026 00:16:42 GMT"
+  }
+}

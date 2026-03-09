@@ -1,0 +1,62 @@
+{
+  "record_id": "chosmos",
+  "source_url": "https://typozon.xyz/typeface/chosmos",
+  "checked_at": "2026-03-09T01:54:11.647498+00:00",
+  "candidates": [
+    {
+      "date": "2024-11-12",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typozon.xyz/typeface/chosmos",
+      "snippet": "2024-11-12T01:58:26-05:00"
+    },
+    {
+      "date": "2024-11-12",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://typozon.xyz/typeface/chosmos",
+      "snippet": "2024-11-12T06:58:26+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typozon.xyz/typeface/chosmos",
+      "snippet": "ipt: Latin Language Support: Basic Latin + Latin-1 Suplement and Latin Extended (A+B) Current Version: V1.0 Released 04.2025 Specimens In Use CHOSMOS is designed for headlines, branding, packaging, and statements that de"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typozon.xyz/typeface/chosmos",
+      "snippet": "n LLC © Full Character Set Typefaces Licensing In Use News Contact About Log In﻿ FAQ Instagram LinkedIn Mastodon Goods﻿ 2026 © Typozon™ → Subscribe to receive communications from Typozon LLC. By subscribing, you confirm "
+    },
+    {
+      "date": "2026-02-16",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typozon.xyz/typeface/chosmos",
+      "snippet": "2026-02-16T17:54:01-05:00"
+    },
+    {
+      "date": "2026-02-16",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://typozon.xyz/typeface/chosmos",
+      "snippet": "2026-02-16T22:54:01+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typozon.xyz/typeface/chosmos",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typozon.xyz/typeface/chosmos",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "record_id": "vocal-type--tre",
+  "source_url": "https://www.vocaltype.co/history-of/tre",
+  "checked_at": "2026-03-09T02:01:41.333525+00:00",
+  "candidates": [
+    {
+      "date": "2023-09-29",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.vocaltype.co/history-of/tre",
+      "snippet": "2023-09-29T14:06:14-0400"
+    },
+    {
+      "date": "2023-09-29",
+      "score": 0.9,
+      "source_type": "meta:datePublished",
+      "source_url": "https://www.vocaltype.co/history-of/tre",
+      "snippet": "2023-09-29T14:06:14-0400"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.vocaltype.co/history-of/tre",
+      "snippet": "thing about type design back then, but I knew that one day I’d be capable of releasing it to the world. And finally, in 2013, during my sophomore year of college, I finally did it. I unveiled “Unveil.” As for the sans se"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.vocaltype.co/history-of/tre",
+      "snippet": "rm than good when the diversity of the world is not represented at the proverbial table. But it wasn’t until I read her 2016 sequel, released just a few weeks later, entitled “Black Designers: Still Missing In Action”, T"
+    },
+    {
+      "date": "2023-09-29",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.vocaltype.co/history-of/tre",
+      "snippet": "2023-09-29T14:49:31-0400"
+    },
+    {
+      "date": "2009-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.vocaltype.co/history-of/tre",
+      "snippet": "ldn’t afford it, then I made it, and if people liked it, then I’d probably try to sell it. Beads and Photography by me (2009). Beads and Photography by me (2009). Aside from these creative hustles, I also started a 3 yea"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.vocaltype.co/history-of/tre",
+      "snippet": "story Progress Information Reach Sign In My Account TRÉ Tre Seals · September 29, 2023 As I’m writing this, the year is 2023. However, this all began about two or three years ago when, during a post-lecture Q&A session, "
+    },
+    {
+      "date": "2023-09-29",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.vocaltype.co/history-of/tre",
+      "snippet": "l Type Sign In My Account Typefaces Custom Design History Progress Information Reach Sign In My Account TRÉ Tre Seals · September 29, 2023 As I’m writing this, the year is 2023. However, this all began about two or three"
+    },
+    {
+      "date": "2026-02-13",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.vocaltype.co/history-of/tre",
+      "snippet": "2026-02-13"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.vocaltype.co/history-of/tre",
+    "last_modified": null
+  }
+}

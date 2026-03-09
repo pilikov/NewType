@@ -1,0 +1,97 @@
+{
+  "record_id": "terminal-design--slooterdam",
+  "source_url": "https://www.terminaldesign.com/fonts/slooterdam/",
+  "checked_at": "2026-03-09T01:35:58.347228+00:00",
+  "candidates": [
+    {
+      "date": "2020-10-02",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.terminaldesign.com/fonts/slooterdam/",
+      "snippet": "2020-10-02T20:27:55+00:00"
+    },
+    {
+      "date": "2021-12-16",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.terminaldesign.com/fonts/slooterdam/",
+      "snippet": "2021-12-16T17:22:34+00:00"
+    },
+    {
+      "date": "2021-12-16",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.terminaldesign.com/fonts/slooterdam/",
+      "snippet": "2021-12-16T17:22:34+00:00"
+    },
+    {
+      "date": "1990-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.terminaldesign.com/fonts/slooterdam/",
+      "snippet": "acqueline Carey James Patterson Kathy Reichs Rachel Kushner Stephen King Request a Quote Terminal Design was founded in 1990 by me, James Montalbano , and is located on the terminal moraine in Brooklyn, NY. Hence the nam"
+    },
+    {
+      "date": "1995-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.terminaldesign.com/fonts/slooterdam/",
+      "snippet": "ut that only made me ill. When my nausea subsided, I started Terminal Design, Inc. and I haven’t been sick since. Since 1995 I have been working on the Clearview type system for text, display, roadway and interior guide "
+    },
+    {
+      "date": "2002-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.terminaldesign.com/fonts/slooterdam/",
+      "snippet": "| Yo® Sophie | Yo® Zelda Client Work Custom Fonts | Lettering | Request a Quote About Font Licensing | Privacy Policy © 2002 - 2026 Terminal Design, Inc., All Rights Reserved. 718, Alfon, Badinage, Cappella, Choice Sans,"
+    },
+    {
+      "date": "2004-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.terminaldesign.com/fonts/slooterdam/",
+      "snippet": ". Since 1995 I have been working on the Clearview type system for text, display, roadway and interior guide signage. In 2004 the 13 font ClearviewHwy family was granted interim approval by the Federal Highway Administrat"
+    },
+    {
+      "date": "2009-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.terminaldesign.com/fonts/slooterdam/",
+      "snippet": "nt. Download PDF Type Specimens All Slooterdam Fonts contain these characters. OpenType Features I began this design in 2009. I drew the basic characters of one weight then became busy with other things and didn’t look a"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.terminaldesign.com/fonts/slooterdam/",
+      "snippet": "of one weight then became busy with other things and didn’t look at it again until the Covid-19 lockdown began in March 2020. Not having much client work and looking for something to do, I revisited the design and though"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.terminaldesign.com/fonts/slooterdam/",
+      "snippet": "ophie | Yo® Zelda Client Work Custom Fonts | Lettering | Request a Quote About Font Licensing | Privacy Policy © 2002 - 2026 Terminal Design, Inc., All Rights Reserved. 718, Alfon, Badinage, Cappella, Choice Sans, Consul"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.terminaldesign.com/fonts/slooterdam/",
+      "snippet": "Thu, 16 Dec 2021 17:22:34 GMT"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.terminaldesign.com/fonts/slooterdam/",
+      "snippet": "2026-03-05"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.terminaldesign.com/fonts/slooterdam/",
+    "last_modified": "Thu, 16 Dec 2021 17:22:34 GMT"
+  }
+}

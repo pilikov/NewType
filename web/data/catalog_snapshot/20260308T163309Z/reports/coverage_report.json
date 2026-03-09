@@ -1,0 +1,468 @@
+{
+  "run_id": "20260308T163309Z",
+  "started_at": "2026-03-08T16:33:09.289689+00:00",
+  "api": {
+    "base_url": "https://api.type.lol",
+    "rest_url": "https://api.type.lol/rest/v1",
+    "page_size": 1000
+  },
+  "tables": {
+    "foundries": {
+      "total_count": 1194,
+      "fetched_rows_this_run": 1194,
+      "unique_rows": 1194,
+      "pages_written": 2,
+      "completed": true
+    },
+    "typefaces": {
+      "total_count": 14854,
+      "fetched_rows_this_run": 14854,
+      "unique_rows": 14854,
+      "pages_written": 15,
+      "completed": true
+    },
+    "designers": {
+      "total_count": 1972,
+      "fetched_rows_this_run": 1972,
+      "unique_rows": 1972,
+      "pages_written": 2,
+      "completed": true
+    }
+  },
+  "validation": {
+    "entity_counts": {
+      "foundries": 1194,
+      "typefaces": 14854,
+      "designers": 1972,
+      "foundry_ids_unique": 1194,
+      "typeface_ids_unique": 14854,
+      "designer_ids_unique": 1972
+    },
+    "relationship_counts": {
+      "foundry_typeface": 14854,
+      "typeface_designer": 10174,
+      "designer_foundry": 2319
+    },
+    "referential_integrity": {
+      "missing_typeface_foundry_refs_count": 0,
+      "missing_credit_designer_refs_count": 3028,
+      "missing_affiliation_foundry_refs_count": 14,
+      "missing_typeface_foundry_refs_examples": [],
+      "missing_credit_designer_refs_examples": [
+        {
+          "typeface_id": "a-ali",
+          "designer_id": "philippe-apeloig",
+          "credit_name": "Philippe Apeloig",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "anodyne",
+          "designer_id": "ryan-martinson",
+          "credit_name": "Ryan Martinson",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "accia-flare",
+          "designer_id": "andriy-konstantynov-first-published-on-jun",
+          "credit_name": "Andriy Konstantynov First published on Jun",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "adgothic",
+          "designer_id": "robert-wiebking",
+          "credit_name": "Robert Wiebking",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "adgothic",
+          "designer_id": "jamie-changyear-released",
+          "credit_name": "Jamie ChangYear Released",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "adria-slab",
+          "designer_id": "marcus-sterzafar",
+          "credit_name": "Marcus SterzAfar",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "akin",
+          "designer_id": "sabina-chipara",
+          "credit_name": "Sabina Chipară",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "akin",
+          "designer_id": "parimal-parmar",
+          "credit_name": "Parimal Parmar",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "akin",
+          "designer_id": "nikola-giacintova",
+          "credit_name": "Nikola Giacintová",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "akin",
+          "designer_id": "natanael-gama",
+          "credit_name": "Natanael Gama",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "an-corp",
+          "designer_id": "micael-priest",
+          "credit_name": "Micael Priest",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "gist-rough",
+          "designer_id": "ryan-martinson",
+          "credit_name": "Ryan Martinson",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "andada-ht-pro",
+          "designer_id": "carolina-giovagnoli-release-date",
+          "credit_name": "Carolina Giovagnoli Release date",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "amateur",
+          "designer_id": "charis-tsevis-format-desktop",
+          "credit_name": "Charis Tsevis FORMAT Desktop",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "aragorn",
+          "designer_id": "francesco-canovaro-version",
+          "credit_name": "Francesco Canovaro Version",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "sagittaire",
+          "designer_id": "valerio-monopoli-released-in",
+          "credit_name": "Valerio Monopoli Released in",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "base-900",
+          "designer_id": "mark-andresen",
+          "credit_name": "Mark Andresen",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "base-900",
+          "designer_id": "bob-aufuldish",
+          "credit_name": "Bob Aufuldish",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "base-900",
+          "designer_id": "jonathan-barnbrook",
+          "credit_name": "Jonathan Barnbrook",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "base-900",
+          "designer_id": "david-cabianca",
+          "credit_name": "David Cabianca",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "base-900",
+          "designer_id": "rodrigo-cavazos",
+          "credit_name": "Rodrigo Cavazos",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "base-900",
+          "designer_id": "barry-deck",
+          "credit_name": "Barry Deck",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "base-900",
+          "designer_id": "eric-donelan",
+          "credit_name": "Eric Donelan",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "base-900",
+          "designer_id": "john-downer",
+          "credit_name": "John Downer",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "base-900",
+          "designer_id": "elliott-peter-earls",
+          "credit_name": "Elliott Peter Earls",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "base-900",
+          "designer_id": "edward-fella",
+          "credit_name": "Edward Fella",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "base-900",
+          "designer_id": "martin-friedl",
+          "credit_name": "Martin Friedl",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "base-900",
+          "designer_id": "frank-heine",
+          "credit_name": "Frank Heine",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "base-900",
+          "designer_id": "john-hersey",
+          "credit_name": "John Hersey",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "base-900",
+          "designer_id": "jeffery-keedy",
+          "credit_name": "Jeffery Keedy",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "base-900",
+          "designer_id": "nancy-mazzei",
+          "credit_name": "Nancy Mazzei",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "base-900",
+          "designer_id": "brian-kelly",
+          "credit_name": "Brian Kelly",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "base-900",
+          "designer_id": "zuzana-licko",
+          "credit_name": "Zuzana Licko",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "base-900",
+          "designer_id": "conor-mangat",
+          "credit_name": "Conor Mangat",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "base-900",
+          "designer_id": "tucker-nichols",
+          "credit_name": "Tucker Nichols",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "base-900",
+          "designer_id": "claudio-piccinini",
+          "credit_name": "Claudio Piccinini",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "base-900",
+          "designer_id": "rudy-vanderlans",
+          "credit_name": "Rudy VanderLans",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "begum-sans",
+          "designer_id": "heidi-rand-s-rensen",
+          "credit_name": "Heidi Rand Sørensen",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "begum-sans",
+          "designer_id": "manushi-parikh",
+          "credit_name": "Manushi Parikh",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "slug",
+          "designer_id": "marcus-sterz-afar",
+          "credit_name": "Marcus Sterz Afar",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "associate-sans",
+          "designer_id": "samo-acko",
+          "credit_name": "Samo Ačko",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "associate-sans",
+          "designer_id": "satya-rajpurohit",
+          "credit_name": "Satya Rajpurohit",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "blockhead-illustrations",
+          "designer_id": "mark-andresen",
+          "credit_name": "Mark Andresen",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "blockhead-illustrations",
+          "designer_id": "bob-aufuldish",
+          "credit_name": "Bob Aufuldish",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "blockhead-illustrations",
+          "designer_id": "jonathan-barnbrook",
+          "credit_name": "Jonathan Barnbrook",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "blockhead-illustrations",
+          "designer_id": "david-cabianca",
+          "credit_name": "David Cabianca",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "blockhead-illustrations",
+          "designer_id": "rodrigo-cavazos",
+          "credit_name": "Rodrigo Cavazos",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "blockhead-illustrations",
+          "designer_id": "barry-deck",
+          "credit_name": "Barry Deck",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "blockhead-illustrations",
+          "designer_id": "eric-donelan",
+          "credit_name": "Eric Donelan",
+          "source": "typefaces.credits"
+        },
+        {
+          "typeface_id": "blockhead-illustrations",
+          "designer_id": "john-downer",
+          "credit_name": "John Downer",
+          "source": "typefaces.credits"
+        }
+      ],
+      "missing_affiliation_foundry_refs_examples": [
+        {
+          "designer_id": "fontpad",
+          "foundry_id": "fontpad",
+          "role": "designer",
+          "source": "designers.affiliations"
+        },
+        {
+          "designer_id": "gerrit-noordzij",
+          "foundry_id": "kabk",
+          "role": "Professor",
+          "source": "designers.affiliations"
+        },
+        {
+          "designer_id": "colin-brignall",
+          "foundry_id": "letraset",
+          "role": "Type Director",
+          "source": "designers.affiliations"
+        },
+        {
+          "designer_id": "david-berlow",
+          "foundry_id": "bitstream",
+          "role": "Type Designer",
+          "source": "designers.affiliations"
+        },
+        {
+          "designer_id": "aldo-novarese",
+          "foundry_id": "nebiolo",
+          "role": "Artistic Director",
+          "source": "designers.affiliations"
+        },
+        {
+          "designer_id": "david-jonathan-ross",
+          "foundry_id": "type-network",
+          "role": "designer",
+          "source": "designers.affiliations"
+        },
+        {
+          "designer_id": "saskia",
+          "foundry_id": "mojomox-fonts",
+          "role": "founder",
+          "source": "designers.affiliations"
+        },
+        {
+          "designer_id": "matthew-carter",
+          "foundry_id": "bitstream",
+          "role": "Co-founder",
+          "source": "designers.affiliations"
+        },
+        {
+          "designer_id": "oswald-bruce-cooper",
+          "foundry_id": "barnhart-brothers-spindler",
+          "role": "Type Designer",
+          "source": "designers.affiliations"
+        },
+        {
+          "designer_id": "georg-trump",
+          "foundry_id": "weber",
+          "role": "Type Designer",
+          "source": "designers.affiliations"
+        },
+        {
+          "designer_id": "r-hunter-middleton",
+          "foundry_id": "ludlow",
+          "role": "Director of Type Design",
+          "source": "designers.affiliations"
+        },
+        {
+          "designer_id": "dirk-laucke",
+          "foundry_id": "studio-laucke-siebein",
+          "role": "designer",
+          "source": "designers.affiliations"
+        },
+        {
+          "designer_id": "johanna-siebein",
+          "foundry_id": "studio-laucke-siebein",
+          "role": "designer",
+          "source": "designers.affiliations"
+        },
+        {
+          "designer_id": "rudolf-koch",
+          "foundry_id": "klingspor",
+          "role": "Type Designer",
+          "source": "designers.affiliations"
+        }
+      ]
+    },
+    "is_valid": false
+  },
+  "finished_at": "2026-03-08T16:33:25.576413+00:00",
+  "duration_seconds": 16.287,
+  "coverage": {
+    "tables": {
+      "foundries": {
+        "total_count_api": 1194,
+        "unique_rows_local": 1194,
+        "coverage_percent": 100.0
+      },
+      "typefaces": {
+        "total_count_api": 14854,
+        "unique_rows_local": 14854,
+        "coverage_percent": 100.0
+      },
+      "designers": {
+        "total_count_api": 1972,
+        "unique_rows_local": 1972,
+        "coverage_percent": 100.0
+      }
+    },
+    "overall_tables_with_100pct": [
+      "foundries",
+      "typefaces",
+      "designers"
+    ]
+  }
+}

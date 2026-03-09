@@ -1,0 +1,27 @@
+{
+  "record_id": "rando",
+  "source_url": "https://camelot-typefaces.com/rando",
+  "checked_at": "2026-03-09T01:51:23.505689+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://camelot-typefaces.com/rando",
+      "snippet": "Mon, 09 Mar 2026 01:51:23 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://camelot-typefaces.com/rando",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://camelot-typefaces.com/rando",
+    "last_modified": "Mon, 09 Mar 2026 01:51:23 GMT"
+  }
+}

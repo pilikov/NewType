@@ -1,0 +1,48 @@
+{
+  "record_id": "ivar-hand",
+  "source_url": "https://lettersfromsweden.se/font/ivar-hand",
+  "checked_at": "2026-03-09T01:45:34.789569+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://lettersfromsweden.se/font/ivar-hand/",
+      "snippet": "ar Hand is a typeface based on the handwriting of Ivar at eight years old. Originally drawn on a Remarkable 2 tablet in 2022, it was developed into a font in 2024. To enhance its handwritten feel, Ivar Hand features a bu"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://lettersfromsweden.se/font/ivar-hand/",
+      "snippet": "dwriting of Ivar at eight years old. Originally drawn on a Remarkable 2 tablet in 2022, it was developed into a font in 2024. To enhance its handwritten feel, Ivar Hand features a built-in randomizer, activated through t"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://lettersfromsweden.se/font/ivar-hand/",
+      "snippet": "ble glyphs at the bottom of this page before licensing. If you require a missing glyph, feel free to get in touch. Year 2025 Designed by Ivar Script(s) latin Ivar Hand Adelia BAZAAR Blåkulla Capitaine Eklips Eksell Displ"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://lettersfromsweden.se/font/ivar-hand/",
+      "snippet": "Mon, 09 Mar 2026 01:45:35 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://lettersfromsweden.se/font/ivar-hand",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://lettersfromsweden.se/font/ivar-hand/",
+    "last_modified": "Mon, 09 Mar 2026 01:45:35 GMT"
+  }
+}

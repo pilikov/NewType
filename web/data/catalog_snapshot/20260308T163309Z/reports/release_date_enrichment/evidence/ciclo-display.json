@@ -1,0 +1,27 @@
+{
+  "record_id": "ciclo-display",
+  "source_url": "https://fonts.antoniolechuga.com/typefaces/ciclo-display",
+  "checked_at": "2026-03-09T01:49:11.146853+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fonts.antoniolechuga.com/ciclo-display/",
+      "snippet": "variant (Subhead) in which this angle is a factor that determines the optical sizes of the different variants. Buy it © 2026 Antonio Mejía Lechuga All Rights Reserved Consulta nuestro aviso de privacidad. EULA – End User"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fonts.antoniolechuga.com/typefaces/ciclo-display",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fonts.antoniolechuga.com/ciclo-display/",
+    "last_modified": null
+  }
+}

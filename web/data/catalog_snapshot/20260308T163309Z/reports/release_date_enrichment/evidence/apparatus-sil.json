@@ -1,0 +1,76 @@
+{
+  "record_id": "apparatus-sil",
+  "source_url": "https://scripts.sil.org/ApparatusSIL",
+  "checked_at": "2026-03-09T01:51:06.701257+00:00",
+  "candidates": [
+    {
+      "date": "1998-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://scripts.sil.org/cms/scripts/page.php?id=apparatussil&site_id=nrsi",
+      "snippet": "fice for Graphite. License Apparatus SIL is released under the SIL Open Font License (OFL) , version 1.1. Copyright (c) 1998-2009, SIL International ( https://scripts.sil.org/ ) with Reserved Font Names \"Apparatus\" and \""
+    },
+    {
+      "date": "2003-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://scripts.sil.org/cms/scripts/page.php?id=apparatussil&site_id=nrsi",
+      "snippet": "ocument, 33KB [5723 downloads] Known Issues If you have CJK enabled in Regional and Language Options and in your Office 2003 Language Settings, Word 2003 may not properly display the New Testament editorial symbols U+2E0"
+    },
+    {
+      "date": "2009-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://scripts.sil.org/cms/scripts/page.php?id=apparatussil&site_id=nrsi",
+      "snippet": "for Graphite. License Apparatus SIL is released under the SIL Open Font License (OFL) , version 1.1. Copyright (c) 1998-2009, SIL International ( https://scripts.sil.org/ ) with Reserved Font Names \"Apparatus\" and \"SIL\"."
+    },
+    {
+      "date": "2009-06-12",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://scripts.sil.org/cms/scripts/page.php?id=apparatussil&site_id=nrsi",
+      "snippet": " this page to subscribe: SIL Font News subscription . Fonts Apparatus SIL 1.0 - Windows, Mac OS X, GNU/Linux NRSI team, 2009-06-12 Download \"ApparatusSIL.zip\" , ZIP archive, 124KB [35094 downloads] The font release conta"
+    },
+    {
+      "date": "2001-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://scripts.sil.org/cms/scripts/page.php?id=apparatussil&site_id=nrsi",
+      "snippet": "+1D5D, U+1D60 Phonetic Extensions Supplement U+1D9C, U+1D9C, U+1DA0, U+1DBB Greek Extended U+1FEF General Punctuation U+2001, U+2003 Superscripts and Subscripts U+2070..U+2071, U+2074..U+207F Letterlike Symbols U+2113, U"
+    },
+    {
+      "date": "2012-01-04",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://scripts.sil.org/cms/scripts/page.php?id=apparatussil&site_id=nrsi",
+      "snippet": "racters. We do not provide a keyboard for accessing them. Chart of Appartus SIL characters and codepoints Lorna Priest, 2012-01-04 Download \"ApparatusSIL_ViewGlyph.pdf\" , Acrobat PDF document, 33KB [5723 downloads] Known"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://scripts.sil.org/cms/scripts/page.php?id=apparatussil&site_id=nrsi",
+      "snippet": " SIL International Non-Roman Script Initiative 7500 W. Camp Wisdom Rd. Dallas, TX 75236 USA Email: Contact Form Â© 2003-2024 SIL International , all rights reserved, unless otherwise noted elsewhere on this page. Provide"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://scripts.sil.org/cms/scripts/page.php?id=apparatussil&site_id=nrsi",
+      "snippet": "Tue, 05 Mar 2024 03:46:46 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://scripts.sil.org/ApparatusSIL",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://scripts.sil.org/cms/scripts/page.php?id=apparatussil&site_id=nrsi",
+    "last_modified": "Tue, 05 Mar 2024 03:46:46 GMT"
+  }
+}

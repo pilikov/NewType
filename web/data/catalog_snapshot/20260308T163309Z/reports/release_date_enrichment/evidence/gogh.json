@@ -1,0 +1,48 @@
+{
+  "record_id": "gogh",
+  "source_url": "https://www.typeforward.com/typefaces/gogh",
+  "checked_at": "2026-03-09T01:52:46.472326+00:00",
+  "candidates": [
+    {
+      "date": "2025-06-19",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typeforward.com/typefaces/gogh/",
+      "snippet": "2025-06-19T15:01:54+00:00"
+    },
+    {
+      "date": "2025-11-25",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typeforward.com/typefaces/gogh/",
+      "snippet": "2025-11-25T14:21:43+00:00"
+    },
+    {
+      "date": "2025-11-25",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://typeforward.com/typefaces/gogh/",
+      "snippet": "2025-11-25T14:21:43+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typeforward.com/typefaces/gogh/",
+      "snippet": "ansferred to Brevo for processing. Learn more about Brevo’s Privacy Practices↗︎ and Type Forward’s Privacy Policy↗︎ . © 2026 Type Forward ∙ All rights reserved Spacetype OOD Privacy Policy Cookie Policy Terms of Use Impr"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.typeforward.com/typefaces/gogh",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typeforward.com/typefaces/gogh/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "vtg-stencil-din-type-a",
+  "source_url": "https://astype.de/font_v_vtg-stencil-din-type-a.php",
+  "checked_at": "2026-03-09T01:56:02.169893+00:00",
+  "candidates": [
+    {
+      "date": "2021-10-06",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_v_vtg-stencil-din-type-a.php",
+      "snippet": "etter alternates.\r\nIts no longer in full line to the old DIN 1451 specs. Enjoy the fonts and do some great stuff! News: 2021-10-06 | Vtg Stencil DIN Type A, (Schablonenschrift A) Text Fonts: Megato Secca Secca Soft Secca"
+    },
+    {
+      "date": "2003-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_v_vtg-stencil-din-type-a.php",
+      "snippet": "as B Stencil Ornaments A Thanksgiving Wine Grape A Free Fonts: DIN Type A - Basic Presto Nepos Fonts Wood Poster Eight ©2003 – 2026 by Andreas Seidel | astype fonts RSS Feed Imprint"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_v_vtg-stencil-din-type-a.php",
+      "snippet": "encil Ornaments A Thanksgiving Wine Grape A Free Fonts: DIN Type A - Basic Presto Nepos Fonts Wood Poster Eight ©2003 – 2026 by Andreas Seidel | astype fonts RSS Feed Imprint"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://astype.de/font_v_vtg-stencil-din-type-a.php",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.astype.de/font_v_vtg-stencil-din-type-a.php",
+    "last_modified": null
+  }
+}

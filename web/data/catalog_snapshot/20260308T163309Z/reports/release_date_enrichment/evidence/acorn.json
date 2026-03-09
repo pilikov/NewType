@@ -1,0 +1,27 @@
+{
+  "record_id": "acorn",
+  "source_url": "https://beastsofengland.co/products/acorn",
+  "checked_at": "2026-03-09T01:37:54.385269+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://beastsofengland.co/products/acorn",
+      "snippet": "sword: “emerge”. I write it down in case I forget it and need it later. But I remember. Check out a sample PDF, here. © 2026 Beasts of England Terms & License Privacy Policy Search Search"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://beastsofengland.co/products/acorn",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://beastsofengland.co/products/acorn",
+    "last_modified": null
+  }
+}

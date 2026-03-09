@@ -1,0 +1,20 @@
+{
+  "record_id": "skelter",
+  "source_url": "https://hex.xyz/Skelter",
+  "checked_at": "2026-03-09T01:44:26.030977+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://hex.xyz/Skelter",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hex.xyz/Skelter/",
+    "last_modified": null
+  }
+}

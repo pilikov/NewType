@@ -1,0 +1,41 @@
+{
+  "record_id": "britney",
+  "source_url": "https://hypersand.studio/shop/britney",
+  "checked_at": "2026-03-09T01:44:12.458728+00:00",
+  "candidates": [
+    {
+      "date": "2023-05-04",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://hypersand.studio/shop/product/britney-old/",
+      "snippet": "2023-05-04T13:41:17+00:00"
+    },
+    {
+      "date": "2025-10-15",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://hypersand.studio/shop/product/britney-old/",
+      "snippet": "2025-10-15T15:36:29+00:00"
+    },
+    {
+      "date": "2025-10-15",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://hypersand.studio/shop/product/britney-old/",
+      "snippet": "2025-10-15T15:36:29+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://hypersand.studio/shop/britney",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hypersand.studio/shop/product/britney-old/",
+    "last_modified": null
+  }
+}

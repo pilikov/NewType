@@ -1,0 +1,62 @@
+{
+  "record_id": "arphic--ar-udjingxihei",
+  "source_url": "https://www.arphic.com.tw/en/ar-jing-xi-hei/",
+  "checked_at": "2026-03-09T01:36:02.521795+00:00",
+  "candidates": [
+    {
+      "date": "2017-09-04",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://www.arphic.com.tw/en/ar-jing-xi-hei/",
+      "snippet": "2017-09-04"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.arphic.com.tw/en/ar-jing-xi-hei/",
+      "snippet": "t is featured with simplicity and style to bring users a new reading experience. Others AR UD JingXiHei is awarded with 2013 Good Design Award Best 100 AR UD JingXiHei Micro Font is awarded by 2020 GOLDEN PIN DESIGN AWAR"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.arphic.com.tw/en/ar-jing-xi-hei/",
+      "snippet": "u Condesed keeps its steadiness, simplicity and clearness to condensed Read more Arphic will give a talk in Typo Berlin 2017 Category： News Category： News Typo Berlin 2017 will be held from April 6 to 8 in Belin. Read mo"
+    },
+    {
+      "date": "2025-07-11",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.arphic.com.tw/en/ar-jing-xi-hei/",
+      "snippet": "2025-07-11"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.arphic.com.tw/en/ar-jing-xi-hei/",
+      "snippet": "rience. Others AR UD JingXiHei is awarded with 2013 Good Design Award Best 100 AR UD JingXiHei Micro Font is awarded by 2020 GOLDEN PIN DESIGN AWARD Log in Forgot password? Register now submit Register Checking informati"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.arphic.com.tw/en/ar-jing-xi-hei/",
+      "snippet": "Mon, 15 Sep 2025 04:31:29 GMT"
+    },
+    {
+      "date": "2026-03-02",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.arphic.com.tw/en/ar-jing-xi-hei/",
+      "snippet": "2026-03-02"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.arphic.com.tw/en/ar-jing-xi-hei/",
+    "last_modified": "Mon, 15 Sep 2025 04:31:29 GMT"
+  }
+}

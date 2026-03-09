@@ -1,0 +1,55 @@
+{
+  "record_id": "stellar",
+  "source_url": "https://moontype.de/stellar",
+  "checked_at": "2026-03-09T01:54:16.148823+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://moontype.de/stellar",
+      "snippet": "ive Stellar its character. As a text font, Stellar is also easy to read in small point sizes. Designer Pia Schröer Year 2020–2024 Version Version 1.0 Format TTF (Variable Font), WOFF2 © 2026 Moontype Foundry"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://moontype.de/stellar",
+      "snippet": "läge entworfen. Stellar und die Thesis «Type Trouble – Gendersensible Schriftgestaltung» sind als Masterarbeit zwischen 2021 und 2023 an der Hochschule für Angewandte Wissenschaften Hamburg entstanden. Seitdem wird Stell"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://moontype.de/stellar",
+      "snippet": "orfen. Stellar und die Thesis «Type Trouble – Gendersensible Schriftgestaltung» sind als Masterarbeit zwischen 2021 und 2023 an der Hochschule für Angewandte Wissenschaften Hamburg entstanden. Seitdem wird Stellar stets "
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://moontype.de/stellar",
+      "snippet": "tellar its character. As a text font, Stellar is also easy to read in small point sizes. Designer Pia Schröer Year 2020–2024 Version Version 1.0 Format TTF (Variable Font), WOFF2 © 2026 Moontype Foundry"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://moontype.de/stellar",
+      "snippet": " read in small point sizes. Designer Pia Schröer Year 2020–2024 Version Version 1.0 Format TTF (Variable Font), WOFF2 © 2026 Moontype Foundry"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://moontype.de/stellar",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://moontype.de/stellar",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "gracia-series",
+  "source_url": "https://www.astype.de/font_d_gracia.php",
+  "checked_at": "2026-03-09T01:46:26.992581+00:00",
+  "candidates": [
+    {
+      "date": "2003-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_d_gracia.php",
+      "snippet": "as B Stencil Ornaments A Thanksgiving Wine Grape A Free Fonts: DIN Type A - Basic Presto Nepos Fonts Wood Poster Eight ©2003 – 2026 by Andreas Seidel | astype fonts RSS Feed Imprint"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_d_gracia.php",
+      "snippet": "ecimen Sale Connect Imprint Privacy Policy Jobs & Internships Login Gracia Font Series version v2.001 - last update May 2023 Type Zoom – Click into the text to edit. No44 No44 Rough No45 No45 Rough Solo No54 No55 Fine En"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_d_gracia.php",
+      "snippet": "encil Ornaments A Thanksgiving Wine Grape A Free Fonts: DIN Type A - Basic Presto Nepos Fonts Wood Poster Eight ©2003 – 2026 by Andreas Seidel | astype fonts RSS Feed Imprint"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.astype.de/font_d_gracia.php",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.astype.de/font_d_gracia.php",
+    "last_modified": null
+  }
+}

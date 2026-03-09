@@ -1,0 +1,20 @@
+{
+  "record_id": "ott-ornamental-title-type--kerozene",
+  "source_url": "https://ott-foundry.com/typefaces/kerozene",
+  "checked_at": "2026-03-09T02:01:17.846058+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ott-foundry.com/typefaces/kerozene",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ott-foundry.com/typefaces/kerozene",
+    "last_modified": null
+  }
+}

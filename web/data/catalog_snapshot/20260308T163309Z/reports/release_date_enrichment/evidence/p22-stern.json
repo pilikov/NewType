@@ -1,0 +1,41 @@
+{
+  "record_id": "p22-stern",
+  "source_url": "https://p22.com/fonts/stern/",
+  "checked_at": "2026-03-09T01:48:31.039869+00:00",
+  "candidates": [
+    {
+      "date": "2008-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/stern/",
+      "snippet": " to your cart! Subtotal $0.00 State and local taxes may apply. Continue shopping View Cart Stern Originally released in 2008, Stern is the only typeface to be produced and marketed simultaneously in digital and metal. In"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/stern/",
+      "snippet": "sign is a delicate upright italic named in memory of Chris Stern, the late artist and printer from Washington State.\nIn 2013, Canada Type remastered and expanded the design’s offerings to a glyphset of over 1200 characte"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/stern/",
+      "snippet": " Modifier Symbol Greek ΄ Math Symbol ∂ ∆ ∏ ∑ + ± ÷ × < = ≠ > ¬ | ~ − ⁄ ∙ √ ∞ ∫ ≈ ≤ ≥ Other Symbol ° © ® ℗ ℮ ¦ ◊ ● № ™ © 2026 The Type Founders, LLC Fonts Designers About Privacy & Cookies Terms of Service Licensing Servi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://p22.com/fonts/stern/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://p22.com/fonts/stern/",
+    "last_modified": null
+  }
+}

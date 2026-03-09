@@ -1,0 +1,27 @@
+{
+  "record_id": "heavy",
+  "source_url": "https://www.suvatypefoundry.ee/heavy/",
+  "checked_at": "2026-03-09T02:01:27.370169+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/heavy/",
+      "snippet": "NT HEAVY NEXT FONT U P S F I Z V K J E A R DOWNLOAD W M C L N H T D Y X O G B Q HEAVY by Alexander Le Sage de Fontenay (2020) Heavy represents my understanding of “contemporary”, by channelling 1960s and 1970s history, y"
+    },
+    {
+      "date": "2026-02-15",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/heavy/",
+      "snippet": "2026-02-15"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/heavy/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "brando",
+  "source_url": "https://boldmonday.com/typeface/brando/",
+  "checked_at": "2026-03-09T01:38:10.955114+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/brando/",
+      "snippet": "ent discounts Privacy policy Return policy Disclaimer Subscribe to News & Updates Twitter | Facebook | Mail Copyright © 2026 Bold Monday – all rights reserved Made by Unwind"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/brando/",
+      "snippet": "s Choice Type Directors Club Certificate of Typographic Excellence in 2015. Designer Mike Abbink Aleksandra Samuļenkova 2012–2020 Brando supports the following languages Afrikaans, Albanian, Asu, Bashkir, Basque, Belarus"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/brando/",
+      "snippet": "he products section . Brando has received a Judge’s Choice Type Directors Club Certificate of Typographic Excellence in 2015. Designer Mike Abbink Aleksandra Samuļenkova 2012–2020 Brando supports the following languages "
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/brando/",
+      "snippet": "ice Type Directors Club Certificate of Typographic Excellence in 2015. Designer Mike Abbink Aleksandra Samuļenkova 2012–2020 Brando supports the following languages Afrikaans, Albanian, Asu, Bashkir, Basque, Belarusian, "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://boldmonday.com/typeface/brando/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://boldmonday.com/typeface/brando/",
+    "last_modified": null
+  }
+}

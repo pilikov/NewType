@@ -1,0 +1,41 @@
+{
+  "record_id": "muoto",
+  "source_url": "https://www.205.tf/muoto",
+  "checked_at": "2026-03-09T01:58:20.770377+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/muoto",
+      "snippet": "ibe to our newsletter: ▶︎ Follow Us Facebook Instagram LinkedIn Bluesky Typeface Muoto Designer Matthieu Cortat Release 2021 Fonts In Use Article Specimen Muoto is an extended type family, begun as a collaboration betwee"
+    },
+    {
+      "date": "2009-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/muoto",
+      "snippet": "rom Thin to Black) and now its four set widths (from Ultra Condensed to Extended), and everything is fully variable! In 2009, when GVA Studio joined the Base group, it marked the Swiss studio’s entry into a network of in"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/muoto",
+      "snippet": "was a story of debates and questions, of micro-modifications and radical decisions, of discussions and rich debates. In 2022, Matthieu Cortat began working on an extension for Muoto so as to offer designers a typographic"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.205.tf/muoto",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.205.tf/muoto",
+    "last_modified": null
+  }
+}

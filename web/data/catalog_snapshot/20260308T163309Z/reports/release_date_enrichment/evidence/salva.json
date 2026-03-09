@@ -1,0 +1,55 @@
+{
+  "record_id": "salva",
+  "source_url": "https://fabiohaagtype.com/typefaces/salva",
+  "checked_at": "2026-03-09T01:56:23.296357+00:00",
+  "candidates": [
+    {
+      "date": "2021-03-24",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://fabiohaagtype.com/en/font/salva/",
+      "snippet": "2021-03-24T14:46:08+00:00"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fabiohaagtype.com/en/font/salva/",
+      "snippet": ", aleatoriedade e sorte desempenham um papel vital. Uppercase & Lowercase Numerals Diacritics Symbols About Launch year 2021 Weights 9 Styles 4 Lead Designer Eduilson Coan Team Henrique Beier, Ana Laydner e Fabio Haag La"
+    },
+    {
+      "date": "2025-08-28",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://fabiohaagtype.com/en/font/salva/",
+      "snippet": "2025-08-28T14:27:52+00:00"
+    },
+    {
+      "date": "2025-08-28",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://fabiohaagtype.com/en/font/salva/",
+      "snippet": "2025-08-28T14:27:52+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fabiohaagtype.com/en/font/salva/",
+      "snippet": "romotional emails about our products and services. You can opt-out at any time. Retail Fonts Services Who We Are Blog © 2026 Fabio Haag Type / VLF Design Ltda Terms and conditions Privacy policy By clicking on \"Accept al"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fabiohaagtype.com/typefaces/salva",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fabiohaagtype.com/en/font/salva/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "mostest-mono",
+  "source_url": "https://www.thatthattype.com/fonts/mostest-mono",
+  "checked_at": "2026-03-09T01:49:38.312617+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thatthattype.com/fonts/mostest-mono",
+      "snippet": "no Fonts License Free Trial Fonts About Log in Mostest Mono 2200 1925 1650 1375 1100 825 550 Mostest Mono Spaced Font © 2026 That That Type"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.thatthattype.com/fonts/mostest-mono",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.thatthattype.com/fonts/mostest-mono",
+    "last_modified": null
+  }
+}

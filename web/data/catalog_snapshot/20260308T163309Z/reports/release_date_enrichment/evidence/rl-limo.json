@@ -1,0 +1,41 @@
+{
+  "record_id": "rl-limo",
+  "source_url": "https://www.radluka.com/rl-limo",
+  "checked_at": "2026-03-09T01:56:05.536422+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.radluka.com/rl-limo",
+      "snippet": "ration from iconic typefaces like ITC Benguiat, particularly in its heavier, display-oriented styles. Publication year: 2024 Styles RL Limo has 12 styles + variable fonts: Regular, Italic Medium, Medium Italic Semi, Semi"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.radluka.com/rl-limo",
+      "snippet": "ut ‍ License Agreement ‍ Free Trials Privacy Policy ‍ Terms & Conditions radeklukasiewicz@gmail.com Instagram LinkedIn ©2026 Radek Łukasiewicz. All rights reserved."
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.radluka.com/rl-limo",
+      "snippet": "Sat, 28 Feb 2026 17:19:55 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.radluka.com/rl-limo",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.radluka.com/rl-limo",
+    "last_modified": "Sat, 28 Feb 2026 17:19:55 GMT"
+  }
+}

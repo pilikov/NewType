@@ -1,0 +1,41 @@
+{
+  "record_id": "rst-thermal",
+  "source_url": "https://www.reset-type.com/typeface/Thermal",
+  "checked_at": "2026-03-09T02:01:23.182912+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.reset-type.com/typeface/Thermal",
+      "snippet": "Certificate of Typographic Excellence, Type Directors Club 2024 Honorable Mention, OESOL International Typography Award 2023 In use Subscribe to our newsletter RESET TYPE STUDIO ©2026, All Rights Reserved. info@reset-typ"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.reset-type.com/typeface/Thermal",
+      "snippet": "sa Yapese Yindjibarndi Zapotec Zarma Zazaki Zulu Zuni Awards Certificate of Typographic Excellence, Type Directors Club 2024 Honorable Mention, OESOL International Typography Award 2023 In use Subscribe to our newsletter"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.reset-type.com/typeface/Thermal",
+      "snippet": "2024 Honorable Mention, OESOL International Typography Award 2023 In use Subscribe to our newsletter RESET TYPE STUDIO ©2026, All Rights Reserved. info@reset-type.com San Jose 967 - Local 10 Montevideo, 11100, UY Newslet"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.reset-type.com/typeface/Thermal",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.reset-type.com/typeface/Thermal",
+    "last_modified": null
+  }
+}

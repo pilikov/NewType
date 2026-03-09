@@ -1,0 +1,48 @@
+{
+  "record_id": "sombra",
+  "source_url": "https://typemates.com/fonts/sombra",
+  "checked_at": "2026-03-09T01:50:37.129018+00:00",
+  "candidates": [
+    {
+      "date": "2020-06-29",
+      "score": 0.95,
+      "source_type": "jsonld:dateCreated",
+      "source_url": "https://www.typemates.com/fonts/sombra",
+      "snippet": "2020-06-29T11:10:25+02:00"
+    },
+    {
+      "date": "2020-08-18",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typemates.com/fonts/sombra",
+      "snippet": "2020-08-18T08:00:00+02:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typemates.com/fonts/sombra",
+      "snippet": "2026-03-05T12:04:30+01:00"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/sombra",
+      "snippet": "nd time settings. Somewhere between buildings and botany, Sombra finds balance in contrasts. Designed by Paul Eslage in 2020 specs 7 styles each with more than 700 glyphs formats otf and ttf for desktop and apps, woff an"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typemates.com/fonts/sombra",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typemates.com/fonts/sombra",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "p22-dearest",
+  "source_url": "https://p22.com/fonts/dearest/",
+  "checked_at": "2026-03-09T01:50:54.153795+00:00",
+  "candidates": [
+    {
+      "date": "2001-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/dearest/",
+      "snippet": "written characters found in a 19th Century German book chronicling a history of the Middle Ages. Originally released in 2001 as a set containing two styles, Script and Swash, Dearest is now expanded in 2014 as a pro font"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/dearest/",
+      "snippet": "e Middle Ages. Originally released in 2001 as a set containing two styles, Script and Swash, Dearest is now expanded in 2014 as a pro font with several hundred new characters including support for Central European, Cyril"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/dearest/",
+      "snippet": "s 0 1 2 3 4 5 6 7 8 9 Superscript 0 1 2 3 4 5 6 7 8 9 Numerators 0 1 2 3 4 5 6 7 8 9 Denominators 0 1 2 3 4 5 6 7 8 9 © 2026 The Type Founders, LLC Fonts Designers About Privacy & Cookies Terms of Service Licensing Servi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://p22.com/fonts/dearest/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://p22.com/fonts/dearest/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "pappardelle",
+  "source_url": "https://djr.com/pappardelle",
+  "checked_at": "2026-03-09T01:51:50.378957+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/pappardelle-v2-font-of-the-month",
+      "snippet": " “I should make a font like that.” But then I realized, I already have a font like that! Pappardelle , released October 2017, was my take on the 20th Century French Antique, directly inspired by Herbert Matter’s midcentu"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/pappardelle-v2-font-of-the-month",
+      "snippet": "vertical strokes and geometric curves are closer to Pappardelle Party , the stencil color variable experiment I made in 2018. And like Pappardelle Party, the curves are now less organic and more geometric; it’s easier to"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/pappardelle-v2-font-of-the-month",
+      "snippet": "es See all posts December 2, 2022 # David Jonathan Ross December’s Font of the Month: Pappardelle v2 Font of the Month, 2022/12 Try Buy $24 Skyline Restaurant, Marlboro, Vermont This summer, my wife Emily and I were pass"
+    },
+    {
+      "date": "2022-12-02",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/pappardelle-v2-font-of-the-month",
+      "snippet": "wog Rhody Rustique Slight Chance Tortellini Zenith DJR Club Typeset Glyphs Notes About Sign in Cart Notes See all posts December 2, 2022 # David Jonathan Ross December’s Font of the Month: Pappardelle v2 Font of the Mont"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://djr.com/pappardelle",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://djr.com/notes/pappardelle-v2-font-of-the-month",
+    "last_modified": null
+  }
+}

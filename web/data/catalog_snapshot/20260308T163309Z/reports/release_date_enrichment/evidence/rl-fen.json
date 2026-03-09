@@ -1,0 +1,41 @@
+{
+  "record_id": "rl-fen",
+  "source_url": "https://www.radluka.com/rl-fen",
+  "checked_at": "2026-03-09T01:49:51.334770+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.radluka.com/rl-fen",
+      "snippet": "s in through its brush-influenced strokes. RL Fen translates aÂ sense of motion into graphic dynamic. Publication year: 2025 Styles â RL Fen is a single-style typeface: Black WIND OF CHANGE tumbles âWhen it flows pas"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.radluka.com/rl-fen",
+      "snippet": "License Agreement â Free Trials Privacy Policy â Terms & Conditions radeklukasiewicz@gmail.com Instagram LinkedIn Â©2026 Radek Åukasiewicz. All rights reserved."
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.radluka.com/rl-fen",
+      "snippet": "Tue, 20 Jan 2026 10:23:32 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.radluka.com/rl-fen",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.radluka.com/rl-fen",
+    "last_modified": "Tue, 20 Jan 2026 10:23:32 GMT"
+  }
+}

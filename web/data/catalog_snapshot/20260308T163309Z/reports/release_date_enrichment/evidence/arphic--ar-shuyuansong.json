@@ -1,0 +1,55 @@
+{
+  "record_id": "arphic--ar-shuyuansong",
+  "source_url": "https://www.arphic.com.tw/en/ar-shuyuansong/",
+  "checked_at": "2026-03-09T01:36:02.663704+00:00",
+  "candidates": [
+    {
+      "date": "2017-08-28",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://www.arphic.com.tw/en/ar-shuyuansong/",
+      "snippet": "2017-08-28"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.arphic.com.tw/en/ar-shuyuansong/",
+      "snippet": "u Condesed keeps its steadiness, simplicity and clearness to condensed Read more Arphic will give a talk in Typo Berlin 2017 Category： News Category： News Typo Berlin 2017 will be held from April 6 to 8 in Belin. Read mo"
+    },
+    {
+      "date": "2020-10-08",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.arphic.com.tw/en/ar-shuyuansong/",
+      "snippet": "2020-10-08"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.arphic.com.tw/en/ar-shuyuansong/",
+      "snippet": "from 16 to 62 (EM Square= 1000) according to different uses. Samples Others ShuYuanSong is awarded with Hiii Typography 2015 Judge’s Special Award ShuYuanSong is Awarded with 2015 Golden Pin Design Award Visual Communica"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.arphic.com.tw/en/ar-shuyuansong/",
+      "snippet": "Mon, 15 Sep 2025 06:54:53 GMT"
+    },
+    {
+      "date": "2026-03-02",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.arphic.com.tw/en/ar-shuyuansong/",
+      "snippet": "2026-03-02"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.arphic.com.tw/en/ar-shuyuansong/",
+    "last_modified": "Mon, 15 Sep 2025 06:54:53 GMT"
+  }
+}

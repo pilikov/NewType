@@ -1,0 +1,55 @@
+{
+  "record_id": "solena-pro",
+  "source_url": "https://motyfo.com/typefaces/solena-pro",
+  "checked_at": "2026-03-09T01:47:33.918327+00:00",
+  "candidates": [
+    {
+      "date": "2024-09-16",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.motyfo.com/2024/09/16/solena-pro/",
+      "snippet": "2024-09-16T13:42:43+00:00"
+    },
+    {
+      "date": "2024-09-16",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://www.motyfo.com/2024/09/16/solena-pro/",
+      "snippet": "2024-09-16T13:42:43+00:00"
+    },
+    {
+      "date": "2025-04-10",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.motyfo.com/2024/09/16/solena-pro/",
+      "snippet": "2025-04-10T11:28:33+00:00"
+    },
+    {
+      "date": "2025-04-10",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.motyfo.com/2024/09/16/solena-pro/",
+      "snippet": "2025-04-10T11:28:33+00:00"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.motyfo.com/2024/09/16/solena-pro/",
+      "snippet": "s Custom fonts Buy Goods Blog About Contact Back to blog Notes on the Design of Solena Pro Author Olivier Gourvat 09/16/2024 As a type designer, I am often guided by diverse inspirations, sometimes difficult to rationali"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://motyfo.com/typefaces/solena-pro",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.motyfo.com/2024/09/16/solena-pro/",
+    "last_modified": null
+  }
+}

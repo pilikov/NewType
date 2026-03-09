@@ -1,0 +1,62 @@
+{
+  "record_id": "knit-grotesk",
+  "source_url": "https://nouvellenoire.ch/typefaces/knit-grotesk",
+  "checked_at": "2026-03-09T01:57:40.158807+00:00",
+  "candidates": [
+    {
+      "date": "2023-03-08",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://nouvellenoire.ch/product/knit-grotesk/",
+      "snippet": "2023-03-08T13:24:25+00:00"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://nouvellenoire.ch/product/knit-grotesk/",
+      "snippet": ".com . We keep you covered with news of projects and just-released products direct to your inbox. © Nouvelle Noire GmbH 2012–2026 We use cookies on our website to give you the most relevant experience by remembering your"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://nouvellenoire.ch/product/knit-grotesk/",
+      "snippet": " Ø) {@©®} [!?“”«»*] ←→ Knit Grotesk Stripe 3 Add this weight to Cart Get Trial Font Designer: Rüdiger Schlömer Release: 2023 Version: 1.0 Microsite: knitgrotesk.com/ Specimen: Detailed character sets, language support, o"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://nouvellenoire.ch/product/knit-grotesk/",
+      "snippet": ". We keep you covered with news of projects and just-released products direct to your inbox. © Nouvelle Noire GmbH 2012–2026 We use cookies on our website to give you the most relevant experience by remembering your pref"
+    },
+    {
+      "date": "2025-11-11",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://nouvellenoire.ch/product/knit-grotesk/",
+      "snippet": "2025-11-11T14:46:19+00:00"
+    },
+    {
+      "date": "2025-11-11",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://nouvellenoire.ch/product/knit-grotesk/",
+      "snippet": "2025-11-11T14:46:19+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://nouvellenoire.ch/typefaces/knit-grotesk",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://nouvellenoire.ch/product/knit-grotesk/",
+    "last_modified": null
+  }
+}

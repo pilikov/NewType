@@ -1,0 +1,27 @@
+{
+  "record_id": "ldn-dingbats",
+  "source_url": "https://londontype.co.uk/fonts/ldn-dingbats-2",
+  "checked_at": "2026-03-09T01:57:58.860884+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://londontype.co.uk/fonts/ldn-dingbats-2",
+      "snippet": "Font - London Type Foundry Fonts Licensing Custom About 0 Basket Fonts Licensing Custom About Newsletter Email Submit © 2026 The London Type Foundry. All Rights Reserved. LDN Dingbats Buy now LDN Dingbats London Dingbats"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://londontype.co.uk/fonts/ldn-dingbats-2",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://londontype.co.uk/fonts/ldn-dingbats-2",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "record_id": "likely",
+  "source_url": "https://ladd-design.com/fonts/likely",
+  "checked_at": "2026-03-09T01:51:09.484575+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ladd-design.com/fonts/likely",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "404 Client Error: Not Found for url: https://ladd-design.com/fonts/likely"
+  }
+}

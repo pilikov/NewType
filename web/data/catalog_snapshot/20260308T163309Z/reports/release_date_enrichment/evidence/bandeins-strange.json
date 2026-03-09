@@ -1,0 +1,34 @@
+{
+  "record_id": "bandeins-strange",
+  "source_url": "https://www.format-otf.de/typefaces/bandeins-strange",
+  "checked_at": "2026-03-09T02:02:11.915541+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.format-otf.de/typefaces/bandeins-strange",
+      "snippet": "00 Remove Subtotal Continue to Checkout No items found. Product is not available in this quantity. 15 Styles + Variable 2019 Release 3.0 Version Bandeins Strange Styles 15 Glyphs 458 Versions 3.0 Release 2019 Formats ttf"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.format-otf.de/typefaces/bandeins-strange",
+      "snippet": "Fri, 06 Mar 2026 09:40:45 GMT"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.format-otf.de/typefaces/bandeins-strange",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.format-otf.de/typefaces/bandeins-strange",
+    "last_modified": "Fri, 06 Mar 2026 09:40:45 GMT"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "chapman-ave",
+  "source_url": "https://hoodzpahdesign.com/typefaces/chapman-ave",
+  "checked_at": "2026-03-09T01:40:15.382324+00:00",
+  "candidates": [
+    {
+      "date": "2019-09-14",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://hoodzpahdesign.com/product/chapman-ave-layered-chrome-font/",
+      "snippet": "2019-09-14T18:04:33+00:00"
+    },
+    {
+      "date": "2026-02-11",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://hoodzpahdesign.com/product/chapman-ave-layered-chrome-font/",
+      "snippet": "2026-02-11T08:05:00+00:00"
+    },
+    {
+      "date": "2026-02-11",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://hoodzpahdesign.com/product/chapman-ave-layered-chrome-font/",
+      "snippet": "2026-02-11T08:05:00+00:00"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://hoodzpahdesign.com/product/chapman-ave-layered-chrome-font/",
+      "snippet": " Credits: Typeface Design: Amy Hood, Hoodzpah, Inc. Production: Hoodzpah, Inc. Animation: Erika Dillon © Hoodzpah, Inc. 2021 Fonts in use: See how people are using our fonts: #hoodfonts Features: Standard English alphabe"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://hoodzpahdesign.com/typefaces/chapman-ave",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hoodzpahdesign.com/product/chapman-ave-layered-chrome-font/",
+    "last_modified": null
+  }
+}

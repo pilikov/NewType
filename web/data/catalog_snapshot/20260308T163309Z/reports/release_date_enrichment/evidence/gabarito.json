@@ -1,0 +1,41 @@
+{
+  "record_id": "gabarito",
+  "source_url": "https://store.naipefoundry.com/fonts/gabarito",
+  "checked_at": "2026-03-09T01:38:20.682012+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://store.naipefoundry.com/fonts/gabarito",
+      "snippet": "rts functional and engaging. ¶ Gabarito was originally designed by Leandro Assis and Álvaro Franca in 2017, expanded in 2016 by Felipe Casaprima, and re-worked for the Open Source space by Henrique Baier. ¶ You can check"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://store.naipefoundry.com/fonts/gabarito",
+      "snippet": " that was equal parts functional and engaging. ¶ Gabarito was originally designed by Leandro Assis and Álvaro Franca in 2017, expanded in 2016 by Felipe Casaprima, and re-worked for the Open Source space by Henrique Baie"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://store.naipefoundry.com/fonts/gabarito",
+      "snippet": "nrique Baier. ¶ You can check out the Open Source files on GitHub via the minisite button. Sin prisa, pero sin pausa. © 2026 Naipe Foundry"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://store.naipefoundry.com/fonts/gabarito",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://store.naipefoundry.com/fonts/gabarito",
+    "last_modified": null
+  }
+}

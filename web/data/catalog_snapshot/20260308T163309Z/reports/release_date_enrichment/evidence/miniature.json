@@ -1,0 +1,62 @@
+{
+  "record_id": "miniature",
+  "source_url": "https://ecal-typefaces.ch/typefaces/miniature",
+  "checked_at": "2026-03-09T01:47:44.530680+00:00",
+  "candidates": [
+    {
+      "date": "2019-02-20",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://ecal-typefaces.ch/typeface/miniature/",
+      "snippet": "2019-02-20T15:51:01+00:00"
+    },
+    {
+      "date": "2026-02-16",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://ecal-typefaces.ch/typeface/miniature/",
+      "snippet": "2026-02-16T13:38:04+00:00"
+    },
+    {
+      "date": "2026-02-16",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://ecal-typefaces.ch/typeface/miniature/",
+      "snippet": "2026-02-16T13:38:04+00:00"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ecal-typefaces.ch/typeface/miniature/",
+      "snippet": " research and exhibition on miniature books from the Soviet era in Hungary. Miniature was designed by Benedek Takács in 2019. close AÁĂÂÄÀĀĄÅÃÆBCĆČÇDÐEÉÊËÈĒĘFGĢHĦIÍÎÏÌĪJKLĽŁMNŅÑOÓÔÖÒŐØÕŒPÞQRŘSŚŠŞTŤŢUÚÛÜÙŰŪŮVWẂŴẄẀXYÝŶŸỲZŽ"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ecal-typefaces.ch/typeface/miniature/",
+      "snippet": "to use in their school projects. Read more in our EULA if you're unsure which license you need. ©Students, ECAL\n        2026.\n        All rights reserved. This site uses cookies to provide you an optimal browsing experie"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://ecal-typefaces.ch/typeface/miniature/",
+      "snippet": "Sun, 08 Mar 2026 18:45:11 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ecal-typefaces.ch/typefaces/miniature",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ecal-typefaces.ch/typeface/miniature/",
+    "last_modified": "Sun, 08 Mar 2026 18:45:11 GMT"
+  }
+}

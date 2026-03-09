@@ -1,0 +1,27 @@
+{
+  "record_id": "stewar-bt",
+  "source_url": "https://bastardatype.com/typefaces/stewar-bt",
+  "checked_at": "2026-03-09T02:00:04.341842+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://bastardatype.com",
+      "snippet": "uccesfully Fonts Typebranding We use cookies to make your experience on this website better. Accept all or Deny all . © 2024 Would you like to discuss a new project? Please get in touch - [+57 311 812 62 58] IG FB VI"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://bastardatype.com/typefaces/stewar-bt",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://bastardatype.com",
+    "last_modified": null
+  }
+}

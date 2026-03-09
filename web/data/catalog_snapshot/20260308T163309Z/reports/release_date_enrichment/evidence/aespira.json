@@ -1,0 +1,41 @@
+{
+  "record_id": "aespira",
+  "source_url": "https://markvanleeuwen.co/aespira",
+  "checked_at": "2026-03-09T01:38:08.610136+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.markvanleeuwen.co/aespira",
+      "snippet": "e Italic style also features calligraphic alternates and a swash capital alphabet. BUY NOW User Licence Agreement Year: 2020-2022 Trial Fonts Available on Request BUY AESPIRA All Cortese Sans Cortese Aespira Oakley Magal"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.markvanleeuwen.co/aespira",
+      "snippet": "lic style also features calligraphic alternates and a swash capital alphabet. BUY NOW User Licence Agreement Year: 2020-2022 Trial Fonts Available on Request BUY AESPIRA All Cortese Sans Cortese Aespira Oakley Magalie Co"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.markvanleeuwen.co/aespira",
+      "snippet": "le on Request BUY AESPIRA All Cortese Sans Cortese Aespira Oakley Magalie Cortese Sans Cortese Aespira Oakley Magalie © 2026 Mark van Leeuwen. All rights reserved."
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://markvanleeuwen.co/aespira",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.markvanleeuwen.co/aespira",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "record_id": "hurme-fin-1a-wide",
+  "source_url": "https://hurmedesign.com/typefaces/hurme-fin-1a-wide",
+  "checked_at": "2026-03-09T02:03:45.590678+00:00",
+  "candidates": [
+    {
+      "date": "2018-03-16",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://hurmedesign.com/homepage/catalog/hurme-fin-1a-wide/",
+      "snippet": "2018-03-16T20:48:21+00:00"
+    },
+    {
+      "date": "2023-01-24",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://hurmedesign.com/homepage/catalog/hurme-fin-1a-wide/",
+      "snippet": "2023-01-24T15:50:21+00:00"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://hurmedesign.com/homepage/catalog/hurme-fin-1a-wide/",
+      "snippet": " files within minutes. If you have any questions or need technical support, please contact us . Purchase Hurme Design © 2018-2021 Privacy policy Login Email Address * Password * Remember me Lost your password? Reset Pass"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://hurmedesign.com/homepage/catalog/hurme-fin-1a-wide/",
+      "snippet": "s within minutes. If you have any questions or need technical support, please contact us . Purchase Hurme Design © 2018-2021 Privacy policy Login Email Address * Password * Remember me Lost your password? Reset Password "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://hurmedesign.com/homepage/catalog/hurme-fin-1a-wide/",
+      "snippet": "Mon, 09 Mar 2026 01:44:52 GMT"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://hurmedesign.com/typefaces/hurme-fin-1a-wide",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hurmedesign.com/homepage/catalog/hurme-fin-1a-wide/",
+    "last_modified": "Mon, 09 Mar 2026 01:44:52 GMT"
+  }
+}

@@ -1,0 +1,3401 @@
+[
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/swelltype/fonts/solaflare",
+    "name": "Solaflare",
+    "styles": [],
+    "authors": [
+      "Swell Type"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "release_date": "2026-03-05T22:48:43.501181Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:07:34.636546+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5496",
+      "family_id": 5496,
+      "family_slug": "solaflare",
+      "catalog_url": "/foundry/swelltype/fonts/solaflare",
+      "released": "2026-03-05T22:48:43.501181Z",
+      "uploaded": "2026-03-05T22:48:43.501188Z",
+      "foundry_ids": [
+        96
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": true,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Swell Type",
+        "foundry_site_url": "https://swelltype.com/"
+      }
+    },
+    "release_id": "ab3c300d92e287bc"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/vast-vf",
+    "name": "Vast VF",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-03-05T22:46:29.276596Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:07:44.547792+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5495",
+      "family_id": 5495,
+      "family_slug": "vast-vf",
+      "catalog_url": "/foundry/paratype/fonts/vast-vf",
+      "released": "2026-03-05T22:46:29.276596Z",
+      "uploaded": "2026-03-05T22:46:29.276607Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": true,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "6aa2a0124c63b6cb"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/vast-xxxl",
+    "name": "Vast XXXL",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-03-05T22:46:27Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:07:45.160562+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5494",
+      "family_id": 5494,
+      "family_slug": "vast-xxxl",
+      "catalog_url": "/foundry/paratype/fonts/vast-xxxl",
+      "released": "2026-03-05T22:46:27Z",
+      "uploaded": "2026-03-05T22:46:27.520361Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "8bf4dd422e8e7fae"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/vast-xxl",
+    "name": "Vast XXL",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-03-05T22:46:25Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:07:45.735468+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5493",
+      "family_id": 5493,
+      "family_slug": "vast-xxl",
+      "catalog_url": "/foundry/paratype/fonts/vast-xxl",
+      "released": "2026-03-05T22:46:25Z",
+      "uploaded": "2026-03-05T22:46:25.668181Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "6e5d327ff3955f33"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/vast-xl",
+    "name": "Vast XL",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-03-05T22:46:23Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:07:47.170466+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5492",
+      "family_id": 5492,
+      "family_slug": "vast-xl",
+      "catalog_url": "/foundry/paratype/fonts/vast-xl",
+      "released": "2026-03-05T22:46:23Z",
+      "uploaded": "2026-03-05T22:46:23.906178Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "c23d271010bd69ea"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/vast-l",
+    "name": "Vast L",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-03-05T22:46:22Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:07:47.746603+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5491",
+      "family_id": 5491,
+      "family_slug": "vast-l",
+      "catalog_url": "/foundry/paratype/fonts/vast-l",
+      "released": "2026-03-05T22:46:22Z",
+      "uploaded": "2026-03-05T22:46:22.036449Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "33fcdbaa5cb60735"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/vast",
+    "name": "Vast",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-03-05T22:45:00Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:07:48.319375+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5497",
+      "family_id": 5497,
+      "family_slug": "vast",
+      "catalog_url": "/foundry/paratype/fonts/vast",
+      "released": "2026-03-05T22:45:00Z",
+      "uploaded": "2026-03-06T14:10:35.733839Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "f00944cd132f5ceb"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/pt-serif-pro-narrow",
+    "name": "PT Serif Pro Narrow",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-03-05T22:36:46.622776Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:07:48.903707+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5490",
+      "family_id": 5490,
+      "family_slug": "pt-serif-pro-narrow",
+      "catalog_url": "/foundry/paratype/fonts/pt-serif-pro-narrow",
+      "released": "2026-03-05T22:36:46.622776Z",
+      "uploaded": "2026-03-05T22:36:46.622782Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "e78a657fe37e524a"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/pt-serif-pro-extended",
+    "name": "PT Serif Pro Extended",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-03-05T22:36:44.583603Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:07:49.495944+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5489",
+      "family_id": 5489,
+      "family_slug": "pt-serif-pro-extended",
+      "catalog_url": "/foundry/paratype/fonts/pt-serif-pro-extended",
+      "released": "2026-03-05T22:36:44.583603Z",
+      "uploaded": "2026-03-05T22:36:44.583609Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "96b2cfa39e2b5695"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/pt-serif-pro-caption",
+    "name": "PT Serif Pro Caption",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-03-05T22:36:44.179844Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:07:50.318470+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5488",
+      "family_id": 5488,
+      "family_slug": "pt-serif-pro-caption",
+      "catalog_url": "/foundry/paratype/fonts/pt-serif-pro-caption",
+      "released": "2026-03-05T22:36:44.179844Z",
+      "uploaded": "2026-03-05T22:36:44.179852Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "d62432b96db605cb"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/pt-serif-pro",
+    "name": "PT Serif Pro",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-03-05T22:36:41.345665Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:07:50.997949+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5487",
+      "family_id": 5487,
+      "family_slug": "pt-serif-pro",
+      "catalog_url": "/foundry/paratype/fonts/pt-serif-pro",
+      "released": "2026-03-05T22:36:41.345665Z",
+      "uploaded": "2026-03-05T22:36:41.345671Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "5ca7e7e548622857"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/pt-sans-pro-narrow",
+    "name": "PT Sans Pro Narrow",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-03-05T22:30:29.445687Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:07:51.650678+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5486",
+      "family_id": 5486,
+      "family_slug": "pt-sans-pro-narrow",
+      "catalog_url": "/foundry/paratype/fonts/pt-sans-pro-narrow",
+      "released": "2026-03-05T22:30:29.445687Z",
+      "uploaded": "2026-03-05T22:30:29.445697Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "33aa642cafb34404"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/pt-sans-pro-extra-condensed",
+    "name": "PT Sans Pro Extra Condensed",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-03-05T22:30:27.000795Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:07:52.410951+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5485",
+      "family_id": 5485,
+      "family_slug": "pt-sans-pro-extra-condensed",
+      "catalog_url": "/foundry/paratype/fonts/pt-sans-pro-extra-condensed",
+      "released": "2026-03-05T22:30:27.000795Z",
+      "uploaded": "2026-03-05T22:30:27.000859Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "8354684d49b35d44"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/pt-sans-pro-condensed",
+    "name": "PT Sans Pro Condensed",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-03-05T22:30:24.662629Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:07:53.112612+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5484",
+      "family_id": 5484,
+      "family_slug": "pt-sans-pro-condensed",
+      "catalog_url": "/foundry/paratype/fonts/pt-sans-pro-condensed",
+      "released": "2026-03-05T22:30:24.662629Z",
+      "uploaded": "2026-03-05T22:30:24.662639Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "074027df7bd19500"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/pt-sans-pro-caption",
+    "name": "PT Sans Pro Caption",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-03-05T22:30:23.516037Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:07:53.745731+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5483",
+      "family_id": 5483,
+      "family_slug": "pt-sans-pro-caption",
+      "catalog_url": "/foundry/paratype/fonts/pt-sans-pro-caption",
+      "released": "2026-03-05T22:30:23.516037Z",
+      "uploaded": "2026-03-05T22:30:23.516049Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "bc7a4b656daba110"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/pt-sans-pro",
+    "name": "PT Sans Pro",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-03-05T22:30:15.123190Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:07:54.376632+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5482",
+      "family_id": 5482,
+      "family_slug": "pt-sans-pro",
+      "catalog_url": "/foundry/paratype/fonts/pt-sans-pro",
+      "released": "2026-03-05T22:30:15.123190Z",
+      "uploaded": "2026-03-05T22:30:15.123204Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "dbff1c9803ac93f7"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/circe-slab-c",
+    "name": "Circe Slab C",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-03-05T22:12:12Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:07:55.061861+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5481",
+      "family_id": 5481,
+      "family_slug": "circe-slab-c",
+      "catalog_url": "/foundry/paratype/fonts/circe-slab-c",
+      "released": "2026-03-05T22:12:12Z",
+      "uploaded": "2026-03-05T22:12:12.410215Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "f8bbecf790539f1e"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/circe-slab-b",
+    "name": "Circe Slab B",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-03-05T22:12:09Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:07:55.766321+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5480",
+      "family_id": 5480,
+      "family_slug": "circe-slab-b",
+      "catalog_url": "/foundry/paratype/fonts/circe-slab-b",
+      "released": "2026-03-05T22:12:09Z",
+      "uploaded": "2026-03-05T22:12:09.570497Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "4b9a9bd8b344fe18"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/circe-slab-a",
+    "name": "Circe Slab A",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-03-05T22:12:04Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:07:56.455414+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5479",
+      "family_id": 5479,
+      "family_slug": "circe-slab-a",
+      "catalog_url": "/foundry/paratype/fonts/circe-slab-a",
+      "released": "2026-03-05T22:12:04Z",
+      "uploaded": "2026-03-05T22:12:04.207974Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "44b6370aba0b615b"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/abouttype/fonts/about-taylor-compressed",
+    "name": "About Taylor Compressed",
+    "styles": [],
+    "authors": [
+      "About Type"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-02-24T16:36:44Z",
+    "image_url": "https://abouttype.com/images/a1658264404c59c3439468b1e1599655-3000x2000-80c.jpeg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:00.074820+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5466",
+      "family_id": 5466,
+      "family_slug": "about-taylor-compressed",
+      "catalog_url": "/foundry/abouttype/fonts/about-taylor-compressed",
+      "released": "2026-02-24T16:36:44Z",
+      "uploaded": "2026-02-18T18:52:13.506143Z",
+      "foundry_ids": [
+        157
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "About Type",
+        "foundry_site_url": "https://abouttype.com",
+        "image_page_url": "https://abouttype.com/typefaces/taylor"
+      }
+    },
+    "release_id": "61a570ea83798147"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/abouttype/fonts/about-taylor-condensed",
+    "name": "About Taylor Condensed",
+    "styles": [],
+    "authors": [
+      "About Type"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-02-24T16:35:08Z",
+    "image_url": "https://abouttype.com/images/a1658264404c59c3439468b1e1599655-3000x2000-80c.jpeg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:00.301508+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5467",
+      "family_id": 5467,
+      "family_slug": "about-taylor-condensed",
+      "catalog_url": "/foundry/abouttype/fonts/about-taylor-condensed",
+      "released": "2026-02-24T16:35:08Z",
+      "uploaded": "2026-02-18T18:52:14.988970Z",
+      "foundry_ids": [
+        157
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "About Type",
+        "foundry_site_url": "https://abouttype.com",
+        "image_page_url": "https://abouttype.com/typefaces/taylor"
+      }
+    },
+    "release_id": "17d830c902934c1d"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/abouttype/fonts/about-taylor",
+    "name": "About Taylor",
+    "styles": [],
+    "authors": [
+      "About Type"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-02-24T16:33:48Z",
+    "image_url": "https://abouttype.com/images/a1658264404c59c3439468b1e1599655-3000x2000-80c.jpeg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:00.528239+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5469",
+      "family_id": 5469,
+      "family_slug": "about-taylor",
+      "catalog_url": "/foundry/abouttype/fonts/about-taylor",
+      "released": "2026-02-24T16:33:48Z",
+      "uploaded": "2026-02-18T18:52:18.127730Z",
+      "foundry_ids": [
+        157
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "About Type",
+        "foundry_site_url": "https://abouttype.com",
+        "image_page_url": "https://abouttype.com/typefaces/taylor"
+      }
+    },
+    "release_id": "360397c5996cdd40"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/abouttype/fonts/about-taylor-narrow",
+    "name": "About Taylor Narrow",
+    "styles": [],
+    "authors": [
+      "About Type"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-02-24T16:33:45Z",
+    "image_url": "https://abouttype.com/images/a1658264404c59c3439468b1e1599655-3000x2000-80c.jpeg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:00.823845+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5468",
+      "family_id": 5468,
+      "family_slug": "about-taylor-narrow",
+      "catalog_url": "/foundry/abouttype/fonts/about-taylor-narrow",
+      "released": "2026-02-24T16:33:45Z",
+      "uploaded": "2026-02-18T18:52:16.570945Z",
+      "foundry_ids": [
+        157
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "About Type",
+        "foundry_site_url": "https://abouttype.com",
+        "image_page_url": "https://abouttype.com/typefaces/taylor"
+      }
+    },
+    "release_id": "fddb252965ff2b18"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/abouttype/fonts/about-spritz-serif",
+    "name": "About Spritz Serif",
+    "styles": [],
+    "authors": [
+      "About Type"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-02-24T16:33:38Z",
+    "image_url": "https://abouttype.com/images/a114be66bc42ba170b1adfee3446b3d6-3000x2000-80c.jpeg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:01.161380+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5465",
+      "family_id": 5465,
+      "family_slug": "about-spritz-serif",
+      "catalog_url": "/foundry/abouttype/fonts/about-spritz-serif",
+      "released": "2026-02-24T16:33:38Z",
+      "uploaded": "2026-02-18T18:50:16.437733Z",
+      "foundry_ids": [
+        157
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "About Type",
+        "foundry_site_url": "https://abouttype.com",
+        "image_page_url": "https://abouttype.com/typefaces/spritz"
+      }
+    },
+    "release_id": "da8cac3419fd0433"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/abouttype/fonts/about-spritz-sans",
+    "name": "About Spritz Sans",
+    "styles": [],
+    "authors": [
+      "About Type"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-02-24T16:33:32Z",
+    "image_url": "https://abouttype.com/images/a114be66bc42ba170b1adfee3446b3d6-3000x2000-80c.jpeg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:01.479529+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5464",
+      "family_id": 5464,
+      "family_slug": "about-spritz-sans",
+      "catalog_url": "/foundry/abouttype/fonts/about-spritz-sans",
+      "released": "2026-02-24T16:33:32Z",
+      "uploaded": "2026-02-18T18:50:14.950699Z",
+      "foundry_ids": [
+        157
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "About Type",
+        "foundry_site_url": "https://abouttype.com",
+        "image_page_url": "https://abouttype.com/typefaces/spritz"
+      }
+    },
+    "release_id": "34fbeb707fcc137d"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/abouttype/fonts/about-reishi",
+    "name": "About Reishi",
+    "styles": [],
+    "authors": [
+      "About Type"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-02-24T16:33:28Z",
+    "image_url": "https://abouttype.com/images/e4775187346dee836e0144ee8639a8eb-3000x2000-80c.jpeg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:01.865981+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5463",
+      "family_id": 5463,
+      "family_slug": "about-reishi",
+      "catalog_url": "/foundry/abouttype/fonts/about-reishi",
+      "released": "2026-02-24T16:33:28Z",
+      "uploaded": "2026-02-18T18:50:13.681680Z",
+      "foundry_ids": [
+        157
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "About Type",
+        "foundry_site_url": "https://abouttype.com",
+        "image_page_url": "https://abouttype.com/typefaces/reishi"
+      }
+    },
+    "release_id": "d43c3818cf949b17"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/abouttype/fonts/about-beige",
+    "name": "About Beige",
+    "styles": [],
+    "authors": [
+      "About Type"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Greek",
+      "Latin"
+    ],
+    "release_date": "2026-02-24T16:33:20Z",
+    "image_url": "https://abouttype.com/images/d0d28debc7b92ceaaf4ab92f9dbeae75-3000x2000-80c.jpeg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:02.115195+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5462",
+      "family_id": 5462,
+      "family_slug": "about-beige",
+      "catalog_url": "/foundry/abouttype/fonts/about-beige",
+      "released": "2026-02-24T16:33:20Z",
+      "uploaded": "2026-02-18T18:48:31.922164Z",
+      "foundry_ids": [
+        157
+      ],
+      "supported_scripts": [
+        200,
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "About Type",
+        "foundry_site_url": "https://abouttype.com",
+        "image_page_url": "https://abouttype.com/typefaces/beige"
+      }
+    },
+    "release_id": "bc84729cae33dce6"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/abouttype/fonts/about-beige-mono",
+    "name": "About Beige Mono",
+    "styles": [],
+    "authors": [
+      "About Type"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Greek",
+      "Latin"
+    ],
+    "release_date": "2026-02-24T16:33:12Z",
+    "image_url": "https://abouttype.com/images/d0d28debc7b92ceaaf4ab92f9dbeae75-3000x2000-80c.jpeg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:02.402142+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5461",
+      "family_id": 5461,
+      "family_slug": "about-beige-mono",
+      "catalog_url": "/foundry/abouttype/fonts/about-beige-mono",
+      "released": "2026-02-24T16:33:12Z",
+      "uploaded": "2026-02-18T18:48:30.087035Z",
+      "foundry_ids": [
+        157
+      ],
+      "supported_scripts": [
+        200,
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "About Type",
+        "foundry_site_url": "https://abouttype.com",
+        "image_page_url": "https://abouttype.com/typefaces/beige"
+      }
+    },
+    "release_id": "e1dbb5a4097a4547"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/magistral-extra-cond",
+    "name": "Magistral Extra Cond",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-02-23T21:14:46Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:03.067467+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5477",
+      "family_id": 5477,
+      "family_slug": "magistral-extra-cond",
+      "catalog_url": "/foundry/paratype/fonts/magistral-extra-cond",
+      "released": "2026-02-23T21:14:46Z",
+      "uploaded": "2026-02-23T21:14:46.055844Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "e40d338d72b0a2f6"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/magistral-cond",
+    "name": "Magistral Cond",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-02-23T21:14:45Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:03.983328+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5476",
+      "family_id": 5476,
+      "family_slug": "magistral-cond",
+      "catalog_url": "/foundry/paratype/fonts/magistral-cond",
+      "released": "2026-02-23T21:14:45Z",
+      "uploaded": "2026-02-23T21:14:45.202453Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "8a5b9fe1302da8cc"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/magistral",
+    "name": "Magistral",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-02-23T21:14:43Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:04.780496+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5475",
+      "family_id": 5475,
+      "family_slug": "magistral",
+      "catalog_url": "/foundry/paratype/fonts/magistral",
+      "released": "2026-02-23T21:14:43Z",
+      "uploaded": "2026-02-23T21:14:43.642526Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "7efe8db0f78c70dd"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/stem-text",
+    "name": "Stem Text",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-02-23T20:42:36Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:05.521473+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5474",
+      "family_id": 5474,
+      "family_slug": "stem-text",
+      "catalog_url": "/foundry/paratype/fonts/stem-text",
+      "released": "2026-02-23T20:42:36Z",
+      "uploaded": "2026-02-23T20:42:36.338383Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "6ffd53d14b7469f2"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/stem",
+    "name": "Stem",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-02-23T20:42:34Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:06.170979+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5473",
+      "family_id": 5473,
+      "family_slug": "stem",
+      "catalog_url": "/foundry/paratype/fonts/stem",
+      "released": "2026-02-23T20:42:34Z",
+      "uploaded": "2026-02-23T20:42:34.675049Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "2251473914942d68"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/hint",
+    "name": "Hint",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-02-23T20:20:56Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:06.774754+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5472",
+      "family_id": 5472,
+      "family_slug": "hint",
+      "catalog_url": "/foundry/paratype/fonts/hint",
+      "released": "2026-02-23T20:20:56Z",
+      "uploaded": "2026-02-23T20:20:56.899160Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": true,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "49238d110dba2f0f"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/simon",
+    "name": "Simon",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-02-23T19:44:41Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:07.489416+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5471",
+      "family_id": 5471,
+      "family_slug": "simon",
+      "catalog_url": "/foundry/paratype/fonts/simon",
+      "released": "2026-02-23T19:44:41Z",
+      "uploaded": "2026-02-23T19:44:41.955483Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": true,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "a4ea59f2d0bc6110"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/pt-root",
+    "name": "PT Root",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-02-23T19:41:04Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:08.139847+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5470",
+      "family_id": 5470,
+      "family_slug": "pt-root",
+      "catalog_url": "/foundry/paratype/fonts/pt-root",
+      "released": "2026-02-23T19:41:04Z",
+      "uploaded": "2026-02-23T19:41:04.842956Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": true,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "ffc8f736023363ab"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/fact",
+    "name": "Fact",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-02-06T16:04:04Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:08.804341+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5455",
+      "family_id": 5455,
+      "family_slug": "fact",
+      "catalog_url": "/foundry/paratype/fonts/fact",
+      "released": "2026-02-06T16:04:04Z",
+      "uploaded": "2026-02-06T16:04:04.813314Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "26ec0bad7d380204"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/fact-compressed",
+    "name": "Fact Compressed",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-02-06T16:00:05Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:09.457131+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5456",
+      "family_id": 5456,
+      "family_slug": "fact-compressed",
+      "catalog_url": "/foundry/paratype/fonts/fact-compressed",
+      "released": "2026-02-06T16:00:05Z",
+      "uploaded": "2026-02-06T16:04:07.332131Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "7b24dcb45f670cfc"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/fact-condensed",
+    "name": "Fact Condensed",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-02-06T16:00:04Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:10.310309+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5457",
+      "family_id": 5457,
+      "family_slug": "fact-condensed",
+      "catalog_url": "/foundry/paratype/fonts/fact-condensed",
+      "released": "2026-02-06T16:00:04Z",
+      "uploaded": "2026-02-06T16:04:09.614534Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "be7491ef4b4c64a1"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/fact-narrow",
+    "name": "Fact Narrow",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-02-06T16:00:03Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:11.146105+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5459",
+      "family_id": 5459,
+      "family_slug": "fact-narrow",
+      "catalog_url": "/foundry/paratype/fonts/fact-narrow",
+      "released": "2026-02-06T16:00:03Z",
+      "uploaded": "2026-02-06T16:06:12.442516Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "afb4e349206abe77"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/fact-semi-expanded",
+    "name": "Fact Semi Expanded",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-02-06T16:00:01Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:11.831568+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5460",
+      "family_id": 5460,
+      "family_slug": "fact-semi-expanded",
+      "catalog_url": "/foundry/paratype/fonts/fact-semi-expanded",
+      "released": "2026-02-06T16:00:01Z",
+      "uploaded": "2026-02-06T16:06:14.932765Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "0641c992ac2b247f"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/fact-expanded",
+    "name": "Fact Expanded",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-02-06T16:00:00Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:12.511651+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5458",
+      "family_id": 5458,
+      "family_slug": "fact-expanded",
+      "catalog_url": "/foundry/paratype/fonts/fact-expanded",
+      "released": "2026-02-06T16:00:00Z",
+      "uploaded": "2026-02-06T16:06:09.957264Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "d4bf0ee460a842c3"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/contrastfoundry/fonts/cofo-sans-pro-deva-vf",
+    "name": "CoFo Sans Pro Deva VF",
+    "styles": [],
+    "authors": [
+      "Contrast Foundry"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Devanagari",
+      "Indic",
+      "Latin"
+    ],
+    "release_date": "2026-02-05T18:35:36Z",
+    "image_url": "https://s3.eu-west-1.amazonaws.com/cofo-uploads-prod/cofo_websote_cover_01653956852899.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:20.066548+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5454",
+      "family_id": 5454,
+      "family_slug": "cofo-sans-pro-deva-vf",
+      "catalog_url": "/foundry/contrastfoundry/fonts/cofo-sans-pro-deva-vf",
+      "released": "2026-02-05T18:35:36Z",
+      "uploaded": "2026-02-05T18:35:36.380806Z",
+      "foundry_ids": [
+        66
+      ],
+      "supported_scripts": [
+        215,
+        220,
+        315,
+        907
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        9
+      ],
+      "variable": true,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Contrast Foundry",
+        "foundry_site_url": "https://contrastfoundry.com/",
+        "image_page_url": "https://contrastfoundry.com/projects"
+      }
+    },
+    "release_id": "3218900f1ab91f89"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/contrastfoundry/fonts/cofo-sans-pro-devanagari",
+    "name": "CoFo Sans Pro Devanagari",
+    "styles": [],
+    "authors": [
+      "Contrast Foundry"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Devanagari",
+      "Indic",
+      "Latin"
+    ],
+    "release_date": "2026-02-05T18:35:31Z",
+    "image_url": "https://s3.eu-west-1.amazonaws.com/cofo-uploads-prod/cofo_websote_cover_01653956852899.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:20.886876+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5453",
+      "family_id": 5453,
+      "family_slug": "cofo-sans-pro-devanagari",
+      "catalog_url": "/foundry/contrastfoundry/fonts/cofo-sans-pro-devanagari",
+      "released": "2026-02-05T18:35:31Z",
+      "uploaded": "2026-02-05T18:35:31.398774Z",
+      "foundry_ids": [
+        66
+      ],
+      "supported_scripts": [
+        215,
+        220,
+        315,
+        907
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        9
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Contrast Foundry",
+        "foundry_site_url": "https://contrastfoundry.com/",
+        "image_page_url": "https://contrastfoundry.com/projects"
+      }
+    },
+    "release_id": "120fd92493e40729"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/occupant/fonts/antenna-2-vf",
+    "name": "Antenna 2 VF",
+    "styles": [],
+    "authors": [
+      "Occupant Fonts"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Greek",
+      "Latin"
+    ],
+    "release_date": "2026-02-05T17:19:08.986504Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:42.908911+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5452",
+      "family_id": 5452,
+      "family_slug": "antenna-2-vf",
+      "catalog_url": "/foundry/occupant/fonts/antenna-2-vf",
+      "released": "2026-02-05T17:19:08.986504Z",
+      "uploaded": "2026-02-05T17:19:08.986512Z",
+      "foundry_ids": [
+        3
+      ],
+      "supported_scripts": [
+        200,
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9
+      ],
+      "variable": true,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Occupant Fonts",
+        "foundry_site_url": "http://www.occupantfonts.com"
+      }
+    },
+    "release_id": "022b50139ae67dd4"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/occupant/fonts/antenna-2",
+    "name": "Antenna 2",
+    "styles": [],
+    "authors": [
+      "Occupant Fonts"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Greek",
+      "Latin"
+    ],
+    "release_date": "2026-01-30T15:21:03.758576Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:08:51.488562+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5448",
+      "family_id": 5448,
+      "family_slug": "antenna-2",
+      "catalog_url": "/foundry/occupant/fonts/antenna-2",
+      "released": "2026-01-30T15:21:03.758576Z",
+      "uploaded": "2026-01-30T15:21:03.758588Z",
+      "foundry_ids": [
+        3
+      ],
+      "supported_scripts": [
+        200,
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Occupant Fonts",
+        "foundry_site_url": "http://www.occupantfonts.com"
+      }
+    },
+    "release_id": "2d80a82479d78c75"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/occupant/fonts/antenna-2-cond",
+    "name": "Antenna 2 Cond",
+    "styles": [],
+    "authors": [
+      "Occupant Fonts"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Greek",
+      "Latin"
+    ],
+    "release_date": "2026-01-30T15:21:03Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:09:00.142691+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5450",
+      "family_id": 5450,
+      "family_slug": "antenna-2-cond",
+      "catalog_url": "/foundry/occupant/fonts/antenna-2-cond",
+      "released": "2026-01-30T15:21:03Z",
+      "uploaded": "2026-01-30T15:21:08.369415Z",
+      "foundry_ids": [
+        3
+      ],
+      "supported_scripts": [
+        200,
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Occupant Fonts",
+        "foundry_site_url": "http://www.occupantfonts.com"
+      }
+    },
+    "release_id": "ae76d8b90395af41"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/occupant/fonts/antenna-2-extracond",
+    "name": "Antenna 2 ExtraCond",
+    "styles": [],
+    "authors": [
+      "Occupant Fonts"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Greek",
+      "Latin"
+    ],
+    "release_date": "2026-01-30T15:21:01Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:09:08.839043+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5451",
+      "family_id": 5451,
+      "family_slug": "antenna-2-extracond",
+      "catalog_url": "/foundry/occupant/fonts/antenna-2-extracond",
+      "released": "2026-01-30T15:21:01Z",
+      "uploaded": "2026-01-30T15:21:10.555101Z",
+      "foundry_ids": [
+        3
+      ],
+      "supported_scripts": [
+        200,
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Occupant Fonts",
+        "foundry_site_url": "http://www.occupantfonts.com"
+      }
+    },
+    "release_id": "ff245b2f9f76382e"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/occupant/fonts/antenna-2-comp",
+    "name": "Antenna 2 Comp",
+    "styles": [],
+    "authors": [
+      "Occupant Fonts"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Greek",
+      "Latin"
+    ],
+    "release_date": "2026-01-30T15:21:00Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:09:18.468968+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5449",
+      "family_id": 5449,
+      "family_slug": "antenna-2-comp",
+      "catalog_url": "/foundry/occupant/fonts/antenna-2-comp",
+      "released": "2026-01-30T15:21:00Z",
+      "uploaded": "2026-01-30T15:21:05.853393Z",
+      "foundry_ids": [
+        3
+      ],
+      "supported_scripts": [
+        200,
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Occupant Fonts",
+        "foundry_site_url": "http://www.occupantfonts.com"
+      }
+    },
+    "release_id": "7f277e2ee8eebb23"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/circe",
+    "name": "Circe",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-01-30T13:33:22.048769Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:09:20.374286+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5447",
+      "family_id": 5447,
+      "family_slug": "circe",
+      "catalog_url": "/foundry/paratype/fonts/circe",
+      "released": "2026-01-30T13:33:22.048769Z",
+      "uploaded": "2026-01-30T13:33:22.048779Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "e727accea3882393"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/circe-contrast-text",
+    "name": "Circe Contrast Text",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-01-30T13:28:20.993340Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:09:21.024423+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5446",
+      "family_id": 5446,
+      "family_slug": "circe-contrast-text",
+      "catalog_url": "/foundry/paratype/fonts/circe-contrast-text",
+      "released": "2026-01-30T13:28:20.993340Z",
+      "uploaded": "2026-01-30T13:28:20.993346Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "9fb74fe9d14dc6bd"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/circe-contrast-subhead",
+    "name": "Circe Contrast Subhead",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-01-30T13:28:19.520621Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:09:21.670066+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5445",
+      "family_id": 5445,
+      "family_slug": "circe-contrast-subhead",
+      "catalog_url": "/foundry/paratype/fonts/circe-contrast-subhead",
+      "released": "2026-01-30T13:28:19.520621Z",
+      "uploaded": "2026-01-30T13:28:19.520627Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "9b2ab492fb0cbec7"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/circe-contrast",
+    "name": "Circe Contrast",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-01-30T13:28:18.070890Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:09:22.364488+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5444",
+      "family_id": 5444,
+      "family_slug": "circe-contrast",
+      "catalog_url": "/foundry/paratype/fonts/circe-contrast",
+      "released": "2026-01-30T13:28:18.070890Z",
+      "uploaded": "2026-01-30T13:28:18.070897Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "cd52f84eb2f851cf"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/mojito",
+    "name": "Mojito",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-01-30T13:18:45.713090Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:09:23.140026+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5443",
+      "family_id": 5443,
+      "family_slug": "mojito",
+      "catalog_url": "/foundry/paratype/fonts/mojito",
+      "released": "2026-01-30T13:18:45.713090Z",
+      "uploaded": "2026-01-30T13:18:45.713107Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "ca5a30686f64b04b"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/comicraft/fonts/ccstonehengerunes",
+    "name": "CCStonehengeRunes",
+    "styles": [],
+    "authors": [
+      "Comicraft"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "release_date": "2026-01-30T13:15:46.797593Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:09:40.420013+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5442",
+      "family_id": 5442,
+      "family_slug": "ccstonehengerunes",
+      "catalog_url": "/foundry/comicraft/fonts/ccstonehengerunes",
+      "released": "2026-01-30T13:15:46.797593Z",
+      "uploaded": "2026-01-30T13:15:46.797601Z",
+      "foundry_ids": [
+        97
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "foundry_site_not_found",
+        "foundry_name": "Comicraft"
+      }
+    },
+    "release_id": "fce6663a1db7961c"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/comicraft/fonts/ccstonehengeruins",
+    "name": "CCStonehengeRuins",
+    "styles": [],
+    "authors": [
+      "Comicraft"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "release_date": "2026-01-30T13:15:46.604696Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:09:40.420052+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5441",
+      "family_id": 5441,
+      "family_slug": "ccstonehengeruins",
+      "catalog_url": "/foundry/comicraft/fonts/ccstonehengeruins",
+      "released": "2026-01-30T13:15:46.604696Z",
+      "uploaded": "2026-01-30T13:15:46.604702Z",
+      "foundry_ids": [
+        97
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "foundry_site_not_found",
+        "foundry_name": "Comicraft"
+      }
+    },
+    "release_id": "5a393db355da2ecd"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/kudry",
+    "name": "Kudry",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-01-30T13:03:54.511246Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:09:41.109786+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5440",
+      "family_id": 5440,
+      "family_slug": "kudry",
+      "catalog_url": "/foundry/paratype/fonts/kudry",
+      "released": "2026-01-30T13:03:54.511246Z",
+      "uploaded": "2026-01-30T13:03:54.511252Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "dc9b0cfa6c271c12"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/din-2014-narrow",
+    "name": "DIN 2014 Narrow",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-01-30T12:53:23.835759Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:09:41.773443+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5439",
+      "family_id": 5439,
+      "family_slug": "din-2014-narrow",
+      "catalog_url": "/foundry/paratype/fonts/din-2014-narrow",
+      "released": "2026-01-30T12:53:23.835759Z",
+      "uploaded": "2026-01-30T12:53:23.835767Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "5be88dbd75ecaeb4"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/din-2014-condensed",
+    "name": "DIN 2014 Condensed",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-01-30T12:53:22.908034Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:09:42.511740+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5438",
+      "family_id": 5438,
+      "family_slug": "din-2014-condensed",
+      "catalog_url": "/foundry/paratype/fonts/din-2014-condensed",
+      "released": "2026-01-30T12:53:22.908034Z",
+      "uploaded": "2026-01-30T12:53:22.908040Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "0d74f80c92eb9522"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/din-2014",
+    "name": "DIN 2014",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-01-30T12:53:21.354703Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:09:43.233888+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5437",
+      "family_id": 5437,
+      "family_slug": "din-2014",
+      "catalog_url": "/foundry/paratype/fonts/din-2014",
+      "released": "2026-01-30T12:53:21.354703Z",
+      "uploaded": "2026-01-30T12:53:21.354710Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "b9800b1668a14a19"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/comicraft/fonts/ccaztech",
+    "name": "CCAztech",
+    "styles": [],
+    "authors": [
+      "Comicraft"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "release_date": "2026-01-30T12:43:00.391310Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:09:43.233925+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5436",
+      "family_id": 5436,
+      "family_slug": "ccaztech",
+      "catalog_url": "/foundry/comicraft/fonts/ccaztech",
+      "released": "2026-01-30T12:43:00.391310Z",
+      "uploaded": "2026-01-30T12:43:00.391320Z",
+      "foundry_ids": [
+        97
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "foundry_site_not_found",
+        "foundry_name": "Comicraft"
+      }
+    },
+    "release_id": "8cf5205b39c6050c"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/adonis",
+    "name": "Adonis",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-01-30T12:42:59.611805Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:09:44.115785+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5435",
+      "family_id": 5435,
+      "family_slug": "adonis",
+      "catalog_url": "/foundry/paratype/fonts/adonis",
+      "released": "2026-01-30T12:42:59.611805Z",
+      "uploaded": "2026-01-30T12:42:59.611817Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "7287a23100e9e28b"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/contrastfoundry/fonts/cofo-sans-pro-arabic",
+    "name": "CoFo Sans Pro Arabic",
+    "styles": [],
+    "authors": [
+      "Contrast Foundry"
+    ],
+    "scripts": [
+      "Arabic",
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-01-15T16:15:26Z",
+    "image_url": "https://s3.eu-west-1.amazonaws.com/cofo-uploads-prod/cofo_websote_cover_01653956852899.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:09:45.254558+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5433",
+      "family_id": 5433,
+      "family_slug": "cofo-sans-pro-arabic",
+      "catalog_url": "/foundry/contrastfoundry/fonts/cofo-sans-pro-arabic",
+      "released": "2026-01-15T16:15:26Z",
+      "uploaded": "2026-01-15T16:15:26.432713Z",
+      "foundry_ids": [
+        66
+      ],
+      "supported_scripts": [
+        160,
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        9
+      ],
+      "variable": true,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Contrast Foundry",
+        "foundry_site_url": "https://contrastfoundry.com/",
+        "image_page_url": "https://contrastfoundry.com/projects"
+      }
+    },
+    "release_id": "2538f6e2260a0ce0"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/djr/fonts/indoor-kid-variable",
+    "name": "Indoor Kid Variable",
+    "styles": [],
+    "authors": [
+      "DJR"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "release_date": "2026-01-15T16:12:22.063557Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:09:45.254599+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5432",
+      "family_id": 5432,
+      "family_slug": "indoor-kid-variable",
+      "catalog_url": "/foundry/djr/fonts/indoor-kid-variable",
+      "released": "2026-01-15T16:12:22.063557Z",
+      "uploaded": "2026-01-15T16:12:22.063564Z",
+      "foundry_ids": [
+        9
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5,
+        9
+      ],
+      "variable": true,
+      "image_enrichment": {}
+    },
+    "release_id": "66a291fbc5cf28e7"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/djr/fonts/fit-kannada-variable",
+    "name": "Fit Kannada Variable",
+    "styles": [],
+    "authors": [
+      "DJR"
+    ],
+    "scripts": [
+      "Indic",
+      "Kannada",
+      "Latin"
+    ],
+    "release_date": "2026-01-15T16:12:21Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:09:45.254617+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5431",
+      "family_id": 5431,
+      "family_slug": "fit-kannada-variable",
+      "catalog_url": "/foundry/djr/fonts/fit-kannada-variable",
+      "released": "2026-01-15T16:12:21Z",
+      "uploaded": "2026-01-15T16:12:21.761972Z",
+      "foundry_ids": [
+        9
+      ],
+      "supported_scripts": [
+        215,
+        345,
+        907
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5,
+        9
+      ],
+      "variable": true,
+      "image_enrichment": {}
+    },
+    "release_id": "9c0b4a3cd5458767"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/djr/fonts/fit-arabic-variable",
+    "name": "Fit Arabic Variable",
+    "styles": [],
+    "authors": [
+      "DJR"
+    ],
+    "scripts": [
+      "Arabic",
+      "Latin"
+    ],
+    "release_date": "2026-01-14T16:00:40Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:09:45.254634+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5430",
+      "family_id": 5430,
+      "family_slug": "fit-arabic-variable",
+      "catalog_url": "/foundry/djr/fonts/fit-arabic-variable",
+      "released": "2026-01-14T16:00:40Z",
+      "uploaded": "2026-01-14T16:00:40.994913Z",
+      "foundry_ids": [
+        9
+      ],
+      "supported_scripts": [
+        160,
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5,
+        8,
+        9
+      ],
+      "variable": true,
+      "image_enrichment": {}
+    },
+    "release_id": "6f23461a29b3f9c4"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/chilltype/fonts/chill-sans",
+    "name": "Chill Sans",
+    "styles": [],
+    "authors": [
+      "Chill Type"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "release_date": "2026-01-12T15:30:21.483797Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:09:45.254650+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5428",
+      "family_id": 5428,
+      "family_slug": "chill-sans",
+      "catalog_url": "/foundry/chilltype/fonts/chill-sans",
+      "released": "2026-01-12T15:30:21.483797Z",
+      "uploaded": "2026-01-12T15:30:21.483808Z",
+      "foundry_ids": [
+        156
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {}
+    },
+    "release_id": "e547d09d0d14e9ab"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/chilltype/fonts/bufano",
+    "name": "Bufano",
+    "styles": [],
+    "authors": [
+      "Chill Type"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "release_date": "2026-01-12T15:30:20.812485Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:09:45.254665+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5427",
+      "family_id": 5427,
+      "family_slug": "bufano",
+      "catalog_url": "/foundry/chilltype/fonts/bufano",
+      "released": "2026-01-12T15:30:20.812485Z",
+      "uploaded": "2026-01-12T15:30:20.812498Z",
+      "foundry_ids": [
+        156
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {}
+    },
+    "release_id": "e74ccaaf3ddb1819"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/identityletters/fonts/cattivo",
+    "name": "Cattivo",
+    "styles": [],
+    "authors": [
+      "Identity Letters"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "release_date": "2026-01-02T13:23:12.909039Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:09:45.254680+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5426",
+      "family_id": 5426,
+      "family_slug": "cattivo",
+      "catalog_url": "/foundry/identityletters/fonts/cattivo",
+      "released": "2026-01-02T13:23:12.909039Z",
+      "uploaded": "2026-01-02T13:23:12.909046Z",
+      "foundry_ids": [
+        128
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {}
+    },
+    "release_id": "54ab78fd94ea5a16"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/r41/fonts/r41-roboticon",
+    "name": "R41 Roboticon",
+    "styles": [],
+    "authors": [
+      "R41"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "release_date": "2025-12-11T17:38:23.708243Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:09:45.254694+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5425",
+      "family_id": 5425,
+      "family_slug": "r41-roboticon",
+      "catalog_url": "/foundry/r41/fonts/r41-roboticon",
+      "released": "2025-12-11T17:38:23.708243Z",
+      "uploaded": "2025-12-11T17:38:23.708253Z",
+      "foundry_ids": [
+        88
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {}
+    },
+    "release_id": "538c6565f17740be"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/petradtypefoundry/fonts/pd-monolina",
+    "name": "PD Monolina",
+    "styles": [],
+    "authors": [
+      "Petra-D Type Foundry"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "release_date": "2025-12-11T17:14:32Z",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T14:09:45.254713+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5424",
+      "family_id": 5424,
+      "family_slug": "pd-monolina",
+      "catalog_url": "/foundry/petradtypefoundry/fonts/pd-monolina",
+      "released": "2025-12-11T17:14:32Z",
+      "uploaded": "2025-12-11T17:14:32.595078Z",
+      "foundry_ids": [
+        155
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": true,
+      "image_enrichment": {}
+    },
+    "release_id": "2e2ab73301844b37"
+  }
+]

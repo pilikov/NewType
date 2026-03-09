@@ -1,0 +1,20 @@
+{
+  "record_id": "naiad",
+  "source_url": "https://shinntype.com/naiad",
+  "checked_at": "2026-03-09T01:54:39.352181+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://shinntype.com/naiad",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://shinntype.com/naiad/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "correct",
+  "source_url": "https://felicianotype.com/typefaces/correct",
+  "checked_at": "2026-03-09T01:52:31.048575+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://felicianotype.com/typefaces/correct-condensed/",
+      "snippet": "contemporary condensed sans serif available in one weight over five widths with matching italics. Trial fonts Specimens 2023 10 styles Correct  Condensed family           — 10 styles, €350,00 BUY Correct Condensed Black,"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://felicianotype.com/typefaces/correct-condensed/",
+      "snippet": "c, €50,00 BUY In 1976 Fiat entered into the Foundry with the aim to Correct Condensed Black Correct X Condensed Black © 2026 Feliciano Type. All rights reserved. Acceptera Cockpit Correct Crisol Eudald Flama Garda Grosa "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://felicianotype.com/typefaces/correct-condensed/",
+      "snippet": "Mon, 09 Mar 2026 01:52:32 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://felicianotype.com/typefaces/correct",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://felicianotype.com/typefaces/correct-condensed/",
+    "last_modified": "Mon, 09 Mar 2026 01:52:32 GMT"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "velvelyne",
+  "source_url": "https://velvetyne.fr/fonts/velvelyne/",
+  "checked_at": "2026-03-09T02:00:28.260218+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://velvetyne.fr/fonts/velvelyne/",
+      "snippet": ", 2025 Get the PDF specimen Ce contenu existe en Français Velvelyne is a typeface designed for the Velvetyne website in 2023 by Manon Van der Borght and Mariel Nils . It is now available published under CUTE licence , wr"
+    },
+    {
+      "date": "2025-03-15",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://velvetyne.fr/fonts/velvelyne/",
+      "snippet": "llaborative Writing systems Latin License CUTE (Conditions d'utilisations typographiques engageantes) Date Published on March 15, 2025 Get the PDF specimen Ce contenu existe en Français Velvelyne is a typeface designed f"
+    },
+    {
+      "date": "2024-10-19",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://velvetyne.fr/fonts/velvelyne/",
+      "snippet": "st-binary ligatures.\nA workshop was held at La Générale , a self-managed place of residence and artistic resistance, on 19 October 2024. Velvelyne's stamped letters used in the workshop were laser-cut using machines from"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://velvetyne.fr/fonts/velvelyne/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://velvetyne.fr/fonts/velvelyne/",
+    "last_modified": null
+  }
+}

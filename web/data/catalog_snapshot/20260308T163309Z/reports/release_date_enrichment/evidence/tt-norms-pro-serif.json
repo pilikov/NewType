@@ -1,0 +1,97 @@
+{
+  "record_id": "tt-norms-pro-serif",
+  "source_url": "https://typetype.org/typefaces/tt-norms-pro-serif",
+  "checked_at": "2026-03-09T02:04:09.638752+00:00",
+  "candidates": [
+    {
+      "date": "2022-10-04",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typetype.org/fonts/tt-norms-pro-serif/",
+      "snippet": "2022-10-04T06:11:42+00:00"
+    },
+    {
+      "date": "2022-10-04",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://typetype.org/fonts/tt-norms-pro-serif/",
+      "snippet": "2022-10-04T06:11:42+00:00"
+    },
+    {
+      "date": "2022-10-04",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-norms-pro-serif/",
+      "snippet": "0 glyphs in each font style; 31 OpenType features, including options for localization. Release and update date Release: October 4, 2022 Last update: November 21, 2023 What's changed in the font: The character set has gro"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-norms-pro-serif/",
+      "snippet": "n the functional sans TT Norms® Pro. Our new serif is a perfect fit for websites, book layouts, or packaging design. In 2023, we significantly upgraded this font family, adding several new languages and OpenType features"
+    },
+    {
+      "date": "2023-11-21",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-norms-pro-serif/",
+      "snippet": "f with neutral character. Developed based on the bestselling TT Norms® Pro. TT Norms® Pro Serif won 1 award Update from November 21, 2023 — What’s New? Single style: from $ 47.99 Full family: from $ 389 24 styles Buy fon"
+    },
+    {
+      "date": "2026-01-02",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typetype.org/fonts/tt-norms-pro-serif/",
+      "snippet": "2026-01-02T21:00:04+00:00"
+    },
+    {
+      "date": "2026-01-02",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://typetype.org/fonts/tt-norms-pro-serif/",
+      "snippet": "2026-01-02T21:00:04+00:00"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-norms-pro-serif/",
+      "snippet": "atives Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! TT Norms® Pro Serif Award Bronze Granshan is the worl"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-norms-pro-serif/",
+      "snippet": "frac | Fractions ordn | Ordinals case | Case Sensitive Forms dlig | Discretionary Ligatures Variable axes At the end of 2021, we thought of designing a serif to complement our bestseller TT Norms® Pro. It took us a full "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-norms-pro-serif/",
+      "snippet": "J Off On ÍJ íj ÍJ íj Show all Similar fonts TT Rationalist 22  font styles 30% off Special offer is valid until 17 Apr, 2026 Popular Updated from $ 47.99 Original price was: $47.99. $ 33.59 Current price is: $33.59. View"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://typetype.org/fonts/tt-norms-pro-serif/",
+      "snippet": "Fri, 06 Mar 2026 23:06:32 GMT"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typetype.org/typefaces/tt-norms-pro-serif",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typetype.org/fonts/tt-norms-pro-serif/",
+    "last_modified": "Fri, 06 Mar 2026 23:06:32 GMT"
+  }
+}

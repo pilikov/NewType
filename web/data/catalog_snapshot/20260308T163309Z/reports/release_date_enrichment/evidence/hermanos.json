@@ -1,0 +1,27 @@
+{
+  "record_id": "hermanos",
+  "source_url": "https://nuformtype.com/typefaces/hermanos",
+  "checked_at": "2026-03-09T02:01:32.346445+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://nuformtype.com/hermanos",
+      "snippet": "pliment for packaging, restaurants, and creepy halloween headlines. DOWNLOAD SPECIMEN﻿ DOWNLOAD SPECIMEN﻿ BUY HERMANOS ©2026 NUFORM TYPE"
+    },
+    {
+      "date": "2026-02-14",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://nuformtype.com/typefaces/hermanos",
+      "snippet": "2026-02-14"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://nuformtype.com/hermanos",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "record_id": "polymode",
+  "source_url": "https://xyztype.com/fonts/polymode",
+  "checked_at": "2026-03-09T02:01:12.625215+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://xyztype.com/fonts/polymode",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://xyztype.com/fonts/polymode/polymode_attitude",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "fresco-sans",
+  "source_url": "https://www.typeby.com/fonts/fresco-sans",
+  "checked_at": "2026-03-09T01:49:01.164210+00:00",
+  "candidates": [
+    {
+      "date": "1998-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/fresco-sans",
+      "snippet": "rpose type family designed by Fred Smeijers. The design was first shown in Items, the Dutch design magazine, in October 1998 and commercially released in 2003. The character of Fresco can be described as a refreshment of"
+    },
+    {
+      "date": "2003-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/fresco-sans",
+      "snippet": " Smeijers. The design was first shown in Items, the Dutch design magazine, in October 1998 and commercially released in 2003. The character of Fresco can be described as a refreshment of traditional and conventional issu"
+    },
+    {
+      "date": "2006-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/fresco-sans",
+      "snippet": "s reading matter, but equally it blends very well into the corporate world; magazines are another area of use. In March 2006 a new variation of Fresco fonts - Fresco Plus and Fresco Plus Sans - was released. This version"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/fresco-sans",
+      "snippet": "mo Remo Stencil Rosalinde Subtil Grotesk Edward Lirico Eva Meran Stan Standing Type Couteau Greco Klub Orly Copyright © 2026 Type By. All Rights Reserved. Information About Licenses Help Terms & conditions of sale Terms "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.typeby.com/fonts/fresco-sans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typeby.com/fonts/fresco-sans",
+    "last_modified": null
+  }
+}

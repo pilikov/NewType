@@ -1,0 +1,34 @@
+{
+  "record_id": "puffling",
+  "source_url": "https://tortilla.studio/fonts/puffling",
+  "checked_at": "2026-03-09T01:56:02.104178+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://tortilla.studio/fonts/puffling/",
+      "snippet": " â â â * . , : ; ! Â¡ ? Â¿ / @ & ^ ~ Â´ ` Ë Ë Â¨ Ë Ë Â¸ Â© Â® é © Â© Tortilla.studio | Romina HernÃ¡ndez â 2020-2025. TRIAL FONTS"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://tortilla.studio/fonts/puffling/",
+      "snippet": " â â * . , : ; ! Â¡ ? Â¿ / @ & ^ ~ Â´ ` Ë Ë Â¨ Ë Ë Â¸ Â© Â® é © Â© Tortilla.studio | Romina HernÃ¡ndez â 2020-2025. TRIAL FONTS"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://tortilla.studio/fonts/puffling",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://tortilla.studio/fonts/puffling/",
+    "last_modified": null
+  }
+}

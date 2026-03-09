@@ -1,0 +1,41 @@
+{
+  "record_id": "castletype--agency-medium",
+  "source_url": "http://www.castletype.com/html/tipoteca/agency-medium.html",
+  "checked_at": "2026-03-09T02:00:54.409290+00:00",
+  "candidates": [
+    {
+      "date": "1990-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://www.castletype.com/html/tipoteca/agency-medium.html",
+      "snippet": "oned by Publish magazine to create digital versions of Agency Gothic Open and Agency Gothic Condensed for a redesign in 1990. Since then, I have added four other styles. Agency Gothic CT is uppercase only and supports al"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://www.castletype.com/html/tipoteca/agency-medium.html",
+      "snippet": " Codepages Webfonts Connect Contact Support Facebook Policies Licensing About CastleType Font Services Copyright © 1990-2025 CastleType. All rights reserved. Todos los derechos reservados. Tous droits réservés."
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "http://www.castletype.com/html/tipoteca/agency-medium.html",
+      "snippet": "Sat, 08 Mar 2025 23:46:51 GMT"
+    },
+    {
+      "date": "2026-02-22",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://www.castletype.com/html/tipoteca/agency-medium.html",
+      "snippet": "2026-02-22"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "http://www.castletype.com/html/tipoteca/agency-medium.html",
+    "last_modified": "Sat, 08 Mar 2025 23:46:51 GMT"
+  }
+}

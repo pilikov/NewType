@@ -1,0 +1,41 @@
+{
+  "record_id": "ts-fonts--karagoz-font",
+  "source_url": "https://tsfonts.com/font/karagoz-font/",
+  "checked_at": "2026-03-09T02:01:03.363821+00:00",
+  "candidates": [
+    {
+      "date": "2023-11-23",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://tsfonts.com/font/karagoz-font/",
+      "snippet": "2023-11-23T11:15:09+00:00"
+    },
+    {
+      "date": "2026-03-02",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://tsfonts.com/font/karagoz-font/",
+      "snippet": "2026-03-02T21:21:25+00:00"
+    },
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://tsfonts.com/font/karagoz-font/",
+      "snippet": "ify 15 characters – The font name can be customized – All font formats included (OTF_TTF_WOFF_WOFF2) Price Starts From $2000 For More About License ↗ A studio specialized in type design and branding. Brows Fonts Branding"
+    },
+    {
+      "date": "2026-02-21",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://tsfonts.com/font/karagoz-font/",
+      "snippet": "2026-02-21"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://tsfonts.com/font/karagoz-font/",
+    "last_modified": null
+  }
+}

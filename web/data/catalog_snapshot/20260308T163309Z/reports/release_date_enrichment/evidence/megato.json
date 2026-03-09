@@ -1,0 +1,48 @@
+{
+  "record_id": "megato",
+  "source_url": "https://www.astype.de/font_t_megato.php",
+  "checked_at": "2026-03-09T01:48:27.303713+00:00",
+  "candidates": [
+    {
+      "date": "2003-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_t_megato.php",
+      "snippet": "as B Stencil Ornaments A Thanksgiving Wine Grape A Free Fonts: DIN Type A - Basic Presto Nepos Fonts Wood Poster Eight ©2003 – 2026 by Andreas Seidel | astype fonts RSS Feed Imprint"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_t_megato.php",
+      "snippet": " currently supported.\r\nAs of June 9, 2025, Rosetta's Hyperglot tool certifies that Megato supports 342 languages. [6/09/2025] Support for the Hebrew (Ivrit) script is currently in beta, with vowel representation still un"
+    },
+    {
+      "date": "2025-06-09",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_t_megato.php",
+      "snippet": "term goal is to fully implement all 2,136 Japanese Jōyō Kanji ( 常用漢字 ) characters, with 260 currently supported.\r\nAs of June 9, 2025, Rosetta's Hyperglot tool certifies that Megato supports 342 languages. [6/09/2025] Sup"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_t_megato.php",
+      "snippet": "encil Ornaments A Thanksgiving Wine Grape A Free Fonts: DIN Type A - Basic Presto Nepos Fonts Wood Poster Eight ©2003 – 2026 by Andreas Seidel | astype fonts RSS Feed Imprint"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.astype.de/font_t_megato.php",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.astype.de/font_t_megato.php",
+    "last_modified": null
+  }
+}

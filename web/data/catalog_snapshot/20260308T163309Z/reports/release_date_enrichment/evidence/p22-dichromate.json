@@ -1,0 +1,27 @@
+{
+  "record_id": "p22-dichromate",
+  "source_url": "https://p22.com/fonts/dichromate/",
+  "checked_at": "2026-03-09T01:54:43.634509+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/dichromate/",
+      "snippet": "tures ff ffi ffl fi fj fl ft Ornaments • • • • • Ordinals 0a 0o 1a 1o 2a 2o 3a 3o 4a 4o 5a 5o 6a 6o 7a 7o 8a 8o 9a 9o © 2026 The Type Founders, LLC Fonts Designers About Privacy & Cookies Terms of Service Licensing Servi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://p22.com/fonts/dichromate/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://p22.com/fonts/dichromate/",
+    "last_modified": null
+  }
+}

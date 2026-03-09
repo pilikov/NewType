@@ -1,0 +1,19 @@
+{
+  "record_id": "verb",
+  "source_url": "https://yellowdesignstudio.com/typefaces/verb",
+  "checked_at": "2026-03-09T01:58:30.235300+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://yellowdesignstudio.com/typefaces/verb",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "404 Client Error: Not Found for url: https://yellowdesignstudio.com/typefaces/verb"
+  }
+}

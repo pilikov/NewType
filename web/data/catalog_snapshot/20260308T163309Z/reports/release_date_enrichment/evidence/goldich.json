@@ -1,0 +1,34 @@
+{
+  "record_id": "goldich",
+  "source_url": "https://boldmonday.com/typeface/goldich/",
+  "checked_at": "2026-03-09T01:40:59.768241+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/goldich/",
+      "snippet": "ent discounts Privacy policy Return policy Disclaimer Subscribe to News & Updates Twitter | Facebook | Mail Copyright © 2026 Bold Monday – all rights reserved Made by Unwind"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/goldich/",
+      "snippet": "or for signage and stencilling fun. Goldich has received a Type Directors Club Certificate of Typographic Excellence in 2022. Designer Jasper de Waard 2022 Goldich supports the following languages Afrikaans, Albanian, As"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://boldmonday.com/typeface/goldich/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://boldmonday.com/typeface/goldich/",
+    "last_modified": null
+  }
+}

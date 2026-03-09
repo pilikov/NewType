@@ -1,0 +1,48 @@
+{
+  "record_id": "marie",
+  "source_url": "https://typejockeys.com/font/marie",
+  "checked_at": "2026-03-09T01:48:58.649992+00:00",
+  "candidates": [
+    {
+      "date": "2025-07-14",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typejockeys.com/en/font/marie",
+      "snippet": "2025-07-14T14:59:50+02:00"
+    },
+    {
+      "date": "2025-10-23",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typejockeys.com/en/font/marie",
+      "snippet": "2025-10-23T11:05:20+02:00"
+    },
+    {
+      "date": "2025-10-23",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.typejockeys.com/en/font/marie",
+      "snippet": "2025-10-23T11:05:20+02:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typejockeys.com/en/font/marie",
+      "snippet": "ferior Fractions Marie in use: Porsche Bank XXXLutz Your project? Your project? Your project? Licensing Legal Privacy © 2026 Typejockeys de en Trial Fonts close Search website close"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typejockeys.com/font/marie",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typejockeys.com/en/font/marie",
+    "last_modified": null
+  }
+}

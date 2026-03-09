@@ -1,0 +1,27 @@
+{
+  "record_id": "am-vittoria",
+  "source_url": "https://www.c-a-s-t.com/typefaces/vittoria",
+  "checked_at": "2026-03-09T01:39:20.789995+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/am-vittoria/",
+      "snippet": " Swiss German, Taita, Teso, Upper Sorbian, Uzbek (Latin), Volapük, Vunjo, Welsh, Western Frisian, Zulu Production years 2025 Additional info The original Vittoria was cast in metal around 1940 by the Fonderia Tipografica"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.c-a-s-t.com/typefaces/vittoria",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.c-a-s-t.com/typefaces/am-vittoria/",
+    "last_modified": null
+  }
+}

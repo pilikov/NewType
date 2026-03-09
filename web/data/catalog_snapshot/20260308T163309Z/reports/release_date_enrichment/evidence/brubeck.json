@@ -1,0 +1,27 @@
+{
+  "record_id": "brubeck",
+  "source_url": "https://deinwaller.com/brubeck-2",
+  "checked_at": "2026-03-09T01:49:30.304494+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://deinwaller.com/brubeck-2",
+      "snippet": ") EINWALLER.COM (s) STUDIO (f) TRIAL FONTS (w) SELECTED WORK (t) TYPE CATALOGUE ↓ ( b ) BUY BRUBECK Year of Production: 2019 Glyphset: Latin Extended-A Brubeck thrives on a generation of dense, loud typefaces that graced"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://deinwaller.com/brubeck-2",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://deinwaller.com/brubeck-2",
+    "last_modified": null
+  }
+}

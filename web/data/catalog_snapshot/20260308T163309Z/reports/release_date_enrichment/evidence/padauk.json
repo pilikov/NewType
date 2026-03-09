@@ -1,0 +1,125 @@
+{
+  "record_id": "padauk",
+  "source_url": "https://software.sil.org/padauk/",
+  "checked_at": "2026-03-09T01:52:02.697398+00:00",
+  "candidates": [
+    {
+      "date": "2014-10-02",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://software.sil.org/padauk/",
+      "snippet": "2014-10-02T09:52:47+00:00"
+    },
+    {
+      "date": "2014-10-02",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://software.sil.org/padauk/",
+      "snippet": "2014-10-02T09:52:47+00:00"
+    },
+    {
+      "date": "2016-06-07",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/padauk/",
+      "snippet": "6 September 2019 Release 3.003 10 March 2017 Release 3.002 30 November 2016 Release 3.001 19 September 2016 Release 3.0 7 June 2016 This font software is free to use, modify and redistribute according to the terms of the"
+    },
+    {
+      "date": "2016-09-19",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/padauk/",
+      "snippet": "00 18 June 2021 Release 4.000 6 September 2019 Release 3.003 10 March 2017 Release 3.002 30 November 2016 Release 3.001 19 September 2016 Release 3.0 7 June 2016 This font software is free to use, modify and redistribute"
+    },
+    {
+      "date": "2016-11-30",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/padauk/",
+      "snippet": "e 5.001 8 June 2022 Release 5.000 18 June 2021 Release 4.000 6 September 2019 Release 3.003 10 March 2017 Release 3.002 30 November 2016 Release 3.001 19 September 2016 Release 3.0 7 June 2016 This font software is free "
+    },
+    {
+      "date": "2017-03-10",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/padauk/",
+      "snippet": ".100 27 November 2024 Release 5.001 8 June 2022 Release 5.000 18 June 2021 Release 4.000 6 September 2019 Release 3.003 10 March 2017 Release 3.002 30 November 2016 Release 3.001 19 September 2016 Release 3.0 7 June 2016"
+    },
+    {
+      "date": "2019-09-06",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/padauk/",
+      "snippet": "haping 8 October 2025 Release 5.100 27 November 2024 Release 5.001 8 June 2022 Release 5.000 18 June 2021 Release 4.000 6 September 2019 Release 3.003 10 March 2017 Release 3.002 30 November 2016 Release 3.001 19 Septemb"
+    },
+    {
+      "date": "2021-06-18",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/padauk/",
+      "snippet": "ses Padauk 6.000 – Better shaping 8 October 2025 Release 5.100 27 November 2024 Release 5.001 8 June 2022 Release 5.000 18 June 2021 Release 4.000 6 September 2019 Release 3.003 10 March 2017 Release 3.002 30 November 20"
+    },
+    {
+      "date": "2022-06-08",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/padauk/",
+      "snippet": "full FAQ list News & Releases Padauk 6.000 – Better shaping 8 October 2025 Release 5.100 27 November 2024 Release 5.001 8 June 2022 Release 5.000 18 June 2021 Release 4.000 6 September 2019 Release 3.003 10 March 2017 Re"
+    },
+    {
+      "date": "2024-11-27",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/padauk/",
+      "snippet": " using fonts on web pages. See full FAQ list News & Releases Padauk 6.000 – Better shaping 8 October 2025 Release 5.100 27 November 2024 Release 5.001 8 June 2022 Release 5.000 18 June 2021 Release 4.000 6 September 2019"
+    },
+    {
+      "date": "2025-10-08",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/padauk/",
+      "snippet": "Web Pages for instructions on using fonts on web pages. See full FAQ list News & Releases Padauk 6.000 – Better shaping 8 October 2025 Release 5.100 27 November 2024 Release 5.001 8 June 2022 Release 5.000 18 June 2021 R"
+    },
+    {
+      "date": "2025-10-09",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://software.sil.org/padauk/",
+      "snippet": "2025-10-09T15:59:51+00:00"
+    },
+    {
+      "date": "2025-10-09",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://software.sil.org/padauk/",
+      "snippet": "2025-10-09T15:59:51+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/padauk/",
+      "snippet": "Font License Writing Systems Technology Technical Resources Contact & Support Contact Support Community FAQ Copyright © 2026 SIL Global Terms of Use Privacy Policy"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://software.sil.org/padauk/",
+      "snippet": "Mon, 09 Mar 2026 00:20:53 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://software.sil.org/padauk/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://software.sil.org/padauk/",
+    "last_modified": "Mon, 09 Mar 2026 00:20:53 GMT"
+  }
+}

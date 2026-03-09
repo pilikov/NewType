@@ -1,0 +1,20 @@
+{
+  "record_id": "viktor",
+  "source_url": "https://commercialtype.com/catalog/viktor",
+  "checked_at": "2026-03-09T02:00:18.240294+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://commercialtype.com/catalog/viktor",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://commercialtype.com/catalog/viktor",
+    "last_modified": null
+  }
+}

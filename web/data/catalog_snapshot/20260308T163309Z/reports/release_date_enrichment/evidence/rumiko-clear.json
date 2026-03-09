@@ -1,0 +1,48 @@
+{
+  "record_id": "rumiko-clear",
+  "source_url": "https://typemates.com/fonts/rumiko-clear",
+  "checked_at": "2026-03-09T01:50:13.716815+00:00",
+  "candidates": [
+    {
+      "date": "2022-07-04",
+      "score": 0.95,
+      "source_type": "jsonld:dateCreated",
+      "source_url": "https://www.typemates.com/fonts/rumiko-clear",
+      "snippet": "2022-07-04T17:09:39+02:00"
+    },
+    {
+      "date": "2022-07-06",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typemates.com/fonts/rumiko-clear",
+      "snippet": "2022-07-06T11:56:00+02:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typemates.com/fonts/rumiko-clear",
+      "snippet": "2026-03-05T11:57:11+01:00"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/rumiko-clear",
+      "snippet": "and icons, arrows and dingbats. Unlike most TypeMates fonts, it comes with a set of emoji. Designed by Natalie Rauch in 2022 Specs 12 styles containing 6 weights plus Italic, more than 650 glyphs per font Formats otf and"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typemates.com/fonts/rumiko-clear",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typemates.com/fonts/rumiko-clear",
+    "last_modified": null
+  }
+}

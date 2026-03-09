@@ -1,0 +1,34 @@
+{
+  "record_id": "nova-augustea",
+  "source_url": "https://archiviotipografico.it/typefaces/nova-augustea",
+  "checked_at": "2026-03-09T01:43:30.386869+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://archiviotipografico.it/en/product/nova-augustea/",
+      "snippet": "e are traces of a draft for an italic cut it remained a single-style project. Studio 23.56 redrew Nova Augustea between 2020 and 2021 as part of the Alfa-Beta reissue project, carried on as Archivio Tipografico. The font"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://archiviotipografico.it/en/product/nova-augustea/",
+      "snippet": "ces of a draft for an italic cut it remained a single-style project. Studio 23.56 redrew Nova Augustea between 2020 and 2021 as part of the Alfa-Beta reissue project, carried on as Archivio Tipografico. The font was used"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://archiviotipografico.it/typefaces/nova-augustea",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://archiviotipografico.it/en/product/nova-augustea/",
+    "last_modified": null
+  }
+}

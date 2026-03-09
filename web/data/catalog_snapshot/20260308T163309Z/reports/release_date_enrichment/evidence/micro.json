@@ -1,0 +1,41 @@
+{
+  "record_id": "micro",
+  "source_url": "http://superiortype.com/fonts/micro",
+  "checked_at": "2026-03-09T01:57:42.513495+00:00",
+  "candidates": [
+    {
+      "date": "2001-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://superiortype.com/fonts/micro",
+      "snippet": "acterized by atmospheric builds, melodic structures, and extended track lengths designed for seamless DJ mixing. Around 2001, hard house emerged as the next dominant trend, defined by faster BPMs, punchy kicks, and aggre"
+    },
+    {
+      "date": "2004-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://superiortype.com/fonts/micro",
+      "snippet": "much of the 2010s sound palette, laying the groundwork for EDMâs explosion in the next decade. Bold 𓀐 Wave Variable 𓀐 2004 Medium 𓀐 Stereo Rush Flashback Dream Mode Ultra Pulse & Quiet Regular 𓀐 They fused Chicago hous"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://superiortype.com/fonts/micro",
+      "snippet": " ExtraBold Micro ExtraBold Italic Micro Black Micro Black Italic Languages (302) Show Languages Superior Type Â© 2013â2026. All rights reserved Support Contact Instagram"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://superiortype.com/fonts/micro",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://superiortype.com/fonts/micro",
+    "last_modified": null
+  }
+}

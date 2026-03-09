@@ -1,0 +1,28 @@
+{
+  "record_id": "saiga",
+  "source_url": "https://www.spoketype.com/typefaces/saiga",
+  "checked_at": "2026-03-09T01:37:35.492603+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.spoketype.com/wp-content/uploads/Saiga.mp4",
+      "snippet": "Tue, 20 Jan 2026 10:28:10 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.spoketype.com/typefaces/saiga",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": 200,
+    "error": "unsupported content-type: video/mp4",
+    "final_url": "https://www.spoketype.com/wp-content/uploads/Saiga.mp4",
+    "last_modified": "Tue, 20 Jan 2026 10:28:10 GMT"
+  }
+}

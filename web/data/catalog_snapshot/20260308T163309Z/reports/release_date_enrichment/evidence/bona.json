@@ -1,0 +1,20 @@
+{
+  "record_id": "bona",
+  "source_url": "https://capitalics.wtf/font/bona",
+  "checked_at": "2026-03-09T01:37:30.479560+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://capitalics.wtf/font/bona",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://capitalics.wtf/en/font/bona",
+    "last_modified": null
+  }
+}

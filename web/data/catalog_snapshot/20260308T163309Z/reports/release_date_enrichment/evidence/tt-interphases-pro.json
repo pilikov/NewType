@@ -1,0 +1,83 @@
+{
+  "record_id": "tt-interphases-pro",
+  "source_url": "https://typetype.org/typefaces/tt-interphases-pro",
+  "checked_at": "2026-03-09T02:03:45.172800+00:00",
+  "candidates": [
+    {
+      "date": "2022-06-30",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typetype.org/fonts/tt-interphases-pro/",
+      "snippet": "2022-06-30T14:54:02+00:00"
+    },
+    {
+      "date": "2022-06-30",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://typetype.org/fonts/tt-interphases-pro/",
+      "snippet": "2022-06-30T14:54:02+00:00"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-interphases-pro/",
+      "snippet": "atives Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! Font Update: What’s New in the Latest Version Version"
+    },
+    {
+      "date": "2019-10-04",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-interphases-pro/",
+      "snippet": "ro is the perfect font for working with interfaces on modern mobile and web platforms. Release and update date Release: October 4, 2019 Last update: March 11, 2025 What's changed in the font: Total number of styles incre"
+    },
+    {
+      "date": "2025-03-11",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-interphases-pro/",
+      "snippet": "ineered for interface design. It combines style and functionality as a foundation for any digital platform. Update from March 11, 2025 — What’s New? Single style: from $ 47.99 Full family: from $ 439 43 styles Buy font T"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-interphases-pro/",
+      "snippet": "s Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! Font Update: What’s New in the Latest Version Version from"
+    },
+    {
+      "date": "2026-01-21",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typetype.org/fonts/tt-interphases-pro/",
+      "snippet": "2026-01-21T09:22:26+00:00"
+    },
+    {
+      "date": "2026-01-21",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://typetype.org/fonts/tt-interphases-pro/",
+      "snippet": "2026-01-21T09:22:26+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://typetype.org/fonts/tt-interphases-pro/",
+      "snippet": "Fri, 06 Mar 2026 21:21:32 GMT"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typetype.org/typefaces/tt-interphases-pro",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typetype.org/fonts/tt-interphases-pro/",
+    "last_modified": "Fri, 06 Mar 2026 21:21:32 GMT"
+  }
+}

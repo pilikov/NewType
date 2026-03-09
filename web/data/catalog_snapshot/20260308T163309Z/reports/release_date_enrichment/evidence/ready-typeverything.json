@@ -1,0 +1,27 @@
+{
+  "record_id": "ready-typeverything",
+  "source_url": "https://typeverything.com/typefaces/ready-typeverything",
+  "checked_at": "2026-03-09T01:46:31.395645+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://typeverything.com/typefaces/ready-typeverything",
+      "snippet": "Mon, 19 Jan 2026 18:22:45 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typeverything.com/typefaces/ready-typeverything",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typeverything.com/typefaces/ready-typeverything",
+    "last_modified": "Mon, 19 Jan 2026 18:22:45 GMT"
+  }
+}

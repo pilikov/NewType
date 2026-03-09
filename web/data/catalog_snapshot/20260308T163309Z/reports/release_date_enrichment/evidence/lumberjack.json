@@ -1,0 +1,27 @@
+{
+  "record_id": "lumberjack",
+  "source_url": "https://www.suvatypefoundry.ee/lumberjack/",
+  "checked_at": "2026-03-09T01:48:20.397476+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/lumberjack/",
+      "snippet": "IOUS FONT LUMBERJACK NEXT FONT F G U B Z T K A O L R H I X J V P S M D W Y DOWNLOAD E C N Q LUMBERJACK by Birgita Siim (2020) Lumberjack is inspired by the forester’s ancient helper – the axe. Therefore the figures mix s"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/lumberjack/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/lumberjack/",
+    "last_modified": null
+  }
+}

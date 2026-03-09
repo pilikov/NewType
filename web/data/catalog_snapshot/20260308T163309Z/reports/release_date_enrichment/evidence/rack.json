@@ -1,0 +1,41 @@
+{
+  "record_id": "rack",
+  "source_url": "https://renegadefonts.com/typefaces.php",
+  "checked_at": "2026-03-09T01:54:41.676886+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.renegadefonts.com/typefaces.php",
+      "snippet": " A /U+0000/ Do Práce Na Kole is font for biking activism company Automat which came with whole visual identity for year 2023/2024. Originally family consist of 10 weights of color fonts, to match identity color combinati"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.renegadefonts.com/typefaces.php",
+      "snippet": "+0000/ Do Práce Na Kole is font for biking activism company Automat which came with whole visual identity for year 2023/2024. Originally family consist of 10 weights of color fonts, to match identity color combinations. "
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.renegadefonts.com/typefaces.php",
+      "snippet": "ck our spacial Velodroma 4 UA micropage Buy Family - €50 Download full trial download all full trials RENEGADEFONTS (c) 2025 Renegadefonts. All rights reserved. By purchasing on this page you agree with Terms and Conditi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://renegadefonts.com/typefaces.php",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.renegadefonts.com/typefaces.php",
+    "last_modified": null
+  }
+}

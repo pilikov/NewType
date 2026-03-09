@@ -1,0 +1,62 @@
+{
+  "record_id": "oc-format-shards",
+  "source_url": "https://otherwherecollective.com/format-shards/",
+  "checked_at": "2026-03-09T01:49:26.855703+00:00",
+  "candidates": [
+    {
+      "date": "2019-12-04",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://otherwherecollective.com/format-shards/",
+      "snippet": "2019-12-04T03:16:45+00:00"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://otherwherecollective.com/format-shards/",
+      "snippet": "t Licensing Simplified Font EULA Free Font EULA Demo Font EULA Student Font EULA Newsletter Email Subscribe Copyright © 2018–2025. All rights reserved March 8, 2026 9:49 pm Website: BellamyStudio Fonts Format NEW!!! Noct"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://otherwherecollective.com/format-shards/",
+      "snippet": "ensing Simplified Font EULA Free Font EULA Demo Font EULA Student Font EULA Newsletter Email Subscribe Copyright © 2018–2025. All rights reserved March 8, 2026 9:49 pm Website: BellamyStudio Fonts Format NEW!!! Noctem NE"
+    },
+    {
+      "date": "2026-03-08",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://otherwherecollective.com/format-shards/",
+      "snippet": "A Free Font EULA Demo Font EULA Student Font EULA Newsletter Email Subscribe Copyright © 2018–2025. All rights reserved March 8, 2026 9:49 pm Website: BellamyStudio Fonts Format NEW!!! Noctem NEW! Oly v2 Pickllle Blimp v"
+    },
+    {
+      "date": "2023-06-27",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://otherwherecollective.com/format-shards/",
+      "snippet": "2023-06-27T12:57:48+00:00"
+    },
+    {
+      "date": "2023-06-27",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://otherwherecollective.com/format-shards/",
+      "snippet": "2023-06-27T12:57:48+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://otherwherecollective.com/format-shards/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://otherwherecollective.com/format-shards/",
+    "last_modified": null
+  }
+}

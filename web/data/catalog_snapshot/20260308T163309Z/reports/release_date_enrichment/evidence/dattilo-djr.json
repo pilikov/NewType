@@ -1,0 +1,41 @@
+{
+  "record_id": "dattilo-djr",
+  "source_url": "https://djr.com/dattilo",
+  "checked_at": "2026-03-09T01:43:49.513750+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/dattilo-djr-regular-font-of-the-month",
+      "snippet": "think of it as the slab serif cousin of Forma, which I digitized under the art direction of Roger Black and released in 2016 . This month I’m sending you a beta variable font that covers the heavier end of the Dattilo de"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/dattilo-djr-regular-font-of-the-month",
+      "snippet": " See all posts March 31, 2020 # David Jonathan Ross March’s font of the month: Dattilo DJR Expansion Font of the Month, 2020/03 PDF Try Buy $24 One of the most common questions I get about Font of the Month Club is, “Do "
+    },
+    {
+      "date": "2020-03-31",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/dattilo-djr-regular-font-of-the-month",
+      "snippet": "wog Rhody Rustique Slight Chance Tortellini Zenith DJR Club Typeset Glyphs Notes About Sign in Cart Notes See all posts March 31, 2020 # David Jonathan Ross March’s font of the month: Dattilo DJR Expansion Font of the Mo"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://djr.com/dattilo",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://djr.com/notes/dattilo-djr-regular-font-of-the-month",
+    "last_modified": null
+  }
+}

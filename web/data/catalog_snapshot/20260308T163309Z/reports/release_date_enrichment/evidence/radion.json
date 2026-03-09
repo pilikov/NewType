@@ -1,0 +1,27 @@
+{
+  "record_id": "radion",
+  "source_url": "https://www.generaltypestudio.com/fonts/radion",
+  "checked_at": "2026-03-09T01:52:21.913990+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.generaltypestudio.com/fonts/radion",
+      "snippet": "Grotesque Nysé Radion Aro Senes Information About us Privacy policy Licenses Test fonts Contact Email Instagram Twitter 2026 © General Type Studio"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.generaltypestudio.com/fonts/radion",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.generaltypestudio.com/fonts/radion",
+    "last_modified": null
+  }
+}

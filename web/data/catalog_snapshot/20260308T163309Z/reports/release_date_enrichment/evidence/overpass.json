@@ -1,0 +1,27 @@
+{
+  "record_id": "overpass",
+  "source_url": "https://delvefonts.com/fonts/overpass",
+  "checked_at": "2026-03-09T01:50:39.458714+00:00",
+  "candidates": [
+    {
+      "date": "2001-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://delvefonts.com/fonts/overpass/",
+      "snippet": " Andy Fitzsimon, Jakub Steiner, and Ben Dubrovsky Special thanks to: Aaron Bell and Michael Luton Features Slashed Zero 2001 2001 Tabular Figures 01234 01234 Localized Forms дом дом Fractions 1/4 5/8 11/32 1/4 5/8 11/32 "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://delvefonts.com/fonts/overpass",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://delvefonts.com/fonts/overpass/",
+    "last_modified": null
+  }
+}

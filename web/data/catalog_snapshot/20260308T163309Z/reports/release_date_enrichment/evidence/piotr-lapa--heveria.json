@@ -1,0 +1,48 @@
+{
+  "record_id": "piotr-lapa--heveria",
+  "source_url": "https://www.myfonts.com/collections/heveria-font-piotr-lapa/",
+  "checked_at": "2026-03-09T02:01:29.876420+00:00",
+  "candidates": [
+    {
+      "date": "1999-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.myfonts.com/collections/heveria-font-piotr-lapa/",
+      "snippet": "elp FAQ Contact About Terms and Conditions Terms of Use Privacy Policy Return Policy Legal Help FAQ Contact Copyright © 1999-2025 MyFonts Inc. All rights reserved. Choosing a selection results in a full page refresh."
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.myfonts.com/collections/heveria-font-piotr-lapa/",
+      "snippet": "apa Design Owner: Piotr Łapa MyFonts debut: May 23, 2024 Heveria About Piotr Łapa A one-man type foundry established in 2018 by Polish designer Piotr Łapa. Piotr's designs are characterized by modernity and expressivenes"
+    },
+    {
+      "date": "2024-05-23",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.myfonts.com/collections/heveria-font-piotr-lapa/",
+      "snippet": "e design needs. Designers: Piotr Łapa Publisher: Piotr Łapa Foundry: Piotr Łapa Design Owner: Piotr Łapa MyFonts debut: May 23, 2024 Heveria About Piotr Łapa A one-man type foundry established in 2018 by Polish designer "
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.myfonts.com/collections/heveria-font-piotr-lapa/",
+      "snippet": "AQ Contact About Terms and Conditions Terms of Use Privacy Policy Return Policy Legal Help FAQ Contact Copyright © 1999-2025 MyFonts Inc. All rights reserved. Choosing a selection results in a full page refresh."
+    },
+    {
+      "date": "2026-02-14",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.myfonts.com/collections/heveria-font-piotr-lapa/",
+      "snippet": "2026-02-14"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.myfonts.com/collections/heveria-font-piotr-lapa/",
+    "last_modified": null
+  }
+}

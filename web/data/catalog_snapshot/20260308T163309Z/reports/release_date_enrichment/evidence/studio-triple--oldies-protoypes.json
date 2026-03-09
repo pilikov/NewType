@@ -1,0 +1,27 @@
+{
+  "record_id": "studio-triple--oldies-protoypes",
+  "source_url": "https://studiotriple.fr/travaux/typefaces/oldies/",
+  "checked_at": "2026-03-09T01:36:32.688459+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://studiotriple.fr/travaux/typefaces/oldies/",
+      "snippet": "om Solide Mirage Custom Open-source Hyper Scrypt Custom Open-source Millimetre Open-source All images:  © Studio Triple 2023"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://studiotriple.fr/travaux/typefaces/oldies/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://studiotriple.fr/travaux/typefaces/oldies/",
+    "last_modified": null
+  }
+}

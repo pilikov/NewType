@@ -1,0 +1,20 @@
+{
+  "record_id": "ayer",
+  "source_url": "https://commercialtype.com/catalog/ayer",
+  "checked_at": "2026-03-09T01:40:37.996784+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://commercialtype.com/catalog/ayer",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://commercialtype.com/catalog/ayer",
+    "last_modified": null
+  }
+}

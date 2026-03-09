@@ -1,0 +1,41 @@
+{
+  "record_id": "valve",
+  "source_url": "https://pangrampangram.com/products/valve",
+  "checked_at": "2026-03-09T01:55:11.554933+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://pangrampangram.com/products/valve",
+      "snippet": "e account Cart 0 Français Don't miss a beat Subscribe to our newsletter to stay in touch with the latest. → Copyright © 2018 – 2026. All rights reserved. ↑ Back to top Pangram Pangram® Foundry Created by Mat Desjardins a"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://pangrampangram.com/products/valve",
+      "snippet": "Styles each 2 cuts X 18 Styles each with 960 Glyphs Including Italic & Stencil Cut Version 1.00 Latest update: November 2024 Available formats OTF, TTF, WOFF, WOFF2 Language Support Afrikaans, Basque, Breton, Catalan, Cr"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://pangrampangram.com/products/valve",
+      "snippet": "nt Cart 0 Français Don't miss a beat Subscribe to our newsletter to stay in touch with the latest. → Copyright © 2018 – 2026. All rights reserved. ↑ Back to top Pangram Pangram® Foundry Created by Mat Desjardins and the "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://pangrampangram.com/products/valve",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://pangrampangram.com/products/valve",
+    "last_modified": null
+  }
+}

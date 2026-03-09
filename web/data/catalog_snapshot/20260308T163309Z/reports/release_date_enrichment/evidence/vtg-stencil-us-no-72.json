@@ -1,0 +1,41 @@
+{
+  "record_id": "vtg-stencil-us-no-72",
+  "source_url": "https://www.astype.de/font_v_vtg-stencil-us-no72.php",
+  "checked_at": "2026-03-09T01:56:02.912757+00:00",
+  "candidates": [
+    {
+      "date": "2003-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_v_vtg-stencil-us-no72.php",
+      "snippet": "as B Stencil Ornaments A Thanksgiving Wine Grape A Free Fonts: DIN Type A - Basic Presto Nepos Fonts Wood Poster Eight ©2003 – 2026 by Andreas Seidel | astype fonts RSS Feed Imprint"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_v_vtg-stencil-us-no72.php",
+      "snippet": "encils from several countries.\r\nThe US No. 72 design was drawn from authentic stencil plates used by the U.S. Army.\r\nIn 2018 a major upgrade was done and Cyrillic support was added to the fonts. When we call a thing vint"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_v_vtg-stencil-us-no72.php",
+      "snippet": "encil Ornaments A Thanksgiving Wine Grape A Free Fonts: DIN Type A - Basic Presto Nepos Fonts Wood Poster Eight ©2003 – 2026 by Andreas Seidel | astype fonts RSS Feed Imprint"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.astype.de/font_v_vtg-stencil-us-no72.php",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.astype.de/font_v_vtg-stencil-us-no72.php",
+    "last_modified": null
+  }
+}

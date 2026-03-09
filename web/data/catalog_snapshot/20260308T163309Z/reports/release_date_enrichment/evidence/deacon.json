@@ -1,0 +1,41 @@
+{
+  "record_id": "deacon",
+  "source_url": "https://www.centraltype.com/deacon",
+  "checked_at": "2026-03-09T01:53:24.046928+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.centraltype.com/deacon",
+      "snippet": "nd condensed versions. Each weight contains over 350 glyphs with thorough language support and OpenType features. YEAR: 2020 DESIGNER: Mark Butchko Styles: 12 Regular & Oblique 12 Condensed & Oblique version: 2.4 SAMPLES"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.centraltype.com/deacon",
+      "snippet": " YEAR: 2020 DESIGNER: Mark Butchko Styles: 12 Regular & Oblique 12 Condensed & Oblique version: 2.4 SAMPLES Copyright © 2023 Central Type. All rights reserved. Licensing Information"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.centraltype.com/deacon",
+      "snippet": "Sat, 28 Feb 2026 10:44:07 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.centraltype.com/deacon",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.centraltype.com/deacon",
+    "last_modified": "Sat, 28 Feb 2026 10:44:07 GMT"
+  }
+}

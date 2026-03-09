@@ -1,0 +1,48 @@
+{
+  "record_id": "cmm-modul",
+  "source_url": "https://commatype.com/cmm-modul",
+  "checked_at": "2026-03-09T02:01:18.102919+00:00",
+  "candidates": [
+    {
+      "date": "2024-07-12",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://commatype.com/cmm-modul/",
+      "snippet": "2024-07-12T13:34:48+00:00"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://commatype.com/cmm-modul/",
+      "snippet": "th descenders on the baseline to enable extra compact line spacing. Pipeline Stage A Character Set Comma Set A Designed 2020–2024 Released 2024 Design & Mastering Anna Cairns Get trials Features Stylistic set: Alternate "
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://commatype.com/cmm-modul/",
+      "snippet": "scenders on the baseline to enable extra compact line spacing. Pipeline Stage A Character Set Comma Set A Designed 2020–2024 Released 2024 Design & Mastering Anna Cairns Get trials Features Stylistic set: Alternate a Sty"
+    },
+    {
+      "date": "2025-05-23",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://commatype.com/cmm-modul/",
+      "snippet": "2025-05-23T08:04:21+00:00"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://commatype.com/cmm-modul",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://commatype.com/cmm-modul/",
+    "last_modified": null
+  }
+}

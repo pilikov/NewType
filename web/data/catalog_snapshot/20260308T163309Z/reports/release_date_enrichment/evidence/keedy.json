@@ -1,0 +1,48 @@
+{
+  "record_id": "keedy",
+  "source_url": "https://www.emigre.com/Fonts/Keedy",
+  "checked_at": "2026-03-09T01:41:16.145188+00:00",
+  "candidates": [
+    {
+      "date": "1993-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.emigre.com/Fonts/Keedy",
+      "snippet": "cintosh computer, the Emigre team, consisting of Rudy VanderLans and Zuzana Licko, with the addition of Tim Starback in 1993, were among the early adaptors to the new technology. ( More... ) General Info Licensing Overvi"
+    },
+    {
+      "date": "1995-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.emigre.com/Fonts/Keedy",
+      "snippet": "s Emigre News Archive Contact Us Emigre Inc. 1700 Shattuck Ave., #307 Berkeley, CA 94709 1-530-756-2900 info@emigre.com 1995 - 2026 © All Rights Reserved Emigre Inc.\n\t\t\t\t\t\t\t\t | Privacy Policy"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.emigre.com/Fonts/Keedy",
+      "snippet": "e News Archive Contact Us Emigre Inc. 1700 Shattuck Ave., #307 Berkeley, CA 94709 1-530-756-2900 info@emigre.com 1995 - 2026 © All Rights Reserved Emigre Inc.\n\t\t\t\t\t\t\t\t | Privacy Policy"
+    },
+    {
+      "date": "2011-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.emigre.com/Fonts/Keedy",
+      "snippet": "of the font will look like. I wanted a typeface that would willfully contradict those expectations,” Keedy has said. In 2011 Keedy Sans was one of 23 digital typefaces included in the permanent architecture and design co"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.emigre.com/Fonts/Keedy",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.emigre.com/Fonts/Keedy",
+    "last_modified": null
+  }
+}

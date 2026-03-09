@@ -1,0 +1,41 @@
+{
+  "record_id": "rl-sezon",
+  "source_url": "https://www.radluka.com/rl-sezon",
+  "checked_at": "2026-03-09T01:57:28.322405+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.radluka.com/rl-sezon",
+      "snippet": "r for branding, editorial design, or user interfaces, there’s always a season for a reliable Grotesk. Publication year: 2024 Styles ‍ RL Sezon has 18 styles + a variable font: Hair, Hair Italic Thin, Thin Italic Light, L"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.radluka.com/rl-sezon",
+      "snippet": "ut ‍ License Agreement ‍ Free Trials Privacy Policy ‍ Terms & Conditions radeklukasiewicz@gmail.com Instagram LinkedIn ©2026 Radek Łukasiewicz. All rights reserved."
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.radluka.com/rl-sezon",
+      "snippet": "Mon, 23 Feb 2026 04:29:48 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.radluka.com/rl-sezon",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.radluka.com/rl-sezon",
+    "last_modified": "Mon, 23 Feb 2026 04:29:48 GMT"
+  }
+}

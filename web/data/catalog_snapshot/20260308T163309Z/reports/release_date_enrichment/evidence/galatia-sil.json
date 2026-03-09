@@ -1,0 +1,104 @@
+{
+  "record_id": "galatia-sil",
+  "source_url": "https://software.sil.org/galatia",
+  "checked_at": "2026-03-09T01:46:07.072366+00:00",
+  "candidates": [
+    {
+      "date": "2019-03-19",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://software.sil.org/galatia/",
+      "snippet": "2019-03-19T18:57:14+00:00"
+    },
+    {
+      "date": "2019-03-19",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://software.sil.org/galatia/",
+      "snippet": "2019-03-19T18:57:14+00:00"
+    },
+    {
+      "date": "2002-10-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/galatia/",
+      "snippet": "1b released, removal of Keyman keyboard 2005-06-30 – Version 2.0.1 released, bug-fix for issue causing crashes on Linux 2002-10-01 – Windows Unicode Version 2.0 released Previous Versions Download for previous versions »"
+    },
+    {
+      "date": "2005-06-30",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/galatia/",
+      "snippet": " Windows machines to not display glyphs in Galatia SIL 2008-05-07 – Version 2.0.1b released, removal of Keyman keyboard 2005-06-30 – Version 2.0.1 released, bug-fix for issue causing crashes on Linux 2002-10-01 – Windows"
+    },
+    {
+      "date": "2008-05-07",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/galatia/",
+      "snippet": "use of errors in the font causing some Java™ applications on some Windows machines to not display glyphs in Galatia SIL 2008-05-07 – Version 2.0.1b released, removal of Keyman keyboard 2005-06-30 – Version 2.0.1 released"
+    },
+    {
+      "date": "2009-06-29",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/galatia/",
+      "snippet": "nal sigma. Release history 2015-06-16 – Version 2.1 web fonts released 2009-07-13 – Version 2.1 mac license table fixed 2009-06-29 – Version 2.1 released under the OFL, ‘vdmx’ table recalculated because of errors in the "
+    },
+    {
+      "date": "2009-07-13",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/galatia/",
+      "snippet": ". Thus, there is no automatic formation of the final sigma. Release history 2015-06-16 – Version 2.1 web fonts released 2009-07-13 – Version 2.1 mac license table fixed 2009-06-29 – Version 2.1 released under the OFL, ‘v"
+    },
+    {
+      "date": "2015-06-16",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/galatia/",
+      "snippet": "e. There are no OpenType tables in this font. Thus, there is no automatic formation of the final sigma. Release history 2015-06-16 – Version 2.1 web fonts released 2009-07-13 – Version 2.1 mac license table fixed 2009-06"
+    },
+    {
+      "date": "2025-09-17",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://software.sil.org/galatia/",
+      "snippet": "2025-09-17T20:11:08+00:00"
+    },
+    {
+      "date": "2025-09-17",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://software.sil.org/galatia/",
+      "snippet": "2025-09-17T20:11:08+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/galatia/",
+      "snippet": "Language Software Forum Scripture Software Forum General Software Support Serve with Us About Us Contact Us Copyright © 2026 SIL Global Terms of Use Privacy Policy"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://software.sil.org/galatia/",
+      "snippet": "Mon, 09 Mar 2026 00:41:22 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://software.sil.org/galatia",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://software.sil.org/galatia/",
+    "last_modified": "Mon, 09 Mar 2026 00:41:22 GMT"
+  }
+}

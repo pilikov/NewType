@@ -1,0 +1,19 @@
+{
+  "record_id": "sigarosans",
+  "source_url": "https://www.hubertjocham.de/shop/type/sans/SigaroSans/",
+  "checked_at": "2026-03-09T01:51:00.147656+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.hubertjocham.de/shop/type/sans/SigaroSans/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='www.hubertjocham.de', port=443): Read timed out. (read timeout=12)"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "record_id": "triomf",
+  "source_url": "https://gs-type.com/typefaces/triomf",
+  "checked_at": "2026-03-09T02:03:32.139886+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://gs-type.com/typefaces/triomf",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://gs-type.com/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "fakt",
+  "source_url": "https://www.typeby.com/fonts/fakt",
+  "checked_at": "2026-03-09T01:45:29.783754+00:00",
+  "candidates": [
+    {
+      "date": "2010-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/fakt",
+      "snippet": " Glyphs Fakt Design Information TYPE BY Fakt, designed by Thomas Thiemich, is a highly functional sanserif. Released in 2010, it is Theimich's second commercially released typeface, following his humanist sanserif Alto. "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/fakt",
+      "snippet": "mo Remo Stencil Rosalinde Subtil Grotesk Edward Lirico Eva Meran Stan Standing Type Couteau Greco Klub Orly Copyright © 2026 Type By. All Rights Reserved. Information About Licenses Help Terms & conditions of sale Terms "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.typeby.com/fonts/fakt",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typeby.com/fonts/fakt",
+    "last_modified": null
+  }
+}

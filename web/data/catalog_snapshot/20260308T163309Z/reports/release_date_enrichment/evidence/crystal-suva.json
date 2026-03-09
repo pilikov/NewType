@@ -1,0 +1,27 @@
+{
+  "record_id": "crystal-suva",
+  "source_url": "https://www.suvatypefoundry.ee/crystal/",
+  "checked_at": "2026-03-09T01:57:27.542415+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/crystal/",
+      "snippet": "REVIOUS FONT CRYSTAL NEXT FONT Q M O U T V H A Z D E P C X W B J L DOWNLOAD G S R Y K I N F CRYSTAL  by Ilja Moltšanov (2019) A font that is based on a story about a kid who lives in a digital space. Supervised by Jungmy"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/crystal/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/crystal/",
+    "last_modified": null
+  }
+}

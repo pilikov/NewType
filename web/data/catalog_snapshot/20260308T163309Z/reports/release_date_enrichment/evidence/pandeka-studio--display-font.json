@@ -1,0 +1,27 @@
+{
+  "record_id": "pandeka-studio--display-font",
+  "source_url": "https://pandekafoundry.com/product-category/display-font/",
+  "checked_at": "2026-03-09T01:36:17.376151+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://pandekafoundry.com/product-category/display-font/",
+      "snippet": "and Conditions FAQ Privacy Policy Terms and Conditions Stay up to date with our new fonts! first_name email Subscribe © 2026  Pandeka Studio We use cookies to ensure that we give you the best experience on our website. I"
+    },
+    {
+      "date": "2026-02-28",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://pandekafoundry.com/product-category/display-font/",
+      "snippet": "2026-02-28"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://pandekafoundry.com/product-category/display-font/",
+    "last_modified": null
+  }
+}

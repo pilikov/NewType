@@ -1,0 +1,55 @@
+{
+  "record_id": "capitana",
+  "source_url": "https://www.floodfonts.com/capitana",
+  "checked_at": "2026-03-09T01:37:37.597427+00:00",
+  "candidates": [
+    {
+      "date": "2000-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.floodfonts.com/capitana/",
+      "snippet": "s Gaga Design. He co-founded Glashaus Design, is art director at MWK Cologne and works as a freelance type designer. In 2000, he founded Floodfonts and designed numerous free typefaces which are available via Adobe Fonts"
+    },
+    {
+      "date": "2008-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.floodfonts.com/capitana/",
+      "snippet": " and features for that purpose that it wasn't actually the same typeface anymore. First draft for the Capri family from 2008 First sketches for the Capri family When I decided to stop working on Capri and release it unde"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.floodfonts.com/capitana/",
+      "snippet": "rtuneÂ called Rackete the \"fresh new face\" of theÂ European migrant crisis. Capitana Regular 16 pts Spanish En junio de 2019 Rackete capitaneÃ³ el Sea-Watch 3, un buque de 645 toneladas de arqueo bruto que enarbola una b"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.floodfonts.com/capitana/",
+      "snippet": "e via Fontbros, ILT, Myfonts and Fontspring. FF Scuba is one of the winners of the Communication Arts Typography Annual 2013, Kontiki was nominated for German Design Award 2019. Thanks & Credits Thanks to Alex RÃ¼tten fo"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.floodfonts.com/capitana/",
+      "snippet": "Mon, 06 May 2024 07:51:56 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.floodfonts.com/capitana",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.floodfonts.com/capitana/",
+    "last_modified": "Mon, 06 May 2024 07:51:56 GMT"
+  }
+}

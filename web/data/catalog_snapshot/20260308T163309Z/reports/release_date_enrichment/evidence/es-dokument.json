@@ -1,0 +1,41 @@
+{
+  "record_id": "es-dokument",
+  "source_url": "https://extraset.ch/typefaces/dokument/",
+  "checked_at": "2026-03-09T01:48:13.493465+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://extraset.ch/typefaces/dokument/",
+      "snippet": " 1050 Trials Buy ES Dokument is a superfamily of 60 styles designed by Xavier Erni (Neo Neo) and Arthur Schwarz between 2020 and 2022. It’s drawing finds inspiration in the curves of different German industrial grotesque"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://extraset.ch/typefaces/dokument/",
+      "snippet": "als Buy ES Dokument is a superfamily of 60 styles designed by Xavier Erni (Neo Neo) and Arthur Schwarz between 2020 and 2022. It’s drawing finds inspiration in the curves of different German industrial grotesques from th"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://extraset.ch/typefaces/dokument/",
+      "snippet": "ree to the terms & conditions Leave this field empty if you're human: Typefaces About us Information Shop Contact EULA ©2025 Extraset Typefoundry \nAll rights reserved Follow us on Instagram & Facebook Follow us on Instag"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://extraset.ch/typefaces/dokument/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://extraset.ch/typefaces/dokument/",
+    "last_modified": null
+  }
+}

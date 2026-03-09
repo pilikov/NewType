@@ -1,0 +1,41 @@
+{
+  "record_id": "fk-roman-standard",
+  "source_url": "https://fonts.floriankarsten.com/fk-roman-standard",
+  "checked_at": "2026-03-09T01:57:01.712189+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fonts.floriankarsten.com/fk-roman-standard",
+      "snippet": "f typeface, inspired by a newspaper typography giant Times New Roman. Following a release of FK Grotesk Neue earlier in 2020, FK Roman Standard is yet another addition to our friendly familiar-looking typefaces. The vert"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fonts.floriankarsten.com/fk-roman-standard",
+      "snippet": "213 KB) Designer Květoslav Bartoš Publisher Florian Karsten Typefaces Release date December 2020 Version 1.1.2 (January 2022) Formats Static (OTF, TTF, WOFF, WOFF2), Variable (TTF, WOFF, WOFF2) Glyphs 752 OpenType featur"
+    },
+    {
+      "date": "1996-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fonts.floriankarsten.com/fk-roman-standard",
+      "snippet": " Kepler. O Mars Pathfinder, mais tarde rebatizado como Carl Sagan Memorial Station, foi lançado no dia 4 de dezembro de 1996, apenas um mês após o lançamento do Mars Global Surveyor. A bordo do lander (aterrissador) segu"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fonts.floriankarsten.com/fk-roman-standard",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fonts.floriankarsten.com/fk-roman-standard",
+    "last_modified": null
+  }
+}

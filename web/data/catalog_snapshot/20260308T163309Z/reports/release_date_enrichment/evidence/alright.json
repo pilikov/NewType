@@ -1,0 +1,55 @@
+{
+  "record_id": "alright",
+  "source_url": "https://okaytype.com/typefaces/alright/",
+  "checked_at": "2026-03-09T01:53:46.641876+00:00",
+  "candidates": [
+    {
+      "date": "2009-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://okaytype.com/alright",
+      "snippet": "sk Old-Style Numbers OpenType Publication Sans Small Caps Superscripts Tabular Numbers True Italics Width Axis Released 2009 August 8 Latest Version 2.0 — 2018 December 31 — Change Log Alright Change Log ✕ Version 2.0 / "
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://okaytype.com/alright",
+      "snippet": "cation Sans Small Caps Superscripts Tabular Numbers True Italics Width Axis Released 2009 August 8 Latest Version 2.0 — 2018 December 31 — Change Log Alright Change Log ✕ Version 2.0 / 2019 January 1 Initial Release The "
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://okaytype.com/alright",
+      "snippet": "Width Axis Released 2009 August 8 Latest Version 2.0 — 2018 December 31 — Change Log Alright Change Log ✕ Version 2.0 / 2019 January 1 Initial Release The Latest on Alright 2019 January 01    ☛ Introducing Alright v2 201"
+    },
+    {
+      "date": "2023-11-06",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://okaytype.com/alright",
+      "snippet": ".\nThe character information for each language comes from Unicode's Common Locale Data Repository . I last updated it on November 6, 2023.\nAdditional data comes from a variety of sources which are included under “Referenc"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://okaytype.com/alright",
+      "snippet": "ght Alright Sans Info Trial Fonts License FAQ About Privacy Okay ok@yty.pe Blog Sketches Account Register Sign In © & ™ 2026 ⚡ Okay Type, LLC"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://okaytype.com/typefaces/alright/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://okaytype.com/alright",
+    "last_modified": null
+  }
+}

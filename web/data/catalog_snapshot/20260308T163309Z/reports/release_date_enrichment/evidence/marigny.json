@@ -1,0 +1,27 @@
+{
+  "record_id": "marigny",
+  "source_url": "https://typesupply.com/fonts/marigny",
+  "checked_at": "2026-03-09T01:51:39.076652+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://typesupply.com/fonts/marigny",
+      "snippet": "Mon, 09 Mar 2026 01:51:40 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typesupply.com/fonts/marigny",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typesupply.com/fonts/marigny",
+    "last_modified": "Mon, 09 Mar 2026 01:51:40 GMT"
+  }
+}

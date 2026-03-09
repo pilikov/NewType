@@ -1,0 +1,27 @@
+{
+  "record_id": "muscular",
+  "source_url": "https://peterroeleveld.com/muscular",
+  "checked_at": "2026-03-09T01:50:43.536371+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://peterroeleveld.com/muscular",
+      "snippet": ", Vunjo, Welsh, Western Frisian, Zulu 4 stylistic sets 2 ligatures 352 characters Available in Regular,Bold & Variable ©2023, Peter Roeleveld, Muscular End-User License Agreement This an End-User License Agreement (EULA)"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://peterroeleveld.com/muscular",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://peterroeleveld.com/muscular",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "record_id": "tt-bricks",
+  "source_url": "https://typetype.org/typefaces/tt-bricks",
+  "checked_at": "2026-03-09T02:03:36.963342+00:00",
+  "candidates": [
+    {
+      "date": "2021-05-03",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typetype.org/fonts/tt-bricks/",
+      "snippet": "2021-05-03T16:39:31+00:00"
+    },
+    {
+      "date": "2021-05-03",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://typetype.org/fonts/tt-bricks/",
+      "snippet": "2021-05-03T16:39:31+00:00"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-bricks/",
+      "snippet": "atives Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! Font Update: What’s New in the Latest Version Version"
+    },
+    {
+      "date": "2016-04-19",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-bricks/",
+      "snippet": "aggeratedly simple forms of all signs, TT Bricks looks great in very small type sizes. Release and update date Release: April 19, 2016 Last update: April 19, 2019 Additionally Poster Images Graphic presentation at Behanc"
+    },
+    {
+      "date": "2019-04-19",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-bricks/",
+      "snippet": "icks TT Bricks is a typeface inspired by early Soviet constructivist visual language and design principles. Update from April 19, 2019 — What’s New? Single style: from $ 43.99 Full family: from $ 229 16 styles Buy font T"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-bricks/",
+      "snippet": "s Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! Font Update: What’s New in the Latest Version Version from"
+    },
+    {
+      "date": "2026-03-06",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typetype.org/fonts/tt-bricks/",
+      "snippet": "2026-03-06T21:00:03+00:00"
+    },
+    {
+      "date": "2026-03-06",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://typetype.org/fonts/tt-bricks/",
+      "snippet": "2026-03-06T21:00:03+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://typetype.org/fonts/tt-bricks/",
+      "snippet": "Fri, 06 Mar 2026 21:25:08 GMT"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typetype.org/typefaces/tt-bricks",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typetype.org/fonts/tt-bricks/",
+    "last_modified": "Fri, 06 Mar 2026 21:25:08 GMT"
+  }
+}

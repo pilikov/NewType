@@ -1,0 +1,62 @@
+{
+  "record_id": "hemon",
+  "source_url": "https://ecal-typefaces.ch/typefaces/hemon",
+  "checked_at": "2026-03-09T02:03:30.497557+00:00",
+  "candidates": [
+    {
+      "date": "2020-12-23",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://ecal-typefaces.ch/typeface/hemon/",
+      "snippet": "2020-12-23T07:39:46+00:00"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://ecal-typefaces.ch/typeface/hemon/",
+      "snippet": "2026-02-03T14:28:02+00:00"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://ecal-typefaces.ch/typeface/hemon/",
+      "snippet": "2026-02-03T14:28:02+00:00"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ecal-typefaces.ch/typeface/hemon/",
+      "snippet": "el of irregularity, in which two of the same vowel don’t repeat in the same word. Hémon was designed by Chiachi Chao in 2020. close AÁÂÄÀÅÃÆBCÇDÐEÉÊËÈFGHIÍÎÏÌJKLŁMNÑOÓÔÖÒØÕŒPÞQRSŠTUÚÛÜÙVWXYÝŸZŽaáâäàåãæbcçdðeéêëèfghiıíîïì"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ecal-typefaces.ch/typeface/hemon/",
+      "snippet": "to use in their school projects. Read more in our EULA if you're unsure which license you need. ©Students, ECAL\n        2026.\n        All rights reserved. This site uses cookies to provide you an optimal browsing experie"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://ecal-typefaces.ch/typeface/hemon/",
+      "snippet": "Sun, 08 Mar 2026 18:47:14 GMT"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ecal-typefaces.ch/typefaces/hemon",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ecal-typefaces.ch/typeface/hemon/",
+    "last_modified": "Sun, 08 Mar 2026 18:47:14 GMT"
+  }
+}

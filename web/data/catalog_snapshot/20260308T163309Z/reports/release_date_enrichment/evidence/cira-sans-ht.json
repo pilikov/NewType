@@ -1,0 +1,27 @@
+{
+  "record_id": "cira-sans-ht",
+  "source_url": "https://huertatipografica.com/en/fonts/cira-sans-ht",
+  "checked_at": "2026-03-09T01:43:02.101583+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://huertatipografica.com/en/fonts/cira-sans-ht",
+      "snippet": "der Mono ht Weg Services Resources About us Get in touch Download Cira Sans ht Designed by Andrés Torresi Release date: 2016 Cira is a superfamily with 7 weights and italics under two main styles: sans and serif. The ori"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://huertatipografica.com/en/fonts/cira-sans-ht",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://huertatipografica.com/en/fonts/cira-sans-ht",
+    "last_modified": null
+  }
+}

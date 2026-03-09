@@ -1,0 +1,27 @@
+{
+  "record_id": "mercato",
+  "source_url": "https://capitalics.wtf/font/mercato",
+  "checked_at": "2026-03-09T01:42:51.443158+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://capitalics.wtf/en/font/mercato",
+      "snippet": " a typeface that is written, expressive and organic on the one hand, and thrown into a geometric frame on the other. In 2021, in an old specimen, I found a beautiful thick display lettering called Chrysler, which became "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://capitalics.wtf/font/mercato",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://capitalics.wtf/en/font/mercato",
+    "last_modified": null
+  }
+}

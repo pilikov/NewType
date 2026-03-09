@@ -1,0 +1,41 @@
+{
+  "record_id": "barbican",
+  "source_url": "https://hypersand.studio/shop/barbican",
+  "checked_at": "2026-03-09T01:40:46.237993+00:00",
+  "candidates": [
+    {
+      "date": "2024-08-14",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://hypersand.studio/shop/product/barbican/",
+      "snippet": "2024-08-14T15:12:31+00:00"
+    },
+    {
+      "date": "2025-10-16",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://hypersand.studio/shop/product/barbican/",
+      "snippet": "2025-10-16T14:11:37+00:00"
+    },
+    {
+      "date": "2025-10-16",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://hypersand.studio/shop/product/barbican/",
+      "snippet": "2025-10-16T14:11:37+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://hypersand.studio/shop/barbican",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hypersand.studio/shop/product/barbican/",
+    "last_modified": null
+  }
+}

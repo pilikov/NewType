@@ -1,0 +1,41 @@
+{
+  "record_id": "haltung",
+  "source_url": "https://order.design/otf/haltung",
+  "checked_at": "2026-03-09T01:38:47.652458+00:00",
+  "candidates": [
+    {
+      "date": "1999-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://order.design/otf/haltung",
+      "snippet": " on downward strokes that gave it a human and weightless impression. In an interview with Adrien Frutiger in the spring 1999 issue of Eye magazine, Emil Ruder is quoted: “Univers, as Roman-Grotesque, ended the ideologica"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://order.design/otf/haltung",
+      "snippet": "ed States and Canada, there are four rating symbols: Easy, Intermediate, Difficult, and Experts Only. Extrabold 22px In 2014, there were more than 114,000 alpine skiing-related injuries treated in hospitals, doctor's off"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://order.design/otf/haltung",
+      "snippet": "s project. A heartfelt thank you to Seb McLauchlan, Kris Sowebsry, Kelvin Soh, Dan Reynolds, and Matt Lamont. Joe Moore 2024 Everything is in order Office 212 Franklin Street Ground Floor Brooklyn, NY 11222 Contact 330 5"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://order.design/otf/haltung",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://order.design/otf/haltung",
+    "last_modified": null
+  }
+}

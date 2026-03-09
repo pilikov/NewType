@@ -1,0 +1,41 @@
+{
+  "record_id": "alchemy",
+  "source_url": "https://typography.net/fonts/alchemy",
+  "checked_at": "2026-03-09T01:40:19.277796+00:00",
+  "candidates": [
+    {
+      "date": "2016-12-25",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typography.net/fonts/alchemy",
+      "snippet": "2016-12-25T23:27:00+00:00"
+    },
+    {
+      "date": "2024-11-11",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typography.net/fonts/alchemy",
+      "snippet": "2024-11-11T11:49:22+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typography.net/fonts/alchemy",
+      "snippet": "cents Close X More information Font Info Read the design notes at StudioType.com Cookie policy Privacy policy Sitemap © 2026 Jeremy Tankard Typography Ltd"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typography.net/fonts/alchemy",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typography.net/fonts/alchemy",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "exposure",
+  "source_url": "https://www.205.tf/exposure",
+  "checked_at": "2026-03-09T01:38:53.779279+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/exposure",
+      "snippet": "y, France), Federico Parra Barrios took a very unique approach to the technique, developing a singular typeface between 2019 and 2022. Available in Roman and Italic, Exposure is a remarkable feat—both technically and in "
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/exposure",
+      "snippet": " newsletter: ▶︎ Follow Us Facebook Instagram LinkedIn Bluesky Typeface Exposure Designer Federico Parra Barrios Release 2022 Fonts In Use Article Specimen Exposure borrows the eponymous principle from photography, using "
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/exposure",
+      "snippet": "g—that shows how other ways of exploiting variable font technology are possible. While variable fonts—which appeared in 2016—are considered to be a major development in typography, the use of axes of variation to modify "
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/exposure",
+      "snippet": " to create animations. First Price, Award for Type Design, Custom Typeface, Le Club des directeurs artistiques (CDA54), 2023 42 Style s Roman Italic 2 Variable s Roman Italic Exposure VAR [-100] ) [-100] Italic ) [-90] )"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.205.tf/exposure",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.205.tf/exposure",
+    "last_modified": null
+  }
+}

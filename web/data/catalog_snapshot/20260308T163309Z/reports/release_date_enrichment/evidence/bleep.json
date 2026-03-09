@@ -1,0 +1,34 @@
+{
+  "record_id": "bleep",
+  "source_url": "https://weekendtype.xyz/bleep",
+  "checked_at": "2026-03-09T01:51:03.998374+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://weekendtype.xyz/bleep",
+      "snippet": " grid constraints, transforming mechanical precision into controlled chaos. technical Designed by: Hamish Makgill Year: 2023 Glyphs: 636 Encoding: Latin Extended File Formats: OTF, WOFF, WOFF2 Version: 2.0 Source materia"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://weekendtype.xyz/bleep",
+      "snippet": "um italic Geodesic 79,000 BLEEP BETA • THIN THIN Cybernetic 1938 16mm Synergetics Diablero 44 BLEEP ALPHA • BLACK BLACK 2024 250 feet 3,000 BLEEP BETA • REGULAR REGULAR Syzygy Maraldis Visceral bleep alpha • medium mediu"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://weekendtype.xyz/bleep",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://weekendtype.xyz/bleep",
+    "last_modified": null
+  }
+}

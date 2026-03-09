@@ -1,0 +1,27 @@
+{
+  "record_id": "adult-skate",
+  "source_url": "https://yeahrighttype.com/yeahright-type-studio/p/adult-skate",
+  "checked_at": "2026-03-09T01:44:48.788629+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://yeahrighttype.com/yeahright-type-studio/p/adult-skate",
+      "snippet": "e Add-On from $100.00 Licenses: Select Licenses 1 2 3 4 5 6 7 8 9 10 Add Added! Back to top ↑ Type • About • C ontact © 2025 All rights reserved. • TOS • EULA"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://yeahrighttype.com/yeahright-type-studio/p/adult-skate",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://yeahrighttype.com/yeahright-type-studio/p/adult-skate",
+    "last_modified": null
+  }
+}

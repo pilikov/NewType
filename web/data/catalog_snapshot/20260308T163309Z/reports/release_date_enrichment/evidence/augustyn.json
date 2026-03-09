@@ -1,0 +1,62 @@
+{
+  "record_id": "augustyn",
+  "source_url": "https://ecal-typefaces.ch/typefaces/augustyn",
+  "checked_at": "2026-03-09T02:02:01.745686+00:00",
+  "candidates": [
+    {
+      "date": "2020-07-19",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://ecal-typefaces.ch/typeface/augustyn/",
+      "snippet": "2020-07-19T14:47:40+00:00"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://ecal-typefaces.ch/typeface/augustyn/",
+      "snippet": "2026-02-03T14:18:44+00:00"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://ecal-typefaces.ch/typeface/augustyn/",
+      "snippet": "2026-02-03T14:18:44+00:00"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ecal-typefaces.ch/typeface/augustyn/",
+      "snippet": "ace is generously crafted and drawn to work in large and medium sizes. Augustyn Display was designed by Sascha Bente in 2020. close AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDÐĎĐEÉĚÊËĖÈĒĘFGĞĠHĦIÍÎÏİÌĪJKLĽŁMNŃŇŊÑOÓÔÖÒŐŌØÕŒPÞQRŘSŚŠŞTŤUÚÛÜÙŰŪŮVWẂŴẄ"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ecal-typefaces.ch/typeface/augustyn/",
+      "snippet": "to use in their school projects. Read more in our EULA if you're unsure which license you need. ©Students, ECAL\n        2026.\n        All rights reserved. This site uses cookies to provide you an optimal browsing experie"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://ecal-typefaces.ch/typeface/augustyn/",
+      "snippet": "Sun, 08 Mar 2026 18:47:09 GMT"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ecal-typefaces.ch/typefaces/augustyn",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ecal-typefaces.ch/typeface/augustyn/",
+    "last_modified": "Sun, 08 Mar 2026 18:47:09 GMT"
+  }
+}

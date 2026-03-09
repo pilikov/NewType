@@ -1,0 +1,97 @@
+{
+  "record_id": "nuosu-sil",
+  "source_url": "https://software.sil.org/nuosu",
+  "checked_at": "2026-03-09T01:49:07.857214+00:00",
+  "candidates": [
+    {
+      "date": "2019-03-28",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://software.sil.org/nuosu/",
+      "snippet": "2019-03-28T15:19:13+00:00"
+    },
+    {
+      "date": "2019-03-28",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://software.sil.org/nuosu/",
+      "snippet": "2019-03-28T15:19:13+00:00"
+    },
+    {
+      "date": "2007-04-19",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/nuosu/",
+      "snippet": "51 MB                 | 23 Apr 2007 SIL Yi 1.2 for all platforms PREV FONT                 | 748.6 KB                 | 19 Apr 2007 top Information for Contributors We welcome contributions to this font project, such as "
+    },
+    {
+      "date": "2022-09-14",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/nuosu/",
+      "snippet": "nt Version Version Platform Details Nuosu SIL 2.300 for all platforms FONT                 | 552.0 KB                 | 14 Sep 2022 Release Notes for v2.300 Fixed character U+FF02 FULLWIDTH QUOTATION MARK by changing enc"
+    },
+    {
+      "date": "2025-09-17",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://software.sil.org/nuosu/",
+      "snippet": "2025-09-17T20:13:33+00:00"
+    },
+    {
+      "date": "2025-09-17",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://software.sil.org/nuosu/",
+      "snippet": "2025-09-17T20:13:33+00:00"
+    },
+    {
+      "date": "2007-04-23",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/nuosu/",
+      "snippet": "           | 9 Jul 2009 SIL Yi source files 1.2 for all platforms PREV FONT                 | 2.51 MB                 | 23 Apr 2007 SIL Yi 1.2 for all platforms PREV FONT                 | 748.6 KB                 | 19 A"
+    },
+    {
+      "date": "2009-07-09",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/nuosu/",
+      "snippet": "    | 21 Oct 2020 Nuosu SIL source files 2.1.1 for all platforms PREV FONT                 | 825.7 KB                 | 9 Jul 2009 Nuosu SIL 2.1.1 for all platforms PREV FONT                 | 234.4 KB                 | "
+    },
+    {
+      "date": "2020-10-21",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/nuosu/",
+      "snippet": "sions Version Platform Details Nuosu SIL 2.200 for all platforms PREV FONT                 | 156.8 KB                 | 21 Oct 2020 Nuosu SIL source files 2.1.1 for all platforms PREV FONT                 | 825.7 KB     "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/nuosu/",
+      "snippet": "Language Software Forum Scripture Software Forum General Software Support Serve with Us About Us Contact Us Copyright © 2026 SIL Global Terms of Use Privacy Policy"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://software.sil.org/nuosu/",
+      "snippet": "Mon, 09 Mar 2026 01:26:17 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://software.sil.org/nuosu",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://software.sil.org/nuosu/",
+    "last_modified": "Mon, 09 Mar 2026 01:26:17 GMT"
+  }
+}

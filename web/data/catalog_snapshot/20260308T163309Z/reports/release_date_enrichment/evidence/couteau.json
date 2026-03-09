@@ -1,0 +1,41 @@
+{
+  "record_id": "couteau",
+  "source_url": "https://www.typeby.com/fonts/couteau",
+  "checked_at": "2026-03-09T01:43:29.034730+00:00",
+  "candidates": [
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/couteau",
+      "snippet": "the Stencil Fonts Series. Couteau is Pané-Farré’s second published typeface, joining his Orly Stencil, both released in 2012. Couteau is shaped by cutting. Brisk curves, sharp corners, and abrupt angles are common among "
+    },
+    {
+      "date": "2012-04-19",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/couteau",
+      "snippet": "F, TTF, WOFF, and WOFF2 formats. Legacy font formats are available on request. The Stencil Fonts Series was launched on April 19 2012 to accompany the exhibition 'Between Writing & Type: the Stencil Letter' held at Catap"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/couteau",
+      "snippet": "mo Remo Stencil Rosalinde Subtil Grotesk Edward Lirico Eva Meran Stan Standing Type Couteau Greco Klub Orly Copyright © 2026 Type By. All Rights Reserved. Information About Licenses Help Terms & conditions of sale Terms "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.typeby.com/fonts/couteau",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typeby.com/fonts/couteau",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "total_studios": 384,
+  "favicon_ok": 282,
+  "favicon_missing": 102,
+  "coverage_percent": 73.44,
+  "files": {
+    "json": "data/catalog_snapshot/20260308T163309Z/reports/release_date_enrichment/studios_since_2026_with_favicons.json",
+    "csv": "data/catalog_snapshot/20260308T163309Z/reports/release_date_enrichment/studios_since_2026_with_favicons.csv"
+  }
+}

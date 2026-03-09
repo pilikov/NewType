@@ -1,0 +1,34 @@
+{
+  "record_id": "angus-hand",
+  "source_url": "https://www.arcanetype.com/fonts/angus-hand",
+  "checked_at": "2026-03-09T02:01:17.665183+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.arcanetype.com/fonts/angus-hand",
+      "snippet": "terforms. I then created a calligraphy style for a slightly more formal version of my grandfather’s writing. Published: 2025 Designer: Alanna Munro Version: 1.1 (2025) PDF Specimen Language Support Latin-Based Languages:"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.arcanetype.com/fonts/angus-hand",
+      "snippet": "Fri, 06 Mar 2026 06:43:39 GMT"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.arcanetype.com/fonts/angus-hand",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.arcanetype.com/fonts/angus-hand",
+    "last_modified": "Fri, 06 Mar 2026 06:43:39 GMT"
+  }
+}

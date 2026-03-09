@@ -1,0 +1,34 @@
+{
+  "record_id": "polliwog",
+  "source_url": "https://djr.com/polliwog",
+  "checked_at": "2026-03-09T01:55:52.210798+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/polliwog-font-of-the-month",
+      "snippet": "in Cart Notes See all posts April 25, 2019 # David Jonathan Ross April’s font of the month: Polliwog Font of the Month, 2019/04 PDF Try Buy $24 What follows is an abridged version of the Font of the Month Club’s April ma"
+    },
+    {
+      "date": "2019-04-25",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/polliwog-font-of-the-month",
+      "snippet": "wog Rhody Rustique Slight Chance Tortellini Zenith DJR Club Typeset Glyphs Notes About Sign in Cart Notes See all posts April 25, 2019 # David Jonathan Ross April’s font of the month: Polliwog Font of the Month, 2019/04 "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://djr.com/polliwog",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://djr.com/notes/polliwog-font-of-the-month",
+    "last_modified": null
+  }
+}

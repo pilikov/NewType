@@ -1,0 +1,34 @@
+{
+  "record_id": "favorit-arabic",
+  "source_url": "https://abcdinamo.com/typefaces/favorit-arabic",
+  "checked_at": "2026-03-09T01:59:13.930418+00:00",
+  "candidates": [
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://abcdinamo.com/typefaces/favorit-arabic",
+      "snippet": "Use The Distance From Here exhibition at Jameel Arts Centre. Design by Sarah Chehab, waiwai design Buy Favorit Arabic © 2013–2026 Dinamo Typefaces. All rights reserved FAQ Contact Licensing Terms Hardware Terms Privacy &"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://abcdinamo.com/typefaces/favorit-arabic",
+      "snippet": "he Distance From Here exhibition at Jameel Arts Centre. Design by Sarah Chehab, waiwai design Buy Favorit Arabic © 2013–2026 Dinamo Typefaces. All rights reserved FAQ Contact Licensing Terms Hardware Terms Privacy & Cook"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://abcdinamo.com/typefaces/favorit-arabic",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://abcdinamo.com/typefaces/favorit-arabic",
+    "last_modified": null
+  }
+}

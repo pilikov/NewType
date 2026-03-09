@@ -1,0 +1,19 @@
+{
+  "record_id": "huize",
+  "source_url": "https://www.brutaltypes.com/fonts/huize",
+  "checked_at": "2026-03-09T02:03:58.876048+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.brutaltypes.com/fonts/huize",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "403 Client Error: Forbidden for url: https://www.brutaltypes.com/fonts/huize"
+  }
+}

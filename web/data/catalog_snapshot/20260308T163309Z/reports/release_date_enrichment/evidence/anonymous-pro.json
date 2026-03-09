@@ -1,0 +1,41 @@
+{
+  "record_id": "anonymous-pro",
+  "source_url": "https://www.marksimonson.com/fonts/view/anonymous-pro",
+  "checked_at": "2026-03-09T01:53:13.968226+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.marksimonson.com/fonts/view/anonymous/",
+      "snippet": "turn Policy Connect Contact Me Email Newsletter Instagram X (Twitter) Mastodon Notebook RSS Feed Mark Simonson Studio © 2026 The Type Founders, LLC"
+    },
+    {
+      "date": "2001-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.marksimonson.com/fonts/view/anonymous/",
+      "snippet": "Central European Latin-based languages, plus Greek and Cyrillic. Anonymous Pro is based on an earlier font, Anonymous™ (2001), my TrueType version of Anonymous 9, a Macintosh bitmap font developed in the mid-’90s by Susa"
+    },
+    {
+      "date": "2009-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.marksimonson.com/fonts/view/anonymous/",
+      "snippet": "us Pro | Fonts by Mark Simonson Fonts Notebook Services About Cart Anonymous Pro Fonts Buy Anonymous Pro Anonymous Pro (2009) is a family of four fixed-width fonts designed with coding in mind. Anonymous Pro features an "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.marksimonson.com/fonts/view/anonymous-pro",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.marksimonson.com/fonts/view/anonymous/",
+    "last_modified": null
+  }
+}

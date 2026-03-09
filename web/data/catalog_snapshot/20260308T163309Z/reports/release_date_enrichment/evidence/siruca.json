@@ -1,0 +1,69 @@
+{
+  "record_id": "siruca",
+  "source_url": "https://fsd.it/typefaces/siruca",
+  "checked_at": "2026-03-09T01:56:58.004573+00:00",
+  "candidates": [
+    {
+      "date": "2015-12-02",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://fsd.it/shop/fonts/siruca/",
+      "snippet": "2015-12-02T08:55:32+00:00"
+    },
+    {
+      "date": "2025-04-11",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://fsd.it/shop/fonts/siruca/",
+      "snippet": "2025-04-11T08:48:10+00:00"
+    },
+    {
+      "date": "2025-04-11",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://fsd.it/shop/fonts/siruca/",
+      "snippet": "2025-04-11T08:48:10+00:00"
+    },
+    {
+      "date": "2006-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fsd.it/shop/fonts/siruca/",
+      "snippet": "es Clear Quantity Qty Add to cart Description Reviews 1 Designed for architects Siruca™ is a stencil font I designed in 2006 to be used in the way-finding system of the Al Hamra Complex, next to one of the highest skyscr"
+    },
+    {
+      "date": "2022-05-16",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fsd.it/shop/fonts/siruca/",
+      "snippet": " Italy-Russia identity for Moscow exhibition designed by Cristina Chiappini It works not just as headline font arvash – 2022-05-16 Fantastic, looks great and very usable. I used it to add some cut out text for a personal"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fsd.it/shop/fonts/siruca/",
+      "snippet": "39 Contact Terms and Conditions Privacy and Cookies Shipping policy Refund policy How to protecting the webfont files © 2026 Fabrizio Schiavi. All rights reserved We use cookies on our website to give you the most releva"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://fsd.it/shop/fonts/siruca/",
+      "snippet": "Sun, 08 Mar 2026 23:12:50 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fsd.it/typefaces/siruca",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fsd.it/shop/fonts/siruca/",
+    "last_modified": "Sun, 08 Mar 2026 23:12:50 GMT"
+  }
+}

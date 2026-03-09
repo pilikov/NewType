@@ -1,0 +1,27 @@
+{
+  "record_id": "subtil-grotesk",
+  "source_url": "https://www.typeby.com/fonts/subtil-grotesk",
+  "checked_at": "2026-03-09T01:52:35.811505+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/subtil-grotesk",
+      "snippet": "mo Remo Stencil Rosalinde Subtil Grotesk Edward Lirico Eva Meran Stan Standing Type Couteau Greco Klub Orly Copyright © 2026 Type By. All Rights Reserved. Information About Licenses Help Terms & conditions of sale Terms "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.typeby.com/fonts/subtil-grotesk",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typeby.com/fonts/subtil-grotesk",
+    "last_modified": null
+  }
+}

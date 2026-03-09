@@ -1,0 +1,27 @@
+{
+  "record_id": "hk-kontrast",
+  "source_url": "https://hanken.co/products/hk-kontrast",
+  "checked_at": "2026-03-09T02:02:03.576608+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://hanken.co/products/hk-kontrast",
+      "snippet": "        – Hanken Design Co. Skip to content Fonts Licensing Desktop License Webfont License App License HDC Font Bundle 2026 Customized/Enterprise Font Licensing Services Contact Us Log in Search Submit Submit Close 0 it"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://hanken.co/products/hk-kontrast",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hanken.co/products/hk-kontrast",
+    "last_modified": null
+  }
+}

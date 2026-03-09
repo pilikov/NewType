@@ -1,0 +1,41 @@
+{
+  "record_id": "condensed",
+  "source_url": "https://monokrom.no/fonts/condensed",
+  "checked_at": "2026-03-09T01:43:18.872462+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://monokrom.no/fonts/condensed",
+      "snippet": " alludes to an incised Roman letter. + Add Condensed to cart + Get free trial Details Designer: Frode Helland Released: 2023–2025 Format: OTF, WOFF, WOFF2 Language support We offer active support for over 200 languages. "
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://monokrom.no/fonts/condensed",
+      "snippet": "des to an incised Roman letter. + Add Condensed to cart + Get free trial Details Designer: Frode Helland Released: 2023–2025 Format: OTF, WOFF, WOFF2 Language support We offer active support for over 200 languages. Read "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://monokrom.no/fonts/condensed",
+      "snippet": "age support We offer active support for over 200 languages. Read more about our character set . Monokrom Skriftforlag © 2026 Oslo—Kragerø—Birkeland · Imprint Select typeface ------ Avgarde Condensed Diploë R-I-B-BI Motor"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://monokrom.no/fonts/condensed",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://monokrom.no/fonts/condensed",
+    "last_modified": null
+  }
+}

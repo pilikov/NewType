@@ -1,0 +1,27 @@
+{
+  "record_id": "ms-curvy",
+  "source_url": "https://www.suvatypefoundry.ee/ms-curvy/",
+  "checked_at": "2026-03-09T01:54:02.121281+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/ms-curvy/",
+      "snippet": "Y PREVIOUS FONT MS CURVY NEXT FONT E Q O K DOWNLOAD R L W F D J M S U Z N C V B Y A T H P I G X MS CURVY by Saara Kuum (2020) MS Curvy is a monospace font based on the skeleton of the OCR-B typeface. The curviness brings"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/ms-curvy/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/ms-curvy/",
+    "last_modified": null
+  }
+}

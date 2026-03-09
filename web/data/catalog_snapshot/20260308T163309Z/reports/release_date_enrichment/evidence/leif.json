@@ -1,0 +1,41 @@
+{
+  "record_id": "leif",
+  "source_url": "https://skriftkompani.no/typefaces/leif",
+  "checked_at": "2026-03-09T01:58:31.569765+00:00",
+  "candidates": [
+    {
+      "date": "1995-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://skriftkompani.no/typefaces/leif",
+      "snippet": "ssive charm, making communication feel inviting and joyful. Taking its name from Norwegian comedian Leif Juster (1910â1995), celebrated for his tall stature and uniquely resonant voice, Leif aspires to bring a smile to"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://skriftkompani.no/typefaces/leif",
+      "snippet": "andia Condensed SN Skandia Mono SN Skandia Narrow SN Stempel SN Stilig SN Tango SN Trafikk Baat AS 6104 Volda Norway Â© 2025"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://skriftkompani.no/typefaces/leif",
+      "snippet": "Fri, 07 Nov 2025 13:09:26 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://skriftkompani.no/typefaces/leif",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://skriftkompani.no/typefaces/leif",
+    "last_modified": "Fri, 07 Nov 2025 13:09:26 GMT"
+  }
+}

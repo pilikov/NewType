@@ -1,0 +1,27 @@
+{
+  "record_id": "marat",
+  "source_url": "https://www.ludwigtype.de/fonts/marat/overview",
+  "checked_at": "2026-03-09T01:56:39.773088+00:00",
+  "candidates": [
+    {
+      "date": "2008-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ludwigtype.de/fonts/marat/overview",
+      "snippet": "cellence in Type Design and by the Letter.2 Type Design Competition (ATypI). It also was among  MyFonts Top 10 Fonts of 2008. Get a free trial version Visit Marat Sans Single Font € 39.00 Entire Family (16 Fonts) € 329.0"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.ludwigtype.de/fonts/marat/overview",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ludwigtype.de/fonts/marat/overview",
+    "last_modified": null
+  }
+}

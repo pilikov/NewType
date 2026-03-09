@@ -1,0 +1,27 @@
+{
+  "record_id": "amalgam",
+  "source_url": "https://fredsfonts.com/amalgam",
+  "checked_at": "2026-03-09T01:36:32.910695+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fredsfonts.com/amalgam",
+      "snippet": "s Amalgam Anormal Sans Routine Flaneur Empress Musikal Fautive Writer Dashboard Typefaces About FREDS FONTS Copyright © 2025"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fredsfonts.com/amalgam",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fredsfonts.com/amalgam",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "rhau",
+  "source_url": "https://www.c-a-s-t.com/typefaces/rhau",
+  "checked_at": "2026-03-09T01:49:11.197762+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/rhau/",
+      "snippet": " Gaelic, Shambala, Shona, Soga, Somali, Swahili, Swiss German, Taita, Teso, Uzbek (Latin), Vunjo, Zulu Production years 2021-2022 Additional info Rhau: from the Reformation to Digitisation Portraits of Georg Rhau (1542) "
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/rhau/",
+      "snippet": "ic, Shambala, Shona, Soga, Somali, Swahili, Swiss German, Taita, Teso, Uzbek (Latin), Vunjo, Zulu Production years 2021-2022 Additional info Rhau: from the Reformation to Digitisation Portraits of Georg Rhau (1542) and M"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.c-a-s-t.com/typefaces/rhau",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.c-a-s-t.com/typefaces/rhau/",
+    "last_modified": null
+  }
+}

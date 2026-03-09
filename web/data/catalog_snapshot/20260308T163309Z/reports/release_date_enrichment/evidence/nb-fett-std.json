@@ -1,0 +1,55 @@
+{
+  "record_id": "nb-fett-std",
+  "source_url": "https://neubauladen.com/font/nb-fett-std",
+  "checked_at": "2026-03-09T01:56:38.567639+00:00",
+  "candidates": [
+    {
+      "date": "2001-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://neubauladen.com/product/nb-fett-std/",
+      "snippet": "peMe Licensing Options & Descriptions Terms & Conditions/Licenses Shipping Costs My Account Customer Support Designer © 2001-2026 Neubau . All rights reserved. Our website uses cookies to improve the user experience. In "
+    },
+    {
+      "date": "2002-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://neubauladen.com/product/nb-fett-std/",
+      "snippet": "ity Add to cart SKU: NB-FETT-STD Categories: Digital Goods , Typefaces NB-Fett™ Std Edition MMXVI Design: Stefan Gandl, 2002 Edition: 2016 2002 Copyright © Stefan Gandl All rights reserved. Please choose your preferred s"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://neubauladen.com/product/nb-fett-std/",
+      "snippet": "t SKU: NB-FETT-STD Categories: Digital Goods , Typefaces NB-Fett™ Std Edition MMXVI Design: Stefan Gandl, 2002 Edition: 2016 2002 Copyright © Stefan Gandl All rights reserved. Please choose your preferred style, format a"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://neubauladen.com/product/nb-fett-std/",
+      "snippet": "Licensing Options & Descriptions Terms & Conditions/Licenses Shipping Costs My Account Customer Support Designer © 2001-2026 Neubau . All rights reserved. Our website uses cookies to improve the user experience. In our p"
+    },
+    {
+      "date": "2026-03-09",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://neubauladen.com/product/nb-fett-std/",
+      "snippet": "NBL —   NB Fett™ Std NBL Monday, March 9, 2026 • Search for: Search Apparel (4) Digital Goods (111) Elements (90) Misc (1) Neubau Edition (4) Physical (19) Posters (1"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://neubauladen.com/font/nb-fett-std",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://neubauladen.com/product/nb-fett-std/",
+    "last_modified": null
+  }
+}

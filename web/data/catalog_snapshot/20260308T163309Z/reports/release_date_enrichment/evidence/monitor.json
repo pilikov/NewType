@@ -1,0 +1,55 @@
+{
+  "record_id": "monitor",
+  "source_url": "https://www.typeby.com/fonts/monitor",
+  "checked_at": "2026-03-09T01:55:39.061700+00:00",
+  "candidates": [
+    {
+      "date": "2000-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/monitor",
+      "snippet": "-Farré About Licenses Contact Monitor . Glyphs Monitor Design Information TYPE BY Monitor, designed by Fred Smeijers in 2000, was expanded and re-released as a fully-equipped all-purpose sans serif in 2012. Monitor was o"
+    },
+    {
+      "date": "2002-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/monitor",
+      "snippet": "d in only two weights, normal and bold, it was manually hinted for optimal screen use. Soon after its retail release in 2002, numerous customers requested additional weights — these were created by Smeijers in 2004, whic"
+    },
+    {
+      "date": "2004-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/monitor",
+      "snippet": "n after its retail release in 2002, numerous customers requested additional weights — these were created by Smeijers in 2004, which brought Monitor to a family of 8 weights, suitable for a wide range of applications. For"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/monitor",
+      "snippet": " Monitor, designed by Fred Smeijers in 2000, was expanded and re-released as a fully-equipped all-purpose sans serif in 2012. Monitor was originally designed as a custom typeface for office use. Originally designed in on"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/monitor",
+      "snippet": "mo Remo Stencil Rosalinde Subtil Grotesk Edward Lirico Eva Meran Stan Standing Type Couteau Greco Klub Orly Copyright © 2026 Type By. All Rights Reserved. Information About Licenses Help Terms & conditions of sale Terms "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.typeby.com/fonts/monitor",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typeby.com/fonts/monitor",
+    "last_modified": null
+  }
+}

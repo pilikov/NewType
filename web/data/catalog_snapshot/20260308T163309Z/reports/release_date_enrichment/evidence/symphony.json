@@ -1,0 +1,62 @@
+{
+  "record_id": "symphony",
+  "source_url": "https://playtype.com/typefaces/symphony",
+  "checked_at": "2026-03-09T01:49:25.528978+00:00",
+  "candidates": [
+    {
+      "date": "2024-06-21",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://playtype.com/typefaces/symphony/",
+      "snippet": "2024-06-21T07:57:41+00:00"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://playtype.com/typefaces/symphony/",
+      "snippet": "mibold Italic Bold Italic Extrabold Italic Black Italic Symphony Buy from 50€ Styles 12 Designer Jonas Hecksher Release 2024 Symphony is a crafted transitional serif typeface that embodies the sophisticated elegance of c"
+    },
+    {
+      "date": "2025-06-26",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://playtype.com/typefaces/symphony/",
+      "snippet": "2025-06-26T11:04:04+00:00"
+    },
+    {
+      "date": "2025-06-26",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://playtype.com/typefaces/symphony/",
+      "snippet": "2025-06-26T11:04:04+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://playtype.com/typefaces/symphony/",
+      "snippet": "rty of their respective owners and no endorsement or derogation is intended or inferred. All other content, copyright © 2026 Playtype. All rights reserved."
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://playtype.com/typefaces/symphony/",
+      "snippet": "Fri, 06 Mar 2026 16:02:19 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://playtype.com/typefaces/symphony",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://playtype.com/typefaces/symphony/",
+    "last_modified": "Fri, 06 Mar 2026 16:02:19 GMT"
+  }
+}

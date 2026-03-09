@@ -1,0 +1,41 @@
+{
+  "record_id": "singolo",
+  "source_url": "https://ainsifont.com/font/singolo",
+  "checked_at": "2026-03-09T01:57:01.626616+00:00",
+  "candidates": [
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/font/singolo",
+      "snippet": "ensed+Rounded 0123... -°ABCDEFGHIJKLMN°-àé&!€- RSTUVWXYZ...456789 /.%* Extra Condensed Rounded 1 weight 2014 Af Singolo 2012 Designers. Xavier Meurice et Sébastien Delobel Classification. Stencil arrondie Condensed Langa"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/font/singolo",
+      "snippet": "Singolo_Specimen.pdf 83.92 Ko Print. Catalogue d'exposition. Visuel © Pool design. Volume. Bureau Mobile. Carte de vœux 2013. ﻿﻿Trophée Résidence design 2012 a b c d e f g h i j k l m n o p q r s t u v w x y z � � $ . 0 "
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/font/singolo",
+      "snippet": "olo Regular Condensed+Rounded 0123... -°ABCDEFGHIJKLMN°-àé&!€- RSTUVWXYZ...456789 /.%* Extra Condensed Rounded 1 weight 2014 Af Singolo 2012 Designers. Xavier Meurice et Sébastien Delobel Classification. Stencil arrondie"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ainsifont.com/font/singolo",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.ainsifont.com/font/singolo",
+    "last_modified": null
+  }
+}

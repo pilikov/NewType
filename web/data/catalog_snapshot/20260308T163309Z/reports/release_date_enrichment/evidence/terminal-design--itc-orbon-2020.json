@@ -1,0 +1,90 @@
+{
+  "record_id": "terminal-design--itc-orbon-2020",
+  "source_url": "https://www.terminaldesign.com/fonts/itc-orbon-2020/",
+  "checked_at": "2026-03-09T01:36:01.165632+00:00",
+  "candidates": [
+    {
+      "date": "2020-03-25",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.terminaldesign.com/fonts/itc-orbon-2020/",
+      "snippet": "2020-03-25T16:34:15+00:00"
+    },
+    {
+      "date": "1995-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.terminaldesign.com/fonts/itc-orbon-2020/",
+      "snippet": "ain these characters OpenType Features When ITC Orbon, my first serious type design was accepted and released by ITC in 1995, I felt that I had finally arrived as a professional typeface designer. It is hard to explain n"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.terminaldesign.com/fonts/itc-orbon-2020/",
+      "snippet": "isual Arts (SVA). I currently teach undergraduate type design at Parsons School of Design in New York City . ITC Orbon™ 2020 ITC Orbon 2020 Light ITC Orbon 2020 Regular ITC Orbon 2020 Bold ITC Orbon 2020 Black Pricing & "
+    },
+    {
+      "date": "2020-10-14",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.terminaldesign.com/fonts/itc-orbon-2020/",
+      "snippet": "2020-10-14T20:29:55+00:00"
+    },
+    {
+      "date": "2020-10-14",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.terminaldesign.com/fonts/itc-orbon-2020/",
+      "snippet": "2020-10-14T20:29:55+00:00"
+    },
+    {
+      "date": "1990-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.terminaldesign.com/fonts/itc-orbon-2020/",
+      "snippet": "acqueline Carey James Patterson Kathy Reichs Rachel Kushner Stephen King Request a Quote Terminal Design was founded in 1990 by me, James Montalbano , and is located on the terminal moraine in Brooklyn, NY. Hence the nam"
+    },
+    {
+      "date": "2002-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.terminaldesign.com/fonts/itc-orbon-2020/",
+      "snippet": "| Yo® Sophie | Yo® Zelda Client Work Custom Fonts | Lettering | Request a Quote About Font Licensing | Privacy Policy © 2002 - 2026 Terminal Design, Inc., All Rights Reserved. 718, Alfon, Badinage, Cappella, Choice Sans,"
+    },
+    {
+      "date": "2004-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.terminaldesign.com/fonts/itc-orbon-2020/",
+      "snippet": ". Since 1995 I have been working on the Clearview type system for text, display, roadway and interior guide signage. In 2004 the 13 font ClearviewHwy family was granted interim approval by the Federal Highway Administrat"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.terminaldesign.com/fonts/itc-orbon-2020/",
+      "snippet": "ophie | Yo® Zelda Client Work Custom Fonts | Lettering | Request a Quote About Font Licensing | Privacy Policy © 2002 - 2026 Terminal Design, Inc., All Rights Reserved. 718, Alfon, Badinage, Cappella, Choice Sans, Consul"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.terminaldesign.com/fonts/itc-orbon-2020/",
+      "snippet": "Wed, 14 Oct 2020 20:29:55 GMT"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.terminaldesign.com/fonts/itc-orbon-2020/",
+      "snippet": "2026-03-05"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.terminaldesign.com/fonts/itc-orbon-2020/",
+    "last_modified": "Wed, 14 Oct 2020 20:29:55 GMT"
+  }
+}

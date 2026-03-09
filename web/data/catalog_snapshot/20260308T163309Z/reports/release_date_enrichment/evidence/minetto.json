@@ -1,0 +1,27 @@
+{
+  "record_id": "minetto",
+  "source_url": "https://www.daltonmaag.com/library/minetto",
+  "checked_at": "2026-03-09T01:43:00.111921+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/minetto.html",
+      "snippet": "but designed to satisfy modern users, its variable font surprises with an extensive Weight axis. Designed and developed\n2023 Designers Radek Åukasiewicz Writing Systems Latin Supporting over 800\nLanguages Aari (Latin Sc"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.daltonmaag.com/library/minetto",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.daltonmaag.com/font-library/minetto.html",
+    "last_modified": null
+  }
+}

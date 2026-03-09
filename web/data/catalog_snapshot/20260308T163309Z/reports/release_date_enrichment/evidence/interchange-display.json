@@ -1,0 +1,19 @@
+{
+  "record_id": "interchange-display",
+  "source_url": "https://motaitalic.com/product/interchange-display",
+  "checked_at": "2026-03-09T02:01:30.953421+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-14",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://motaitalic.com/product/interchange-display",
+      "snippet": "2026-02-14"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "404 Client Error: Not Found for url: https://motaitalic.com/product/interchange-display"
+  }
+}

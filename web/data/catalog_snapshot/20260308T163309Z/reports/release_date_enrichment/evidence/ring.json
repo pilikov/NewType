@@ -1,0 +1,20 @@
+{
+  "record_id": "ring",
+  "source_url": "https://alex-creq.com/typefaces/ring",
+  "checked_at": "2026-03-09T01:59:57.043052+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://alex-creq.com/typefaces/ring",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://alex-creq.com/typefaces/ring",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "renai-sans",
+  "source_url": "https://babelfont.com/",
+  "checked_at": "2026-03-09T01:50:05.372378+00:00",
+  "candidates": [
+    {
+      "date": "2023-12-29",
+      "score": 0.6499999999999999,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://babelfont.com/",
+      "snippet": "2023-12-29T17:01:21+00:00"
+    },
+    {
+      "date": "2025-11-04",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://babelfont.com/",
+      "snippet": "2025-11-04T17:19:22+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://babelfont.com/",
+      "snippet": "ons of Sale Legal notice Privacy & Cookies Page Licences Ordinateur Licences Web Licences App Follow our activities ! © 2026 - All rights reserved"
+    },
+    {
+      "date": "2025-11-04",
+      "score": 0.39999999999999997,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://babelfont.com/",
+      "snippet": "2025-11-04T17:19:22+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://babelfont.com/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://babelfont.com/",
+    "last_modified": null
+  }
+}

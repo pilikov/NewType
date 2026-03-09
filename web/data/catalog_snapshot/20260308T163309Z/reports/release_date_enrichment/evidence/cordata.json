@@ -1,0 +1,20 @@
+{
+  "record_id": "cordata",
+  "source_url": "https://www.futurefonts.com/manic-type/cordata",
+  "checked_at": "2026-03-09T01:54:55.759318+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.futurefonts.com/manic-type/cordata",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.futurefonts.com/manic-type/cordata",
+    "last_modified": null
+  }
+}

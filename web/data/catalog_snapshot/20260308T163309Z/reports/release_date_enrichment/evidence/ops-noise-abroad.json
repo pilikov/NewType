@@ -1,0 +1,19 @@
+{
+  "record_id": "ops-noise-abroad",
+  "source_url": "http://ourpolitesocietytype.net/fonts/ops-noise-abroad/",
+  "checked_at": "2026-03-09T01:49:30.305373+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://ourpolitesocietytype.net/fonts/ops-noise-abroad/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "404 Client Error: Not Found for url: https://ops-type.com/fonts/ops-noise-abroad/"
+  }
+}

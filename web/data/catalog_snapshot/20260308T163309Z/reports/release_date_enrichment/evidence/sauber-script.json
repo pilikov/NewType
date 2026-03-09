@@ -1,0 +1,48 @@
+{
+  "record_id": "sauber-script",
+  "source_url": "https://typejockeys.com/font/sauber-script",
+  "checked_at": "2026-03-09T01:51:10.545917+00:00",
+  "candidates": [
+    {
+      "date": "2025-04-24",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typejockeys.com/en/font/sauber-script",
+      "snippet": "2025-04-24T11:31:03+02:00"
+    },
+    {
+      "date": "2025-10-09",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typejockeys.com/en/font/sauber-script",
+      "snippet": "2025-10-09T12:24:31+02:00"
+    },
+    {
+      "date": "2025-10-09",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.typejockeys.com/en/font/sauber-script",
+      "snippet": "2025-10-09T12:24:31+02:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typejockeys.com/en/font/sauber-script",
+      "snippet": "pt in use Saubermacher Facultative Works Mautner Markhof Ohio Rats Fat’n’Sugar auiii hotsauce Licensing Legal Privacy © 2026 Typejockeys de en Trial Fonts close Search website close"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typejockeys.com/font/sauber-script",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typejockeys.com/en/font/sauber-script",
+    "last_modified": null
+  }
+}

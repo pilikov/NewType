@@ -1,0 +1,27 @@
+{
+  "record_id": "innovator-grotesk",
+  "source_url": "https://www.yeptype.com/fonts/innovator-grotesk",
+  "checked_at": "2026-03-09T02:04:03.176183+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.yeptype.com/fonts/innovator-grotesk",
+      "snippet": "width and italic axes. Unlimited licensing starting from just $1 per style. Privacy Policy Terms of Use Cookie Policy © 2026 Yep! Type Foundry"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.yeptype.com/fonts/innovator-grotesk",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.yeptype.com/fonts/innovator-grotesk",
+    "last_modified": null
+  }
+}

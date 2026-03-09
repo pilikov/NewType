@@ -1,0 +1,34 @@
+{
+  "record_id": "hipster-script",
+  "source_url": "https://www.sudtipos.com/font/hipster-script",
+  "checked_at": "2026-03-09T01:50:25.071827+00:00",
+  "candidates": [
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.sudtipos.com/font/hipster-script",
+      "snippet": "ice Certificate of Excellence at the Type Directors of New York and was selected to be part of the Bienal Tipos Latinos 2012 and as a Typographica favorite typefaces of the year. Opentype features Uppercase Lowercase Fra"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.sudtipos.com/font/hipster-script",
+      "snippet": "In use News About us Eula Privacy Sudtipos Facebook Sudtipos Twitter Sudtipos Instagram sudtipos@sudtipos.com Copyright 2026 Sudtipos Designed by Ashler"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.sudtipos.com/font/hipster-script",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.sudtipos.com/font/hipster-script",
+    "last_modified": null
+  }
+}

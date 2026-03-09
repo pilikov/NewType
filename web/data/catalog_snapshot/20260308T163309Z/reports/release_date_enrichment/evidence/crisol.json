@@ -1,0 +1,48 @@
+{
+  "record_id": "crisol",
+  "source_url": "https://felicianotype.com/typefaces/crisol",
+  "checked_at": "2026-03-09T01:51:39.559653+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://felicianotype.com/typefaces/crisol/",
+      "snippet": "ial Fonts Licensing Information D Crisol Main Glyphs Specimens Crisol Poster (2023) is a new revised version of Crisol (2017), a stencil display typeface available in six widths. Crisol Poster is inspired by the same des"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://felicianotype.com/typefaces/crisol/",
+      "snippet": "arnaso Rongel Sebenta Statius Typefaces Trial Fonts Licensing Information D Crisol Main Glyphs Specimens Crisol Poster (2023) is a new revised version of Crisol (2017), a stencil display typeface available in six widths."
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://felicianotype.com/typefaces/crisol/",
+      "snippet": "ng Figures Tabular Lining Figures Numerators Denominators Fractions Ordinals Stylistic Alternates Inferiors Superiors © 2026 Feliciano Type. All rights reserved. Acceptera Cockpit Correct Crisol Eudald Flama Garda Grosa "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://felicianotype.com/typefaces/crisol/",
+      "snippet": "Mon, 09 Mar 2026 01:51:41 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://felicianotype.com/typefaces/crisol",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://felicianotype.com/typefaces/crisol/",
+    "last_modified": "Mon, 09 Mar 2026 01:51:41 GMT"
+  }
+}

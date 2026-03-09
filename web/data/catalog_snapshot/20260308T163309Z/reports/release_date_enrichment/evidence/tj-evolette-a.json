@@ -1,0 +1,55 @@
+{
+  "record_id": "tj-evolette-a",
+  "source_url": "https://typemates.com/fonts/tj-evolette-a",
+  "checked_at": "2026-03-09T02:03:35.870473+00:00",
+  "candidates": [
+    {
+      "date": "2020-02-10",
+      "score": 0.95,
+      "source_type": "jsonld:dateCreated",
+      "source_url": "https://www.typemates.com/fonts/tj-evolette-a",
+      "snippet": "2020-02-10T15:47:56+01:00"
+    },
+    {
+      "date": "2020-02-18",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typemates.com/fonts/tj-evolette-a",
+      "snippet": "2020-02-18T02:00:00+01:00"
+    },
+    {
+      "date": "2011-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/tj-evolette-a",
+      "snippet": "ernates to create something special. A frontrunner in the geometric alternate font genre, TJ Evolette A was designed in 2011 by Timo Titzmann and Jakob Runge. Later they revisited the typeface with new characters, broade"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typemates.com/fonts/tj-evolette-a",
+      "snippet": "2026-03-05T12:09:19+01:00"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/tj-evolette-a",
+      "snippet": " with alternate glyphs accessible through OpenType layout features. Designed by Timo Titzmann , Jakob Runge in in 2011, 2013 Specs Providing 7 weights, more than 620 glyphs per font Formats otf and ttf for desktop and ap"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typemates.com/fonts/tj-evolette-a",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typemates.com/fonts/tj-evolette-a",
+    "last_modified": null
+  }
+}

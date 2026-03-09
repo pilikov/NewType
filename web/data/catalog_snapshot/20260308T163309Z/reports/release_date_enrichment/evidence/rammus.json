@@ -1,0 +1,27 @@
+{
+  "record_id": "rammus",
+  "source_url": "https://www.suvatypefoundry.ee/rammus/",
+  "checked_at": "2026-03-09T01:59:45.374560+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/rammus/",
+      "snippet": "RY PREVIOUS FONT RAMMUS NEXT FONT P A X V K Z U G M I T N O C Y J F L S R D W B E DOWNLOAD Q H RAMMUS by Ellen Loitmaa (2020) A font inspired by the youth culture of the ’60s and ’70s. Supervised by Andree Paat DOWNLOAD "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/rammus/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/rammus/",
+    "last_modified": null
+  }
+}

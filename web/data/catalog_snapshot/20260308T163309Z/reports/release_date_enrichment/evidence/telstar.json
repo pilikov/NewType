@@ -1,0 +1,19 @@
+{
+  "record_id": "telstar",
+  "source_url": "https://www.devicefonts.co.uk/catalogue/telstar",
+  "checked_at": "2026-03-09T02:04:17.341011+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-29",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.devicefonts.co.uk/catalogue/telstar",
+      "snippet": "2026-01-29"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "403 Client Error: Forbidden for url: https://www.devicefonts.co.uk/catalogue/telstar"
+  }
+}

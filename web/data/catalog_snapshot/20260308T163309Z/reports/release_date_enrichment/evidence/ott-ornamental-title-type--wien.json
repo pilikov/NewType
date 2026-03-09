@@ -1,0 +1,20 @@
+{
+  "record_id": "ott-ornamental-title-type--wien",
+  "source_url": "https://ott-foundry.com/typefaces/wien",
+  "checked_at": "2026-03-09T02:01:20.713372+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ott-foundry.com/typefaces/wien",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ott-foundry.com/typefaces/wien",
+    "last_modified": null
+  }
+}

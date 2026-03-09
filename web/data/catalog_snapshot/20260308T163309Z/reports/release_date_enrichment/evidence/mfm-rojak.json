@@ -1,0 +1,27 @@
+{
+  "record_id": "mfm-rojak",
+  "source_url": "https://www.madeformultitudes.com/products/rojak",
+  "checked_at": "2026-03-09T01:43:43.865755+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.madeformultitudes.com/products/rojak",
+      "snippet": "s Instagram LinkedIn Snail Mail 1 Commonwealth Ln, #06-14, Singapore 149544 Colophon This website is set in Visuelle. © 2026, Multitudes . Powered by Shopify Payment methods American Express Apple Pay Bancontact Google P"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.madeformultitudes.com/products/rojak",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.madeformultitudes.com/products/rojak",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "onigiri",
+  "source_url": "https://moontype.de/onigiri",
+  "checked_at": "2026-03-09T01:56:35.446777+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://moontype.de/onigiri",
+      "snippet": "y. The triangular rhythm and bold letters shape the typeface’s strong, distinctive character. Designer Julia Flomm Year 2024–2025 Version Version 1.0 Format OTF, WOFF2 © 2026 Moontype Foundry"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://moontype.de/onigiri",
+      "snippet": "e triangular rhythm and bold letters shape the typeface’s strong, distinctive character. Designer Julia Flomm Year 2024–2025 Version Version 1.0 Format OTF, WOFF2 © 2026 Moontype Foundry"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://moontype.de/onigiri",
+      "snippet": "e typeface’s strong, distinctive character. Designer Julia Flomm Year 2024–2025 Version Version 1.0 Format OTF, WOFF2 © 2026 Moontype Foundry"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://moontype.de/onigiri",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://moontype.de/onigiri",
+    "last_modified": null
+  }
+}

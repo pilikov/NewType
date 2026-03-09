@@ -1,0 +1,27 @@
+{
+  "record_id": "clementite",
+  "source_url": "https://sillytypefoundry.com/types/clementite/",
+  "checked_at": "2026-03-09T01:58:17.828235+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sillytypefoundry.com/types/clementite/",
+      "snippet": "clementite menu silly type foundry hide images info clementite 2022 During a series of workshops at Malévoz, psychiatric hospital in Switzerland, artist François Dey created a typeface in"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://sillytypefoundry.com/types/clementite/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sillytypefoundry.com/types/clementite/",
+    "last_modified": null
+  }
+}

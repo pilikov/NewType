@@ -1,0 +1,41 @@
+{
+  "record_id": "pangea-afrikan-text",
+  "source_url": "https://fontwerk.com/fonts/pangea-afrikan-text",
+  "checked_at": "2026-03-09T01:46:57.224945+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fontwerk.com/en/text/pangea-afrikan-superfamily",
+      "snippet": "odon RSS RSS (Fonts) Get Free Trials Deutsch English Pangea Afrikan Font Story Fresh fonts for 430 million 20. December 2021 Our popular geometric sans’ next stop is Africa. It’s only been a year and a half since Pangea®"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fontwerk.com/en/text/pangea-afrikan-superfamily",
+      "snippet": "e Tanzanian proverb ‘Haraka Haraka haina baraka’ (Hurry hurry has no blessings). Update: End of the project In December 2025, we introduced our fair regional pricing . Based on the World Bank purchasing power parity data"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fontwerk.com/en/text/pangea-afrikan-superfamily",
+      "snippet": "act Students Free Trials Newsletter Licensing Privacy Policy Terms of Use Instagram LinkedIn Mastodon RSS RSS (Fonts) © 2026 Fontwerk GmbH"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fontwerk.com/fonts/pangea-afrikan-text",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fontwerk.com/en/text/pangea-afrikan-superfamily",
+    "last_modified": null
+  }
+}

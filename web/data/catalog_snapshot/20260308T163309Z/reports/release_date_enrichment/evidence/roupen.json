@@ -1,0 +1,27 @@
+{
+  "record_id": "roupen",
+  "source_url": "http://themicrofoundry.com/f_roupen.html",
+  "checked_at": "2026-03-09T01:56:20.479671+00:00",
+  "candidates": [
+    {
+      "date": "2000-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "http://themicrofoundry.com/f_roupen.html",
+      "snippet": "Sun, 18 Jun 2000 16:24:23 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://themicrofoundry.com/f_roupen.html",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "http://themicrofoundry.com/f_roupen.html",
+    "last_modified": "Sun, 18 Jun 2000 16:24:23 GMT"
+  }
+}

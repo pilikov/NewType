@@ -1,0 +1,41 @@
+{
+  "record_id": "drat",
+  "source_url": "https://www.centraltype.com/drat",
+  "checked_at": "2026-03-09T01:38:36.625545+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.centraltype.com/drat",
+      "snippet": " hopelessly nostalgic. YEAR: 2024 DESIGNER: Mark Butchko Styles: 14 Static, 1 Variable version: 1.0 SAMPLES Copyright © 2023 Central Type. All rights reserved. Licensing Information"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.centraltype.com/drat",
+      "snippet": "of the genre ( Bartuska Satanic, City, ITC Machine ) and aimed for something both fresh and hopelessly nostalgic. YEAR: 2024 DESIGNER: Mark Butchko Styles: 14 Static, 1 Variable version: 1.0 SAMPLES Copyright © 2023 Cent"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.centraltype.com/drat",
+      "snippet": "Wed, 04 Mar 2026 17:48:11 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.centraltype.com/drat",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.centraltype.com/drat",
+    "last_modified": "Wed, 04 Mar 2026 17:48:11 GMT"
+  }
+}

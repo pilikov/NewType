@@ -1,0 +1,27 @@
+{
+  "record_id": "barnaby",
+  "source_url": "https://jenwagner.co/products/barnaby",
+  "checked_at": "2026-03-09T02:02:29.072718+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://jenwagner.co/products/barnaby-a-minimalist-text-serif/",
+      "snippet": "free demos before they're released!). Privacy Policy | Terms & Conditions | Shipping & Return Policy | © Jen Wagner Co. 2025 | Fonts used: JWType Sans | Shop development by Penguin Designing Resources typefaces Licensing"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://jenwagner.co/products/barnaby",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://jenwagner.co/products/barnaby-a-minimalist-text-serif/",
+    "last_modified": null
+  }
+}

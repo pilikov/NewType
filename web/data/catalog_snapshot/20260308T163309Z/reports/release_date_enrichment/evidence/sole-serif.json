@@ -1,0 +1,41 @@
+{
+  "record_id": "sole-serif",
+  "source_url": "https://www.c-a-s-t.com/typefaces/sole-serif",
+  "checked_at": "2026-03-09T01:49:19.509211+00:00",
+  "candidates": [
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/sole-serif/",
+      "snippet": "o, Turkish, Upper Sorbian, Uzbek (Latin), Volapük, Vunjo, Walser, Welsh, Western Frisian, Yoruba, Zulu Production years 2010-2024 Styles Caption Light, Caption Light Italic, Caption Regular, Caption Regular Italic, Capti"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/sole-serif/",
+      "snippet": " Renaissance proportions and a refined but slightly mannered design, all evoke the book rather than the daily paper. In 2018 the Guardian Media Group opted for the Italian type designers at CAST to revamp The Observer, t"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/sole-serif/",
+      "snippet": "rkish, Upper Sorbian, Uzbek (Latin), Volapük, Vunjo, Walser, Welsh, Western Frisian, Yoruba, Zulu Production years 2010-2024 Styles Caption Light, Caption Light Italic, Caption Regular, Caption Regular Italic, Caption Me"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.c-a-s-t.com/typefaces/sole-serif",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.c-a-s-t.com/typefaces/sole-serif/",
+    "last_modified": null
+  }
+}

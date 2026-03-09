@@ -1,0 +1,19 @@
+{
+  "record_id": "stk-earl",
+  "source_url": "https://typekiosk.smuss.studio/Earl",
+  "checked_at": "2026-03-09T02:01:09.891528+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typekiosk.smuss.studio/Earl",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "403 Client Error: Forbidden for url: https://typekiosk.smuss.studio/Earl"
+  }
+}

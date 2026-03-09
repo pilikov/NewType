@@ -1,0 +1,48 @@
+{
+  "record_id": "zeenesia-studio--more-bright-serif-duo",
+  "source_url": "https://zeenesia.com/product/more-bright-serif-duo/",
+  "checked_at": "2026-03-09T01:36:23.621910+00:00",
+  "candidates": [
+    {
+      "date": "2024-02-02",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://zeenesia.com/product/more-bright-serif-duo/",
+      "snippet": "2024-02-02T03:59:55+00:00"
+    },
+    {
+      "date": "2025-05-25",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://zeenesia.com/product/more-bright-serif-duo/",
+      "snippet": "2025-05-25T00:11:19+00:00"
+    },
+    {
+      "date": "2025-05-25",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://zeenesia.com/product/more-bright-serif-duo/",
+      "snippet": "2025-05-25T00:11:19+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://zeenesia.com/product/more-bright-serif-duo/",
+      "snippet": "rif Duo quantity Add to cart Related products $ 16 Karima $ 17 Bright Melody $ 18 Magic Romance $ 18 Fragile Copyright ©2025 Zeenesia Studio All Right Reserved Menu Home Shop Serif Fonts Sans Serif Fonts Script Fonts Dis"
+    },
+    {
+      "date": "2026-02-26",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://zeenesia.com/product/more-bright-serif-duo/",
+      "snippet": "2026-02-26"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://zeenesia.com/product/more-bright-serif-duo/",
+    "last_modified": null
+  }
+}

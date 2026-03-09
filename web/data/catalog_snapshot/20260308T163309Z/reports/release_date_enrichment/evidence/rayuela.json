@@ -1,0 +1,48 @@
+{
+  "record_id": "rayuela",
+  "source_url": "https://www.pampatype.com/typefaces/rayuela",
+  "checked_at": "2026-03-09T01:55:56.219340+00:00",
+  "candidates": [
+    {
+      "date": "2001-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.pampatype.com/typefaces/rayuela",
+      "snippet": "e, TDC Type Directors Club, New York 2006 Prized at Bukva:Raz contest, Association Typographique Internationale, Moscow 2001 Rayuela Designed by Alejandro Lo Celso. © 2001 - 2006 Download our specimens Characteristics bo"
+    },
+    {
+      "date": "2006-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.pampatype.com/typefaces/rayuela",
+      "snippet": "embers Rayuela Display Acknowledgements Rayuela Chocolate: Certificate of Excellence, TDC Type Directors Club, New York 2006 Prized at Bukva:Raz contest, Association Typographique Internationale, Moscow 2001 Rayuela Desi"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.pampatype.com/typefaces/rayuela",
+      "snippet": "ne typefaces & tailored fonts since 2001 Keep in touch. Join our newsletter Subscribe Thank you for subscribing! © 2001–2026 by PampaType font foundry. All rights reserved. Copyrights of texts in the section Scriptorium "
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.pampatype.com/typefaces/rayuela",
+      "snippet": "en, so daß ihre Verwendung nicht nur richtig ist, sondern auch Anreize für die Leser darstellt. —Teresa Schultz [10-10, 2016] Type is, of all the design tools, the most ubiquitous and the most invisible. It is the most i"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.pampatype.com/typefaces/rayuela",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.pampatype.com/typefaces/rayuela",
+    "last_modified": null
+  }
+}

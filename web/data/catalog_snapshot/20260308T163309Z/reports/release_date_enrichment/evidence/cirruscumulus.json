@@ -1,0 +1,27 @@
+{
+  "record_id": "cirruscumulus",
+  "source_url": "https://velvetyne.fr/fonts/cirruscumulus/",
+  "checked_at": "2026-03-09T01:37:00.481510+00:00",
+  "candidates": [
+    {
+      "date": "2020-05-11",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://velvetyne.fr/fonts/cirruscumulus/",
+      "snippet": "ions Curveless Sans Serif Human made Writing systems Latin License SIL Open Font License, Version 1.1 Date Published on May 11, 2020 Get the PDF specimen Ce contenu existe en Français CirrusCumulus was designed without u"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://velvetyne.fr/fonts/cirruscumulus/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://velvetyne.fr/fonts/cirruscumulus/",
+    "last_modified": null
+  }
+}

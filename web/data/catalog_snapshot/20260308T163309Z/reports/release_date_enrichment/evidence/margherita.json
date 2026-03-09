@@ -1,0 +1,20 @@
+{
+  "record_id": "margherita",
+  "source_url": "https://dunwichtype.com/typefaces/margherita",
+  "checked_at": "2026-03-09T01:57:06.144074+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://dunwichtype.com/typefaces/margherita",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://dunwichtype.com/fonts/margherita/",
+    "last_modified": null
+  }
+}

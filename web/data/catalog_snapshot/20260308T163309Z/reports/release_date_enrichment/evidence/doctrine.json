@@ -1,0 +1,76 @@
+{
+  "record_id": "doctrine",
+  "source_url": "https://barnbrook.net/typefaces/doctrine",
+  "checked_at": "2026-03-09T01:49:15.172832+00:00",
+  "candidates": [
+    {
+      "date": "2016-06-01",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://barnbrook.net/typefaces/doctrine/",
+      "snippet": "2016-06-01T16:19:20+00:00"
+    },
+    {
+      "date": "2025-09-18",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://barnbrook.net/typefaces/doctrine/",
+      "snippet": "2025-09-18T22:50:15+00:00"
+    },
+    {
+      "date": "2025-09-18",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://barnbrook.net/typefaces/doctrine/",
+      "snippet": "2025-09-18T22:50:15+00:00"
+    },
+    {
+      "date": "2004-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://barnbrook.net/typefaces/doctrine/",
+      "snippet": "ised with a retrospective at the Design Museum in London entitled Friendly Fire in 2007 and at Ginza Graphic Gallery in 2004. A touring exhibition if the studio’s work Collateral Damage was staged in various countries, i"
+    },
+    {
+      "date": "2007-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://barnbrook.net/typefaces/doctrine/",
+      "snippet": "k’s contribution to design was recognised with a retrospective at the Design Museum in London entitled Friendly Fire in 2007 and at Ginza Graphic Gallery in 2004. A touring exhibition if the studio’s work Collateral Dama"
+    },
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://barnbrook.net/typefaces/doctrine/",
+      "snippet": "e have been reports of difficulties regarding Israeli, American and Japanese nationals Doctrine Light Italic In January 2010, North Korea lifted the restrictions on American citizens who are now free to visit at any time"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://barnbrook.net/typefaces/doctrine/",
+      "snippet": "r teaching and lecturing worldwide. Awards 59th Annual Grammy Awards – Winner of Best Recording Package for Blackstar , 2016 The Design Museum Beazley Design of The Year – Winner of Graphic Design of the Year for Blackst"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://barnbrook.net/typefaces/doctrine/",
+      "snippet": "Sun, 08 Mar 2026 14:50:12 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://barnbrook.net/typefaces/doctrine",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://barnbrook.net/typefaces/doctrine/",
+    "last_modified": "Sun, 08 Mar 2026 14:50:12 GMT"
+  }
+}

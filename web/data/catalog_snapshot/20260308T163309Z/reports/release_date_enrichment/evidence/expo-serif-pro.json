@@ -1,0 +1,76 @@
+{
+  "record_id": "expo-serif-pro",
+  "source_url": "https://typeculture.com/typefaces/expo-serif-pro",
+  "checked_at": "2026-03-09T01:45:15.472492+00:00",
+  "candidates": [
+    {
+      "date": "2016-10-07",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typeculture.com/foundry/font-collection/expo-serif-pro/",
+      "snippet": "2016-10-07T15:17:57+00:00"
+    },
+    {
+      "date": "2004-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeculture.com/foundry/font-collection/expo-serif-pro/",
+      "snippet": "l and historic script. Available on Typekit Latienne™ Pro Always a popular design, now loaded with OpenType features. © 2004–2026 TypeCulture LLC • 130 Park Ave. • Portland • Maine • 04101 • Privacy Policy • Contact Us T"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeculture.com/foundry/font-collection/expo-serif-pro/",
+      "snippet": " historic script. Available on Typekit Latienne™ Pro Always a popular design, now loaded with OpenType features. © 2004–2026 TypeCulture LLC • 130 Park Ave. • Portland • Maine • 04101 • Privacy Policy • Contact Us Typeki"
+    },
+    {
+      "date": "2024-04-29",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typeculture.com/foundry/font-collection/expo-serif-pro/",
+      "snippet": "2024-04-29T18:25:56+00:00"
+    },
+    {
+      "date": "2024-04-29",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.typeculture.com/foundry/font-collection/expo-serif-pro/",
+      "snippet": "2024-04-29T18:25:56+00:00"
+    },
+    {
+      "date": "2005-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typeculture.com/foundry/font-collection/expo-serif-pro/",
+      "snippet": " Expo Sans™ family was in need of a companion serif type. The process of designing Expo Serif began with form trials in 2005 and went through extensive development until production was completed in 2008. One look at Expo"
+    },
+    {
+      "date": "2008-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typeculture.com/foundry/font-collection/expo-serif-pro/",
+      "snippet": "ning Expo Serif began with form trials in 2005 and went through extensive development until production was completed in 2008. One look at Expo Serif reveals that it is much more than merely a clone of Expo Sans with seri"
+    },
+    {
+      "date": "2009-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typeculture.com/foundry/font-collection/expo-serif-pro/",
+      "snippet": "th Expo Serif and Expo Sans are the primary fonts used on this website. Awards Expo Serif™ was selected a winner in the 2009 Type Directors Club typeface design competition. Styles Complements OpenType Features All Caps "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typeculture.com/typefaces/expo-serif-pro",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typeculture.com/foundry/font-collection/expo-serif-pro/",
+    "last_modified": null
+  }
+}

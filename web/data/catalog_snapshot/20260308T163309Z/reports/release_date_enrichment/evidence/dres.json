@@ -1,0 +1,19 @@
+{
+  "record_id": "dres",
+  "source_url": "https://www.superiortype.com/fonts/dres",
+  "checked_at": "2026-03-09T01:44:32.978594+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.superiortype.com/fonts/dres",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "404 Client Error: Not Found for url: https://superiortype.com/fonts/dres"
+  }
+}

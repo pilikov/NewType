@@ -1,0 +1,48 @@
+{
+  "record_id": "serebryakov-type-foundry--gik",
+  "source_url": "https://serebryakov.com/fonts/gik",
+  "checked_at": "2026-03-08T16:58:46.193993+00:00",
+  "candidates": [
+    {
+      "date": "2022-10-30",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/gik",
+      "snippet": " Cyrillic Features Stylistic alternates Case-sensitive forms Oldstyle/Lining figures Designer Denis Serebryakov Release Oct 30, 2022 Awarded 13th Granshan Type Design Competition, Special Mention Gik is a modular sans-se"
+    },
+    {
+      "date": "2006-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/gik",
+      "snippet": " — to the designer and to the viewer. It provokes the imagination. It is an anthology of all typefaces of the future. © 2006– 2026 Instagram BELARUS, 220021, MINSK, NEZAVISIMOSTI AVE., 95A, OFFICE 37, REG. BY THE MINSK C"
+    },
+    {
+      "date": "2014-02-11",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/gik",
+      "snippet": "026 Instagram BELARUS, 220021, MINSK, NEZAVISIMOSTI AVE., 95A, OFFICE 37, REG. BY THE MINSK CITY EXECUTIVE COMMITTEE ON FEB 11, 2014. TAX ID 290447975, IE DENIS RODIONOVICH SEREBRYAKOV"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/gik",
+      "snippet": "the designer and to the viewer. It provokes the imagination. It is an anthology of all typefaces of the future. © 2006– 2026 Instagram BELARUS, 220021, MINSK, NEZAVISIMOSTI AVE., 95A, OFFICE 37, REG. BY THE MINSK CITY EX"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://serebryakov.com/fonts/gik",
+      "snippet": "2026-03-05"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://serebryakov.com/fonts/gik",
+    "last_modified": null
+  }
+}

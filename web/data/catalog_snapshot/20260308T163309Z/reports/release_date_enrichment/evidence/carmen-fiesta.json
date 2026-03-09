@@ -1,0 +1,41 @@
+{
+  "record_id": "carmen-fiesta",
+  "source_url": "https://typerepublic.com/fonts/carmen-fiesta",
+  "checked_at": "2026-03-09T01:42:43.983238+00:00",
+  "candidates": [
+    {
+      "date": "2008-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typerepublic.com/fonts/carmen-fiesta/",
+      "snippet": "de la cosina jove, expressiva i alegre—com un vestit de festa per a ocasions molt especials. Designed by Andreu Balius, 2008-2009 Free trial versions Curious to try our fonts before committing? We are offering free trial"
+    },
+    {
+      "date": "2009-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typerepublic.com/fonts/carmen-fiesta/",
+      "snippet": " cosina jove, expressiva i alegre—com un vestit de festa per a ocasions molt especials. Designed by Andreu Balius, 2008-2009 Free trial versions Curious to try our fonts before committing? We are offering free trial vers"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typerepublic.com/fonts/carmen-fiesta/",
+      "snippet": "ustom In Use Blog Shop About HELP Support Commercial Policy Licensing EULA FAQs Privacy Policy Terms of use Copyright © 2026 Typerepublic. All Rights Reserved. Made with ♥ by Ashler Design"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typerepublic.com/fonts/carmen-fiesta",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typerepublic.com/fonts/carmen-fiesta/",
+    "last_modified": null
+  }
+}

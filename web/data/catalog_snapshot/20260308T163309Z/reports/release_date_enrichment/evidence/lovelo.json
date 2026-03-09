@@ -1,0 +1,62 @@
+{
+  "record_id": "lovelo",
+  "source_url": "https://fontfabric.com/fonts/lovelo/",
+  "checked_at": "2026-03-09T01:47:18.738046+00:00",
+  "candidates": [
+    {
+      "date": "2013-01-30",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.fontfabric.com/fonts/lovelo/",
+      "snippet": "2013-01-30T12:00:52+00:00"
+    },
+    {
+      "date": "2013-01-13",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/lovelo/",
+      "snippet": "eds. Its design enables layered effects and visual dimension in multilingual, modern typography projects. Release Date: January 13, 2013 Explore: Display Fonts Credits: Renzler. Design Similar fonts Postamp Grotesk 11 fo"
+    },
+    {
+      "date": "2025-11-12",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.fontfabric.com/fonts/lovelo/",
+      "snippet": "2025-11-12T10:13:37+00:00"
+    },
+    {
+      "date": "2025-11-12",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.fontfabric.com/fonts/lovelo/",
+      "snippet": "2025-11-12T10:13:37+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/lovelo/",
+      "snippet": "pt fonts Font sale Free fonts Fonts in use Font collections Legal Infringements About Help Blog Partnerships Contact us 2026 © Fontfabric llc. Privacy Notice Manage Cookies"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.fontfabric.com/fonts/lovelo/",
+      "snippet": "Mon, 09 Mar 2026 01:47:20 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fontfabric.com/fonts/lovelo/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.fontfabric.com/fonts/lovelo/",
+    "last_modified": "Mon, 09 Mar 2026 01:47:20 GMT"
+  }
+}

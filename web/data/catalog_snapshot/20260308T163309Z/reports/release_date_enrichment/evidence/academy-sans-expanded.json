@@ -1,0 +1,62 @@
+{
+  "record_id": "academy-sans-expanded",
+  "source_url": "https://playtype.com/typefaces/academy-sans-expanded",
+  "checked_at": "2026-03-09T01:37:53.307235+00:00",
+  "candidates": [
+    {
+      "date": "2018-12-29",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://playtype.com/typefaces/academy-sans-expanded/",
+      "snippet": "2018-12-29T13:55:47+00:00"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://playtype.com/typefaces/academy-sans-expanded/",
+      "snippet": " Bold Italic Extrabold Italic Black Italic Academy Sans Expanded Buy from 50€ Styles 18 Designer Jonas Hecksher Release 2018 The enlarged width in the Academy Sans Expanded adds a more open and airy feel to the texture. "
+    },
+    {
+      "date": "2025-06-26",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://playtype.com/typefaces/academy-sans-expanded/",
+      "snippet": "2025-06-26T08:23:51+00:00"
+    },
+    {
+      "date": "2025-06-26",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://playtype.com/typefaces/academy-sans-expanded/",
+      "snippet": "2025-06-26T08:23:51+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://playtype.com/typefaces/academy-sans-expanded/",
+      "snippet": "rty of their respective owners and no endorsement or derogation is intended or inferred. All other content, copyright © 2026 Playtype. All rights reserved."
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://playtype.com/typefaces/academy-sans-expanded/",
+      "snippet": "Fri, 06 Mar 2026 12:11:27 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://playtype.com/typefaces/academy-sans-expanded",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://playtype.com/typefaces/academy-sans-expanded/",
+    "last_modified": "Fri, 06 Mar 2026 12:11:27 GMT"
+  }
+}

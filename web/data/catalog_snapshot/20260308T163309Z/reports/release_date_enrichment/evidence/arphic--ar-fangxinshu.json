@@ -1,0 +1,55 @@
+{
+  "record_id": "arphic--ar-fangxinshu",
+  "source_url": "https://www.arphic.com.tw/en/ar-fang-xin-shu/",
+  "checked_at": "2026-03-09T01:36:02.774702+00:00",
+  "candidates": [
+    {
+      "date": "2017-08-29",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://www.arphic.com.tw/en/ar-fang-xin-shu/",
+      "snippet": "2017-08-29"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.arphic.com.tw/en/ar-fang-xin-shu/",
+      "snippet": "u Condesed keeps its steadiness, simplicity and clearness to condensed Read more Arphic will give a talk in Typo Berlin 2017 Category： News Category： News Typo Berlin 2017 will be held from April 6 to 8 in Belin. Read mo"
+    },
+    {
+      "date": "2020-10-05",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.arphic.com.tw/en/ar-fang-xin-shu/",
+      "snippet": "2020-10-05"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.arphic.com.tw/en/ar-fang-xin-shu/",
+      "snippet": "ded with Granshan 8th International Type Design Competition Chinese Text Typefaces third place FangXinshu is awarded by 2019 GOLDEN PIN DESIGN AWARD Log in Forgot password? Register now submit Register Checking informati"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.arphic.com.tw/en/ar-fang-xin-shu/",
+      "snippet": "Tue, 16 Sep 2025 04:32:40 GMT"
+    },
+    {
+      "date": "2026-03-02",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.arphic.com.tw/en/ar-fang-xin-shu/",
+      "snippet": "2026-03-02"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.arphic.com.tw/en/ar-fang-xin-shu/",
+    "last_modified": "Tue, 16 Sep 2025 04:32:40 GMT"
+  }
+}

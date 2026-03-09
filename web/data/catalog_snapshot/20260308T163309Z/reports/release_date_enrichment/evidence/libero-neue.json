@@ -1,0 +1,48 @@
+{
+  "record_id": "libero-neue",
+  "source_url": "https://sportsfonts.com/fonts/libero-neue",
+  "checked_at": "2026-03-09T01:48:06.996158+00:00",
+  "candidates": [
+    {
+      "date": "2025-04-22",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://sportsfonts.com/fonts/libero-neue",
+      "snippet": "2025-04-22"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sportsfonts.com/fonts/libero-neue",
+      "snippet": "rts, from no-budget to high-profile. Browse our retail fonts , or get in touch for modifications or custom solutions. © 2016–2026 Sportsfonts / Christoph Koeberlin . Website by Andreas Nymark . No cookies, no tracking, n"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sportsfonts.com/fonts/libero-neue",
+      "snippet": "stoph Koeberlin Styles 4 License Free for non-commercial use ( CC BY-NC-ND 4.0 ). Otherwise, please get in touch . Year 2025 Current Version 1.000 See also Libero , Sportsfonts Legends , Multisport Tags Numerals-only Fre"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sportsfonts.com/fonts/libero-neue",
+      "snippet": "from no-budget to high-profile. Browse our retail fonts , or get in touch for modifications or custom solutions. © 2016–2026 Sportsfonts / Christoph Koeberlin . Website by Andreas Nymark . No cookies, no tracking, no shi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://sportsfonts.com/fonts/libero-neue",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sportsfonts.com/fonts/libero-neue",
+    "last_modified": null
+  }
+}

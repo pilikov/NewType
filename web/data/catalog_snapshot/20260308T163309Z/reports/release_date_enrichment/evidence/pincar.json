@@ -1,0 +1,41 @@
+{
+  "record_id": "pincar",
+  "source_url": "https://hottype.co/fonts/pincar",
+  "checked_at": "2026-03-09T01:41:58.206627+00:00",
+  "candidates": [
+    {
+      "date": "2025-02-02",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://hottype.co/fonts/pincar",
+      "snippet": "2025-02-02"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://hottype.co/fonts/pincar",
+      "snippet": "P Test Fonts Projects About Account Pincar Buy\n                                    Now Designer: Luka Nera Sibila Year: 2025 Update: 01/2025 Styles: 1 Condition: Basic character set The origins of Pincar represent an exe"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://hottype.co/fonts/pincar",
+      "snippet": "me soon. We’re beyond proud to hand it over to you—and pumped to see how you’re going to put this one to use! Buy Now © 2026 HotType Support Crafted by Fran , Zoran & FoundryCore Back to top ↑"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://hottype.co/fonts/pincar",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hottype.co/fonts/pincar",
+    "last_modified": null
+  }
+}

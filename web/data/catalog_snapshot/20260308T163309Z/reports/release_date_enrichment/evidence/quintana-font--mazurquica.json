@@ -1,0 +1,41 @@
+{
+  "record_id": "quintana-font--mazurquica",
+  "source_url": "https://quintana-font.cl/typefaces/mazurquica",
+  "checked_at": "2026-03-09T01:46:12.894832+00:00",
+  "candidates": [
+    {
+      "date": "2026-03-05",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://quintana-font.cl/typefaces/mazurquica",
+      "snippet": "2026-03-05"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://quintana-font.cl/typefaces/mazurquica",
+      "snippet": "rmat_size format_line_spacing Рэй Ду́глас Брэ́дбери (англ. Ray Douglas Bradbury; 22 августа 1920, Уокиган, США — 5 июня 2012, Лос-Анджелес) — американский писатель, известный по антиутопии «451 градус по Фаренгейту», цик"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://quintana-font.cl/typefaces/mazurquica",
+      "snippet": "App or E-book 10 App or E-book Choose fonts Mazurquica VF U$D 320.00 TOTAL U$D 0.00 Proceed to checkout Quintana-Font © 2026 Font Catalog Loica Sans Violeta RunRun Lira Sans Berenjena Simona Chupilca Vivaceta Modérnica L"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://quintana-font.cl/typefaces/mazurquica",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://quintana-font.cl/typefaces/mazurquica",
+    "last_modified": null
+  }
+}

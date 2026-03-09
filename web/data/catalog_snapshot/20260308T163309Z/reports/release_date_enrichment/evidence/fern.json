@@ -1,0 +1,27 @@
+{
+  "record_id": "fern",
+  "source_url": "https://djr.com/fern",
+  "checked_at": "2026-03-09T01:53:30.205980+00:00",
+  "candidates": [
+    {
+      "date": "2018-10-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/fern",
+      "snippet": "Small caps font-variant: small-caps; The 24 sailors for Bean & Co. All small caps font-variant-caps: all-small-caps; On October 1, 2018, Bedford Lining figures font-variant-numeric: lining-nums; On October 1, 2018, Bedfo"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://djr.com/fern",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://djr.com/fern",
+    "last_modified": null
+  }
+}

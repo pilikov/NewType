@@ -1,0 +1,41 @@
+{
+  "record_id": "rl-zeta",
+  "source_url": "https://www.regularlines.com/typefaces/rl-zeta",
+  "checked_at": "2026-03-09T01:51:40.632908+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.regularlines.com/rl-zeta/",
+      "snippet": "es. Credits Design: Matej Vojtuš, Jozef Ondrik, Žofia Kosová Mastering: Žofia Kosová Classification: Monospace Release: 2024 Latest Update: May 2024 Glyph count: 540 Supported Languages Abenaki, Afaan Oromo, Afar, Afrika"
+    },
+    {
+      "date": "1990-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.regularlines.com/rl-zeta/",
+      "snippet": "d 5, Výroba písma, mosazných linek a matric) was a Czechoslovak type foundry, created in 1951. It ceased to exist after 1990. It was the only manufacturer of metal types in the former Czechoslovakia. Zeta QWERTY keyboard"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.regularlines.com/rl-zeta/",
+      "snippet": "Mon, 18 Aug 2025 09:29:03 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.regularlines.com/typefaces/rl-zeta",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.regularlines.com/rl-zeta/",
+    "last_modified": "Mon, 18 Aug 2025 09:29:03 GMT"
+  }
+}

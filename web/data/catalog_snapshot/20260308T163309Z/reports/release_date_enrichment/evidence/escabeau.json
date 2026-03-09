@@ -1,0 +1,27 @@
+{
+  "record_id": "escabeau",
+  "source_url": "https://typotheque.genderfluid.space/fr/fontes/escabeau",
+  "checked_at": "2026-03-09T01:39:10.904192+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typotheque.genderfluid.space/fr/fontes/escabeau",
+      "snippet": "s pancartes. Fontes en usage Future Off Roxanne Maillet, affiches réalisées dans le cadre du festival Future Off. 25/01/2023. Cm de talons Felix Greb, affiches. 2023. Auteur·ice(s) Spécimen Git Télécharger X Attention Le"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typotheque.genderfluid.space/fr/fontes/escabeau",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typotheque.genderfluid.space/fr/fontes/escabeau",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "macho-moustache",
+  "source_url": "https://www.c-a-s-t.com/typefaces/macho-moustache",
+  "checked_at": "2026-03-09T01:52:15.042750+00:00",
+  "candidates": [
+    {
+      "date": "2008-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/macho-moustache/",
+      "snippet": "pertures for a, c, e and s as well as some of the numerals. Original design work started together with Macho Modular in 2008. Now the range and communication potential of the Macho family has been developed with five wei"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/macho-moustache/",
+      "snippet": "ita, Teso, Turkish, Upper Sorbian, Uzbek (Latin), Volapük, Vunjo, Walser, Welsh, Western Frisian, Zulu Production years 2017 Styles Thin, Thin Slanted, Light, Light Slanted, Regular, Regular Slanted, Medium, Medium Slant"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.c-a-s-t.com/typefaces/macho-moustache",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.c-a-s-t.com/typefaces/macho-moustache/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "patricia-gothic",
+  "source_url": "https://midwesttype.com/family/patricia-gothic",
+  "checked_at": "2026-03-09T02:01:20.128983+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://midwesttype.com/family/patricia-gothic/",
+      "snippet": "rtuguese Romanian Slovak Slovenian Spanish Swedish Turkish Download Type Specimen (PDF) Buy Patricia Gothic Copyright © 2026 The Type Founders, LLC . All rights reserved. home fonts licensing about services TTF Foundries"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://midwesttype.com/family/patricia-gothic",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://midwesttype.com/family/patricia-gothic/",
+    "last_modified": null
+  }
+}

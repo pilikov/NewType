@@ -1,0 +1,34 @@
+{
+  "record_id": "roberte",
+  "source_url": "https://typotheque.genderfluid.space/fr/fontes/roberte",
+  "checked_at": "2026-03-09T01:48:49.929587+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typotheque.genderfluid.space/fr/fontes/roberte",
+      "snippet": "e temps de niaiser. Fontes en usage ACB2 Étienne Guégano, Assez Cool Boissons #2, 2024. Thank you for waiting designLAB 2023 Auteur·ice(s) Spécimen Git Télécharger X Attention Les fontes distribuées ici ont été dessinées"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typotheque.genderfluid.space/fr/fontes/roberte",
+      "snippet": "cé rapide parce que Robert·e n’a pas le temps de niaiser. Fontes en usage ACB2 Étienne Guégano, Assez Cool Boissons #2, 2024. Thank you for waiting designLAB 2023 Auteur·ice(s) Spécimen Git Télécharger X Attention Les fo"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typotheque.genderfluid.space/fr/fontes/roberte",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typotheque.genderfluid.space/fr/fontes/roberte",
+    "last_modified": null
+  }
+}

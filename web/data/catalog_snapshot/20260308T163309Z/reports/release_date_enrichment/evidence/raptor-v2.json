@@ -1,0 +1,27 @@
+{
+  "record_id": "raptor-v2",
+  "source_url": "http://superiortype.com/fonts/raptor-v2",
+  "checked_at": "2026-03-09T01:55:38.451215+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://superiortype.com/fonts/raptor-v2",
+      "snippet": "old Raptor V2 Bold Italic Raptor V2 Black Raptor V2 Black Italic Languages (351) Show Languages Superior Type Â© 2013â2026. All rights reserved Support Contact Instagram"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://superiortype.com/fonts/raptor-v2",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://superiortype.com/fonts/raptor-v2",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "chonk",
+  "source_url": "https://shop.loudroom.com/products/chonk",
+  "checked_at": "2026-03-09T01:45:26.281949+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://shop.loudroom.com/products/chonk",
+      "snippet": "ks, higher limits, larger commercial use, or any other specific needs, email me and we’ll work it out. Release date Feb 2024 Family OTF and WOFF2 File formats 1 style All fonts Add Added Citywide €26,95 Citywide €26,95 A"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://shop.loudroom.com/products/chonk",
+      "snippet": " and WOFF2 File formats 1 style All fonts Add Added Citywide €26,95 Citywide €26,95 Add Added Chonk €8,95 Chonk €8,95 © 2026 Loud Room Loud Room on Mastodon Search Clear Products Chonk €8,95 Citywide €26,95 View all"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://shop.loudroom.com/products/chonk",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://shop.loudroom.com/products/chonk",
+    "last_modified": null
+  }
+}

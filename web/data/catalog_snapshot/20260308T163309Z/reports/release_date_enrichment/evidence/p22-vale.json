@@ -1,0 +1,27 @@
+{
+  "record_id": "p22-vale",
+  "source_url": "https://p22.com/fonts/vale/",
+  "checked_at": "2026-03-09T01:51:39.274674+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/vale/",
+      "snippet": " å æ è é ê ë ā ă ą Ē ē Ĕ ĕ Ė ė Ę ę Ě ě ğ ġ ģ Œ œ ŕ ŗ ř Ţ ţ Ť ť Ŧ ŧ Case-Sensitive Forms ( ) @ [ ] { } ¡ « » ¿ – — ‹ › © 2026 The Type Founders, LLC Fonts Designers About Privacy & Cookies Terms of Service Licensing Servi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://p22.com/fonts/vale/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://p22.com/fonts/vale/",
+    "last_modified": null
+  }
+}

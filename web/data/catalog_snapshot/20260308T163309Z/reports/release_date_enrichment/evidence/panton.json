@@ -1,0 +1,62 @@
+{
+  "record_id": "panton",
+  "source_url": "https://fontfabric.com/typefaces/panton",
+  "checked_at": "2026-03-09T01:46:57.571231+00:00",
+  "candidates": [
+    {
+      "date": "2018-05-10",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.fontfabric.com/fonts/panton/",
+      "snippet": "2018-05-10T12:00:26+00:00"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/panton/",
+      "snippet": "ctions, numerators, denominators, ordinals, stylistic alternates, subscripts, and superscripts. Release Date  - January 2015 Explore: Sans Serif Fonts , Display Fonts Credits: Ivan Petrov, Svet Simov Similar fonts Resist"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.fontfabric.com/fonts/panton/",
+      "snippet": "2026-03-05T12:18:20+00:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.fontfabric.com/fonts/panton/",
+      "snippet": "2026-03-05T12:18:20+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/panton/",
+      "snippet": "pt fonts Font sale Free fonts Fonts in use Font collections Legal Infringements About Help Blog Partnerships Contact us 2026 © Fontfabric llc. Privacy Notice Manage Cookies"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.fontfabric.com/fonts/panton/",
+      "snippet": "Sun, 08 Mar 2026 19:21:27 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fontfabric.com/typefaces/panton",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.fontfabric.com/fonts/panton/",
+    "last_modified": "Sun, 08 Mar 2026 19:21:27 GMT"
+  }
+}

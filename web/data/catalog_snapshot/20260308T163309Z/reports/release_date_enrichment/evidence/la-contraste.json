@@ -1,0 +1,41 @@
+{
+  "record_id": "la-contraste",
+  "source_url": "https://naimabenayedbureau.com/typefaces/la-contraste",
+  "checked_at": "2026-03-09T01:50:52.728389+00:00",
+  "candidates": [
+    {
+      "date": "2020-03-31",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://naimabenayedbureau.com/project/la-contraste",
+      "snippet": "2020-03-31T11:17:23+00:00"
+    },
+    {
+      "date": "2025-03-08",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://naimabenayedbureau.com/project/la-contraste",
+      "snippet": "2025-03-08T17:46:27+00:00"
+    },
+    {
+      "date": "2025-03-08",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://naimabenayedbureau.com/project/la-contraste",
+      "snippet": "2025-03-08T17:46:27+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://naimabenayedbureau.com/typefaces/la-contraste",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://naimabenayedbureau.com/project/la-contraste",
+    "last_modified": null
+  }
+}

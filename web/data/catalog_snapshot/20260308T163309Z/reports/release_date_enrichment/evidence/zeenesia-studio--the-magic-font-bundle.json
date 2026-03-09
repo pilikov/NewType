@@ -1,0 +1,48 @@
+{
+  "record_id": "zeenesia-studio--the-magic-font-bundle",
+  "source_url": "https://zeenesia.com/product/the-magic-font-bundle/",
+  "checked_at": "2026-03-09T01:36:30.054752+00:00",
+  "candidates": [
+    {
+      "date": "2025-06-29",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://zeenesia.com/product/the-magic-font-bundle/",
+      "snippet": "2025-06-29T17:48:33+00:00"
+    },
+    {
+      "date": "2026-01-19",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://zeenesia.com/product/the-magic-font-bundle/",
+      "snippet": "2026-01-19T06:14:38+00:00"
+    },
+    {
+      "date": "2026-01-19",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://zeenesia.com/product/the-magic-font-bundle/",
+      "snippet": "2026-01-19T06:14:38+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://zeenesia.com/product/the-magic-font-bundle/",
+      "snippet": "ndle quantity Add to cart Related products $ 17 Bright Melody $ 18 Dream To Berich $ 16 Qitella $ 16 Caorgen Copyright ©2025 Zeenesia Studio All Right Reserved Menu Home Shop Serif Fonts Sans Serif Fonts Script Fonts Dis"
+    },
+    {
+      "date": "2026-02-26",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://zeenesia.com/product/the-magic-font-bundle/",
+      "snippet": "2026-02-26"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://zeenesia.com/product/the-magic-font-bundle/",
+    "last_modified": null
+  }
+}

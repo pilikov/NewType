@@ -1,0 +1,27 @@
+{
+  "record_id": "hegante-beta",
+  "source_url": "https://pstypelab.com/hegante-display",
+  "checked_at": "2026-03-09T02:01:30.406479+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://pstypelab.com/hegante-display",
+      "snippet": "ONTS Hegante is a big, bold and lively design influenced by the brush. A ll Content Created + Produced by Mark Caneso - 2026\nAll Types Welcome"
+    },
+    {
+      "date": "2026-02-14",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://pstypelab.com/hegante-display",
+      "snippet": "2026-02-14"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://pstypelab.com/hegante-display",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "hydraulic",
+  "source_url": "https://www.riptype.xyz/product/hydraulic",
+  "checked_at": "2026-03-09T02:01:32.192020+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.riptype.xyz/product/hydraulic",
+      "snippet": "Designer Ciarán Brandin Release Date October 2025 Typeface Hydraulic is a display typeface created by Ciarán Brandin in 2023. Inspired by motorsport graphics, Hydraulic blends techno-futurism with stylized rally car flai"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.riptype.xyz/product/hydraulic",
+      "snippet": "riptype.xyz or follow our instagram @riptype.xyz Hydraulic No items found. Designer Ciarán Brandin Release Date October 2025 Typeface Hydraulic is a display typeface created by Ciarán Brandin in 2023. Inspired by motorsp"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.riptype.xyz/product/hydraulic",
+      "snippet": "Thu, 05 Mar 2026 15:16:10 GMT"
+    },
+    {
+      "date": "2026-02-14",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.riptype.xyz/product/hydraulic",
+      "snippet": "2026-02-14"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.riptype.xyz/product/hydraulic",
+    "last_modified": "Thu, 05 Mar 2026 15:16:10 GMT"
+  }
+}

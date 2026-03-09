@@ -1,0 +1,48 @@
+{
+  "record_id": "carmen-cyrillic",
+  "source_url": "https://typerepublic.com/fonts/carmen-cyrillic",
+  "checked_at": "2026-03-09T01:52:16.129765+00:00",
+  "candidates": [
+    {
+      "date": "2007-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typerepublic.com/fonts/carmen-cyrillic/",
+      "snippet": "ncia refinada a cada línia, fent que les paraules evoquin la fragància del taronger en flor. Designed by Andreu Balius, 2007-2008. With kind advisory from Ilya Ruderman on Cyrillic script. Awards: Best typeface of 2008 ("
+    },
+    {
+      "date": "2008-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typerepublic.com/fonts/carmen-cyrillic/",
+      "snippet": "refinada a cada línia, fent que les paraules evoquin la fragància del taronger en flor. Designed by Andreu Balius, 2007-2008. With kind advisory from Ilya Ruderman on Cyrillic script. Awards: Best typeface of 2008 (typog"
+    },
+    {
+      "date": "2009-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typerepublic.com/fonts/carmen-cyrillic/",
+      "snippet": "08. With kind advisory from Ilya Ruderman on Cyrillic script. Awards: Best typeface of 2008 (typographica.org) Top Type 2009 (FontShop) Free trial versions Curious to try our fonts before committing? We are offering free"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typerepublic.com/fonts/carmen-cyrillic/",
+      "snippet": "ustom In Use Blog Shop About HELP Support Commercial Policy Licensing EULA FAQs Privacy Policy Terms of use Copyright © 2026 Typerepublic. All Rights Reserved. Made with ♥ by Ashler Design"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typerepublic.com/fonts/carmen-cyrillic",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typerepublic.com/fonts/carmen-cyrillic/",
+    "last_modified": null
+  }
+}

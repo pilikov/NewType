@@ -1,0 +1,27 @@
+{
+  "record_id": "shader-color",
+  "source_url": "https://www.daltonmaag.com/library/shader-color",
+  "checked_at": "2026-03-09T01:50:54.788604+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/shader-color.html",
+      "snippet": "s in shiny 64-bit chrome. Shader Glitch conjures a future where technology conspires against us. Designed and developed\n2022 Designers Maria Fontenelle, Robert Pratley, Deiverson Ribeiro Writing Systems Latin Supporting "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.daltonmaag.com/library/shader-color",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.daltonmaag.com/font-library/shader-color.html",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "push",
+  "source_url": "https://fontwerk.com/fonts/push",
+  "checked_at": "2026-03-09T01:52:06.183627+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fontwerk.com/en/fonts/push",
+      "snippet": " Specimen Ferdinand Ulrich Copywriting, German Translation Lucy Beckley English Translation, Proofreading Design Period 2021–2024 Release History Version 1.0: March 19, 2024 Awards Hiiibrand Design Awards 2024 Silver Awa"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fontwerk.com/en/fonts/push",
+      "snippet": "to a clever curvature transformation across XCondensed and XWide, Push™ assumes a confident presence. Read more Release 2024 Christine Gertsch Designer(s) Team & Details Technology, Licenses & Trademarks Glyphs Languages"
+    },
+    {
+      "date": "2024-03-19",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fontwerk.com/en/fonts/push",
+      "snippet": " German Translation Lucy Beckley English Translation, Proofreading Design Period 2021–2024 Release History Version 1.0: March 19, 2024 Awards Hiiibrand Design Awards 2024 Silver Award Recommended Use Advertising & Packag"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fontwerk.com/en/fonts/push",
+      "snippet": "act Students Free Trials Newsletter Licensing Privacy Policy Terms of Use Instagram LinkedIn Mastodon RSS RSS (Fonts) © 2026 Fontwerk GmbH"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fontwerk.com/fonts/push",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fontwerk.com/en/fonts/push",
+    "last_modified": null
+  }
+}

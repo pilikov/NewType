@@ -1,0 +1,48 @@
+{
+  "record_id": "ltr-kosmik",
+  "source_url": "https://letterror.com/fonts/kosmik.html",
+  "checked_at": "2026-03-09T01:48:27.071556+00:00",
+  "candidates": [
+    {
+      "date": "1993-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://letterror.com/fonts/kosmik.html",
+      "snippet": "anddrawn quality of the text. Licenses for Desktop, Web, App. Pricing starts at €40 Kosmik fact LTR Kosmik was drawn in 1993, four years before the OpenType specification was published. Erik van Blokland and Just van Ros"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://letterror.com/fonts/kosmik.html",
+      "snippet": " LettError on PixelFed LettError on Mastodon LettError on Instagram We have a newsletter! All Rights Reserved, © 1989 - 2025"
+    },
+    {
+      "date": "1994-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://letterror.com/fonts/kosmik.html",
+      "snippet": "ets that stagger the order of the alternates. Typoman cartoons were drawn for the feature on Kosmik in Page Magazine in 1994. In the ’90s, typographic superhero TypoMan did his best to save quality typography. A cool A6 "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://letterror.com/fonts/kosmik.html",
+      "snippet": "Sat, 28 Feb 2026 09:49:24 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://letterror.com/fonts/kosmik.html",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://letterror.com/fonts/kosmik.html",
+    "last_modified": "Sat, 28 Feb 2026 09:49:24 GMT"
+  }
+}

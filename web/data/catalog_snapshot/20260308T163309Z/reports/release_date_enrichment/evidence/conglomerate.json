@@ -1,0 +1,27 @@
+{
+  "record_id": "conglomerate",
+  "source_url": "https://gregshutters.com/conglomerate",
+  "checked_at": "2026-03-09T01:53:01.189930+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.gregshutters.com/conglomerate",
+      "snippet": "ut Contact Conglomerate Category: Typefaces Recognition: PRINT Magazine Best in Class ; Typographica Favorite Typefaces 2016 Conglomerate is somewhere between sans and serif, square and rounded, calligraphic and geometri"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://gregshutters.com/conglomerate",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.gregshutters.com/conglomerate",
+    "last_modified": null
+  }
+}

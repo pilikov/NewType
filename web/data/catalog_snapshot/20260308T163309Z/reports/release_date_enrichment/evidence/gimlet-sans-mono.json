@@ -1,0 +1,20 @@
+{
+  "record_id": "gimlet-sans-mono",
+  "source_url": "https://djr.com/gimlet-sans-mono",
+  "checked_at": "2026-03-09T01:59:32.666480+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://djr.com/gimlet-sans-mono",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typeset.djr.com/?ff=gimletsans",
+    "last_modified": null
+  }
+}

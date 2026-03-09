@@ -1,0 +1,27 @@
+{
+  "record_id": "novecento-carved",
+  "source_url": "https://typography.synthview.com/novecento-carved-font-family.php",
+  "checked_at": "2026-03-09T01:59:59.835720+00:00",
+  "candidates": [
+    {
+      "date": "2016-02-10",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typography.synthview.com/novecento-carved-font-family.php",
+      "snippet": "2016-02-10"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typography.synthview.com/novecento-carved-font-family.php",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typography.synthview.com/novecento-carved-font-family.php",
+    "last_modified": null
+  }
+}

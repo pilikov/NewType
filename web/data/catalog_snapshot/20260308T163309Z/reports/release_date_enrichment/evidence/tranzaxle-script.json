@@ -1,0 +1,19 @@
+{
+  "record_id": "tranzaxle-script",
+  "source_url": "https://www.psyops.com/typefaces/tranzaxle-script",
+  "checked_at": "2026-03-09T02:01:35.885430+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-14",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.psyops.com/typefaces/tranzaxle-script",
+      "snippet": "2026-02-14"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "404 Client Error: Not Found for url: https://www.psyops.com/typefaces/tranzaxle-script"
+  }
+}

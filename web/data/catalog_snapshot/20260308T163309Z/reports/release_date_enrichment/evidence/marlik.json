@@ -1,0 +1,48 @@
+{
+  "record_id": "marlik",
+  "source_url": "https://rosettatype.com/Marlik",
+  "checked_at": "2026-03-09T02:00:17.482493+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://rosettatype.com/Marlik",
+      "snippet": "                        9+1\n                        \n                        fonts from 280 € Keywords Released 30. 10. 2018 Credits Leads Borna Izadpanah Design Borna Izadpanah is a Lecturer in Typography at the Univers"
+    },
+    {
+      "date": "2011-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://rosettatype.com/Marlik",
+      "snippet": "any time. Social media Mastodon LinkedIn Type rocks! Copyright © Rosetta Type Foundry, s.r.o. and respective designers, 2011–2026. This website does not track you. Mains Fonts Services Research Puddings About us Articles"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://rosettatype.com/Marlik",
+      "snippet": "ime. Social media Mastodon LinkedIn Type rocks! Copyright © Rosetta Type Foundry, s.r.o. and respective designers, 2011–2026. This website does not track you. Mains Fonts Services Research Puddings About us Articles Font"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://rosettatype.com/Marlik",
+      "snippet": "Mon, 02 Mar 2026 19:12:15 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://rosettatype.com/Marlik",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://rosettatype.com/Marlik",
+    "last_modified": "Mon, 02 Mar 2026 19:12:15 GMT"
+  }
+}

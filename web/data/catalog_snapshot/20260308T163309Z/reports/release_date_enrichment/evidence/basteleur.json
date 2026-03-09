@@ -1,0 +1,41 @@
+{
+  "record_id": "basteleur",
+  "source_url": "https://velvetyne.fr/fonts/basteleur/",
+  "checked_at": "2026-03-09T01:43:23.134812+00:00",
+  "candidates": [
+    {
+      "date": "2021-04-02",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://velvetyne.fr/fonts/basteleur/",
+      "snippet": "moonlight Collections Serif Writing systems Latin License SIL Open Font License, Version 1.1 Date Initialy published on April 2, 2021 and updated on June 15, 2022 Get the PDF specimen Ce contenu existe en Français This t"
+    },
+    {
+      "date": "2022-06-15",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://velvetyne.fr/fonts/basteleur/",
+      "snippet": "riting systems Latin License SIL Open Font License, Version 1.1 Date Initialy published on April 2, 2021 and updated on June 15, 2022 Get the PDF specimen Ce contenu existe en Français This typeface was designed with the"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://velvetyne.fr/fonts/basteleur/",
+      "snippet": "rseille in mind. \nThis led to a funny blend of medieval-ish and cooperblack-ish typeface.\nAn anniversary update of June 2022 adds a lighter and sharper weight to the original bold and soft one. The Basteleur Arcana repre"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://velvetyne.fr/fonts/basteleur/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://velvetyne.fr/fonts/basteleur/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "new-transport",
+  "source_url": "https://a2-type.co.uk/new-transport",
+  "checked_at": "2026-03-09T01:44:55.580966+00:00",
+  "candidates": [
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/new-transport",
+      "snippet": "is still in use today. A custom version of New Transport was designed for the UK Government Digital Service, gov.uk, in 2012, and is the official typeface of all UK government websites. New Transport Thin New Transport T"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/new-transport",
+      "snippet": "ian, Wolof, Xhosa, Zulu Manufacturer: A2-TYPE Designer: Margaret Calvert in close collaboration with Henrik Kubel Year: 2015 Copyright: © A2-TYPE Trademark: New Transport is a trademark of A2-TYPE Licence: Terms and cond"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://a2-type.co.uk/new-transport",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://a2-type.co.uk/new-transport",
+    "last_modified": null
+  }
+}

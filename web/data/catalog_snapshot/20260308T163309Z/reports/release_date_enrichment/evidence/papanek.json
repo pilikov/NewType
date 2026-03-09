@@ -1,0 +1,20 @@
+{
+  "record_id": "papanek",
+  "source_url": "https://hex.xyz/Papanek",
+  "checked_at": "2026-03-09T01:58:02.404153+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://hex.xyz/Papanek",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hex.xyz/Papanek/",
+    "last_modified": null
+  }
+}

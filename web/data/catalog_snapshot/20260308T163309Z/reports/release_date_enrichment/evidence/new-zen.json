@@ -1,0 +1,20 @@
+{
+  "record_id": "new-zen",
+  "source_url": "https://newlyn.com/fonts/new-zen",
+  "checked_at": "2026-03-09T01:58:08.596761+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://newlyn.com/fonts/new-zen",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://newlyn.com/fonts/new-zen",
+    "last_modified": null
+  }
+}

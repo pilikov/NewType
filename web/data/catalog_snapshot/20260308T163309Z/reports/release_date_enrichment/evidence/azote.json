@@ -1,0 +1,27 @@
+{
+  "record_id": "azote",
+  "source_url": "https://www.thomasjockin.com/",
+  "checked_at": "2026-03-09T02:01:27.178421+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.thomasjockin.com/",
+      "snippet": "Thu, 27 Dec 2018 19:26:30 GMT"
+    },
+    {
+      "date": "2026-02-15",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.thomasjockin.com/",
+      "snippet": "2026-02-15"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.thomasjockin.com/",
+    "last_modified": "Thu, 27 Dec 2018 19:26:30 GMT"
+  }
+}

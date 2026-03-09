@@ -1,0 +1,69 @@
+{
+  "record_id": "st-martin",
+  "source_url": "https://carljkurtz.de/pages/stmartin/index.html",
+  "checked_at": "2026-03-09T02:01:23.462536+00:00",
+  "candidates": [
+    {
+      "date": "2025-04-01",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://carljkurtz.de/pages/stmartin/index.html",
+      "snippet": "2025-04-01"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://carljkurtz.de/pages/stmartin/index.html",
+      "snippet": " Reconstruction of Stencilling Based on\n        Des Billettes , written by Eric Kindel for Typography Papers No.â¯9 in 2013. Variable spacing achieved by adjusting the placement of stencil components. Front and back of "
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://carljkurtz.de/pages/stmartin/index.html",
+      "snippet": "cation of Mirat-Massonâs 2022 typeface Amiamie, which itself is based on Sora Saganoâs\n        Aileron, designed in 2014 for TipoType. All of these fonts are licensed under the SIL Open Font License, Version\n        "
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://carljkurtz.de/pages/stmartin/index.html",
+      "snippet": "Garamond Text 9,5 | 15,5 pt Glyphs Table St. Martin Regular 29 | 37 pt St. Martin is a modification of Mirat-Massonâs 2022 typeface Amiamie, which itself is based on Sora Saganoâs\n        Aileron, designed in 2014 fo"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://carljkurtz.de/pages/stmartin/index.html",
+      "snippet": "e possible origins of the defining feature of\n      the design. Excerpt from a Rouchon poster retyped in St. Martin. In 2024, during a class by Prof. Pierre PanÃ©-FarrÃ© and Simon Thiefes at the HAW Hamburg, ten fellow t"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://carljkurtz.de/pages/stmartin/index.html",
+      "snippet": "â Carl J. Kurtz Carl J. Kurtz Visual Designer Sort Scatter Desk About Services Get in touch! mail@carljkurtz.de [Apr. 2025] 1 St. Martin, the Stencil Type that Wasnât St. Martin, the Stencil Type that Wasnât: An Ex"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://carljkurtz.de/pages/stmartin/index.html",
+      "snippet": "Sun, 08 Mar 2026 18:07:36 GMT"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://carljkurtz.de/pages/stmartin/index.html",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://carljkurtz.de/pages/stmartin/index.html",
+    "last_modified": "Sun, 08 Mar 2026 18:07:36 GMT"
+  }
+}

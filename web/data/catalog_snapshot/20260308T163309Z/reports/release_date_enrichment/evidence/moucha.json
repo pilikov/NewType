@@ -1,0 +1,41 @@
+{
+  "record_id": "moucha",
+  "source_url": "https://www.vibrant-types.com/typefaces/moucha",
+  "checked_at": "2026-03-09T01:57:30.314030+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.vibrant-types.com/moucha/",
+      "snippet": "tagram Behance Über uns Kontakt Lizenzvereinbarungen (EULAs) AGB Widerrufsbelehrung Datenschutzbestimmungen Impressum © 2023 Philip Lammert. All rights reserved."
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.vibrant-types.com/moucha/",
+      "snippet": "laden Über Moucha Moucha ist eine geometrische Superfamilie, die für ihre Variantenvielfalt mit dem German Design Award 2024 ausgezeichnet wurde. Finde eine Vintage- und eine moderne Variante und spiele mit all den Propo"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.vibrant-types.com/moucha/",
+      "snippet": "Mon, 09 Mar 2026 01:37:05 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.vibrant-types.com/typefaces/moucha",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.vibrant-types.com/moucha/",
+    "last_modified": "Mon, 09 Mar 2026 01:37:05 GMT"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "flama",
+  "source_url": "https://felicianotype.com/typefaces/flama",
+  "checked_at": "2026-03-09T01:57:05.212999+00:00",
+  "candidates": [
+    {
+      "date": "2004-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://felicianotype.com/typefaces/flama/",
+      "snippet": " Specimens Flama Collection pdf Flama Normal pdf Flama Semi-Condensed pdf Flama Condensed pdf Flama Ultra-Condensed pdf 2004 50 styles Flama  Complete Collection           — 50 styles, €1750,00 BUY Flama  Normal family  "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://felicianotype.com/typefaces/flama/",
+      "snippet": "ols Italic Uppercase / Lowercase Accented Characters Stylistic Alternates Numerals / Fractions Punctuaction / Symbols © 2026 Feliciano Type. All rights reserved. Acceptera Cockpit Correct Crisol Eudald Flama Garda Grosa "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://felicianotype.com/typefaces/flama/",
+      "snippet": "Mon, 09 Mar 2026 00:00:14 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://felicianotype.com/typefaces/flama",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://felicianotype.com/typefaces/flama/",
+    "last_modified": "Mon, 09 Mar 2026 00:00:14 GMT"
+  }
+}

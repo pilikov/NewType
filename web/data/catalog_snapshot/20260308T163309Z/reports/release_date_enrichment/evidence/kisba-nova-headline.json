@@ -1,0 +1,27 @@
+{
+  "record_id": "kisba-nova-headline",
+  "source_url": "https://www.identity-letters.com/typefaces/kisba-nova-headline",
+  "checked_at": "2026-03-09T01:51:20.133988+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.identity-letters.com/font-catalog/kisba-nova-headline",
+      "snippet": "ance Information About Licenses EULA FAQ / Support Students Legal Imprint Privacy Policy Terms & Conditions Copyright © 2026 , All Rights reserved We use cookies to measure website usage and to provide you with a better "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.identity-letters.com/typefaces/kisba-nova-headline",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.identity-letters.com/font-catalog/kisba-nova-headline",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "record_id": "fsd-emoji",
+  "source_url": "https://fsd.it/typefaces/fsd-emoji",
+  "checked_at": "2026-03-09T01:58:05.677078+00:00",
+  "candidates": [
+    {
+      "date": "2017-05-19",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://fsd.it/shop/fonts/fsd-emoji/",
+      "snippet": "2017-05-19T11:24:32+00:00"
+    },
+    {
+      "date": "2025-08-11",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://fsd.it/shop/fonts/fsd-emoji/",
+      "snippet": "2025-08-11T05:04:00+00:00"
+    },
+    {
+      "date": "2025-08-11",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://fsd.it/shop/fonts/fsd-emoji/",
+      "snippet": "2025-08-11T05:04:00+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fsd.it/shop/fonts/fsd-emoji/",
+      "snippet": "39 Contact Terms and Conditions Privacy and Cookies Shipping policy Refund policy How to protecting the webfont files © 2026 Fabrizio Schiavi. All rights reserved We use cookies on our website to give you the most releva"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://fsd.it/shop/fonts/fsd-emoji/",
+      "snippet": "Sun, 08 Mar 2026 23:13:54 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fsd.it/typefaces/fsd-emoji",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fsd.it/shop/fonts/fsd-emoji/",
+    "last_modified": "Sun, 08 Mar 2026 23:13:54 GMT"
+  }
+}

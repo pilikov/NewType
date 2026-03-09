@@ -1,0 +1,27 @@
+{
+  "record_id": "skeleton-suva",
+  "source_url": "https://www.suvatypefoundry.ee/skeleton/",
+  "checked_at": "2026-03-09T01:56:51.417216+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/skeleton/",
+      "snippet": "PREVIOUS FONT SKELETON NEXT FONT H C O Q Z Y J S E I N T B R M G V D P U F X A DOWNLOAD L K W SKELETON by Kristi Jaago (2020) The Skeleton font is inspired by the font Baskerville centerline. Supervised by Aimur Takk DOW"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/skeleton/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/skeleton/",
+    "last_modified": null
+  }
+}

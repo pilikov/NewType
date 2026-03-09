@@ -1,0 +1,34 @@
+{
+  "record_id": "pilot-vj-type",
+  "source_url": "https://vj-type.com/19-pilot",
+  "checked_at": "2026-03-09T01:47:17.603631+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://vj-type.com/19-pilot",
+      "snippet": "ts Black, Bold, Medium, Regular & Light Black Italic, Bold Italic, Medium Italic, Regular Italic & Light Italic Release 2025 Designer Jérémy Schneider Version 1.0 Specimen PDF License PDF Pilot might just be a font for d"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://vj-type.com/19-pilot",
+      "snippet": "efunds Delivery Infos About Prints Contact Font Licences Font Radar Privacy Legals Terms of Use Terms of Sales To top © 2026 VJ TYPE, all rights reserved Site by Troa"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://vj-type.com/19-pilot",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://vj-type.com/19-pilot",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "raoul",
+  "source_url": "https://ainsifont.com/font/raoul",
+  "checked_at": "2026-03-09T01:53:30.788814+00:00",
+  "candidates": [
+    {
+      "date": "2005-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/font/raoul",
+      "snippet": "aced0123 -4567890-)-°AB -CDE+abcdefgh ADD TO CART 90 € OTF Font pack 4 weights Monospaced 4 weights iN HommacH Af Raoul 2005 Designers. Xavier Meurice et Sébastien Delobel Classification. Monospaced modulaire. Langage. L"
+    },
+    {
+      "date": "2007-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/font/raoul",
+      "snippet": "5 Designers. Xavier Meurice et Sébastien Delobel Classification. Monospaced modulaire. Langage. Latin Standard Édition. 2007 Illustrations et photographies. © Atelier télescopique. Info. Famille de caractères dessinée sp"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ainsifont.com/font/raoul",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.ainsifont.com/font/raoul",
+    "last_modified": null
+  }
+}

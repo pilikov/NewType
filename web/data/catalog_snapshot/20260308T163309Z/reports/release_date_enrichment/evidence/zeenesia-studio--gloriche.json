@@ -1,0 +1,48 @@
+{
+  "record_id": "zeenesia-studio--gloriche",
+  "source_url": "https://zeenesia.com/product/gloriche/",
+  "checked_at": "2026-03-09T01:36:27.213921+00:00",
+  "candidates": [
+    {
+      "date": "2024-09-26",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://zeenesia.com/product/gloriche/",
+      "snippet": "2024-09-26T12:32:14+00:00"
+    },
+    {
+      "date": "2026-02-23",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://zeenesia.com/product/gloriche/",
+      "snippet": "2026-02-23T14:41:00+00:00"
+    },
+    {
+      "date": "2026-02-23",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://zeenesia.com/product/gloriche/",
+      "snippet": "2026-02-23T14:41:00+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://zeenesia.com/product/gloriche/",
+      "snippet": "Gloriche quantity Add to cart Related products $ 16 Night Michy $ 16 Caorgen $ 16 Nebulen $ 17 Bright Melody Copyright ©2025 Zeenesia Studio All Right Reserved Menu Home Shop Serif Fonts Sans Serif Fonts Script Fonts Dis"
+    },
+    {
+      "date": "2026-02-26",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://zeenesia.com/product/gloriche/",
+      "snippet": "2026-02-26"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://zeenesia.com/product/gloriche/",
+    "last_modified": null
+  }
+}

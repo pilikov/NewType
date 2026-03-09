@@ -1,0 +1,41 @@
+{
+  "record_id": "shriftovik-type-foundry-sk-clumster-sans",
+  "source_url": "https://shriftovik.com/sk_clumster_sans",
+  "checked_at": "2026-03-09T01:36:19.223150+00:00",
+  "candidates": [
+    {
+      "date": "2023-07-10",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://shriftovik.com/sk_clumster_sans",
+      "snippet": " Taita, Teso, Turkish, Upper Sorbian, Uzbek (Latin), Volapük, Vunjo, Walser, Welsh, Western Frisian, Zulu. RELEASE DATE July 10, 2023 AUTHOR Denis Sitdikov MORE EULA Specimen Presentation Free Trial Basic latin basic cyr"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://shriftovik.com/sk_clumster_sans",
+      "snippet": "ocessing of personal data and agree to privacy policy . shriftovik xyz@shriftovik.com about catalog portfolio license © 2025 telegram vk youtube behance instagram contacts faq policy cookie? cookie! Оплатить Your name E-"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://shriftovik.com/sk_clumster_sans",
+      "snippet": "Thu, 24 Apr 2025 16:54:06 GMT"
+    },
+    {
+      "date": "2026-02-27",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://shriftovik.com/sk_clumster_sans",
+      "snippet": "2026-02-27"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://shriftovik.com/sk_clumster_sans",
+    "last_modified": "Thu, 24 Apr 2025 16:54:06 GMT"
+  }
+}

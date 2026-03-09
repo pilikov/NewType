@@ -1,0 +1,34 @@
+{
+  "record_id": "filmotype-vanity",
+  "source_url": "https://www.marksimonson.com/fonts/view/filmotype-vanity",
+  "checked_at": "2026-03-09T01:51:48.244969+00:00",
+  "candidates": [
+    {
+      "date": "2008-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.marksimonson.com/fonts/view/filmotype-vanity/",
+      "snippet": "Filmotype Vanity - Mark Simonson Fonts Notebook Services About Cart Filmotype Vanity Filmotype Vanity (2008, for Filmotype) was originally\n            designed and released in the 1950s. It is the outline/shadow companio"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.marksimonson.com/fonts/view/filmotype-vanity/",
+      "snippet": "turn Policy Connect Contact Me Email Newsletter Instagram X (Twitter) Mastodon Notebook RSS Feed Mark Simonson Studio © 2026 The Type Founders, LLC"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.marksimonson.com/fonts/view/filmotype-vanity",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.marksimonson.com/fonts/view/filmotype-vanity/",
+    "last_modified": null
+  }
+}

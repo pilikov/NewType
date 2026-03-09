@@ -1,0 +1,48 @@
+{
+  "record_id": "merlo-original",
+  "source_url": "https://felicianotype.com/typefaces/merlo/",
+  "checked_at": "2026-03-09T01:49:33.745137+00:00",
+  "candidates": [
+    {
+      "date": "1998-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://felicianotype.com/typefaces/merlo/",
+      "snippet": "Spanish revival is only partially accurate. As Matthew Carter once remarked when reviewing my first version of Merlo in 1998: “This looks too French to be Spanish.” Trial fonts Specimens 2025 8 styles Merlo Original  Fam"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://felicianotype.com/typefaces/merlo/",
+      "snippet": "remarked when reviewing my first version of Merlo in 1998: “This looks too French to be Spanish.” Trial fonts Specimens 2025 8 styles Merlo Original  Family           — 8 styles, €250,00 BUY Merlo Original Regular, €50,0"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://felicianotype.com/typefaces/merlo/",
+      "snippet": "tyle Figures Numerators Denominators Fractions Ordinals Stylistic Alternates Inferiors Superiors Numerals / Fractions © 2026 Feliciano Type. All rights reserved. Acceptera Cockpit Correct Crisol Eudald Flama Garda Grosa "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://felicianotype.com/typefaces/merlo/",
+      "snippet": "Mon, 09 Mar 2026 01:03:21 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://felicianotype.com/typefaces/merlo/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://felicianotype.com/typefaces/merlo/",
+    "last_modified": "Mon, 09 Mar 2026 01:03:21 GMT"
+  }
+}

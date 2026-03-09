@@ -1,0 +1,62 @@
+{
+  "record_id": "sticky",
+  "source_url": "https://ecal-typefaces.ch/typefaces/sticky",
+  "checked_at": "2026-03-09T01:54:17.456938+00:00",
+  "candidates": [
+    {
+      "date": "2021-03-16",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://ecal-typefaces.ch/",
+      "snippet": "2021-03-16T15:27:21+00:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://ecal-typefaces.ch/",
+      "snippet": "2026-03-05T13:54:00+00:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://ecal-typefaces.ch/",
+      "snippet": "2026-03-05T13:54:00+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ecal-typefaces.ch/",
+      "snippet": "edium Regular Light Alternate G Alternate a Alternate y updated Loading... A quantum physicist’s views on type Nell May 2025 Stories A quantum physicist’s views on type Nell May Stories Loading... Mule Samira Schneuwly A"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ecal-typefaces.ch/",
+      "snippet": "to use in their school projects. Read more in our EULA if you're unsure which license you need. ©Students, ECAL\n        2026.\n        All rights reserved. This site uses cookies to provide you an optimal browsing experie"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://ecal-typefaces.ch/",
+      "snippet": "Sun, 08 Mar 2026 15:41:32 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ecal-typefaces.ch/typefaces/sticky",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ecal-typefaces.ch/",
+    "last_modified": "Sun, 08 Mar 2026 15:41:32 GMT"
+  }
+}

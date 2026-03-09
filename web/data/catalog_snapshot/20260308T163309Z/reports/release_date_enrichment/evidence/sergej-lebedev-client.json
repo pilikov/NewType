@@ -1,0 +1,48 @@
+{
+  "record_id": "sergej-lebedev-client",
+  "source_url": "https://typedesigner.de/client/",
+  "checked_at": "2026-03-09T02:00:48.026701+00:00",
+  "candidates": [
+    {
+      "date": "2017-04-27",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typedesigner.de/client/",
+      "snippet": "2017-04-27T07:32:03+00:00"
+    },
+    {
+      "date": "2026-03-08",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typedesigner.de/client/",
+      "snippet": "2026-03-08T10:32:49+00:00"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typedesigner.de/client/",
+      "snippet": "Gothic Support & Info Licensing FAQ EULA Terms (EN) Privacy Policy (EN) AGB (DE) Datenschutz (DE) Impressum Copyright © 2014–2026 Sergej Lebedev · Typedesigner.de · All rights reserved. Cookie-Zustimmung verwalten Wir ve"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typedesigner.de/client/",
+      "snippet": "c Support & Info Licensing FAQ EULA Terms (EN) Privacy Policy (EN) AGB (DE) Datenschutz (DE) Impressum Copyright © 2014–2026 Sergej Lebedev · Typedesigner.de · All rights reserved. Cookie-Zustimmung verwalten Wir verwend"
+    },
+    {
+      "date": "2026-02-24",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typedesigner.de/client/",
+      "snippet": "2026-02-24"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typedesigner.de/client/",
+    "last_modified": null
+  }
+}

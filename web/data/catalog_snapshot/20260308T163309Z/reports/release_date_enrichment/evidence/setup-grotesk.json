@@ -1,0 +1,55 @@
+{
+  "record_id": "setup-grotesk",
+  "source_url": "https://www.setuptype.com/fonts/setup-grotesk",
+  "checked_at": "2026-03-09T02:01:23.337457+00:00",
+  "candidates": [
+    {
+      "date": "1992-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.setuptype.com/fonts/setup-grotesk",
+      "snippet": " Light  31 px An exoplanet planet is a planet outside the Solar System. The first confirmation of detection occurred in 1992. As of 1 October 2022, there are 5,197 confirmed exoplanets in 3,833 planetary systems, with 84"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.setuptype.com/fonts/setup-grotesk",
+      "snippet": "planeta es un planeta fuera del Sistema Solar. La primera confirmación de detección ocurrió en 1992. Al 1 de octubre de 2022, hay 5197 exoplanetas confirmados en 3833 sistemas planetarios, con 840 sistemas que tienen más"
+    },
+    {
+      "date": "2022-10-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.setuptype.com/fonts/setup-grotesk",
+      "snippet": "x An exoplanet planet is a planet outside the Solar System. The first confirmation of detection occurred in 1992. As of 1 October 2022, there are 5,197 confirmed exoplanets in 3,833 planetary systems, with 840 systems ha"
+    },
+    {
+      "date": "2025-05-15",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.setuptype.com/fonts/setup-grotesk",
+      "snippet": " 59 KB (Average size per style) Version: 0.9 Copyright: Setup Grotesk, Ondrej Jób © 2026. All rights reserved. Updated: May 15 2025 Buy v0.9 Try Change Color Scheme Specimen Styles Glyphs Info Setup Type Fonts, Branding,"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.setuptype.com/fonts/setup-grotesk",
+      "snippet": "e Sensitive Forms, Ordinals Webfont: 59 KB (Average size per style) Version: 0.9 Copyright: Setup Grotesk, Ondrej Jób © 2026. All rights reserved. Updated: May 15 2025 Buy v0.9 Try Change Color Scheme Specimen Styles Gly"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.setuptype.com/fonts/setup-grotesk",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.setuptype.com/fonts/setup-grotesk",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "record_id": "kassi",
+  "source_url": "https://almarenafoundry.com/kassi",
+  "checked_at": "2026-03-09T01:44:33.756301+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://almarenafoundry.com/kassi",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='almarenafoundry.com', port=443): Max retries exceeded with url: /kassi (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)')))"
+  }
+}

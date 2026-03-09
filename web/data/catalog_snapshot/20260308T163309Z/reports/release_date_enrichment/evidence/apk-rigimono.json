@@ -1,0 +1,41 @@
+{
+  "record_id": "apk-rigimono",
+  "source_url": "https://apk-type.com/typefaces/apk-rigimono",
+  "checked_at": "2026-03-09T01:54:16.160270+00:00",
+  "candidates": [
+    {
+      "date": "2023-02-21",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://apk-type.com/family/apk-rigimono/",
+      "snippet": "2023-02-21T11:35:30+00:00"
+    },
+    {
+      "date": "2024-01-03",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://apk-type.com/family/apk-rigimono/",
+      "snippet": "2024-01-03T09:46:46+00:00"
+    },
+    {
+      "date": "2024-01-03",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://apk-type.com/family/apk-rigimono/",
+      "snippet": "2024-01-03T09:46:46+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://apk-type.com/typefaces/apk-rigimono",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://apk-type.com/family/apk-rigimono/",
+    "last_modified": null
+  }
+}

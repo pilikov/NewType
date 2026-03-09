@@ -1,0 +1,41 @@
+{
+  "record_id": "nord-vj",
+  "source_url": "https://vj-type.com/11-nord",
+  "checked_at": "2026-03-09T01:57:37.518727+00:00",
+  "candidates": [
+    {
+      "date": "2015-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://vj-type.com/11-nord",
+      "snippet": "563C verso medea Display —\n                                                                    1 weight Regular Release 2015 Designer Jérémy Schneider Version 1.0 Specimen PDF Nord, originally designed for the 2015-2016 "
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://vj-type.com/11-nord",
+      "snippet": "1 weight Regular Release 2015 Designer Jérémy Schneider Version 1.0 Specimen PDF Nord, originally designed for the 2015-2016 identity of the « Théâtre des Bouffes du Nord » in Paris, is a bold font punctuated by the irre"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://vj-type.com/11-nord",
+      "snippet": "efunds Delivery Infos About Prints Contact Font Licences Font Radar Privacy Legals Terms of Use Terms of Sales To top © 2026 VJ TYPE, all rights reserved Site by Troa"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://vj-type.com/11-nord",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://vj-type.com/11-nord",
+    "last_modified": null
+  }
+}

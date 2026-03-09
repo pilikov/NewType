@@ -1,0 +1,27 @@
+{
+  "record_id": "lost-type-co-op--escafina",
+  "source_url": "http://escafina.losttype.com/",
+  "checked_at": "2026-03-08T16:58:45.660746+00:00",
+  "candidates": [
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://escafina.losttype.com/",
+      "snippet": "erdrive Petition Quartets Reflects Symphony Theremin Unified Volcano Western Xylephone Yodeling Zephyr In the summer of 2014, I started compiling samples of ‘upright script’ lettering. I had been doing a lot of research "
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://escafina.losttype.com/",
+      "snippet": "2026-03-05"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "http://escafina.losttype.com/",
+    "last_modified": null
+  }
+}

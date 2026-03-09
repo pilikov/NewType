@@ -1,0 +1,41 @@
+{
+  "record_id": "sincopa",
+  "source_url": "https://fercozzi.com/typefaces/sincopa",
+  "checked_at": "2026-03-09T01:58:15.384266+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fercozzi.com/typefaces/sincopa",
+      "snippet": "bold voices and distinctive personalities through highly contrasting strokes and eclectic letterforms. Released January 2018 Recognitions Sello Buen Diseño 2018 7ª Bienal de Tipografía Latinoamericana, Tipos Latinos Pang"
+    },
+    {
+      "date": "2025-01-06",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://fercozzi.com/typefaces/sincopa",
+      "snippet": "2025-01-06"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fercozzi.com/typefaces/sincopa",
+      "snippet": "00 Síncopa Billie USD 40.00 Síncopa Ella USD 40.00 Síncopa Nina USD 40.00 TOTAL USD 0.00 Proceed to checkout © FerCozzi 2026 IG hola@fercozzi.com This site uses cookies to make your experience smoother and more enjoyable"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fercozzi.com/typefaces/sincopa",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fercozzi.com/typefaces/sincopa",
+    "last_modified": null
+  }
+}

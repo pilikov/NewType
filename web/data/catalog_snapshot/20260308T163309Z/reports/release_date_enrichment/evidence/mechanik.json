@@ -1,0 +1,20 @@
+{
+  "record_id": "mechanik",
+  "source_url": "https://lapagelepage.gumroad.com/l/mechanik",
+  "checked_at": "2026-03-09T01:49:25.419303+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://lapagelepage.gumroad.com/l/mechanik",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://lapagelepage.gumroad.com/l/mechanik",
+    "last_modified": null
+  }
+}

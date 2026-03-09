@@ -1,0 +1,19 @@
+{
+  "record_id": "lombard",
+  "source_url": "https://kroje.org/en/fonts/lombard/",
+  "checked_at": "2026-03-09T01:59:17.126120+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://kroje.org/en/fonts/lombard/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='kroje.org', port=443): Read timed out. (read timeout=12)"
+  }
+}

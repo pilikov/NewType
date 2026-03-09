@@ -1,0 +1,27 @@
+{
+  "record_id": "motto",
+  "source_url": "https://www.facetype.org/fonts/motto",
+  "checked_at": "2026-03-09T01:51:58.073624+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.facetype.org/fonts/motto",
+      "snippet": "nctuation – — ‘ ’ ‚ “ ” „ † ‡ • … ‹ › ⁄ Currency Symbols € Letterlike Symbols ™ Licensing Information Contact Imprint © 2026 FaceType. All rights reserved."
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.facetype.org/fonts/motto",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.facetype.org/fonts/motto",
+    "last_modified": null
+  }
+}

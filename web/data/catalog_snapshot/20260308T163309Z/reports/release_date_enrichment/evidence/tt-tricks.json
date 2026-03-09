@@ -1,0 +1,111 @@
+{
+  "record_id": "tt-tricks",
+  "source_url": "https://typetype.org/typefaces/tt-tricks",
+  "checked_at": "2026-03-09T02:03:37.576706+00:00",
+  "candidates": [
+    {
+      "date": "2021-05-03",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typetype.org/fonts/tt-tricks/",
+      "snippet": "2021-05-03T18:51:33+00:00"
+    },
+    {
+      "date": "2021-05-03",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://typetype.org/fonts/tt-tricks/",
+      "snippet": "2021-05-03T18:51:33+00:00"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-tricks/",
+      "snippet": "atives Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! Font Update: What’s New in the Latest Version Version"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-tricks/",
+      "snippet": "|  Serbian localization ss11 |  Negative Circled Figures Variable axes The first version of TT Tricks was introduced in 2018. For 6 years, we have been exploring the use cases of this typeface, and in 2023, we began cons"
+    },
+    {
+      "date": "2018-04-03",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-tricks/",
+      "snippet": "ort. TT Tricks is a businesswoman of the serif world: determined, modern, and elegant! Release and update date Release: April 3, 2018 Last update: June 11, 2024 What's changed in the font: Significantly expanded characte"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-tricks/",
+      "snippet": "version of TT Tricks was introduced in 2018. For 6 years, we have been exploring the use cases of this typeface, and in 2023, we began considering improvements to our serif. As a result, we opted out of the stencil versi"
+    },
+    {
+      "date": "2024-06-11",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-tricks/",
+      "snippet": "ext serif with calm elegance and professional demeanor. It offers moderate formality for business contexts. Update from June 11, 2024 — What’s New? Single style: from $ 47.99 Full family: from $ 329 20 styles Buy font Te"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-tricks/",
+      "snippet": "s Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! Font Update: What’s New in the Latest Version Version from"
+    },
+    {
+      "date": "2026-02-06",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typetype.org/fonts/tt-tricks/",
+      "snippet": "2026-02-06T21:00:14+00:00"
+    },
+    {
+      "date": "2026-02-06",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://typetype.org/fonts/tt-tricks/",
+      "snippet": "2026-02-06T21:00:14+00:00"
+    },
+    {
+      "date": "1998-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-tricks/",
+      "snippet": "alan Ldot ss08 | Chuvash localization ss09 |  Serbian localization ss11 |  Negative Circled Figures Variable axes Tasty 1998 TT Tricks in design TT Tricks Aberlour TT Tricks is part of Aberlour identity. Aberlour is an I"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-tricks/",
+      "snippet": "sta Uso is a Brazilian print publication of independent literature and art featuring works by writers and artists. From 2019 to the present day, the magazine has been sold twice a year. TT Tricks GROW. Der Baum in der Ku"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://typetype.org/fonts/tt-tricks/",
+      "snippet": "Fri, 06 Mar 2026 22:54:56 GMT"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typetype.org/typefaces/tt-tricks",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typetype.org/fonts/tt-tricks/",
+    "last_modified": "Fri, 06 Mar 2026 22:54:56 GMT"
+  }
+}

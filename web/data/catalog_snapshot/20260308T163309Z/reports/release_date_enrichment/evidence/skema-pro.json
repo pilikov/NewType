@@ -1,0 +1,27 @@
+{
+  "record_id": "skema-pro",
+  "source_url": "https://minttype.com/superfamilies/skema-pro",
+  "checked_at": "2026-03-09T01:56:52.035839+00:00",
+  "candidates": [
+    {
+      "date": "2017-11-23",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://minttype.com/superfamilies/skema-pro",
+      "snippet": " shows its features in large text sizes, such as editorial headings. Designed by Andriy Konstantynov First published on Nov 23, 2017 6 typefaces €404.10 Add to Cart Buying options Font names Pangrams: Basic Latin Pangram"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://minttype.com/superfamilies/skema-pro",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://minttype.com/superfamilies/skema-pro",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "urby-soft",
+  "source_url": "https://typemates.com/fonts/urby-soft",
+  "checked_at": "2026-03-09T01:44:54.676701+00:00",
+  "candidates": [
+    {
+      "date": "2016-09-21",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typemates.com/fonts/urby-soft",
+      "snippet": "2016-09-21T17:02:00+02:00"
+    },
+    {
+      "date": "2016-09-21",
+      "score": 0.95,
+      "source_type": "jsonld:dateCreated",
+      "source_url": "https://www.typemates.com/fonts/urby-soft",
+      "snippet": "2016-09-21T17:02:53+02:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typemates.com/fonts/urby-soft",
+      "snippet": "2026-03-05T12:11:19+01:00"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/urby-soft",
+      "snippet": " and provides helpful dingbats and geometric shapes. Urby Soft is ready to rumble — are you? Designed by Jakob Runge in 2016 Specs Providing 5 weights with more than 620 glyphs per font Formats otf and ttf for desktop an"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typemates.com/fonts/urby-soft",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typemates.com/fonts/urby-soft",
+    "last_modified": null
+  }
+}

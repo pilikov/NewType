@@ -1,0 +1,20 @@
+{
+  "record_id": "fleisch",
+  "source_url": "https://delvefonts.com/fonts/fleisch",
+  "checked_at": "2026-03-09T01:45:48.873355+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://delvefonts.com/fonts/fleisch",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://delvefonts.com/fonts/fleisch/",
+    "last_modified": null
+  }
+}

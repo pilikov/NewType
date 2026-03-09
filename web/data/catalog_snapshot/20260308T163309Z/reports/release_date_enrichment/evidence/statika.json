@@ -1,0 +1,19 @@
+{
+  "record_id": "statika",
+  "source_url": "https://brownfox.org/fonts/statika",
+  "checked_at": "2026-03-09T01:57:05.489514+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://brownfox.org/fonts/statika",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "403 Client Error: Forbidden for url: https://brownfox.org/fonts/statika"
+  }
+}

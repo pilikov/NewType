@@ -1,0 +1,19 @@
+{
+  "record_id": "bakerie-adam-ladd",
+  "source_url": "https://ladd-design.com/fonts/bakerie-adam-ladd",
+  "checked_at": "2026-03-09T02:02:30.257223+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ladd-design.com/fonts/bakerie-adam-ladd",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "404 Client Error: Not Found for url: https://ladd-design.com/fonts/bakerie-adam-ladd"
+  }
+}

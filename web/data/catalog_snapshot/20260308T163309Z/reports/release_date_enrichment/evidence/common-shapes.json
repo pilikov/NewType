@@ -1,0 +1,34 @@
+{
+  "record_id": "common-shapes",
+  "source_url": "https://processtypefoundry.com/fonts/common-shapes",
+  "checked_at": "2026-03-09T01:45:57.998940+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://processtypefoundry.com/fonts/common-shapes/",
+      "snippet": "is included allowing users to further simplify alphabetic and punctuation forms. Details Designer: Eric Olson Released: 2025 Fonts: 6 weights              , 12 styles Formats: OpenType, WOFF2, WOFF, EOT Specimen PDF View"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://processtypefoundry.com/fonts/common-shapes/",
+      "snippet": "cent Grotesk Recipient Scandia Scandia Line Sculpin Seravek Stratum 1 & 2 Stratum 1 & 2 Condensed Join our email list © 2026 Process Type Foundry, LLC. All rights reserved. Privacy & Cookie Policies Licenses Desktop Webf"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://processtypefoundry.com/fonts/common-shapes",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://processtypefoundry.com/fonts/common-shapes/",
+    "last_modified": null
+  }
+}

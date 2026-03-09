@@ -1,0 +1,34 @@
+{
+  "record_id": "ginto",
+  "source_url": "https://abcdinamo.com/typefaces/ginto",
+  "checked_at": "2026-03-09T01:37:32.451923+00:00",
+  "candidates": [
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://abcdinamo.com/typefaces/ginto",
+      "snippet": "ng ... Video is loading ... Video is loading ... A Better Feeling. Design by Xander Ghost, A Better Feeling Buy Ginto © 2013–2026 Dinamo Typefaces. All rights reserved FAQ Contact Licensing Terms Hardware Terms Privacy &"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://abcdinamo.com/typefaces/ginto",
+      "snippet": ". Video is loading ... Video is loading ... A Better Feeling. Design by Xander Ghost, A Better Feeling Buy Ginto © 2013–2026 Dinamo Typefaces. All rights reserved FAQ Contact Licensing Terms Hardware Terms Privacy & Cook"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://abcdinamo.com/typefaces/ginto",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://abcdinamo.com/typefaces/ginto",
+    "last_modified": null
+  }
+}

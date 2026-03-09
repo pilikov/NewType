@@ -1,0 +1,27 @@
+{
+  "record_id": "honesta",
+  "source_url": "https://typesenses.com/family/honesta/",
+  "checked_at": "2026-03-09T02:03:48.461143+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typesenses.com/family/honesta/",
+      "snippet": "t in Touch <  back to Fonts ↑ Back to Top Licensing | Services | Terms of Service | Privacy & Cookies | TTF Foundries © 2026 The Type Founders LLC"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typesenses.com/family/honesta/",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typesenses.com/family/honesta/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "chrysalis",
+  "source_url": "https://www.publictype.us/fonts/chrysalis",
+  "checked_at": "2026-03-09T01:58:09.287379+00:00",
+  "candidates": [
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.publictype.us/fonts/chrysalis",
+      "snippet": " a structured set of rules, pushing the boundaries of form while maintaining clarity and usability. Originally drawn in 2015, its concept was inspired by Greek-styled lettering, though its exact historical origins remain"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.publictype.us/fonts/chrysalis",
+      "snippet": "ng-term brand thinking. Typefaces Contact Font licenses Privacy policy Test fonts Join the Public. Add your email here. 2026 © Public Type"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.publictype.us/fonts/chrysalis",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.publictype.us/fonts/chrysalis",
+    "last_modified": null
+  }
+}

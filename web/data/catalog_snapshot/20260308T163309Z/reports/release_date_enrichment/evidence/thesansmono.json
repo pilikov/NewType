@@ -1,0 +1,20 @@
+{
+  "record_id": "thesansmono",
+  "source_url": "https://www.lucasfonts.com/typefaces/thesansmono",
+  "checked_at": "2026-03-09T02:04:13.717513+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.lucasfonts.com/typefaces/thesansmono",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.lucasfonts.com/typefaces/thesansmono",
+    "last_modified": null
+  }
+}

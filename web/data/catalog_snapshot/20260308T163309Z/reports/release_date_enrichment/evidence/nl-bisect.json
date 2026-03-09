@@ -1,0 +1,27 @@
+{
+  "record_id": "nl-bisect",
+  "source_url": "https://muirmcneil.com/typeface/nl-bisect",
+  "checked_at": "2026-03-09T01:54:30.056585+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://muirmcneil.com/new-typeface-release-bisect/",
+      "snippet": "New typeface release – Bisect «  MuirMcNeil New typeface release – Bisect July 20th, 2018 Bisect is a monospaced geometric type system produced by MuirMcNeil in collaboration with Natasha Lucas who began worki"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://muirmcneil.com/typeface/nl-bisect",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://muirmcneil.com/new-typeface-release-bisect/",
+    "last_modified": null
+  }
+}

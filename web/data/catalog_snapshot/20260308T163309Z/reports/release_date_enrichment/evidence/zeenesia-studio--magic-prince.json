@@ -1,0 +1,48 @@
+{
+  "record_id": "zeenesia-studio--magic-prince",
+  "source_url": "https://zeenesia.com/product/magic-prince/",
+  "checked_at": "2026-03-09T01:36:23.032434+00:00",
+  "candidates": [
+    {
+      "date": "2023-07-30",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://zeenesia.com/product/magic-prince/",
+      "snippet": "2023-07-30T05:24:18+00:00"
+    },
+    {
+      "date": "2023-11-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://zeenesia.com/product/magic-prince/",
+      "snippet": "2023-11-05T03:00:22+00:00"
+    },
+    {
+      "date": "2023-11-05",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://zeenesia.com/product/magic-prince/",
+      "snippet": "2023-11-05T03:00:22+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://zeenesia.com/product/magic-prince/",
+      "snippet": "ar Magic Prince quantity Add to cart Related products $ 16 Qitella $ 17 Kaobe $ 17 Broman $ 17 Bright Melody Copyright ©2025 Zeenesia Studio All Right Reserved Menu Home Shop Serif Fonts Sans Serif Fonts Script Fonts Dis"
+    },
+    {
+      "date": "2026-02-26",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://zeenesia.com/product/magic-prince/",
+      "snippet": "2026-02-26"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://zeenesia.com/product/magic-prince/",
+    "last_modified": null
+  }
+}

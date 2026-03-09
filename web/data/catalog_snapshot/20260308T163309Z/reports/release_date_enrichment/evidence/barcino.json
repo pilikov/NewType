@@ -1,0 +1,41 @@
+{
+  "record_id": "barcino",
+  "source_url": "https://typerepublic.com/fonts/barcino",
+  "checked_at": "2026-03-09T02:02:36.650304+00:00",
+  "candidates": [
+    {
+      "date": "1992-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typerepublic.com/fonts/barcino/",
+      "snippet": "tural revival following the end of Franco’s dictatorship. A pivotal moment in the city’s modern history was hosting the 1992 Olympic Games, which transformed Barcelona and cemented its status as a global destination.\r\nTo"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typerepublic.com/fonts/barcino/",
+      "snippet": " editorial, Barcino combina la força de les formes geomètriques amb la modernitat atemporal. Designed by Andreu Balius, 2024 Free trial versions Curious to try our fonts before committing? We are offering free trial vers"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typerepublic.com/fonts/barcino/",
+      "snippet": "ustom In Use Blog Shop About HELP Support Commercial Policy Licensing EULA FAQs Privacy Policy Terms of use Copyright © 2026 Typerepublic. All Rights Reserved. Made with ♥ by Ashler Design"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typerepublic.com/fonts/barcino",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typerepublic.com/fonts/barcino/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "acceptera",
+  "source_url": "https://felicianotype.com/typefaces/acceptera",
+  "checked_at": "2026-03-09T01:51:51.170739+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://felicianotype.com/typefaces/acceptera/",
+      "snippet": " clean, practical forms. Available in seven weights with matching italics. Trial fonts Specimens Acceptera Specimen pdf 2024 14 styles Acceptera  family           — 14 styles, €400,00 BUY Acceptera Light, €50,00 BUY A pr"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://felicianotype.com/typefaces/acceptera/",
+      "snippet": "a Black, €50,00 BUY Apartment buildings Acceptera Black Italic, €50,00 BUY The functionalist style Open Type features © 2026 Feliciano Type. All rights reserved. Acceptera Cockpit Correct Crisol Eudald Flama Garda Grosa "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://felicianotype.com/typefaces/acceptera/",
+      "snippet": "Mon, 09 Mar 2026 01:36:24 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://felicianotype.com/typefaces/acceptera",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://felicianotype.com/typefaces/acceptera/",
+    "last_modified": "Mon, 09 Mar 2026 01:36:24 GMT"
+  }
+}

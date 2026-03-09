@@ -1,0 +1,27 @@
+{
+  "record_id": "205tf--zenith",
+  "source_url": "https://www.205.tf/zenith",
+  "checked_at": "2026-03-09T01:36:45.823404+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/zenith",
+      "snippet": "be to our newsletter: ▶︎ Follow Us Facebook Instagram LinkedIn Bluesky Typeface Zénith Designer Matthieu Cortat Release 2020 Specimen Zénith is a typeface intended for editorial design. Thanks to the possibilities offere"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.205.tf/zenith",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.205.tf/zenith",
+    "last_modified": null
+  }
+}

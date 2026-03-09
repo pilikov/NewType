@@ -1,0 +1,41 @@
+{
+  "record_id": "gregor",
+  "source_url": "https://www.sumotype.com/collections/gregor",
+  "checked_at": "2026-03-09T01:51:46.632194+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.sumotype.com/collections/gregor",
+      "snippet": "Projects About Licence Licence Behance Twitter Instagram Gregor Styles: 2 Styles Designer Oscar Guerrero Cañizares Year 2021 eng // Gregor is a hybrid sans serif typeface family with two variants: Upright and Slanted. Th"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.sumotype.com/collections/gregor",
+      "snippet": "una buena legibilidad en tamaños grandes, y su peso genera un gran impacto en funciones de título. Awards Tipos Latinos 2022 | 9a Bienal de Tipografía Latinoamericana Winner Font Styles Gregor Complete Family $45.00 USD "
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.sumotype.com/collections/gregor",
+      "snippet": "Fonts Brigada Epica Pro Fuga Gregor June Playland Vala More Information About Licence Cart\n                      ( 0 ) ©2023 Sumotype Foundry. All rights reserverd. Website by Contra . Twitter Instagram Behance Choosing "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.sumotype.com/collections/gregor",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.sumotype.com/collections/gregor",
+    "last_modified": null
+  }
+}

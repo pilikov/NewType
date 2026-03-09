@@ -1,0 +1,76 @@
+{
+  "record_id": "case",
+  "source_url": "https://fontwerk.com/fonts/case",
+  "checked_at": "2026-03-09T01:42:45.749470+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fontwerk.com/en/fonts/case",
+      "snippet": "z Sound Design Anja Knust Graphic Design Tobias Peil Motion Design Edits Lucy Beckley English Translation Design Period 2016–2023 Release History Version 1.00: Oct 12, 2020 Version 1.01: Oct 26, 2020 minor bug fixes Vers"
+    },
+    {
+      "date": "2020-10-12",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fontwerk.com/en/fonts/case",
+      "snippet": " Tobias Peil Motion Design Edits Lucy Beckley English Translation Design Period 2016–2023 Release History Version 1.00: Oct 12, 2020 Version 1.01: Oct 26, 2020 minor bug fixes Version 2.00: June 12, 2023 40 new styles ad"
+    },
+    {
+      "date": "2020-10-26",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fontwerk.com/en/fonts/case",
+      "snippet": "Edits Lucy Beckley English Translation Design Period 2016–2023 Release History Version 1.00: Oct 12, 2020 Version 1.01: Oct 26, 2020 minor bug fixes Version 2.00: June 12, 2023 40 new styles added; smaller x-height (Case"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fontwerk.com/en/fonts/case",
+      "snippet": " in cooperation with Erik Spiekermann and team and the multiscript extension FiraGO for the geodata provider ‘here’. In 2022, Anja left bBox to pursue new challenges. As well as a flair for typefaces, the communication d"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fontwerk.com/en/fonts/case",
+      "snippet": "nd Design Anja Knust Graphic Design Tobias Peil Motion Design Edits Lucy Beckley English Translation Design Period 2016–2023 Release History Version 1.00: Oct 12, 2020 Version 1.01: Oct 26, 2020 minor bug fixes Version 2"
+    },
+    {
+      "date": "2023-06-12",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fontwerk.com/en/fonts/case",
+      "snippet": "gn Period 2016–2023 Release History Version 1.00: Oct 12, 2020 Version 1.01: Oct 26, 2020 minor bug fixes Version 2.00: June 12, 2023 40 new styles added; smaller x-height (Case Text); Cyrillic, Greek and 100+ further La"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fontwerk.com/en/fonts/case",
+      "snippet": "act Students Free Trials Newsletter Licensing Privacy Policy Terms of Use Instagram LinkedIn Mastodon RSS RSS (Fonts) © 2026 Fontwerk GmbH"
+    },
+    {
+      "date": "2025-05-19",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fontwerk.com/en/fonts/case",
+      "snippet": "se and African Latin); unicase feature; minor bug fixes → not backward compatible with previous versions! Version 2.01: May 19, 2025 Stylistic Set 04 added (Alternative Dollar and Cent symbol) Recommended Use Advertising"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fontwerk.com/fonts/case",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fontwerk.com/en/fonts/case",
+    "last_modified": null
+  }
+}

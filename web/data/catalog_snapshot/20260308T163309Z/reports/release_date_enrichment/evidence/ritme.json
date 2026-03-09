@@ -1,0 +1,27 @@
+{
+  "record_id": "ritme",
+  "source_url": "https://undercase.xyz/fonts/ritme",
+  "checked_at": "2026-03-09T01:52:53.142094+00:00",
+  "candidates": [
+    {
+      "date": "2022-05-27",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://undercase.xyz/fonts/ritme",
+      "snippet": "2022-05-27"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://undercase.xyz/fonts/ritme",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://undercase.xyz/fonts/ritme",
+    "last_modified": null
+  }
+}

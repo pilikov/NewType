@@ -1,0 +1,27 @@
+{
+  "record_id": "lexia-mono",
+  "source_url": "https://www.daltonmaag.com/library/lexia-mono",
+  "checked_at": "2026-03-09T01:47:11.064565+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/lexia-mono.html",
+      "snippet": "e it remarkably easy to read, and its variable font has extensive Weight and Italic axes. Designed and developed\n2018â2024 Designers Ron Carpenter, Ignacio Casco Guijarro, ElÃ­ Castellanos, Spike Spondike Writing Syste"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.daltonmaag.com/library/lexia-mono",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.daltonmaag.com/font-library/lexia-mono.html",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "napulo",
+  "source_url": "https://www.suvatypefoundry.ee/napulo/",
+  "checked_at": "2026-03-09T01:59:17.276572+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/napulo/",
+      "snippet": "DRY PREVIOUS FONT NAPULO NEXT FONT I C Z M T V D R Y B E K H X S W G P U N J DOWNLOAD O L A Q F NAPULO by Kersti Heile (2018) Napulo font is inspired by zodiac signs. Supervised by Ott Metusala DOWNLOAD When using fonts "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/napulo/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/napulo/",
+    "last_modified": null
+  }
+}

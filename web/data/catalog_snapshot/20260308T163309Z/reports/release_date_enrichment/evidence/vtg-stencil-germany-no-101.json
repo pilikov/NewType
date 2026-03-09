@@ -1,0 +1,19 @@
+{
+  "record_id": "vtg-stencil-germany-no-101",
+  "source_url": "https://www.astype.de/font_v_vtg-stencil-germany-no101.php",
+  "checked_at": "2026-03-09T01:53:25.700710+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.astype.de/font_v_vtg-stencil-germany-no101.php",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "521 Server Error: <none> for url: https://www.astype.de/font_v_vtg-stencil-germany-no101.php"
+  }
+}

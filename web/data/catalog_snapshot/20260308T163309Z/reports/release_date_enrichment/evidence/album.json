@@ -1,0 +1,41 @@
+{
+  "record_id": "album",
+  "source_url": "https://www.205.tf/album-sans",
+  "checked_at": "2026-03-09T01:38:54.403689+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/album-sans",
+      "snippet": " newsletter: ▶︎ Follow Us Facebook Instagram LinkedIn Bluesky Typeface Album Sans Designer Thomas Huot-Marchand Release 2021 Fonts In Use Specimen Justus Erich Walbaum (1768-1837), a confectioner by trade, carved his own"
+    },
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/album-sans",
+      "snippet": "doni. But his romans had a different flavor, and for some, they contain the origins of the Grotesques that followed. In 2010, Thomas Huot-Marchand and SPMillot were asked to develop the typographic identity of the Musée "
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/album-sans",
+      "snippet": "ater typographic styles: a bold grotesque and a thin slab serif, but these typefaces would ultimately remain unused. In 2020, Thomas Huot-Marchand decided to redesign them while developing an extended family. Album is a "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.205.tf/album-sans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.205.tf/album-sans",
+    "last_modified": null
+  }
+}

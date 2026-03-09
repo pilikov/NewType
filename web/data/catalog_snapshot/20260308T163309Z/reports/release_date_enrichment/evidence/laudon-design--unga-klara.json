@@ -1,0 +1,69 @@
+{
+  "record_id": "laudon-design--unga-klara",
+  "source_url": "https://laudon.se/unga-klara",
+  "checked_at": "2026-03-09T01:36:08.310518+00:00",
+  "candidates": [
+    {
+      "date": "2023-12-08",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://laudon.se/unga-klara",
+      "snippet": "2023-12-08T13:13:19+00:00"
+    },
+    {
+      "date": "2023-12-08",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://laudon.se/unga-klara",
+      "snippet": "2023-12-08T13:13:19+00:00"
+    },
+    {
+      "date": "2023-12-13",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://laudon.se/unga-klara",
+      "snippet": "2023-12-13T10:44:11+00:00"
+    },
+    {
+      "date": "2023-12-13",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://laudon.se/unga-klara",
+      "snippet": "2023-12-13T10:44:11+00:00"
+    },
+    {
+      "date": "1997-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://laudon.se/unga-klara",
+      "snippet": "ver Rusta Pris Toni Grotesk Unga Klara White dark Laudon Design Typography, Typefaces & Lettering Contact me LinkedIn © 1997–2024 Laudon Design AB All rights reserved."
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://laudon.se/unga-klara",
+      "snippet": "y and web specifics and all font technology of the special edition. Studio Parasto Backman was given the Design S Award 2016 by Svensk Form for the identity concept. (Eng. The motivation. Exigent and pleasurable driven g"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://laudon.se/unga-klara",
+      "snippet": "usta Pris Toni Grotesk Unga Klara White dark Laudon Design Typography, Typefaces & Lettering Contact me LinkedIn © 1997–2024 Laudon Design AB All rights reserved."
+    },
+    {
+      "date": "2026-03-02",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://laudon.se/unga-klara",
+      "snippet": "2026-03-02"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://laudon.se/unga-klara",
+    "last_modified": null
+  }
+}

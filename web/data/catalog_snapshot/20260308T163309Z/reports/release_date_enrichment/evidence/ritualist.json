@@ -1,0 +1,27 @@
+{
+  "record_id": "ritualist",
+  "source_url": "https://delvefonts.com/fonts/ritualist",
+  "checked_at": "2026-03-09T01:51:39.394514+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://delvefonts.com/fonts/ritualist/",
+      "snippet": "h, you may become obsessed with Ritualist — or so we hope. •!• Ritualist is Steven Heller’s Font of the Month September 2025 Features Case Sensitive Forms «¡A-OK!» «¡A-OK!» Standard Ligatures fi fl ffi ffl fi fl ffi ffl "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://delvefonts.com/fonts/ritualist",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://delvefonts.com/fonts/ritualist/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "xanti-typewriter",
+  "source_url": "https://www.c-a-s-t.com/typefaces/xanti-typewriter",
+  "checked_at": "2026-03-09T01:52:51.705850+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/xanti-typewriter/",
+      "snippet": "o, Turkish, Upper Sorbian, Uzbek (Latin), Volapük, Vunjo, Walser, Welsh, Western Frisian, Yoruba, Zulu Production years 2020-2021 Styles Hairline, Hairline Italic, Thin, Thin Italic, Light, Light Italic, Book, Book Itali"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/xanti-typewriter/",
+      "snippet": "rkish, Upper Sorbian, Uzbek (Latin), Volapük, Vunjo, Walser, Welsh, Western Frisian, Yoruba, Zulu Production years 2020-2021 Styles Hairline, Hairline Italic, Thin, Thin Italic, Light, Light Italic, Book, Book Italic, Re"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.c-a-s-t.com/typefaces/xanti-typewriter",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.c-a-s-t.com/typefaces/xanti-typewriter/",
+    "last_modified": null
+  }
+}

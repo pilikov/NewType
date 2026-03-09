@@ -1,0 +1,48 @@
+{
+  "record_id": "antonia",
+  "source_url": "https://typejockeys.com/font/antonia",
+  "checked_at": "2026-03-09T01:40:00.406774+00:00",
+  "candidates": [
+    {
+      "date": "2025-03-06",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typejockeys.com/en/font/antonia",
+      "snippet": "2025-03-06T12:09:35+01:00"
+    },
+    {
+      "date": "2025-10-07",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typejockeys.com/en/font/antonia",
+      "snippet": "2025-10-07T18:16:56+02:00"
+    },
+    {
+      "date": "2025-10-07",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.typejockeys.com/en/font/antonia",
+      "snippet": "2025-10-07T18:16:56+02:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typejockeys.com/en/font/antonia",
+      "snippet": "efgestellt Antonia in use Le Nouvel Obs Degreed wein.kaltern Solid & Bold Gugler wein.kaltern Licensing Legal Privacy © 2026 Typejockeys de en Trial Fonts close Search website close"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typejockeys.com/font/antonia",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typejockeys.com/en/font/antonia",
+    "last_modified": null
+  }
+}

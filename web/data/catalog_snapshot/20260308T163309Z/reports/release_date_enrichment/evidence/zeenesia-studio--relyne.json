@@ -1,0 +1,48 @@
+{
+  "record_id": "zeenesia-studio--relyne",
+  "source_url": "https://zeenesia.com/product/relyne/",
+  "checked_at": "2026-03-09T01:36:29.119000+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-07",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://zeenesia.com/product/relyne/",
+      "snippet": "2026-01-07T01:56:06+00:00"
+    },
+    {
+      "date": "2026-03-03",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://zeenesia.com/product/relyne/",
+      "snippet": "2026-03-03T01:25:42+00:00"
+    },
+    {
+      "date": "2026-03-03",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://zeenesia.com/product/relyne/",
+      "snippet": "2026-03-03T01:25:42+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://zeenesia.com/product/relyne/",
+      "snippet": "ity Add to cart Related products $ 16 Mighty Courage $ 17 Epical Comeback $ 16 Breather $ 18 Dream To Berich Copyright ©2025 Zeenesia Studio All Right Reserved Menu Home Shop Serif Fonts Sans Serif Fonts Script Fonts Dis"
+    },
+    {
+      "date": "2026-02-26",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://zeenesia.com/product/relyne/",
+      "snippet": "2026-02-26"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://zeenesia.com/product/relyne/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "ktf-olivier",
+  "source_url": "https://kyivtypefoundry.com/olivier",
+  "checked_at": "2026-03-09T01:44:10.663635+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kyivtypefoundry.com/olivier",
+      "snippet": "game in the spirit of KTF, please welcome КТФ Олів'е Репліка and KTF Olivier. Follow Linktree Instagram Download EULA © 2020–2024. All rights reserved."
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kyivtypefoundry.com/olivier",
+      "snippet": "eated. КТФ Олів'е Репліка is a reconstruction of such a source. Limited to Cyrillic only, it was made by Alex Chumak in 2021 for a music video by Kate NV and mastered by Yevgen Anfalov. In turn, KTF Olivier (made by Yevg"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kyivtypefoundry.com/olivier",
+      "snippet": "in the spirit of KTF, please welcome КТФ Олів'е Репліка and KTF Olivier. Follow Linktree Instagram Download EULA © 2020–2024. All rights reserved."
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://kyivtypefoundry.com/olivier",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://kyivtypefoundry.com/olivier",
+    "last_modified": null
+  }
+}

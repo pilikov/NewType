@@ -1,0 +1,62 @@
+{
+  "record_id": "national",
+  "source_url": "https://klim.co.nz/retail-fonts/national/",
+  "checked_at": "2026-03-09T01:44:19.319533+00:00",
+  "candidates": [
+    {
+      "date": "2007-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://klim.co.nz/fonts/national/",
+      "snippet": "of historical material, it is designed to thrive in our modern typographic climate. Credits & details + Initial release 2007 Current version 2.004 Design Kris Sowersby Engineering Noe Blanco\nChester Jenkins Classificatio"
+    },
+    {
+      "date": "2005-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://klim.co.nz/fonts/national/",
+      "snippet": " Fonts in use Account Support Contact FAQs Font licences Payments & refunds Privacy policy Back to top â Copyright Â© 2005 â 2026. \nAll rights reserved. â­ Site build 4 March 2026 at 10:07am Md Ig Vm Tm Pn Fk"
+    },
+    {
+      "date": "2008-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://klim.co.nz/fonts/national/",
+      "snippet": "hester Jenkins Classification Modern: Lineal/Grotesque Awards TDCÂ² Award for Typographic Excellence, Judgeâs Choice, 2008 Supported languages + Web font file sizes + Â .woff2 National Thin 58kb National Thin Italic 57"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://klim.co.nz/fonts/national/",
+      "snippet": " use Account Support Contact FAQs Font licences Payments & refunds Privacy policy Back to top â Copyright Â© 2005 â 2026. \nAll rights reserved. â­ Site build 4 March 2026 at 10:07am Md Ig Vm Tm Pn Fk"
+    },
+    {
+      "date": "2026-03-04",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://klim.co.nz/fonts/national/",
+      "snippet": "nces Payments & refunds Privacy policy Back to top â Copyright Â© 2005 â 2026. \nAll rights reserved. â­ Site build 4 March 2026 at 10:07am Md Ig Vm Tm Pn Fk"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://klim.co.nz/fonts/national/",
+      "snippet": "Tue, 03 Mar 2026 21:09:11 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://klim.co.nz/retail-fonts/national/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://klim.co.nz/fonts/national/",
+    "last_modified": "Tue, 03 Mar 2026 21:09:11 GMT"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "das-grot-mono",
+  "source_url": "https://parachutefonts.com/typeface/das-grot-mono",
+  "checked_at": "2026-03-09T01:41:36.132947+00:00",
+  "candidates": [
+    {
+      "date": "2015-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/das-grot-mono",
+      "snippet": " this typeface. The family consists of 14 weights ranging from Extra Thin to Black (including true-italics). Published: 2015 Designer: Panos Vassiliou FORMAT Desktop (otf) Web (woff/woff2) Digital Ad (woff/woff2) ePub (o"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/das-grot-mono",
+      "snippet": "abled styles are only available when you purchase the entire family. ADD STYLE Close Newsletter / Follow us      © 2026 Parachute® Typefoundry. All Rights Reserved COOKIES NOTICE This Site uses cookies, including th"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://parachutefonts.com/typeface/das-grot-mono",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://parachutefonts.com/typeface/das-grot-mono",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "ski-data",
+  "source_url": "https://sillytypefoundry.com/types/ski-data/",
+  "checked_at": "2026-03-09T01:50:30.530534+00:00",
+  "candidates": [
+    {
+      "date": "2015-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://sillytypefoundry.com/types/ski-data/",
+      "snippet": "on of the font available. In this version the whole alphabet is scanned vertically only. DESIGNER: TARIQ HEIJBOER YEAR: 2015 FORMAT: OTF, WOFF, WOFF2 LANGUAGE: LATIN ORDER FONT glyphs a b c d e f g h i j k l m n o p q r "
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sillytypefoundry.com/types/ski-data/",
+      "snippet": ", Whitechapel Gallery, 2018 Vis-Á-Vis, Valiz books Amsterdam, designed by Sam de Groot Archis Volume 50: Beyond Beyond, 2016"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sillytypefoundry.com/types/ski-data/",
+      "snippet": "pecimen logo Many Voices Records, Amsterdam, 2021 Vasya Run by Aline Gutkina for V-A-C Foundation, Whitechapel Gallery, 2018 Vis-Á-Vis, Valiz books Amsterdam, designed by Sam de Groot Archis Volume 50: Beyond Beyond, 201"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sillytypefoundry.com/types/ski-data/",
+      "snippet": "M N O P Q R S T U V W X Y Z 0 1 2 3 4 5 6 7 8 9 . , : ; / ( ) - – “ ” ‘ ' specimen logo Many Voices Records, Amsterdam, 2021 Vasya Run by Aline Gutkina for V-A-C Foundation, Whitechapel Gallery, 2018 Vis-Á-Vis, Valiz boo"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://sillytypefoundry.com/types/ski-data/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sillytypefoundry.com/types/ski-data/",
+    "last_modified": null
+  }
+}

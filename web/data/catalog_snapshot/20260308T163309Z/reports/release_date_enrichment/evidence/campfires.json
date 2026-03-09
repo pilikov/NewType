@@ -1,0 +1,34 @@
+{
+  "record_id": "campfires",
+  "source_url": "https://interrobangtype.co/typefaces/campfires",
+  "checked_at": "2026-03-09T01:42:28.847828+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://interrobangtype.co/product/campfires/",
+      "snippet": "italic and amplifies it, while saving space as well. Profile Display, Text Latin Extended Web Font? Yes Released: 12-21-2016 Features Contextual Alternates Discretionary Ligatures Small Caps Old Style Numbers Test Drive "
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://interrobangtype.co/product/campfires/",
+      "snippet": "ed on this site, unless otherwise mentioned, are the creation and intellectual property of Derek Weathersbee. Copyright 2021. X"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://interrobangtype.co/typefaces/campfires",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://interrobangtype.co/product/campfires/",
+    "last_modified": null
+  }
+}

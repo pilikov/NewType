@@ -1,0 +1,27 @@
+{
+  "record_id": "wetris",
+  "source_url": "https://www.thatthattype.com/fonts/wetris",
+  "checked_at": "2026-03-09T01:51:25.019036+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thatthattype.com/fonts/wetris",
+      "snippet": "That That Type: Wetris Fonts License Free Trial Fonts About Log in Wetris Wetris Liquid Font © 2026 That That Type"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.thatthattype.com/fonts/wetris",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.thatthattype.com/fonts/wetris",
+    "last_modified": null
+  }
+}

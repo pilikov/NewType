@@ -1,0 +1,48 @@
+{
+  "record_id": "crow-script",
+  "source_url": "https://cinketype.com/typefaces/crow-script",
+  "checked_at": "2026-03-09T01:57:10.684108+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cinketype.com/typefaces/crow-script",
+      "snippet": " my love for typefaces with multiple angles of slant. It is generally dark and dense, but it also has a groovy side. In 2022, ContemporaryType selected Crow Script to the list of Best Fonts of the Year, and in 2024 it re"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cinketype.com/typefaces/crow-script",
+      "snippet": "it also has a groovy side. In 2022, ContemporaryType selected Crow Script to the list of Best Fonts of the Year, and in 2024 it received the Certificate of Typographic Excellence from the Type Directors Club. designer Ti"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cinketype.com/typefaces/crow-script",
+      "snippet": "s starts from $40 per style All rights reserved. designed by cinketype cinketype is a hungarian type design company. Â© 2025 trial fonts custom work Buy me a coffee privacy policy eula pricing model All rights reserved. "
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.cinketype.com/typefaces/crow-script",
+      "snippet": "Mon, 24 Nov 2025 19:58:20 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://cinketype.com/typefaces/crow-script",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.cinketype.com/typefaces/crow-script",
+    "last_modified": "Mon, 24 Nov 2025 19:58:20 GMT"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record_id": "millesimo",
+  "source_url": "https://www.paavolatype.com/typefaces/millesimo",
+  "checked_at": "2026-03-09T01:42:46.693959+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.paavolatype.com/wp-content/uploads/millesimo.png#main",
+      "snippet": "Sat, 05 Oct 2024 11:57:56 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.paavolatype.com/typefaces/millesimo",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": 200,
+    "error": "unsupported content-type: image/png",
+    "final_url": "https://www.paavolatype.com/wp-content/uploads/millesimo.png#main",
+    "last_modified": "Sat, 05 Oct 2024 11:57:56 GMT"
+  }
+}

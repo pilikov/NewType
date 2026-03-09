@@ -1,0 +1,41 @@
+{
+  "record_id": "pisanka",
+  "source_url": "https://type-salon.com/typefaces/pisanka",
+  "checked_at": "2026-03-09T01:43:32.033109+00:00",
+  "candidates": [
+    {
+      "date": "2025-09-29",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://type-salon.com/portfolio/pisanka/",
+      "snippet": "2025-09-29T12:56:42+00:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://type-salon.com/portfolio/pisanka/",
+      "snippet": "2026-03-05T07:40:29+00:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://type-salon.com/portfolio/pisanka/",
+      "snippet": "2026-03-05T07:40:29+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://type-salon.com/typefaces/pisanka",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://type-salon.com/portfolio/pisanka/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "compita",
+  "source_url": "https://studiobuchanan.xyz/typeface/compita",
+  "checked_at": "2026-03-09T01:37:58.107498+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fonts.wondermake.xyz/typeface/compita",
+      "snippet": "ondermake Fonts About Contact Custom Type Help Privacy Policy Fonts Design About Contact Compita Neo-Grotesk Sans-Serif 2020 Jonny Gibson 6 weights + Italics v1.0 37 languages Compita is a Neo-Grotesk(ish) typeface that "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://studiobuchanan.xyz/typeface/compita",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fonts.wondermake.xyz/typeface/compita",
+    "last_modified": null
+  }
+}

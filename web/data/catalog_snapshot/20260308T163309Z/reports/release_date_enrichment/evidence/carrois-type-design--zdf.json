@@ -1,0 +1,41 @@
+{
+  "record_id": "carrois-type-design--zdf",
+  "source_url": "https://www.carrois.com/typefaces/custom/ZDF/",
+  "checked_at": "2026-03-09T02:00:58.454455+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.carrois.com/typefaces/custom/ZDF/",
+      "snippet": " when switching font weights for accessibility or in light or dark mode. Credits Client: ZDF Agency: BDA creative Year: 2017 - today Design Executive: Ralph du Carrois & Anja Meiners Mastering & Font-Production: Fontwerk"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.carrois.com/typefaces/custom/ZDF/",
+      "snippet": "ist ein extrem umfangreiches Corporate Type System: 116 Fonts, 3 Breiten und 3 Stile in jeweils Roman und Italic – seit 2023 auch mit Variable Fonts. Television is no longer a linear signal broadcast over the airwaves. T"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.carrois.com/typefaces/custom/ZDF/",
+      "snippet": " Design & Technology Consulting & Licensing Logo Service Studio Contact Login LinkedIn EULA / AGB Impressum en de © CTD 2026 — Carrois Type Design is a label of bBox Type GmbH"
+    },
+    {
+      "date": "2026-02-22",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.carrois.com/typefaces/custom/ZDF/",
+      "snippet": "2026-02-22"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.carrois.com/typefaces/custom/ZDF/",
+    "last_modified": null
+  }
+}

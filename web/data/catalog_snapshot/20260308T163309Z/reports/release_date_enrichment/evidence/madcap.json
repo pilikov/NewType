@@ -1,0 +1,34 @@
+{
+  "record_id": "madcap",
+  "source_url": "https://www.marksimonson.com/fonts/view/madcap",
+  "checked_at": "2026-03-09T01:47:25.524605+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.marksimonson.com/fonts/view/madcap/",
+      "snippet": "turn Policy Connect Contact Me Email Newsletter Instagram X (Twitter) Mastodon Notebook RSS Feed Mark Simonson Studio © 2026 The Type Founders, LLC"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.marksimonson.com/fonts/view/madcap/",
+      "snippet": "Madcap | Fonts by Mark Simonson Fonts Notebook Services About Cart Madcap Fonts Buy Madcap Madcap (2024) has its roots in a style of lettering that its designer, Mark Simonson, used frequently when he was in high school "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.marksimonson.com/fonts/view/madcap",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.marksimonson.com/fonts/view/madcap/",
+    "last_modified": null
+  }
+}

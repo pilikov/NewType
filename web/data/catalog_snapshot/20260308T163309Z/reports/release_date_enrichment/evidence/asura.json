@@ -1,0 +1,41 @@
+{
+  "record_id": "asura",
+  "source_url": "https://skrr-type.com/asura",
+  "checked_at": "2026-03-09T01:55:36.972718+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://skrr-type.com/asura",
+      "snippet": "Asura Designed by Bouk Ra Website Instagram 3 Styles 108 glyphs Language support for the Basic Latin Published in March 2022 Asuras are demonic beings in Hindu mythology. Asura typeface is a figure of turbulence age in w"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://skrr-type.com/asura",
+      "snippet": "ew in cart Logo/Wordmark License View in cart App License View in cart Student License View in cart In Use Skrr Type Â© 2025 Instagram m@skrr-type.com"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://skrr-type.com/asura",
+      "snippet": "Thu, 10 Apr 2025 23:03:20 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://skrr-type.com/asura",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://skrr-type.com/asura",
+    "last_modified": "Thu, 10 Apr 2025 23:03:20 GMT"
+  }
+}

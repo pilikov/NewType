@@ -1,0 +1,20 @@
+{
+  "record_id": "mineral",
+  "source_url": "https://www.bb-bureau.fr/mineral",
+  "checked_at": "2026-03-09T01:58:09.958811+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.bb-bureau.fr/mineral",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.bb-bureau.fr/mineral",
+    "last_modified": null
+  }
+}

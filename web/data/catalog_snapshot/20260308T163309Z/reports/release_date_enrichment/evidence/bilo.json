@@ -1,0 +1,48 @@
+{
+  "record_id": "bilo",
+  "source_url": "https://boldmonday.com/typeface/bilo/",
+  "checked_at": "2026-03-09T01:36:46.901263+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/bilo/",
+      "snippet": "ent discounts Privacy policy Return policy Disclaimer Subscribe to News & Updates Twitter | Facebook | Mail Copyright © 2026 Bold Monday – all rights reserved Made by Unwind"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/bilo/",
+      "snippet": "tom of round characters giving Bilo an unusual and charming feel. Van Rosmalen started exploring shapes of this kind in 2014 in an attempt to design a low-contrast sans-serif version of Bodoni. Nothing really came off of"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/bilo/",
+      "snippet": " dog-related icons designed by Dirk Uhlenbrock . Go find ’em! Designers Pieter van Rosmalen Anna Khorash Lora Shtirkova 2018—2024 Bilo supports the following languages Afrikaans, Albanian, Asu, Azerbaijani, Basque, Belar"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/bilo/",
+      "snippet": "related icons designed by Dirk Uhlenbrock . Go find ’em! Designers Pieter van Rosmalen Anna Khorash Lora Shtirkova 2018—2024 Bilo supports the following languages Afrikaans, Albanian, Asu, Azerbaijani, Basque, Belarusian"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://boldmonday.com/typeface/bilo/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://boldmonday.com/typeface/bilo/",
+    "last_modified": null
+  }
+}

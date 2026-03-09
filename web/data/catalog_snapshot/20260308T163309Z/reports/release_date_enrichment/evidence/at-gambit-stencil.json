@@ -1,0 +1,48 @@
+{
+  "record_id": "at-gambit-stencil",
+  "source_url": "https://arillatype.studio/font/at-gambit-stencil",
+  "checked_at": "2026-03-09T01:55:37.580561+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://arillatype.studio/font/at-gambit-stencil",
+      "snippet": "alternates. Human information Designer Andy Lethbridge Visuals Stupendous Studio Technical information Release date May 2022 Current version 1.000 (March 2022) Styles in the family 10 (5 weights with italics) Glyphs per "
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://arillatype.studio/font/at-gambit-stencil",
+      "snippet": " Altolaguirre 29, Bajo 1 29720 La Cala del Moral, Málaga, Spain [email protected] Website set in At Haüss . Copyright © 2021—2026. All rights reserved."
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://arillatype.studio/font/at-gambit-stencil",
+      "snippet": "laguirre 29, Bajo 1 29720 La Cala del Moral, Málaga, Spain [email protected] Website set in At Haüss . Copyright © 2021—2026. All rights reserved."
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://arillatype.studio/font/at-gambit-stencil",
+      "snippet": "Tue, 24 Feb 2026 09:56:30 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://arillatype.studio/font/at-gambit-stencil",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://arillatype.studio/font/at-gambit-stencil",
+    "last_modified": "Tue, 24 Feb 2026 09:56:30 GMT"
+  }
+}

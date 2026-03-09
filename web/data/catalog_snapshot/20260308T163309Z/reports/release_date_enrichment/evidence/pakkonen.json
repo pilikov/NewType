@@ -1,0 +1,27 @@
+{
+  "record_id": "pakkonen",
+  "source_url": "https://www.suvatypefoundry.ee/pakkonen/",
+  "checked_at": "2026-03-09T01:51:42.177234+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/pakkonen/",
+      "snippet": "EVIOUS FONT PAKKONEN NEXT FONT W X K Y G N DOWNLOAD E J I A P D H O T B V L U M C F Q S R Z PAKKONEN by Mathias Väärsi (2017) Pakkonen is a second year project. Supervised by Johan Kallas DOWNLOAD When using fonts featur"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/pakkonen/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/pakkonen/",
+    "last_modified": null
+  }
+}

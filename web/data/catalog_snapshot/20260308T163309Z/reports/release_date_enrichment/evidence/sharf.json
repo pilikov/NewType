@@ -1,0 +1,41 @@
+{
+  "record_id": "sharf",
+  "source_url": "https://blast-foundry.com/typefaces/sharf",
+  "checked_at": "2026-03-09T01:54:45.696270+00:00",
+  "candidates": [
+    {
+      "date": "2024-10-01",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://blast-foundry.com/typefaces/sharf",
+      "snippet": "2024-10-01"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://blast-foundry.com/typefaces/sharf",
+      "snippet": "gn in Specimen Free Trials Buy Cart 0 Typefaces About Services Licenses Sign in Sharf ▶ Designed by Barbara Bigosińska, 2024 ◀ 2 sub-families  •  6 weights  •  24 styles variable alternates editorial Sharf VF Text • opsz"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://blast-foundry.com/typefaces/sharf",
+      "snippet": "o: NL002489662B18 Need something? Get in touch at licensing@blast-foundry.com FutureFonts Instagram Twitter Copyright © 2026 Blast Foundry. All rights reserved. We use cookies to provide you with the best possible experi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://blast-foundry.com/typefaces/sharf",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://blast-foundry.com/typefaces/sharf",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "varly",
+  "source_url": "https://www.myfonts.com/collections/varly-font-moretype",
+  "checked_at": "2026-03-09T02:00:15.969891+00:00",
+  "candidates": [
+    {
+      "date": "1999-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.myfonts.com/collections/varly-font-moretype",
+      "snippet": "elp FAQ Contact About Terms and Conditions Terms of Use Privacy Policy Return Policy Legal Help FAQ Contact Copyright © 1999-2025 MyFonts Inc. All rights reserved. Choosing a selection results in a full page refresh."
+    },
+    {
+      "date": "2013-01-24",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.myfonts.com/collections/varly-font-moretype",
+      "snippet": " to any project \r\nit is used in. Designers: Publisher: moretype Foundry: moretype Design Owner: moretype MyFonts debut: Jan 24, 2013 Varly™ About moretype Chris Dickinson graduated from Brighton University with a BA Hons"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.myfonts.com/collections/varly-font-moretype",
+      "snippet": "AQ Contact About Terms and Conditions Terms of Use Privacy Policy Return Policy Legal Help FAQ Contact Copyright © 1999-2025 MyFonts Inc. All rights reserved. Choosing a selection results in a full page refresh."
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.myfonts.com/collections/varly-font-moretype",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.myfonts.com/collections/varly-font-moretype",
+    "last_modified": null
+  }
+}

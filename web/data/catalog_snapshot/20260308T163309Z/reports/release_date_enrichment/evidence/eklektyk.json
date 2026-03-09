@@ -1,0 +1,41 @@
+{
+  "record_id": "eklektyk",
+  "source_url": "https://laic.pl/typefaces/eklektyk",
+  "checked_at": "2026-03-09T01:57:22.614427+00:00",
+  "candidates": [
+    {
+      "date": "2021-08-27",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://laic.pl/product/typefaces/eklektyk/",
+      "snippet": "2021-08-27T09:38:00+00:00"
+    },
+    {
+      "date": "2026-02-17",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://laic.pl/product/typefaces/eklektyk/",
+      "snippet": "2026-02-17T14:47:03+00:00"
+    },
+    {
+      "date": "2026-02-17",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://laic.pl/product/typefaces/eklektyk/",
+      "snippet": "2026-02-17T14:47:03+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://laic.pl/typefaces/eklektyk",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://laic.pl/product/typefaces/eklektyk/",
+    "last_modified": null
+  }
+}

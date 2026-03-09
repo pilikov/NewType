@@ -1,0 +1,27 @@
+{
+  "record_id": "krata",
+  "source_url": "https://www.205.tf/krata",
+  "checked_at": "2026-03-09T01:55:14.023454+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/krata",
+      "snippet": "ubscribe to our newsletter: ▶︎ Follow Us Facebook Instagram LinkedIn Bluesky Typeface Krata Designer Rémi Forte Release 2024 Specimen Krata , designed by Rémi Forte, takes a generative approach to type design. Located at"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.205.tf/krata",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.205.tf/krata",
+    "last_modified": null
+  }
+}

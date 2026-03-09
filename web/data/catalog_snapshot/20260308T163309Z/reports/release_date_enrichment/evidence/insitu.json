@@ -1,0 +1,41 @@
+{
+  "record_id": "insitu",
+  "source_url": "https://formagari.com/typefaces/insitu",
+  "checked_at": "2026-03-09T02:03:18.355147+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://formagari.com/typefaces/insitu",
+      "snippet": " still be used in a variety of situations. Photography © Maxime Verret Designers Emmanuel Besse, Lucas Le Bihan Release 2022 Glyphs 702 Single weight From 75,00 € Family From 300,00 € Type tester Insitu Light Aa Catalogu"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://formagari.com/typefaces/insitu",
+      "snippet": "lient Work Business Inquiries Info About Mail EULA Privacy Social Mastodon Instagram LinkedIn Fonts In Use Newsletter © 2026 Formagari. aLL riGhTs rEsErVeD. Trial Fonts Select typefaces Maxisud Insitu Sancy Kernevel Yet "
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://formagari.com/typefaces/insitu",
+      "snippet": "Practice Plasticocène by Large Théâtre 13 by Marc Armand Centre Pompidou by Large Festival 36h by Lucas Le Bihan WEFRAC 2017 by Large Retail Typefaces Yet Grotesk Kernevel Rillus View all Formagari Typefaces Maxisud Insi"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://formagari.com/typefaces/insitu",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://formagari.com/typefaces/insitu",
+    "last_modified": null
+  }
+}

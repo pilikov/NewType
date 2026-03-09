@@ -1,0 +1,20 @@
+{
+  "record_id": "twoslant",
+  "source_url": "https://muirmcneil.com/typefaces/twoslant",
+  "checked_at": "2026-03-09T02:03:20.096794+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://muirmcneil.com/typefaces/twoslant",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://muirmcneil.com/downloads/twoslant/",
+    "last_modified": null
+  }
+}

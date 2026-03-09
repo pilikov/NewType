@@ -1,0 +1,27 @@
+{
+  "record_id": "tiltortion",
+  "source_url": "https://www.suvatypefoundry.ee/tiltortion/",
+  "checked_at": "2026-03-09T02:01:47.198825+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/tiltortion/",
+      "snippet": "NT TILTORTION NEXT FONT K Y A R E B DOWNLOAD M C S L Z P V N J H Q I W G O D U T X F TILTORTION by Cristopher Siniväli (2020) “Tiltortion” is a name combined of two words: “tilted” and “distortion”. The font is inspired "
+    },
+    {
+      "date": "2026-02-10",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/tiltortion/",
+      "snippet": "2026-02-10"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/tiltortion/",
+    "last_modified": null
+  }
+}

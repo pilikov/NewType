@@ -1,0 +1,27 @@
+{
+  "record_id": "lentiform",
+  "source_url": "https://djr.com/lentiform",
+  "checked_at": "2026-03-09T01:51:45.446717+00:00",
+  "candidates": [
+    {
+      "date": "2024-10-31",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/lentiform-font-of-the-month",
+      "snippet": "wog Rhody Rustique Slight Chance Tortellini Zenith DJR Club Typeset Glyphs Notes About Sign in Cart Notes See all posts October 31, 2024 # David Jonathan Ross October’s Font of the Month: Lentiform Earlier this month, I "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://djr.com/lentiform",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://djr.com/notes/lentiform-font-of-the-month",
+    "last_modified": null
+  }
+}

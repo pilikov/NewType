@@ -1,0 +1,27 @@
+{
+  "record_id": "babs-sans",
+  "source_url": "https://midwesttype.com/family/babs-sans",
+  "checked_at": "2026-03-09T02:01:16.780580+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://midwesttype.com/family/babs-sans/",
+      "snippet": "hopping View Cart Language Support English Filipino German Indonesian Malay Maltese Slovenian Buy Babs Sans Copyright © 2026 The Type Founders, LLC . All rights reserved. home fonts licensing about services TTF Foundries"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://midwesttype.com/family/babs-sans",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://midwesttype.com/family/babs-sans/",
+    "last_modified": null
+  }
+}

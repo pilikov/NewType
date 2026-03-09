@@ -1,0 +1,20 @@
+{
+  "record_id": "stereo-typefaces--bernadette-latin-pro-extended-license",
+  "source_url": "https://www.stereo-type.fr/fonts/bernadette-latin-pro-extended-license/",
+  "checked_at": "2026-03-08T16:58:32.369036+00:00",
+  "candidates": [
+    {
+      "date": "2026-03-07",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.stereo-type.fr/fonts/bernadette-latin-pro-extended-license/",
+      "snippet": "2026-03-07"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.stereo-type.fr/fonts/bernadette-latin-pro-extended-license/",
+    "last_modified": null
+  }
+}

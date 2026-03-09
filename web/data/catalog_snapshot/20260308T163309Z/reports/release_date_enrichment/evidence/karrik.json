@@ -1,0 +1,34 @@
+{
+  "record_id": "karrik",
+  "source_url": "https://velvetyne.fr/fonts/karrik/",
+  "checked_at": "2026-03-09T01:40:10.499906+00:00",
+  "candidates": [
+    {
+      "date": "2020-06-17",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://velvetyne.fr/fonts/karrik/",
+      "snippet": "borative Grotesque Sans Serif Custom Writing systems Latin License SIL Open Font License, Version 1.1 Date Published on June 17, 2020 Get the PDF specimen Ce contenu existe en Français Karrik is rooted in vernacular typo"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://velvetyne.fr/fonts/karrik/",
+      "snippet": " ist eine Gemeinde in der Provinz Bergamo in der italienischen Region Lombardei mit 2914 Einwohnern (Stand 31. Dezember 2022). Cisano Bergamasco ist eine italienische Gemeinde (comune) mit 6158 Einwohnern (Stand 31. Deze"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://velvetyne.fr/fonts/karrik/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://velvetyne.fr/fonts/karrik/",
+    "last_modified": null
+  }
+}

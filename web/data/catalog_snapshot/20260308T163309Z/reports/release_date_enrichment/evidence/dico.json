@@ -1,0 +1,48 @@
+{
+  "record_id": "dico",
+  "source_url": "https://boldmonday.com/typeface/dico/",
+  "checked_at": "2026-03-09T01:52:27.253533+00:00",
+  "candidates": [
+    {
+      "date": "2004-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/dico/",
+      "snippet": " Rosmalen is available for order in the products section . Designers Pieter van Rosmalen Diana Ovezea Jacques Le Bailly 2004–2020 Dico supports the following languages Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Bosni"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/dico/",
+      "snippet": "alen is available for order in the products section . Designers Pieter van Rosmalen Diana Ovezea Jacques Le Bailly 2004–2020 Dico supports the following languages Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Bosnian, B"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/dico/",
+      "snippet": "ent discounts Privacy policy Return policy Disclaimer Subscribe to News & Updates Twitter | Facebook | Mail Copyright © 2026 Bold Monday – all rights reserved Made by Unwind"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/dico/",
+      "snippet": " xx px Leading xx px Auto Tracking xx px Alignment Left Center Right Color R G B Background R G B disabler Endurþýðingu~2016 Edit Text Endurþýðingu~2016 Style Dico Sans Regular Dico Sans Italic Dico Sans Bold Dico Sans B"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://boldmonday.com/typeface/dico/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://boldmonday.com/typeface/dico/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "kuunari",
+  "source_url": "https://www.melvastype.fi/fonts/kuunari",
+  "checked_at": "2026-03-09T01:58:11.324578+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.melvastype.fi/fonts/kuunari",
+      "snippet": " body text and lead paragraphs. All in all, you can achieve diverse and rich typography with the Kuunari type family. © 2026 Melvastype"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.melvastype.fi/fonts/kuunari",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.melvastype.fi/fonts/kuunari",
+    "last_modified": null
+  }
+}

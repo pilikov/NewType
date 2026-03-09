@@ -1,0 +1,48 @@
+{
+  "record_id": "zeenesia-studio--black-rover",
+  "source_url": "https://zeenesia.com/product/black-rover/",
+  "checked_at": "2026-03-09T01:36:22.597557+00:00",
+  "candidates": [
+    {
+      "date": "2023-07-30",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://zeenesia.com/product/black-rover/",
+      "snippet": "2023-07-30T05:23:41+00:00"
+    },
+    {
+      "date": "2023-11-24",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://zeenesia.com/product/black-rover/",
+      "snippet": "2023-11-24T03:03:37+00:00"
+    },
+    {
+      "date": "2023-11-24",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://zeenesia.com/product/black-rover/",
+      "snippet": "2023-11-24T03:03:37+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://zeenesia.com/product/black-rover/",
+      "snippet": "er quantity Add to cart Related products $ 16 Hisyam $ 16 Night Michy $ 15 Maron American $ 15 Little Humble Copyright ©2025 Zeenesia Studio All Right Reserved Menu Home Shop Serif Fonts Sans Serif Fonts Script Fonts Dis"
+    },
+    {
+      "date": "2026-02-26",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://zeenesia.com/product/black-rover/",
+      "snippet": "2026-02-26"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://zeenesia.com/product/black-rover/",
+    "last_modified": null
+  }
+}

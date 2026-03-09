@@ -1,0 +1,27 @@
+{
+  "record_id": "halcyon",
+  "source_url": "https://studiobuchanan.xyz/typeface/halcyon",
+  "checked_at": "2026-03-09T01:48:57.891300+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fonts.wondermake.xyz/typeface/halcyon",
+      "snippet": "ndermake Fonts About Contact Custom Type Help Privacy Policy Fonts Design About Contact Halcyon Sans-Serif Published in 2017 Jonny Gibson 16 Styles v2.00 37 languages Halcyon's design builds on the foundations of classic"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://studiobuchanan.xyz/typeface/halcyon",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fonts.wondermake.xyz/typeface/halcyon",
+    "last_modified": null
+  }
+}

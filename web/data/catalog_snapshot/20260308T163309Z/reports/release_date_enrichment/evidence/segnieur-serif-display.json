@@ -1,0 +1,55 @@
+{
+  "record_id": "segnieur-serif-display",
+  "source_url": "https://www.paavolatype.com/typefaces/segnieur-serif-display",
+  "checked_at": "2026-03-09T01:58:03.884918+00:00",
+  "candidates": [
+    {
+      "date": "2025-05-04",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.paavolatype.com/segnieur-serif-display/",
+      "snippet": "2025-05-04T15:17:13+00:00"
+    },
+    {
+      "date": "2025-05-04",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.paavolatype.com/segnieur-serif-display/",
+      "snippet": "2025-05-04T15:25:30+00:00"
+    },
+    {
+      "date": "2025-05-04",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.paavolatype.com/segnieur-serif-display/",
+      "snippet": "2025-05-04T15:25:30+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.paavolatype.com/segnieur-serif-display/",
+      "snippet": "languages spoken in 212 different countries. Licenses Test fonts Privacy Policy Cookie Policy EULA Terms & conditions © 2026 Paavola Type Studio Manage Cookie Consent We use cookies to optimize our website and our servic"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.paavolatype.com/segnieur-serif-display/",
+      "snippet": "Mon, 09 Mar 2026 01:37:41 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.paavolatype.com/typefaces/segnieur-serif-display",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.paavolatype.com/segnieur-serif-display/",
+    "last_modified": "Mon, 09 Mar 2026 01:37:41 GMT"
+  }
+}

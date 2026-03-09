@@ -1,0 +1,41 @@
+{
+  "record_id": "bt-avance",
+  "source_url": "https://www.bleifreitype.ch/typefaces/bt-avance",
+  "checked_at": "2026-03-09T01:42:03.806278+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.bleifreitype.ch/typefaces/bt-avance",
+      "snippet": "us shipping Information Credits Design Matthieu Dillier Assistance Aaron Aebi Florian Beyeler Rahel Marbet Release Date 2023 Version 1.3 Last updated November 2025 Supported Languages Currently supported Languages Albani"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.bleifreitype.ch/typefaces/bt-avance",
+      "snippet": "Matthieu Dillier Assistance Aaron Aebi Florian Beyeler Rahel Marbet Release Date 2023 Version 1.3 Last updated November 2025 Supported Languages Currently supported Languages Albanian, Danish, Dutch, English, Finnish, Fr"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.bleifreitype.ch/typefaces/bt-avance",
+      "snippet": "Fri, 06 Mar 2026 06:02:34 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.bleifreitype.ch/typefaces/bt-avance",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.bleifreitype.ch/typefaces/bt-avance",
+    "last_modified": "Fri, 06 Mar 2026 06:02:34 GMT"
+  }
+}

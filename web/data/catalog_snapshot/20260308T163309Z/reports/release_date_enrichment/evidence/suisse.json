@@ -1,0 +1,62 @@
+{
+  "record_id": "suisse",
+  "source_url": "https://www.swisstypefaces.com/fonts/suisse",
+  "checked_at": "2026-03-09T01:54:24.605986+00:00",
+  "candidates": [
+    {
+      "date": "2006-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.swisstypefaces.com/fonts/suisse/",
+      "snippet": "ndled via credit card Mastercard, VISA, American Express, Discover Network Follow Us Facebook Twitter Instagram In Use ©2006–2026 Swiss Typefaces All rights reserved"
+    },
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.swisstypefaces.com/fonts/suisse/",
+      "snippet": "ndensed La Bâtie 2018 Twice studio Suisse Int’l Marli Russel JAC& Suisse Int’l Condensed David Hockney, Woldgate Woods, 2010 Artem Strizhkov Suisse Int’l, Suisse Works Biennale de Montréal Principal Studio Suisse Works, "
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.swisstypefaces.com/fonts/suisse/",
+      "snippet": "0 Artem Strizhkov Suisse Int’l, Suisse Works Biennale de Montréal Principal Studio Suisse Works, Suisse Int’l Triennale 2017 Johanne Roten Suisse Int’l The Word Magazine Issue 18 “Silence” Alliage Suisse Neue, Suisse Wor"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.swisstypefaces.com/fonts/suisse/",
+      "snippet": "’l Condensed Théâtre de la Ville compagnie et cie Suisse Int’l 2021 Planner Yael Anders Suisse Int’l Condensed La Bâtie 2018 Twice studio Suisse Int’l Marli Russel JAC& Suisse Int’l Condensed David Hockney, Woldgate Wood"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.swisstypefaces.com/fonts/suisse/",
+      "snippet": " Soda Hey Studio Suisse Int’l Hotel Frank 25ah Suisse Int’l Condensed Théâtre de la Ville compagnie et cie Suisse Int’l 2021 Planner Yael Anders Suisse Int’l Condensed La Bâtie 2018 Twice studio Suisse Int’l Marli Russel"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.swisstypefaces.com/fonts/suisse/",
+      "snippet": " via credit card Mastercard, VISA, American Express, Discover Network Follow Us Facebook Twitter Instagram In Use ©2006–2026 Swiss Typefaces All rights reserved"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.swisstypefaces.com/fonts/suisse",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.swisstypefaces.com/fonts/suisse/",
+    "last_modified": null
+  }
+}

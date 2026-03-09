@@ -1,0 +1,48 @@
+{
+  "record_id": "garibaldi-vocal-type",
+  "source_url": "https://www.vocaltype.co/history-of/garibaldi",
+  "checked_at": "2026-03-09T01:47:14.140530+00:00",
+  "candidates": [
+    {
+      "date": "2023-04-25",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.vocaltype.co/history-of/garibaldi",
+      "snippet": "2023-04-25T02:58:21-0400"
+    },
+    {
+      "date": "2023-04-25",
+      "score": 0.9,
+      "source_type": "meta:datePublished",
+      "source_url": "https://www.vocaltype.co/history-of/garibaldi",
+      "snippet": "2023-04-25T02:58:21-0400"
+    },
+    {
+      "date": "2023-04-25",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.vocaltype.co/history-of/garibaldi",
+      "snippet": "2023-04-25T17:25:06-0400"
+    },
+    {
+      "date": "2023-04-25",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.vocaltype.co/history-of/garibaldi",
+      "snippet": " Sign In My Account Typefaces Custom Design History Progress Information Reach Sign In My Account GARIBALDI Tre Seals · April 25, 2023 In (an ongoing) partnership with my good friend Michele Patanè, we bring you VTC Gari"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.vocaltype.co/history-of/garibaldi",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.vocaltype.co/history-of/garibaldi",
+    "last_modified": null
+  }
+}

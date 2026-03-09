@@ -1,0 +1,48 @@
+{
+  "record_id": "ohno-casual",
+  "source_url": "https://ohnotype.co/fonts/casual",
+  "checked_at": "2026-03-09T01:56:24.737263+00:00",
+  "candidates": [
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ohnotype.co/fonts/casual",
+      "snippet": "sers 56–85 users 86–125 users 126–175 users 176–275 users 276–400 users 401–550 users 551–725 users 726–1000 users 1001–2000 users 2001–5000 users Web Remove 500k monthly page views 2M monthly page views 5M monthly page "
+    },
+    {
+      "date": "2001-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ohnotype.co/fonts/casual",
+      "snippet": "users 86–125 users 126–175 users 176–275 users 276–400 users 401–550 users 551–725 users 726–1000 users 1001–2000 users 2001–5000 users Web Remove 500k monthly page views 2M monthly page views 5M monthly page views 10M m"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ohnotype.co/fonts/casual",
+      "snippet": ". designed by James Edmondson, Corinne Ang, Jamie Otelsberg, and Colin Ford. Alternate M, N, and W. Arrows. Designed in 2022. Buy The Complete Family Ohno Casual Family 6 weights, a textile font, and a variable font. $99"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ohnotype.co/fonts/casual",
+      "snippet": "tie Polymath Regrets Retail Swear Viktor Script Vulf Yumex Everything Else Instagram Twitter Merch In Use Type School © 2026 OH no Type Company Covik Sans Regular Italic Covik Sans Bold Ohno Blazeface 18 Point Covik Sans"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ohnotype.co/fonts/casual",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ohnotype.co/fonts/casual",
+    "last_modified": null
+  }
+}

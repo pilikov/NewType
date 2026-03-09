@@ -1,0 +1,27 @@
+{
+  "record_id": "prometo",
+  "source_url": "https://www.daltonmaag.com/library/prometo",
+  "checked_at": "2026-03-09T01:54:13.400986+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/prometo.html",
+      "snippet": "ght range intended for display use and works well across signage, titles, and billboards. Designed and developed\n2014â2017 Designers Fabio Haag, Fernando Caro Writing Systems Latin Supporting over 860\nLanguages Aari (L"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.daltonmaag.com/library/prometo",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.daltonmaag.com/font-library/prometo.html",
+    "last_modified": null
+  }
+}

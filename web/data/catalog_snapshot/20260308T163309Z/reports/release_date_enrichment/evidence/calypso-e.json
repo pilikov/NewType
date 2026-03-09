@@ -1,0 +1,41 @@
+{
+  "record_id": "calypso-e",
+  "source_url": "https://www.typolar.com/family/index.php?id=8",
+  "checked_at": "2026-03-09T01:42:48.329677+00:00",
+  "candidates": [
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typolar.com/family/index.php?id=8",
+      "snippet": "so E Heavy Calypso E Heavy Italic i 16 px i x 1.4 ≤ | ≥ x Longer-term influences on the rapid rise of Street Art around 2000 include the move of the now grown-up taggers and style writers (often active since the mid-1980"
+    },
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typolar.com/family/index.php?id=8",
+      "snippet": " and one Tuscan style display font called Calypso I Heavy. Designers Calypso E and I are designed by Jarno Lukkarila in 2010. Technical All our fonts are optimised for smooth on screen appearance on different resolutions"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typolar.com/family/index.php?id=8",
+      "snippet": "ng and you can cancel it any time. CONTACT US c +358 50 339 1487 a info(at)typolar.com b Facebook b Twitter b Bēhance ©2025 Typolar Ltd. All Rights Reserved. Typolar holds rights to all material at this website unless s"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.typolar.com/family/index.php?id=8",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typolar.com/family/index.php?id=8",
+    "last_modified": null
+  }
+}

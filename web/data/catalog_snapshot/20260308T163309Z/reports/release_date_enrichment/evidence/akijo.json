@@ -1,0 +1,27 @@
+{
+  "record_id": "akijo",
+  "source_url": "https://www.suvatypefoundry.ee/akijo/",
+  "checked_at": "2026-03-09T01:39:45.138416+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/akijo/",
+      "snippet": "NDRY PREVIOUS FONT AKIJO NEXT FONT H E Z A Q U N M C X V B Y T R O K G W F D J S DOWNLOAD L I P AKIJO by Adam Asztalos (2019) Akijo is inspired by a fictional movie about a ninja, who is taking revenge on his parents' ki"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/akijo/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/akijo/",
+    "last_modified": null
+  }
+}

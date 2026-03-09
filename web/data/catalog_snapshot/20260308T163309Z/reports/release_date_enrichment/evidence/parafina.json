@@ -1,0 +1,41 @@
+{
+  "record_id": "parafina",
+  "source_url": "https://felicianotype.com/typefaces/parafina",
+  "checked_at": "2026-03-09T01:53:02.302940+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://felicianotype.com/typefaces/parafina/",
+      "snippet": "izes for each. By acquiring a single weight you would get the three optical sizes of that weight. Trial fonts Specimens 2021 6 styles Parafina  family           — 6 styles, €200,00 BUY Parafina Thin, €50,00 BUY Three to "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://felicianotype.com/typefaces/parafina/",
+      "snippet": "• Black Circled Figures • Accented Uppercase • Accented Lowercase • Accented Alternates • Arrows & forms • Diacritics © 2026 Feliciano Type. All rights reserved. Acceptera Cockpit Correct Crisol Eudald Flama Garda Grosa "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://felicianotype.com/typefaces/parafina/",
+      "snippet": "Mon, 09 Mar 2026 00:10:54 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://felicianotype.com/typefaces/parafina",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://felicianotype.com/typefaces/parafina/",
+    "last_modified": "Mon, 09 Mar 2026 00:10:54 GMT"
+  }
+}

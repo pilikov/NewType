@@ -1,0 +1,48 @@
+{
+  "record_id": "serebryakov-type-foundry--nekst-rounded",
+  "source_url": "https://serebryakov.com/fonts/nekst-rounded",
+  "checked_at": "2026-03-08T16:58:44.697371+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-26",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/nekst-rounded",
+      "snippet": "ternates Case-sensitive forms Oldstyle/Lining figures Team Denis Serebryakov (author) Olga Luchanok (assistent) Release Feb 26, 2026 Nekst Rounded is Nekst with some of the harshness dialed back. Same geometric foundatio"
+    },
+    {
+      "date": "2006-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/nekst-rounded",
+      "snippet": "splay applications. Nekst Rounded is proof that character doesn't break when softened. Sometimes it only gets richer. © 2006– 2026 Instagram BELARUS, 220021, MINSK, NEZAVISIMOSTI AVE., 95A, OFFICE 37, REG. BY THE MINSK C"
+    },
+    {
+      "date": "2014-02-11",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/nekst-rounded",
+      "snippet": "026 Instagram BELARUS, 220021, MINSK, NEZAVISIMOSTI AVE., 95A, OFFICE 37, REG. BY THE MINSK CITY EXECUTIVE COMMITTEE ON FEB 11, 2014. TAX ID 290447975, IE DENIS RODIONOVICH SEREBRYAKOV"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/nekst-rounded",
+      "snippet": "applications. Nekst Rounded is proof that character doesn't break when softened. Sometimes it only gets richer. © 2006– 2026 Instagram BELARUS, 220021, MINSK, NEZAVISIMOSTI AVE., 95A, OFFICE 37, REG. BY THE MINSK CITY EX"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://serebryakov.com/fonts/nekst-rounded",
+      "snippet": "2026-03-05"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://serebryakov.com/fonts/nekst-rounded",
+    "last_modified": null
+  }
+}

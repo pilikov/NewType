@@ -1,0 +1,41 @@
+{
+  "record_id": "blinded",
+  "source_url": "https://dirtylinestudio.com/product/blinded-freestyle-brush/",
+  "checked_at": "2026-03-09T01:47:19.568094+00:00",
+  "candidates": [
+    {
+      "date": "2020-03-27",
+      "score": 0.7,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://dirtylinestudio.com/product/blinded-freestyle-brush/",
+      "snippet": "2020-03-27T10:21:23+07:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://dirtylinestudio.com/product/blinded-freestyle-brush/",
+      "snippet": "es Mockups Freebies Custom-Project Shop Freebies Custom-Project Works Font In Use Blog License About © Dirtyline Studio 2026 Blinded – Freestyle Brush Buying Options Font Tester Info Glyph Buying Options White/Black Titl"
+    },
+    {
+      "date": "2025-03-17",
+      "score": 0.44999999999999996,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://dirtylinestudio.com/product/blinded-freestyle-brush/",
+      "snippet": "2025-03-17T16:45:12+07:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://dirtylinestudio.com/product/blinded-freestyle-brush/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://dirtylinestudio.com/product/blinded-freestyle-brush/",
+    "last_modified": null
+  }
+}

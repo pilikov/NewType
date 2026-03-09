@@ -1,0 +1,41 @@
+{
+  "record_id": "depot-new-condensed",
+  "source_url": "https://www.myfonts.com/collections/depot-new-condensed-font-moretype",
+  "checked_at": "2026-03-09T01:36:59.434904+00:00",
+  "candidates": [
+    {
+      "date": "2010-07-27",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.myfonts.com/collections/depot-new-condensed-font-moretype",
+      "snippet": "font collection. Designers: Chris Dickinson Publisher: moretype Foundry: moretype Design Owner: moretype MyFonts debut: Jul 27, 2010 Depot New Condensed About moretype Chris Dickinson graduated from Brighton University w"
+    },
+    {
+      "date": "1999-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.myfonts.com/collections/depot-new-condensed-font-moretype",
+      "snippet": "elp FAQ Contact About Terms and Conditions Terms of Use Privacy Policy Return Policy Legal Help FAQ Contact Copyright © 1999-2025 MyFonts Inc. All rights reserved. Choosing a selection results in a full page refresh."
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.myfonts.com/collections/depot-new-condensed-font-moretype",
+      "snippet": "AQ Contact About Terms and Conditions Terms of Use Privacy Policy Return Policy Legal Help FAQ Contact Copyright © 1999-2025 MyFonts Inc. All rights reserved. Choosing a selection results in a full page refresh."
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.myfonts.com/collections/depot-new-condensed-font-moretype",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.myfonts.com/collections/depot-new-condensed-font-moretype",
+    "last_modified": null
+  }
+}

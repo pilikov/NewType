@@ -1,0 +1,41 @@
+{
+  "record_id": "analo-grotesk",
+  "source_url": "https://due-studio.com/typefaces/analo-grotesk",
+  "checked_at": "2026-03-09T01:39:43.591777+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.due-studio.com/typefaces/analo-grotesk",
+      "snippet": "ss11 ss12 ss13 ss14 ss15 ss16 ss17 ss18 ss19 ss20 Styles Regular Designer Alessio Pompadura, Massimiliano Vitti Release 2019 (v1.0) Encoding Latin-1 Supplement Specimen Download Analo Grotesk is a non-conventional pixel "
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.due-studio.com/typefaces/analo-grotesk",
+      "snippet": "pared to a classic pixel font. The set includes an array of 269 glyphs with eccentric alternates and dirty pop icons. © 2022 Due Studio Via Luigi Einaudi, 88 06073, Corciano (PG), Italy info@due-studio.com type@due-studi"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.due-studio.com/typefaces/analo-grotesk",
+      "snippet": "Fri, 06 Mar 2026 01:24:06 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://due-studio.com/typefaces/analo-grotesk",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.due-studio.com/typefaces/analo-grotesk",
+    "last_modified": "Fri, 06 Mar 2026 01:24:06 GMT"
+  }
+}

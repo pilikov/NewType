@@ -1,0 +1,41 @@
+{
+  "record_id": "chevin-std",
+  "source_url": "https://g-type.com/fonts/chevin-std-font",
+  "checked_at": "2026-03-09T01:53:54.487056+00:00",
+  "candidates": [
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://g-type.com/fonts/chevin-std-font",
+      "snippet": " ˚ ˜ Receive G-Type news & offers Sign up G-Type About Us Contact FAQ Privacy Terms Social Facebook Twitter Instagram © 2012–2026 G-Type. All rights reserved. Site by Mud g-type-logo ui-add-font ui-arrow-related Close Gr"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://g-type.com/fonts/chevin-std-font",
+      "snippet": "Receive G-Type news & offers Sign up G-Type About Us Contact FAQ Privacy Terms Social Facebook Twitter Instagram © 2012–2026 G-Type. All rights reserved. Site by Mud g-type-logo ui-add-font ui-arrow-related Close Group 5"
+    },
+    {
+      "date": "2007-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://g-type.com/fonts/chevin-std-font",
+      "snippet": "thout being cute, and very legible even in small sizes because of its restrained shapes and simple construction.” Since 2007 the Chevin typeface has been highly prominent in the UK as Royal Mail’s corporate font and the "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://g-type.com/fonts/chevin-std-font",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://g-type.com/fonts/chevin-std-font",
+    "last_modified": null
+  }
+}

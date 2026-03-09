@@ -1,0 +1,125 @@
+{
+  "record_id": "aform",
+  "source_url": "https://obrysy.xyz/typefaces/aform",
+  "checked_at": "2026-03-09T01:48:48.744132+00:00",
+  "candidates": [
+    {
+      "date": "2024-02-26",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://obrysy.xyz/aform/",
+      "snippet": "2024-02-26T14:23:35+00:00"
+    },
+    {
+      "date": "2025-10-29",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://obrysy.xyz/aform/",
+      "snippet": "2025-10-29T14:27:25+00:00"
+    },
+    {
+      "date": "2025-10-29",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://obrysy.xyz/aform/",
+      "snippet": "2025-10-29T14:27:25+00:00"
+    },
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://obrysy.xyz/aform/",
+      "snippet": "14 — EM DASH \"case, ss07\" U+2014 — FIGURE DASH U+2012 ‒ HORIZONTAL BAR U+2015 ― HORIZONTAL BAR \"case\" U+2015 ― HYPHEN U+2010 ‐ LOW LINE U+005F _ WAVE DASH U+301C 〜 WAVE DASH \"ss07\" U+301C 〜 WAVE DASH \"case\" U+301C 〜 WAVE"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://obrysy.xyz/aform/",
+      "snippet": "07\" U+2013 – EM DASH U+2014 — EM DASH ss07 U+2014 — EM DASH \"case\" U+2014 — EM DASH \"case, ss07\" U+2014 — FIGURE DASH U+2012 ‒ HORIZONTAL BAR U+2015 ― HORIZONTAL BAR \"case\" U+2015 ― HYPHEN U+2010 ‐ LOW LINE U+005F _ WAVE"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://obrysy.xyz/aform/",
+      "snippet": "\"case\" U+005D ] RIGHT SQUARE BRACKET \"case, ss07\" U+005D ] HYPHEN-MINUS U+002D - HYPHEN-MINUS \"case\" U+002D - EN dash U+2013 – EN dash \"ss07\" U+2013 – EN DASH \"case\" U+2013 – EN DASH \"case, ss07\" U+2013 – EM DASH U+2014 "
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://obrysy.xyz/aform/",
+      "snippet": "case\" U+002D - EN dash U+2013 – EN dash \"ss07\" U+2013 – EN DASH \"case\" U+2013 – EN DASH \"case, ss07\" U+2013 – EM DASH U+2014 — EM DASH ss07 U+2014 — EM DASH \"case\" U+2014 — EM DASH \"case, ss07\" U+2014 — FIGURE DASH U+201"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://obrysy.xyz/aform/",
+      "snippet": "014 — EM DASH ss07 U+2014 — EM DASH \"case\" U+2014 — EM DASH \"case, ss07\" U+2014 — FIGURE DASH U+2012 ‒ HORIZONTAL BAR U+2015 ― HORIZONTAL BAR \"case\" U+2015 ― HYPHEN U+2010 ‐ LOW LINE U+005F _ WAVE DASH U+301C 〜 WAVE DASH"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://obrysy.xyz/aform/",
+      "snippet": " U+201C “ RIGHT DOUBLE QUOTATION MARK U+201D ” RIGHT DOUBLE QUOTATION MARK \"ss05\" U+201D ” LEFT SINGLE QUOTATION MARK U+2018 ‘ LEFT SINGLE QUOTATION MARK \"ss05\" U+2018 ‘ RIGHT SINGLE QUOTATION MARK U+2019 ’ RIGHT SINGLE "
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://obrysy.xyz/aform/",
+      "snippet": "\" U+201D ” LEFT SINGLE QUOTATION MARK U+2018 ‘ LEFT SINGLE QUOTATION MARK \"ss05\" U+2018 ‘ RIGHT SINGLE QUOTATION MARK U+2019 ’ RIGHT SINGLE QUOTATION MARK \"ss05\" U+2019 ’ SINGLE LEFT-POINTING ANGLE QUOTATION MARK U+2039 "
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://obrysy.xyz/aform/",
+      "snippet": "CAL LINE \"ss07\" U+007C | VERTICAL LINE \"case\" U+007C | VERTICAL LINE \"case, ss07\" U+007C | BROKEN BAR U+00A6 ¦ DAGGER U+2020 † LDOUBLE DAGGER U+2021 ‡ SCRIPT SMALL L U+2113 ℓ ESTIMATED SYMBOL U+212E ℮ LNUMERO SIGN UU+211"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://obrysy.xyz/aform/",
+      "snippet": " VERTICAL LINE \"case\" U+007C | VERTICAL LINE \"case, ss07\" U+007C | BROKEN BAR U+00A6 ¦ DAGGER U+2020 † LDOUBLE DAGGER U+2021 ‡ SCRIPT SMALL L U+2113 ℓ ESTIMATED SYMBOL U+212E ℮ LNUMERO SIGN UU+2116 № SERVICE MARK U+2120 "
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://obrysy.xyz/aform/",
+      "snippet": "F ¿ MIDDLE DOT U+00B7 · MIDDLE DOT \"ss05\" U+00B7 · MIDDLE DOT \"LOCL\" U+00B7 · MIDDLE DOT \"LOCL, CASE\" U+00B7 · BULLET U+2022 • BULLET \"case\" U+2022 • ASTERISK U+002A * NUMBER SIGN U+0023 # OVERLINE U+203E ‾ SOLIDUS U+002"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://obrysy.xyz/aform/",
+      "snippet": "ons for Romanian) Version: 1.0 Font Formats: OTF, TTF, WOFF, WOFF2 Designed and produced by Jitka Schneider Copyright © 2024 by Jitka Schneider. All rights reserved. Features Contextual Alternates \"calt\" px NÏÏN nïïn -→ "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://obrysy.xyz/aform/",
+      "snippet": " : COLON \"case\" U+003A : COLON \"case, ss05\" U+003A : SEMICOLON U+003B ; SEMICOLON \"ss05\" U+003B ; HORIZONTAL ELLIPSIS U+2026 … EXCLAMATION MARK U+0021 ! INVERTED EXCLAMATION MARK U+00A1 ¡ INVERTED EXCLAMATION MARK \"case\""
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://obrysy.xyz/typefaces/aform",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://obrysy.xyz/aform/",
+    "last_modified": null
+  }
+}

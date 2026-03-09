@@ -1,0 +1,41 @@
+{
+  "record_id": "caliza",
+  "source_url": "https://quintana-font.cl/typefaces/caliza",
+  "checked_at": "2026-03-09T01:48:32.774216+00:00",
+  "candidates": [
+    {
+      "date": "2024-04-23",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://quintana-font.cl/typefaces/caliza",
+      "snippet": "2024-04-23"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://quintana-font.cl/typefaces/caliza",
+      "snippet": "ldstyle Figures Font features Stylistic set 01 Font Variations 100px format_size format_line_spacing Ray Bradbury {1920-2012} Caliza BETA Bold Select a style Caliza BETA Thin Caliza BETA Ultra Light Caliza BETA Light Cal"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://quintana-font.cl/typefaces/caliza",
+      "snippet": "ium U$D 12.00 Caliza BETA Bold U$D 12.00 Caliza BETA Black U$D 12.00 TOTAL U$D 0.00 Proceed to checkout Quintana-Font © 2026 Font Catalog Loica Sans Violeta RunRun Lira Sans Berenjena Simona Chupilca Vivaceta Modérnica L"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://quintana-font.cl/typefaces/caliza",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://quintana-font.cl/typefaces/caliza",
+    "last_modified": null
+  }
+}

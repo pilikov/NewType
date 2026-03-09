@@ -1,0 +1,34 @@
+{
+  "record_id": "a2-standard-engraved",
+  "source_url": "https://a2-type.co.uk/a2-standard-engraved",
+  "checked_at": "2026-03-09T01:40:35.670884+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/a2-standard-engraved",
+      "snippet": "ved A2 Standard Engraved Buy A2 Standard is a collection of fonts commissioned by the Evening Standard as part of their 2017–18 redesign. The bespoke font system comprises; Serif Text, Display, Sans, Sans Condensed, and "
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/a2-standard-engraved",
+      "snippet": " Sorbian, Vunjo, Walloon, Welsh, Western Frisian, Wolof, Xhosa, Zulu Manufacturer: A2-TYPE Designer: Henrik Kubel Year: 2019 Copyright: © A2-TYPE Trademark: A2 Standard Engraved is a trademark of A2-TYPE Licence: Terms a"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://a2-type.co.uk/a2-standard-engraved",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://a2-type.co.uk/a2-standard-engraved",
+    "last_modified": null
+  }
+}

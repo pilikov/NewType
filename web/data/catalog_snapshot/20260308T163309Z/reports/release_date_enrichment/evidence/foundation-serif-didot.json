@@ -1,0 +1,27 @@
+{
+  "record_id": "foundation-serif-didot",
+  "source_url": "https://a2-type.co.uk/foundation-serif-didot",
+  "checked_at": "2026-03-09T01:50:09.787448+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/foundation-serif-didot",
+      "snippet": " Sorbian, Vunjo, Walloon, Welsh, Western Frisian, Wolof, Xhosa, Zulu Manufacturer: A2-TYPE Designer: Henrik Kubel Year: 2018 Copyright: © A2-TYPE Trademark: Foundation Serif Didot is a trademark of A2-TYPE Licence: Terms"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://a2-type.co.uk/foundation-serif-didot",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://a2-type.co.uk/foundation-serif-didot",
+    "last_modified": null
+  }
+}

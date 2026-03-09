@@ -1,0 +1,41 @@
+{
+  "record_id": "slandic",
+  "source_url": "https://www.vibrant-types.com/typefaces/slandic",
+  "checked_at": "2026-03-09T01:54:59.474455+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.vibrant-types.com/slandic/",
+      "snippet": "eichen 555 Eigenschaften Formatvarianten Ligaturen Versalformen Zusätzliche Ziffern Pfeile Designer Philip Lammert Jahr 2020 Design-Merkmale Strichstärken Schriftzeichen-Proportionen n n n n n n Schriftzeichen-Grundgerüs"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.vibrant-types.com/slandic/",
+      "snippet": " Entdeckung oder Missbrauch schützt. Philip Lammert, Vibrant Types, Krausestraße 37, 22049 Hamburg, Deutschland Februar 2023 Download Adelbrook DIN Neue Roman Moucha Peter Slandic Custom Typeface Account Instagram Behanc"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.vibrant-types.com/slandic/",
+      "snippet": "Mon, 09 Mar 2026 01:55:01 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.vibrant-types.com/typefaces/slandic",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.vibrant-types.com/slandic/",
+    "last_modified": "Mon, 09 Mar 2026 01:55:01 GMT"
+  }
+}

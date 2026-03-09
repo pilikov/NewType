@@ -1,0 +1,34 @@
+{
+  "record_id": "bookmania",
+  "source_url": "https://www.marksimonson.com/fonts/view/bookmania",
+  "checked_at": "2026-03-09T01:52:37.880548+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.marksimonson.com/fonts/view/bookmania/",
+      "snippet": "turn Policy Connect Contact Me Email Newsletter Instagram X (Twitter) Mastodon Notebook RSS Feed Mark Simonson Studio © 2026 The Type Founders, LLC"
+    },
+    {
+      "date": "2011-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.marksimonson.com/fonts/view/bookmania/",
+      "snippet": "Bookmania | Fonts by Mark Simonson Fonts Notebook Services About Cart Bookmania Fonts Buy Bookmania Bookmania (2011) combines the sturdy elegance of the original Bookman Oldstyle (1901) with the swashy exuberance of the "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.marksimonson.com/fonts/view/bookmania",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.marksimonson.com/fonts/view/bookmania/",
+    "last_modified": null
+  }
+}

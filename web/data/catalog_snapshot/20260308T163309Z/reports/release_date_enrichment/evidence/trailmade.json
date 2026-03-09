@@ -1,0 +1,19 @@
+{
+  "record_id": "trailmade",
+  "source_url": "https://ladd-design.com/fonts/trailmade",
+  "checked_at": "2026-03-09T02:03:40.742787+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ladd-design.com/fonts/trailmade",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "404 Client Error: Not Found for url: https://ladd-design.com/fonts/trailmade"
+  }
+}

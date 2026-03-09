@@ -1,0 +1,41 @@
+{
+  "record_id": "hwt-konop",
+  "source_url": "https://www.marksimonson.com/fonts/view/hwt-konop",
+  "checked_at": "2026-03-09T02:02:59.676758+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.marksimonson.com/fonts/view/hwt-konop/",
+      "snippet": "turn Policy Connect Contact Me Email Newsletter Instagram X (Twitter) Mastodon Notebook RSS Feed Mark Simonson Studio © 2026 The Type Founders, LLC"
+    },
+    {
+      "date": "2004-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.marksimonson.com/fonts/view/hwt-konop/",
+      "snippet": " P22 . It’s named after Don Konop, a retired Hamilton Manufacturing\n            employee, who worked there from 1959 to 2004, and serves on the Two\n            Rivers Historical Society Board. HWT Konop is a monospaced ("
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.marksimonson.com/fonts/view/hwt-konop/",
+      "snippet": "HWT Konop - Mark Simonson Fonts Notebook Services About Cart Buy HWT Konop HWT Konop HWT Konop (2018) is an original wood type design I created\n            for the Hamilton Wood Type & Printing Museum as part of The Hami"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.marksimonson.com/fonts/view/hwt-konop",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.marksimonson.com/fonts/view/hwt-konop/",
+    "last_modified": null
+  }
+}

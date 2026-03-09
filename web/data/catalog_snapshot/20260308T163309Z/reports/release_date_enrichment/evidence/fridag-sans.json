@@ -1,0 +1,28 @@
+{
+  "record_id": "fridag-sans",
+  "source_url": "https://www.paavolatype.com/typefaces/fridag-sans",
+  "checked_at": "2026-03-09T01:41:44.533074+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.paavolatype.com/wp-content/uploads/Fridag-sans.png",
+      "snippet": "Thu, 21 Jul 2022 09:18:49 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.paavolatype.com/typefaces/fridag-sans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": 200,
+    "error": "unsupported content-type: image/png",
+    "final_url": "https://www.paavolatype.com/wp-content/uploads/Fridag-sans.png",
+    "last_modified": "Thu, 21 Jul 2022 09:18:49 GMT"
+  }
+}

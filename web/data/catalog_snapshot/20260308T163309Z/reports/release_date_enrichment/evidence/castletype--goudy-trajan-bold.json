@@ -1,0 +1,41 @@
+{
+  "record_id": "castletype--goudy-trajan-bold",
+  "source_url": "http://www.castletype.com/html/tipoteca/goudy-trajan-bold.html",
+  "checked_at": "2026-03-09T02:00:55.220651+00:00",
+  "candidates": [
+    {
+      "date": "1990-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://www.castletype.com/html/tipoteca/goudy-trajan-bold.html",
+      "snippet": "nType Codepages Webfonts Connect Contact Support Facebook Policies Licensing About CastleType Font Services Copyright © 1990-2025 CastleType. All rights reserved. Todos los derechos reservados. Tous droits réservés."
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://www.castletype.com/html/tipoteca/goudy-trajan-bold.html",
+      "snippet": " Codepages Webfonts Connect Contact Support Facebook Policies Licensing About CastleType Font Services Copyright © 1990-2025 CastleType. All rights reserved. Todos los derechos reservados. Tous droits réservés."
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "http://www.castletype.com/html/tipoteca/goudy-trajan-bold.html",
+      "snippet": "Thu, 27 Mar 2025 00:58:10 GMT"
+    },
+    {
+      "date": "2026-02-22",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://www.castletype.com/html/tipoteca/goudy-trajan-bold.html",
+      "snippet": "2026-02-22"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "http://www.castletype.com/html/tipoteca/goudy-trajan-bold.html",
+    "last_modified": "Thu, 27 Mar 2025 00:58:10 GMT"
+  }
+}

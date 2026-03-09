@@ -1,0 +1,34 @@
+{
+  "record_id": "pritzious",
+  "source_url": "https://www.c-a-s-t.com/typefaces/pritzious",
+  "checked_at": "2026-03-09T01:47:50.820137+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/pritzious/",
+      "snippet": "ced. When did you start working on Pritzious? Pritzious was conceived and developed during the Type Design Expert Class 2021–2022 chaired by Frank E. Blokland, with the help of Jan Van der Linden, at the Plantin Instituu"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/pritzious/",
+      "snippet": "anish, Swahili, Swedish, Swiss German, Taita, Teso, Uzbek (Latin), Vunjo, Welsh, Western Frisian, Zulu Production years 2022 Additional info Pritzious, the tasty and charming unjoined script Pritzious is a script typefac"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.c-a-s-t.com/typefaces/pritzious",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.c-a-s-t.com/typefaces/pritzious/",
+    "last_modified": null
+  }
+}

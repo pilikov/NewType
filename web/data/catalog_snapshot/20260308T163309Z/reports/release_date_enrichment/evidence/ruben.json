@@ -1,0 +1,48 @@
+{
+  "record_id": "ruben",
+  "source_url": "https://www.vocaltype.co/history-of/ruben",
+  "checked_at": "2026-03-09T02:00:36.348240+00:00",
+  "candidates": [
+    {
+      "date": "2019-08-08",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.vocaltype.co/history-of/ruben",
+      "snippet": "2019-08-08T04:13:18-0400"
+    },
+    {
+      "date": "2019-08-08",
+      "score": 0.9,
+      "source_type": "meta:datePublished",
+      "source_url": "https://www.vocaltype.co/history-of/ruben",
+      "snippet": "2019-08-08T04:13:18-0400"
+    },
+    {
+      "date": "2023-06-04",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.vocaltype.co/history-of/ruben",
+      "snippet": "2023-06-04T20:06:39-0400"
+    },
+    {
+      "date": "2019-08-08",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.vocaltype.co/history-of/ruben",
+      "snippet": "Type Sign In My Account Typefaces Custom Design History Progress Information Reach Sign In My Account RUBEN Tre Seals · August  8, 2019 RUBEN is a font inspired by  journalist  Rubén Salazar and remnants of the 1970 Nati"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.vocaltype.co/history-of/ruben",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.vocaltype.co/history-of/ruben",
+    "last_modified": null
+  }
+}

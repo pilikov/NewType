@@ -1,0 +1,90 @@
+{
+  "record_id": "hanje",
+  "source_url": "https://new-letters.de/typefaces/hanje",
+  "checked_at": "2026-03-09T01:57:07.427121+00:00",
+  "candidates": [
+    {
+      "date": "2021-11-02",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://www.new-letters.de/font/hanje/hanje/",
+      "snippet": "2021-11-02T17:22:33+00:00"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.new-letters.de/font/hanje/hanje/",
+      "snippet": "ntage Cap Freya specimen box Yellow tote bag & flyer Buy Information Imprint Privacy-Policy Hanje Posted on 2. November 2021 by abc_new-letters_xyz Post navigation Hanje OK COOKIES We use cookies to improve our site and "
+    },
+    {
+      "date": "2021-11-02",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.new-letters.de/font/hanje/hanje/",
+      "snippet": "2021-11-02T17:22:33+00:00"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.new-letters.de/font/hanje/hanje/",
+      "snippet": "ear: 2018 Styles: 9 cuts, 4 weights Designer: Armin, Markus Year: 2015 Styles: 11 cuts, 6 weights Designer: Armin Year: 2014 Styles: Serif, Italic Designer: Armin, Markus Year: 2017 Styles: 6 cuts, 3 weights Designer: Ar"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.new-letters.de/font/hanje/hanje/",
+      "snippet": "9 Styles: 15 cuts, 7 weights Designer: Armin, Markus Year: 2018 Styles: 9 cuts, 4 weights Designer: Armin, Markus Year: 2015 Styles: 11 cuts, 6 weights Designer: Armin Year: 2014 Styles: Serif, Italic Designer: Armin, Ma"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.new-letters.de/font/hanje/hanje/",
+      "snippet": "us Year: 2015 Styles: 11 cuts, 6 weights Designer: Armin Year: 2014 Styles: Serif, Italic Designer: Armin, Markus Year: 2017 Styles: 6 cuts, 3 weights Designer: Armin, Markus Year: 2015 Styles: 12 cuts, 4 weights Designe"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.new-letters.de/font/hanje/hanje/",
+      "snippet": "r: 2021 Styles: Truth, Fear Designer: Armin, Markus Year: 2019 Styles: 15 cuts, 7 weights Designer: Armin, Markus Year: 2018 Styles: 9 cuts, 4 weights Designer: Armin, Markus Year: 2015 Styles: 11 cuts, 6 weights Designe"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.new-letters.de/font/hanje/hanje/",
+      "snippet": " 2021 Styles: Ultra Heavy & Italic Designer: Armin, Markus Year: 2021 Styles: Truth, Fear Designer: Armin, Markus Year: 2019 Styles: 15 cuts, 7 weights Designer: Armin, Markus Year: 2018 Styles: 9 cuts, 4 weights Designe"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.new-letters.de/font/hanje/hanje/",
+      "snippet": " Solvej Designer: Thomas John Year: 2024 Styles: 28, 7 Weights, Straight/Angled + Italics Designer: Armin, Markus Year: 2022 Styles: 35, 7 Weights, 5 Widths Designer: Thomas John Year: 2021 Styles: Ultra Heavy & Italic D"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.new-letters.de/font/hanje/hanje/",
+      "snippet": "Typefaces Goods Gazet Laif Hanje Kjell Anaïs Rois Mériva Voltaire Freya Tilde Rasmus Solvej Designer: Thomas John Year: 2024 Styles: 28, 7 Weights, Straight/Angled + Italics Designer: Armin, Markus Year: 2022 Styles: 35,"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://new-letters.de/typefaces/hanje",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.new-letters.de/font/hanje/hanje/",
+    "last_modified": null
+  }
+}

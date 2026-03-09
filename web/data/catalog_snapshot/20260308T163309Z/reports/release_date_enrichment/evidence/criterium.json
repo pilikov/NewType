@@ -1,0 +1,27 @@
+{
+  "record_id": "criterium",
+  "source_url": "https://aesthetictype.com/criterium",
+  "checked_at": "2026-03-09T01:50:29.465935+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://aesthetictype.com/criterium",
+      "snippet": "ItemCountPadded}} {{user.email}} / Account Sign In / Sign Up Index – Edited by Aesthetic Type – Information – Contact © 2026 Aesthetic Type. All Rights Reserved. Process Instagram Mailing List Support Privacy ."
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://aesthetictype.com/criterium",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://aesthetictype.com/criterium",
+    "last_modified": null
+  }
+}

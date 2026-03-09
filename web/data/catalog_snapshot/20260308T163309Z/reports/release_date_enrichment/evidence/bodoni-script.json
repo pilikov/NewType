@@ -1,0 +1,48 @@
+{
+  "record_id": "bodoni-script",
+  "source_url": "https://parachutefonts.com/typeface/bodoni-script",
+  "checked_at": "2026-03-09T01:54:04.892335+00:00",
+  "candidates": [
+    {
+      "date": "2002-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/bodoni-script",
+      "snippet": "s and enhanced calligraphic details. Matching lowercase italics were designed to complete the series. First released in 2002 and published in the award-winning IDEA catalog, the project was later expanded to include orna"
+    },
+    {
+      "date": "2008-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/bodoni-script",
+      "snippet": "frame font composed of 120 modular border elements , available separately or as part of the complete family. Published: 2008 Designer: Panos Vassiliou FORMAT Desktop (otf) Web (woff/woff2) Digital Ad (woff/woff2) ePub (o"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/bodoni-script",
+      "snippet": "abled styles are only available when you purchase the entire family. ADD STYLE Close Newsletter / Follow us      © 2026 Parachute® Typefoundry. All Rights Reserved COOKIES NOTICE This Site uses cookies, including th"
+    },
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/bodoni-script",
+      "snippet": "ebrew Hebrew Buy PF Bodoni Script Inspired by Giambattista Bodoni’s 'Manuale Tipografico' (1818), this project began in 2000 with an in-depth study of one of the most important type specimen books ever printed. Issued in"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://parachutefonts.com/typeface/bodoni-script",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://parachutefonts.com/typeface/bodoni-script",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "record_id": "andika",
+  "source_url": "https://software.sil.org/andika/",
+  "checked_at": "2026-03-09T01:49:22.693953+00:00",
+  "candidates": [
+    {
+      "date": "2014-10-02",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://software.sil.org/andika/",
+      "snippet": "2014-10-02T09:52:47+00:00"
+    },
+    {
+      "date": "2014-10-02",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://software.sil.org/andika/",
+      "snippet": "2014-10-02T09:52:47+00:00"
+    },
+    {
+      "date": "2021-07-02",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/andika/",
+      "snippet": "y 2025 Andika Release 6.200 6 February 2023 Andika Release 6.101 TypeTuner Web 16 February 2022 Release 6.001 Quick Fix 2 July 2021 This font software is free to use, modify and redistribute according to the terms of the"
+    },
+    {
+      "date": "2022-02-16",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/andika/",
+      "snippet": "enamed version of Andika 6.200 14 February 2025 Andika Release 6.200 6 February 2023 Andika Release 6.101 TypeTuner Web 16 February 2022 Release 6.001 Quick Fix 2 July 2021 This font software is free to use, modify and r"
+    },
+    {
+      "date": "2023-02-06",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/andika/",
+      "snippet": "se 7.000 3 June 2025 Andika Six Release 6.210 – A renamed version of Andika 6.200 14 February 2025 Andika Release 6.200 6 February 2023 Andika Release 6.101 TypeTuner Web 16 February 2022 Release 6.001 Quick Fix 2 July 2"
+    },
+    {
+      "date": "2025-02-14",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/andika/",
+      "snippet": "s - FAQ list. Recent news Andika Release 7.000 3 June 2025 Andika Six Release 6.210 – A renamed version of Andika 6.200 14 February 2025 Andika Release 6.200 6 February 2023 Andika Release 6.101 TypeTuner Web 16 February"
+    },
+    {
+      "date": "2025-06-03",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/andika/",
+      "snippet": " Andika - FAQ list. See also the complete Latin, Cyrillic, and Greek Fonts - FAQ list. Recent news Andika Release 7.000 3 June 2025 Andika Six Release 6.210 – A renamed version of Andika 6.200 14 February 2025 Andika Rel"
+    },
+    {
+      "date": "2025-06-02",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://software.sil.org/andika/",
+      "snippet": "2025-06-02T15:14:18+00:00"
+    },
+    {
+      "date": "2025-06-02",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://software.sil.org/andika/",
+      "snippet": "2025-06-02T15:14:18+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/andika/",
+      "snippet": "Font License Writing Systems Technology Technical Resources Contact & Support Contact Support Community FAQ Copyright © 2026 SIL Global Terms of Use Privacy Policy"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://software.sil.org/andika/",
+      "snippet": "Sun, 08 Mar 2026 23:57:00 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://software.sil.org/andika/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://software.sil.org/andika/",
+    "last_modified": "Sun, 08 Mar 2026 23:57:00 GMT"
+  }
+}

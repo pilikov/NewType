@@ -1,0 +1,19 @@
+{
+  "record_id": "republish--barber-tho-cao",
+  "source_url": "https://republi.sh/barber-tho-cao",
+  "checked_at": "2026-03-09T02:04:14.643352+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-02",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://republi.sh/barber-tho-cao",
+      "snippet": "2026-02-02"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "404 Client Error: Not Found for url: https://republi.sh/barber-tho-cao"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "multisport",
+  "source_url": "https://sportsfonts.com/fonts/multisport",
+  "checked_at": "2026-03-09T01:58:29.045851+00:00",
+  "candidates": [
+    {
+      "date": "2025-05-02",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://sportsfonts.com/fonts/multisport",
+      "snippet": "2025-05-02"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sportsfonts.com/fonts/multisport",
+      "snippet": "rts, from no-budget to high-profile. Browse our retail fonts , or get in touch for modifications or custom solutions. © 2016–2026 Sportsfonts / Christoph Koeberlin . Website by Andreas Nymark . No cookies, no tracking, n"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sportsfonts.com/fonts/multisport",
+      "snippet": "mation Designer Christoph Koeberlin Styles 18 License Work in progress. Preview fonts and licensing upon request . Year 2025 Tags Work in progress Numerals + Letters Font styles Multisport A Aa Regular Aa 3D Aa Inline Aa"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sportsfonts.com/fonts/multisport",
+      "snippet": "from no-budget to high-profile. Browse our retail fonts , or get in touch for modifications or custom solutions. © 2016–2026 Sportsfonts / Christoph Koeberlin . Website by Andreas Nymark . No cookies, no tracking, no shi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://sportsfonts.com/fonts/multisport",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sportsfonts.com/fonts/multisport",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "record_id": "gonzaga",
+  "source_url": "https://fontfabric.com/typefaces/gonzaga",
+  "checked_at": "2026-03-09T01:39:48.175756+00:00",
+  "candidates": [
+    {
+      "date": "2024-05-16",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.fontfabric.com/fonts/gonzaga/",
+      "snippet": "2024-05-16T15:04:11+00:00"
+    },
+    {
+      "date": "2024-05-16",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/gonzaga/",
+      "snippet": "ures, fractions, superscripts, and subscripts—empowering designers with expert-level typographic control. Release Date: May 16, 2024 Explore More: Serif Fonts Credits: Kiril Zlatkov , Ivelina Martinova , Viktoria Usmanov"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.fontfabric.com/fonts/gonzaga/",
+      "snippet": "2026-02-18T12:53:17+00:00"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.fontfabric.com/fonts/gonzaga/",
+      "snippet": "2026-02-18T12:53:17+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/gonzaga/",
+      "snippet": "pt fonts Font sale Free fonts Fonts in use Font collections Legal Infringements About Help Blog Partnerships Contact us 2026 © Fontfabric llc. Privacy Notice Manage Cookies"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.fontfabric.com/fonts/gonzaga/",
+      "snippet": "Sun, 08 Mar 2026 12:10:12 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fontfabric.com/typefaces/gonzaga",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.fontfabric.com/fonts/gonzaga/",
+    "last_modified": "Sun, 08 Mar 2026 12:10:12 GMT"
+  }
+}

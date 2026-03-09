@@ -1,0 +1,34 @@
+{
+  "record_id": "cyreal--volkhov",
+  "source_url": "https://www.cyreal.org/fonts/volkhov",
+  "checked_at": "2026-03-09T01:36:06.812124+00:00",
+  "candidates": [
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/volkhov/",
+      "snippet": "s Format Static 4 styles OTF, TTF, woff2 Download Donate Source Files Authors: Ivan Petrov Tags: Serif Scripts: Latin © 2010–2026 Cyreal and respective authors. All rights reserved. This site uses cookies (including Goog"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/volkhov/",
+      "snippet": "mat Static 4 styles OTF, TTF, woff2 Download Donate Source Files Authors: Ivan Petrov Tags: Serif Scripts: Latin © 2010–2026 Cyreal and respective authors. All rights reserved. This site uses cookies (including Google An"
+    },
+    {
+      "date": "2026-03-02",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.cyreal.org/fonts/volkhov",
+      "snippet": "2026-03-02"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.cyreal.org/fonts/volkhov/",
+    "last_modified": null
+  }
+}

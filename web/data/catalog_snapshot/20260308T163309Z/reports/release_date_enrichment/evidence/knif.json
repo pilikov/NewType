@@ -1,0 +1,41 @@
+{
+  "record_id": "knif",
+  "source_url": "https://aisforfonts.com/typefaces/knif",
+  "checked_at": "2026-03-09T01:47:03.679308+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://aisforfonts.com/knif/",
+      "snippet": " shape that goes well with the similar shape of the R and K. We released the Knif mono roman on “A is for…” in November 2016. Axel designed an italic to turn Knif into a family, and we released the latter in December 201"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://aisforfonts.com/knif/",
+      "snippet": "A is for…” in November 2016. Axel designed an italic to turn Knif into a family, and we released the latter in December 2017. The italic has been inspired by some shapes from French Renaissance times (clearly visible in "
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://aisforfonts.com/knif/",
+      "snippet": "italic regular italic medium italic bold italic extrabold italic black italic The creation of Knif mono started in July 2015, when Axel Pelletanche-Thévenart began to work under the direction of Guillaume Grall and Benoî"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://aisforfonts.com/typefaces/knif",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://aisforfonts.com/knif/",
+    "last_modified": null
+  }
+}

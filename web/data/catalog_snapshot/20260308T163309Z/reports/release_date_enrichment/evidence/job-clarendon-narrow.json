@@ -1,0 +1,41 @@
+{
+  "record_id": "job-clarendon-narrow",
+  "source_url": "https://djr.com/notes/job-clarendon-narrow-font-of-the-month",
+  "checked_at": "2026-03-09T01:58:35.723815+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/job-clarendon-narrow-font-of-the-month",
+      "snippet": "the majority of the published family , the typically-round letters ( C , G , O , etc) have straight sides. But in March 2021 , we introduced Bold–Black weights where those sides go completely round, and last year we doub"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/job-clarendon-narrow-font-of-the-month",
+      "snippet": "otes See all posts May 1, 2025 # David Jonathan Ross April’s Font of the Month: Job Clarendon Narrow Font of the Month, 2025/04 Try Buy $24 In my career, most font development hold-ups were borne of indecisiveness. I was"
+    },
+    {
+      "date": "2025-05-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/job-clarendon-narrow-font-of-the-month",
+      "snippet": "wog Rhody Rustique Slight Chance Tortellini Zenith DJR Club Typeset Glyphs Notes About Sign in Cart Notes See all posts May 1, 2025 # David Jonathan Ross April’s Font of the Month: Job Clarendon Narrow Font of the Month,"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://djr.com/notes/job-clarendon-narrow-font-of-the-month",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://djr.com/notes/job-clarendon-narrow-font-of-the-month",
+    "last_modified": null
+  }
+}

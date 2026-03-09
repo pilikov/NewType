@@ -1,0 +1,41 @@
+{
+  "record_id": "waldenburg",
+  "source_url": "https://kimeracorp.eu/typefaces/waldenburg",
+  "checked_at": "2026-03-09T01:51:24.304462+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kimeracorp.eu/typefaces/waldenburg",
+      "snippet": " hybridization of rural landscapes and strong technological innovation driven economy, its first sketches began in late 2019. Since then a whole superfamily consisting of 24 cuts, varying in weight and width, emerged. Th"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kimeracorp.eu/typefaces/waldenburg",
+      "snippet": "d. The corresponding Kursiv (Italic) cuts were designed by graphic and type designer Marcel Saidov and arrived in early 2022. Design Michael Clasen & Marcel Saidov Character map x-height 535 ascender 959 baseline 0 desce"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kimeracorp.eu/typefaces/waldenburg",
+      "snippet": "e Typefaces, Sans Purchase Get Waldenburg Buy Trial kimera Parkstrasse 22 80339 Munich ®All Rights reserved ©kimera\n    2026 Info Privacy Licensing Products Get updates"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://kimeracorp.eu/typefaces/waldenburg",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://kimeracorp.eu/typefaces/waldenburg",
+    "last_modified": null
+  }
+}

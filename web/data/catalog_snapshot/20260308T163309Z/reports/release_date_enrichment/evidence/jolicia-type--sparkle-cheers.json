@@ -1,0 +1,34 @@
+{
+  "record_id": "jolicia-type--sparkle-cheers",
+  "source_url": "https://joliciatype.com/sparkle-cheers/",
+  "checked_at": "2026-03-09T02:01:07.281161+00:00",
+  "candidates": [
+    {
+      "date": "2025-09-02",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://joliciatype.com/sparkle-cheers/",
+      "snippet": "pe » Font » Script » Sparkle Cheers File Type OTF, TTF, WOFF2 Vector Yes File Size 2,5 MB Sparkle Cheers by Joliciatype September 2, 2025 Choose your license What are these? license <span class=\"g9radioname\">Desktop Lice"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://joliciatype.com/sparkle-cheers/",
+      "snippet": "st offer and updates Subscribe Follow us on Social Media Jolicia Type Support FAQs Privacy Policy Terms and Conditions ©2026 Joliciatype.com - All rights reserved. Scroll to top"
+    },
+    {
+      "date": "2026-02-19",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://joliciatype.com/sparkle-cheers/",
+      "snippet": "2026-02-19"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://joliciatype.com/sparkle-cheers/",
+    "last_modified": null
+  }
+}

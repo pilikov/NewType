@@ -1,0 +1,20 @@
+{
+  "record_id": "resistenza-type-foundry--apero-slab",
+  "source_url": "https://www.rsztype.com/fonts/apero-slab",
+  "checked_at": "2026-03-09T01:54:05.602425+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.rsztype.com/fonts/apero-slab",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.rsztype.com/fonts/apero-slab",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "record_id": "nomad-foundry--forme-grotesque",
+  "source_url": "https://nomadfoundry.design/forme-grotesque-type-specimen",
+  "checked_at": "2026-03-09T01:36:25.916431+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-26",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://nomadfoundry.design/forme-grotesque-type-specimen",
+      "snippet": "2026-02-26"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://nomadfoundry.design/forme-grotesque-type-specimen",
+    "last_modified": null
+  }
+}

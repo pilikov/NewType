@@ -1,0 +1,48 @@
+{
+  "record_id": "jabana",
+  "source_url": "https://typemates.com/fonts/jabana",
+  "checked_at": "2026-03-09T01:57:29.491520+00:00",
+  "candidates": [
+    {
+      "date": "2016-08-30",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typemates.com/fonts/jabana",
+      "snippet": "2016-08-30T21:22:00+02:00"
+    },
+    {
+      "date": "2016-08-30",
+      "score": 0.95,
+      "source_type": "jsonld:dateCreated",
+      "source_url": "https://www.typemates.com/fonts/jabana",
+      "snippet": "2016-08-30T21:06:06+02:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typemates.com/fonts/jabana",
+      "snippet": "2026-03-05T12:05:04+01:00"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/jabana",
+      "snippet": "as a spherical base, a neck and pouring spout a handle where the neck connects to the base. Designed by Nils Thomsen in 2014 Specs Providing 20 styles in 4 weights and 5 widths with 1500 glyphs per font and 2 alternates "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typemates.com/fonts/jabana",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typemates.com/fonts/jabana",
+    "last_modified": null
+  }
+}

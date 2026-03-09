@@ -1,0 +1,62 @@
+{
+  "record_id": "cp-company",
+  "source_url": "https://fsd.it/typefaces/cp-company",
+  "checked_at": "2026-03-09T01:58:20.271123+00:00",
+  "candidates": [
+    {
+      "date": "2015-11-20",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://fsd.it/shop/fonts/cp-company/",
+      "snippet": "2015-11-20T15:13:35+00:00"
+    },
+    {
+      "date": "2025-04-17",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://fsd.it/shop/fonts/cp-company/",
+      "snippet": "2025-04-17T06:40:34+00:00"
+    },
+    {
+      "date": "2025-04-17",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://fsd.it/shop/fonts/cp-company/",
+      "snippet": "2025-04-17T06:40:34+00:00"
+    },
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fsd.it/shop/fonts/cp-company/",
+      "snippet": "ployees Clear Quantity Qty Add to cart Description Reviews 0 My first custom font CP Company™ is a typeface designed in 2000 as part for the corporate image and internal communication of the Italian clothes manufacturer "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fsd.it/shop/fonts/cp-company/",
+      "snippet": "39 Contact Terms and Conditions Privacy and Cookies Shipping policy Refund policy How to protecting the webfont files © 2026 Fabrizio Schiavi. All rights reserved We use cookies on our website to give you the most releva"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://fsd.it/shop/fonts/cp-company/",
+      "snippet": "Sun, 08 Mar 2026 23:13:42 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fsd.it/typefaces/cp-company",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fsd.it/shop/fonts/cp-company/",
+    "last_modified": "Sun, 08 Mar 2026 23:13:42 GMT"
+  }
+}

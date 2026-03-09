@@ -1,0 +1,27 @@
+{
+  "record_id": "oatmeal-pro",
+  "source_url": "https://boulevardlab.com/typefaces/oatmeal-pro",
+  "checked_at": "2026-03-09T01:56:03.479992+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://boulevardlab.com/typefaces/oatmeal-pro",
+      "snippet": " Starting at $40 Lothian Sans Starting at $ 40 Avenue Mono Starting at $40 BL Arctic Starting at $40 ︎BETA TYPEFACES © 2020 All Rights Reserved Instagram Licenses Contact Instagram Licences Contact ©2020 All Rights Rese"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://boulevardlab.com/typefaces/oatmeal-pro",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://boulevardlab.com/typefaces/oatmeal-pro",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "record_id": "stanley-optimo",
+  "source_url": "https://optimo.ch/typefaces/stanley_optimo",
+  "checked_at": "2026-03-09T01:49:22.236813+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://optimo.ch/typefaces/stanley_optimo",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": 500,
+    "error": "HTTP 500"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "zeenesia-studio--ice-cream-grande",
+  "source_url": "https://zeenesia.com/product/ice-cream-grande/",
+  "checked_at": "2026-03-09T01:36:23.144557+00:00",
+  "candidates": [
+    {
+      "date": "2023-07-27",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://zeenesia.com/product/ice-cream-grande/",
+      "snippet": "2023-07-27T02:06:08+00:00"
+    },
+    {
+      "date": "2023-09-17",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://zeenesia.com/product/ice-cream-grande/",
+      "snippet": "2023-09-17T07:30:32+00:00"
+    },
+    {
+      "date": "2023-09-17",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://zeenesia.com/product/ice-cream-grande/",
+      "snippet": "2023-09-17T07:30:32+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://zeenesia.com/product/ice-cream-grande/",
+      "snippet": "nde quantity Add to cart Related products $ 17 Kaobe $ 15 Fresh Pineapple $ 15 Maron American $ 15 Chikybard Copyright ©2025 Zeenesia Studio All Right Reserved Menu Home Shop Serif Fonts Sans Serif Fonts Script Fonts Dis"
+    },
+    {
+      "date": "2026-02-26",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://zeenesia.com/product/ice-cream-grande/",
+      "snippet": "2026-02-26"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://zeenesia.com/product/ice-cream-grande/",
+    "last_modified": null
+  }
+}

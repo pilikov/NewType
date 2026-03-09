@@ -1,0 +1,27 @@
+{
+  "record_id": "kiwi",
+  "source_url": "https://www.suvatypefoundry.ee/kiwi/",
+  "checked_at": "2026-03-09T01:57:51.980244+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/kiwi/",
+      "snippet": "REVIOUS FONT KIWI NEXT FONT V Z X T S E Q H A I P U L W DOWNLOAD B M Y O G J R N K C F D KIWI by Gert-Rasmus Rannamets (2020) The font has nothing to do with kiwis – instead it is inspired by early 2000s sci-fi visuals a"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/kiwi/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/kiwi/",
+    "last_modified": null
+  }
+}

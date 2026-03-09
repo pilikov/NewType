@@ -1,0 +1,27 @@
+{
+  "record_id": "lenora-grade",
+  "source_url": "http://superiortype.com/fonts/lenora-grade",
+  "checked_at": "2026-03-09T01:51:45.326078+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://superiortype.com/fonts/lenora-grade",
+      "snippet": "m Lenora Grade SemiBold Lenora Grade Bold Lenora Grade ExtraBold Languages (308) Show Languages Superior Type Â© 2013â2026. All rights reserved Support Contact Instagram"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://superiortype.com/fonts/lenora-grade",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://superiortype.com/fonts/lenora-grade",
+    "last_modified": null
+  }
+}

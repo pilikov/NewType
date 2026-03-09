@@ -1,0 +1,20 @@
+{
+  "record_id": "nebulae",
+  "source_url": "https://www.lucasfonts.com/typefaces/nebulae",
+  "checked_at": "2026-03-09T01:58:40.574887+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.lucasfonts.com/typefaces/nebulae",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.lucasfonts.com/typefaces/nebulae",
+    "last_modified": null
+  }
+}

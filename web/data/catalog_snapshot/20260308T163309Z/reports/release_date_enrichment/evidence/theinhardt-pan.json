@@ -1,0 +1,20 @@
+{
+  "record_id": "theinhardt-pan",
+  "source_url": "https://optimo.ch/typefaces/theinhardt_pan",
+  "checked_at": "2026-03-09T02:02:50.748369+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://optimo.ch/typefaces/theinhardt_pan",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://optimo.ch/typefaces/theinhardt_pan",
+    "last_modified": null
+  }
+}

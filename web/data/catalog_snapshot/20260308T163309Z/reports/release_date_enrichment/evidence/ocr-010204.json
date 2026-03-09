@@ -1,0 +1,41 @@
+{
+  "record_id": "ocr-010204",
+  "source_url": "https://www.publictype.us/fonts/ocr-010204",
+  "checked_at": "2026-03-09T01:53:00.887771+00:00",
+  "candidates": [
+    {
+      "date": "1996-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.publictype.us/fonts/ocr-010204",
+      "snippet": "ve been messing with for a long time now. The original inspiration came from a print out on the side of a paper ream in 1996. In 2017 I was working on a project that needed a compressed face and decided to revisit that c"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.publictype.us/fonts/ocr-010204",
+      "snippet": "essing with for a long time now. The original inspiration came from a print out on the side of a paper ream in 1996. In 2017 I was working on a project that needed a compressed face and decided to revisit that concept an"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.publictype.us/fonts/ocr-010204",
+      "snippet": "ng-term brand thinking. Typefaces Contact Font licenses Privacy policy Test fonts Join the Public. Add your email here. 2026 © Public Type"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.publictype.us/fonts/ocr-010204",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.publictype.us/fonts/ocr-010204",
+    "last_modified": null
+  }
+}

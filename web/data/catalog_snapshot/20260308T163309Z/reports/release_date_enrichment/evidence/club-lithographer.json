@@ -1,0 +1,34 @@
+{
+  "record_id": "club-lithographer",
+  "source_url": "https://djr.com/club-lithographer",
+  "checked_at": "2026-03-09T01:52:18.275117+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/aprils-font-of-the-month-club-lithographer",
+      "snippet": "s See all posts April 28, 2021 # David Jonathan Ross April’s Font of the Month: Club Lithographer v2 Font of the Month, 2021/04 PDF Try Buy $24 Go ahead and hit your CAPS LOCK key, because this month I’ve added an upperc"
+    },
+    {
+      "date": "2021-04-28",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/aprils-font-of-the-month-club-lithographer",
+      "snippet": "wog Rhody Rustique Slight Chance Tortellini Zenith DJR Club Typeset Glyphs Notes About Sign in Cart Notes See all posts April 28, 2021 # David Jonathan Ross April’s Font of the Month: Club Lithographer v2 Font of the Mon"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://djr.com/club-lithographer",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://djr.com/notes/aprils-font-of-the-month-club-lithographer",
+    "last_modified": null
+  }
+}

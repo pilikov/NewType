@@ -1,0 +1,69 @@
+{
+  "record_id": "didot-modern",
+  "source_url": "https://nouvellenoire.ch/typefaces/didot-modern",
+  "checked_at": "2026-03-09T01:58:40.111830+00:00",
+  "candidates": [
+    {
+      "date": "2021-11-06",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://nouvellenoire.ch/product/didot-modern/",
+      "snippet": "2021-11-06T06:58:40+00:00"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://nouvellenoire.ch/product/didot-modern/",
+      "snippet": "eat!”. We keep you covered with news of projects and just-released products direct to your inbox. © Nouvelle Noire GmbH 2012–2026 We use cookies on our website to give you the most relevant experience by remembering your"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://nouvellenoire.ch/product/didot-modern/",
+      "snippet": "Øø) {@©®} [!?“”«»*] ← Didot Modern Black Italic Add this weight to Cart Get Trial Font Designer: Arnaud Chemin Release: 2021 Version: 1.0 Specimen: Detailed character set, language support, Open Type features, and additi"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://nouvellenoire.ch/product/didot-modern/",
+      "snippet": ". We keep you covered with news of projects and just-released products direct to your inbox. © Nouvelle Noire GmbH 2012–2026 We use cookies on our website to give you the most relevant experience by remembering your pref"
+    },
+    {
+      "date": "2024-02-14",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://nouvellenoire.ch/product/didot-modern/",
+      "snippet": "2024-02-14T14:26:47+00:00"
+    },
+    {
+      "date": "2024-02-14",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://nouvellenoire.ch/product/didot-modern/",
+      "snippet": "2024-02-14T14:26:47+00:00"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://nouvellenoire.ch/product/didot-modern/",
+      "snippet": "n be found here. Didot Modern is the result of a collaboration between Arnaud Chemin and Nouvelle Noire that started in 2019. It is a hybrid typeface consisting of ten weights, combining upright and italic cuts. The gene"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://nouvellenoire.ch/typefaces/didot-modern",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://nouvellenoire.ch/product/didot-modern/",
+    "last_modified": null
+  }
+}

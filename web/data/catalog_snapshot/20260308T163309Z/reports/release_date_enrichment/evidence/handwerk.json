@@ -1,0 +1,20 @@
+{
+  "record_id": "handwerk",
+  "source_url": "https://www.outofthedark.swiss/handwerk",
+  "checked_at": "2026-03-09T01:45:54.431173+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.outofthedark.swiss/handwerk",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.outofthedark.swiss/handwerk",
+    "last_modified": null
+  }
+}

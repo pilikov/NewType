@@ -1,0 +1,20 @@
+{
+  "record_id": "basalte-francis-chouquet",
+  "source_url": "https://www.francischouquet.com/shop/p/basalte-font-family",
+  "checked_at": "2026-03-09T02:01:33.138207+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-14",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.francischouquet.com/shop/p/basalte-font-family",
+      "snippet": "2026-02-14"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.francischouquet.com/shop/p/basalte-font-family",
+    "last_modified": null
+  }
+}

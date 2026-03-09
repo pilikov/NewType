@@ -1,0 +1,41 @@
+{
+  "record_id": "chauffeur",
+  "source_url": "https://domicilefoundry.com/typefaces/chauffeur",
+  "checked_at": "2026-03-09T01:58:00.292979+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://domicilefoundry.com/typefaces/chauffeur",
+      "snippet": "r Italic Compressed Medium Italic Compressed Semibold Italic Compressed Bold Italic Compressed Black Italic Year 2016â2024 Designer Joona Louhi Pricing Single styles from 54â¬ Family from 216â¬ Licensing â Specimen"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://domicilefoundry.com/typefaces/chauffeur",
+      "snippet": "ffeur Compressed, consisting of five weights with matching italics, will be accompanied with three wider subfamilies in 2025. Character set A Regular Regular Italic Medium Medium Italic Semibold Semibold Italic Bold Bold"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://domicilefoundry.com/typefaces/chauffeur",
+      "snippet": "Tue, 02 Dec 2025 08:27:59 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://domicilefoundry.com/typefaces/chauffeur",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://domicilefoundry.com/typefaces/chauffeur",
+    "last_modified": "Tue, 02 Dec 2025 08:27:59 GMT"
+  }
+}

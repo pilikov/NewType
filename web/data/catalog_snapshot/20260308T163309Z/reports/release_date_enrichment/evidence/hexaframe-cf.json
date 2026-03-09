@@ -1,0 +1,19 @@
+{
+  "record_id": "hexaframe-cf",
+  "source_url": "https://connary.com/typefaces/hexaframe-cf",
+  "checked_at": "2026-03-09T02:02:58.692340+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://connary.com/typefaces/hexaframe-cf",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "404 Client Error: Not Found for url: https://connary.com/typefaces/hexaframe-cf"
+  }
+}

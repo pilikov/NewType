@@ -1,0 +1,48 @@
+{
+  "record_id": "link",
+  "source_url": "https://www.fairetype.com/fonts/link",
+  "checked_at": "2026-03-09T01:48:02.706225+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.fairetype.com/fonts/link",
+      "snippet": "ink Design Maxime Gau Link Overlap Design Maxime Gau Link Stencil Design Maxime Gau Engineering Sabrina Nacmias Release 2023 Version 1.0 File Types .OTF, .TTF, .WOFF2 Supported Languages Albanian Asu Basque Bemba Bena Br"
+    },
+    {
+      "date": "2003-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.fairetype.com/fonts/link",
+      "snippet": "street engine from 1964-1971; and family of advanced Hemis (displacing between 5.7 L (348 cu in) 6.4 L (391 cu in) from 2003 to 2024. Extra Wide Weight 400 Width 100 Size 90 Link Standard 24px Condensed Standard Wide Ext"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.fairetype.com/fonts/link",
+      "snippet": "ngine from 1964-1971; and family of advanced Hemis (displacing between 5.7 L (348 cu in) 6.4 L (391 cu in) from 2003 to 2024. Extra Wide Weight 400 Width 100 Size 90 Link Standard 24px Condensed Standard Wide Extra Wide "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.fairetype.com/fonts/link",
+      "snippet": "Overlap Luma Sans Luma Luma Reverse Palme Information Blog Free Trial Fonts Licensing Trial Licensing Fonts in Use FAQ ©2026 Faire Type Privacy Policy We use cookies to ensure you get the best experience on our website. "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.fairetype.com/fonts/link",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.fairetype.com/fonts/link",
+    "last_modified": null
+  }
+}

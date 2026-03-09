@@ -1,0 +1,27 @@
+{
+  "record_id": "diaria-pro",
+  "source_url": "https://minttype.com/diaria-pro",
+  "checked_at": "2026-03-09T01:38:25.387462+00:00",
+  "candidates": [
+    {
+      "date": "2015-06-09",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://minttype.com/diaria-pro",
+      "snippet": "ures. Diaria Pro also has a sans-serif companion - Diaria Sans Pro . Designed by Andriy Konstantynov First published on Jun 9, 2015 12 styles 2 free styles €125.10 Add to Cart Buying options Font names Pangrams: Basic La"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://minttype.com/diaria-pro",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://minttype.com/diaria-pro",
+    "last_modified": null
+  }
+}

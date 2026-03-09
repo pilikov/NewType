@@ -1,0 +1,27 @@
+{
+  "record_id": "non-tempo",
+  "source_url": "https://nonfoundry.com/typeface/non-tempo",
+  "checked_at": "2026-03-09T01:49:44.222803+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://nonfoundry.com/typeface/non-tempo",
+      "snippet": "FAQs Partnership Type Department Region : Currency Mexico : USD $ Connect Instagram Facebook Are.na Spotify Copyright © 2025. All rights reserved. Last Update: December, 2025"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://nonfoundry.com/typeface/non-tempo",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://nonfoundry.com/typeface/non-tempo",
+    "last_modified": null
+  }
+}

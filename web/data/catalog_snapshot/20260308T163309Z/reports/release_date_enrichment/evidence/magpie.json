@@ -1,0 +1,27 @@
+{
+  "record_id": "magpie",
+  "source_url": "https://www.daltonmaag.com/library/magpie",
+  "checked_at": "2026-03-09T01:40:47.192376+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/magpie.html",
+      "snippet": " the font familyâs range of four styles offers distinguished expression in any project. Designed and developed\n2008â2021 Designers Vincent Connare Writing Systems Latin, Latin Extended Supporting over 860\nLanguages A"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.daltonmaag.com/library/magpie",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.daltonmaag.com/font-library/magpie.html",
+    "last_modified": null
+  }
+}

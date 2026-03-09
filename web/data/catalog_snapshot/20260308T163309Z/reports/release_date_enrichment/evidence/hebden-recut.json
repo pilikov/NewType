@@ -1,0 +1,20 @@
+{
+  "record_id": "hebden-recut",
+  "source_url": "https://www.manchestertype.com/",
+  "checked_at": "2026-03-09T02:01:28.137123+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-15",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.manchestertype.com/",
+      "snippet": "2026-02-15"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.manchestertype.com/",
+    "last_modified": null
+  }
+}

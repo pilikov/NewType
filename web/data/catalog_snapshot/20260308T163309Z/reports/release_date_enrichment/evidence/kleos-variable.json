@@ -1,0 +1,34 @@
+{
+  "record_id": "kleos-variable",
+  "source_url": "https://parachutefonts.com/typeface/kleos-variable",
+  "checked_at": "2026-03-09T01:46:58.494794+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/kleos-variable",
+      "snippet": "reative projects with a touch of innovation and sophistication that will captivate and engage your audience. Published: 2023 Designer: Panos Vassiliou FORMAT Desktop instances (otf)\nDesktop variable (ttf)\nWeb instances ("
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/kleos-variable",
+      "snippet": "abled styles are only available when you purchase the entire family. ADD STYLE Close Newsletter / Follow us      © 2026 Parachute® Typefoundry. All Rights Reserved COOKIES NOTICE This Site uses cookies, including th"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://parachutefonts.com/typeface/kleos-variable",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://parachutefonts.com/typeface/kleos-variable",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "lone-pine",
+  "source_url": "https://hoodzpahdesign.com/typefaces/lone-pine",
+  "checked_at": "2026-03-09T01:47:25.812422+00:00",
+  "candidates": [
+    {
+      "date": "2020-03-25",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://hoodzpahdesign.com/product/lone-pine-reverse-contrast-font/",
+      "snippet": "2020-03-25T22:26:44+00:00"
+    },
+    {
+      "date": "2025-12-02",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://hoodzpahdesign.com/product/lone-pine-reverse-contrast-font/",
+      "snippet": "2025-12-02T05:17:28+00:00"
+    },
+    {
+      "date": "2025-12-02",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://hoodzpahdesign.com/product/lone-pine-reverse-contrast-font/",
+      "snippet": "2025-12-02T05:17:28+00:00"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://hoodzpahdesign.com/product/lone-pine-reverse-contrast-font/",
+      "snippet": "ht/style you purchased. Credits: Typeface Design: Amy Hood, Hoodzphah, Inc. Production: Hoodzpah, Inc. © Hoodzpah, Inc. 2020 Fonts in use: See how people are using our fonts: #hoodfonts Features: Standard Latin Character"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://hoodzpahdesign.com/typefaces/lone-pine",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hoodzpahdesign.com/product/lone-pine-reverse-contrast-font/",
+    "last_modified": null
+  }
+}

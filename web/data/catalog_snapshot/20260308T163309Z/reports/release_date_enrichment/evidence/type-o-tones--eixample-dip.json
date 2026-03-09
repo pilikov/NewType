@@ -1,0 +1,27 @@
+{
+  "record_id": "type-o-tones--eixample-dip",
+  "source_url": "https://type-o-tones.com/fonts/eixample-dip",
+  "checked_at": "2026-03-09T01:47:56.658352+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/eixample-dip",
+      "snippet": "Narrow Regular, Narrow Bold, ExtraLight, Light, Regular, Bold, Inline Author José Manuel Urós , Sabina Chipară Creation 2022 Actual version 1 Styles 9 Character sets Basic Latin Latin-1 Supplement Latin-2 Central Europea"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://type-o-tones.com/fonts/eixample-dip",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://type-o-tones.com/fonts/eixample-dip",
+    "last_modified": null
+  }
+}

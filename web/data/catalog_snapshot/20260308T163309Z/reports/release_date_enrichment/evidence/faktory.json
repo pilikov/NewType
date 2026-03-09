@@ -1,0 +1,27 @@
+{
+  "record_id": "faktory",
+  "source_url": "https://www.suvatypefoundry.ee/faktory/",
+  "checked_at": "2026-03-09T01:49:10.669868+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/faktory/",
+      "snippet": " PREVIOUS FONT FAKTORY NEXT FONT W P I DOWNLOAD Z G H M J K C X U A V Q T F L N S B R D Y O E FAKTORY by Kristjan Prik (2020) Faktory is a sans serif font with rough-looking shapes, inspired by old industrial factory aes"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/faktory/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/faktory/",
+    "last_modified": null
+  }
+}

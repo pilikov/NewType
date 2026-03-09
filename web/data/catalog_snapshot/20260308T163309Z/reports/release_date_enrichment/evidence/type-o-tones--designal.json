@@ -1,0 +1,34 @@
+{
+  "record_id": "type-o-tones--designal",
+  "source_url": "https://type-o-tones.com/fonts/designal",
+  "checked_at": "2026-03-09T01:58:38.528716+00:00",
+  "candidates": [
+    {
+      "date": "2002-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/designal",
+      "snippet": "s 280 € 224 € Add to cart LW20, R, BW20, Stencil, Fabric, Packing, Packing Stencil, Weather Author Félix Rufín Creation 2002 Actual version 3 (2016) Styles 8 Character sets Basic Latin Latin-1 Supplement Dingbats License"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/designal",
+      "snippet": "rt LW20, R, BW20, Stencil, Fabric, Packing, Packing Stencil, Weather Author Félix Rufín Creation 2002 Actual version 3 (2016) Styles 8 Character sets Basic Latin Latin-1 Supplement Dingbats License Types Desktop, Webfont"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://type-o-tones.com/fonts/designal",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://type-o-tones.com/fonts/designal",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "le-chaufferie",
+  "source_url": "https://www.205.tf/le-chaufferie",
+  "checked_at": "2026-03-09T01:40:57.833726+00:00",
+  "candidates": [
+    {
+      "date": "2010-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/le-chaufferie",
+      "snippet": "our newsletter: ▶︎ Follow Us Facebook Instagram LinkedIn Bluesky Typeface Le Chaufferie Designer Damien Gautier Release 2010 Fonts In Use Specimen This typeface is based on the principle—apparently simple but ultimately "
+    },
+    {
+      "date": "2002-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/le-chaufferie",
+      "snippet": "er the use of this typeface almost child’s play. With this typeface, Damien Gautier was awarded the “Bukva:raz!”, ATypI 2002 prize for excellence.\n\nWith the efficient and precious help of Roxane Gataud. 1 Style Roman Reg"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.205.tf/le-chaufferie",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.205.tf/le-chaufferie",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "lithops",
+  "source_url": "https://velvetyne.fr/fonts/lithops/",
+  "checked_at": "2026-03-09T01:41:27.834128+00:00",
+  "candidates": [
+    {
+      "date": "2022-05-11",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://velvetyne.fr/fonts/lithops/",
+      "snippet": "gular Collections Human made Fantasy Writing systems Latin License SIL Open Font License, Version 1.1 Date Published on May 11, 2022 Get the PDF specimen Ce contenu existe en Français Lithops is a very display, very uniq"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://velvetyne.fr/fonts/lithops/",
+      "snippet": "semblance, and was (loosely) inspired by Art Nouveau, Alzheimer brains and Matisse cutouts. Lithops started in February 2021 as a spontaneous creative outlet and glyph drawing exercise. Though it may not be easy to use a"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://velvetyne.fr/fonts/lithops/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://velvetyne.fr/fonts/lithops/",
+    "last_modified": null
+  }
+}

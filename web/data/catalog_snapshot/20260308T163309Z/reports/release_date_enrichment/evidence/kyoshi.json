@@ -1,0 +1,55 @@
+{
+  "record_id": "kyoshi",
+  "source_url": "https://www.arcanetype.com/fonts/kyoshi",
+  "checked_at": "2026-03-09T02:01:19.647186+00:00",
+  "candidates": [
+    {
+      "date": "1993-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.arcanetype.com/fonts/kyoshi",
+      "snippet": "oshi was inspired by two existing video game typefaces, one used in the 1989 release of Sky Robo and the other from the 1993 release of Fire Barrel. Published: 2023 Designer: Alanna Munro Version: 1.2 (2025) PDF SPecimen"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.arcanetype.com/fonts/kyoshi",
+      "snippet": "game typefaces, one used in the 1989 release of Sky Robo and the other from the 1993 release of Fire Barrel. Published: 2023 Designer: Alanna Munro Version: 1.2 (2025) PDF SPecimen Language Support Latin-Based Languages:"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.arcanetype.com/fonts/kyoshi",
+      "snippet": "enous languages including Halq̓eméylem, Lakota, Nisg̱a’a, Nuučaan̓uɫ, and Sḵwx̱wú7mesh ‍ Kyoshi 1.1 released in October 2024 ✦ Grouped styles into two families, regular and color. The naming has changed and you may need "
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.arcanetype.com/fonts/kyoshi",
+      "snippet": "se of Sky Robo and the other from the 1993 release of Fire Barrel. Published: 2023 Designer: Alanna Munro Version: 1.2 (2025) PDF SPecimen Language Support Latin-Based Languages: 327 Acheron Achinese Acholi Achuar-Shiwia"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.arcanetype.com/fonts/kyoshi",
+      "snippet": "Sat, 07 Mar 2026 04:19:51 GMT"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.arcanetype.com/fonts/kyoshi",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.arcanetype.com/fonts/kyoshi",
+    "last_modified": "Sat, 07 Mar 2026 04:19:51 GMT"
+  }
+}

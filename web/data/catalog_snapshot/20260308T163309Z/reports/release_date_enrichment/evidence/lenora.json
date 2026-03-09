@@ -1,0 +1,27 @@
+{
+  "record_id": "lenora",
+  "source_url": "http://superiortype.com/fonts/lenora",
+  "checked_at": "2026-03-09T01:41:06.949902+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://superiortype.com/fonts/lenora",
+      "snippet": "gular Lenora Medium Lenora SemiBold Lenora Bold Lenora ExtraBold Languages (308) Show Languages Superior Type Â© 2013â2026. All rights reserved Support Contact Instagram"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://superiortype.com/fonts/lenora",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://superiortype.com/fonts/lenora",
+    "last_modified": null
+  }
+}

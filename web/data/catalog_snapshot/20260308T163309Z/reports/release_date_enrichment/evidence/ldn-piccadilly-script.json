@@ -1,0 +1,34 @@
+{
+  "record_id": "ldn-piccadilly-script",
+  "source_url": "https://londontype.co.uk/fonts/ldn-piccadilly-script",
+  "checked_at": "2026-03-09T01:57:59.468969+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://londontype.co.uk/fonts/ldn-piccadilly-script",
+      "snippet": "xtension of the character set with many new alternates and ligatures. Two heavier weights, Medium & Bold, were added in 2022 to accompany the Light. 3 Styles Test drive Light LDN Piccadilly Script Family LDN Piccadilly S"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://londontype.co.uk/fonts/ldn-piccadilly-script",
+      "snippet": "Font - London Type Foundry Fonts Licensing Custom About 0 Basket Fonts Licensing Custom About Newsletter Email Submit © 2026 The London Type Foundry. All Rights Reserved. LDN Piccadilly Script Buy now LDN Piccadilly Scri"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://londontype.co.uk/fonts/ldn-piccadilly-script",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://londontype.co.uk/fonts/ldn-piccadilly-script",
+    "last_modified": null
+  }
+}

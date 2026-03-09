@@ -1,0 +1,62 @@
+{
+  "record_id": "oktika",
+  "source_url": "https://ecal-typefaces.ch/typefaces/oktika",
+  "checked_at": "2026-03-09T01:46:31.832693+00:00",
+  "candidates": [
+    {
+      "date": "2025-11-05",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://ecal-typefaces.ch/typeface/oktika/",
+      "snippet": "2025-11-05T10:48:38+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://ecal-typefaces.ch/typeface/oktika/",
+      "snippet": " Oktika remains a dependable companion for text setting and extended reading. Oktika was released by Niklas Herrmann in 2025. close AÁĂǍÂÄÀĀĄÅÃÆBCĆČÇĈĊDĎĐÐEÉĔĚÊËĖÈĒĘẼFGĞĜĢĠHĦĤIĲÍĬǏÎÏİÌĪĮĨJĴKĶLĹĽĻĿŁMNŃŇŅÑŊOÓŎǑÔÖÒŐŌØÕŒPÞQR"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://ecal-typefaces.ch/typeface/oktika/",
+      "snippet": "2026-02-03T15:13:53+00:00"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://ecal-typefaces.ch/typeface/oktika/",
+      "snippet": "2026-02-03T15:13:53+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ecal-typefaces.ch/typeface/oktika/",
+      "snippet": "to use in their school projects. Read more in our EULA if you're unsure which license you need. ©Students, ECAL\n        2026.\n        All rights reserved. This site uses cookies to provide you an optimal browsing experie"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://ecal-typefaces.ch/typeface/oktika/",
+      "snippet": "Sun, 08 Mar 2026 15:40:23 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ecal-typefaces.ch/typefaces/oktika",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ecal-typefaces.ch/typeface/oktika/",
+    "last_modified": "Sun, 08 Mar 2026 15:40:23 GMT"
+  }
+}

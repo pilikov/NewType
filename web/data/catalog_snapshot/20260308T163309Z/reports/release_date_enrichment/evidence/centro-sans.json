@@ -1,0 +1,48 @@
+{
+  "record_id": "centro-sans",
+  "source_url": "https://parachutefonts.com/typeface/centro-sans",
+  "checked_at": "2026-03-09T01:52:22.751089+00:00",
+  "candidates": [
+    {
+      "date": "2007-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/centro-sans",
+      "snippet": "ett), the Russian Ruble symbol and the Ukrainian Hryvnia symbol, which are part of the new Unicode standard. Published: 2007 Designer: Panos Vassiliou AWARDS European Design Awards 2008 Cyrillic Type Competition 2009 FOR"
+    },
+    {
+      "date": "2008-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/centro-sans",
+      "snippet": "l choice for newspapers, magazines and corporate applications. It received a Gold Award from the European Design Awards 2008 and an Excellence Award from the International Type Design Competition 2009 as part of the Cent"
+    },
+    {
+      "date": "2009-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/centro-sans",
+      "snippet": " symbol, which are part of the new Unicode standard. view details European Design Awards 2008 Cyrillic Type Competition 2009 Test Drive Details ABOUT Centro Sans is an award-winning typeface. It is part of a major type s"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/centro-sans",
+      "snippet": "abled styles are only available when you purchase the entire family. ADD STYLE Close Newsletter / Follow us      © 2026 Parachute® Typefoundry. All Rights Reserved COOKIES NOTICE This Site uses cookies, including th"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://parachutefonts.com/typeface/centro-sans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://parachutefonts.com/typeface/centro-sans",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "bernie",
+  "source_url": "https://www.sourcetype.com/typefaces/17048/",
+  "checked_at": "2026-03-09T02:01:35.601837+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.sourcetype.com/typefaces/17048/",
+      "snippet": "uch for today’s hard times. ST Bernie is designed by Laurenz Brunner and Stefan Fitze, first released by Source Type in 2025. Available Cuts Regular Medium Bold Black Source Material 1/17 2/17 Berlin shoe store advertise"
+    },
+    {
+      "date": "2026-02-14",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.sourcetype.com/typefaces/17048/",
+      "snippet": "2026-02-14"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.sourcetype.com/typefaces/17048/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "brett",
+  "source_url": "https://www.205.tf/brett",
+  "checked_at": "2026-03-09T01:52:46.993457+00:00",
+  "candidates": [
+    {
+      "date": "2004-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/brett",
+      "snippet": "ibe to our newsletter: ▶︎ Follow Us Facebook Instagram LinkedIn Bluesky Typeface Brett Designer Matthieu Cortat Release 2004 Fonts In Use Specimen Brett is a matrix font with rounded, overlapping bitmaps. With its elegan"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.205.tf/brett",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.205.tf/brett",
+    "last_modified": null
+  }
+}

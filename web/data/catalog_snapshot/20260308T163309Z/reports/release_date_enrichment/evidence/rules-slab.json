@@ -1,0 +1,34 @@
+{
+  "record_id": "rules-slab",
+  "source_url": "https://blazetype.eu/typefaces/rules-slab",
+  "checked_at": "2026-03-09T01:54:15.423544+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://blazetype.eu/typefaces/rules-slab",
+      "snippet": "signage system. Designed by Matthieu Salvaggio, Léon Hugues, Tim Vanhille, Guido Ferreyra, Malo Haffreingue Released in 2024 Styles Sans, Display, Text, Upright, Italic Export .OTF .WOFF .WOFF2 .TTF (Variable) Developed "
+    },
+    {
+      "date": "2024-11-02",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://blazetype.eu/typefaces/rules-slab",
+      "snippet": "2024-11-02"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://blazetype.eu/typefaces/rules-slab",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://blazetype.eu/typefaces/rules-slab",
+    "last_modified": null
+  }
+}

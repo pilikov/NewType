@@ -1,0 +1,27 @@
+{
+  "record_id": "plaid",
+  "source_url": "https://tightype.com/typefaces/plaid",
+  "checked_at": "2026-03-09T01:47:06.572992+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://tightype.com/typefaces/plaid/",
+      "snippet": "cart! Subtotal $0.00 State and local taxes may apply. Continue shopping View Cart Peclet Sneak © The Type Founders, LLC 2026 ◐ Licensing Privacy Policy Terms of Service Contact"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://tightype.com/typefaces/plaid",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://tightype.com/typefaces/plaid/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "bw-js1",
+  "source_url": "https://brandingwithtype.com/typefaces/bw-js1",
+  "checked_at": "2026-03-09T01:42:14.741377+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://brandingwithtype.com/typefaces/bw-js1-type-system",
+      "snippet": "r and has been expanded beyond the initial character set, adding basic punctuation and symbols. Originally conceived in 2016 as part of the identity developed by Julien Van Havere, principal at DesignPractice™, for the J"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://brandingwithtype.com/typefaces/bw-js1-type-system",
+      "snippet": "DesignPractice™, for the JAM hotel in Brussels, with the support of Branding with Type. Version: 1.5 Relase date: 12/07/2019 Styles: 5 weights, 14 contours (19 styles total) Language support: Basic Latin Glyphs Variants "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://brandingwithtype.com/typefaces/bw-js1-type-system",
+      "snippet": "By clicking subscribe, you agree that we may process your information in accordance with these terms. © Alberto Romanos 2026. All rights reserved. Legal notice . Cookie management . Major cards supported"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://brandingwithtype.com/typefaces/bw-js1",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://brandingwithtype.com/typefaces/bw-js1-type-system",
+    "last_modified": null
+  }
+}

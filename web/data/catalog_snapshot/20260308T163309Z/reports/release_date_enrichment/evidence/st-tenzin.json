@@ -1,0 +1,48 @@
+{
+  "record_id": "st-tenzin",
+  "source_url": "https://studiotype.be/fonts/st-tenzin",
+  "checked_at": "2026-03-09T01:48:06.782064+00:00",
+  "candidates": [
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://studiotype.be/fonts/st-tenzin",
+      "snippet": "roject receives financial support from stad Antwerpen for the startup and development of this innovation.\n            © 2012–2025 Studio Type. Design by ssnn creative agency . Development by Matthias Deckx . Social Insta"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://studiotype.be/fonts/st-tenzin",
+      "snippet": " Netherlands are omnipresent in the project’s branding. Take the colour scheme: the blues in the logo, which, Moeyaert (2015) explains, represent the blues of the Westerschelde, the mouth of the River Scheldt, where the "
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://studiotype.be/fonts/st-tenzin",
+      "snippet": " Flanders and The Netherlands joint guests of honour presentation at the Frankfurt Book Fair (Frankfurter Buchmesse) in 2016. “From the start, artistic director Bart Moeyaert emphasized a need to organize the branding of"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://studiotype.be/fonts/st-tenzin",
+      "snippet": "t receives financial support from stad Antwerpen for the startup and development of this innovation.\n            © 2012–2025 Studio Type. Design by ssnn creative agency . Development by Matthias Deckx . Social Instagram "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://studiotype.be/fonts/st-tenzin",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://studiotype.be/fonts/st-tenzin",
+    "last_modified": null
+  }
+}

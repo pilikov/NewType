@@ -1,0 +1,48 @@
+{
+  "record_id": "muriza",
+  "source_url": "https://typemates.com/fonts/muriza",
+  "checked_at": "2026-03-09T01:43:47.036672+00:00",
+  "candidates": [
+    {
+      "date": "2016-09-01",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typemates.com/fonts/muriza",
+      "snippet": "2016-09-01T18:39:00+02:00"
+    },
+    {
+      "date": "2016-09-01",
+      "score": 0.95,
+      "source_type": "jsonld:dateCreated",
+      "source_url": "https://www.typemates.com/fonts/muriza",
+      "snippet": "2016-09-01T18:08:56+02:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typemates.com/fonts/muriza",
+      "snippet": "2026-03-05T12:11:28+01:00"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/muriza",
+      "snippet": "es, small caps and stylistic alternates supplement Muriza’s broad Latin language support. Designed by Jürgen Schwarz in 2015 Contributions Jakob Runge Specs Providing 18 styles, 9 weights, more than 900 glyphs per font F"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typemates.com/fonts/muriza",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typemates.com/fonts/muriza",
+    "last_modified": null
+  }
+}

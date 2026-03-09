@@ -1,0 +1,48 @@
+{
+  "record_id": "grato-marker",
+  "source_url": "https://typemates.com/fonts/grato-marker",
+  "checked_at": "2026-03-09T01:44:51.582134+00:00",
+  "candidates": [
+    {
+      "date": "2021-12-01",
+      "score": 0.95,
+      "source_type": "jsonld:dateCreated",
+      "source_url": "https://www.typemates.com/fonts/grato-marker",
+      "snippet": "2021-12-01T15:44:34+01:00"
+    },
+    {
+      "date": "2022-02-08",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typemates.com/fonts/grato-marker",
+      "snippet": "2022-02-08T07:00:00+01:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typemates.com/fonts/grato-marker",
+      "snippet": "2026-03-05T11:54:48+01:00"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/grato-marker",
+      "snippet": "ges. Reviewed by skilled experts, it supports more than 270 languages including Vietnamese. Designed by Teja Smrekar in 2022 Contributions Jakob Runge Consulting & Help Irene Vlachou , Ilya Ruderman & Yury Ostromentsky ,"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typemates.com/fonts/grato-marker",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typemates.com/fonts/grato-marker",
+    "last_modified": null
+  }
+}

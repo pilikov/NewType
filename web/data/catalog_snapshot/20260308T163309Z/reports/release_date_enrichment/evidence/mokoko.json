@@ -1,0 +1,27 @@
+{
+  "record_id": "mokoko",
+  "source_url": "https://www.daltonmaag.com/library/mokoko",
+  "checked_at": "2026-03-09T01:53:28.283853+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/mokoko.html",
+      "snippet": "understated to bold and quirky along its axes, offering users a wide range of expression. Designed and developed\n2018â2023 Designers NaÃ¯ma Ben Ayed Writing Systems Latin Supporting over 800\nLanguages Aari (Latin Scrip"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.daltonmaag.com/library/mokoko",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.daltonmaag.com/font-library/mokoko.html",
+    "last_modified": null
+  }
+}

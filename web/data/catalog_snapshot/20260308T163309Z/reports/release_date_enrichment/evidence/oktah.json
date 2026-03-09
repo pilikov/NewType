@@ -1,0 +1,55 @@
+{
+  "record_id": "oktah",
+  "source_url": "https://groteskly.xyz/typefaces/oktah",
+  "checked_at": "2026-03-09T01:46:22.797191+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://groteskly.xyz/fonts/oktah-neue",
+      "snippet": " Trials Fonts from: Families from: â¬35 â¬190 Oktah Neue Oktah Neue is a geometric sans serif font family released in 2019, building on the foundation of the more restrictive Oktah family. Featuring excellent legibilit"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://groteskly.xyz/fonts/oktah-neue",
+      "snippet": "standard as a versatile and functional choice for designers and typographers. Styles 22 Fonts Characters 2500+ Released 2020 Updated 2022 Designers Eugene Tantsurin, Anna Remm Version 4.00 Supported Languages OpenType Fe"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://groteskly.xyz/fonts/oktah-neue",
+      "snippet": " versatile and functional choice for designers and typographers. Styles 22 Fonts Characters 2500+ Released 2020 Updated 2022 Designers Eugene Tantsurin, Anna Remm Version 4.00 Supported Languages OpenType Features Oktah "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://groteskly.xyz/fonts/oktah-neue",
+      "snippet": " Tantsurin PR Ostale Informacione Tehnologije Beograd 1B Matice Srpske Belgrade, Serbia 11160 Â© Groteskly Yours Studio 2026 Site Home All Fonts Fonts in Use Trials About Blog FAQ Licensing Cookies Privacy Refunds Contac"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://groteskly.xyz/fonts/oktah-neue",
+      "snippet": "Tue, 03 Mar 2026 13:59:43 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://groteskly.xyz/typefaces/oktah",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://groteskly.xyz/fonts/oktah-neue",
+    "last_modified": "Tue, 03 Mar 2026 13:59:43 GMT"
+  }
+}

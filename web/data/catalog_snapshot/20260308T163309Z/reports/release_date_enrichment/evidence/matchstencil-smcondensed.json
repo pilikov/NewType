@@ -1,0 +1,19 @@
+{
+  "record_id": "matchstencil-smcondensed",
+  "source_url": "https://typerotation.com/retail-fonts/matchstencil-smcondensed",
+  "checked_at": "2026-03-09T01:47:34.661627+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typerotation.com/retail-fonts/matchstencil-smcondensed",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='typerotation.com', port=443): Max retries exceeded with url: /retail-fonts/matchstencil-smcondensed (Caused by SSLError(CertificateError(\"hostname 'typerotation.com' doesn't match either of '*.campusspeicher.de', 'campusspeicher.de'\")))"
+  }
+}

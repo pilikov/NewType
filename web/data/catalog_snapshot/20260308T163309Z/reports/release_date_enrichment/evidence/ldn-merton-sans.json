@@ -1,0 +1,27 @@
+{
+  "record_id": "ldn-merton-sans",
+  "source_url": "https://londontype.co.uk/fonts/ldn-merton-sans",
+  "checked_at": "2026-03-09T01:36:40.421981+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://londontype.co.uk/fonts/ldn-merton-sans",
+      "snippet": "onts - London Type Foundry Fonts Licensing Custom About 0 Basket Fonts Licensing Custom About Newsletter Email Submit © 2026 The London Type Foundry. All Rights Reserved. LDN Merton Sans Buy now LDN Merton Sans LDN Merto"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://londontype.co.uk/fonts/ldn-merton-sans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://londontype.co.uk/fonts/ldn-merton-sans",
+    "last_modified": null
+  }
+}

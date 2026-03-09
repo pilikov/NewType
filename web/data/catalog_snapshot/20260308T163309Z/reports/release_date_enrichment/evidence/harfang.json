@@ -1,0 +1,55 @@
+{
+  "record_id": "harfang",
+  "source_url": "https://www.psyops.com/typefaces/harfang",
+  "checked_at": "2026-03-09T02:02:17.679600+00:00",
+  "candidates": [
+    {
+      "date": "2016-11-14",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.psyops.com/harfang/",
+      "snippet": "2016-11-14T22:20:34+00:00"
+    },
+    {
+      "date": "2023-09-07",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.psyops.com/harfang/",
+      "snippet": "2023-09-07T20:32:00+00:00"
+    },
+    {
+      "date": "2023-09-07",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.psyops.com/harfang/",
+      "snippet": "2023-09-07T20:32:00+00:00"
+    },
+    {
+      "date": "1995-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.psyops.com/harfang/",
+      "snippet": "A ITALIC 1 49 COMPANY ABOUT US PRIVACY LEARN MORE DESIGN LICENSING CONNECT WITH US CONTACT FORM JOIN OUR MAILING LIST © 1995–2025 PSY/OPS Type Foundry. All Rights Reserved. Page load link 0 Added to cart Close cart Your "
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.psyops.com/harfang/",
+      "snippet": "LIC 1 49 COMPANY ABOUT US PRIVACY LEARN MORE DESIGN LICENSING CONNECT WITH US CONTACT FORM JOIN OUR MAILING LIST © 1995–2025 PSY/OPS Type Foundry. All Rights Reserved. Page load link 0 Added to cart Close cart Your Cart "
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.psyops.com/typefaces/harfang",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.psyops.com/harfang/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "tumb",
+  "source_url": "https://www.thatthattype.com/fonts/tumb",
+  "checked_at": "2026-03-09T02:01:26.848299+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thatthattype.com/fonts/tumb",
+      "snippet": "That That Type: Tumb Fonts License Free Trial Fonts About Log in Tumb Tumb Quirky Display Font © 2026 That That Type"
+    },
+    {
+      "date": "2026-02-15",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.thatthattype.com/fonts/tumb",
+      "snippet": "2026-02-15"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.thatthattype.com/fonts/tumb",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "fit",
+  "source_url": "https://djr.com/fit",
+  "checked_at": "2026-03-09T01:49:07.038523+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://djr.com/fit",
+      "snippet": "by Gor Jihanian) , Devanagari (by Kimya Gandhi) and Tamil (by Aadarsh Rajan) , with more writing systems on the way. In 2024, I added lowercase and small caps , as well as new alternates and experimental axes also design"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/fit",
+      "snippet": "amatically through the letterforms, fusing them into a mesmerizing network of black and white. Since its publication in 2017, Fit has been expanded to Hebrew (by Oded Ezer) , Armenian (by Gor Jihanian) , Devanagari (by K"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/fit",
+      "snippet": " 2023: What makes us human? Arcane Prospect – Última Floración EP Festival de Arte Urbano, 6th edition Arkkitehtipäivät 2019 Musical script book covers Daniel Buren: Praca in Situ Yeast 17 DiaTipo São Paulo 2017 Inimigo "
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/fit",
+      "snippet": " абвгдежзий клмнопрсту фхцчшщъыьэюя 0123456789 $¢€£¥ ([‘¿¡‹@#&§¶›!?’]) TRY ME! Fit in use From Fonts In Use Mike’s Maze 2023: What makes us human? Arcane Prospect – Última Floración EP Festival de Arte Urbano, 6th editio"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://djr.com/fit",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://djr.com/fit",
+    "last_modified": null
+  }
+}

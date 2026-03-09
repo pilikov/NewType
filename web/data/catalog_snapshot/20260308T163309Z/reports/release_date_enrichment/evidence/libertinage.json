@@ -1,0 +1,55 @@
+{
+  "record_id": "libertinage",
+  "source_url": "http://osp.kitchen/foundry/libertinage/",
+  "checked_at": "2026-03-09T01:55:53.346078+00:00",
+  "candidates": [
+    {
+      "date": "2011-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/libertinage/",
+      "snippet": "html README.txt text/plain Log Alexandre Leray shouted — Created the skeleton of the repository Thursday, 24th February 2011 - 19:48 Eric Schrijver discovered — \"Blog contents added as README and iceberg\" Saturday, 14th "
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/libertinage/",
+      "snippet": "24th February 2011 - 19:48 Eric Schrijver discovered — \"Blog contents added as README and iceberg\" Saturday, 14th April 2012 - 12:13 Eric Schrijver argued — \"remove README because README.html exists\" Thursday, 12th Septe"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/libertinage/",
+      "snippet": "ay, 14th April 2012 - 12:13 Eric Schrijver argued — \"remove README because README.html exists\" Thursday, 12th September 2013 - 16:43 Ludi whistled — Crush the empty skeleton Sunday, 15th September 2013 - 11:28 Eric Schri"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/libertinage/",
+      "snippet": "n) Sunday, 15th September 2013 - 11:28 colm expressed — hm, the font files were not in this repo Tuesday, 10th November 2015 - 16:48 Stéphanie Vilayphiou babbled out — structure UFR + webfonts Friday, 5th October 2018 - "
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/libertinage/",
+      "snippet": "epo Tuesday, 10th November 2015 - 16:48 Stéphanie Vilayphiou babbled out — structure UFR + webfonts Friday, 5th October 2018 - 16:24 These project views are all based on VisualCulture . We welcome you to study these, imp"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://osp.kitchen/foundry/libertinage/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "http://osp.kitchen/foundry/libertinage/",
+    "last_modified": null
+  }
+}

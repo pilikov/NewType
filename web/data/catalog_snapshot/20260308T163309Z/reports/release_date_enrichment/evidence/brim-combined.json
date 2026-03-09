@@ -1,0 +1,27 @@
+{
+  "record_id": "brim-combined",
+  "source_url": "https://jamieclarketype.com/fonts/brim-combined",
+  "checked_at": "2026-03-09T01:55:40.005227+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://jamieclarketype.com/fonts/brim-combined/",
+      "snippet": "typography. Its warm, tactile character ensures your designs stand out both in print and on screen. Styles: 3 Released: 2016 Formats: OTF, WOFF, WOFF2, VAR (as available) Languages: Over 250 languages, including: Afrikaa"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://jamieclarketype.com/fonts/brim-combined",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://jamieclarketype.com/fonts/brim-combined/",
+    "last_modified": null
+  }
+}

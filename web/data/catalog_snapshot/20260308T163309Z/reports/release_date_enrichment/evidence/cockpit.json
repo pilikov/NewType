@@ -1,0 +1,41 @@
+{
+  "record_id": "cockpit",
+  "source_url": "https://felicianotype.com/typefaces/cockpit",
+  "checked_at": "2026-03-09T01:54:27.705976+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://felicianotype.com/typefaces/cockpit/",
+      "snippet": "ms that prioritize function and embrace imperfections without unnecessary embellishment. Trial fonts Specimens 8 styles 2025 Cockpit  Cockpit           — 8 styles, €280,00 BUY Cockpit Regular, €50,00 BUY The word cockpit"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://felicianotype.com/typefaces/cockpit/",
+      "snippet": "ounds aircraft Cockpit Black Oblique, €50,00 BUY Perspective scaling is a design technique Open Type features Oblique © 2026 Feliciano Type. All rights reserved. Acceptera Cockpit Correct Crisol Eudald Flama Garda Grosa "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://felicianotype.com/typefaces/cockpit/",
+      "snippet": "Mon, 09 Mar 2026 01:54:28 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://felicianotype.com/typefaces/cockpit",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://felicianotype.com/typefaces/cockpit/",
+    "last_modified": "Mon, 09 Mar 2026 01:54:28 GMT"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "record_id": "tt-bluescreens",
+  "source_url": "https://typetype.org/typefaces/tt-bluescreens",
+  "checked_at": "2026-03-09T02:03:57.068592+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-15",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typetype.org/fonts/tt-bluescreens/",
+      "snippet": "2023-01-15T06:59:08+00:00"
+    },
+    {
+      "date": "2023-01-15",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://typetype.org/fonts/tt-bluescreens/",
+      "snippet": "2023-01-15T06:59:08+00:00"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-bluescreens/",
+      "snippet": "atives Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! Font Update: What’s New in the Latest Version Version"
+    },
+    {
+      "date": "2015-03-13",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-bluescreens/",
+      "snippet": "ng ligatures, stylistic sets, and localization features Support for over 240 languages Release and update date Release: March 13, 2015 Last update: January 20, 2026 What's changed in the font: Three new subfamilies have "
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-bluescreens/",
+      "snippet": "dular sans serif, but over time, we grew to love TT Bluescreens for its distinctive, truly display-worthy character. In 2023, we released the third version of the font, updating it with an even narrower subfamily, expand"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-bluescreens/",
+      "snippet": "but memorable character with narrow proportions. Update from January 20, 2026 — What’s New? 30% off Valid until 20 Mar, 2026 Single style: from $ 47.99 Original price was: $47.99. $ 33.59 Current price is: $33.59. Full f"
+    },
+    {
+      "date": "2026-01-20",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-bluescreens/",
+      "snippet": "ith narrow proportions for display settings. It has subtle but memorable character with narrow proportions. Update from January 20, 2026 — What’s New? 30% off Valid until 20 Mar, 2026 Single style: from $ 47.99 Original "
+    },
+    {
+      "date": "2026-02-27",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typetype.org/fonts/tt-bluescreens/",
+      "snippet": "2026-02-27T11:01:39+00:00"
+    },
+    {
+      "date": "2026-02-27",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://typetype.org/fonts/tt-bluescreens/",
+      "snippet": "2026-02-27T11:01:39+00:00"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-bluescreens/",
+      "snippet": " IJ ss08 | Catalan Ldot ss09 | Circled Figures ss11 | Bashkir localization ss12 | Chuvash localization Variable axes In 2015, we created this typeface family specifically for movie posters and film credits. Originally, i"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-bluescreens/",
+      "snippet": " of the font, supplementing it with an even narrower subfamily and extended Cyrillic. However, we didn’t stop there. In 2025, we had an idea that seemed crazy at first but turned out to be quite rational: what if we made"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://typetype.org/fonts/tt-bluescreens/",
+      "snippet": "Fri, 06 Mar 2026 21:02:40 GMT"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typetype.org/typefaces/tt-bluescreens",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typetype.org/fonts/tt-bluescreens/",
+    "last_modified": "Fri, 06 Mar 2026 21:02:40 GMT"
+  }
+}

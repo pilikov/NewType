@@ -1,0 +1,27 @@
+{
+  "record_id": "v1olet",
+  "source_url": "https://www.carmen-type.com/v1olet",
+  "checked_at": "2026-03-09T01:52:57.164867+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.carmen-type.com/v1olet-typeface/",
+      "snippet": " Terms and Conditions Privacy EULA Terms and Conditions Privacy Icons-my-foundry-2instagram Icons-my-foundry-2behance © 2025 C-Type C-Type C-Type Icons-my-foundry-2instagram Icons-my-foundry-2behance Typefaces Informatio"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.carmen-type.com/v1olet",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.carmen-type.com/v1olet-typeface/",
+    "last_modified": null
+  }
+}

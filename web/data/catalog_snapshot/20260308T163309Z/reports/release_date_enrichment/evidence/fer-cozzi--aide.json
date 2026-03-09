@@ -1,0 +1,41 @@
+{
+  "record_id": "fer-cozzi--aide",
+  "source_url": "https://fercozzi.com/typefaces/aide",
+  "checked_at": "2026-03-09T01:38:24.639265+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fercozzi.com/typefaces/aide",
+      "snippet": "e is powerful. Cyrillic would not have been possible without the feedback and vision of Krista Radoeva. Released August 2024 Recognitions 10th Founder Type Design Competition – Latin Category Scripts Latin + Cyrillic LOA"
+    },
+    {
+      "date": "2025-01-06",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://fercozzi.com/typefaces/aide",
+      "snippet": "2025-01-06"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fercozzi.com/typefaces/aide",
+      "snippet": "ts Aidé Complete USD 90.00 Aidé Thin USD 40.00 Aidé Thin Italic USD 40.00 TOTAL USD 0.00 Proceed to checkout © FerCozzi 2026 IG hola@fercozzi.com This site uses cookies to make your experience smoother and more enjoyable"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fercozzi.com/typefaces/aide",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fercozzi.com/typefaces/aide",
+    "last_modified": null
+  }
+}

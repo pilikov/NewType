@@ -1,0 +1,27 @@
+{
+  "record_id": "trabis",
+  "source_url": "https://aisforfonts.com/typefaces/trabis",
+  "checked_at": "2026-03-09T02:03:56.250264+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://aisforfonts.com/trabis/",
+      "snippet": "blurred serifs give to Trabis an oldstyle typewriter flavour, although the structures of its glyphs are rooted into our 2020 digital world. As all its “A is for” type foundry’s fellows, Trabis has been refined so that it"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://aisforfonts.com/typefaces/trabis",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://aisforfonts.com/trabis/",
+    "last_modified": null
+  }
+}

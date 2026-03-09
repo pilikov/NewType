@@ -1,0 +1,27 @@
+{
+  "record_id": "queue",
+  "source_url": "https://typesupply.com/fonts/queue",
+  "checked_at": "2026-03-09T01:48:36.094399+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://typesupply.com/fonts/queue",
+      "snippet": "Sat, 07 Mar 2026 06:49:57 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typesupply.com/fonts/queue",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typesupply.com/fonts/queue",
+    "last_modified": "Sat, 07 Mar 2026 06:49:57 GMT"
+  }
+}

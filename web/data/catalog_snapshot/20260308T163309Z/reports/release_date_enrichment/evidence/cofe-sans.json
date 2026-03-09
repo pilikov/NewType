@@ -1,0 +1,27 @@
+{
+  "record_id": "cofe-sans",
+  "source_url": "https://www.suvatypefoundry.ee/cofe-sans/",
+  "checked_at": "2026-03-09T01:54:27.707148+00:00",
+  "candidates": [
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/cofe-sans/",
+      "snippet": "PREVIOUS FONT COFE SANS NEXT FONT O K C G T M DOWNLOAD B X H R S W D Y V A J I E F P N L Z Q U COFE SANS by Maria Muuk (2014) A typeface based on randomly found objects – disposable plate, plastic spoon, a piece of cake "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/cofe-sans/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/cofe-sans/",
+    "last_modified": null
+  }
+}

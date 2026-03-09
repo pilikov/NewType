@@ -1,0 +1,41 @@
+{
+  "record_id": "brno2016",
+  "source_url": "https://www.suvatypefoundry.ee/brno2016/",
+  "checked_at": "2026-03-09T01:52:53.593108+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/brno2016/",
+      "snippet": " book “Brno Guide”. The name comes from a sign in Mathias Gallery in Brno that Vello and Mathias took a picture with in 2016. Supervised by Johan Kallas DOWNLOAD When using fonts featured on SUVA Type Foundry platform pl"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/brno2016/",
+      "snippet": " DOWNLOAD X H G D Z O BRNO2016 by Vello Lutter and Mathias Väärsi (2018) BRNO2016 was first designed by Vello Lutter in 2017 for a school course and later adapted by Mathias Väärsi for the book “Brno Guide”. The name com"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/brno2016/",
+      "snippet": "016 NEXT FONT U S A C E R B N V K I W T Q L J P Y F M DOWNLOAD X H G D Z O BRNO2016 by Vello Lutter and Mathias Väärsi (2018) BRNO2016 was first designed by Vello Lutter in 2017 for a school course and later adapted by M"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/brno2016/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/brno2016/",
+    "last_modified": null
+  }
+}

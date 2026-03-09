@@ -1,0 +1,76 @@
+{
+  "record_id": "fluxisch-else",
+  "source_url": "http://osp.kitchen/foundry/fluxisch-else/",
+  "checked_at": "2026-03-09T01:39:38.516182+00:00",
+  "candidates": [
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/fluxisch-else/",
+      "snippet": "in-1 Supplement: U+00a0-U+00FF – 95 glyphs on 96 Latin Extended-A U+0100-U+017F – 2 glyphs on 128 General Punctuation U+2000-U+206F – 14 glyphs on 107 Currency Symbols U+20A0-U+20CF – 1 glyphs on 22 Snapshots | iceberg I"
+    },
+    {
+      "date": "2011-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/fluxisch-else/",
+      "snippet": "ain README.html text/html Log Alexandre Leray rendered — Created the skeleton of the repository Thursday, 24th February 2011 - 19:48 ab5tract comitted — initial import into git Thursday, 17th March 2011 - 15:03 ab5tract "
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/fluxisch-else/",
+      "snippet": "sday, 17th March 2011 - 16:55 Eric Schrijver tweeted — \"Blog contents added as README and iceberg\" Saturday, 14th April 2012 - 12:04 Eric Schrijver said — \"remove README because README.html exists\" Thursday, 12th Septemb"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/fluxisch-else/",
+      "snippet": "rday, 14th April 2012 - 12:04 Eric Schrijver said — \"remove README because README.html exists\" Thursday, 12th September 2013 - 16:43 Eric Schrijver said — Squash the skeleton & change the name of the banner image The ima"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/fluxisch-else/",
+      "snippet": "siastically used in workshops, starting at the Erg by Ludivine Loiseau and followed by other schools like La Cambre. In 2016 (probably?), Monotype asked us to change the original name of the font for copyright reasons. W"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/fluxisch-else/",
+      "snippet": "ptember 2013 - 23:41 Stéphanie Vilayphiou argued — Scan of the specimen «The Univers else is yours» Thursday, 6th April 2017 - 16:06 Gabriel emited — test Monday, 22nd May 2017 - 16:29 Gabriel talked — Removed all traces"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/fluxisch-else/",
+      "snippet": "ove to UFR repo structure Friday, 20th October 2017 - 16:42 Stéphanie Vilayphiou tweeted — webfonts Friday, 5th October 2018 - 16:22 pierreh talked — Update README.html with the switch of name explanation Monday, 29th Ma"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/fluxisch-else/",
+      "snippet": "iday, 5th October 2018 - 16:22 pierreh talked — Update README.html with the switch of name explanation Monday, 29th May 2023 - 12:21 pierreh said — iniitiated Monday, 29th May 2023 - 12:22 pierreh whispered — (re)initiat"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://osp.kitchen/foundry/fluxisch-else/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "http://osp.kitchen/foundry/fluxisch-else/",
+    "last_modified": null
+  }
+}

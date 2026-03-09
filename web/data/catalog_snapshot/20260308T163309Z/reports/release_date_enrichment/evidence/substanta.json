@@ -1,0 +1,27 @@
+{
+  "record_id": "substanta",
+  "source_url": "https://www.suvatypefoundry.ee/substanta/",
+  "checked_at": "2026-03-09T01:57:10.863442+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/substanta/",
+      "snippet": "EVIOUS FONT SUBSTANTA NEXT FONT C L H DOWNLOAD F S N P R T Y K V W J G Z D X Q U A O I B E M SUBSTANTA by Mirjam Varik (2020) Substanta’s source material is magazine Eesti Majandus (Estonian Economy) published in 1925. T"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/substanta/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/substanta/",
+    "last_modified": null
+  }
+}

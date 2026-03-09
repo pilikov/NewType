@@ -1,0 +1,76 @@
+{
+  "record_id": "apocalypso",
+  "source_url": "https://barnbrook.net/typefaces/apocalypso",
+  "checked_at": "2026-03-09T01:36:40.637402+00:00",
+  "candidates": [
+    {
+      "date": "2016-06-01",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://barnbrook.net/typefaces/apocalypso/",
+      "snippet": "2016-06-01T15:43:02+00:00"
+    },
+    {
+      "date": "1997-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://barnbrook.net/typefaces/apocalypso/",
+      "snippet": "ts, whilst the pictograms can be deployed to express the forthcoming apocalypse. Apocalypso was originally published in 1997, a few years before the turn of the millennium. It is both a document of the ideas of the time "
+    },
+    {
+      "date": "2025-09-18",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://barnbrook.net/typefaces/apocalypso/",
+      "snippet": "2025-09-18T22:44:05+00:00"
+    },
+    {
+      "date": "2025-09-18",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://barnbrook.net/typefaces/apocalypso/",
+      "snippet": "2025-09-18T22:44:05+00:00"
+    },
+    {
+      "date": "2004-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://barnbrook.net/typefaces/apocalypso/",
+      "snippet": "ised with a retrospective at the Design Museum in London entitled Friendly Fire in 2007 and at Ginza Graphic Gallery in 2004. A touring exhibition if the studio’s work Collateral Damage was staged in various countries, i"
+    },
+    {
+      "date": "2007-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://barnbrook.net/typefaces/apocalypso/",
+      "snippet": "k’s contribution to design was recognised with a retrospective at the Design Museum in London entitled Friendly Fire in 2007 and at Ginza Graphic Gallery in 2004. A touring exhibition if the studio’s work Collateral Dama"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://barnbrook.net/typefaces/apocalypso/",
+      "snippet": "r teaching and lecturing worldwide. Awards 59th Annual Grammy Awards – Winner of Best Recording Package for Blackstar , 2016 The Design Museum Beazley Design of The Year – Winner of Graphic Design of the Year for Blackst"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://barnbrook.net/typefaces/apocalypso/",
+      "snippet": "Sun, 08 Mar 2026 16:42:25 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://barnbrook.net/typefaces/apocalypso",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://barnbrook.net/typefaces/apocalypso/",
+    "last_modified": "Sun, 08 Mar 2026 16:42:25 GMT"
+  }
+}

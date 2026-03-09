@@ -1,0 +1,27 @@
+{
+  "record_id": "gunter",
+  "source_url": "https://www.thatthattype.com/fonts/gunter",
+  "checked_at": "2026-03-09T01:46:27.138298+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thatthattype.com/fonts/gunter",
+      "snippet": "That That Type: Gunter Fonts License Free Trial Fonts About Log in Gunter Gunter Display Font © 2026 That That Type"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.thatthattype.com/fonts/gunter",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.thatthattype.com/fonts/gunter",
+    "last_modified": null
+  }
+}

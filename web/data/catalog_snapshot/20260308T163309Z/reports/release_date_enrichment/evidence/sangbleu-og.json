@@ -1,0 +1,41 @@
+{
+  "record_id": "sangbleu-og",
+  "source_url": "https://www.swisstypefaces.com/fonts/sangbleu-og",
+  "checked_at": "2026-03-09T01:56:37.764827+00:00",
+  "candidates": [
+    {
+      "date": "2007-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.swisstypefaces.com/fonts/sangbleu-og/",
+      "snippet": "gBleu fonts debuted in the Sang Bleu magazine, a publication about fashion, tattoo culture, and more. First released in 2007, SangBleu and Romain have helped to lay the foundations of our library, and were met with enthu"
+    },
+    {
+      "date": "2006-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.swisstypefaces.com/fonts/sangbleu-og/",
+      "snippet": "ndled via credit card Mastercard, VISA, American Express, Discover Network Follow Us Facebook Twitter Instagram In Use ©2006–2026 Swiss Typefaces All rights reserved"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.swisstypefaces.com/fonts/sangbleu-og/",
+      "snippet": " via credit card Mastercard, VISA, American Express, Discover Network Follow Us Facebook Twitter Instagram In Use ©2006–2026 Swiss Typefaces All rights reserved"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.swisstypefaces.com/fonts/sangbleu-og",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.swisstypefaces.com/fonts/sangbleu-og/",
+    "last_modified": null
+  }
+}

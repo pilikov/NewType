@@ -1,0 +1,27 @@
+{
+  "record_id": "varlope",
+  "source_url": "https://doublebtype.xyz/varlope",
+  "checked_at": "2026-03-09T01:49:45.659301+00:00",
+  "candidates": [
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://doublebtype.xyz",
+      "snippet": "e View Add to cart Pépère DOUBLE B TYPE IS THE TYPE FOUNDRY OF BRAND BROTHERS (F), AN INDEPENDENT BRANDING STUDIO SINCE 2010, WHERE WE RELENTLESSLY EXPLORE THE ALCHEMY BETWEEN VISUAL IDENTITY AND TYPOGRAPHY. HERE WE OFFE"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://doublebtype.xyz/varlope",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://doublebtype.xyz",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "beverly-drive",
+  "source_url": "https://hoodzpahdesign.com/typefaces/beverly-drive",
+  "checked_at": "2026-03-09T02:02:17.285480+00:00",
+  "candidates": [
+    {
+      "date": "2021-03-30",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://hoodzpahdesign.com/beverly-drive-2-0-is-here/",
+      "snippet": "2021-03-30T16:22:41+00:00"
+    },
+    {
+      "date": "2021-03-30",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://hoodzpahdesign.com/beverly-drive-2-0-is-here/",
+      "snippet": "2021-03-30T16:22:41+00:00"
+    },
+    {
+      "date": "2021-08-09",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://hoodzpahdesign.com/beverly-drive-2-0-is-here/",
+      "snippet": "2021-08-09T18:51:55+00:00"
+    },
+    {
+      "date": "2021-08-09",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://hoodzpahdesign.com/beverly-drive-2-0-is-here/",
+      "snippet": "2021-08-09T18:51:55+00:00"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://hoodzpahdesign.com/typefaces/beverly-drive",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hoodzpahdesign.com/beverly-drive-2-0-is-here/",
+    "last_modified": null
+  }
+}

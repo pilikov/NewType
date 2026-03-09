@@ -1,0 +1,34 @@
+{
+  "record_id": "movement",
+  "source_url": "https://www.nmtype.com/movement/",
+  "checked_at": "2026-03-09T01:50:36.746151+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.nmtype.com/movement/",
+      "snippet": "een represent the changes of movement in time. Movement is available to download and use for free. Script Latin Release 2019 Type design Noel Pretorius & MarÃ­a Ramos Performance Andile Vellem Film Colin Gwesu & Raquel R"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.nmtype.com/movement/",
+      "snippet": "Tue, 10 Feb 2026 11:01:25 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.nmtype.com/movement/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.nmtype.com/movement/",
+    "last_modified": "Tue, 10 Feb 2026 11:01:25 GMT"
+  }
+}

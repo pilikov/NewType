@@ -1,0 +1,41 @@
+{
+  "record_id": "inky",
+  "source_url": "https://bonezdesignz.com/font/inky/",
+  "checked_at": "2026-03-09T01:55:52.196664+00:00",
+  "candidates": [
+    {
+      "date": "2013-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://bonezdesignz.com/font/inky/",
+      "snippet": "GUAGE SUPPORT FORMATS GENERAL NAME: INKY STYLES: 1 GLYPH COUNT: 478 SCRIPTS: LATIN, GREEK & CYRILLIC RELEASE DATE: July 2013 DESIGNER: FIE CLARKE GLYPHS EACH WEIGHT OF THE TYPEFACE CONSISTS OF 517 GLYPHS LATIN COVERAGE S"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://bonezdesignz.com/font/inky/",
+      "snippet": "mer themes, beauty and so much more. PDF SPECIMEN LICENCE INFO BUY DOWNLOAD * *FREE FOR PERSONAL/PRIVATE USE Typodarium 2022 28 August Size Letter spacing INKY - TYPE HERE TECHNICAL SPECIFICATIONS GENERAL GLYPHS LANGUAGE"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://bonezdesignz.com/font/inky/",
+      "snippet": "Sun, 08 Mar 2026 12:59:03 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://bonezdesignz.com/font/inky/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://bonezdesignz.com/font/inky/",
+    "last_modified": "Sun, 08 Mar 2026 12:59:03 GMT"
+  }
+}

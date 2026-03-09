@@ -1,0 +1,27 @@
+{
+  "record_id": "maurizio",
+  "source_url": "https://www.suvatypefoundry.ee/maurizio/",
+  "checked_at": "2026-03-09T01:43:28.008702+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/maurizio/",
+      "snippet": "PREVIOUS FONT MAURIZIO NEXT FONT S B E L Z J C K D P U W A I F R O X Y H Q V DOWNLOAD T M G N MAURIZIO by Jaan Pavliuk (2020) Maurizio is a font inspired by outer space explorations, delirious states of mind and some per"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/maurizio/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/maurizio/",
+    "last_modified": null
+  }
+}

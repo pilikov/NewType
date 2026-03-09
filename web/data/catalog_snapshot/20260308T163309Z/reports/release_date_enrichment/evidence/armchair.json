@@ -1,0 +1,62 @@
+{
+  "record_id": "armchair",
+  "source_url": "https://www.psyops.com/typefaces/armchair",
+  "checked_at": "2026-03-09T01:54:18.208677+00:00",
+  "candidates": [
+    {
+      "date": "2017-06-08",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.psyops.com/armchair/",
+      "snippet": "2017-06-08T00:07:37+00:00"
+    },
+    {
+      "date": "2001-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.psyops.com/armchair/",
+      "snippet": "s and colors….” — SK Armchair Modern is derived from the logo created for Armchair Media Group by Stefán Kjartansson in 2001. The design is unabashedly ultra-modern, reminiscent of work by Mark Newson and the aforementio"
+    },
+    {
+      "date": "2023-10-09",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.psyops.com/armchair/",
+      "snippet": "2023-10-09T22:16:28+00:00"
+    },
+    {
+      "date": "2023-10-09",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.psyops.com/armchair/",
+      "snippet": "2023-10-09T22:16:28+00:00"
+    },
+    {
+      "date": "1995-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.psyops.com/armchair/",
+      "snippet": " E GAUGE 1 36 COMPANY ABOUT US PRIVACY LEARN MORE DESIGN LICENSING CONNECT WITH US CONTACT FORM JOIN OUR MAILING LIST © 1995–2025 PSY/OPS Type Foundry. All Rights Reserved. Page load link 0 Added to cart Close cart Your "
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.psyops.com/armchair/",
+      "snippet": "UGE 1 36 COMPANY ABOUT US PRIVACY LEARN MORE DESIGN LICENSING CONNECT WITH US CONTACT FORM JOIN OUR MAILING LIST © 1995–2025 PSY/OPS Type Foundry. All Rights Reserved. Page load link 0 Added to cart Close cart Your Cart "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.psyops.com/typefaces/armchair",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.psyops.com/armchair/",
+    "last_modified": null
+  }
+}

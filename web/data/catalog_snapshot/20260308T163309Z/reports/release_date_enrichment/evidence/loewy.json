@@ -1,0 +1,27 @@
+{
+  "record_id": "loewy",
+  "source_url": "https://gregshutters.com/loewy",
+  "checked_at": "2026-03-09T01:57:40.187856+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.gregshutters.com/loewy",
+      "snippet": "s, and numbers of a similar style found on early-1950s Studebaker speedometers and gauges. This typeface debuted on the 2018 Studebaker National Museum calendar which I designed, and won First Place in Collateral Materia"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://gregshutters.com/loewy",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.gregshutters.com/loewy",
+    "last_modified": null
+  }
+}

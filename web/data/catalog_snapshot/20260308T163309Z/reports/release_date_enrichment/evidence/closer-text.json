@@ -1,0 +1,27 @@
+{
+  "record_id": "closer-text",
+  "source_url": "https://minttype.com/closer-text",
+  "checked_at": "2026-03-09T01:43:08.651596+00:00",
+  "candidates": [
+    {
+      "date": "2019-07-19",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://minttype.com/closer-text",
+      "snippet": "c and is highly customizable with 7 stylistic sets to mix and match. Designed by Andriy Konstantynov First published on Jul 19, 2019 18 styles 2 free styles €143.10 Add to Cart Buying options Font names Pangrams: Basic L"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://minttype.com/closer-text",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://minttype.com/closer-text",
+    "last_modified": null
+  }
+}

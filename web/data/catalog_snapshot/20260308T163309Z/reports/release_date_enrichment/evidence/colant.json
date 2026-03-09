@@ -1,0 +1,41 @@
+{
+  "record_id": "colant",
+  "source_url": "https://type.hanli.eu/typefaces/colant",
+  "checked_at": "2026-03-09T01:37:06.058009+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://type.hanli.eu/colant/",
+      "snippet": " Styles Display, Text, Text Italic File Formats otf, woff, woff2 Characterset MacOS Central European Latin Release Year 2020 (updated 2023) Spacing/Kerning Igino Marini Colant Display Colant Text a a Chicago Chic a go Le"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://type.hanli.eu/colant/",
+      "snippet": "y, Text, Text Italic File Formats otf, woff, woff2 Characterset MacOS Central European Latin Release Year 2020 (updated 2023) Spacing/Kerning Igino Marini Colant Display Colant Text a a Chicago Chic a go Leafhop Lea fh o"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://type.hanli.eu/colant/",
+      "snippet": " Full & Empty Notes HAL Gap Release Note HAL Magic Release Note HAL TypePad Part 2: Manual HAL TypePad Part 1: Origins ©2026 HAL Typefaces, Studio HanLi  G a p  Magic Low Mid High T L R M B H +Oblique  Repost Regular "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://type.hanli.eu/typefaces/colant",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://type.hanli.eu/colant/",
+    "last_modified": null
+  }
+}

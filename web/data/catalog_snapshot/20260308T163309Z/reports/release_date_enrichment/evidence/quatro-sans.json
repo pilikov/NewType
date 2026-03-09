@@ -1,0 +1,27 @@
+{
+  "record_id": "quatro-sans",
+  "source_url": "https://pstypelab.com/quatro-sans",
+  "checked_at": "2026-03-09T01:49:45.420594+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://pstypelab.com/quatro-sans",
+      "snippet": "terpart. Need a custom version or language support? Get in touch here. A ll Content Created + Produced by Mark Caneso - 2026\nAll Types Welcome"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://pstypelab.com/quatro-sans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://pstypelab.com/quatro-sans",
+    "last_modified": null
+  }
+}

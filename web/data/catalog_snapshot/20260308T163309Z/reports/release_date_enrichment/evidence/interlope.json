@@ -1,0 +1,27 @@
+{
+  "record_id": "interlope",
+  "source_url": "https://velvetyne.fr/fonts/interlope/",
+  "checked_at": "2026-03-09T01:40:04.017972+00:00",
+  "candidates": [
+    {
+      "date": "2025-09-23",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://velvetyne.fr/fonts/interlope/",
+      "snippet": "ions Fantasy Human made Calligraphic Writing systems Latin License SIL Open Font License, Version 1.1 Date Published on September 23, 2025 Get the PDF specimen Ce contenu existe en Français Interlope is a script typeface"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://velvetyne.fr/fonts/interlope/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://velvetyne.fr/fonts/interlope/",
+    "last_modified": null
+  }
+}

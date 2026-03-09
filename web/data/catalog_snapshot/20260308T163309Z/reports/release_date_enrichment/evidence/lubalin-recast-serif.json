@@ -1,0 +1,27 @@
+{
+  "record_id": "lubalin-recast-serif",
+  "source_url": "https://www.daltonmaag.com/library/lubalin-recast-serif",
+  "checked_at": "2026-03-09T01:48:28.757390+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/lubalin-recast-serif.html",
+      "snippet": "ate includes an extensive Weight axis and matches the Sansâs unusual ligatures and alternates. Designed and developed\n2024 Designers Yingtong Tan, Angel Kwong Writing Systems Latin Supporting over 800\nLanguages Aari (L"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.daltonmaag.com/library/lubalin-recast-serif",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.daltonmaag.com/font-library/lubalin-recast-serif.html",
+    "last_modified": null
+  }
+}

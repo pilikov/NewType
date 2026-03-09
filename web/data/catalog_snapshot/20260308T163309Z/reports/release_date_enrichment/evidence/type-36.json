@@ -1,0 +1,27 @@
+{
+  "record_id": "type-36",
+  "source_url": "https://hanken.co/products/type-36",
+  "checked_at": "2026-03-09T02:01:36.790378+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://hanken.co/products/type-36",
+      "snippet": "        – Hanken Design Co. Skip to content Fonts Licensing Desktop License Webfont License App License HDC Font Bundle 2026 Customized/Enterprise Font Licensing Services Contact Us Log in Search Submit Submit Close 0 it"
+    },
+    {
+      "date": "2026-02-14",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://hanken.co/products/type-36",
+      "snippet": "2026-02-14"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hanken.co/products/type-36",
+    "last_modified": null
+  }
+}

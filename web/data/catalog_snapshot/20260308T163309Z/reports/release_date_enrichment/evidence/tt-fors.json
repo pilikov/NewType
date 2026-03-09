@@ -1,0 +1,97 @@
+{
+  "record_id": "tt-fors",
+  "source_url": "https://typetype.org/typefaces/tt-fors",
+  "checked_at": "2026-03-09T02:03:32.408638+00:00",
+  "candidates": [
+    {
+      "date": "2021-05-11",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typetype.org/fonts/tt-fors/",
+      "snippet": "2021-05-11T15:22:12+00:00"
+    },
+    {
+      "date": "2021-05-11",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://typetype.org/fonts/tt-fors/",
+      "snippet": "2021-05-11T15:22:12+00:00"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-fors/",
+      "snippet": "atives Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! Font Update: What’s New in the Latest Version Version"
+    },
+    {
+      "date": "2021-04-29",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-fors/",
+      "snippet": "display subfamily Support for over 220 languages TT Fors—the font that’s made for you! Release and update date Release: April 29, 2021 Last update: May 13, 2025 What's changed in the font: Expanded character set: the num"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-fors/",
+      "snippet": "rs, allowing designers to dynamically change the font width from condensed to standard directly during the workflow. In 2025, we continued to develop the typeface, expanding the Latin and Cyrillic alphabets with new glyp"
+    },
+    {
+      "date": "2025-05-13",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-fors/",
+      "snippet": "serif with precisely balanced forms. It works seamlessly in both interface design and display applications. Update from May 13, 2025 — What’s New? Single style: from $ 47.99 Full family: from $ 439 50 styles Buy font Tes"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-fors/",
+      "snippet": "s Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! Font Update: What’s New in the Latest Version Version from"
+    },
+    {
+      "date": "2026-02-27",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typetype.org/fonts/tt-fors/",
+      "snippet": "2026-02-27T13:37:49+00:00"
+    },
+    {
+      "date": "2026-02-27",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://typetype.org/fonts/tt-fors/",
+      "snippet": "2026-02-27T13:37:49+00:00"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-fors/",
+      "snippet": "ith the legacy of great typographers of the past, would meet contemporary requirements and solve current challenges. In 2024, we presented a major update to the TT Fors family, with the condensed version—TT Fors Condense"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://typetype.org/fonts/tt-fors/",
+      "snippet": "Fri, 06 Mar 2026 21:08:45 GMT"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typetype.org/typefaces/tt-fors",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typetype.org/fonts/tt-fors/",
+    "last_modified": "Fri, 06 Mar 2026 21:08:45 GMT"
+  }
+}

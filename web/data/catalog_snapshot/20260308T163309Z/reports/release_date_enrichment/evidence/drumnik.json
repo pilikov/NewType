@@ -1,0 +1,62 @@
+{
+  "record_id": "drumnik",
+  "source_url": "https://fontfabric.com/typefaces/drumnik",
+  "checked_at": "2026-03-09T01:44:33.440924+00:00",
+  "candidates": [
+    {
+      "date": "2022-05-23",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.fontfabric.com/fonts/drumnik/",
+      "snippet": "2022-05-23T15:13:43+00:00"
+    },
+    {
+      "date": "2022-06-09",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/drumnik/",
+      "snippet": "uation, and unique double-story ligatures—perfect for creating expressive, vintage-influenced typography. Release Date: June 9, 2022 Explore: Display Fonts Credits: Stopan, Plamen Motev, Stefan Yatanski, Mirela Belcheva "
+    },
+    {
+      "date": "2025-10-20",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.fontfabric.com/fonts/drumnik/",
+      "snippet": "2025-10-20T10:47:05+00:00"
+    },
+    {
+      "date": "2025-10-20",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.fontfabric.com/fonts/drumnik/",
+      "snippet": "2025-10-20T10:47:05+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/drumnik/",
+      "snippet": "pt fonts Font sale Free fonts Fonts in use Font collections Legal Infringements About Help Blog Partnerships Contact us 2026 © Fontfabric llc. Privacy Notice Manage Cookies"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.fontfabric.com/fonts/drumnik/",
+      "snippet": "Sun, 08 Mar 2026 12:04:15 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fontfabric.com/typefaces/drumnik",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.fontfabric.com/fonts/drumnik/",
+    "last_modified": "Sun, 08 Mar 2026 12:04:15 GMT"
+  }
+}

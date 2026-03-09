@@ -1,0 +1,27 @@
+{
+  "record_id": "octagonica",
+  "source_url": "https://capitalics.wtf/font/octagonica",
+  "checked_at": "2026-03-09T01:48:19.661046+00:00",
+  "candidates": [
+    {
+      "date": "2014-08-23",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://capitalics.wtf/en/font/octagonica",
+      "snippet": " Styles About Buy this font Octagonica Octagonica Weight Width Slant Specimen Write something... Octagonica ut amet qui 2014-08-23 22:49:01 33503 Vanessa Coves\nMaxinebury, AZ 07864 Amely Koch Style Font Size Tracking sty"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://capitalics.wtf/font/octagonica",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://capitalics.wtf/en/font/octagonica",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "bligh",
+  "source_url": "https://www.daltonmaag.com/library/bligh",
+  "checked_at": "2026-03-09T01:52:03.317566+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/bligh.html",
+      "snippet": "on. The family is a versatile choice when you need a font that stands out from the crowd. Designed and developed\n2015â2017 Designers Luisa Baeta Writing Systems Latin Supporting over 750\nLanguages Aari (Latin Script), "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.daltonmaag.com/library/bligh",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.daltonmaag.com/font-library/bligh.html",
+    "last_modified": null
+  }
+}

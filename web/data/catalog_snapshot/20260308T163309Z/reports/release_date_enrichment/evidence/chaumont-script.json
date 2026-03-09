@@ -1,0 +1,34 @@
+{
+  "record_id": "chaumont-script",
+  "source_url": "https://anrt-nancy.fr/fr/fonts/chaumont-script",
+  "checked_at": "2026-03-09T01:46:27.481373+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://anrt-nancy.fr/fr/fonts/chaumont-script",
+      "snippet": "nal en Chaumont Script Info 2021 Timothée Gouraud, Alexandre Bassi Timothée Gouraud (Fabrication Maison) a découvert en 2016 à Chaumont les panneaux et enseignes réalisés par Chantal Jacquet, peintre en lettres, dans les"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://anrt-nancy.fr/fr/fonts/chaumont-script",
+      "snippet": "que ANRT Présentation Projets Candidature Recherche Publications Vidéos Articles Fontes Journal en Chaumont Script Info 2021 Timothée Gouraud, Alexandre Bassi Timothée Gouraud (Fabrication Maison) a découvert en 2016 à C"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://anrt-nancy.fr/fr/fonts/chaumont-script",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://anrt-nancy.fr/fr/fonts/chaumont-script",
+    "last_modified": null
+  }
+}

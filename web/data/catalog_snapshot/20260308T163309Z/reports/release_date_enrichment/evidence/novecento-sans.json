@@ -1,0 +1,27 @@
+{
+  "record_id": "novecento-sans",
+  "source_url": "https://typography.synthview.com/novecento-sans-font-family.php",
+  "checked_at": "2026-03-09T01:51:29.936583+00:00",
+  "candidates": [
+    {
+      "date": "2011-05-16",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typography.synthview.com/novecento-sans-font-family.php",
+      "snippet": "2011-05-16"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typography.synthview.com/novecento-sans-font-family.php",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typography.synthview.com/novecento-sans-font-family.php",
+    "last_modified": null
+  }
+}

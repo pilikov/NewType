@@ -1,0 +1,48 @@
+{
+  "record_id": "mcbean",
+  "source_url": "https://abstractoffice.xyz/mcbean",
+  "checked_at": "2026-03-09T01:57:18.224705+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://abstractoffice.xyz/mcbean",
+      "snippet": "ypeface as an extension to the school’s branding. Initially only three styles, McBean was expanded to sixteen styles in 2017 for general release. McBean Slab Bold 13VW / 1: McBean Italic Medium 13VW / 1: McBean Sans Book"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://abstractoffice.xyz/mcbean",
+      "snippet": "pe foundry and studio in Los Angeles, California.   TRY  BUY MCBEAN SANS REGULAR The McBean family is the result of a 2013 commission from California Institute of the Arts to create a multi-style typeface as an extensi"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://abstractoffice.xyz/mcbean",
+      "snippet": "t of an eclectic voice in line with the school’s identity. MCBEAN BEAST 12.5VW / 1: “PUFF OF EGO” GLOBAL STYLE MO’ SHOW 2018 MCBEAN SANS REGULAR McBean’s mannered approaches — insistent geometry, cheeky ornamentality, an"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://abstractoffice.xyz/mcbean",
+      "snippet": "nstagram Email Address Sign Up Thank you! Abstract Office Los Angeles, CA, USA info@abstractoffice.xyz Hours ©Copyright 2023 Abstract Office"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://abstractoffice.xyz/mcbean",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://abstractoffice.xyz/mcbean",
+    "last_modified": null
+  }
+}

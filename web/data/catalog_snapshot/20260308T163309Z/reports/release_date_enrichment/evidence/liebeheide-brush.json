@@ -1,0 +1,34 @@
+{
+  "record_id": "liebeheide-brush",
+  "source_url": "https://liebefonts.com/fonts/liebeheide-brush",
+  "checked_at": "2026-03-09T01:41:14.642507+00:00",
+  "candidates": [
+    {
+      "date": "2009-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://liebefonts.com/fonts/liebeheide-brush",
+      "snippet": "> expressive flow <- confident flaws :-D Written by Hand Finished  by Heart! <3♥︎ Instagram Impressum Privacy Contact © 2009–2026 Ulrike Rausch & LiebeFonts®"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://liebefonts.com/fonts/liebeheide-brush",
+      "snippet": "ressive flow <- confident flaws :-D Written by Hand Finished  by Heart! <3♥︎ Instagram Impressum Privacy Contact © 2009–2026 Ulrike Rausch & LiebeFonts®"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://liebefonts.com/fonts/liebeheide-brush",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://liebefonts.com/fonts/liebeheide-brush",
+    "last_modified": null
+  }
+}

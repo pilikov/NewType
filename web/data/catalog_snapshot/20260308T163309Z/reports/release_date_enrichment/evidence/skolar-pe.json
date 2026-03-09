@@ -1,0 +1,55 @@
+{
+  "record_id": "skolar-pe",
+  "source_url": "https://rosettatype.com/SkolarPE",
+  "checked_at": "2026-03-09T01:57:36.559981+00:00",
+  "candidates": [
+    {
+      "date": "2011-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://rosettatype.com/SkolarPE",
+      "snippet": "sign exhibitions digital publishing on-screen reading packaging workhorse academic scholarly publishing Released 11. 1. 2011 Skolar is a registered trademark of Rosetta Type Foundry s.r.o. Credits Leads David Březina Art"
+    },
+    {
+      "date": "2008-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://rosettatype.com/SkolarPE",
+      "snippet": "   10+2\n                        \n                        fonts from 367 € Awards Second prize in European Design Awards 2008 I love typography’s best of 2008 First prize for Cyrillic at Granshan 2009 Special Diploma in M"
+    },
+    {
+      "date": "2009-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://rosettatype.com/SkolarPE",
+      "snippet": "wards Second prize in European Design Awards 2008 I love typography’s best of 2008 First prize for Cyrillic at Granshan 2009 Special Diploma in Modern Cyrillic 2009 Articles The development of Skolar Devanagari On Skolar"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://rosettatype.com/SkolarPE",
+      "snippet": "ime. Social media Mastodon LinkedIn Type rocks! Copyright © Rosetta Type Foundry, s.r.o. and respective designers, 2011–2026. This website does not track you. Mains Fonts Services Research Puddings About us Articles Font"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://rosettatype.com/SkolarPE",
+      "snippet": "Mon, 02 Mar 2026 19:12:15 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://rosettatype.com/SkolarPE",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://rosettatype.com/SkolarPE",
+    "last_modified": "Mon, 02 Mar 2026 19:12:15 GMT"
+  }
+}

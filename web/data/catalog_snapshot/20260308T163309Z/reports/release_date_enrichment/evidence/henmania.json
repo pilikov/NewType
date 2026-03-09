@@ -1,0 +1,20 @@
+{
+  "record_id": "henmania",
+  "source_url": "https://www.futurefonts.com/bea-korsh/henmania",
+  "checked_at": "2026-03-09T02:01:26.336284+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-15",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.futurefonts.com/bea-korsh/henmania",
+      "snippet": "2026-02-15"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.futurefonts.com/bea-korsh/henmania",
+    "last_modified": null
+  }
+}

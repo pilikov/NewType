@@ -1,0 +1,41 @@
+{
+  "record_id": "blackink",
+  "source_url": "https://dirtylinestudio.com/product/blackink-blackletter-font/",
+  "checked_at": "2026-03-09T01:47:16.380291+00:00",
+  "candidates": [
+    {
+      "date": "2020-03-27",
+      "score": 0.7,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://dirtylinestudio.com/product/blackink-blackletter-font/",
+      "snippet": "2020-03-27T06:09:33+07:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://dirtylinestudio.com/product/blackink-blackletter-font/",
+      "snippet": "es Mockups Freebies Custom-Project Shop Freebies Custom-Project Works Font In Use Blog License About © Dirtyline Studio 2026 Blackink – Blackletter Font Buying Options Font Tester Info Glyph Buying Options White/Black Ti"
+    },
+    {
+      "date": "2021-05-29",
+      "score": 0.44999999999999996,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://dirtylinestudio.com/product/blackink-blackletter-font/",
+      "snippet": "2021-05-29T03:17:54+07:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://dirtylinestudio.com/product/blackink-blackletter-font/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://dirtylinestudio.com/product/blackink-blackletter-font/",
+    "last_modified": null
+  }
+}

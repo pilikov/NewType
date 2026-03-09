@@ -1,0 +1,48 @@
+{
+  "record_id": "mento",
+  "source_url": "https://ainsifont.com/font/mento",
+  "checked_at": "2026-03-09T01:49:29.169070+00:00",
+  "candidates": [
+    {
+      "date": "2007-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/font/mento",
+      "snippet": "uy ADD TO CART 30 € OTF Mento Regular LinéaleArrondie01 -23456789-°+/- ABCDEFGH(éà) Sans Rounded 1 weight 2020 Af Mento 2007 Designers. Xavier Meurice et Sébastien Delobel Classification. Linéale arrondie Langage. Latin "
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/font/mento",
+      "snippet": "otographies. © Atelier télescopique. Info. Initialement dessinné en 2007, l'alphabet Mento regular a été retravaillé en 2012 pour être utilisé sur un projet de Signalétique. Info. I nitially designed in 2007, alphabet Me"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/font/mento",
+      "snippet": "o 2007 Designers. Xavier Meurice et Sébastien Delobel Classification. Linéale arrondie Langage. Latin Standard Édition. 2018 Illustrations et photographies. © Atelier télescopique. Info. Initialement dessinné en 2007, l'"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/font/mento",
+      "snippet": "nida Regular Buy ADD TO CART 30 € OTF Mento Regular LinéaleArrondie01 -23456789-°+/- ABCDEFGH(éà) Sans Rounded 1 weight 2020 Af Mento 2007 Designers. Xavier Meurice et Sébastien Delobel Classification. Linéale arrondie L"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ainsifont.com/font/mento",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.ainsifont.com/font/mento",
+    "last_modified": null
+  }
+}

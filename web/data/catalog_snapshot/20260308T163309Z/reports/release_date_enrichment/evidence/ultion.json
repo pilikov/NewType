@@ -1,0 +1,41 @@
+{
+  "record_id": "ultion",
+  "source_url": "https://typogama.com/fonts/ultion",
+  "checked_at": "2026-03-09T02:04:06.927007+00:00",
+  "candidates": [
+    {
+      "date": "2014-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typogama.com/fonts/ultion",
+      "snippet": "OGAMA c/o Parson Research\n6 Rue de Fribourg\n1201 Geneva, Switzerland info@typogama.com +41 (0)79 476 22 75 CONTACT US © 2014 - 2026 by Typogama/Parson Research Geneva, Switzerland. All rights reserved TYPOGAMA Subscribe "
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typogama.com/fonts/ultion",
+      "snippet": "Text Black, Text Black Italic + variable font FORMATS OTF, WOFF2, TTF Designed by Michael Parson , released in November 2025 LANGUAGE SUPPORT ISO Latin-1 Afrikaans , Albanian , Breton , Catalan , Danish , English , Faroe"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typogama.com/fonts/ultion",
+      "snippet": "/o Parson Research\n6 Rue de Fribourg\n1201 Geneva, Switzerland info@typogama.com +41 (0)79 476 22 75 CONTACT US © 2014 - 2026 by Typogama/Parson Research Geneva, Switzerland. All rights reserved TYPOGAMA Subscribe to our "
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typogama.com/fonts/ultion",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typogama.com/fonts/ultion",
+    "last_modified": null
+  }
+}

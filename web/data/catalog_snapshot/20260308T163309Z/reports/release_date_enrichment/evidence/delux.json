@@ -1,0 +1,69 @@
+{
+  "record_id": "delux",
+  "source_url": "https://barnbrook.net/typefaces/delux",
+  "checked_at": "2026-03-09T01:48:26.806563+00:00",
+  "candidates": [
+    {
+      "date": "2016-06-01",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://barnbrook.net/typefaces/delux-2/",
+      "snippet": "2016-06-01T16:20:42+00:00"
+    },
+    {
+      "date": "2025-09-18",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://barnbrook.net/typefaces/delux-2/",
+      "snippet": "2025-09-18T22:49:55+00:00"
+    },
+    {
+      "date": "2025-09-18",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://barnbrook.net/typefaces/delux-2/",
+      "snippet": "2025-09-18T22:49:55+00:00"
+    },
+    {
+      "date": "2004-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://barnbrook.net/typefaces/delux-2/",
+      "snippet": "ised with a retrospective at the Design Museum in London entitled Friendly Fire in 2007 and at Ginza Graphic Gallery in 2004. A touring exhibition if the studio’s work Collateral Damage was staged in various countries, i"
+    },
+    {
+      "date": "2007-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://barnbrook.net/typefaces/delux-2/",
+      "snippet": "k’s contribution to design was recognised with a retrospective at the Design Museum in London entitled Friendly Fire in 2007 and at Ginza Graphic Gallery in 2004. A touring exhibition if the studio’s work Collateral Dama"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://barnbrook.net/typefaces/delux-2/",
+      "snippet": "r teaching and lecturing worldwide. Awards 59th Annual Grammy Awards – Winner of Best Recording Package for Blackstar , 2016 The Design Museum Beazley Design of The Year – Winner of Graphic Design of the Year for Blackst"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://barnbrook.net/typefaces/delux-2/",
+      "snippet": "Sun, 08 Mar 2026 14:50:12 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://barnbrook.net/typefaces/delux",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://barnbrook.net/typefaces/delux-2/",
+    "last_modified": "Sun, 08 Mar 2026 14:50:12 GMT"
+  }
+}

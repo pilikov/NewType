@@ -1,0 +1,41 @@
+{
+  "record_id": "cyreal--adamina",
+  "source_url": "https://www.cyreal.org/fonts/adamina",
+  "checked_at": "2026-03-09T01:36:04.803556+00:00",
+  "candidates": [
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/adamina/",
+      "snippet": "rmat Static 1 style OTF, TTF, woff2 Download Donate Source Files Authors: Alexei Vanyashin Tags: Serif Scripts: Latin © 2010–2026 Cyreal and respective authors. All rights reserved. This site uses cookies (including Goog"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/adamina/",
+      "snippet": "gned by Alexei Vanyashin for Cyreal. To contribute to the project, visit github.com/cyrealtype/Adamina Updated: January 2016 to Version 1.012, to correct GPOS table (enabling kerning) Adamina Regular ABCDEFGHIJKLMNOPQRST"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/adamina/",
+      "snippet": "Static 1 style OTF, TTF, woff2 Download Donate Source Files Authors: Alexei Vanyashin Tags: Serif Scripts: Latin © 2010–2026 Cyreal and respective authors. All rights reserved. This site uses cookies (including Google An"
+    },
+    {
+      "date": "2026-03-02",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.cyreal.org/fonts/adamina",
+      "snippet": "2026-03-02"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.cyreal.org/fonts/adamina/",
+    "last_modified": null
+  }
+}

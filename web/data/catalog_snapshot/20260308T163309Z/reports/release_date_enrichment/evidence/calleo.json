@@ -1,0 +1,69 @@
+{
+  "record_id": "calleo",
+  "source_url": "https://fontfabric.com/typefaces/calleo",
+  "checked_at": "2026-03-09T01:44:46.760332+00:00",
+  "candidates": [
+    {
+      "date": "2023-03-09",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.fontfabric.com/fonts/calleo/",
+      "snippet": "2023-03-09T10:52:45+00:00"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/calleo/",
+      "snippet": "with checkout or pick more fonts and licenses to buy. Checkout About Calleo was first conceptualised by Plamen Motev in 2017, then revisited and completed in collaboration with French designers Léon Hugues and Leo Guiber"
+    },
+    {
+      "date": "2023-03-09",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/calleo/",
+      "snippet": "n 2017, then revisited and completed in collaboration with French designers Léon Hugues and Leo Guibert. It launched on March 9, 2023, as a modern sans-serif with two distinct subfamilies—Calleo Sans and Calleo Flux—offe"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.fontfabric.com/fonts/calleo/",
+      "snippet": "2026-02-18T10:45:46+00:00"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.fontfabric.com/fonts/calleo/",
+      "snippet": "2026-02-18T10:45:46+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/calleo/",
+      "snippet": "pt fonts Font sale Free fonts Fonts in use Font collections Legal Infringements About Help Blog Partnerships Contact us 2026 © Fontfabric llc. Privacy Notice Manage Cookies"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.fontfabric.com/fonts/calleo/",
+      "snippet": "Sun, 08 Mar 2026 17:30:52 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fontfabric.com/typefaces/calleo",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.fontfabric.com/fonts/calleo/",
+    "last_modified": "Sun, 08 Mar 2026 17:30:52 GMT"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "mercator-st",
+  "source_url": "https://www.sourcetype.com/typefaces/5328/mercator",
+  "checked_at": "2026-03-09T01:52:59.803814+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.sourcetype.com/typefaces/5328/mercator",
+      "snippet": "tch classic that always hits right. Mercator ST is designed by Laurenz Brunner and was first released by Source Type in 2025. Available Cuts Regular Italic Medium Medium Italic Bold Bold Italic Source Material 1/10 Lette"
+    },
+    {
+      "date": "2004-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.sourcetype.com/typefaces/5328/mercator",
+      "snippet": "ence of Helvetica or Univers, and instead gained a cult following among a handful of in-the-know European designers. In 2004, Laurenz Brunner discovered Mercator in the letterpress workshop at the Gerrit Rietveld Academi"
+    },
+    {
+      "date": "2005-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.sourcetype.com/typefaces/5328/mercator",
+      "snippet": "ri, Xhosa, Yapese, Yindjibarndi, Zapotec, Zulu, Zuni … show all Colophon Design: Dick Dooijes (1958) / Laurenz Brunner (2005–2025) Design & Production Assistance: Davide Tomatis , Jonny Woods Font Engineering & Mastering"
+    },
+    {
+      "date": "2008-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.sourcetype.com/typefaces/5328/mercator",
+      "snippet": "rrit Rietveld Academie, Amsterdam, set in Mercator 9/10 Identity for the Gerrit Rietveld Academie by Alexander Shoukas (2008) 10/10 Mercator in use for “ik kan lezen” by Dick Bruna (1965) 10 Type Specimen W3siaWQiOiIzNjk"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.sourcetype.com/typefaces/5328/mercator",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.sourcetype.com/typefaces/5328/mercator",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "vells-mono",
+  "source_url": "https://feedtype.ca/typefaces/e/vells-mono",
+  "checked_at": "2026-03-09T01:56:27.175830+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://feedtype.ca/en/typefaces/e8888-001/",
+      "snippet": " Release date Mars 2022 Available licenses Desktop, Web, App PDF specimen About E/8888 №001 E/8888 №001 was designed in 2019 for Éditions 8888, the Montreal-based collective creating the accoutrements of a dystopian opti"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://feedtype.ca/en/typefaces/e8888-001/",
+      "snippet": "60 E/8888 №001 Italic Buy E/8888 №001 Info Designer Feed Developer Production Type Publisher Feedtype Release date Mars 2022 Available licenses Desktop, Web, App PDF specimen About E/8888 №001 E/8888 №001 was designed in"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://feedtype.ca/en/typefaces/e8888-001/",
+      "snippet": "tesque E/8888 №001 Citerne Hochelaga Guillon Wigrum Vells Mono More Gothic Custom Atelier Mono Ottomono Uno Copyright © 2026, studio Feed inc.\n            All rights reserved Newsletter Feedtype 312-5333 Casgrain AVE Mon"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://feedtype.ca/typefaces/e/vells-mono",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://feedtype.ca/en/typefaces/e8888-001/",
+    "last_modified": null
+  }
+}

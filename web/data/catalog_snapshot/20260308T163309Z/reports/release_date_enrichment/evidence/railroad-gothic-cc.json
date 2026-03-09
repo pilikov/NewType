@@ -1,0 +1,55 @@
+{
+  "record_id": "railroad-gothic-cc",
+  "source_url": "https://cowboycollective.cc/2020/07/20/RailraodGothicCC.html",
+  "checked_at": "2026-03-09T01:48:19.349556+00:00",
+  "candidates": [
+    {
+      "date": "2020-07-20",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://cowboycollective.cc/2020/07/20/RailraodGothicCC.html",
+      "snippet": "2020-07-20T00:00:00+00:00"
+    },
+    {
+      "date": "2020-07-20",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://cowboycollective.cc/2020/07/20/RailraodGothicCC.html",
+      "snippet": "2020-07-20T00:00:00+00:00"
+    },
+    {
+      "date": "2020-07-20",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://cowboycollective.cc/2020/07/20/RailraodGothicCC.html",
+      "snippet": "2020-07-20T00:00:00+00:00"
+    },
+    {
+      "date": "2020-07-20",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://cowboycollective.cc/2020/07/20/RailraodGothicCC.html",
+      "snippet": "Railroad Gothic CC Font | The Cowboy Collective ABOUT ARCHIVES COWBOYS CONTRIBUTE Railroad Gothic CC Font OWEN EARL 20 July 2020 Makin’ A Historical revival of Railroad Gothic by indestructible type* ★ DOWNLOAD THE ZIP! "
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://cowboycollective.cc/2020/07/20/RailraodGothicCC.html",
+      "snippet": "Tue, 24 Oct 2023 19:33:20 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://cowboycollective.cc/2020/07/20/RailraodGothicCC.html",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://cowboycollective.cc/2020/07/20/RailraodGothicCC.html",
+    "last_modified": "Tue, 24 Oct 2023 19:33:20 GMT"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "record_id": "quintana-font--modernica",
+  "source_url": "https://quintana-font.cl/typefaces/modernica",
+  "checked_at": "2026-03-09T01:47:50.793299+00:00",
+  "candidates": [
+    {
+      "date": "2014-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://quintana-font.cl/typefaces/modernica",
+      "snippet": "d terminals that subtly evoke the shape of sans serif letters drawn with a sign painting brush. Originally published in 2014, then in 2020 we released version 2.0, in which we expanded the language coverage and character"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://quintana-font.cl/typefaces/modernica",
+      "snippet": "at subtly evoke the shape of sans serif letters drawn with a sign painting brush. Originally published in 2014, then in 2020 we released version 2.0, in which we expanded the language coverage and character set, adding a"
+    },
+    {
+      "date": "2024-09-25",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://quintana-font.cl/typefaces/modernica",
+      "snippet": "2024-09-25"
+    },
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://quintana-font.cl/typefaces/modernica",
+      "snippet": "ne storey ‘a’ Single loop ‘g’ Curved tail ‘y’ Font Variations 100px format_size format_line_spacing Lhasa de Sela, 1972-2010 Modernica Regular Select a style Modernica Thin Modernica Thin Oblique Modernica Light Modernic"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://quintana-font.cl/typefaces/modernica",
+      "snippet": " storey ‘a’ Single loop ‘g’ Curved tail ‘y’ Font Variations 100px format_size format_line_spacing Pedro Lemebel (1952 - 2015) Modernica Thin Oblique Select a style Modernica Thin Modernica Thin Oblique Modernica Light Mo"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://quintana-font.cl/typefaces/modernica",
+      "snippet": "ue U$D 29.00 Modernica Fat U$D 29.00 Modernica Fat Oblique U$D 29.00 TOTAL U$D 0.00 Proceed to checkout Quintana-Font © 2026 Font Catalog Loica Sans Violeta RunRun Lira Sans Berenjena Simona Chupilca Vivaceta Modérnica L"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://quintana-font.cl/typefaces/modernica",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://quintana-font.cl/typefaces/modernica",
+    "last_modified": null
+  }
+}

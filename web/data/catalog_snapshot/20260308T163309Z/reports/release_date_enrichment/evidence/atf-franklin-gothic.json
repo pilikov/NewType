@@ -1,0 +1,27 @@
+{
+  "record_id": "atf-franklin-gothic",
+  "source_url": "http://atftype.com/typefaces/atf-franklin-gothic",
+  "checked_at": "2026-03-09T01:55:44.976041+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://atftype.com/typefaces/atf-franklin-gothic",
+      "snippet": "ted page to the screen, the new ATF Collection\n        brings a tradition of typographic richness to the digital era. © 2026 The Type Founders, LLC . Licensing Character sets Trademarks Services Contact ATF Alternate Got"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://atftype.com/typefaces/atf-franklin-gothic",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://atftype.com/typefaces/atf-franklin-gothic",
+    "last_modified": null
+  }
+}

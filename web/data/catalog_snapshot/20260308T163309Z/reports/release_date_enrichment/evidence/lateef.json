@@ -1,0 +1,90 @@
+{
+  "record_id": "lateef",
+  "source_url": "https://software.sil.org/lateef/",
+  "checked_at": "2026-03-09T01:41:58.547410+00:00",
+  "candidates": [
+    {
+      "date": "2014-10-02",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://software.sil.org/lateef/",
+      "snippet": "2014-10-02T09:52:47+00:00"
+    },
+    {
+      "date": "2014-10-02",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://software.sil.org/lateef/",
+      "snippet": "2014-10-02T09:52:47+00:00"
+    },
+    {
+      "date": "2023-04-14",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/lateef/",
+      "snippet": "00 11 August 2025 Release 4.300 21 October 2024 Release 4.200 28 August 2023 Release 4.100 11 August 2023 Release 4.000 14 April 2023 This font software is free to use, modify and redistribute according to the terms of t"
+    },
+    {
+      "date": "2023-08-11",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/lateef/",
+      "snippet": "ecent news Lateef Release 4.400 11 August 2025 Release 4.300 21 October 2024 Release 4.200 28 August 2023 Release 4.100 11 August 2023 Release 4.000 14 April 2023 This font software is free to use, modify and redistribut"
+    },
+    {
+      "date": "2023-08-28",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/lateef/",
+      "snippet": "complete Lateef - FAQ list. Recent news Lateef Release 4.400 11 August 2025 Release 4.300 21 October 2024 Release 4.200 28 August 2023 Release 4.100 11 August 2023 Release 4.000 14 April 2023 This font software is free t"
+    },
+    {
+      "date": "2024-10-21",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/lateef/",
+      "snippet": "ort for the full listing. See complete Lateef - FAQ list. Recent news Lateef Release 4.400 11 August 2025 Release 4.300 21 October 2024 Release 4.200 28 August 2023 Release 4.100 11 August 2023 Release 4.000 14 April 202"
+    },
+    {
+      "date": "2025-08-11",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/lateef/",
+      "snippet": "lease? See Character Set Support for the full listing. See complete Lateef - FAQ list. Recent news Lateef Release 4.400 11 August 2025 Release 4.300 21 October 2024 Release 4.200 28 August 2023 Release 4.100 11 August 20"
+    },
+    {
+      "date": "2024-10-21",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://software.sil.org/lateef/",
+      "snippet": "2024-10-21T15:16:52+00:00"
+    },
+    {
+      "date": "2024-10-21",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://software.sil.org/lateef/",
+      "snippet": "2024-10-21T15:16:52+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/lateef/",
+      "snippet": "Font License Writing Systems Technology Technical Resources Contact & Support Contact Support Community FAQ Copyright © 2026 SIL Global Terms of Use Privacy Policy"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://software.sil.org/lateef/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://software.sil.org/lateef/",
+    "last_modified": null
+  }
+}

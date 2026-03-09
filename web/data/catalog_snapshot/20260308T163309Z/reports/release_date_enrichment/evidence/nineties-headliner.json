@@ -1,0 +1,34 @@
+{
+  "record_id": "nineties-headliner",
+  "source_url": "https://jenwagner.co/products/nineties-headliner",
+  "checked_at": "2026-03-09T01:44:43.030049+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://jenwagner.co/products/nineties-headliner-a-bold-nostalgic-sans/",
+      "snippet": "free demos before they're released!). Privacy Policy | Terms & Conditions | Shipping & Return Policy | © Jen Wagner Co. 2025 | Fonts used: JWType Sans | Shop development by Penguin Designing Resources typefaces Licensing"
+    },
+    {
+      "date": "1993-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://jenwagner.co/products/nineties-headliner-a-bold-nostalgic-sans/",
+      "snippet": "as a bonus that create a vintage magazine print look with the click of a button (see the before/after on the 8th image, 1993) 🙂 Take it for a spin Size Letter spacing Line height Obsession-worthy fonts you can fall in lo"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://jenwagner.co/products/nineties-headliner",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://jenwagner.co/products/nineties-headliner-a-bold-nostalgic-sans/",
+    "last_modified": null
+  }
+}

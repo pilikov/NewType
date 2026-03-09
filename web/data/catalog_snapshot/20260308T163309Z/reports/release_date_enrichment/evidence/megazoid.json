@@ -1,0 +1,27 @@
+{
+  "record_id": "megazoid",
+  "source_url": "https://djr.com/megazoid",
+  "checked_at": "2026-03-09T01:42:49.683352+00:00",
+  "candidates": [
+    {
+      "date": "1995-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/megazoid",
+      "snippet": "etrical trapezoids that add a touch of off-kilter dynamism to the otherwise static design. Radio Shack logo, circa 1972–1995 I didn’t plan this, but I’m really happy that Megabase , Megavolt , and Megazoid have formed a "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://djr.com/megazoid",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://djr.com/megazoid",
+    "last_modified": null
+  }
+}

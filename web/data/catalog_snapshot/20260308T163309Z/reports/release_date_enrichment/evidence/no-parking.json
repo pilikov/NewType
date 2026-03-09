@@ -1,0 +1,34 @@
+{
+  "record_id": "no-parking",
+  "source_url": "https://a2-type.co.uk/no-parking",
+  "checked_at": "2026-03-09T01:48:10.269395+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/no-parking",
+      "snippet": "ember of the public. Typeface design award: Tokyo Type Directors Club 2025 TDC Prize. NO PARKING Bold px — TDC TOKYO -> 2025 PRICE <- TYPEFACE DESIGN CATEGORY ;-) — ABCDEFGHIJKLM NOPQRSTUVW XYZÆØÅ 0123456789 [({&}]) X A2"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/no-parking",
+      "snippet": "etnamese, Vunjo, Walloon, Welsh, Western Frisian, Wolof, Xhosa, Zulu Manufacturer: A2-TYPE Designer: Henrik Kubel Year: 2024 Copyright: © A2-TYPE Trademark: NO PARKING is a trademark of A2-TYPE Licence: Terms and conditi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://a2-type.co.uk/no-parking",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://a2-type.co.uk/no-parking",
+    "last_modified": null
+  }
+}

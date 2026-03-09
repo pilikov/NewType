@@ -1,0 +1,41 @@
+{
+  "record_id": "blinker",
+  "source_url": "https://supertype.de/fonts/blinker",
+  "checked_at": "2026-03-09T01:46:16.602744+00:00",
+  "candidates": [
+    {
+      "date": "2005-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://supertype.de/fonts/blinker",
+      "snippet": "fonts/LemonSerif/LemonSerif-Bold.woff2?2006') format('woff2'),\nurl('/assets/retailfonts/LemonSerif/LemonSerif-Bold.woff?2005') format('woff');\nfont-weight: 700;\nfont-style: normal;\n} Lemon Serif @font-face {\nfont-family:"
+    },
+    {
+      "date": "2006-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://supertype.de/fonts/blinker",
+      "snippet": "\n} Ode @font-face {\nfont-family: 'Lemon Serif Bold 402';\nsrc: url('/assets/retailfonts/LemonSerif/LemonSerif-Bold.woff2?2006') format('woff2'),\nurl('/assets/retailfonts/LemonSerif/LemonSerif-Bold.woff?2005') format('woff"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://supertype.de/fonts/blinker",
+      "snippet": "re narrowly. Blink! The original 9 weights with a latin extended glyph set were designed by supertype’s Jürgen Huber in 2019. To contribute, see github.com/supertype-de/Blinker or check it out on Google Fonts, fonts.goog"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://supertype.de/fonts/blinker",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://supertype.de/fonts/blinker",
+    "last_modified": null
+  }
+}

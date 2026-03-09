@@ -1,0 +1,34 @@
+{
+  "record_id": "gothiks-round-condensed",
+  "source_url": "http://blackletra.com/typefaces/gothiks-round-condensed",
+  "checked_at": "2026-03-09T01:46:25.802441+00:00",
+  "candidates": [
+    {
+      "date": "2023-07-28",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://blackletra.com/typefaces/gothiks-round-condensed",
+      "snippet": "2023-07-28"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://blackletra.com/typefaces/gothiks-round-condensed",
+      "snippet": " Xhosa Yapese Yindjibarndi Zapotec Zarma Zazaki Zulu Zuni Design Daniel Sabino Production Daniel Sabino Lucas Gini Year 2018 Related Gothiks Round Gothiks Gothiks Condensed Gothiks Compressed Gothiks Round Compressed Got"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://blackletra.com/typefaces/gothiks-round-condensed",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://blackletra.com/typefaces/gothiks-round-condensed",
+    "last_modified": null
+  }
+}

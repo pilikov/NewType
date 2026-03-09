@@ -1,0 +1,69 @@
+{
+  "record_id": "a-ndebele",
+  "source_url": "https://nouvellenoire.ch/typefaces/a-ndebele",
+  "checked_at": "2026-03-09T01:53:14.379064+00:00",
+  "candidates": [
+    {
+      "date": "2017-09-23",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://nouvellenoire.ch/product/a-ndebele/",
+      "snippet": "2017-09-23T20:59:08+00:00"
+    },
+    {
+      "date": "2010-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://nouvellenoire.ch/product/a-ndebele/",
+      "snippet": "pecimen: Detailed character sets, language support, opentype features and additional informations can be found here. In 2010, the ‘Agence Française de Développement’ (AFD) commissioned Philippe Apeloig to design a new vi"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://nouvellenoire.ch/product/a-ndebele/",
+      "snippet": "tages. We keep you covered with news of projects and just-released products direct to your inbox. © Nouvelle Noire GmbH 2012–2026 We use cookies on our website to give you the most relevant experience by remembering your"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://nouvellenoire.ch/product/a-ndebele/",
+      "snippet": " Ndebele Quarter Add this weight to Cart Get Trial Font Designer: Philippe Apeloig Development: Nouvelle Noire Release: 2013 Version: 1.0 Awards: German Design Award Specimen: Detailed character sets, language support, o"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://nouvellenoire.ch/product/a-ndebele/",
+      "snippet": ". We keep you covered with news of projects and just-released products direct to your inbox. © Nouvelle Noire GmbH 2012–2026 We use cookies on our website to give you the most relevant experience by remembering your pref"
+    },
+    {
+      "date": "2024-02-15",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://nouvellenoire.ch/product/a-ndebele/",
+      "snippet": "2024-02-15T10:16:23+00:00"
+    },
+    {
+      "date": "2024-02-15",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://nouvellenoire.ch/product/a-ndebele/",
+      "snippet": "2024-02-15T10:16:23+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://nouvellenoire.ch/typefaces/a-ndebele",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://nouvellenoire.ch/product/a-ndebele/",
+    "last_modified": null
+  }
+}

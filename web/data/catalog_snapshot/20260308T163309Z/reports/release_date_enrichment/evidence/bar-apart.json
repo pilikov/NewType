@@ -1,0 +1,41 @@
+{
+  "record_id": "bar-apart",
+  "source_url": "https://parachutefonts.com/typeface/bar-apart",
+  "checked_at": "2026-03-09T02:02:12.065282+00:00",
+  "candidates": [
+    {
+      "date": "2002-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/bar-apart",
+      "snippet": "rforms influenced by Theo van Doesburg, unicase characters and support for Greek as well. PF Bar Apart was published in 2002 and appeared in our 2003 catalog . view details Test Drive Details ABOUT Bart van der Leck was "
+    },
+    {
+      "date": "2003-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/bar-apart",
+      "snippet": " van Doesburg, unicase characters and support for Greek as well. PF Bar Apart was published in 2002 and appeared in our 2003 catalog . view details Test Drive Details ABOUT Bart van der Leck was a Dutch painter and desig"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/bar-apart",
+      "snippet": "abled styles are only available when you purchase the entire family. ADD STYLE Close Newsletter / Follow us      © 2026 Parachute® Typefoundry. All Rights Reserved COOKIES NOTICE This Site uses cookies, including th"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://parachutefonts.com/typeface/bar-apart",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://parachutefonts.com/typeface/bar-apart",
+    "last_modified": null
+  }
+}

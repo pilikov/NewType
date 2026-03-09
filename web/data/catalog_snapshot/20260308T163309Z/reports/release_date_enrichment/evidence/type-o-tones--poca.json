@@ -1,0 +1,34 @@
+{
+  "record_id": "type-o-tones--poca",
+  "source_url": "https://type-o-tones.com/fonts/poca",
+  "checked_at": "2026-03-09T02:00:00.216262+00:00",
+  "candidates": [
+    {
+      "date": "1995-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/poca",
+      "snippet": "ack 3 Fonts 105 € 84 € Add to cart Regular, Ten, Fourteen Author Enric Jardí , José Manuel Urós , Pere Torrent Creation 1995 Actual version 3 (2010) Styles 3 Character sets Basic Latin Latin-1 Supplement Some dingbats Li"
+    },
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/poca",
+      "snippet": "Add to cart Regular, Ten, Fourteen Author Enric Jardí , José Manuel Urós , Pere Torrent Creation 1995 Actual version 3 (2010) Styles 3 Character sets Basic Latin Latin-1 Supplement Some dingbats License Types Desktop, We"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://type-o-tones.com/fonts/poca",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://type-o-tones.com/fonts/poca",
+    "last_modified": null
+  }
+}

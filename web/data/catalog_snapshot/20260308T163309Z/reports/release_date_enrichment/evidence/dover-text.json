@@ -1,0 +1,48 @@
+{
+  "record_id": "dover-text",
+  "source_url": "https://tinytype.co/type/dover-text",
+  "checked_at": "2026-03-09T01:42:20.621922+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://tinytype.co/type/dover-text",
+      "snippet": " OpenType Mark Positioning feature, available in modern software. General information Designer Robin Mientjes Published 2017, 2020 (v1.500) Language support Over 200 languages ( Read more → ) Background Read the design n"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://tinytype.co/type/dover-text",
+      "snippet": "ype Mark Positioning feature, available in modern software. General information Designer Robin Mientjes Published 2017, 2020 (v1.500) Language support Over 200 languages ( Read more → ) Background Read the design notes f"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://tinytype.co/type/dover-text",
+      "snippet": " type Services License Contact Information News FAQ Fontstand Instagram Colophon RSS: â Releases , ð News © 2016â2026, the Tiny Type Co. Typefaces for all sorts of cases."
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://tinytype.co/type/dover-text",
+      "snippet": "Thu, 12 Feb 2026 16:05:59 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://tinytype.co/type/dover-text",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://tinytype.co/type/dover-text",
+    "last_modified": "Thu, 12 Feb 2026 16:05:59 GMT"
+  }
+}

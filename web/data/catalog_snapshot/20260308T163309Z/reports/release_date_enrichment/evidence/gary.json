@@ -1,0 +1,27 @@
+{
+  "record_id": "gary",
+  "source_url": "https://www.suvatypefoundry.ee/gary/",
+  "checked_at": "2026-03-09T01:46:10.987966+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/gary/",
+      "snippet": "OUNDRY PREVIOUS FONT GARY NEXT FONT C J Q H U B S F A N O K Z P E D R G X I V Y DOWNLOAD M T L W GARY by Martin Kipper (2020) GARY is a font that was born through digitalising Binner typeface and making it clearer. Super"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/gary/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/gary/",
+    "last_modified": null
+  }
+}

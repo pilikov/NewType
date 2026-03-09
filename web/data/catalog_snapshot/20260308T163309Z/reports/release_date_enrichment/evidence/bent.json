@@ -1,0 +1,19 @@
+{
+  "record_id": "bent",
+  "source_url": "https://www.hubertjocham.de/shop/type/sans/Bent/",
+  "checked_at": "2026-03-09T02:01:46.225982+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-10",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.hubertjocham.de/shop/type/sans/Bent/",
+      "snippet": "2026-02-10"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='www.hubertjocham.de', port=443): Read timed out. (read timeout=12)"
+  }
+}

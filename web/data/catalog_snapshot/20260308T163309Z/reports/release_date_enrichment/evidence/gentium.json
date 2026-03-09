@@ -1,0 +1,97 @@
+{
+  "record_id": "gentium",
+  "source_url": "https://software.sil.org/gentium/",
+  "checked_at": "2026-03-09T01:37:30.875803+00:00",
+  "candidates": [
+    {
+      "date": "2014-10-02",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://software.sil.org/gentium/",
+      "snippet": "2014-10-02T09:52:47+00:00"
+    },
+    {
+      "date": "2014-10-02",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://software.sil.org/gentium/",
+      "snippet": "2014-10-02T09:52:47+00:00"
+    },
+    {
+      "date": "2021-06-29",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/gentium/",
+      "snippet": "Tuner Web 16 February 2022 Release 6.001 Quick Fix 2 July 2021 Release 6.000 – with a range of bold and italic weights! 29 June 2021 This font software is free to use, modify and redistribute according to the terms of th"
+    },
+    {
+      "date": "2021-07-02",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/gentium/",
+      "snippet": "um Plus Release 6.200 6 February 2023 Gentium Plus Release 6.101 TypeTuner Web 16 February 2022 Release 6.001 Quick Fix 2 July 2021 Release 6.000 – with a range of bold and italic weights! 29 June 2021 This font software"
+    },
+    {
+      "date": "2022-02-16",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/gentium/",
+      "snippet": "s Gentium Release 7.000 3 June 2025 Gentium Plus Release 6.200 6 February 2023 Gentium Plus Release 6.101 TypeTuner Web 16 February 2022 Release 6.001 Quick Fix 2 July 2021 Release 6.000 – with a range of bold and italic"
+    },
+    {
+      "date": "2023-02-06",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/gentium/",
+      "snippet": "e Latin, Cyrillic, and Greek Fonts - FAQ list. Recent news Gentium Release 7.000 3 June 2025 Gentium Plus Release 6.200 6 February 2023 Gentium Plus Release 6.101 TypeTuner Web 16 February 2022 Release 6.001 Quick Fix 2 "
+    },
+    {
+      "date": "2025-06-03",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/gentium/",
+      "snippet": "ete Gentium - FAQ list. See the complete Latin, Cyrillic, and Greek Fonts - FAQ list. Recent news Gentium Release 7.000 3 June 2025 Gentium Plus Release 6.200 6 February 2023 Gentium Plus Release 6.101 TypeTuner Web 16 F"
+    },
+    {
+      "date": "2025-06-02",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://software.sil.org/gentium/",
+      "snippet": "2025-06-02T13:44:18+00:00"
+    },
+    {
+      "date": "2025-06-02",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://software.sil.org/gentium/",
+      "snippet": "2025-06-02T13:44:18+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/gentium/",
+      "snippet": "Font License Writing Systems Technology Technical Resources Contact & Support Contact Support Community FAQ Copyright © 2026 SIL Global Terms of Use Privacy Policy"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://software.sil.org/gentium/",
+      "snippet": "Mon, 09 Mar 2026 00:07:15 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://software.sil.org/gentium/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://software.sil.org/gentium/",
+    "last_modified": "Mon, 09 Mar 2026 00:07:15 GMT"
+  }
+}

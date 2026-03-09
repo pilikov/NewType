@@ -1,0 +1,55 @@
+{
+  "record_id": "fdi-reklameschrift",
+  "source_url": "https://fdi-type.de/fonts/fdi-reklameschrift",
+  "checked_at": "2026-03-09T01:37:13.560776+00:00",
+  "candidates": [
+    {
+      "date": "2022-08-14",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://fdi-type.de/fonts/fdi-reklameschrift",
+      "snippet": "2022-08-14T05:59:27+00:00"
+    },
+    {
+      "date": "2022-08-14",
+      "score": 0.95,
+      "source_type": "jsonld:dateCreated",
+      "source_url": "https://fdi-type.de/fonts/fdi-reklameschrift",
+      "snippet": "2022-08-14T05:59:27+00:00"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fdi-type.de/fonts/fdi-reklameschrift",
+      "snippet": "ters Sign In Forgot your password? Sign Up FDI Reklameschrift Designed by: Otto Ludwig Naegele, Ralf Herrmann Released: 2022 Number of styles: 2 Script support: Latin Extended Most suitable for: Display Use (logos, headl"
+    },
+    {
+      "date": "2025-06-14",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://fdi-type.de/fonts/fdi-reklameschrift",
+      "snippet": "2025-06-14T15:11:22+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://fdi-type.de/fonts/fdi-reklameschrift",
+      "snippet": "Mon, 09 Mar 2026 01:37:14 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fdi-type.de/fonts/fdi-reklameschrift",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fdi-type.de/fonts/fdi-reklameschrift",
+    "last_modified": "Mon, 09 Mar 2026 01:37:14 GMT"
+  }
+}

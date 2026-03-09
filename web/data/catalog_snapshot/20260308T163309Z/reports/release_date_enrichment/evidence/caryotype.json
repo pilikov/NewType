@@ -1,0 +1,41 @@
+{
+  "record_id": "caryotype",
+  "source_url": "https://blazetype.eu/typefaces/caryotype",
+  "checked_at": "2026-03-09T01:57:49.781637+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://blazetype.eu/typefaces/caryotype",
+      "snippet": "eed something bold and charismatic, experimental and retro with a modern twist. Designed by Vicente Granger Released in 2024 Export .OTF .WOFF .WOFF2 Developed for Latin European Languages Afrikaans, Albanian, Asu, Basqu"
+    },
+    {
+      "date": "2024-11-14",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://blazetype.eu/typefaces/caryotype",
+      "snippet": "2024-11-14"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://blazetype.eu/typefaces/caryotype",
+      "snippet": " Bonto Mega Armag Arges Sichem Gueta Discotack Negatif Tangley Square Swirl Zoo Barabbas Dudler Taklobo Sapfir Darker © 2026 Blaze Type All rights reserved Cookie Consent We use cookies to provide you with the best possi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://blazetype.eu/typefaces/caryotype",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://blazetype.eu/typefaces/caryotype",
+    "last_modified": null
+  }
+}

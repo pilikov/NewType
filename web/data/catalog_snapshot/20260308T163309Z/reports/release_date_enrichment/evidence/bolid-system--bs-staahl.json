@@ -1,0 +1,55 @@
+{
+  "record_id": "bolid-system--bs-staahl",
+  "source_url": "https://bolidsystem.ch/font/bs-staahl",
+  "checked_at": "2026-03-09T02:01:05.156033+00:00",
+  "candidates": [
+    {
+      "date": "2025-04-29",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://bolidsystem.ch/font/bs-staahl",
+      "snippet": "2025-04-29T12:28:30+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://bolidsystem.ch/font/bs-staahl",
+      "snippet": " in use Used this font? We’d love to see it! ﻿ Show us your work so we can feature it. About this font Year of release: 2025 Version: 1.0 Font Styles: 9 + Variable Design: Enen Studio & Arthur Schwarz Team: Maël Bächtold"
+    },
+    {
+      "date": "2026-02-11",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://bolidsystem.ch/font/bs-staahl",
+      "snippet": "2026-02-11T16:58:41+00:00"
+    },
+    {
+      "date": "2026-02-11",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://bolidsystem.ch/font/bs-staahl",
+      "snippet": "2026-02-11T16:58:41+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://bolidsystem.ch/font/bs-staahl",
+      "snippet": "Display﻿ BS Notion﻿ BS Resort Classic﻿ BS Resort Sans﻿ BS Resort Serif BS Staahl﻿ BS Synthetik﻿ Free Trials Copyright © 2026 Arthur Schwarz & Maël Bächtold. All rights reserved."
+    },
+    {
+      "date": "2026-02-20",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://bolidsystem.ch/font/bs-staahl",
+      "snippet": "2026-02-20"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://bolidsystem.ch/font/bs-staahl",
+    "last_modified": null
+  }
+}

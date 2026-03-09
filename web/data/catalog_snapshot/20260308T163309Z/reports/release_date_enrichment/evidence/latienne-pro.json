@@ -1,0 +1,62 @@
+{
+  "record_id": "latienne-pro",
+  "source_url": "https://typeculture.com/typefaces/latienne-pro",
+  "checked_at": "2026-03-09T01:51:42.167083+00:00",
+  "candidates": [
+    {
+      "date": "2016-10-07",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typeculture.com/foundry/font-collection/latienne-pro/",
+      "snippet": "2016-10-07T15:27:24+00:00"
+    },
+    {
+      "date": "1991-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeculture.com/foundry/font-collection/latienne-pro/",
+      "snippet": "with a flat-headed brush, I was able to create an italic with a fun, festive character. Completed and first released in 1991, Latienne has become a popular typeface amongst sign-, book jacket- and packaging designers. No"
+    },
+    {
+      "date": "2004-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeculture.com/foundry/font-collection/latienne-pro/",
+      "snippet": "ign in 3 weights. Available on Typekit Tacitus™ Pro A contemporary interpretation of an imperial and historic script. © 2004–2026 TypeCulture LLC • 130 Park Ave. • Portland • Maine • 04101 • Privacy Policy • Contact Us T"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeculture.com/foundry/font-collection/latienne-pro/",
+      "snippet": "n 3 weights. Available on Typekit Tacitus™ Pro A contemporary interpretation of an imperial and historic script. © 2004–2026 TypeCulture LLC • 130 Park Ave. • Portland • Maine • 04101 • Privacy Policy • Contact Us Typeki"
+    },
+    {
+      "date": "2024-04-29",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typeculture.com/foundry/font-collection/latienne-pro/",
+      "snippet": "2024-04-29T19:08:57+00:00"
+    },
+    {
+      "date": "2024-04-29",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.typeculture.com/foundry/font-collection/latienne-pro/",
+      "snippet": "2024-04-29T19:08:57+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typeculture.com/typefaces/latienne-pro",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typeculture.com/foundry/font-collection/latienne-pro/",
+    "last_modified": null
+  }
+}

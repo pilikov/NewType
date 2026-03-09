@@ -1,0 +1,48 @@
+{
+  "record_id": "type-o-tones--lalola",
+  "source_url": "https://type-o-tones.com/fonts/lalola",
+  "checked_at": "2026-03-09T01:52:44.635149+00:00",
+  "candidates": [
+    {
+      "date": "1997-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/lalola",
+      "snippet": "ntral European Cyrillic License Types Desktop, Webfont, ePub, App, Server Description Lalola (first released as Lola in 1997) is a display typeface inspired by a lettering model found in the book Schriftschreiben Schrift"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/lalola",
+      "snippet": "sian, Bulgarian and Serbian alphabets). Welcome this brand new Lalola! Prizes & Mentions: TDC Certificate of Excellence 2013 “Best Fonts of 2013” at Typefacts Tags Display , Sans Serif , Cyrillic Lalola Author Laura Mese"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/lalola",
+      "snippet": "ies . For security and the best experience, please use the latest version of your browser. Configuration Accept all TDC 2014 / “Best Fonts of 2013” at Typefacts Font test Information Glyphs PDF Specimen Read the License "
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/lalola",
+      "snippet": "же набор моделей by Laura Meseguer Lalola: Special Buying options Author Laura Meseguer Creation 1997 Actual version 3 (2019) Styles 2 Character sets Basic Latin Latin-1 Supplement Latin-2 Central European Cyrillic Licen"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://type-o-tones.com/fonts/lalola",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://type-o-tones.com/fonts/lalola",
+    "last_modified": null
+  }
+}

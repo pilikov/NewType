@@ -1,0 +1,41 @@
+{
+  "record_id": "haas-recast",
+  "source_url": "https://www.daltonmaag.com/library/haas-recast",
+  "checked_at": "2026-03-09T01:46:28.656112+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/haas-recast.html",
+      "snippet": " vintage elegance with contemporary trends in fashion, architecture, and interior design. Scandinavian Literature Prize 2024/25 RÂ Â Â Â Â Â Â Â Â R September 21 NEW IN The Future\nof the World 14 June 2024 Â· London Norm"
+    },
+    {
+      "date": "2024-06-14",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/haas-recast.html",
+      "snippet": "interior design. Scandinavian Literature Prize 2024/25 RÂ Â Â Â Â Â Â Â Â R September 21 NEW IN The Future\nof the World 14 June 2024 Â· London Normal Hairline Italic Thin Italic Light Italic Regular Italic Medium Italic "
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/haas-recast.html",
+      "snippet": "ur update brings Weight, Width, Italic, and Tracking axes to its versatile variable font. Designed and developed\n2024â2025 Designers Eduardo RennÃ³ Writing Systems Latin Supporting over 790\nLanguages Aari (Latin Script"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.daltonmaag.com/library/haas-recast",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.daltonmaag.com/font-library/haas-recast.html",
+    "last_modified": null
+  }
+}

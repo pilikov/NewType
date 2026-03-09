@@ -1,0 +1,62 @@
+{
+  "record_id": "a-gothic",
+  "source_url": "https://radimpesko.com/fonts/a-gothic",
+  "checked_at": "2026-03-09T01:40:26.902983+00:00",
+  "candidates": [
+    {
+      "date": "2001-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://radimpesko.com/fonts/a-gothic",
+      "snippet": "hic is displayed on headlines from Best of The Atlantic . A Gothic Sample PDF 1.1 MB RP Digital Type Foundry Specimen © 2001–2026 RP Digital Type Foundry , Lÿno © 2009–2026 KN & RP. All rights reserved, including the rig"
+    },
+    {
+      "date": "2009-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://radimpesko.com/fonts/a-gothic",
+      "snippet": "The Atlantic . A Gothic Sample PDF 1.1 MB RP Digital Type Foundry Specimen © 2001–2026 RP Digital Type Foundry , Lÿno © 2009–2026 KN & RP. All rights reserved, including the right of reproduction in whole or in part in a"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://radimpesko.com/fonts/a-gothic",
+      "snippet": "form. All typefaces designed by RP between 2001 and 2026. Lÿno designed by Karl Nawrot and Radim Peško between 2009 and 2012. Please do not distribute fonts illegally. Terms of Service"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://radimpesko.com/fonts/a-gothic",
+      "snippet": "headings or inscriptions. Like dents du bonheur they give typeface distinctive detail and personality. Designed between 2014 and 2019 A Gothic supports Latin, Cyrillic, and Greek. Explore A Gothic construction, character"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://radimpesko.com/fonts/a-gothic",
+      "snippet": "or inscriptions. Like dents du bonheur they give typeface distinctive detail and personality. Designed between 2014 and 2019 A Gothic supports Latin, Cyrillic, and Greek. Explore A Gothic construction, character, and fea"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://radimpesko.com/fonts/a-gothic",
+      "snippet": "s displayed on headlines from Best of The Atlantic . A Gothic Sample PDF 1.1 MB RP Digital Type Foundry Specimen © 2001–2026 RP Digital Type Foundry , Lÿno © 2009–2026 KN & RP. All rights reserved, including the right of"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://radimpesko.com/fonts/a-gothic",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://radimpesko.com/fonts/a-gothic",
+    "last_modified": null
+  }
+}

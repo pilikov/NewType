@@ -1,0 +1,41 @@
+{
+  "record_id": "codec-pro-narrows",
+  "source_url": "https://www.zetafonts.com/codec-pro-narrows",
+  "checked_at": "2026-03-09T01:43:13.122839+00:00",
+  "candidates": [
+    {
+      "date": "2002-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.zetafonts.com/codec-pro-narrows",
+      "snippet": "Subscribe to our Type Club newsletter to get updates and exclusive discounts on new releases! Zetafonts™ © Ligature srl 2002-2026 Instagram Facebook Linkedin Behance X Display Sans Script Serif Text Custom Font Store Edu"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.zetafonts.com/codec-pro-narrows",
+      "snippet": "ribe to our Type Club newsletter to get updates and exclusive discounts on new releases! Zetafonts™ © Ligature srl 2002-2026 Instagram Facebook Linkedin Behance X Display Sans Script Serif Text Custom Font Store Educatio"
+    },
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.zetafonts.com/codec-pro-narrows",
+      "snippet": "rs Up to 25 users Up to 50 users Up to 100 users Up to 175 users Up to 250 users Up to 500 users Up to 1000 users Up to 2000 users unlimited users Design documents/images for print and digital more info Web up to 25k Pag"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.zetafonts.com/codec-pro-narrows",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.zetafonts.com/codec-pro-narrows",
+    "last_modified": null
+  }
+}

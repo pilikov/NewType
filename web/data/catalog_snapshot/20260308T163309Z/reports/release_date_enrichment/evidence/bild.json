@@ -1,0 +1,34 @@
+{
+  "record_id": "bild",
+  "source_url": "https://djr.com/bild",
+  "checked_at": "2026-03-09T01:43:00.621316+00:00",
+  "candidates": [
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typeset.djr.com/?ff=bild",
+      "snippet": "e \nclunkier and narrower than the rest of the family, \nechoing of Alternate Gothic and ATF Railroad Gothic. \nStarted in 2012 at the suggestion of Sam Berlow, \nBild is designed with a singular goal in mind: to set \na damn"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typeset.djr.com/?ff=bild",
+      "snippet": " Sam Berlow, \nBild is designed with a singular goal in mind: to set \na damn fine headline. Linh Nguyen added italics in 2025."
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://djr.com/bild",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typeset.djr.com/?ff=bild",
+    "last_modified": null
+  }
+}

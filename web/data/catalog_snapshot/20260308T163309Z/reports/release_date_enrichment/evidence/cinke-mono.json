@@ -1,0 +1,34 @@
+{
+  "record_id": "cinke-mono",
+  "source_url": "https://cinketype.com/typefaces/cinke-mono",
+  "checked_at": "2026-03-09T01:52:58.936428+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cinketype.com/typefaces/cinke-mono",
+      "snippet": "s of my website and other branding needs. designer Tibor Szikora Tibor Szikora styles 9 Styles glyphs 487 latest update 2025 June version 1.0 letâs create something beautiful together Learn About The Process Get In Tou"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.cinketype.com/typefaces/cinke-mono",
+      "snippet": "Mon, 24 Nov 2025 19:58:20 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://cinketype.com/typefaces/cinke-mono",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.cinketype.com/typefaces/cinke-mono",
+    "last_modified": "Mon, 24 Nov 2025 19:58:20 GMT"
+  }
+}

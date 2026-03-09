@@ -1,0 +1,76 @@
+{
+  "record_id": "kay-pho-du",
+  "source_url": "https://software.sil.org/kayphodu/",
+  "checked_at": "2026-03-09T01:47:28.656620+00:00",
+  "candidates": [
+    {
+      "date": "2014-10-02",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://software.sil.org/kayphodu/",
+      "snippet": "2014-10-02T09:52:47+00:00"
+    },
+    {
+      "date": "2014-10-02",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://software.sil.org/kayphodu/",
+      "snippet": "2014-10-02T09:52:47+00:00"
+    },
+    {
+      "date": "2022-04-21",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/kayphodu/",
+      "snippet": " added. See full FAQ list News & Releases Kay Pho Du Release 3.000 – More Weights 14 July 2023 Kay Pho Du Release 2.000 21 April 2022 This font software is free to use, modify and redistribute according to the terms of t"
+    },
+    {
+      "date": "2023-07-14",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/kayphodu/",
+      "snippet": "t the same. Many glyphs have also been added. See full FAQ list News & Releases Kay Pho Du Release 3.000 – More Weights 14 July 2023 Kay Pho Du Release 2.000 21 April 2022 This font software is free to use, modify and re"
+    },
+    {
+      "date": "2025-02-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://software.sil.org/kayphodu/",
+      "snippet": "2025-02-05T13:38:43+00:00"
+    },
+    {
+      "date": "2025-02-05",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://software.sil.org/kayphodu/",
+      "snippet": "2025-02-05T13:38:43+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/kayphodu/",
+      "snippet": "pen Font License Writing Systems Technology Technical Resources Contact & Support Contact Support Community Copyright © 2026 SIL Global Terms of Use Privacy Policy"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://software.sil.org/kayphodu/",
+      "snippet": "Mon, 09 Mar 2026 01:34:01 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://software.sil.org/kayphodu/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://software.sil.org/kayphodu/",
+    "last_modified": "Mon, 09 Mar 2026 01:34:01 GMT"
+  }
+}

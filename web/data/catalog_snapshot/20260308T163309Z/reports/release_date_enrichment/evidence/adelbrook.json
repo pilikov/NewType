@@ -1,0 +1,48 @@
+{
+  "record_id": "adelbrook",
+  "source_url": "https://www.vibrant-types.com/typefaces/adelbrook",
+  "checked_at": "2026-03-09T01:37:43.055784+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.vibrant-types.com/adelbrook/",
+      "snippet": "ärken 5 Schriftzeichen 543 Eigenschaften Ligaturen Versalformen Zusätzliche Ziffern Pfeile Designer Philip Lammert Jahr 2021 Design-Merkmale Strichstärken Konstruktions-Prinzipien Detaillierte Design-Prinzipien Kursive v"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.vibrant-types.com/adelbrook/",
+      "snippet": "tagram Behance Über uns Kontakt Lizenzvereinbarungen (EULAs) AGB Widerrufsbelehrung Datenschutzbestimmungen Impressum © 2023 Philip Lammert. All rights reserved."
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.vibrant-types.com/adelbrook/",
+      "snippet": "g oder Missbrauch schützt. Philip Lammert, Vibrant Types, Elisabeth-Flügge-Str. 6B, 22337 Hamburg, Deutschland November 2024 Adelbrook DIN Neue Roman Moucha Peter Slandic Custom Typeface Account Instagram Behance Über un"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.vibrant-types.com/adelbrook/",
+      "snippet": "Sun, 08 Mar 2026 16:43:24 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.vibrant-types.com/typefaces/adelbrook",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.vibrant-types.com/adelbrook/",
+    "last_modified": "Sun, 08 Mar 2026 16:43:24 GMT"
+  }
+}

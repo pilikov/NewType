@@ -1,0 +1,19 @@
+{
+  "record_id": "tape-back",
+  "source_url": "https://ladd-design.com/fonts/tape-back",
+  "checked_at": "2026-03-09T01:51:30.770179+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ladd-design.com/fonts/tape-back",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "404 Client Error: Not Found for url: https://ladd-design.com/fonts/tape-back"
+  }
+}

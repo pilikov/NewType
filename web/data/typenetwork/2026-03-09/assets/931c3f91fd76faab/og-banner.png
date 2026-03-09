@@ -1,0 +1,256 @@
+<!DOCTYPE html><html lang="en"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>American Type Founders Collection | Classic American Typefaces Reinterpreted | ATF Fonts and Webfonts</title><link rel="preconnect" href="https://typographer.io"><style>@font-face { font-family: 'ATF Garamond Text'; src: url('https://typographer.io/1/fonts/atf:garamond:text:regular@1.7.0/woff2?token=89eba96c37'); font-weight: 400;
+  font-style: normal;
+  font-display: swap; }
+@font-face { font-family: 'ATF Garamond Text'; src: url('https://typographer.io/1/fonts/atf:garamond:text:bold@1.7.0/woff2?token=6acd05730c'); font-weight: 700;
+  font-style: normal;
+  font-display: swap; }
+@font-face { font-family: 'ATF Garamond Text'; src: url('https://typographer.io/1/fonts/atf:garamond:text:regular-italic@1.7.0/woff2?token=482451997f'); font-weight: 400;
+  font-style: italic;
+  font-display: swap; }
+@font-face { font-family: 'ATF Garamond Text'; src: url('https://typographer.io/1/fonts/atf:garamond:text:bold-italic@1.7.0/woff2?token=14d9a02a44'); font-weight: 700;
+  font-style: italic;
+  font-display: swap; }
+@font-face { font-family: 'ATF Franklin Gothic'; src: url('https://typographer.io/1/fonts/atf:franklin-gothic::regular@1.1.0/woff2?token=1651270dd7'); font-weight: 400;
+  font-style: normal;
+  font-display: swap; }
+@font-face { font-family: 'ATF Alternate Gothic Demi'; src: url('https://typographer.io/1/fonts/atf:alternate-gothic::demi@1.6.0/woff2?token=cff325df4e'); font-weight: 400;
+  font-style: normal;
+  font-display: swap; }
+@font-face { font-family: 'ATF Wedding Gothic'; src: url('https://typographer.io/1/fonts/atf:wedding-gothic::bold@1.1.0/woff2?token=2269932bb3'); font-weight: 700;
+  font-style: normal;
+  font-display: swap; }
+@font-face { font-family: 'ATF Wedding Gothic'; src: url('https://typographer.io/1/fonts/atf:wedding-gothic::regular@1.1.0/woff2?token=b3f63dee09'); font-weight: 400;
+  font-style: normal;
+  font-display: swap; }</style><meta name="description" content><meta property="og:title" content="American Type Founders Collection | Classic American Typefaces Reinterpreted | ATF Fonts and Webfonts"><meta property="og:site_name" content="American Type Founders Collection"><meta property="og:url" content="https://atftype.com/"><meta property="og:description" content><meta property="og:type" content="website"><meta property="og:image" content="./og-banner.png"><link rel="icon" href="/favicon.ico"><link rel="canonical" href="https://atftype.com/"><meta name="robots" content="index, follow"><script src="https://script.tapfiliate.com/tapfiliate.js" async></script> <script>(function(){const id = "G-DQZFY1CELZ";
+const adId = "AW-16797908079";
+const adLabel = "1Xb_CPT3hvMZEO_47sk-";
+const tapId = "57621-46a060";
+const globalGa4Id = "G-QF829ERDKW";
+const debug = false;
+const isProduction = true;
+
+  // Google Analytics
+  window.dataLayer = window.dataLayer || [];
+  function gtag(..._args) {
+    if (isProduction) {
+      window.dataLayer.push(arguments);
+    } else {
+      console.log('[gtag]', ..._args);
+    }
+  }
+  window.gtag = gtag;
+
+  // First, set up Google Consent by disabling all tracking
+  gtag('consent', 'default', {
+    analytics_storage: 'denied',
+    ad_storage: 'denied',
+    ad_user_data: 'denied',
+    ad_personalization: 'denied',
+  });
+
+  function gtag_configure(config = {}) {
+    // Enable debug mode. This will log all events to the console. According to
+    // the documentation setting this property to false will not disable debug
+    // mode, so only include it if it's true.
+    if (debug) {
+      config.debug_mode = true;
+    }
+
+    // Disable the automatic page view event. We will handle this manually after
+    // consent is given.
+    config.send_page_view = false;
+
+    // Send config to both site-specific and global GA4 properties
+    gtag('config', id, config);
+    if (globalGa4Id) {
+      gtag('config', globalGa4Id, config);
+    }
+
+    gtag('config', adId, config);
+  }
+
+  function gtag_conversion(value, transaction_id) {
+    gtag('event', 'conversion', {
+      send_to: `${adId}/${adLabel}`,
+      currency: 'USD',
+      value,
+      transaction_id,
+    });
+  }
+
+  window.gtag_configure = gtag_configure;
+  window.gtag_conversion = gtag_conversion;
+
+  gtag('js', new Date());
+  gtag_configure();
+
+  // Tapfiliate
+  window.TapfiliateObject = 'tap';
+  window.tap =
+    window.tap ||
+    function () {
+      if (isProduction) {
+        window.tap.q = window.tap.q || [];
+        window.tap.q.push(arguments);
+      } else {
+        console.log('[tap]', ...arguments);
+      }
+    };
+
+  // Set up HubSpot consent listener
+  var _hsp = (window._hsp = window._hsp || []);
+
+  _hsp.push([
+    'addPrivacyConsentListener',
+    function (consent) {
+      var hasAnalyticsConsent =
+        consent &&
+        (consent.allowed ||
+          (consent.categories && consent.categories.analytics));
+      var hasAdsConsent =
+        consent &&
+        (consent.allowed ||
+          (consent.categories && consent.categories.advertisement));
+
+      if (hasAnalyticsConsent) {
+        // Initiallize Tapfiliate. We only want to do this if we have consent.
+        // This is because Tapfiliate will set a cookie on the first page load
+        // and we don't want to do that if the user doesn't consent.
+        // If the create method has not been called, Tapfiliate will
+        // not set a cookie even if the conversion method is called.
+        tap('create', tapId, { integration: 'stripe' });
+        tap('detect');
+      }
+
+      // Then update the Google Consent settings
+      gtag('consent', 'update', {
+        ad_storage: hasAdsConsent ? 'granted' : 'denied',
+        analytics_storage: hasAnalyticsConsent ? 'granted' : 'denied',
+        ad_user_data: hasAdsConsent ? 'granted' : 'denied',
+        ad_personalization: hasAdsConsent ? 'granted' : 'denied',
+      });
+
+      const urlParams = new URLSearchParams(window.location.search);
+      const hsCtaAttrib = urlParams.get('hsCtaAttrib');
+
+      let pageViewParams = {
+        page_location: window.location.href,
+        page_title: document.title,
+        page_referrer: document.referrer,
+      };
+
+      if (hsCtaAttrib) {
+        // add custom parameter
+        pageViewParams.hsCtaAttrib = hsCtaAttrib;
+      }
+
+      // send your custom page_view event
+      gtag('event', 'page_view', pageViewParams);
+    },
+  ]);
+})();</script> <script async src="https://www.googletagmanager.com/gtag/js?id=G-DQZFY1CELZ"></script> <script id="hs-script-loader" async defer src="https://js.hs-scripts.com/47029002.js"></script><style>:where([data-astro-image]){object-fit:var(--fit);object-position:var(--pos);height:auto}:where([data-astro-image=full-width]){width:100%}:where([data-astro-image=constrained]){max-width:100%}
+</style>
+<link rel="stylesheet" href="/_astro/cart.DFpDLh-U.css">
+<style>.carousel[data-astro-cid-kggsjsm4]{object-fit:contain;object-position:top;width:100%;height:auto;display:block}.embla[data-astro-cid-kggsjsm4]{--slide-size: 100%;position:relative;width:100%}.embla__viewport[data-astro-cid-kggsjsm4]{overflow:hidden}.embla__container[data-astro-cid-kggsjsm4]{backface-visibility:hidden;display:flex}.embla__slide[data-astro-cid-kggsjsm4]{flex:0 0 var(--slide-size);min-width:0;position:relative}.embla__dots[data-astro-cid-kggsjsm4]{position:absolute;bottom:15px;right:15px;left:auto;transform:none;display:flex;gap:8px;z-index:10}.embla__dot[data-astro-cid-kggsjsm4]{width:10px;height:10px;background:var(--darkest-blue);border-radius:50%;border:none;cursor:pointer;transition:background .3s ease;box-shadow:-2px 2px 0 var(--blue)}.embla__dot[data-astro-cid-kggsjsm4].is-active{background:#fff}.embla[data-astro-cid-7dmyo7bx]{overflow:visible;position:relative;max-width:100%;margin:0 auto}.embla__viewport[data-astro-cid-7dmyo7bx]{overflow:hidden;width:100%}.embla__container[data-astro-cid-7dmyo7bx]{display:flex;justify-content:flex-start;padding:0}.embla__slide[data-astro-cid-7dmyo7bx]{display:flex;align-items:self-start;flex:0 0 20%;min-width:0;flex-direction:column;padding:0;margin:0 4px 0 0}.square-image[data-astro-cid-7dmyo7bx]{width:100%;height:auto;object-fit:cover;transition:background-color .5s ease}.embla__slide[data-astro-cid-7dmyo7bx]:hover .square-image[data-astro-cid-7dmyo7bx]{background-color:#fff}.wrapper[data-astro-cid-7dmyo7bx]{padding-top:20px;padding-bottom:20px;position:relative}.embla__viewport[data-astro-cid-7dmyo7bx]{display:flex;justify-content:flex-start;overflow-x:hidden;max-width:100%}.embla__container[data-astro-cid-7dmyo7bx]{transition:transform .3s ease}.label[data-astro-cid-7dmyo7bx]{margin-top:8px;font-size:10px}.embla__prev[data-astro-cid-7dmyo7bx],.embla__next[data-astro-cid-7dmyo7bx]{position:absolute;top:50%;transform:translateY(-50%);background-color:transparent;border:none;cursor:pointer;z-index:10;padding:0;pointer-events:none}.embla__prev[data-astro-cid-7dmyo7bx]{left:-35px}.embla__next[data-astro-cid-7dmyo7bx]{right:-35px}.embla__prev[data-astro-cid-7dmyo7bx],.embla__next[data-astro-cid-7dmyo7bx]{display:none}.container[data-astro-cid-7dmyo7bx]:hover .embla__prev[data-astro-cid-7dmyo7bx],.container[data-astro-cid-7dmyo7bx]:hover .embla__next[data-astro-cid-7dmyo7bx]{display:block;pointer-events:auto}@media(max-width:768px){.embla__prev[data-astro-cid-7dmyo7bx],.embla__next[data-astro-cid-7dmyo7bx]{display:none}.embla__container[data-astro-cid-7dmyo7bx]{gap:8px}}.rotate-180[data-astro-cid-7dmyo7bx]{transform:rotate(180deg)}.arrow-icon[data-astro-cid-7dmyo7bx]{:global(.st0){transition:fill .2s ease}}button[data-astro-cid-7dmyo7bx]:hover .arrow-icon[data-astro-cid-7dmyo7bx] .st0{fill:#fff}.container[data-astro-cid-j7pv25f6]{background:var(--blue);padding-bottom:80px}.mw-540[data-astro-cid-j7pv25f6]{max-width:540px}
+</style></head> <body> <typographer-banner mode="dark"></typographer-banner> <script type="module">const c="typographer_banner_closed_v1";function g(s){const e=`${s}=`,t=decodeURIComponent(document.cookie||"").split("; ");for(const i of t)if(i.startsWith(e))return i.substring(e.length);return null}function b(s,e,n){const t=Date.now(),i=new Date(t+n*24*60*60*1e3),r=location.protocol==="https:"?"; Secure":"";document.cookie=`${encodeURIComponent(s)}=${encodeURIComponent(e)}; Expires=${i.toUTCString()}; Max-Age=${n*24*60*60}; Path=/; SameSite=Lax`+r}const d=()=>`
+    :host { display: block; }
+    .banner {
+      box-sizing: border-box;
+      width: 100%;
+      background: var(--bg);
+      color: var(--fg);
+      border-bottom: 1px solid var(--border);
+      font: 14px/1.25 'SynergyVF', sans-serif;
+      position: relative;
+      z-index: 10000;
+    }
+    .content {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 8px 10px;
+      display: grid;
+      grid-template-columns: 1fr auto 1fr;
+      align-items: center;
+      gap: 8px;
+      box-sizing: border-box;
+    }
+    .center { grid-column: 2; text-align: center; }
+    .right  { grid-column: 3; justify-self: end; }
+    a { color: var(--link); text-decoration: underline; font-weight: 600;}
+    button.close {
+      font-size: 16px;
+      line-height: 1;
+      appearance: none;
+      border: 0;
+      background: transparent;
+      color: inherit;
+      cursor: pointer;
+      padding: 8px;
+      margin-top: 2px;
+      border-radius: 8px;
+      line-height: 0;
+    }
+    button.close:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
+
+    :host([mode="light"]) { --bg:#ffffff; --fg:#000000; --link:#000000; --border: rgba(0,0,0,0.15); }
+    :host([mode="dark"])  { --bg:#000000; --fg:#ffffff; --link:#ffffff; --border: rgba(255,255,255,0.15); }
+    :host(:not([mode]))   { --bg:#000000; --fg:#ffffff; --link:#ffffff; --border: rgba(255,255,255,0.15); }
+
+    @media (max-width: 480px) { .content { padding: 10px 12px; } }
+  `;new FontFace("SynergyVF",'url(https://typographer.io/1/fonts/mss:synergy:variable:@1.2.0/woff2?token=05415792eb) format("woff2")',{weight:"50 950",style:"normal",display:"swap"}).load().then(s=>document.fonts.add(s));new FontFace("SynergyVF",'url(https://typographer.io/1/fonts/mss:synergy:variable:italic@1.2.0/woff2?token=b93cea1dc0) format("woff2")',{weight:"50 950",style:"italic",display:"swap"}).load().then(s=>document.fonts.add(s));let l=null;(function(){try{l=new CSSStyleSheet,l.replaceSync(d())}catch{l=null}})();function y(s){if("adoptedStyleSheets"in s&&l)s.adoptedStyleSheets=[l];else{const e=document.createElement("style");e.textContent=d(),s.prepend(e)}}class v extends HTMLElement{static get observedAttributes(){return["mode"]}constructor(){super(),this.shiftedElements=new Map,this.resizeObserver=null,this.mutationObserver=null,this.requestAnimationFrameId=null,this.lastTotalHeight=-1,this.lastVisibleHeight=-1,this.isApplyingOffsets=!1;const e=this.attachShadow({mode:"open"});e.innerHTML=`
+      <div class="banner" role="region" aria-label="Site announcement">
+        <div class="content">
+          <span class="center">
+            Introducing <em>Typographer</em>. Find, sync, and try fonts with ease.
+            <a
+              href="https://typographer.com/">Try for free.</a
+            >
+          </span>
+          <div class="right">
+            <button class="close" aria-label="Dismiss" title="Close" part="close">✕</button>
+          </div>
+        </div>
+      </div>
+    `,y(e);const n=e.querySelector(".banner"),t=e.querySelector(".close");if(!n||!t)throw new Error("TypographerBanner: failed to initialize required elements.");this.elements={banner:n,close:t},this.onScrollHandler=()=>{this.requestAnimationFrameId!==null&&cancelAnimationFrame(this.requestAnimationFrameId),this.requestAnimationFrameId=requestAnimationFrame(()=>{this.applyOffsets(!0)})}}connectedCallback(){if(g(c)!==null){this.remove();return}this.hasAttribute("mode")||this.setAttribute("mode","dark"),this.elements.close.addEventListener("click",()=>{this.setDismissedCookie(),this.close()}),this.resizeObserver=new ResizeObserver(()=>{this.applyOffsets(!0)}),this.resizeObserver.observe(this.elements.banner),this.mutationObserver=new MutationObserver(()=>{this.applyOffsets(!0)}),this.mutationObserver.observe(document.documentElement,{childList:!0,subtree:!0}),window.addEventListener("scroll",this.onScrollHandler,{passive:!0}),window.addEventListener("resize",this.onScrollHandler,{passive:!0}),window.addEventListener("orientationchange",this.onScrollHandler,{passive:!0}),queueMicrotask(()=>{this.applyOffsets(!0)})}disconnectedCallback(){this.cleanup()}attributeChangedCallback(e){}setDismissedCookie(){b(c,"1",21)}getVisibleBannerHeight(){const e=this.elements.banner.getBoundingClientRect();return Math.max(0,Math.min(e.height,e.bottom))}applyOffsets(e=!1){if(this.isApplyingOffsets===!0)return;this.isApplyingOffsets=!0;const n=Math.ceil(this.elements.banner.getBoundingClientRect().height),t=Math.ceil(this.getVisibleBannerHeight());if(!e&&n===this.lastTotalHeight&&t===this.lastVisibleHeight){this.isApplyingOffsets=!1;return}this.lastTotalHeight=n,this.lastVisibleHeight=t,document.documentElement.style.setProperty("--dropin-banner-height",`${n}px`),this.mutationObserver&&this.mutationObserver.disconnect(),this.unshiftAll(),this.shiftTopAnchored(t),this.mutationObserver&&this.mutationObserver.observe(document.documentElement,{childList:!0,subtree:!0}),this.isApplyingOffsets=!1}isTopCandidate(e,n){const t=n.position;if(!["fixed","sticky","absolute"].includes(t))return!1;const i=e.getBoundingClientRect(),r=n.top,o=r==="auto"?0:parseFloat(r)||0,a=i.top<=1,h=(t==="fixed"||t==="sticky")&&(o<=200||i.top<=200),u=t==="absolute"&&(a||o<=.5),f=h||u,p=i.width>=Math.min(window.innerWidth*.5,480),m=/^(HEADER|NAV)$/i.test(e.tagName)||e.getAttribute("role")==="navigation";return!!(f&&(p||m))}getCandidateElements(){const e=["header","nav",'[role="navigation"]',".site-header",".navbar",".nav",".header",".sticky",".fixed",".subnav",".sub-nav",".secondary-nav",".secondaryNavbar",".breadcrumbs","[data-sticky]","[data-topbar]","[data-subnav]"].join(","),n=Array.from(document.querySelectorAll(e));return n.length>0?n:Array.from(document.querySelectorAll("body *"))}shiftTopAnchored(e){const n=this.getCandidateElements();for(const t of n){if(!t||t===this||t.contains?.(this))continue;const i=getComputedStyle(t);if(!this.isTopCandidate(t,i))continue;const r=i.position;if(r==="fixed"||r==="sticky"){const o=i.top==="auto"?0:parseFloat(i.top)||0,a={kind:"top",topString:i.top,originalTopPx:o};t.style.setProperty("top",`${o+e}px`,"important"),this.shiftedElements.set(t,a)}else{const o=i.transform&&i.transform!=="none"?i.transform:"",a={kind:"transform",transformString:o};t.style.transform=`${o?o+" ":""}translateY(${e}px)`,t.style.willChange="transform",this.shiftedElements.set(t,a)}}}unshiftAll(){for(const[e,n]of this.shiftedElements)!e||!e.style||(n.kind==="top"?n.topString&&n.topString!=="auto"?e.style.setProperty("top",n.topString,"important"):e.style.removeProperty("top"):(e.style.transform=n.transformString||"",e.style.willChange=""));this.shiftedElements.clear()}close(){this.cleanup(),this.remove(),document.documentElement.style.removeProperty("--dropin-banner-height")}cleanup(){this.resizeObserver&&(this.resizeObserver.disconnect(),this.resizeObserver=null),this.mutationObserver&&(this.mutationObserver.disconnect(),this.mutationObserver=null),window.removeEventListener("scroll",this.onScrollHandler),window.removeEventListener("resize",this.onScrollHandler),window.removeEventListener("orientationchange",this.onScrollHandler),this.requestAnimationFrameId!==null&&(cancelAnimationFrame(this.requestAnimationFrameId),this.requestAnimationFrameId=null),this.unshiftAll()}}customElements.get("typographer-banner")||customElements.define("typographer-banner",v);</script>   <div class="container-large" data-astro-cid-3ef6ksr2> <header class="bg-blue px-7" data-astro-cid-3ef6ksr2> <a href="/" data-astro-cid-3ef6ksr2> <img class="logo" src="/img/logo-header.svg" alt="American Type Founders Collection" data-astro-cid-3ef6ksr2> </a> <div class="cart-wrapper" data-astro-cid-3ef6ksr2> <nav data-astro-cid-3ef6ksr2> <div class="dropdown" data-astro-cid-3ef6ksr2> <button class="pulldown" data-astro-cid-3ef6ksr2>Menu</button> <ul class="dropdown-menu" data-astro-cid-3ef6ksr2> <li class="bt" data-astro-cid-3ef6ksr2><a href="/" data-astro-cid-3ef6ksr2>Home</a></li> <li class="sep" data-astro-cid-3ef6ksr2></li> <li data-astro-cid-3ef6ksr2> <a href="/fonts/alternate-gothic/" data-astro-cid-3ef6ksr2>ATF Alternate Gothic</a> </li><li data-astro-cid-3ef6ksr2> <a href="/fonts/brush/" data-astro-cid-3ef6ksr2>ATF Brush</a> </li><li data-astro-cid-3ef6ksr2> <a href="/fonts/egyptian-antique/" data-astro-cid-3ef6ksr2>ATF Egyptian Antique</a> </li><li data-astro-cid-3ef6ksr2> <a href="/fonts/franklin-gothic/" data-astro-cid-3ef6ksr2>ATF Franklin Gothic</a> </li><li data-astro-cid-3ef6ksr2> <a href="/fonts/garamond/" data-astro-cid-3ef6ksr2>ATF Garamond</a> </li><li data-astro-cid-3ef6ksr2> <a href="/fonts/headline-gothic/" data-astro-cid-3ef6ksr2>ATF Headline Gothic</a> </li><li data-astro-cid-3ef6ksr2> <a href="/fonts/livermore-script/" data-astro-cid-3ef6ksr2>ATF Livermore Script</a> </li><li data-astro-cid-3ef6ksr2> <a href="/fonts/poster-gothic/" data-astro-cid-3ef6ksr2>ATF Poster Gothic</a> </li><li data-astro-cid-3ef6ksr2> <a href="/fonts/railroad-gothic/" data-astro-cid-3ef6ksr2>ATF Railroad Gothic</a> </li><li data-astro-cid-3ef6ksr2> <a href="/fonts/super-condensed/" data-astro-cid-3ef6ksr2>ATF Super Condensed</a> </li><li data-astro-cid-3ef6ksr2> <a href="/fonts/wedding-gothic/" data-astro-cid-3ef6ksr2>ATF Wedding Gothic</a> </li> <li class="sep" data-astro-cid-3ef6ksr2></li> <li data-astro-cid-3ef6ksr2><a href="/licensing/" data-astro-cid-3ef6ksr2>Licensing</a></li> <li data-astro-cid-3ef6ksr2><a href="/info#charset" data-astro-cid-3ef6ksr2>Character sets</a></li> <li data-astro-cid-3ef6ksr2><a href="/info#trademarks" data-astro-cid-3ef6ksr2>Trademarks</a></li> <li data-astro-cid-3ef6ksr2><a href="/services/" data-astro-cid-3ef6ksr2>Services</a></li> <li data-astro-cid-3ef6ksr2><a href="/contact/" data-astro-cid-3ef6ksr2>Contact</a></li> </ul> </div> </nav> <div style="position: relative;" class="cart-container" data-astro-cid-3ef6ksr2> <svg fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6" width="20" height="20" data-astro-cid-3ef6ksr2="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 10.5V6a3.75 3.75 0 1 0-7.5 0v4.5m11.356-1.993 1.263 12c.07.665-.45 1.243-1.119 1.243H4.25a1.125 1.125 0 0 1-1.12-1.243l1.264-12A1.125 1.125 0 0 1 5.513 7.5h12.974c.576 0 1.059.435 1.119 1.007ZM8.625 10.5a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm7.5 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z" />
+</svg> <a class="nav-link" href="/cart/" data-astro-cid-3ef6ksr2>Cart</a> <span style="--cc-before-content: ''; --cc-after-content: '';" class="cart-badge" data-astro-cid-3ef6ksr2> <script type="module" src="/_astro/CartCount.astro_astro_type_script_index_0_lang.Bs7tj_cb.js"></script> <span data-count="0" class="cart-count" data-astro-cid-jfqvmy2l></span>  </span> </div> </div> </header> </div>  <main data-astro-cid-j7pv25f6> <script type="module" src="/_astro/Banner.astro_astro_type_script_index_0_lang.QG03xbfT.js"></script> <div class="container-large" data-astro-cid-kggsjsm4> <div class="bg-blue px-7" data-astro-cid-kggsjsm4> <div class="embla" data-astro-cid-kggsjsm4> <div class="embla__viewport" data-astro-cid-kggsjsm4> <div class="embla__container" data-astro-cid-kggsjsm4> <div class="embla__slide" data-astro-cid-kggsjsm4> <a href="/fonts/super-condensed/" data-astro-cid-kggsjsm4> <img src="/_astro/Home-0.B39g_yna_Z1rlkAE.webp" srcset="/_astro/Home-0.B39g_yna_ZmdCLr.webp 640w, /_astro/Home-0.B39g_yna_Zp5N4.webp 750w, /_astro/Home-0.B39g_yna_lNRea.webp 828w, /_astro/Home-0.B39g_yna_Z22uXhm.webp 1080w, /_astro/Home-0.B39g_yna_Z1SYxu9.webp 1280w, /_astro/Home-0.B39g_yna_25m6z1.webp 1668w, /_astro/Home-0.B39g_yna_Z1rlkAE.webp 1764w" loading="eager" alt="ATF Super Condensed" data-astro-cid-kggsjsm4="true" decoding="async" fetchpriority="auto" sizes="(min-width: 1764px) 1764px, 100vw" style="--fit: cover; --pos: center;" data-astro-image="constrained" width="1764" height="881" class="carousel"> </a> </div><div class="embla__slide" data-astro-cid-kggsjsm4> <a href="fonts/alternate-gothic/" data-astro-cid-kggsjsm4> <img src="/_astro/Home-1.RJ3Uq2BA_8vzOq.webp" srcset="/_astro/Home-1.RJ3Uq2BA_Z2haIiH.webp 640w, /_astro/Home-1.RJ3Uq2BA_Z1Umbkk.webp 750w, /_astro/Home-1.RJ3Uq2BA_Z1y8di6.webp 828w, /_astro/Home-1.RJ3Uq2BA_ZrD2Qh.webp 1080w, /_astro/Home-1.RJ3Uq2BA_Zj7C44.webp 1280w, /_astro/Home-1.RJ3Uq2BA_Z1oX6NP.webp 1668w, /_astro/Home-1.RJ3Uq2BA_8vzOq.webp 1764w" loading="lazy" alt="ATF Alternate Gothic" data-astro-cid-kggsjsm4="true" decoding="async" fetchpriority="auto" sizes="(min-width: 1764px) 1764px, 100vw" style="--fit: cover; --pos: center;" data-astro-image="constrained" width="1764" height="881" class="carousel"> </a> </div><div class="embla__slide" data-astro-cid-kggsjsm4> <a href="/fonts/franklin-gothic/" data-astro-cid-kggsjsm4> <img src="/_astro/Home-2.Bzbo7O8x_Z1Aq06v.webp" srcset="/_astro/Home-2.Bzbo7O8x_16x1OF.webp 640w, /_astro/Home-2.Bzbo7O8x_1slyN3.webp 750w, /_astro/Home-2.Bzbo7O8x_1OzwPh.webp 828w, /_astro/Home-2.Bzbo7O8x_Z2bzCMd.webp 1080w, /_astro/Home-2.Bzbo7O8x_Z234d00.webp 1280w, /_astro/Home-2.Bzbo7O8x_1Vhr4a.webp 1668w, /_astro/Home-2.Bzbo7O8x_Z1Aq06v.webp 1764w" loading="lazy" alt="ATF Franklin Gothic" data-astro-cid-kggsjsm4="true" decoding="async" fetchpriority="auto" sizes="(min-width: 1764px) 1764px, 100vw" style="--fit: cover; --pos: center;" data-astro-image="constrained" width="1764" height="881" class="carousel"> </a> </div><div class="embla__slide" data-astro-cid-kggsjsm4> <a href="/fonts/poster-gothic/" data-astro-cid-kggsjsm4> <img src="/_astro/Home-3.BtC6JP1z_2wbozF.webp" srcset="/_astro/Home-3.BtC6JP1z_ZSpW8g.webp 640w, /_astro/Home-3.BtC6JP1z_ZwBp9S.webp 750w, /_astro/Home-3.BtC6JP1z_Zanr7E.webp 828w, /_astro/Home-3.BtC6JP1z_1V1KSX.webp 1080w, /_astro/Home-3.BtC6JP1z_24xbGb.webp 1280w, /_astro/Home-3.BtC6JP1z_XGGVp.webp 1668w, /_astro/Home-3.BtC6JP1z_2wbozF.webp 1764w" loading="lazy" alt="ATF Poster Gothic" data-astro-cid-kggsjsm4="true" decoding="async" fetchpriority="auto" sizes="(min-width: 1764px) 1764px, 100vw" style="--fit: cover; --pos: center;" data-astro-image="constrained" width="1764" height="881" class="carousel"> </a> </div><div class="embla__slide" data-astro-cid-kggsjsm4> <a href="fonts/headline-gothic/" data-astro-cid-kggsjsm4> <img src="/_astro/Home-4.D4bSJrXc_1EEbDv.webp" srcset="/_astro/Home-4.D4bSJrXc_Zg5JB7.webp 640w, /_astro/Home-4.D4bSJrXc_5HMmg.webp 750w, /_astro/Home-4.D4bSJrXc_rVKou.webp 828w, /_astro/Home-4.D4bSJrXc_14uxWN.webp 1080w, /_astro/Home-4.D4bSJrXc_1d0XK1.webp 1280w, /_astro/Home-4.D4bSJrXc_7au0f.webp 1668w, /_astro/Home-4.D4bSJrXc_1EEbDv.webp 1764w" loading="lazy" alt="ATF Headline Gothic" data-astro-cid-kggsjsm4="true" decoding="async" fetchpriority="auto" sizes="(min-width: 1764px) 1764px, 100vw" style="--fit: cover; --pos: center;" data-astro-image="constrained" width="1764" height="881" class="carousel"> </a> </div><div class="embla__slide" data-astro-cid-kggsjsm4> <a href="/fonts/brush/" data-astro-cid-kggsjsm4> <img src="/_astro/Home-6.CYxfmFI-_1M7JuA.webp" srcset="/_astro/Home-6.CYxfmFI-_Z5PEi5.webp 640w, /_astro/Home-6.CYxfmFI-_fWRFi.webp 750w, /_astro/Home-6.CYxfmFI-_CbPHw.webp 828w, /_astro/Home-6.CYxfmFI-_1bX6NS.webp 1080w, /_astro/Home-6.CYxfmFI-_1ktwB6.webp 1280w, /_astro/Home-6.CYxfmFI-_eD2Qk.webp 1668w, /_astro/Home-6.CYxfmFI-_1M7JuA.webp 1764w" loading="lazy" alt="ATF Brush" data-astro-cid-kggsjsm4="true" decoding="async" fetchpriority="auto" sizes="(min-width: 1764px) 1764px, 100vw" style="--fit: cover; --pos: center;" data-astro-image="constrained" width="1764" height="881" class="carousel"> </a> </div> </div> </div> <div class="embla__dots" data-astro-cid-kggsjsm4> <button class="embla__dot" data-index="0" data-astro-cid-kggsjsm4></button><button class="embla__dot" data-index="1" data-astro-cid-kggsjsm4></button><button class="embla__dot" data-index="2" data-astro-cid-kggsjsm4></button><button class="embla__dot" data-index="3" data-astro-cid-kggsjsm4></button><button class="embla__dot" data-index="4" data-astro-cid-kggsjsm4></button><button class="embla__dot" data-index="5" data-astro-cid-kggsjsm4></button> </div> </div> </div> </div>  <script type="module" src="/_astro/Squares.astro_astro_type_script_index_0_lang.CKpLhiEe.js"></script> <div class="container-large" data-astro-cid-7dmyo7bx> <div class="container bg-blue px-7" data-astro-cid-7dmyo7bx> <div class="wrapper" data-astro-cid-7dmyo7bx> <div class="embla square-carousel" data-astro-cid-7dmyo7bx> <div class="embla__viewport" data-astro-cid-7dmyo7bx> <div class="embla__container" data-astro-cid-7dmyo7bx> <div class="embla__slide square-slide" data-astro-cid-7dmyo7bx> <a href="/fonts/super-condensed/" data-astro-cid-7dmyo7bx> <img src="/_astro/sq-super-condensed.ef-AqjJY_oRfm5.svg" srcset="/_astro/sq-super-condensed.ef-AqjJY_oRfm5.svg 150w" loading="eager" alt="ATF Super Condensed" data-astro-cid-7dmyo7bx="true" decoding="async" fetchpriority="auto" sizes="(min-width: 150px) 150px, 100vw" style="--fit: cover; --pos: center;" data-astro-image="constrained" width="150" height="150" class="square-image"> <div class="label" data-astro-cid-7dmyo7bx>ATF Super Condensed</div> </a> </div><div class="embla__slide square-slide" data-astro-cid-7dmyo7bx> <a href="/fonts/alternate-gothic/" data-astro-cid-7dmyo7bx> <img src="/_astro/sq-alternate-gothic.BzvHCyoG_oRfm5.svg" srcset="/_astro/sq-alternate-gothic.BzvHCyoG_oRfm5.svg 150w" loading="lazy" alt="ATF Alternate Gothic" data-astro-cid-7dmyo7bx="true" decoding="async" fetchpriority="auto" sizes="(min-width: 150px) 150px, 100vw" style="--fit: cover; --pos: center;" data-astro-image="constrained" width="150" height="150" class="square-image"> <div class="label" data-astro-cid-7dmyo7bx>ATF Alternate Gothic</div> </a> </div><div class="embla__slide square-slide" data-astro-cid-7dmyo7bx> <a href="/fonts/brush/" data-astro-cid-7dmyo7bx> <img src="/_astro/sq-brush.22C2jz3y_oRfm5.svg" srcset="/_astro/sq-brush.22C2jz3y_oRfm5.svg 150w" loading="lazy" alt="ATF Brush" data-astro-cid-7dmyo7bx="true" decoding="async" fetchpriority="auto" sizes="(min-width: 150px) 150px, 100vw" style="--fit: cover; --pos: center;" data-astro-image="constrained" width="150" height="150" class="square-image"> <div class="label" data-astro-cid-7dmyo7bx>ATF Brush</div> </a> </div><div class="embla__slide square-slide" data-astro-cid-7dmyo7bx> <a href="/fonts/egyptian-antique/" data-astro-cid-7dmyo7bx> <img src="/_astro/sq-egyptian-antique.CW54B5VN_oRfm5.svg" srcset="/_astro/sq-egyptian-antique.CW54B5VN_oRfm5.svg 150w" loading="lazy" alt="ATF Egyptian Antique" data-astro-cid-7dmyo7bx="true" decoding="async" fetchpriority="auto" sizes="(min-width: 150px) 150px, 100vw" style="--fit: cover; --pos: center;" data-astro-image="constrained" width="150" height="150" class="square-image"> <div class="label" data-astro-cid-7dmyo7bx>ATF Egyptian Antique</div> </a> </div><div class="embla__slide square-slide" data-astro-cid-7dmyo7bx> <a href="/fonts/franklin-gothic/" data-astro-cid-7dmyo7bx> <img src="/_astro/sq-franklin-gothic.CE1XCaBD_oRfm5.svg" srcset="/_astro/sq-franklin-gothic.CE1XCaBD_oRfm5.svg 150w" loading="lazy" alt="ATF Franklin Gothic" data-astro-cid-7dmyo7bx="true" decoding="async" fetchpriority="auto" sizes="(min-width: 150px) 150px, 100vw" style="--fit: cover; --pos: center;" data-astro-image="constrained" width="150" height="150" class="square-image"> <div class="label" data-astro-cid-7dmyo7bx>ATF Franklin Gothic</div> </a> </div><div class="embla__slide square-slide" data-astro-cid-7dmyo7bx> <a href="/fonts/garamond/" data-astro-cid-7dmyo7bx> <img src="/_astro/sq-garamond.CXZHRHFG_oRfm5.svg" srcset="/_astro/sq-garamond.CXZHRHFG_oRfm5.svg 150w" loading="lazy" alt="ATF Garamond" data-astro-cid-7dmyo7bx="true" decoding="async" fetchpriority="auto" sizes="(min-width: 150px) 150px, 100vw" style="--fit: cover; --pos: center;" data-astro-image="constrained" width="150" height="150" class="square-image"> <div class="label" data-astro-cid-7dmyo7bx>ATF Garamond</div> </a> </div><div class="embla__slide square-slide" data-astro-cid-7dmyo7bx> <a href="/fonts/headline-gothic/" data-astro-cid-7dmyo7bx> <img src="/_astro/sq-headline-gothic.CVU17qkg_oRfm5.svg" srcset="/_astro/sq-headline-gothic.CVU17qkg_oRfm5.svg 150w" loading="lazy" alt="ATF Headline Gothic" data-astro-cid-7dmyo7bx="true" decoding="async" fetchpriority="auto" sizes="(min-width: 150px) 150px, 100vw" style="--fit: cover; --pos: center;" data-astro-image="constrained" width="150" height="150" class="square-image"> <div class="label" data-astro-cid-7dmyo7bx>ATF Headline Gothic</div> </a> </div><div class="embla__slide square-slide" data-astro-cid-7dmyo7bx> <a href="/fonts/livermore-script/" data-astro-cid-7dmyo7bx> <img src="/_astro/sq-livermore-script.D5-fruI8_oRfm5.svg" srcset="/_astro/sq-livermore-script.D5-fruI8_oRfm5.svg 150w" loading="lazy" alt="ATF Livermore Script" data-astro-cid-7dmyo7bx="true" decoding="async" fetchpriority="auto" sizes="(min-width: 150px) 150px, 100vw" style="--fit: cover; --pos: center;" data-astro-image="constrained" width="150" height="150" class="square-image"> <div class="label" data-astro-cid-7dmyo7bx>ATF Livermore Script</div> </a> </div><div class="embla__slide square-slide" data-astro-cid-7dmyo7bx> <a href="/fonts/poster-gothic/" data-astro-cid-7dmyo7bx> <img src="/_astro/sq-poster-gothic.3SO9gkOB_oRfm5.svg" srcset="/_astro/sq-poster-gothic.3SO9gkOB_oRfm5.svg 150w" loading="lazy" alt="ATF Poster Gothic" data-astro-cid-7dmyo7bx="true" decoding="async" fetchpriority="auto" sizes="(min-width: 150px) 150px, 100vw" style="--fit: cover; --pos: center;" data-astro-image="constrained" width="150" height="150" class="square-image"> <div class="label" data-astro-cid-7dmyo7bx>ATF Poster Gothic</div> </a> </div><div class="embla__slide square-slide" data-astro-cid-7dmyo7bx> <a href="/fonts/railroad-gothic/" data-astro-cid-7dmyo7bx> <img src="/_astro/sq-railroad-gothic.duXdfh4D_oRfm5.svg" srcset="/_astro/sq-railroad-gothic.duXdfh4D_oRfm5.svg 150w" loading="lazy" alt="ATF Railroad Gothic" data-astro-cid-7dmyo7bx="true" decoding="async" fetchpriority="auto" sizes="(min-width: 150px) 150px, 100vw" style="--fit: cover; --pos: center;" data-astro-image="constrained" width="150" height="150" class="square-image"> <div class="label" data-astro-cid-7dmyo7bx>ATF Railroad Gothic</div> </a> </div><div class="embla__slide square-slide" data-astro-cid-7dmyo7bx> <a href="/fonts/wedding-gothic/" data-astro-cid-7dmyo7bx> <img src="/_astro/sq-wedding-gothic.B7IFCb0__oRfm5.svg" srcset="/_astro/sq-wedding-gothic.B7IFCb0__oRfm5.svg 150w" loading="lazy" alt="ATF Wedding Gothic" data-astro-cid-7dmyo7bx="true" decoding="async" fetchpriority="auto" sizes="(min-width: 150px) 150px, 100vw" style="--fit: cover; --pos: center;" data-astro-image="constrained" width="150" height="150" class="square-image"> <div class="label" data-astro-cid-7dmyo7bx>ATF Wedding Gothic</div> </a> </div> </div> </div> <button class="embla__prev" data-astro-cid-7dmyo7bx> <svg viewBox="276.4 139.2 9.9 10.7" width="11" height="11" class="rotate-180 arrow-icon" data-astro-cid-7dmyo7bx="true">
+<style>.st0{fill:#45687F;}</style>
+<polygon class="st0" points="276.6,139.2 286.3,144.5 286.3,144.7 276.6,149.9 276.4,149.9 276.4,139.2" />
+</svg> </button> <button class="embla__next" data-astro-cid-7dmyo7bx> <svg viewBox="276.4 139.2 9.9 10.7" width="11" height="11" class="arrow-icon" data-astro-cid-7dmyo7bx="true">
+<style>.st0{fill:#45687F;}</style>
+<polygon class="st0" points="276.6,139.2 286.3,144.5 286.3,144.7 276.6,149.9 276.4,149.9 276.4,139.2" />
+</svg> </button> </div> </div> </div> </div>  <div class="container-large" data-astro-cid-j7pv25f6> <div class="container px-7" data-astro-cid-j7pv25f6> <div class="grid" data-astro-cid-j7pv25f6> <div class="content mw-540" data-astro-cid-j7pv25f6> <h1 data-astro-cid-j7pv25f6>Classic American Typefaces Reinterpreted</h1> <p class="noindent" data-astro-cid-j7pv25f6>
+The typefaces originally produced by the American Type Founders
+              Company are well known and well loved. From the familiar sans
+              serif letterforms seen virtually everywhere to thoughtful revivals
+              of historic text faces, ATF’s type designs have inspired countless
+              fonts by other foundries.
+</p> <p data-astro-cid-j7pv25f6>
+The American Type Founders Collection builds on the ATF legacy of
+              originality, creativity, and innovation, introducing new
+              interpretations of classic ATF typefaces. Fonts in the ATF
+              Collection are developed with the needs of contemporary type users
+              in mind. Attention to aesthetics and usability are paramount—ATF
+              designer font families build on their predecessors, offering more
+              weights and widths, and the robustly expanded character sets and
+              typographic features made possible with digital font technology.
+              The ATF Collection brings the same visual richness to page and
+              screen that handset type once brought to the printed page.
+</p> </div> <aside data-astro-cid-j7pv25f6> <p data-astro-cid-j7pv25f6>
+ATF was formed in 1892 as a consolidation of 23 of the most
+              prominent independent type foundries in the United States. By the
+              early part of the twentieth century, ATF dominated the production
+              of metal type for hand-setting in the United States, and was at
+              the forefront of technical developments in designing and producing
+              type.
+</p> <p data-astro-cid-j7pv25f6> <a href="/history/" data-astro-cid-j7pv25f6>More about American Type Founders Company</a> </p> </aside> </div> </div> </div> </main> <div class="container-large" data-astro-cid-sz7xmlte> <footer class="px-7" data-astro-cid-sz7xmlte> <div class="footer-content" data-astro-cid-sz7xmlte> <p data-astro-cid-sz7xmlte>
+The American Type Founders&reg; Collection of digital fonts pays homage
+        to the classic typefaces made famous by the American Type Founders
+        Company. Reinterpreted and carefully crafted, the ATF&reg; Collection
+        offers more weights and widths, expanded character sets, and robust
+        typographic features in type designs beautifully suited to modern use
+        and media. From the printed page to the screen, the new ATF Collection
+        brings a tradition of typographic richness to the digital era.
+<br data-astro-cid-sz7xmlte> <br data-astro-cid-sz7xmlte>
+&copy 2026 <a href="https://thetypefounders.com" data-astro-cid-sz7xmlte>The Type Founders, LLC</a>.
+</p> <div class="footer-links" data-astro-cid-sz7xmlte> <ul data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte><a href="/licensing/" data-astro-cid-sz7xmlte>Licensing</a></li> <li data-astro-cid-sz7xmlte><a href="/info/#charset" data-astro-cid-sz7xmlte>Character sets</a></li> <li data-astro-cid-sz7xmlte><a href="/info/#trademarks" data-astro-cid-sz7xmlte>Trademarks</a></li> <li data-astro-cid-sz7xmlte><a href="/services/" data-astro-cid-sz7xmlte>Services</a></li> <li data-astro-cid-sz7xmlte><a href="/contact/" data-astro-cid-sz7xmlte>Contact</a></li> </ul> <ul data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte> <a href="/fonts/alternate-gothic/" data-astro-cid-sz7xmlte>ATF Alternate Gothic</a> </li><li data-astro-cid-sz7xmlte> <a href="/fonts/brush/" data-astro-cid-sz7xmlte>ATF Brush</a> </li><li data-astro-cid-sz7xmlte> <a href="/fonts/egyptian-antique/" data-astro-cid-sz7xmlte>ATF Egyptian Antique</a> </li><li data-astro-cid-sz7xmlte> <a href="/fonts/franklin-gothic/" data-astro-cid-sz7xmlte>ATF Franklin Gothic</a> </li><li data-astro-cid-sz7xmlte> <a href="/fonts/garamond/" data-astro-cid-sz7xmlte>ATF Garamond</a> </li><li data-astro-cid-sz7xmlte> <a href="/fonts/headline-gothic/" data-astro-cid-sz7xmlte>ATF Headline Gothic</a> </li><li data-astro-cid-sz7xmlte> <a href="/fonts/livermore-script/" data-astro-cid-sz7xmlte>ATF Livermore Script</a> </li><li data-astro-cid-sz7xmlte> <a href="/fonts/poster-gothic/" data-astro-cid-sz7xmlte>ATF Poster Gothic</a> </li><li data-astro-cid-sz7xmlte> <a href="/fonts/railroad-gothic/" data-astro-cid-sz7xmlte>ATF Railroad Gothic</a> </li><li data-astro-cid-sz7xmlte> <a href="/fonts/super-condensed/" data-astro-cid-sz7xmlte>ATF Super Condensed</a> </li><li data-astro-cid-sz7xmlte> <a href="/fonts/wedding-gothic/" data-astro-cid-sz7xmlte>ATF Wedding Gothic</a> </li> </ul> </div> </div> <a class="ftlogo" href="/" data-astro-cid-sz7xmlte><img src="/img/logo-footer.svg" alt="American Type Founders Collection" width="50" data-astro-cid-sz7xmlte></a> </footer> </div>   </body></html> 

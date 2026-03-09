@@ -1,0 +1,83 @@
+{
+  "record_id": "tt-carvist",
+  "source_url": "https://typetype.org/typefaces/tt-carvist",
+  "checked_at": "2026-03-09T02:03:59.717205+00:00",
+  "candidates": [
+    {
+      "date": "2024-02-20",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typetype.org/fonts/tt-carvist/",
+      "snippet": "2024-02-20T06:35:35+00:00"
+    },
+    {
+      "date": "2024-02-20",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://typetype.org/fonts/tt-carvist/",
+      "snippet": "2024-02-20T06:35:35+00:00"
+    },
+    {
+      "date": "2024-02-20",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-carvist/",
+      "snippet": "for a distinctive and stylish display typeface for your collection, TT Carvist will be a vibrant addition! Release date February 20, 2024 Additionally Specimen Download font specimen (pdf) Poster Images Graphic presentat"
+    },
+    {
+      "date": "2026-02-27",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typetype.org/fonts/tt-carvist/",
+      "snippet": "2026-02-27T13:48:58+00:00"
+    },
+    {
+      "date": "2026-02-27",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://typetype.org/fonts/tt-carvist/",
+      "snippet": "2026-02-27T13:48:58+00:00"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-carvist/",
+      "snippet": "atives Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! Link copied!"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-carvist/",
+      "snippet": " | Catalan Ldot ss12 | Serbian localization subs | Subscript sups | Superscript tnum | Tabular Figures Variable axes In 2021, we realized that the charm of our modular sans serif TT Tunnels has aged, leading us to give i"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-carvist/",
+      "snippet": "s 5  font styles Updated from $ 43.99 View font TT Trailers 19  font styles 30% off Special offer is valid until 3 Apr, 2026 Popular from $ 47.99 Original price was: $47.99. $ 33.59 Current price is: $33.59. View font TT"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://typetype.org/fonts/tt-carvist/",
+      "snippet": "Fri, 06 Mar 2026 22:28:05 GMT"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typetype.org/typefaces/tt-carvist",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typetype.org/fonts/tt-carvist/",
+    "last_modified": "Fri, 06 Mar 2026 22:28:05 GMT"
+  }
+}

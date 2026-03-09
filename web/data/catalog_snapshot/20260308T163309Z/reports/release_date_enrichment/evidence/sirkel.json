@@ -1,0 +1,27 @@
+{
+  "record_id": "sirkel",
+  "source_url": "https://www.suvatypefoundry.ee/sirkel/",
+  "checked_at": "2026-03-09T01:49:11.915232+00:00",
+  "candidates": [
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/sirkel/",
+      "snippet": "UNDRY PREVIOUS FONT SIRKEL NEXT FONT C B I W S A T K X U D E Y G N J M F Z P O H Q DOWNLOAD R L V SIRKEL by Aimur Takk (2014) Each letter of the typeface is combined of three pieces of a compass. Supervised by Dinamo (Jo"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/sirkel/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/sirkel/",
+    "last_modified": null
+  }
+}

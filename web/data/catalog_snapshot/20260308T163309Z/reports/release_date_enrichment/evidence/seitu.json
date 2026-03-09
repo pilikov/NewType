@@ -1,0 +1,76 @@
+{
+  "record_id": "seitu",
+  "source_url": "https://fsd.it/typefaces/seitu",
+  "checked_at": "2026-03-09T02:00:28.469339+00:00",
+  "candidates": [
+    {
+      "date": "2022-04-29",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://fsd.it/shop/fonts/seitu/",
+      "snippet": "2022-04-29T12:30:45+00:00"
+    },
+    {
+      "date": "2023-08-21",
+      "score": 0.7,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://fsd.it/shop/fonts/seitu/",
+      "snippet": "2023-08-21T23:21:31+02:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://fsd.it/shop/fonts/seitu/",
+      "snippet": "2026-02-25T16:59:05+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://fsd.it/shop/fonts/seitu/",
+      "snippet": "2026-02-25T16:59:05+00:00"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fsd.it/shop/fonts/seitu/",
+      "snippet": "stomer of the greatest retail trader in Italy: coop . Everytime I see their product I think “they deserve more”. So, in 2019 I designed the key factor behind their rebranding: the variable font Seitu™ A font derived by t"
+    },
+    {
+      "date": "2023-08-21",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fsd.it/shop/fonts/seitu/",
+      "snippet": " supermarkets. Meanwhile feel free to use it in your artworks today! Rated 5 out of 5 Peter Woodward (verified owner) – 2023-08-21 Seitu is very readable at all sizes, probably the most readable of the fonts installed in"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fsd.it/shop/fonts/seitu/",
+      "snippet": "39 Contact Terms and Conditions Privacy and Cookies Shipping policy Refund policy How to protecting the webfont files © 2026 Fabrizio Schiavi. All rights reserved We use cookies on our website to give you the most releva"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://fsd.it/shop/fonts/seitu/",
+      "snippet": "Sun, 08 Mar 2026 23:13:51 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fsd.it/typefaces/seitu",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fsd.it/shop/fonts/seitu/",
+    "last_modified": "Sun, 08 Mar 2026 23:13:51 GMT"
+  }
+}

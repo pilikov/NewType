@@ -1,0 +1,76 @@
+{
+  "record_id": "tt-nooks",
+  "source_url": "https://typetype.org/typefaces/tt-nooks",
+  "checked_at": "2026-03-09T02:04:05.421949+00:00",
+  "candidates": [
+    {
+      "date": "2021-04-27",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typetype.org/fonts/tt-nooks/",
+      "snippet": "2021-04-27T09:17:04+00:00"
+    },
+    {
+      "date": "2021-04-27",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://typetype.org/fonts/tt-nooks/",
+      "snippet": "2021-04-27T09:17:04+00:00"
+    },
+    {
+      "date": "2018-07-31",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-nooks/",
+      "snippet": "d to solve it thanks to the found rhythm, which united different fonts, and proximate stylistic solutions. Release date July 31, 2018 Additionally Specimen Download font specimen (pdf) Poster Images Graphic presentation "
+    },
+    {
+      "date": "2026-01-23",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typetype.org/fonts/tt-nooks/",
+      "snippet": "2026-01-23T21:00:13+00:00"
+    },
+    {
+      "date": "2026-01-23",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://typetype.org/fonts/tt-nooks/",
+      "snippet": "2026-01-23T21:00:13+00:00"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-nooks/",
+      "snippet": "atives Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! TT Nooks Award Silver The European Design Awards hono"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-nooks/",
+      "snippet": "s Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! TT Nooks Award Silver The European Design Awards honor eac"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://typetype.org/fonts/tt-nooks/",
+      "snippet": "Fri, 06 Mar 2026 21:14:45 GMT"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typetype.org/typefaces/tt-nooks",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typetype.org/fonts/tt-nooks/",
+    "last_modified": "Fri, 06 Mar 2026 21:14:45 GMT"
+  }
+}

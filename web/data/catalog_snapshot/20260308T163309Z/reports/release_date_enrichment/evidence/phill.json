@@ -1,0 +1,19 @@
+{
+  "record_id": "phill",
+  "source_url": "https://blazetype.eu/typefaces/phill",
+  "checked_at": "2026-03-09T01:52:18.545445+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://blazetype.eu/typefaces/phill",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='blazetype.eu', port=443): Read timed out. (read timeout=12)"
+  }
+}

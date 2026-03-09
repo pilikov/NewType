@@ -1,0 +1,27 @@
+{
+  "record_id": "new-hero-italic",
+  "source_url": "https://newlyn.com/fonts/new-hero-italic",
+  "checked_at": "2026-03-09T01:55:20.884054+00:00",
+  "candidates": [
+    {
+      "date": "2015-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://newlyn.com/fonts/new-hero",
+      "snippet": " Both the Cyrillic and Greek designs were honored with Granshan Awards and featured in Typographica’s Best Typefaces of 2015 , affirming New Hero’s global calibre. With extensive small caps in every script and more langu"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://newlyn.com/fonts/new-hero-italic",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://newlyn.com/fonts/new-hero",
+    "last_modified": null
+  }
+}

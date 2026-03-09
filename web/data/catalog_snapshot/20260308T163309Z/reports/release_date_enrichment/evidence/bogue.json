@@ -1,0 +1,27 @@
+{
+  "record_id": "bogue",
+  "source_url": "https://www.melvastype.fi/fonts/bogue",
+  "checked_at": "2026-03-09T01:43:53.244873+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.melvastype.fi/fonts/bogue",
+      "snippet": "hs and body texts. So if you are looking for a versatile soft serif font with a friendly character you have found it! © 2026 Melvastype"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.melvastype.fi/fonts/bogue",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.melvastype.fi/fonts/bogue",
+    "last_modified": null
+  }
+}

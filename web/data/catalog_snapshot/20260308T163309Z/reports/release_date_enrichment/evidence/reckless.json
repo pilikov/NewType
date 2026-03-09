@@ -1,0 +1,41 @@
+{
+  "record_id": "reckless",
+  "source_url": "https://displaay.net/typeface/reckless",
+  "checked_at": "2026-03-09T01:48:28.047871+00:00",
+  "candidates": [
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://displaay.net/typeface/reckless",
+      "snippet": "ov, Irene Vlachou, Tuan Vuong Details Range 72 Weights, 144 Styles 3 VF Axes : Weight, Contrast, Width First Sketch Sep 2012 Released Jun 2014 Update Feb 2026 Version 3.002 The legacy versions ofÂ Reckless and Reckless N"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://displaay.net/typeface/reckless",
+      "snippet": " Tuan Vuong Details Range 72 Weights, 144 Styles 3 VF Axes : Weight, Contrast, Width First Sketch Sep 2012 Released Jun 2014 Update Feb 2026 Version 3.002 The legacy versions ofÂ Reckless and Reckless Neue have now been "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://displaay.net/typeface/reckless",
+      "snippet": "ils Range 72 Weights, 144 Styles 3 VF Axes : Weight, Contrast, Width First Sketch Sep 2012 Released Jun 2014 Update Feb 2026 Version 3.002 The legacy versions ofÂ Reckless and Reckless Neue have now been replaced with th"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://displaay.net/typeface/reckless",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://displaay.net/typeface/reckless",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "205tf--alcala",
+  "source_url": "https://www.205.tf/alcala",
+  "checked_at": "2026-03-09T01:51:08.184602+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/alcala",
+      "snippet": "ibe to our newsletter: ▶︎ Follow Us Facebook Instagram LinkedIn Bluesky Typeface Alcalá Designer Damien Gautier Release 2018 Fonts In Use Specimen Alcalá is based on the Biblia poliglota complutense (Polyglot Bible of Al"
+    },
+    {
+      "date": "1995-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/alcala",
+      "snippet": " it was produced under the patronage of Cardinal Francisco Jiménez de Cisneros. The first drawings of Alcalá go back to 1995. A second version started in 2011, commissioned by a publisher for a French \nand Malagasy editi"
+    },
+    {
+      "date": "2002-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/alcala",
+      "snippet": "ance de l’Université de Sherbrooke précisent à la page 40 de Index librorum prohibitorum : 1600-1966 (édité par Droz en 2002) que c’était le cas de Karl Marx. Subversion Black Display Roman ) Italic ) Bold ) Black Displa"
+    },
+    {
+      "date": "2011-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/alcala",
+      "snippet": "ge of Cardinal Francisco Jiménez de Cisneros. The first drawings of Alcalá go back to 1995. A second version started in 2011, commissioned by a publisher for a French \nand Malagasy edition of the Bible by J.N. Darby. Alc"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.205.tf/alcala",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.205.tf/alcala",
+    "last_modified": null
+  }
+}

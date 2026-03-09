@@ -1,0 +1,34 @@
+{
+  "record_id": "kostic-serif",
+  "source_url": "http://beta.kostictype.com/fonts/kostic-serif",
+  "checked_at": "2026-03-09T01:53:54.934870+00:00",
+  "candidates": [
+    {
+      "date": "2002-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kostictype.com/fonts/kostic-serif/",
+      "snippet": "de with a fairly large x-height, so the text is legible in very small sizes. Zoran began working on Kostic Serif around 2002 and after completing Regular, Bold and matching italics, he wasn’t too pleased with the design,"
+    },
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kostictype.com/fonts/kostic-serif/",
+      "snippet": "d and matching italics, he wasn’t too pleased with the design, so he dropped further work on it to make other fonts. In 2010 Nikola came upon the unfinished files for Kostic Serif and decided to redesign the letters, whi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://beta.kostictype.com/fonts/kostic-serif",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://kostictype.com/fonts/kostic-serif/",
+    "last_modified": null
+  }
+}

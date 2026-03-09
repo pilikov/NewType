@@ -1,0 +1,41 @@
+{
+  "record_id": "davinci-script",
+  "source_url": "https://parachutefonts.com/typeface/davinci-script",
+  "checked_at": "2026-03-09T01:51:37.857581+00:00",
+  "candidates": [
+    {
+      "date": "2001-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/davinci-script",
+      "snippet": "Latin, Greek, Greek Polytonic and Cyrillic. It comes loaded with many stylistic alternates in all languages. Published: 2001 Designer: Dimitri Foussekis, Panos Vassiliou FORMAT Desktop (otf) Web (woff/woff2) Digital Ad ("
+    },
+    {
+      "date": "2006-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/davinci-script",
+      "snippet": " different styles: Regular and a more informal style called Inked. The most recent “Pro” version, which was released in 2006, supports all European languages including Latin, Greek, Greek Polytonic and Cyrillic. It comes"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/davinci-script",
+      "snippet": "abled styles are only available when you purchase the entire family. ADD STYLE Close Newsletter / Follow us      © 2026 Parachute® Typefoundry. All Rights Reserved COOKIES NOTICE This Site uses cookies, including th"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://parachutefonts.com/typeface/davinci-script",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://parachutefonts.com/typeface/davinci-script",
+    "last_modified": null
+  }
+}

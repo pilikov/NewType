@@ -1,0 +1,69 @@
+{
+  "record_id": "royal-theatre-serif",
+  "source_url": "https://playtype.com/typefaces/royal-theatre-serif",
+  "checked_at": "2026-03-09T01:47:33.454025+00:00",
+  "candidates": [
+    {
+      "date": "2020-03-18",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://playtype.com/typefaces/royal-theatre-serif/",
+      "snippet": "2020-03-18T19:47:51+00:00"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://playtype.com/typefaces/royal-theatre-serif/",
+      "snippet": "ic Bold Italic Extrabold Italic Black Italic Royal Theatre Serif Buy from 50€ Styles 14 Designer Jonas Hecksher Release 2020 The Danish Royal Theatre holds both historic and theatric value to the city of Copenhagen. Firs"
+    },
+    {
+      "date": "2025-06-26",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://playtype.com/typefaces/royal-theatre-serif/",
+      "snippet": "2025-06-26T10:55:01+00:00"
+    },
+    {
+      "date": "2025-06-26",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://playtype.com/typefaces/royal-theatre-serif/",
+      "snippet": "2025-06-26T10:55:01+00:00"
+    },
+    {
+      "date": "2005-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://playtype.com/typefaces/royal-theatre-serif/",
+      "snippet": "the city of Copenhagen. First serving as a venue for the King it has seen many faces since its construction in 1874. In 2005 Playtype designed the first version of the type family, used for many years exclusively by the "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://playtype.com/typefaces/royal-theatre-serif/",
+      "snippet": "rty of their respective owners and no endorsement or derogation is intended or inferred. All other content, copyright © 2026 Playtype. All rights reserved."
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://playtype.com/typefaces/royal-theatre-serif/",
+      "snippet": "Fri, 06 Mar 2026 13:52:45 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://playtype.com/typefaces/royal-theatre-serif",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://playtype.com/typefaces/royal-theatre-serif/",
+    "last_modified": "Fri, 06 Mar 2026 13:52:45 GMT"
+  }
+}

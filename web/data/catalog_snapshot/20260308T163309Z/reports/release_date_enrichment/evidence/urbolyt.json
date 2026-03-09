@@ -1,0 +1,55 @@
+{
+  "record_id": "urbolyt",
+  "source_url": "https://motyfo.com/typefaces/urbolyt",
+  "checked_at": "2026-03-09T01:38:55.866793+00:00",
+  "candidates": [
+    {
+      "date": "2025-09-01",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.motyfo.com/2025/09/01/urbolyt/",
+      "snippet": "2025-09-01T12:30:46+00:00"
+    },
+    {
+      "date": "2025-09-01",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://www.motyfo.com/2025/09/01/urbolyt/",
+      "snippet": "2025-09-01T12:30:46+00:00"
+    },
+    {
+      "date": "2025-09-01",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.motyfo.com/2025/09/01/urbolyt/",
+      "snippet": "2025-09-01T12:31:22+00:00"
+    },
+    {
+      "date": "2025-09-01",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.motyfo.com/2025/09/01/urbolyt/",
+      "snippet": "2025-09-01T12:31:22+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.motyfo.com/2025/09/01/urbolyt/",
+      "snippet": "out Contact Fonts Try Fonts Custom fonts Buy Goods Blog About Contact Back to blog Urbolyt Author Olivier Gourvat 09/01/2025 Urbolyt VF is a variable typeface that asserts its presence through a striking contrast, where "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://motyfo.com/typefaces/urbolyt",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.motyfo.com/2025/09/01/urbolyt/",
+    "last_modified": null
+  }
+}

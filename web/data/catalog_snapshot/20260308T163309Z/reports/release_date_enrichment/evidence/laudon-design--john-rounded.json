@@ -1,0 +1,69 @@
+{
+  "record_id": "laudon-design--john-rounded",
+  "source_url": "https://laudon.se/john-rounded",
+  "checked_at": "2026-03-09T01:36:09.401389+00:00",
+  "candidates": [
+    {
+      "date": "2023-12-08",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://laudon.se/john-rounded",
+      "snippet": "2023-12-08T13:10:01+00:00"
+    },
+    {
+      "date": "2023-12-08",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://laudon.se/john-rounded",
+      "snippet": "2023-12-08T13:10:01+00:00"
+    },
+    {
+      "date": "2023-12-13",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://laudon.se/john-rounded",
+      "snippet": "2023-12-13T10:10:05+00:00"
+    },
+    {
+      "date": "2023-12-13",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://laudon.se/john-rounded",
+      "snippet": "2023-12-13T10:10:05+00:00"
+    },
+    {
+      "date": "1997-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://laudon.se/john-rounded",
+      "snippet": "ver Rusta Pris Toni Grotesk Unga Klara White dark Laudon Design Typography, Typefaces & Lettering Contact me LinkedIn © 1997–2024 Laudon Design AB All rights reserved."
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://laudon.se/john-rounded",
+      "snippet": "e Art Directors and I worked as font developer. The campaign made by Forsman & Bodenfors was given the Golden Egg award 2016. Client : Oatly AB / Forsman & Bodenfors Browse Around Work Services Stuff About Custom Fonts A"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://laudon.se/john-rounded",
+      "snippet": "usta Pris Toni Grotesk Unga Klara White dark Laudon Design Typography, Typefaces & Lettering Contact me LinkedIn © 1997–2024 Laudon Design AB All rights reserved."
+    },
+    {
+      "date": "2026-03-02",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://laudon.se/john-rounded",
+      "snippet": "2026-03-02"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://laudon.se/john-rounded",
+    "last_modified": null
+  }
+}

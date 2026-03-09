@@ -1,0 +1,27 @@
+{
+  "record_id": "p22-art-deco",
+  "source_url": "https://p22.com/fonts/art-deco/",
+  "checked_at": "2026-03-09T01:46:35.494943+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/art-deco/",
+      "snippet": " d e f g h i j k l m n o p q r s t u v w x y z Decimal Number 0 1 2 3 4 5 6 7 8 9 Other Punctuation ! Math Symbol = > © 2026 The Type Founders, LLC Fonts Designers About Privacy & Cookies Terms of Service Licensing Servi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://p22.com/fonts/art-deco/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://p22.com/fonts/art-deco/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "amiamie",
+  "source_url": "https://typotheque.genderfluid.space/fr/fontes/amiamie",
+  "checked_at": "2026-03-09T01:39:34.816250+00:00",
+  "candidates": [
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typotheque.genderfluid.space/fr/fontes/amiamie",
+      "snippet": "plus tard, Christian Schwartz numérise les fontes originales de Max Miedinger et les rebaptise de leur nom originel. En 2014, Sora Sagano s’inspire de toute cette ligne pour créer l’Aileron et la diffuse en open source, "
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typotheque.genderfluid.space/fr/fontes/amiamie",
+      "snippet": "phes non-binaires. Fontes en usage L’aide à la réussite Lilo Joris, erg, livret du programme pour L’aide à la réussite. 2023 Les mots de trop Collectif Les mots de trop, site internet et compte Instagram. 2023. Auteur·ic"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typotheque.genderfluid.space/fr/fontes/amiamie",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typotheque.genderfluid.space/fr/fontes/amiamie",
+    "last_modified": null
+  }
+}

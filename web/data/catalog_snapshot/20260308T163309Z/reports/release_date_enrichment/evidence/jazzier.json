@@ -1,0 +1,27 @@
+{
+  "record_id": "jazzier",
+  "source_url": "https://www.daltonmaag.com/library/jazzier",
+  "checked_at": "2026-03-09T01:40:45.415139+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/jazzier.html",
+      "snippet": "and packaging, Jazzier is sure to captivate and inspire with its unique approach and expression. Designed and developed\n2021 Designers Ignacio Casco Guijarro Writing Systems Latin Supporting over 800\nLanguages Aari (Lati"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.daltonmaag.com/library/jazzier",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.daltonmaag.com/font-library/jazzier.html",
+    "last_modified": null
+  }
+}

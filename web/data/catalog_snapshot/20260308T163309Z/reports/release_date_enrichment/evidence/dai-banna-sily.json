@@ -1,0 +1,97 @@
+{
+  "record_id": "dai-banna-sily",
+  "source_url": "https://software.sil.org/daibanna/",
+  "checked_at": "2026-03-09T01:43:43.902830+00:00",
+  "candidates": [
+    {
+      "date": "2019-04-23",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://software.sil.org/daibanna/",
+      "snippet": "2019-04-23T18:45:00+00:00"
+    },
+    {
+      "date": "2019-04-23",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://software.sil.org/daibanna/",
+      "snippet": "2019-04-23T18:45:00+00:00"
+    },
+    {
+      "date": "2007-12-10",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/daibanna/",
+      "snippet": "          | 10 Dec 2007 Dai Banna SIL 2.0_beta for all platforms PREV FONT                 | 508.1 KB                 | 10 Dec 2007 top Information for Contributors We welcome contributions to this font project, such as "
+    },
+    {
+      "date": "2022-08-23",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/daibanna/",
+      "snippet": "Version Version Platform Details Dai Banna SIL 4.000 for all platforms FONT                 | 1.60 MB                 | 23 Aug 2022 Release Notes for v4.000 The previous weights in two families (Dai Banna SIL Light and D"
+    },
+    {
+      "date": "2025-09-17",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://software.sil.org/daibanna/",
+      "snippet": "2025-09-17T20:09:02+00:00"
+    },
+    {
+      "date": "2025-09-17",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://software.sil.org/daibanna/",
+      "snippet": "2025-09-17T20:09:02+00:00"
+    },
+    {
+      "date": "2008-06-06",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/daibanna/",
+      "snippet": "   | 18 Mar 2011 Dai Banna SIL source files 2.1 for all platforms PREV FONT                 | 1.32 MB                 | 6 Jun 2008 Dai Banna SIL 2.1 for all platforms PREV FONT                 | 509.1 KB                 "
+    },
+    {
+      "date": "2011-03-18",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/daibanna/",
+      "snippet": " | 17 Feb 2021 Dai Banna SIL source files 2.200 for all platforms PREV FONT                 | 1.42 MB                 | 18 Mar 2011 Dai Banna SIL 2.200 for all platforms PREV FONT                 | 592.6 KB              "
+    },
+    {
+      "date": "2021-02-17",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/daibanna/",
+      "snippet": "ns Version Platform Details Dai Banna SIL 3.000 for all platforms PREV FONT                 | 1.09 MB                 | 17 Feb 2021 Dai Banna SIL source files 2.200 for all platforms PREV FONT                 | 1.42 MB  "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/daibanna/",
+      "snippet": "Language Software Forum Scripture Software Forum General Software Support Serve with Us About Us Contact Us Copyright © 2026 SIL Global Terms of Use Privacy Policy"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://software.sil.org/daibanna/",
+      "snippet": "Mon, 09 Mar 2026 01:18:33 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://software.sil.org/daibanna/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://software.sil.org/daibanna/",
+    "last_modified": "Mon, 09 Mar 2026 01:18:33 GMT"
+  }
+}

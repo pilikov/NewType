@@ -1,0 +1,41 @@
+{
+  "record_id": "walmer-marker",
+  "source_url": "https://www.typolar.com/family/index.php?id=12",
+  "checked_at": "2026-03-09T01:53:28.070790+00:00",
+  "candidates": [
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typolar.com/family/index.php?id=12",
+      "snippet": "inherently live and natural. Designers Walmer Marker is designed by Jarno Lukkarila, Pertti Lukkarila and Emma Laiho in 2014. Technical All our fonts are optimised for smooth on screen appearance on different resolutions"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typolar.com/family/index.php?id=12",
+      "snippet": "ll Era Grotesk Outline Walmer Marker Pro Medium Walmer Marker Std Medium i 42 px i x 1.2 ≤ | ≥ x Christy Thurson on her 2021 Spring collection for Niggli Walmer Marker Pro Medium h Altis Alku Handwriting Model Neuvos Neu"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typolar.com/family/index.php?id=12",
+      "snippet": "ng and you can cancel it any time. CONTACT US c +358 50 339 1487 a info(at)typolar.com b Facebook b Twitter b Bēhance ©2025 Typolar Ltd. All Rights Reserved. Typolar holds rights to all material at this website unless s"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.typolar.com/family/index.php?id=12",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typolar.com/family/index.php?id=12",
+    "last_modified": null
+  }
+}

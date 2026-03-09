@@ -1,0 +1,41 @@
+{
+  "record_id": "sofia-pro-compact",
+  "source_url": "https://motyfo.com/typefaces/sofia-pro-compact",
+  "checked_at": "2026-03-09T02:00:43.786228+00:00",
+  "candidates": [
+    {
+      "date": "2025-04-15",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.motyfo.com/fonts-library/sofia-pro-compact/",
+      "snippet": "_28_regular Created with Sketch. × Glyphs Specifications ic_fluent_arrow_right_28_regular Created with Sketch. Released April 15, 2025 Designed by Olivier Gourvat Spacing and Kerning by Igino Marini Sebastian Carewe 223 "
+    },
+    {
+      "date": "2025-04-09",
+      "score": 0.7,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.motyfo.com/fonts-library/sofia-pro-compact/",
+      "snippet": "2025-04-09T12:14:46+00:00"
+    },
+    {
+      "date": "2025-09-29",
+      "score": 0.44999999999999996,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.motyfo.com/fonts-library/sofia-pro-compact/",
+      "snippet": "2025-09-29T07:23:06+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://motyfo.com/typefaces/sofia-pro-compact",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.motyfo.com/fonts-library/sofia-pro-compact/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "pandeka-studio--corpta-futurustuc-display-font",
+  "source_url": "https://pandekafoundry.com/product/corpta-futurustuc-display-font/",
+  "checked_at": "2026-03-09T01:36:18.228237+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://pandekafoundry.com/product/corpta-futurustuc-display-font/",
+      "snippet": "and Conditions FAQ Privacy Policy Terms and Conditions Stay up to date with our new fonts! first_name email Subscribe © 2026  Pandeka Studio Add to cart Corpta – Futurustuc Display Font $ 17 × License Type Choose an opti"
+    },
+    {
+      "date": "2026-02-28",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://pandekafoundry.com/product/corpta-futurustuc-display-font/",
+      "snippet": "2026-02-28"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://pandekafoundry.com/product/corpta-futurustuc-display-font/",
+    "last_modified": null
+  }
+}

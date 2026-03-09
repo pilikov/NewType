@@ -1,0 +1,34 @@
+{
+  "record_id": "gustan-signa",
+  "source_url": "https://luxtypo.com/collections/gustan-signa",
+  "checked_at": "2026-03-09T01:41:38.174666+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://luxtypo.com/collections/gustan-signa",
+      "snippet": "+ Design Los Angeles, California info@luxtypo.com Instagram icon Twitter icon Facebook icon Newsletter sign up Submit © 2026 Lux Typo - all rights reserved Site by Matchbox Creative × Cart Your cart is empty. {item.produ"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://luxtypo.com/collections/gustan-signa",
+      "snippet": " Supports basic Latin and Latin extended languages. For more details, download PDF specimen 6 Styles OTF EOT WOFF WOFF2 2018 Greg Lindy Specimen (PDF) Download a trial How it works: Open Type Features (Modern) [Life is] "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://luxtypo.com/collections/gustan-signa",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://luxtypo.com/collections/gustan-signa",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "chado",
+  "source_url": "https://kevinfoleyfonts.com/edotatami",
+  "checked_at": "2026-03-09T01:40:14.231067+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kevinfoleyfonts.com/edotatami",
+      "snippet": "tics. Chado has an elegant simplicity and strong presence that make it perfect for titling. ↑ Back to Top © Kevin Foley 2025 This website uses cookies to improve your experience and analyze site traffic. By clicking \"Acc"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://kevinfoleyfonts.com/edotatami",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://kevinfoleyfonts.com/edotatami",
+    "last_modified": null
+  }
+}

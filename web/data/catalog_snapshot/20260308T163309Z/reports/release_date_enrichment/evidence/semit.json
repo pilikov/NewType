@@ -1,0 +1,34 @@
+{
+  "record_id": "semit",
+  "source_url": "https://www.superness.info/typefaces/semit",
+  "checked_at": "2026-03-09T01:40:28.333401+00:00",
+  "candidates": [
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.superness.info/prodotto/semit/",
+      "snippet": "Technical data Design: Alessio D’Ellena with Federico Antonini Production: Superness Version: 2.000 Year of production: 2015-2023 Number of glyphs: 580 — Actual range: 2 weight — File formats: Otf, Ttf, Woff, Woff2 Varia"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.superness.info/prodotto/semit/",
+      "snippet": "ical data Design: Alessio D’Ellena with Federico Antonini Production: Superness Version: 2.000 Year of production: 2015-2023 Number of glyphs: 580 — Actual range: 2 weight — File formats: Otf, Ttf, Woff, Woff2 Variable f"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.superness.info/typefaces/semit",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.superness.info/prodotto/semit/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "brevier",
+  "source_url": "https://www.c-a-s-t.com/typefaces/brevier",
+  "checked_at": "2026-03-09T01:41:49.343746+00:00",
+  "candidates": [
+    {
+      "date": "2015-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/brevier/",
+      "snippet": "rinted projects, notably for captions and credits in magazines – for instance, in TipoItalia3, published by Tipoteca in 2015. Designer Riccardo Olocco Supported languages Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Br"
+    },
+    {
+      "date": "2007-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/brevier/",
+      "snippet": "ita, Teso, Turkish, Upper Sorbian, Uzbek (Latin), Volapük, Vunjo, Walser, Welsh, Western Frisian, Zulu Production years 2007-2025 Styles Regular, Regular Italic, Medium, Medium Italic, Bold, Bold Italic OpenType Features"
+    },
+    {
+      "date": "2009-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/brevier/",
+      "snippet": " have been left open. These major optical adjustments become strong and original design features in larger sizes. Since 2009 Brevier has been used for several printed projects, notably for captions and credits in magazin"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/brevier/",
+      "snippet": "Teso, Turkish, Upper Sorbian, Uzbek (Latin), Volapük, Vunjo, Walser, Welsh, Western Frisian, Zulu Production years 2007-2025 Styles Regular, Regular Italic, Medium, Medium Italic, Bold, Bold Italic OpenType Features Tabu"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.c-a-s-t.com/typefaces/brevier",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.c-a-s-t.com/typefaces/brevier/",
+    "last_modified": null
+  }
+}

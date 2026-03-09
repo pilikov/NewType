@@ -1,0 +1,41 @@
+{
+  "record_id": "trio-grotesk",
+  "source_url": "https://boldmonday.com/typeface/trio-grotesk/",
+  "checked_at": "2026-03-09T02:00:49.964925+00:00",
+  "candidates": [
+    {
+      "date": "2011-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/trio-grotesk/",
+      "snippet": "nsive type specimen designed by Florian Schick is available for order in the products section . Designer Florian Schick 2011–2020 Trio Grotesk supports the following languages Afrikaans, Albanian, Asu, Basque, Bemba, Ben"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/trio-grotesk/",
+      "snippet": " type specimen designed by Florian Schick is available for order in the products section . Designer Florian Schick 2011–2020 Trio Grotesk supports the following languages Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Bo"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/trio-grotesk/",
+      "snippet": "ent discounts Privacy policy Return policy Disclaimer Subscribe to News & Updates Twitter | Facebook | Mail Copyright © 2026 Bold Monday – all rights reserved Made by Unwind"
+    },
+    {
+      "date": "2026-02-24",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://boldmonday.com/typeface/trio-grotesk/",
+      "snippet": "2026-02-24"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://boldmonday.com/typeface/trio-grotesk/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "kuiper",
+  "source_url": "https://marmitedefontes.com/fonts/kuiper",
+  "checked_at": "2026-03-09T02:01:14.917257+00:00",
+  "candidates": [
+    {
+      "date": "2001-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://marmitedefontes.com/fonts/kuiper",
+      "snippet": "upport 372 languages (3 billion speakers) â Technical Information Designer Guillaume Berry Version 1.2 Initial design 2001 Publication date July 2023 Script(s) Latin Language support 372 languages (3 billion speakers) "
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://marmitedefontes.com/fonts/kuiper",
+      "snippet": "lion speakers) â Technical Information Designer Guillaume Berry Version 1.2 Initial design 2001 Publication date July 2023 Script(s) Latin Language support 372 languages (3 billion speakers) â Newsletter Instagram Li"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://marmitedefontes.com/fonts/kuiper",
+      "snippet": "Mon, 02 Feb 2026 15:27:36 GMT"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://marmitedefontes.com/fonts/kuiper",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://marmitedefontes.com/fonts/kuiper",
+    "last_modified": "Mon, 02 Feb 2026 15:27:36 GMT"
+  }
+}

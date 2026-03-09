@@ -1,0 +1,27 @@
+{
+  "record_id": "ermine",
+  "source_url": "https://badsontype.com/ermine",
+  "checked_at": "2026-03-09T01:59:03.334293+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://badsontype.com/ermine",
+      "snippet": " — Five Widths Buy The Full Family Buy Now Buy Individual Styles Buy Now Buy Now Shop Now Shop Now Shop Now Coming Fall 2024 Ermine 2.0 Badson Type Foundry is a boutique type design outfit producing brand-ready, personal"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://badsontype.com/ermine",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://badsontype.com/ermine",
+    "last_modified": null
+  }
+}

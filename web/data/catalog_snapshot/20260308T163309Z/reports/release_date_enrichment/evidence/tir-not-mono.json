@@ -1,0 +1,27 @@
+{
+  "record_id": "tir-not-mono",
+  "source_url": "https://www.suvatypefoundry.ee/tir-not-mono/",
+  "checked_at": "2026-03-09T02:01:43.715333+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/tir-not-mono/",
+      "snippet": "US FONT TIR NOT MONO NEXT FONT D G J R X A O S Z H M K T U P B E W L DOWNLOAD C V F N I Y Q TIR NOT MONO by Aimur Takk (2016) Inspired by a license plate of a truck trailer that was used as a project space by EKA graphic"
+    },
+    {
+      "date": "2026-02-10",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/tir-not-mono/",
+      "snippet": "2026-02-10"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/tir-not-mono/",
+    "last_modified": null
+  }
+}

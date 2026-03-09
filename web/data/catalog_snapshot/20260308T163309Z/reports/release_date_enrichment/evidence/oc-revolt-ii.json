@@ -1,0 +1,62 @@
+{
+  "record_id": "oc-revolt-ii",
+  "source_url": "https://otherwherecollective.com/typefaces/oc-revolt-ii",
+  "checked_at": "2026-03-09T01:58:07.532560+00:00",
+  "candidates": [
+    {
+      "date": "2024-02-12",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://otherwherecollective.com/product/oc-revolt-ii/",
+      "snippet": "2024-02-12T14:55:47+00:00"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://otherwherecollective.com/product/oc-revolt-ii/",
+      "snippet": "t Licensing Simplified Font EULA Free Font EULA Demo Font EULA Student Font EULA Newsletter Email Subscribe Copyright © 2018–2025. All rights reserved March 8, 2026 9:37 pm Website: BellamyStudio Fonts Format NEW!!! Noct"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://otherwherecollective.com/product/oc-revolt-ii/",
+      "snippet": "ensing Simplified Font EULA Free Font EULA Demo Font EULA Student Font EULA Newsletter Email Subscribe Copyright © 2018–2025. All rights reserved March 8, 2026 9:37 pm Website: BellamyStudio Fonts Format NEW!!! Noctem NE"
+    },
+    {
+      "date": "2026-03-08",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://otherwherecollective.com/product/oc-revolt-ii/",
+      "snippet": "A Free Font EULA Demo Font EULA Student Font EULA Newsletter Email Subscribe Copyright © 2018–2025. All rights reserved March 8, 2026 9:37 pm Website: BellamyStudio Fonts Format NEW!!! Noctem NEW! Oly v2 Pickllle Blimp v"
+    },
+    {
+      "date": "2025-07-17",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://otherwherecollective.com/product/oc-revolt-ii/",
+      "snippet": "2025-07-17T13:51:09+00:00"
+    },
+    {
+      "date": "2025-07-17",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://otherwherecollective.com/product/oc-revolt-ii/",
+      "snippet": "2025-07-17T13:51:09+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://otherwherecollective.com/typefaces/oc-revolt-ii",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://otherwherecollective.com/product/oc-revolt-ii/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "zenon",
+  "source_url": "https://www.c-a-s-t.com/typefaces/zenon",
+  "checked_at": "2026-03-09T01:39:47.441877+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/zenon/",
+      "snippet": "e able to withstand low quality printing too. Contrast is low in the lighter weights and strong in the heavier ones. In 2021 four new intermediate cuts were added to extend the range to the current eight weights: Book, R"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/zenon/",
+      "snippet": "ita, Teso, Turkish, Upper Sorbian, Uzbek (Latin), Volapük, Vunjo, Walser, Welsh, Western Frisian, Zulu Production years 2013-2022 Styles Book, Book Italic, Regular, Regular Italic, Regular-Dark, Regular-Dark Italic, Medi"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/zenon/",
+      "snippet": "Teso, Turkish, Upper Sorbian, Uzbek (Latin), Volapük, Vunjo, Walser, Welsh, Western Frisian, Zulu Production years 2013-2022 Styles Book, Book Italic, Regular, Regular Italic, Regular-Dark, Regular-Dark Italic, Medium, M"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.c-a-s-t.com/typefaces/zenon",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.c-a-s-t.com/typefaces/zenon/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "lost-type-co-op--dude-hank-pro",
+  "source_url": "http://www.losttype.com/font/?name=hankpro",
+  "checked_at": "2026-03-08T16:58:44.139232+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://www.losttype.com/font/?name=hankpro",
+      "snippet": "onsectetur adipisicing elit sit amet, consectetur adipisicing elit. Questions? Send us a Message » Copyright Lost Type™ 2019 Brought to you by Riley Cran and Friends . Fonts > Dude Hank Pro by Dan Gneiding Fonts Store Bl"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://www.losttype.com/font/?name=hankpro",
+      "snippet": "2026-03-05"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "http://www.losttype.com/font/?name=hankpro",
+    "last_modified": null
+  }
+}

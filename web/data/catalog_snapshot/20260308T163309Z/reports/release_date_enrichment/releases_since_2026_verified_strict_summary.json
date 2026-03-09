@@ -1,0 +1,12 @@
+{
+  "verified_releases_count": 18,
+  "unique_studios": 7,
+  "source_types": [
+    "jsonld:datePublished",
+    "meta:date"
+  ],
+  "files": {
+    "json": "data/catalog_snapshot/20260308T163309Z/reports/release_date_enrichment/releases_since_2026_verified_strict.json",
+    "csv": "data/catalog_snapshot/20260308T163309Z/reports/release_date_enrichment/releases_since_2026_verified_strict.csv"
+  }
+}

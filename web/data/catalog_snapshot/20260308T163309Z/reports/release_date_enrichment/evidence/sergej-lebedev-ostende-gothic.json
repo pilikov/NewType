@@ -1,0 +1,19 @@
+{
+  "record_id": "sergej-lebedev-ostende-gothic",
+  "source_url": "https://typedesigner.de/ostende-gothic/",
+  "checked_at": "2026-03-09T02:00:49.448026+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-24",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typedesigner.de/ostende-gothic/",
+      "snippet": "2026-02-24"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='typedesigner.de', port=443): Max retries exceeded with url: /ostende-gothic/ (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))"
+  }
+}

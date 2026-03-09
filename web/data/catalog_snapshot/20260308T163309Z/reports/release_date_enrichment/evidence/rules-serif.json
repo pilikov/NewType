@@ -1,0 +1,41 @@
+{
+  "record_id": "rules-serif",
+  "source_url": "https://blazetype.eu/typefaces/rules-serif",
+  "checked_at": "2026-03-09T01:43:02.117673+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://blazetype.eu/typefaces/rules-serif",
+      "snippet": "typography, or bold display settings like posters and signage. Designed by Matthieu Salvaggio, Tim Vanhille Released in 2025 Export .OTF .WOFF .WOFF2 .TTF (Variable) Developed for Latin European Languages Afrikaans, Alba"
+    },
+    {
+      "date": "2025-05-22",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://blazetype.eu/typefaces/rules-serif",
+      "snippet": "2025-05-22"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://blazetype.eu/typefaces/rules-serif",
+      "snippet": " a refined, editorial spirit while maintaining the structural rigor and versatility of its grotesque roots. Reworked in 2024, Rules Serif introduces a sharp, elegant texture through its finely tapered serifs and crisp te"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://blazetype.eu/typefaces/rules-serif",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://blazetype.eu/typefaces/rules-serif",
+    "last_modified": null
+  }
+}

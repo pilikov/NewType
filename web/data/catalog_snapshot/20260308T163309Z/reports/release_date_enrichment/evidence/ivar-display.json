@@ -1,0 +1,41 @@
+{
+  "record_id": "ivar-display",
+  "source_url": "https://lettersfromsweden.se/font/ivar-display",
+  "checked_at": "2026-03-09T01:53:36.932734+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://lettersfromsweden.se/font/ivar-display/",
+      "snippet": "Ivar – a high contrast version we call Ivar Fine . See also Ivar Display Condensed , Ivar Nostalgi and Ivar Soft . Year 2017 Designed by Göran Söderström Script(s) latin Specimen Download Ivar Display PDF Ivar Display Ad"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://lettersfromsweden.se/font/ivar-display/",
+      "snippet": "nd Display —suggest how they should be applied, yet we encourage users to practice typography as they see fit. In March 2020 we added the fourth optical size to Ivar – a high contrast version we call Ivar Fine . See also"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://lettersfromsweden.se/font/ivar-display/",
+      "snippet": "Mon, 09 Mar 2026 01:53:37 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://lettersfromsweden.se/font/ivar-display",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://lettersfromsweden.se/font/ivar-display/",
+    "last_modified": "Mon, 09 Mar 2026 01:53:37 GMT"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "record_id": "zk-fialka-rounded",
+  "source_url": "https://zakznak.com/typefaces/zk-fialka-rounded/",
+  "checked_at": "2026-03-09T01:50:14.006562+00:00",
+  "candidates": [
+    {
+      "date": "2025-12-31",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://zakznak.com/typefaces/zk-fialka-rounded/",
+      "snippet": "2025-12-31T14:31:24+02:00"
+    },
+    {
+      "date": "2025-12-31",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://zakznak.com/typefaces/zk-fialka-rounded/",
+      "snippet": "2025-12-31T14:31:24+00:00"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://zakznak.com/typefaces/zk-fialka-rounded/",
+      "snippet": " about font releases Subscribe Term and Conditions End-User License Agreements Instagram zakznak2(at)gmail.com ©ZAKZNAK 2022-2025 TOP Typefaces ▼ zk Kamenyar zk Fialka Sans zk Fialka Rounded zk Trembita Cy Grotesk Nastup"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://zakznak.com/typefaces/zk-fialka-rounded/",
+      "snippet": "rn European Features: aalt case ccmp dnom frac liga lnum locl numr onum ordn sinf subs sups ss01 ss02 Year of release:  2025 Latest version:  1.0 (December 2025) BUY FORM Licence desktop 1 Users <3 Users <6 Users <10 Use"
+    },
+    {
+      "date": "2025-12-31",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://zakznak.com/typefaces/zk-fialka-rounded/",
+      "snippet": "2025-12-31T14:32:26+02:00"
+    },
+    {
+      "date": "2025-12-31",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://zakznak.com/typefaces/zk-fialka-rounded/",
+      "snippet": "2025-12-31T14:32:26+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://zakznak.com/typefaces/zk-fialka-rounded/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://zakznak.com/typefaces/zk-fialka-rounded/",
+    "last_modified": null
+  }
+}

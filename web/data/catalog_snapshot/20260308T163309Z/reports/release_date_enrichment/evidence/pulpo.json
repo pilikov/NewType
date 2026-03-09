@@ -1,0 +1,41 @@
+{
+  "record_id": "pulpo",
+  "source_url": "https://www.floodfonts.com/pulpo",
+  "checked_at": "2026-03-09T01:49:53.682725+00:00",
+  "candidates": [
+    {
+      "date": "2000-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.floodfonts.com/pulpo/",
+      "snippet": "s Gaga Design. He co-founded Glashaus Design, is art director at MWK Cologne and works as a freelance type designer. In 2000, he founded Floodfonts and designed numerous free typefaces. His commercial fonts were released"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.floodfonts.com/pulpo/",
+      "snippet": "endon (left) in comparison with Eidenbenzâs Stempel Clarendon (right) Manual sketches for the two masters of Pulpo In 2017 I decided to cut a full set of glyphs for a manual printrun later released as a digitized font "
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.floodfonts.com/pulpo/",
+      "snippet": "Mon, 06 May 2024 08:15:59 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.floodfonts.com/pulpo",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.floodfonts.com/pulpo/",
+    "last_modified": "Mon, 06 May 2024 08:15:59 GMT"
+  }
+}

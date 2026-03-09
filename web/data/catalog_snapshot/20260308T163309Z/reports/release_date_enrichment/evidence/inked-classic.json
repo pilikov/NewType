@@ -1,0 +1,19 @@
+{
+  "record_id": "inked-classic",
+  "source_url": "https://ladd-design.com/fonts/inked-classic",
+  "checked_at": "2026-03-09T02:03:33.628277+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ladd-design.com/fonts/inked-classic",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "404 Client Error: Not Found for url: https://ladd-design.com/fonts/inked-classic"
+  }
+}

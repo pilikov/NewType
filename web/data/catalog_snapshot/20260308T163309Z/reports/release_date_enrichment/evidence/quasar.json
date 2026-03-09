@@ -1,0 +1,41 @@
+{
+  "record_id": "quasar",
+  "source_url": "https://raoulgottschling.de/typefaces/quasar",
+  "checked_at": "2026-03-09T01:40:26.431716+00:00",
+  "candidates": [
+    {
+      "date": "2023-11-07",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://raoulgottschling.de/quasar/",
+      "snippet": "2023-11-07T15:01:35+00:00"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://raoulgottschling.de/quasar/",
+      "snippet": "2026-02-03T05:52:10+00:00"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://raoulgottschling.de/quasar/",
+      "snippet": "2026-02-03T05:52:10+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://raoulgottschling.de/typefaces/quasar",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://raoulgottschling.de/quasar/",
+    "last_modified": null
+  }
+}

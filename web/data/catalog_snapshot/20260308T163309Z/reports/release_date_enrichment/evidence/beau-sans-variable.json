@@ -1,0 +1,48 @@
+{
+  "record_id": "beau-sans-variable",
+  "source_url": "https://parachutefonts.com/typeface/Beau-Sans",
+  "checked_at": "2026-03-09T02:01:43.534372+00:00",
+  "candidates": [
+    {
+      "date": "2002-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/Beau-Sans",
+      "snippet": "ontemporary American sans serifs designed by Lucian Bernhard in the late 1920s. The first version was completed back in 2002 and introduced one year later in our 3rd catalog, under the name PF Traffic . Some time later i"
+    },
+    {
+      "date": "2006-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/Beau-Sans",
+      "snippet": "iable and has been enhanced with new features such as alternate forms for Latin as well as Cyrillic italics. Published: 2006/2021 Designer: Panos Vassiliou FORMAT Desktop instances (otf)\nDesktop variable (ttf)\nWeb instan"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/Beau-Sans",
+      "snippet": "text when you want to give a distinct and contemporary identity to a product or service. This new version , released in 2021, is now variable and has been enhanced with new features such as alternate forms for Latin as w"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/Beau-Sans",
+      "snippet": "abled styles are only available when you purchase the entire family. ADD STYLE Close Newsletter / Follow us      © 2026 Parachute® Typefoundry. All Rights Reserved COOKIES NOTICE This Site uses cookies, including th"
+    },
+    {
+      "date": "2026-02-10",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://parachutefonts.com/typeface/Beau-Sans",
+      "snippet": "2026-02-10"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://parachutefonts.com/typeface/Beau-Sans",
+    "last_modified": null
+  }
+}

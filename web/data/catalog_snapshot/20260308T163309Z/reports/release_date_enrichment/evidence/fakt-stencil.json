@@ -1,0 +1,55 @@
+{
+  "record_id": "fakt-stencil",
+  "source_url": "https://www.typeby.com/fonts/fakt-stencil",
+  "checked_at": "2026-03-09T01:37:49.385163+00:00",
+  "candidates": [
+    {
+      "date": "2008-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/fakt-stencil",
+      "snippet": "lab Stencil, and Fakt Mono. The first Fakt design, a highly functional sanserif, was designed by Thomas Thiemich during 2008-2009 and was commercially released in 2010. Fakt's design revisits archetypal sanserifs of earl"
+    },
+    {
+      "date": "2009-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/fakt-stencil",
+      "snippet": "tencil, and Fakt Mono. The first Fakt design, a highly functional sanserif, was designed by Thomas Thiemich during 2008-2009 and was commercially released in 2010. Fakt's design revisits archetypal sanserifs of earlier d"
+    },
+    {
+      "date": "2010-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/fakt-stencil",
+      "snippet": "design, a highly functional sanserif, was designed by Thomas Thiemich during 2008-2009 and was commercially released in 2010. Fakt's design revisits archetypal sanserifs of earlier decades: Neue Haas Grotesk / Helvetica "
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/fakt-stencil",
+      "snippet": "s Thiemich latest releases, and expands the Fakt powerhouse family with an additional stencil variant, published in May 2019 on the occasion of Type By launch. Just like with Fakt Slab Stencil, Thomas has brought a magic"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/fakt-stencil",
+      "snippet": "mo Remo Stencil Rosalinde Subtil Grotesk Edward Lirico Eva Meran Stan Standing Type Couteau Greco Klub Orly Copyright © 2026 Type By. All Rights Reserved. Information About Licenses Help Terms & conditions of sale Terms "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.typeby.com/fonts/fakt-stencil",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typeby.com/fonts/fakt-stencil",
+    "last_modified": null
+  }
+}

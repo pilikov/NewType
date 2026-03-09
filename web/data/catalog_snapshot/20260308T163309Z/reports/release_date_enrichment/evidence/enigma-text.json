@@ -1,0 +1,41 @@
+{
+  "record_id": "enigma-text",
+  "source_url": "https://typography.net/fonts/enigma-text",
+  "checked_at": "2026-03-09T01:38:10.096281+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-03",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typography.net/fonts/enigma-text",
+      "snippet": "2017-01-03T19:53:00+00:00"
+    },
+    {
+      "date": "2025-02-25",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typography.net/fonts/enigma-text",
+      "snippet": "2025-02-25T20:47:34+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typography.net/fonts/enigma-text",
+      "snippet": "ecimen Font Info Footnote 34 Footnote 24 Read the design notes at StudioType.com Cookie policy Privacy policy Sitemap © 2026 Jeremy Tankard Typography Ltd"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typography.net/fonts/enigma-text",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typography.net/fonts/enigma-text",
+    "last_modified": null
+  }
+}

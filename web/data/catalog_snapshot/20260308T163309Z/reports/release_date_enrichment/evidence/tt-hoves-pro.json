@@ -1,0 +1,90 @@
+{
+  "record_id": "tt-hoves-pro",
+  "source_url": "https://typetype.org/typefaces/tt-hoves-pro",
+  "checked_at": "2026-03-09T02:03:50.317778+00:00",
+  "candidates": [
+    {
+      "date": "2022-07-18",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typetype.org/fonts/tt-hoves-pro/",
+      "snippet": "2022-07-18T06:00:29+00:00"
+    },
+    {
+      "date": "2022-07-18",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://typetype.org/fonts/tt-hoves-pro/",
+      "snippet": "2022-07-18T06:00:29+00:00"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-hoves-pro/",
+      "snippet": "atives Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! Font Update: What’s New in the Latest Version Version"
+    },
+    {
+      "date": "2019-06-11",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-hoves-pro/",
+      "snippet": " features, including ligatures and stylistic alternates Support for over 270 languages Release and update date Release: June 11, 2019 Last update: August 26, 2025 What's changed in the font: The glyph count in each style"
+    },
+    {
+      "date": "2025-08-26",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-hoves-pro/",
+      "snippet": "s neutrality with character. It combines utility, style, and aesthetic refinement for diverse applications. Update from August 26, 2025 — What’s New? Single style: from $ 47.99 Full family: from $ 659 96 styles Buy font "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-hoves-pro/",
+      "snippet": "s Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! Font Update: What’s New in the Latest Version Version from"
+    },
+    {
+      "date": "2025-11-13",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typetype.org/fonts/tt-hoves-pro/",
+      "snippet": "2025-11-13T11:52:08+00:00"
+    },
+    {
+      "date": "2025-11-13",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://typetype.org/fonts/tt-hoves-pro/",
+      "snippet": "2025-11-13T11:52:08+00:00"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-hoves-pro/",
+      "snippet": "B2C clients in the Baltics: from payments facilitation and BNPL solutions to consumer loans. The company was founded in 2017 in Tallinn, Estonia and has since expanded to have offices in four other cities all over the Ba"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://typetype.org/fonts/tt-hoves-pro/",
+      "snippet": "Fri, 06 Mar 2026 21:08:27 GMT"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typetype.org/typefaces/tt-hoves-pro",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typetype.org/fonts/tt-hoves-pro/",
+    "last_modified": "Fri, 06 Mar 2026 21:08:27 GMT"
+  }
+}

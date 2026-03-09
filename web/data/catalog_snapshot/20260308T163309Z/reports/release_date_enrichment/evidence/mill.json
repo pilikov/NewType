@@ -1,0 +1,48 @@
+{
+  "record_id": "mill",
+  "source_url": "http://osp.kitchen/foundry/mill/",
+  "checked_at": "2026-03-09T01:57:48.644167+00:00",
+  "candidates": [
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/mill/",
+      "snippet": "-sfd mill.ttf application/font-sfnt Log Eric Schrijver babbled — START osp.foundry.mill for Elise Tuesday, 16th October 2012 - 16:22 Elise cried — base pour le paquet Tuesday, 16th October 2012 - 18:54 Elise complained —"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/mill/",
+      "snippet": "rijver discovered — The image called iceberg/{font_slug}_banner.png will show up as the banner Saturday, 14th September 2013 - 19:32 Eric Schrijver ironized — Generate a README.html from the OSP Foundry blog Sunday, 15th"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/mill/",
+      "snippet": "dry blog Sunday, 15th September 2013 - 00:25 Pierre Huyghebaert let out — Added a small description Friday, 2nd January 2015 - 21:32 Stéphanie Vilayphiou spilled the beans — structure UFR Friday, 5th October 2018 - 16:26"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/mill/",
+      "snippet": "description Friday, 2nd January 2015 - 21:32 Stéphanie Vilayphiou spilled the beans — structure UFR Friday, 5th October 2018 - 16:26 Stéphanie Vilayphiou said — webfonts Friday, 5th October 2018 - 16:26 These project vie"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://osp.kitchen/foundry/mill/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "http://osp.kitchen/foundry/mill/",
+    "last_modified": null
+  }
+}

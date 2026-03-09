@@ -1,0 +1,34 @@
+{
+  "record_id": "aveny-t",
+  "source_url": "https://a2-type.co.uk/aveny-t",
+  "checked_at": "2026-03-09T01:40:36.806420+00:00",
+  "candidates": [
+    {
+      "date": "2000-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/aveny-t",
+      "snippet": "ury. The font was designed principally as a poster typeface, in capital letters only, for the Danish theatre Aveny-T in 2000. This newly updated font family includes a full character set featuring lowercase letters, and "
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/aveny-t",
+      "snippet": " Sorbian, Vunjo, Walloon, Welsh, Western Frisian, Wolof, Xhosa, Zulu Manufacturer: A2-TYPE Designer: Henrik Kubel Year: 2015 Copyright: © A2-TYPE Trademark: Aveny-T is a trademark of A2-TYPE Licence: Terms and conditions"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://a2-type.co.uk/aveny-t",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://a2-type.co.uk/aveny-t",
+    "last_modified": null
+  }
+}

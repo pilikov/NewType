@@ -1,0 +1,69 @@
+{
+  "record_id": "nexa",
+  "source_url": "https://fontfabric.com/typefaces/nexa",
+  "checked_at": "2026-03-09T01:48:12.806147+00:00",
+  "candidates": [
+    {
+      "date": "2025-02-21",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.fontfabric.com/blog/nexa-round-shaping-friendly-geometry-with-passion/",
+      "snippet": "2025-02-21T14:31:23+00:00"
+    },
+    {
+      "date": "2025-06-09",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.fontfabric.com/blog/nexa-round-shaping-friendly-geometry-with-passion/",
+      "snippet": "2025-06-09T08:22:31+00:00"
+    },
+    {
+      "date": "2025-06-09",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.fontfabric.com/blog/nexa-round-shaping-friendly-geometry-with-passion/",
+      "snippet": "2025-06-09T08:22:31+00:00"
+    },
+    {
+      "date": "2025-02-21",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/blog/nexa-round-shaping-friendly-geometry-with-passion/",
+      "snippet": "Plamen Motev and overarching creative vision from our Founder and CEO, Svetoslav Simov, Nexa Round brings a softer, […] February 21, 2025 | Updated on June 9, 2025 | 9 min read Share Kudo At Fontfabric, we’re all about c"
+    },
+    {
+      "date": "2025-06-09",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/blog/nexa-round-shaping-friendly-geometry-with-passion/",
+      "snippet": "eative vision from our Founder and CEO, Svetoslav Simov, Nexa Round brings a softer, […] February 21, 2025 | Updated on June 9, 2025 | 9 min read Share Kudo At Fontfabric, we’re all about creating typefaces that blend fu"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/blog/nexa-round-shaping-friendly-geometry-with-passion/",
+      "snippet": "pt fonts Font sale Free fonts Fonts in use Font collections Legal Infringements About Help Blog Partnerships Contact us 2026 © Fontfabric llc. Privacy Notice Manage Cookies"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.fontfabric.com/blog/nexa-round-shaping-friendly-geometry-with-passion/",
+      "snippet": "Sun, 08 Mar 2026 16:29:36 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fontfabric.com/typefaces/nexa",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.fontfabric.com/blog/nexa-round-shaping-friendly-geometry-with-passion/",
+    "last_modified": "Sun, 08 Mar 2026 16:29:36 GMT"
+  }
+}

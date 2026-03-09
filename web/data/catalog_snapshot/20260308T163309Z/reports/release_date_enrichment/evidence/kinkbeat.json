@@ -1,0 +1,34 @@
+{
+  "record_id": "kinkbeat",
+  "source_url": "https://parachutefonts.com/typeface/kinkbeat",
+  "checked_at": "2026-03-09T01:47:31.481482+00:00",
+  "candidates": [
+    {
+      "date": "2002-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/kinkbeat",
+      "snippet": "y the 3-D shadow version for that extra pop attitude. This version is loaded with Latin, Greek and Cyrillic. Published: 2002 Designer: Charis Tsevis FORMAT Desktop (otf) Web (woff/woff2) Digital Ad (woff/woff2) ePub (otf"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/kinkbeat",
+      "snippet": "abled styles are only available when you purchase the entire family. ADD STYLE Close Newsletter / Follow us      © 2026 Parachute® Typefoundry. All Rights Reserved COOKIES NOTICE This Site uses cookies, including th"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://parachutefonts.com/typeface/kinkbeat",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://parachutefonts.com/typeface/kinkbeat",
+    "last_modified": null
+  }
+}

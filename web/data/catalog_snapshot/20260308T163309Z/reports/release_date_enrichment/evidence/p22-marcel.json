@@ -1,0 +1,41 @@
+{
+  "record_id": "p22-marcel",
+  "source_url": "https://p22.com/fonts/marcel/",
+  "checked_at": "2026-03-09T01:48:51.252269+00:00",
+  "candidates": [
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/marcel/",
+      "snippet": "llence; Communication Arts magazine; PRINT magazine; and AIGA-Minnesota. Marcel was also selected for the international 2015 Project Passion exhibition. The story of the design of the font is woven together with Carolyn’"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/marcel/",
+      "snippet": "ormation about Marcel in the book Marcel’s Letters: A Font and the Search for One Man’s Fate (Skyhorse Publishers, June 2017). Designed by Carolyn Porter Handwriting Ornament Serif Language Support Catalan Croatian Czech"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/marcel/",
+      "snippet": " Ľ Ŏ Ő Ś Ţ Ť Ÿ Ź Ż Ž Ș Stylistic Set 9 ac c lle me r rs t te Stylistic Set 10 nd rd st th Stylistic Set 11 RF cir lis © 2026 The Type Founders, LLC Fonts Designers About Privacy & Cookies Terms of Service Licensing Servi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://p22.com/fonts/marcel/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://p22.com/fonts/marcel/",
+    "last_modified": null
+  }
+}

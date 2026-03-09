@@ -1,0 +1,27 @@
+{
+  "record_id": "avalon",
+  "source_url": "https://liptonletterdesign.com/typefaces/avalon",
+  "checked_at": "2026-03-09T02:02:55.001770+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://liptonletterdesign.com/typefaces/avalon",
+      "snippet": ". Not seeing a license that fits your needs? Curious about custom options?\n      Send an email to [email protected] . © 2026 The Type Founders, LLC Site design by Elliot Jay Stocks Site development by Ian Callaghan Fonts"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://liptonletterdesign.com/typefaces/avalon",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://liptonletterdesign.com/typefaces/avalon",
+    "last_modified": null
+  }
+}

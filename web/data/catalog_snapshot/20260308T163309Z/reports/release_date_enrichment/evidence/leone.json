@@ -1,0 +1,27 @@
+{
+  "record_id": "leone",
+  "source_url": "https://www.suvatypefoundry.ee/leone/",
+  "checked_at": "2026-03-09T01:58:01.317950+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/leone/",
+      "snippet": "DRY PREVIOUS FONT LEONE NEXT FONT K V D Q S U Y J Z C I B W G F A H O X R DOWNLOAD N M T E L P LEONE  by Laura Martens (2019) Together with the planes above her head, Leone starts flying while standing strongly on the gr"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/leone/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/leone/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "macrosoma-grotesque",
+  "source_url": "https://blazetype.eu/typefaces/macrosoma-grotesque",
+  "checked_at": "2026-03-09T01:42:44.270008+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://blazetype.eu/typefaces/macrosoma-grotesque",
+      "snippet": " debut are Macrosoma Grotesque and Macrosoma Grotesque Stencil Designed by Valerio Monopoli, Fred Wiltshire Released in 2024 Export .OTF .WOFF .WOFF2 .TTF (Variable) Developed for Latin European Languages Afrikaans, Alba"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://blazetype.eu/typefaces/macrosoma-grotesque",
+      "snippet": "de scope of the project, Macrosoma has been divided into eight subfamilies, which will be gradually released throughout 2025. The first two to debut are Macrosoma Grotesque and Macrosoma Grotesque Stencil Designed by Val"
+    },
+    {
+      "date": "2025-03-24",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://blazetype.eu/typefaces/macrosoma-grotesque",
+      "snippet": "2025-03-24"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://blazetype.eu/typefaces/macrosoma-grotesque",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://blazetype.eu/typefaces/macrosoma-grotesque",
+    "last_modified": null
+  }
+}

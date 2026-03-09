@@ -1,0 +1,27 @@
+{
+  "record_id": "lelo-mono",
+  "source_url": "https://camelot-typefaces.com/lelo-mono",
+  "checked_at": "2026-03-09T01:41:03.125445+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://camelot-typefaces.com/lelo-mono",
+      "snippet": "Mon, 09 Mar 2026 01:41:03 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://camelot-typefaces.com/lelo-mono",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://camelot-typefaces.com/lelo-mono",
+    "last_modified": "Mon, 09 Mar 2026 01:41:03 GMT"
+  }
+}

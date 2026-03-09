@@ -1,0 +1,41 @@
+{
+  "record_id": "avara",
+  "source_url": "https://velvetyne.fr/fonts/avara/",
+  "checked_at": "2026-03-09T01:36:55.181359+00:00",
+  "candidates": [
+    {
+      "date": "2011-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://velvetyne.fr/fonts/avara/",
+      "snippet": "results in the radical and highly constrained shapes of this type family. It was started and first released in November 2011 by Raphaël Bastide ; it has been updated since then and finally published here. It might be upd"
+    },
+    {
+      "date": "2013-01-02",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://velvetyne.fr/fonts/avara/",
+      "snippet": "ing systems Latin License SIL Open Font License, Version 1.1 Date Initialy published on January 15, 2019 and updated on January 2, 2013 Ce contenu existe en Français Avara is a libre transitional serif curveless type fam"
+    },
+    {
+      "date": "2019-01-15",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://velvetyne.fr/fonts/avara/",
+      "snippet": "ist Brutalist Collaborative Writing systems Latin License SIL Open Font License, Version 1.1 Date Initialy published on January 15, 2019 and updated on January 2, 2013 Ce contenu existe en Français Avara is a libre trans"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://velvetyne.fr/fonts/avara/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://velvetyne.fr/fonts/avara/",
+    "last_modified": null
+  }
+}

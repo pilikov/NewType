@@ -1,0 +1,27 @@
+{
+  "record_id": "kalidoscopio-ht",
+  "source_url": "https://huertatipografica.com/en/fonts/kalidoscopio-ht",
+  "checked_at": "2026-03-09T01:47:26.741866+00:00",
+  "candidates": [
+    {
+      "date": "2008-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://huertatipografica.com/en/fonts/kalidoscopio-ht",
+      "snippet": "ht Weg Services Resources About us Get in touch Download Kalidoscopio ht Designed by Juan Pablo del Peral Release date: 2008 Kalidoscopio is a pseudo-geometric type family designed for the corporate identity of kalidosco"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://huertatipografica.com/en/fonts/kalidoscopio-ht",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://huertatipografica.com/en/fonts/kalidoscopio-ht",
+    "last_modified": null
+  }
+}

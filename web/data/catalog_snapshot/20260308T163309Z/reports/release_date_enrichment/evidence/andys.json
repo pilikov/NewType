@@ -1,0 +1,69 @@
+{
+  "record_id": "andys",
+  "source_url": "https://edito-type.com/andys",
+  "checked_at": "2026-03-09T01:49:23.930133+00:00",
+  "candidates": [
+    {
+      "date": "2025-07-20",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://edito-type.com/typefaces/andys/",
+      "snippet": "2025-07-20T12:45:49+02:00"
+    },
+    {
+      "date": "2025-07-20",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://edito-type.com/typefaces/andys/",
+      "snippet": "2025-07-20T12:45:49+02:00"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://edito-type.com/typefaces/andys/",
+      "snippet": "xuberance and digital precision. A tribute to the joy of form and color. TYPE INFORMATION Designer: EDITO (Alan Madić), 2024–2025 Release Year: 2025 Styles: 5 styles Formats: OTF, TTF, WOFF, WOFF2 OPENTYPE FEATURES Acces"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://edito-type.com/typefaces/andys/",
+      "snippet": "ance and digital precision. A tribute to the joy of form and color. TYPE INFORMATION Designer: EDITO (Alan Madić), 2024–2025 Release Year: 2025 Styles: 5 styles Formats: OTF, TTF, WOFF, WOFF2 OPENTYPE FEATURES Access All"
+    },
+    {
+      "date": "2026-03-06",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://edito-type.com/typefaces/andys/",
+      "snippet": "2026-03-06T18:51:14+01:00"
+    },
+    {
+      "date": "2026-03-06",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://edito-type.com/typefaces/andys/",
+      "snippet": "2026-03-06T18:51:14+01:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://edito-type.com/typefaces/andys/",
+      "snippet": "Select License: Desktop/Print ? Web ? Social Media ? App/Game ? Logo/Wordmark ? PRICES EXCL. VAT Checkout: 0.00 © Edito 2026 About Contact Licensing Terms Trials Instagram ANDYS RAINBOW ANDYS SOLID ANDYS OP ANDYS GRAPHIC"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://edito-type.com/andys",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://edito-type.com/typefaces/andys/",
+    "last_modified": null
+  }
+}

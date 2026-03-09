@@ -1,0 +1,41 @@
+{
+  "record_id": "felten",
+  "source_url": "https://www.centraltype.com/felten",
+  "checked_at": "2026-03-09T01:56:50.274666+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.centraltype.com/felten",
+      "snippet": "colored, dimensional designs. The Felten family is packed with a robust set of diacritics and special characters. YEAR: 2022 DESIGNER: Mark Butchko Styles: 2 Regular, 6 Shaded version: 1.0 LAYERING EXAMPLES SAMPLES Copyr"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.centraltype.com/felten",
+      "snippet": "cters. YEAR: 2022 DESIGNER: Mark Butchko Styles: 2 Regular, 6 Shaded version: 1.0 LAYERING EXAMPLES SAMPLES Copyright © 2023 Central Type. All rights reserved. Licensing Information"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.centraltype.com/felten",
+      "snippet": "Sat, 28 Feb 2026 01:35:25 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.centraltype.com/felten",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.centraltype.com/felten",
+    "last_modified": "Sat, 28 Feb 2026 01:35:25 GMT"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "bauhau",
+  "source_url": "https://typogama.com/fonts/bauhau",
+  "checked_at": "2026-03-09T02:02:13.246164+00:00",
+  "candidates": [
+    {
+      "date": "2008-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typogama.com/fonts/bauhau",
+      "snippet": "ar, Regular Italic, Bold, Bold Italic, Light, Light FORMATS OTF, WOFF2 Designed by Michael Parson , released in January 2008 LANGUAGE SUPPORT ISO Latin-1 Afrikaans , Albanian , Breton , Catalan , Danish , English , Faroe"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typogama.com/fonts/bauhau",
+      "snippet": "OGAMA c/o Parson Research\n6 Rue de Fribourg\n1201 Geneva, Switzerland info@typogama.com +41 (0)79 476 22 75 CONTACT US © 2014 - 2026 by Typogama/Parson Research Geneva, Switzerland. All rights reserved TYPOGAMA Subscribe "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typogama.com/fonts/bauhau",
+      "snippet": "/o Parson Research\n6 Rue de Fribourg\n1201 Geneva, Switzerland info@typogama.com +41 (0)79 476 22 75 CONTACT US © 2014 - 2026 by Typogama/Parson Research Geneva, Switzerland. All rights reserved TYPOGAMA Subscribe to our "
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typogama.com/fonts/bauhau",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typogama.com/fonts/bauhau",
+    "last_modified": null
+  }
+}

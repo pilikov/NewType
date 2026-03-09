@@ -1,0 +1,62 @@
+{
+  "record_id": "mediaan",
+  "source_url": "https://ecal-typefaces.ch/typefaces/mediaan",
+  "checked_at": "2026-03-09T01:51:30.460817+00:00",
+  "candidates": [
+    {
+      "date": "2018-03-24",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://ecal-typefaces.ch/typeface/mediaan/",
+      "snippet": "2018-03-24T07:24:09+00:00"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://ecal-typefaces.ch/typeface/mediaan/",
+      "snippet": "2026-02-03T14:32:00+00:00"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://ecal-typefaces.ch/typeface/mediaan/",
+      "snippet": "2026-02-03T14:32:00+00:00"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ecal-typefaces.ch/typeface/mediaan/",
+      "snippet": "ntains semi-historical alternates for letters like ‘a’, ‘G’ or the ‘ampersand’. Mediaan was designed by Dávid Molnár in 2019. close AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDÐĎĐEÉĚÊËĖÈĒĘFGĞĢĠHĦIĲÍÎÏİÌĪJKĶLĽĻŁMNŃŇŅŊÑOÓÔÖÒŐŌØÕŒPÞQRŘSŚŠŞȘTŤŢȚUÚÛÜÙ"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ecal-typefaces.ch/typeface/mediaan/",
+      "snippet": "to use in their school projects. Read more in our EULA if you're unsure which license you need. ©Students, ECAL\n        2026.\n        All rights reserved. This site uses cookies to provide you an optimal browsing experie"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://ecal-typefaces.ch/typeface/mediaan/",
+      "snippet": "Sun, 08 Mar 2026 18:47:17 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ecal-typefaces.ch/typefaces/mediaan",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ecal-typefaces.ch/typeface/mediaan/",
+    "last_modified": "Sun, 08 Mar 2026 18:47:17 GMT"
+  }
+}

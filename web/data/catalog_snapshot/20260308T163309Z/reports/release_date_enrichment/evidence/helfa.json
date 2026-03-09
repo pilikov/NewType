@@ -1,0 +1,20 @@
+{
+  "record_id": "helfa",
+  "source_url": "https://delvefonts.com/fonts/helfa",
+  "checked_at": "2026-03-09T02:03:19.475184+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://delvefonts.com/fonts/helfa",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://delvefonts.com/fonts/helfa/",
+    "last_modified": null
+  }
+}

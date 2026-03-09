@@ -1,0 +1,27 @@
+{
+  "record_id": "kalev-grotesk",
+  "source_url": "https://www.suvatypefoundry.ee/kalev-grotesk/",
+  "checked_at": "2026-03-09T01:57:33.789910+00:00",
+  "candidates": [
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/kalev-grotesk/",
+      "snippet": "ALEV GROTESK NEXT FONT B Z K X F U V E T Y S DOWNLOAD L R P C W O J A G M Q N I D H KALEV GROTESK (1.0) by Jaan Rõõmus (2015) A font where the letters are designed after the metal letters that were on top of the former K"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/kalev-grotesk/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/kalev-grotesk/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "cofo-robert",
+  "source_url": "https://contrastfoundry.com/typeface/cofo-robert",
+  "checked_at": "2026-03-09T01:45:06.647230+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://contrastfoundry.com/typeface/cofo-robert",
+      "snippet": "dom and making the possibilities of its usage limitless. Designer: Liza Rasskazova. Team: Anna Khorash Year of release: 2018 Version: 2.0 Styles: Light, Light Italic, Regular, Regular Italic, Book, Book Italic, Medium, M"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://contrastfoundry.com/typeface/cofo-robert",
+      "snippet": "ing them. Read more Legal Privacy policy Licensing Follow us Twitter Facebook Instagram Created by Madebymad & WR ©CoFo 2026 , All rights reserved You selected 0 items Go to cart → Total 0 items $ 0 Go to cart Aa"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://contrastfoundry.com/typeface/cofo-robert",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://contrastfoundry.com/typeface/cofo-robert",
+    "last_modified": null
+  }
+}

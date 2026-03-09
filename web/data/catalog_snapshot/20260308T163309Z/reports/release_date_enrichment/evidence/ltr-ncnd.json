@@ -1,0 +1,41 @@
+{
+  "record_id": "ltr-ncnd",
+  "source_url": "https://letterror.com/ncnd/",
+  "checked_at": "2026-03-09T01:42:35.713246+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://letterror.com/ncnd/",
+      "snippet": " LettError on PixelFed LettError on Mastodon LettError on Instagram We have a newsletter! All Rights Reserved, © 1989 - 2025"
+    },
+    {
+      "date": "1995-07-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://letterror.com/ncnd/",
+      "snippet": " Methode zum Interpolieren” Page-Online “the typewriter, the ultimate vernacular” Wired Magazine (on the first edition, July 1, 1995) LTR NCND ChatLTR Gallery FAQ Guide to Classic Versions LettError Type Serious Fun Sinc"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://letterror.com/ncnd/",
+      "snippet": "Sat, 28 Feb 2026 09:49:24 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://letterror.com/ncnd/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://letterror.com/ncnd/",
+    "last_modified": "Sat, 28 Feb 2026 09:49:24 GMT"
+  }
+}

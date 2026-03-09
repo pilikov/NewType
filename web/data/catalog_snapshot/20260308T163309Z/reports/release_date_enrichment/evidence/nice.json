@@ -1,0 +1,34 @@
+{
+  "record_id": "nice",
+  "source_url": "https://janfromm.de/typefaces/nice",
+  "checked_at": "2026-03-09T01:58:24.725255+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://janfromm.de/typefaces/nice/",
+      "snippet": "iendly in appearance, charming in expression and pleasant to use. Nice has won a Communication Arts Award of Excellence 2023 . Available for Desktop, Web, Apps, eBooks and Broadcasting. 857 glyphs per style 70 € / single"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://janfromm.de/typefaces/nice/",
+      "snippet": "aces Trial Fonts FAQ Licensing Terms and Contitions Privacy Policy Imprint Contact info(at)thisdomain(.)de Light Dark © 2026 Jan Fromm Only essential cookies are set on my website. During checkout, Stripe may also set co"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://janfromm.de/typefaces/nice",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://janfromm.de/typefaces/nice/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "record_id": "notcouriersans",
+  "source_url": "http://osp.kitchen/foundry/notcouriersans/",
+  "checked_at": "2026-03-09T01:41:22.299133+00:00",
+  "candidates": [
+    {
+      "date": "2008-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/notcouriersans/",
+      "snippet": "rSans is a re-interpretation of Nimbus Mono whose design began in Wroclaw at the occasion of the Libre Graphics Meeting 2008. For more detailed information explore the files included in the font package (FONTLOG.txt) or "
+    },
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/notcouriersans/",
+      "snippet": "-V2 application/octet-stream README.html text/html Log Alexandre Leray let loose — Initial commit Tuesday, 7th December 2010 - 01:09 Eric Schrijver said — \"Blog contents added as README and iceberg\" Saturday, 14th April "
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/notcouriersans/",
+      "snippet": "esday, 7th December 2010 - 01:09 Eric Schrijver said — \"Blog contents added as README and iceberg\" Saturday, 14th April 2012 - 12:14 Eric Schrijver admitted — The image called iceberg/{font_slug}_banner.png will show up "
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/notcouriersans/",
+      "snippet": "g will show up as the banner (Rename for the git based implementation of the OSP Foundry design) Sunday, 15th September 2013 - 00:07 Stéphanie Vilayphiou divulged — structure UFR Friday, 5th October 2018 - 16:28 Stéphani"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/notcouriersans/",
+      "snippet": "P Foundry design) Sunday, 15th September 2013 - 00:07 Stéphanie Vilayphiou divulged — structure UFR Friday, 5th October 2018 - 16:28 Stéphanie Vilayphiou let out — webfonts Friday, 5th October 2018 - 16:28 These project "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://osp.kitchen/foundry/notcouriersans/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "http://osp.kitchen/foundry/notcouriersans/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "paris",
+  "source_url": "https://jenwagner.co/products/paris",
+  "checked_at": "2026-03-09T01:46:58.053649+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://jenwagner.co/products/paris-font-duo-svg-with-extras/",
+      "snippet": "free demos before they're released!). Privacy Policy | Terms & Conditions | Shipping & Return Policy | © Jen Wagner Co. 2025 | Fonts used: JWType Sans | Shop development by Penguin Designing Resources typefaces Licensing"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://jenwagner.co/products/paris-font-duo-svg-with-extras/",
+      "snippet": "d Features Paris Pencil , an SVG script with the pencil texture built in. SVG fonts currently only work in Photoshop CC 2018 and Illustrator CC 2018, but you can use Paris Script as a solid version in any program. It als"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://jenwagner.co/products/paris",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://jenwagner.co/products/paris-font-duo-svg-with-extras/",
+    "last_modified": null
+  }
+}

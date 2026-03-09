@@ -1,0 +1,41 @@
+{
+  "record_id": "carrois-type-design--cewe",
+  "source_url": "https://www.carrois.com/typefaces/custom/CEWE/",
+  "checked_at": "2026-03-09T02:00:58.457606+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.carrois.com/typefaces/custom/CEWE/",
+      "snippet": "piekermann Output: 30 static fonts Alphabets: Latin Extended Credits Client: Cewe A Cooperation: Erik Spiekermann Year: 2019 - 2021 Creative Direction: Ralph du Carrois · Erik Spiekermann Design Executive: Ralph du Carro"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.carrois.com/typefaces/custom/CEWE/",
+      "snippet": "ann Output: 30 static fonts Alphabets: Latin Extended Credits Client: Cewe A Cooperation: Erik Spiekermann Year: 2019 - 2021 Creative Direction: Ralph du Carrois · Erik Spiekermann Design Executive: Ralph du Carrois · An"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.carrois.com/typefaces/custom/CEWE/",
+      "snippet": " Design & Technology Consulting & Licensing Logo Service Studio Contact Login LinkedIn EULA / AGB Impressum en de © CTD 2026 — Carrois Type Design is a label of bBox Type GmbH"
+    },
+    {
+      "date": "2026-02-22",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.carrois.com/typefaces/custom/CEWE/",
+      "snippet": "2026-02-22"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.carrois.com/typefaces/custom/CEWE/",
+    "last_modified": null
+  }
+}

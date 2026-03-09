@@ -1,0 +1,41 @@
+{
+  "record_id": "oroban",
+  "source_url": "https://blazetype.eu/typefaces/oroban",
+  "checked_at": "2026-03-09T01:50:25.431730+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://blazetype.eu/typefaces/oroban",
+      "snippet": "ng the ductus: linking the glyphs design to a historical hand-style writing. Designed by Matthieu Salvaggio Released in 2019 Styles Serif, Display, Text, Upright, Italic Export .OTF .WOFF .WOFF2 .TTF (Variable) Developed"
+    },
+    {
+      "date": "2024-11-11",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://blazetype.eu/typefaces/oroban",
+      "snippet": "2024-11-11"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://blazetype.eu/typefaces/oroban",
+      "snippet": " Bonto Mega Armag Arges Sichem Gueta Discotack Negatif Tangley Square Swirl Zoo Barabbas Dudler Taklobo Sapfir Darker © 2026 Blaze Type All rights reserved Cookie Consent We use cookies to provide you with the best possi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://blazetype.eu/typefaces/oroban",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://blazetype.eu/typefaces/oroban",
+    "last_modified": null
+  }
+}

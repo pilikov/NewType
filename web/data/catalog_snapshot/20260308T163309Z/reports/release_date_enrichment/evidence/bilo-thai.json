@@ -1,0 +1,41 @@
+{
+  "record_id": "bilo-thai",
+  "source_url": "https://boldmonday.com/typeface/bilo-thai/",
+  "checked_at": "2026-03-09T01:43:03.497491+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/bilo-thai/",
+      "snippet": "ent discounts Privacy policy Return policy Disclaimer Subscribe to News & Updates Twitter | Facebook | Mail Copyright © 2026 Bold Monday – all rights reserved Made by Unwind"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/bilo-thai/",
+      "snippet": "udes 18 different dog-related icons designed by Dirk Uhlenbrock. Designers Pieter van Rosmalen Promphan ‘Boom’ Suksumek 2018–2024 Bilo Thai supports the following languages Afrikaans, Albanian, Asu, Basque, Bemba, Bena, "
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/bilo-thai/",
+      "snippet": "18 different dog-related icons designed by Dirk Uhlenbrock. Designers Pieter van Rosmalen Promphan ‘Boom’ Suksumek 2018–2024 Bilo Thai supports the following languages Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Breto"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://boldmonday.com/typeface/bilo-thai/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://boldmonday.com/typeface/bilo-thai/",
+    "last_modified": null
+  }
+}

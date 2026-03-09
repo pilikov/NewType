@@ -1,0 +1,48 @@
+{
+  "record_id": "alku-handwriting-model",
+  "source_url": "https://www.typolar.com/family/index.php?id=2",
+  "checked_at": "2026-03-09T01:51:26.653180+00:00",
+  "candidates": [
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typolar.com/family/index.php?id=2",
+      "snippet": "al Alku Bold Alku Guidelines Bold i 20 px i x 1.4 ≤ | ≥ x Longer-term influences on the rapid rise of Street Art around 2000 include the move of the now grown-up taggers and style writers (often active since the mid-1980"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typolar.com/family/index.php?id=2",
+      "snippet": "om mixing into each others when writing catches more speed. Designers Alku typefaces are designed by Jarno Lukkarila in 2015–2016. The method and letterforms are conceptualised with a group of children's writing experts,"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typolar.com/family/index.php?id=2",
+      "snippet": "art Alku Handwriting Model Alku Handwriting Model is a part of PISA renowned Finnish national education curricula since 2016. It helps digital native students to form sufficient handwriting skills during their first year"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typolar.com/family/index.php?id=2",
+      "snippet": "ng and you can cancel it any time. CONTACT US c +358 50 339 1487 a info(at)typolar.com b Facebook b Twitter b Bēhance ©2025 Typolar Ltd. All Rights Reserved. Typolar holds rights to all material at this website unless s"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.typolar.com/family/index.php?id=2",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typolar.com/family/index.php?id=2",
+    "last_modified": null
+  }
+}

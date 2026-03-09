@@ -1,0 +1,27 @@
+{
+  "record_id": "p22-woodcut",
+  "source_url": "https://p22.com/fonts/woodcut/",
+  "checked_at": "2026-03-09T01:37:20.182285+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/woodcut/",
+      "snippet": " m n o p q r s t u v w x y z Decimal Number 0 1 2 3 4 5 6 7 8 9 Dash Punctuation - Open Punctuation { Math Symbol = | © 2026 The Type Founders, LLC Fonts Designers About Privacy & Cookies Terms of Service Licensing Servi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://p22.com/fonts/woodcut/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://p22.com/fonts/woodcut/",
+    "last_modified": null
+  }
+}

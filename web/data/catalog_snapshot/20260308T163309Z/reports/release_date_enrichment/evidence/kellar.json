@@ -1,0 +1,34 @@
+{
+  "record_id": "kellar",
+  "source_url": "https://www.apextypefoundry.com/categorie-produit/kellar/",
+  "checked_at": "2026-03-09T01:47:29.164758+00:00",
+  "candidates": [
+    {
+      "date": "2014-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.apextypefoundry.com/categorie-produit/kellar/",
+      "snippet": "rt Kellar 3 Headline Condensed Italic Small 80 € Add to cart Kellar 3 Headline Condensed Italic Solo 60 € Add to cart © 2014-2024 – Apex Type Foundry Instagram Newsletter Login × product(s) added to cart → × Login Sign U"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.apextypefoundry.com/categorie-produit/kellar/",
+      "snippet": "llar 3 Headline Condensed Italic Small 80 € Add to cart Kellar 3 Headline Condensed Italic Solo 60 € Add to cart © 2014-2024 – Apex Type Foundry Instagram Newsletter Login × product(s) added to cart → × Login Sign Up Rem"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.apextypefoundry.com/categorie-produit/kellar/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.apextypefoundry.com/categorie-produit/kellar/",
+    "last_modified": null
+  }
+}

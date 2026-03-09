@@ -1,0 +1,27 @@
+{
+  "record_id": "strukelj",
+  "source_url": "https://fandofonts.com/typefaces/strukelj",
+  "checked_at": "2026-03-09T01:54:58.826378+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fandofonts.com/shop/strukelj-2/",
+      "snippet": "eface Monteys’s typography Fumetto typeface Strukelj typeface Shop Portfolio Author Contact My account License info 0 © 2018  Fernando Fuentes More fonts and works soon Home / Shop / typo / Strukelj Strukelj The Strukelj"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fandofonts.com/typefaces/strukelj",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fandofonts.com/shop/strukelj-2/",
+    "last_modified": null
+  }
+}

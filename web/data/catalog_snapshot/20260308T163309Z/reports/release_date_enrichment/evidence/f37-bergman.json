@@ -1,0 +1,48 @@
+{
+  "record_id": "f37-bergman",
+  "source_url": "https://www.f37foundry.com/fonts/f37-bergman",
+  "checked_at": "2026-03-09T01:39:26.442859+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-12",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.f37foundry.com/fonts/f37-bergman",
+      "snippet": "2026-01-12T11:27:16Z"
+    },
+    {
+      "date": "2007-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.f37foundry.com/fonts/f37-bergman",
+      "snippet": "ERRIES, THROUGH A GLASS DARKLY Text ExtraBold Narrow 120 pt Buy from £ 45 Ernst Ingmar Bergman | 1918 Uppsala, Sweden — 2007 Fårö, Sweden Popular Pairings with F37 Bergman ® Buy F37 Bergman & F37 Blanka F37 Bergman F37 B"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.f37foundry.com/fonts/f37-bergman",
+      "snippet": "pler Text Thin 72 pt Buy from £ 45 Designed by Hans Möhring in 1931. Used by Ingmar Bergman in 1957. Revived by F37® in 2018. Alphabet Light 150 pt Buy from £ 45 AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz Text "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.f37foundry.com/fonts/f37-bergman",
+      "snippet": "mation Trial Fonts Goods Fonts In Use About Information Support FAQ’s Licences Copyright Cookie Policy Privacy Policy © 2026 F37 Foundry Limited. All Rights Reserved"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.f37foundry.com/fonts/f37-bergman",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.f37foundry.com/fonts/f37-bergman",
+    "last_modified": null
+  }
+}

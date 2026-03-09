@@ -1,0 +1,48 @@
+{
+  "record_id": "cadet",
+  "source_url": "https://www.centraltype.com/cadet",
+  "checked_at": "2026-03-09T01:57:40.146799+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.centraltype.com/cadet",
+      "snippet": "c weights and 1 variable weight. Cadet now features improved spacing and a larger number of alternate characters. YEAR: 2017 DESIGNER: Mark Butchko Styles: 9 Static, 1 Variable version: 5.0 SAMPLES Copyright © 2023 Centr"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.centraltype.com/cadet",
+      "snippet": "f alternate characters. YEAR: 2017 DESIGNER: Mark Butchko Styles: 9 Static, 1 Variable version: 5.0 SAMPLES Copyright © 2023 Central Type. All rights reserved. Licensing Information"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.centraltype.com/cadet",
+      "snippet": "tic alternates to certain letters. These can be accessed through the \"OpenType\" menu and most Adobe design programs. In 2024, the Cadet family was refined and expanded to 9 static weights and 1 variable weight. Cadet now"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.centraltype.com/cadet",
+      "snippet": "Tue, 03 Mar 2026 07:45:05 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.centraltype.com/cadet",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.centraltype.com/cadet",
+    "last_modified": "Tue, 03 Mar 2026 07:45:05 GMT"
+  }
+}

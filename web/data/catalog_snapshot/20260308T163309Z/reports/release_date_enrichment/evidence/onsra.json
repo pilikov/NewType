@@ -1,0 +1,48 @@
+{
+  "record_id": "onsra",
+  "source_url": "https://typeoffeeling.com/typefaces/onsra",
+  "checked_at": "2026-03-09T02:00:11.115891+00:00",
+  "candidates": [
+    {
+      "date": "2023-09-07",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typeoffeeling.com/products/onsra/",
+      "snippet": "2023-09-07T08:54:37+00:00"
+    },
+    {
+      "date": "2024-09-09",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typeoffeeling.com/products/onsra/",
+      "snippet": "2024-09-09T22:32:34+00:00"
+    },
+    {
+      "date": "2024-09-09",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://typeoffeeling.com/products/onsra/",
+      "snippet": "2024-09-09T22:32:34+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typeoffeeling.com/products/onsra/",
+      "snippet": "ices that are inspired by a range of feelings. Email Instagram FAQs EULA & Licenses Privacy Policy © Type of Feeling \t\t\t2026 Do you really want to remove? Yes Yes No No Product added to cart View cart View cart Close Clo"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typeoffeeling.com/typefaces/onsra",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typeoffeeling.com/products/onsra/",
+    "last_modified": null
+  }
+}

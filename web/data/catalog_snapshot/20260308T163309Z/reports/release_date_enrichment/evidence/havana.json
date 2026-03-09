@@ -1,0 +1,19 @@
+{
+  "record_id": "havana",
+  "source_url": "https://kroje.org/en/fonts/havana/",
+  "checked_at": "2026-03-09T02:01:40.602046+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-13",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://kroje.org/en/fonts/havana/",
+      "snippet": "2026-02-13"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='kroje.org', port=443): Read timed out. (read timeout=12)"
+  }
+}

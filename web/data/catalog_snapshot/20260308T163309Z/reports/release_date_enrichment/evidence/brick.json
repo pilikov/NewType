@@ -1,0 +1,19 @@
+{
+  "record_id": "brick",
+  "source_url": "https://www.fuertetype.com/brick",
+  "checked_at": "2026-03-09T01:52:48.182440+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.fuertetype.com/brick",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "404 Client Error: Not Found for url: https://www.fuertetype.com/brick"
+  }
+}

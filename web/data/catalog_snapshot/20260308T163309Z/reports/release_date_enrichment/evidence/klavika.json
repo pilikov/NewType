@@ -1,0 +1,34 @@
+{
+  "record_id": "klavika",
+  "source_url": "https://processtypefoundry.com/fonts/klavika",
+  "checked_at": "2026-03-09T01:57:52.165401+00:00",
+  "candidates": [
+    {
+      "date": "2004-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://processtypefoundry.com/fonts/klavika/",
+      "snippet": " style & tabular numerals, arrows (roman only), and stylistic alternates (g, &). Details Designer: Eric Olson Released: 2004 Fonts: 4 weights              , 8 styles Formats: OpenType, WOFF2, WOFF, EOT Related: Klavika C"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://processtypefoundry.com/fonts/klavika/",
+      "snippet": "cent Grotesk Recipient Scandia Scandia Line Sculpin Seravek Stratum 1 & 2 Stratum 1 & 2 Condensed Join our email list © 2026 Process Type Foundry, LLC. All rights reserved. Privacy & Cookie Policies Licenses Desktop Webf"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://processtypefoundry.com/fonts/klavika",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://processtypefoundry.com/fonts/klavika/",
+    "last_modified": null
+  }
+}

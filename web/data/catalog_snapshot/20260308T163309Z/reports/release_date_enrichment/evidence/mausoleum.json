@@ -1,0 +1,48 @@
+{
+  "record_id": "mausoleum",
+  "source_url": "https://undercase.xyz/fonts/mausoleum",
+  "checked_at": "2026-03-09T01:52:49.502623+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://undercase.xyz/fonts/mausoleum",
+      "snippet": "dditional weights, the current iteration of this style Mausoleum was born. Designed by: Phaedra Charles Released: March 2022 Version: 1.0 Weights: Thin, Extra Light, Light, Regular, Medium, Semibold, Bold, Extra Bold, Bl"
+    },
+    {
+      "date": "2022-05-27",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://undercase.xyz/fonts/mausoleum",
+      "snippet": "2022-05-27"
+    },
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://undercase.xyz/fonts/mausoleum",
+      "snippet": "p to 50 Workstations Up to 100 Workstations Up to 200 Workstations Up to 500 Workstations Up to 1000 Workstations Up to 2000 Workstations Web No Web license Up to 15k unique visitors/month Up to 100k unique visitors/mont"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://undercase.xyz/fonts/mausoleum",
+      "snippet": "fur farið frá þeim svæðum sem ég er að sækja fram í, gefur mér forsmekkinn af þessum ísköldu svæðum. About Mausoleum In 2013, I was visiting Boston and was walking through the library at Boston College, when I saw a plaq"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://undercase.xyz/fonts/mausoleum",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://undercase.xyz/fonts/mausoleum",
+    "last_modified": null
+  }
+}

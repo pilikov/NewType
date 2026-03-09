@@ -1,0 +1,27 @@
+{
+  "record_id": "nan-success-sans",
+  "source_url": "https://www.nan.xyz/typefaces/nan-success-sans",
+  "checked_at": "2026-03-09T01:57:34.461774+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.nan.xyz/font-file/nan-success-sans/",
+      "snippet": "e Outernet Virgin Money Walkie Talkie Warhammer Wise Instagram Bluesky Mastodon Twitter Github Email Studio live feed © 2026 NaN All Rights Reserved |\\| △ |\\| undefined type undefined Close “Usability is a quality attrib"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.nan.xyz/typefaces/nan-success-sans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.nan.xyz/font-file/nan-success-sans/",
+    "last_modified": null
+  }
+}

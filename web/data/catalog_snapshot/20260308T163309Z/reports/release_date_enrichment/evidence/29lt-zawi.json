@@ -1,0 +1,34 @@
+{
+  "record_id": "29lt-zawi",
+  "source_url": "https://29lt.com/font-family/29lt-zawi",
+  "checked_at": "2026-03-09T01:36:57.925611+00:00",
+  "candidates": [
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.29lt.com/font-family/29lt-zawi/",
+      "snippet": "og.29LT.com Contact Us info [at] 29lt [dot] com Social Media Instagram YouTube Facebook X 29Letters Type Foundry S.L. © 2012 – 2026 / All rights\r\n\t\t\t\t\treserved. Partner at Fontstand Available at Type Network"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.29lt.com/font-family/29lt-zawi/",
+      "snippet": ".com Contact Us info [at] 29lt [dot] com Social Media Instagram YouTube Facebook X 29Letters Type Foundry S.L. © 2012 – 2026 / All rights\r\n\t\t\t\t\treserved. Partner at Fontstand Available at Type Network"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://29lt.com/font-family/29lt-zawi",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.29lt.com/font-family/29lt-zawi/",
+    "last_modified": null
+  }
+}

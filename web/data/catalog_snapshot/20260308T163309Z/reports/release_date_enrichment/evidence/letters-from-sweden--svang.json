@@ -1,0 +1,34 @@
+{
+  "record_id": "letters-from-sweden--svang",
+  "source_url": "https://lettersfromsweden.se/font/svang",
+  "checked_at": "2026-03-09T01:54:29.259921+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://lettersfromsweden.se/font/svang/",
+      "snippet": " that is impossible to ignore. After remaining hidden for over forty years, Sväng can’t wait to come out and play. Year 2019 Designed by Claes Nordenstam Göran Söderström Script(s) latin Specimen Download Sväng PDF New! "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://lettersfromsweden.se/font/svang/",
+      "snippet": "Mon, 09 Mar 2026 01:54:30 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://lettersfromsweden.se/font/svang",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://lettersfromsweden.se/font/svang/",
+    "last_modified": "Mon, 09 Mar 2026 01:54:30 GMT"
+  }
+}

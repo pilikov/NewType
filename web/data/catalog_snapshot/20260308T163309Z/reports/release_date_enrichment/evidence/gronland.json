@@ -1,0 +1,48 @@
+{
+  "record_id": "gronland",
+  "source_url": "https://www.gunesmuhittin.com/typeface/gronland",
+  "checked_at": "2026-03-09T01:46:22.714225+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.gunesmuhittin.com/typeface/gronland",
+      "snippet": "alic Heavy Italic Italic Italic Black Italic Details Typeface Gronland Version 003 - Mar 2025 Cut 18 styles Release Mar 2021 Glyphs 761 Classification Sans Serif Design Muhittin GÃ¼neÅ Supported Languages Open Supported"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.gunesmuhittin.com/typeface/gronland",
+      "snippet": "ic Italic Bold Italic Italic Italic Heavy Italic Italic Italic Black Italic Details Typeface Gronland Version 003 - Mar 2025 Cut 18 styles Release Mar 2021 Glyphs 761 Classification Sans Serif Design Muhittin GÃ¼neÅ Sup"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.gunesmuhittin.com/typeface/gronland",
+      "snippet": " Rem Art Space IAMNOTBASIC Glyph Series Posters Socials Fonts In Use Instagram Behance Email Studio Muhittin GÃ¼neÅ Â© 2026 Typefaces Antra Bugrino Gronland Rupta Zermatt Free Trials Students Studio Privacy Policy Impri"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.gunesmuhittin.com/typeface/gronland",
+      "snippet": "Fri, 06 Mar 2026 03:42:25 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.gunesmuhittin.com/typeface/gronland",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.gunesmuhittin.com/typeface/gronland",
+    "last_modified": "Fri, 06 Mar 2026 03:42:25 GMT"
+  }
+}

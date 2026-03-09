@@ -1,0 +1,27 @@
+{
+  "record_id": "lost-type-co-op--fairview",
+  "source_url": "http://www.losttype.com/font/?name=fairview",
+  "checked_at": "2026-03-08T16:58:41.736556+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://www.losttype.com/font/?name=fairview",
+      "snippet": "onsectetur adipisicing elit sit amet, consectetur adipisicing elit. Questions? Send us a Message » Copyright Lost Type™ 2019 Brought to you by Riley Cran and Friends . Fonts > Fairview by Riley Cran Fonts Store Blog Cont"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://www.losttype.com/font/?name=fairview",
+      "snippet": "2026-03-05"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "http://www.losttype.com/font/?name=fairview",
+    "last_modified": null
+  }
+}

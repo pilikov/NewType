@@ -1,0 +1,19 @@
+{
+  "record_id": "theran",
+  "source_url": "https://www.outline-online.com/product/theran",
+  "checked_at": "2026-03-09T02:01:26.785624+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-15",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.outline-online.com/product/theran",
+      "snippet": "2026-02-15"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "403 Client Error: Forbidden for url: https://www.outline-online.com/product/theran"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "record_id": "loica-sans",
+  "source_url": "https://quintana-font.cl/typefaces/loica-sans",
+  "checked_at": "2026-03-09T01:51:59.388071+00:00",
+  "candidates": [
+    {
+      "date": "2025-04-09",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://quintana-font.cl/typefaces/loica-sans",
+      "snippet": "2025-04-09"
+    },
+    {
+      "date": "1996-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://quintana-font.cl/typefaces/loica-sans",
+      "snippet": "s 100px format_size format_line_spacing Jorge Octavio Teillier Sandoval (Lautaro, 24 juin 1935 — Viña del Mar, 22 avril 1996) est un poète chilien, créateur et fondateur de la poésie lárique. Auteur des poèmes : « Desped"
+    },
+    {
+      "date": "1998-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://quintana-font.cl/typefaces/loica-sans",
+      "snippet": "ernative a Alternative y Alternative & Case sensitive forms Font Variations 100px format_size format_line_spacing AKIRA,1998 Loica Sans VF Regular Italic Select a style Loica Sans VF Thin Loica Sans VF Thin Italic Loica "
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://quintana-font.cl/typefaces/loica-sans",
+      "snippet": "lternative y Alternative & Case sensitive forms Font Variations 100px format_size format_line_spacing David Lynch (1946-2025) Loica Sans VF Select a style Loica Sans VF Thin Loica Sans VF Thin Italic Loica Sans VF ExtraL"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://quintana-font.cl/typefaces/loica-sans",
+      "snippet": "D 29.00 Loica Sans Black U$D 29.00 Loica Sans Black Italic U$D 29.00 TOTAL U$D 0.00 Proceed to checkout Quintana-Font © 2026 Font Catalog Loica Sans Violeta RunRun Lira Sans Berenjena Simona Chupilca Vivaceta Modérnica L"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://quintana-font.cl/typefaces/loica-sans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://quintana-font.cl/typefaces/loica-sans",
+    "last_modified": null
+  }
+}

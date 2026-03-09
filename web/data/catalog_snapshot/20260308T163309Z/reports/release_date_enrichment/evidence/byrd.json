@@ -1,0 +1,34 @@
+{
+  "record_id": "byrd",
+  "source_url": "https://goodtypefoundry.com/typefaces/byrd",
+  "checked_at": "2026-03-09T01:53:09.649277+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://goodtypefoundry.com/byrd/",
+      "snippet": "s chunky, happy and a bit retro—especially the heavier weights. 7 weights / 14 styles European Language Support Release 2020 Buy Byrd Is it an African swallow? Fonts Fonts Fonts SPAM SPAM SPAM Uppercase (26 glyphs) A B C"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://goodtypefoundry.com/byrd/",
+      "snippet": "Career (0) Trial Fonts Good Type Foundry AS, Rettedalsbakkane 9, 4110 Forsand, Norway © Copyright – all rights reserved 2025 Typeface in use: GTF Good Sans"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://goodtypefoundry.com/typefaces/byrd",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://goodtypefoundry.com/byrd/",
+    "last_modified": null
+  }
+}
