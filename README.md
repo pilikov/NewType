@@ -93,3 +93,45 @@ python3 -m src.main --history-weeks 10
   - `typenetwork_public_families` (через `api/1/public/families`, поле `released`)
 - `release_id` стабилен по `source_id + source_url` (или имени, если URL нет), чтобы обновления даты/метаданных не считались новым релизом.
 - `woff`/`specimen_pdf` скачиваются только если в источнике реально присутствует прямая ссылка.
+- Для `myfonts_api` письменности дополнительно обогащаются из страницы коллекции и вкладки `?tab=techSpecs` (регулируется `enable_tech_specs_script_enrichment` и `max_tech_specs_checks` в `crawl` конфиге источника).
+- Для `myfonts_api` успешный runtime-профиль параметров (без `429`) сохраняется в `state/myfonts_success_profile.json` и может автоматически переиспользоваться (`reuse_last_success_profile`).
+- Для `type_today` используется `type_today_api` режим: полный обход `api/v1/fonts` + детализация по каждому slug, инкрементальная запись и сохранение полного `raw` по каждому релизу.
+- Для `type_today` после API-краула автоматически запускается инкрементальный journal-энрич дат релизов:
+  - проходит по постам `Новый шрифт:` в `journal_url`,
+  - связывает посты со шрифтами по ссылкам в теле поста,
+  - проставляет `release_date` для найденных slug,
+  - не удаляет и не ломает остальные поля релиза.
+- Инкрементальный state journal-энрича хранится в `state/type_today_journal_release_dates.json`.
+- После каждого прогона `type_today` автоматически строятся ops-отчёты в `data/type_today/<date>/reports/`:
+  - `type_today_raw_releases.json`
+  - `type_today_missing_fields.json`
+  - `type_today_normalization_plan.json`
+  - `type_today_monitor_report.json`
+  - snapshot для мониторинга хранится в `state/type_today_monitor_snapshot.json`
+
+## Документация
+- Архитектура: `docs/ARCHITECTURE.md`
+- Запуск: `docs/RUNNING.md`
+- Добавление источника: `docs/ADDING_NEW_SOURCE.md`
+- Логика TypeNetwork-краулера: `docs/TYPENETWORK_CRAWLER.md`
+- Storage слой: `docs/STORAGE.md`
+- План миграции JSON -> Postgres/Neon: `docs/MIGRATION_JSON_TO_POSTGRES.md`
+- Миграционный журнал этапов: `docs/CHANGELOG_MIGRATION.md`
+- Baseline проверки: `docs/BASELINE_CHECKS.md`
+- Source-of-truth и mirror drift: `docs/SOURCE_OF_TRUTH.md`
+
+## Make targets
+- `make smoke`
+- `make run`
+- `make web`
+- `make mirror-check`
+- `make mirror-check-strict`
+
+## Type.today Ops View
+- Веб-страница для проверки raw/monitor данных: `/internal/type-today`
+- Локально:
+```bash
+cd web
+npm run dev
+```
+Открыть: `http://localhost:3000/internal/type-today`

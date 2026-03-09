@@ -4,11 +4,13 @@ from collections.abc import Callable
 from typing import Any
 
 from src.crawlers.base import Crawler
+from src.crawlers.contemporarytype_products import ContemporaryTypeProductsCrawler
 from src.crawlers.futurefonts_activity import FutureFontsActivityCrawler
 from src.crawlers.futurefonts_sitemap import FutureFontsSitemapCrawler
 from src.crawlers.html_list import HtmlListCrawler
 from src.crawlers.myfonts_api import MyFontsApiCrawler
 from src.crawlers.myfonts_whats_new import MyFontsWhatsNewCrawler
+from src.crawlers.type_today_api import TypeTodayApiCrawler
 from src.crawlers.type_today_journal import TypeTodayJournalCrawler
 from src.crawlers.type_today_next import TypeTodayNextCrawler
 from src.crawlers.typenetwork_public_families import TypeNetworkPublicFamiliesCrawler
@@ -38,9 +40,11 @@ def build_default_crawler_registry() -> CrawlerRegistry:
     registry.register("html_list", HtmlListCrawler)
     registry.register("myfonts_api", MyFontsApiCrawler)
     registry.register("myfonts_whats_new", MyFontsWhatsNewCrawler)
+    registry.register("type_today_api", TypeTodayApiCrawler)
     registry.register("type_today_next", TypeTodayNextCrawler)
     registry.register("type_today_journal", TypeTodayJournalCrawler)
     registry.register("futurefonts_sitemap", FutureFontsSitemapCrawler)
     registry.register("futurefonts_activity", FutureFontsActivityCrawler)
     registry.register("typenetwork_public_families", TypeNetworkPublicFamiliesCrawler)
+    registry.register("contemporarytype_products", ContemporaryTypeProductsCrawler)
     return registry

@@ -1,7 +1,5 @@
 from __future__ import annotations
 
-import json
-from datetime import date, datetime
 import re
 from dataclasses import dataclass
 from typing import Any
@@ -10,6 +8,9 @@ from urllib.parse import urljoin, urlparse
 import requests
 from bs4 import BeautifulSoup
 
+from src.crawlers.shared.dates import parse_ymd
+from src.crawlers.shared.next_data import extract_next_initial_state
+from src.crawlers.shared.text import normalize_spaces, unique_strings
 from src.models import FontRelease
 
 
@@ -29,12 +30,12 @@ class TypeTodayJournalCrawler:
 
         journal_url = urljoin(base_url, crawl_cfg.get("journal_url", "/ru/journal"))
         new_prefix = (crawl_cfg.get("new_post_prefix", "Новый шрифт:") or "").strip().lower()
-        start_date = _parse_ymd(crawl_cfg.get("start_date"))
-        end_date = _parse_ymd(crawl_cfg.get("end_date"))
+        start_date = parse_ymd(crawl_cfg.get("start_date"))
+        end_date = parse_ymd(crawl_cfg.get("end_date"))
 
         html = session.get(journal_url, timeout=timeout)
         html.raise_for_status()
-        state = _extract_initial_state(html.text)
+        state = extract_next_initial_state(html.text)
 
         posts_state = state.get("posts", {})
         post_models = posts_state.get("models", {})
@@ -48,12 +49,12 @@ class TypeTodayJournalCrawler:
             attrs = post.get("attributes") or {}
 
             title = (attrs.get("title") or "").strip()
-            title_norm = _normalize_spaces(title).lower()
+            title_norm = normalize_spaces(title).lower()
             if not title_norm.startswith(new_prefix):
                 continue
 
             post_date = (attrs.get("date") or "").strip() or None
-            post_day = _parse_ymd(post_date)
+            post_day = parse_ymd(post_date)
             if start_date and post_day and post_day < start_date:
                 continue
             if end_date and post_day and post_day > end_date:
@@ -115,7 +116,7 @@ class TypeTodayJournalCrawler:
         except requests.RequestException:
             return None
 
-        state = _extract_initial_state(r.text)
+        state = extract_next_initial_state(r.text)
         post_models = state.get("posts", {}).get("models", {})
         if not post_models:
             return None
@@ -134,7 +135,7 @@ class TypeTodayJournalCrawler:
         except requests.RequestException:
             return None
 
-        state = _extract_initial_state(r.text)
+        state = extract_next_initial_state(r.text)
         fonts = state.get("fonts", {}).get("models", {})
         authors_map = state.get("authors", {}).get("models", {})
         soup = BeautifulSoup(r.text, "html.parser")
@@ -148,7 +149,7 @@ class TypeTodayJournalCrawler:
         name = (attrs.get("title") or slug.replace("_", " ").replace("-", " ").title()).strip()
         styles = _extract_styles(model)
         authors = _extract_authors(model, attrs, authors_map)
-        authors = _unique(authors + _extract_authors_from_header_html(soup))
+        authors = unique_strings(authors + _extract_authors_from_header_html(soup))
         scripts = _extract_scripts(attrs)
 
         image_url = None
@@ -173,20 +174,6 @@ class TypeTodayJournalCrawler:
             "specimen_pdf_url": specimen_pdf_url,
             "woff_url": woff_url,
         }
-
-
-def _extract_initial_state(html: str) -> dict[str, Any]:
-    match = re.search(
-        r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>',
-        html,
-        re.DOTALL,
-    )
-    if not match:
-        return {}
-
-    payload = json.loads(match.group(1))
-    return payload.get("props", {}).get("initialState", {})
-
 
 def _extract_typeface_slug_from_url(font_url: str) -> str:
     parsed = urlparse(font_url)
@@ -224,7 +211,7 @@ def _extract_font_links_from_html(html: str) -> list[str]:
             continue
         out.append(link.rstrip("/"))
 
-    return _unique(out)
+    return unique_strings(out)
 
 
 def _extract_styles(model: dict[str, Any]) -> list[str]:
@@ -234,7 +221,7 @@ def _extract_styles(model: dict[str, Any]) -> list[str]:
         title = (attrs.get("title") or "").strip()
         if title:
             styles.append(title)
-    return _unique(styles)
+    return unique_strings(styles)
 
 
 def _extract_authors(
@@ -256,14 +243,14 @@ def _extract_authors(
 
     inline = (attrs.get("inline_authors") or "").strip()
     if inline:
-        inline_clean = _normalize_spaces(inline)
+        inline_clean = normalize_spaces(inline)
         parts = re.split(r"\band\b|,|&", inline_clean)
         for part in parts:
             candidate = part.strip(" .")
             if candidate and len(candidate.split()) <= 5:
                 result.append(candidate)
 
-    return _unique(result)
+    return unique_strings(result)
 
 
 def _extract_authors_from_header_html(soup: BeautifulSoup) -> list[str]:
@@ -271,13 +258,13 @@ def _extract_authors_from_header_html(soup: BeautifulSoup) -> list[str]:
     if not container:
         return []
 
-    text = _normalize_spaces(container.get_text(" ", strip=True))
+    text = normalize_spaces(container.get_text(" ", strip=True))
     if not text:
         return []
 
     parts = re.split(r",|\\band\\b|\\bи\\b|&", text, flags=re.IGNORECASE)
     authors = [part.strip(" .") for part in parts if part.strip()]
-    return _unique(authors)
+    return unique_strings(authors)
 
 
 def _extract_scripts(attrs: dict[str, Any]) -> list[str]:
@@ -313,7 +300,7 @@ def _extract_scripts(attrs: dict[str, Any]) -> list[str]:
         scripts.append("Arabic")
     if "hebrew" in value:
         scripts.append("Hebrew")
-    return _unique(scripts)
+    return unique_strings(scripts)
 
 
 def _extract_woff(model: dict[str, Any]) -> str | None:
@@ -326,31 +313,3 @@ def _extract_woff(model: dict[str, Any]) -> str | None:
             if isinstance(maybe, str) and maybe.lower().endswith((".woff", ".woff2")):
                 return maybe
     return None
-
-
-def _normalize_spaces(value: str) -> str:
-    return re.sub(r"\s+", " ", value).strip()
-
-
-def _unique(values: list[str]) -> list[str]:
-    seen: set[str] = set()
-    out: list[str] = []
-    for value in values:
-        normalized = value.strip()
-        if not normalized:
-            continue
-        key = normalized.lower()
-        if key in seen:
-            continue
-        seen.add(key)
-        out.append(normalized)
-    return out
-
-
-def _parse_ymd(value: str | None) -> date | None:
-    if not value:
-        return None
-    try:
-        return datetime.strptime(value, "%Y-%m-%d").date()
-    except ValueError:
-        return None

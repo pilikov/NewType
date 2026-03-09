@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import json
 import re
 from dataclasses import dataclass
 from typing import Any
@@ -8,6 +7,8 @@ from urllib.parse import urljoin
 
 import requests
 
+from src.crawlers.shared.next_data import extract_next_initial_state
+from src.crawlers.shared.text import unique_strings
 from src.models import FontRelease
 
 
@@ -73,16 +74,7 @@ class TypeTodayNextCrawler:
         return releases
 
     def _extract_initial_state(self, html: str) -> dict[str, Any]:
-        match = re.search(
-            r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>',
-            html,
-            re.DOTALL,
-        )
-        if not match:
-            return {}
-
-        payload = json.loads(match.group(1))
-        return payload.get("props", {}).get("initialState", {})
+        return extract_next_initial_state(html)
 
     def _extract_styles(self, model: dict[str, Any]) -> list[str]:
         styles: list[str] = []
@@ -91,7 +83,7 @@ class TypeTodayNextCrawler:
             title = (attrs.get("title") or "").strip()
             if title:
                 styles.append(title)
-        return _unique(styles)
+        return unique_strings(styles)
 
     def _extract_authors(
         self,
@@ -116,7 +108,7 @@ class TypeTodayNextCrawler:
             inline_clean = re.sub(r"\s+", " ", inline)
             result.extend(self._split_author_phrase(inline_clean))
 
-        return _unique(result)
+        return unique_strings(result)
 
     def _split_author_phrase(self, text: str) -> list[str]:
         # Heuristic fallback for plain-text author strings like
@@ -138,7 +130,7 @@ class TypeTodayNextCrawler:
             scripts.append("Arabic")
         if "hebrew" in value:
             scripts.append("Hebrew")
-        return _unique(scripts)
+        return unique_strings(scripts)
 
     def _extract_image_url(self, attrs: dict[str, Any]) -> str | None:
         share_image = attrs.get("share_image")
@@ -160,18 +152,3 @@ class TypeTodayNextCrawler:
                 if isinstance(maybe, str) and maybe.lower().endswith((".woff", ".woff2")):
                     return maybe
         return None
-
-
-def _unique(values: list[str]) -> list[str]:
-    seen: set[str] = set()
-    out: list[str] = []
-    for value in values:
-        normalized = value.strip()
-        if not normalized:
-            continue
-        key = normalized.lower()
-        if key in seen:
-            continue
-        seen.add(key)
-        out.append(normalized)
-    return out

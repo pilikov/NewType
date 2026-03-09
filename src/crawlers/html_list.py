@@ -7,6 +7,7 @@ from typing import Any
 import requests
 from bs4 import BeautifulSoup, Tag
 
+from src.crawlers.shared.text import unique_strings
 from src.models import FontRelease
 from src.utils import absolutize
 
@@ -187,7 +188,7 @@ class HtmlListCrawler:
                         if part.strip()
                     ]
                 )
-            release.styles = _unique(styles)
+            release.styles = unique_strings(styles)
 
         if not release.specimen_pdf_url:
             pdf_link = soup.select_one("a[href$='.pdf'], a[href*='specimen']")
@@ -200,18 +201,3 @@ class HtmlListCrawler:
                 release.woff_url = absolutize(base_url, woff_link.get("href"))
 
         release.raw["detail_page_enriched"] = True
-
-
-def _unique(values: list[str]) -> list[str]:
-    seen: set[str] = set()
-    out: list[str] = []
-    for value in values:
-        normalized = value.strip()
-        if not normalized:
-            continue
-        key = normalized.lower()
-        if key in seen:
-            continue
-        seen.add(key)
-        out.append(normalized)
-    return out

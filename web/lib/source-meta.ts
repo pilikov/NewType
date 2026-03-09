@@ -62,12 +62,14 @@ async function resolveProjectRoot(): Promise<string> {
 export async function loadSourceMetaMap(): Promise<Record<string, SourceUiMeta>> {
   const root = await resolveProjectRoot();
   const result: Record<string, SourceUiMeta> = {};
+  const configuredSourceIds = new Set<string>();
 
   try {
     const configRaw = await fs.readFile(path.join(root, "config", "sources.json"), "utf8");
     const cfg = JSON.parse(configRaw) as ConfigPayload;
     for (const source of cfg.sources ?? []) {
       if (!source.id || source.enabled === false) continue;
+      configuredSourceIds.add(source.id);
       result[source.id] = {
         sourceId: source.id,
         name: source.name || source.id,
@@ -84,6 +86,7 @@ export async function loadSourceMetaMap(): Promise<Record<string, SourceUiMeta>>
     const coverageRaw = await fs.readFile(path.join(root, "state", "data_coverage.json"), "utf8");
     const coverage = JSON.parse(coverageRaw) as DataCoveragePayload;
     for (const [sourceId, payload] of Object.entries(coverage.sources ?? {})) {
+      if (!configuredSourceIds.has(sourceId)) continue;
       const meta = payload.meta;
       if (!meta) continue;
       const current = result[sourceId] ?? {

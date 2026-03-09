@@ -1,4 +1,4 @@
-import { cp, mkdir, rm, stat, writeFile } from "node:fs/promises";
+import { cp, mkdir, readdir, rm, stat, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -22,9 +22,26 @@ async function exists(p) {
   }
 }
 
+async function cleanDir(dirPath) {
+  await mkdir(dirPath, { recursive: true });
+  const entries = await readdir(dirPath, { withFileTypes: true });
+  for (const entry of entries) {
+    const abs = path.join(dirPath, entry.name);
+    let attempts = 0;
+    while (attempts < 3) {
+      try {
+        await rm(abs, { recursive: true, force: true });
+        break;
+      } catch (error) {
+        attempts += 1;
+        if (attempts >= 3) throw error;
+      }
+    }
+  }
+}
+
 async function sync() {
-  await rm(targetDataDir, { recursive: true, force: true });
-  await mkdir(targetDataDir, { recursive: true });
+  await cleanDir(targetDataDir);
   if (await exists(sourceDataDir)) {
     await cp(sourceDataDir, targetDataDir, { recursive: true });
   }

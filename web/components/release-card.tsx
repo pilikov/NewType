@@ -1,4 +1,7 @@
+"use client";
+
 import { ExternalLink } from "lucide-react";
+import { useState } from "react";
 
 import {
   Card,
@@ -15,6 +18,10 @@ export type ReleaseItem = {
   source_name: string;
   source_url: string | null;
   source_favicon_url?: string | null;
+  studio_id?: string | null;
+  studio_name?: string | null;
+  studio_url?: string | null;
+  studio_favicon_url?: string | null;
   name: string;
   release_date: string | null;
   authors: string[];
@@ -54,7 +61,7 @@ function formatReleaseDate(value: string | null): string {
   const dt = new Date(normalized);
   if (Number.isNaN(dt.getTime())) return value;
 
-  return new Intl.DateTimeFormat("ru-RU", {
+  return new Intl.DateTimeFormat("en-US", {
     day: "numeric",
     month: "long",
     year: "numeric"
@@ -63,7 +70,11 @@ function formatReleaseDate(value: string | null): string {
 
 export function ReleaseCard({ release }: ReleaseCardProps) {
   const scripts = extractScripts(release);
-  const hasImage = hasRemoteImage(release.image_url);
+  const [imgError, setImgError] = useState(false);
+  const hasImage = hasRemoteImage(release.image_url) && !imgError;
+  const displayEntityName = release.studio_name || release.source_name;
+  const displayEntityFavicon = release.studio_favicon_url || release.source_favicon_url || null;
+  const displayEntityUrl = release.studio_url || release.source_url;
   const releaseKind = release.raw?.release_kind;
   const isNewVersion = release.raw?.is_new_version || releaseKind === "new_version";
   const isFutureFonts = release.source_id === "futurefonts";
@@ -84,6 +95,7 @@ export function ReleaseCard({ release }: ReleaseCardProps) {
           alt={release.name}
           loading="lazy"
           className="h-44 w-full object-cover"
+          onError={() => setImgError(true)}
         />
       ) : (
         <div className="h-44 w-full bg-gradient-to-br from-slate-200 to-slate-100" />
@@ -92,15 +104,15 @@ export function ReleaseCard({ release }: ReleaseCardProps) {
       <CardHeader>
         <CardTitle className="text-xl">{release.name}</CardTitle>
         <CardDescription className="flex items-center gap-2">
-          {release.source_favicon_url ? (
+          {displayEntityFavicon ? (
             <img
-              src={release.source_favicon_url}
-              alt={release.source_name}
+              src={displayEntityFavicon}
+              alt={displayEntityName}
               className="h-4 w-4 rounded-sm"
               loading="lazy"
             />
           ) : null}
-          <span>{release.source_name}</span>
+          <span>{displayEntityName}</span>
           {badgeLabel ? (
             <span
               className={
@@ -116,9 +128,9 @@ export function ReleaseCard({ release }: ReleaseCardProps) {
       </CardHeader>
 
       <CardContent className="space-y-1 text-sm text-slate-600">
-        <p>Дата релиза: {formatReleaseDate(release.release_date)}</p>
-        <p>Авторы: {release.authors.length ? release.authors.join(", ") : "—"}</p>
-        <p>Скрипты: {scripts.length ? scripts.join(", ") : "—"}</p>
+        <p>Release date: {formatReleaseDate(release.release_date)}</p>
+        <p>Authors: {release.authors.length ? release.authors.join(", ") : "—"}</p>
+        <p>Scripts: {scripts.length ? scripts.join(", ") : "—"}</p>
         {hasCyrillic ? (
           <p>
             <span className="inline-flex rounded-full bg-slate-200 px-2 py-0.5 text-xs font-medium text-slate-700">
@@ -129,14 +141,14 @@ export function ReleaseCard({ release }: ReleaseCardProps) {
       </CardContent>
 
       <CardFooter>
-        {release.source_url ? (
+        {displayEntityUrl ? (
           <a
-            href={release.source_url}
+            href={displayEntityUrl}
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center gap-2 rounded-md bg-[#F8F8F8] px-3 py-2 text-sm transition hover:bg-slate-100"
           >
-            Открыть источник <ExternalLink className="h-4 w-4" />
+            Open source <ExternalLink className="h-4 w-4" />
           </a>
         ) : null}
       </CardFooter>

@@ -11,10 +11,14 @@ import requests
 from bs4 import BeautifulSoup
 
 from src.domain.run_models import RunContext, RunSummary, SourceRunSummary
+from src.enrichment import enrich_type_today_release_dates
 from src.models import FontRelease
+from src.normalization import build_default_normalizer_registry
 from src.orchestration.registry import build_default_crawler_registry
-from src.state.json_adapter import JsonStateAdapter
-from src.storage.json_adapter import JsonStorageAdapter
+from src.orchestration.run_plan import RunOptions, build_run_plan
+from src.reports.type_today_ops import build_type_today_ops_reports
+from src.state.factory import create_state_adapter
+from src.storage.factory import create_storage_adapter
 from src.utils import download_file, dump_json, ensure_dir, load_json, sanitize_filename
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -25,8 +29,17 @@ FAVICON_CACHE_PATH = ROOT / "state" / "source_favicons.json"
 FAVICON_DATA_DIR = DATA_DIR / "_meta" / "favicons"
 RUNS_DIR = ROOT / "state" / "runs"
 CRAWLER_REGISTRY = build_default_crawler_registry()
-JSON_STORAGE = JsonStorageAdapter(data_dir=DATA_DIR)
-JSON_STATE = JsonStateAdapter(seen_ids_path=ROOT / "state" / "seen_ids.json")
+NORMALIZER_REGISTRY = build_default_normalizer_registry()
+STORAGE_BACKEND = "json"
+STATE_BACKEND = "json"
+STORAGE = create_storage_adapter(
+    backend=STORAGE_BACKEND,
+    data_dir=DATA_DIR,
+)
+STATE = create_state_adapter(
+    backend=STATE_BACKEND,
+    seen_ids_path=ROOT / "state" / "seen_ids.json",
+)
 
 
 def load_sources() -> list[dict]:
@@ -35,11 +48,11 @@ def load_sources() -> list[dict]:
 
 
 def load_seen_ids() -> dict[str, list[str]]:
-    return JSON_STATE.load_seen_ids()
+    return STATE.load_seen_ids()
 
 
 def save_seen_ids(state: dict[str, list[str]]) -> None:
-    JSON_STATE.save_seen_ids(state)
+    STATE.save_seen_ids(state)
 
 
 def build_crawler(source_cfg: dict):
@@ -52,7 +65,7 @@ def persist_source_results(
     new_releases: list[FontRelease],
     period_label: str | None = None,
 ) -> Path:
-    return JSON_STORAGE.persist_source_results(
+    return STORAGE.persist_source_results(
         source_id=source_id,
         all_releases=all_releases,
         new_releases=new_releases,
@@ -72,9 +85,9 @@ class IncrementalSourceWriter:
         self.seen_ids = seen_ids
         self.period_label = period_label
         self.flush_every = max(1, flush_every)
-        self.output_dir = JSON_STORAGE.source_output_dir(source_id=source_id, period_label=period_label)
-        self.all_releases: list[FontRelease] = JSON_STORAGE.load_releases(self.output_dir / "all_releases.json")
-        self.new_releases: list[FontRelease] = JSON_STORAGE.load_releases(self.output_dir / "new_releases.json")
+        self.output_dir = STORAGE.source_output_dir(source_id=source_id, period_label=period_label)
+        self.all_releases: list[FontRelease] = STORAGE.load_releases(self.output_dir / "all_releases.json")
+        self.new_releases: list[FontRelease] = STORAGE.load_releases(self.output_dir / "new_releases.json")
         self.current_ids: set[str] = {r.release_id for r in self.all_releases}
         self._counter = 0
         ensure_dir(self.output_dir)
@@ -92,8 +105,8 @@ class IncrementalSourceWriter:
             self.flush()
 
     def flush(self) -> None:
-        JSON_STORAGE.write_releases(self.output_dir / "all_releases.json", self.all_releases)
-        JSON_STORAGE.write_releases(self.output_dir / "new_releases.json", self.new_releases)
+        STORAGE.write_releases(self.output_dir / "all_releases.json", self.all_releases)
+        STORAGE.write_releases(self.output_dir / "new_releases.json", self.new_releases)
 
     def finalize(self, fallback_releases: list[FontRelease]) -> tuple[list[FontRelease], list[FontRelease], Path]:
         if not self.all_releases and fallback_releases:
@@ -110,7 +123,7 @@ def maybe_download_assets(source_cfg: dict, output_dir: Path, releases: list[Fon
     processed = 0
 
     for release in releases:
-        if processed >= max_downloads_per_run:
+        if max_downloads_per_run > 0 and processed >= max_downloads_per_run:
             break
         release_assets: dict[str, str] = {}
         per_release_dir = assets_dir / release.release_id
@@ -145,6 +158,7 @@ def run(
     myfonts_debut_date: str | None = None,
     myfonts_start_date: str | None = None,
     myfonts_end_date: str | None = None,
+    myfonts_fresh_run: bool = False,
     history_weeks: int | None = None,
     history_end_date: str | None = None,
 ) -> None:
@@ -155,8 +169,18 @@ def run(
     source_results: list[SourceRunSummary] = []
     sources = load_sources()
     seen_state = load_seen_ids()
-    history_start, history_end = _resolve_history_range(history_weeks, history_end_date)
-    period_label = f"{history_start}_{history_end}" if history_start and history_end else None
+    run_plan = build_run_plan(
+        sources=sources,
+        options=RunOptions(
+            source_filter=source_filter,
+            myfonts_debut_date=myfonts_debut_date,
+            myfonts_start_date=myfonts_start_date,
+            myfonts_end_date=myfonts_end_date,
+            myfonts_fresh_run=myfonts_fresh_run,
+            history_weeks=history_weeks,
+            history_end_date=history_end_date,
+        ),
+    )
 
     with requests.Session() as session:
         session.headers.update(
@@ -171,45 +195,10 @@ def run(
             }
         )
 
-        for source_cfg in sources:
-            source_id = source_cfg["id"]
-            if source_filter and source_id not in source_filter:
-                continue
+        for plan_item in run_plan.items:
+            source_id = plan_item.source_id
+            source_cfg = plan_item.source_cfg
             source_started = datetime.utcnow()
-
-            if source_id == "myfonts" and (myfonts_debut_date or myfonts_start_date or myfonts_end_date):
-                source_cfg = dict(source_cfg)
-                source_cfg["crawl"] = dict(source_cfg.get("crawl", {}))
-                source_cfg["crawl"]["max_pages"] = max(int(source_cfg["crawl"].get("max_pages", 1)), 40)
-                if myfonts_debut_date:
-                    source_cfg["crawl"]["start_date"] = myfonts_debut_date
-                    source_cfg["crawl"]["end_date"] = myfonts_debut_date
-                    source_cfg["crawl"]["target_debut_date"] = myfonts_debut_date
-                if myfonts_start_date:
-                    source_cfg["crawl"]["start_date"] = myfonts_start_date
-                if myfonts_end_date:
-                    source_cfg["crawl"]["end_date"] = myfonts_end_date
-            if history_start and history_end:
-                source_cfg = dict(source_cfg)
-                source_cfg["crawl"] = dict(source_cfg.get("crawl", {}))
-                if source_id == "myfonts":
-                    source_cfg["crawl"]["start_date"] = history_start
-                    source_cfg["crawl"]["end_date"] = history_end
-                if source_id == "type_today":
-                    source_cfg["crawl"]["start_date"] = history_start
-                    source_cfg["crawl"]["end_date"] = history_end
-                if source_id == "futurefonts":
-                    source_cfg["crawl"]["start_date"] = history_start
-                    source_cfg["crawl"]["end_date"] = history_end
-                    start_dt = datetime.strptime(history_start, "%Y-%m-%d").date()
-                    delta_days = (date.today() - start_dt).days + 7
-                    source_cfg["crawl"]["lookback_days"] = max(
-                        int(source_cfg["crawl"].get("lookback_days", 30)),
-                        delta_days,
-                    )
-                if source_id == "typenetwork":
-                    source_cfg["crawl"]["start_date"] = history_start
-                    source_cfg["crawl"]["end_date"] = history_end
 
             crawler = build_crawler(source_cfg)
             seen_ids = set(seen_state.get(source_id, []))
@@ -219,10 +208,14 @@ def run(
                 incremental_writer = IncrementalSourceWriter(
                     source_id=source_id,
                     seen_ids=seen_ids,
-                    period_label=period_label,
+                    period_label=run_plan.period_label,
                     flush_every=flush_every,
                 )
-                crawler.set_release_callback(incremental_writer.on_release)
+                crawler.set_release_callback(
+                    lambda release, _writer=incremental_writer, _cfg=source_cfg: _writer.on_release(
+                        NORMALIZER_REGISTRY.normalize_release(_cfg, release)
+                    )
+                )
 
             try:
                 releases = crawler.crawl(session=session, timeout=timeout)
@@ -238,6 +231,8 @@ def run(
                 )
                 continue
 
+            releases = NORMALIZER_REGISTRY.normalize_many(source_cfg, releases)
+
             if incremental_writer:
                 releases, new_releases, output_dir = incremental_writer.finalize(releases)
             else:
@@ -246,13 +241,41 @@ def run(
                     source_id=source_id,
                     all_releases=releases,
                     new_releases=new_releases,
-                    period_label=period_label,
+                    period_label=run_plan.period_label,
                 )
+
+            if source_id == "type_today":
+                enrich_summary = enrich_type_today_release_dates(
+                    source_cfg=source_cfg,
+                    all_releases=releases,
+                    new_releases=new_releases,
+                    state_root=ROOT / "state",
+                    session=session,
+                    timeout=timeout,
+                )
+                STORAGE.write_releases(output_dir / "all_releases.json", releases)
+                STORAGE.write_releases(output_dir / "new_releases.json", new_releases)
+                print(
+                    "[type_today:journal_enrich] "
+                    f"posts_scanned={enrich_summary.journal_posts_scanned} "
+                    f"posts_processed={enrich_summary.journal_posts_processed} "
+                    f"slugs_with_dates={enrich_summary.slugs_with_journal_dates} "
+                    f"all_updates={enrich_summary.all_releases_updated} "
+                    f"new_updates={enrich_summary.new_releases_updated}"
+                )
+
             assets_cfg = source_cfg.get("assets", {})
             asset_source_releases = (
                 releases if assets_cfg.get("download_for_all_releases") else new_releases
             )
             maybe_download_assets(source_cfg, output_dir, asset_source_releases)
+            if source_id == "type_today":
+                build_type_today_ops_reports(
+                    source_cfg=source_cfg,
+                    output_dir=output_dir,
+                    releases=releases,
+                    state_root=ROOT / "state",
+                )
 
             seen_ids.update(r.release_id for r in releases)
             seen_state[source_id] = sorted(seen_ids)
@@ -323,6 +346,11 @@ def parse_args() -> argparse.Namespace:
         help="Optional YYYY-MM-DD range end for MyFonts debut date",
     )
     parser.add_argument(
+        "--myfonts-fresh-run",
+        action="store_true",
+        help="Ignore MyFonts resume checkpoint and start crawl from page 1",
+    )
+    parser.add_argument(
         "--history-weeks",
         type=int,
         default=0,
@@ -346,20 +374,10 @@ def main() -> None:
         myfonts_debut_date=args.myfonts_debut_date.strip() or None,
         myfonts_start_date=args.myfonts_start_date.strip() or None,
         myfonts_end_date=args.myfonts_end_date.strip() or None,
+        myfonts_fresh_run=bool(args.myfonts_fresh_run),
         history_weeks=args.history_weeks if args.history_weeks > 0 else None,
         history_end_date=args.history_end_date.strip() or None,
     )
-
-
-def _resolve_history_range(
-    history_weeks: int | None,
-    history_end_date: str | None,
-) -> tuple[str | None, str | None]:
-    if not history_weeks or history_weeks <= 0:
-        return None, None
-    end_day = _parse_ymd(history_end_date) or date.today()
-    start_day = end_day - timedelta(days=history_weeks * 7 - 1)
-    return start_day.isoformat(), end_day.isoformat()
 
 
 def _parse_ymd(value: str | None) -> date | None:

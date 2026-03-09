@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
-from datetime import date, datetime
+from datetime import date
 import re
 from typing import Any
 from urllib.parse import urljoin
@@ -9,6 +9,8 @@ from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
 
+from src.crawlers.shared.dates import parse_mon_dd_yyyy, parse_ymd
+from src.crawlers.shared.text import unique_strings
 from src.models import FontRelease
 
 
@@ -26,8 +28,8 @@ class MyFontsWhatsNewCrawler:
         base_url = self.source_config.get("base_url", "https://www.myfonts.com")
         crawl_cfg = self.source_config.get("crawl", {})
 
-        start_date = _parse_ymd(crawl_cfg.get("start_date"))
-        end_date = _parse_ymd(crawl_cfg.get("end_date")) or start_date
+        start_date = parse_ymd(crawl_cfg.get("start_date"))
+        end_date = parse_ymd(crawl_cfg.get("end_date")) or start_date
         if not start_date:
             # Default daily mode: only today's debut.
             today = date.today()
@@ -136,7 +138,7 @@ class MyFontsWhatsNewCrawler:
             text,
             flags=re.IGNORECASE,
         )
-        debut_date = _parse_mon_dd_yyyy(debut_match.group(1)) if debut_match else None
+        debut_date = parse_mon_dd_yyyy(debut_match.group(1)) if debut_match else None
 
         name = None
         og_title = soup.select_one("meta[property='og:title']")
@@ -185,8 +187,8 @@ class MyFontsWhatsNewCrawler:
 
         return {
             "name": name,
-            "authors": _unique(authors),
-            "scripts": _unique(scripts),
+            "authors": unique_strings(authors),
+            "scripts": unique_strings(scripts),
             "debut_raw": debut_match.group(1) if debut_match else None,
             "debut_date": debut_date,
             "image_url": image_url,
@@ -198,36 +200,3 @@ class MyFontsWhatsNewCrawler:
         slug = url.rstrip("/").rsplit("/", 1)[-1]
         slug = re.sub(r"-font-.*$", "", slug)
         return slug.replace("-", " ").title().strip() or "Unknown"
-
-
-def _parse_mon_dd_yyyy(value: str | None) -> date | None:
-    if not value:
-        return None
-    try:
-        return datetime.strptime(value, "%b %d, %Y").date()
-    except ValueError:
-        return None
-
-
-def _parse_ymd(value: str | None) -> date | None:
-    if not value:
-        return None
-    try:
-        return datetime.strptime(value, "%Y-%m-%d").date()
-    except ValueError:
-        return None
-
-
-def _unique(values: list[str]) -> list[str]:
-    seen: set[str] = set()
-    out: list[str] = []
-    for value in values:
-        norm = value.strip()
-        if not norm:
-            continue
-        key = norm.lower()
-        if key in seen:
-            continue
-        seen.add(key)
-        out.append(norm)
-    return out

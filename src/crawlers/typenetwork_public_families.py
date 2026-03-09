@@ -9,6 +9,7 @@ from urllib.parse import urljoin, urlparse
 import requests
 from bs4 import BeautifulSoup
 
+from src.crawlers.shared.dates import parse_ymd
 from src.models import FontRelease
 
 _SOCIAL_DOMAINS = {
@@ -60,13 +61,14 @@ class TypeNetworkPublicFamiliesCrawler:
         max_pages = int(crawl_cfg.get("max_pages", 20))
         ordering = (crawl_cfg.get("ordering", "-released") or "").strip()
         lookback_days = int(crawl_cfg.get("lookback_days", 60))
+        disable_date_cutoff = bool(crawl_cfg.get("disable_date_cutoff", False))
         enable_image_enrichment = bool(crawl_cfg.get("enable_image_enrichment", True))
         image_enrichment_limit = int(crawl_cfg.get("image_enrichment_limit", 12))
         image_site_page_limit = int(crawl_cfg.get("image_site_page_limit", 6))
         script_id_map = _parse_script_id_map(crawl_cfg.get("script_id_map"))
-        start_date = _parse_ymd_date(crawl_cfg.get("start_date"))
-        end_date = _parse_ymd_date(crawl_cfg.get("end_date"))
-        since_day = start_date or (date.today() - timedelta(days=lookback_days))
+        start_date = parse_ymd(crawl_cfg.get("start_date"))
+        end_date = parse_ymd(crawl_cfg.get("end_date"))
+        since_day = None if disable_date_cutoff else (start_date or (date.today() - timedelta(days=lookback_days)))
 
         foundry_names = self._load_foundry_names(
             session=session,
@@ -84,7 +86,7 @@ class TypeNetworkPublicFamiliesCrawler:
         if ordering:
             params["ordering"] = ordering
 
-        while next_url and page_idx < max_pages:
+        while next_url and (max_pages <= 0 or page_idx < max_pages):
             response = session.get(next_url, params=params, timeout=timeout)
             response.raise_for_status()
             payload = response.json()
@@ -102,7 +104,7 @@ class TypeNetworkPublicFamiliesCrawler:
 
                 if end_date and released_day and released_day > end_date:
                     continue
-                if released_day and released_day < since_day:
+                if since_day and released_day and released_day < since_day:
                     should_stop = True
                     break
 
@@ -121,7 +123,7 @@ class TypeNetworkPublicFamiliesCrawler:
                 image_url = None
                 image_meta: dict[str, Any] = {}
 
-                if enable_image_enrichment and image_enriched < image_enrichment_limit:
+                if enable_image_enrichment and (image_enrichment_limit <= 0 or image_enriched < image_enrichment_limit):
                     foundry_name = authors[0] if authors else ""
                     image_url, image_meta = self._discover_promo_image_for_family(
                         session=session,
@@ -323,7 +325,7 @@ class TypeNetworkPublicFamiliesCrawler:
 
         checked = 0
         for page_url in candidates:
-            if checked >= site_page_limit:
+            if site_page_limit > 0 and checked >= site_page_limit:
                 break
             checked += 1
             try:
@@ -375,15 +377,6 @@ def _extract_foundry_names(family: dict[str, Any], foundry_names: dict[int, str]
     return sorted(set(out))
 
 
-def _parse_ymd_date(value: str | None) -> date | None:
-    if not value:
-        return None
-    try:
-        return datetime.strptime(value, "%Y-%m-%d").date()
-    except ValueError:
-        return None
-
-
 def _parse_iso_day(value: str | None) -> date | None:
     if not value:
         return None
@@ -399,7 +392,7 @@ def _parse_iso_day(value: str | None) -> date | None:
     except ValueError:
         pass
 
-    return _parse_ymd_date(value[:10])
+    return parse_ymd(value[:10])
 
 
 def _slugify(value: str) -> str:

@@ -24,7 +24,73 @@ type DataCoverage = {
   sources?: Record<string, CoverageSource>;
 };
 
+function asString(value: unknown): string | null {
+  return typeof value === "string" ? value : null;
+}
+
+function asStringArray(value: unknown): string[] {
+  if (!Array.isArray(value)) return [];
+  return value.map((item) => String(item)).filter(Boolean);
+}
+
+function normalizeReleaseItem(input: ReleaseItem, sourceMetaMap: Record<string, SourceUiMeta>): ReleaseItem {
+  const sourceId = asString(input.source_id) || "unknown";
+  const sourceMeta = sourceMetaMap[sourceId];
+  const sourceName = asString(input.source_name) || sourceMeta?.name || sourceId;
+  const sourceUrl = asString(input.source_url) || sourceMeta?.baseUrl || null;
+  const releaseName = asString(input.name) || "Untitled";
+  const releaseDate = asString(input.release_date) || null;
+  const authors = asStringArray(input.authors);
+  const scripts = asStringArray(input.scripts);
+  const imageUrl = asString(input.image_url) || null;
+  const releaseId =
+    asString(input.release_id) || `${sourceId}:${sourceUrl ?? ""}:${releaseName}:${releaseDate ?? ""}`;
+
+  return {
+    ...input,
+    release_id: releaseId,
+    source_id: sourceId,
+    source_name: sourceName,
+    source_url: sourceUrl,
+    name: releaseName,
+    release_date: releaseDate,
+    authors,
+    scripts,
+    image_url: imageUrl,
+    source_favicon_url: sourceFaviconUiUrl(sourceMeta)
+  };
+}
+
 let resolvedProjectRoot: string | null = null;
+
+async function hasAnyReleaseFiles(candidate: string): Promise<boolean> {
+  const dataDir = path.join(candidate, "data");
+  try {
+    const sourceDirs = await fs.readdir(dataDir, { withFileTypes: true });
+    for (const source of sourceDirs) {
+      if (!source.isDirectory() || source.name.startsWith(".")) continue;
+      const sourcePath = path.join(dataDir, source.name);
+      try {
+        const files = await fs.readdir(sourcePath, { withFileTypes: true });
+        for (const entry of files) {
+          if (!entry.isDirectory()) continue;
+          const maybe = path.join(sourcePath, entry.name, "all_releases.json");
+          try {
+            const st = await fs.stat(maybe);
+            if (st.isFile()) return true;
+          } catch {
+            continue;
+          }
+        }
+      } catch {
+        continue;
+      }
+    }
+  } catch {
+    return false;
+  }
+  return false;
+}
 
 async function resolveProjectRoot(): Promise<string> {
   if (resolvedProjectRoot) return resolvedProjectRoot;
@@ -32,7 +98,7 @@ async function resolveProjectRoot(): Promise<string> {
   for (const candidate of candidates) {
     try {
       const st = await fs.stat(path.join(candidate, "data"));
-      if (st.isDirectory()) {
+      if (st.isDirectory() && (await hasAnyReleaseFiles(candidate))) {
         resolvedProjectRoot = candidate;
         return candidate;
       }
@@ -69,14 +135,27 @@ function toPosixPath(p: string): string {
   return p.replace(/\\/g, "/");
 }
 
+function toCachedImageUrl(imageUrl: string | null | undefined): string | null {
+  if (!imageUrl) return null;
+  if (imageUrl.startsWith("/api/assets?p=") || imageUrl.startsWith("/api/assets?u=")) return imageUrl;
+  if (imageUrl.startsWith("http://") || imageUrl.startsWith("https://")) {
+    return `/api/assets?u=${encodeURIComponent(imageUrl)}`;
+  }
+  return imageUrl;
+}
+
 async function withLocalImages(baseDir: string, sourceRelPrefix: string, releases: ReleaseItem[]): Promise<ReleaseItem[]> {
   const out = await Promise.all(
     releases.map(async (release) => {
       const releaseId = release.release_id;
-      if (!releaseId) return release;
+      if (!releaseId) {
+        return { ...release, image_url: toCachedImageUrl(release.image_url) };
+      }
 
       const imageRel = await readDownloadedImageRelative(baseDir, releaseId);
-      if (!imageRel) return release;
+      if (!imageRel) {
+        return { ...release, image_url: toCachedImageUrl(release.image_url) };
+      }
 
       const fullRel = toPosixPath(path.join(sourceRelPrefix, imageRel));
       const localUrl = `/api/assets?p=${encodeURIComponent(fullRel)}`;
@@ -95,7 +174,13 @@ async function findLatestPeriodDir(sourceId: string): Promise<string | null> {
     const periodDirs = entries
       .filter((entry) => entry.isDirectory() && /^\d{4}-\d{2}-\d{2}_\d{4}-\d{2}-\d{2}$/.test(entry.name))
       .map((entry) => entry.name)
-      .sort((a, b) => b.localeCompare(a));
+      .sort((a, b) => {
+        const [aStart = "", aEnd = ""] = a.split("_");
+        const [bStart = "", bEnd = ""] = b.split("_");
+        if (aEnd !== bEnd) return bEnd.localeCompare(aEnd);
+        if (aStart !== bStart) return aStart.localeCompare(bStart);
+        return b.localeCompare(a);
+      });
 
     return periodDirs[0] ?? null;
   } catch {
@@ -127,18 +212,18 @@ async function loadSourceReleases(sourceId: string): Promise<ReleaseItem[]> {
   const latestDay = await findLatestDayDir(sourceId);
   const chunks: ReleaseItem[][] = [];
 
-  if (latestPeriod) {
-    const periodBaseDir = path.join(sourceDir, "periods", latestPeriod);
-    const periodPath = path.join(periodBaseDir, "all_releases.json");
-    const releases = await readJsonArray<ReleaseItem>(periodPath);
-    chunks.push(await withLocalImages(periodBaseDir, path.join(sourceId, "periods", latestPeriod), releases));
-  }
-
   if (latestDay) {
     const dayBaseDir = path.join(sourceDir, latestDay);
     const dayPath = path.join(dayBaseDir, "all_releases.json");
     const dayReleases = await readJsonArray<ReleaseItem>(dayPath);
     chunks.push(await withLocalImages(dayBaseDir, path.join(sourceId, latestDay), dayReleases));
+  }
+
+  if (latestPeriod) {
+    const periodBaseDir = path.join(sourceDir, "periods", latestPeriod);
+    const periodPath = path.join(periodBaseDir, "all_releases.json");
+    const releases = await readJsonArray<ReleaseItem>(periodPath);
+    chunks.push(await withLocalImages(periodBaseDir, path.join(sourceId, "periods", latestPeriod), releases));
   }
 
   if (chunks.length > 0) {
@@ -172,6 +257,16 @@ function normalizeDate(value: string | null | undefined): string | null {
   return /^\d{4}-\d{2}-\d{2}$/.test(datePart) ? datePart : null;
 }
 
+function releaseWeekDate(release: ReleaseItem): string | null {
+  if (release.source_id === "myfonts") {
+    const raw = release.raw as { myfonts_debut_date?: string | null } | undefined;
+    const debutDay = normalizeDate(raw?.myfonts_debut_date ?? null);
+    if (debutDay) return debutDay;
+    return null;
+  }
+  return normalizeDate(release.release_date);
+}
+
 function inRange(day: string, start: string, end: string): boolean {
   return day >= start && day <= end;
 }
@@ -181,7 +276,7 @@ function parseIsoDate(value: string): Date | null {
   return Number.isNaN(parsed.getTime()) ? null : parsed;
 }
 
-function formatWeekRangeRu(startIso: string, endIso: string): string {
+function formatWeekRangeEn(startIso: string, endIso: string): string {
   const start = parseIsoDate(startIso);
   const end = parseIsoDate(endIso);
   if (!start || !end) return `${startIso} - ${endIso}`;
@@ -189,26 +284,65 @@ function formatWeekRangeRu(startIso: string, endIso: string): string {
   const sameYear = start.getFullYear() === end.getFullYear();
   const sameMonth = sameYear && start.getMonth() === end.getMonth();
 
-  const dayMonthFmt = new Intl.DateTimeFormat("ru-RU", { day: "numeric", month: "long" });
-  const dayMonthYearFmt = new Intl.DateTimeFormat("ru-RU", {
+  const dayMonthFmt = new Intl.DateTimeFormat("en-US", { day: "numeric", month: "long" });
+  const dayMonthYearFmt = new Intl.DateTimeFormat("en-US", {
     day: "numeric",
     month: "long",
     year: "numeric"
   });
 
-  function monthGenitive(date: Date): string {
-    const value = dayMonthFmt.format(date).trim();
-    const parts = value.split(/\s+/);
-    return parts.slice(1).join(" ");
-  }
-
   if (sameMonth) {
-    return `${start.getDate()} — ${end.getDate()} ${monthGenitive(start)}`;
+    const month = new Intl.DateTimeFormat("en-US", { month: "long" }).format(start);
+    return `${start.getDate()} — ${end.getDate()} ${month}`;
   }
   if (sameYear) {
     return `${dayMonthFmt.format(start)} — ${dayMonthFmt.format(end)}`;
   }
   return `${dayMonthYearFmt.format(start)} — ${dayMonthYearFmt.format(end)}`;
+}
+
+function toIsoDay(date: Date): string {
+  const y = date.getUTCFullYear();
+  const m = String(date.getUTCMonth() + 1).padStart(2, "0");
+  const d = String(date.getUTCDate()).padStart(2, "0");
+  return `${y}-${m}-${d}`;
+}
+
+function startOfIsoWeek(dayIso: string): string | null {
+  const dt = parseIsoDate(dayIso);
+  if (!dt) return null;
+  const utc = new Date(Date.UTC(dt.getFullYear(), dt.getMonth(), dt.getDate()));
+  const dow = utc.getUTCDay();
+  const delta = (dow + 6) % 7;
+  utc.setUTCDate(utc.getUTCDate() - delta);
+  return toIsoDay(utc);
+}
+
+function endOfIsoWeek(weekStartIso: string): string | null {
+  const dt = parseIsoDate(weekStartIso);
+  if (!dt) return null;
+  const utc = new Date(Date.UTC(dt.getFullYear(), dt.getMonth(), dt.getDate()));
+  utc.setUTCDate(utc.getUTCDate() + 6);
+  return toIsoDay(utc);
+}
+
+function buildWeeksFromReleases(releases: ReleaseItem[]): CoverageWeek[] {
+  const uniq = new Map<string, CoverageWeek>();
+  for (const release of releases) {
+    const day = releaseWeekDate(release);
+    if (!day) continue;
+    const weekStart = startOfIsoWeek(day);
+    if (!weekStart) continue;
+    if (uniq.has(weekStart)) continue;
+    const weekEnd = endOfIsoWeek(weekStart);
+    if (!weekEnd) continue;
+    uniq.set(weekStart, {
+      week_start: weekStart,
+      week_end: weekEnd,
+      label: `${weekStart}_${weekEnd}`
+    });
+  }
+  return Array.from(uniq.values()).sort((a, b) => b.week_start.localeCompare(a.week_start));
 }
 
 async function loadCoverageWeeks(): Promise<CoverageWeek[]> {
@@ -240,18 +374,11 @@ async function loadAllReleasesDeduped(sourceIds: string[], sourceMetaMap: Record
   const unique = new Map<string, ReleaseItem>();
 
   for (const release of groups.flat()) {
-    const key =
-      release.release_id ||
-      `${release.source_id}:${release.source_url ?? ""}:${release.name}:${release.release_date ?? ""}`;
+    const normalized = normalizeReleaseItem(release, sourceMetaMap);
+    const key = normalized.release_id;
 
     if (!unique.has(key)) {
-      const sourceMeta = sourceMetaMap[release.source_id];
-      unique.set(key, {
-        ...release,
-        source_name: release.source_name || sourceMeta?.name || release.source_id,
-        source_url: release.source_url || sourceMeta?.baseUrl || null,
-        source_favicon_url: sourceFaviconUiUrl(sourceMeta)
-      });
+      unique.set(key, normalized);
     }
   }
 
@@ -266,7 +393,7 @@ function buildWeekGroups(releases: ReleaseItem[], weeks: CoverageWeek[]): WeekGr
   }
 
   for (const release of releases) {
-    const day = normalizeDate(release.release_date);
+    const day = releaseWeekDate(release);
     if (!day) continue;
 
     const week = weeks.find((item) => inRange(day, item.week_start, item.week_end));
@@ -281,15 +408,15 @@ function buildWeekGroups(releases: ReleaseItem[], weeks: CoverageWeek[]): WeekGr
     .map((week) => {
       const id = `${week.week_start}|${week.week_end}`;
       const weekReleases = (buckets.get(id) ?? []).sort((a, b) => {
-        const da = normalizeDate(a.release_date) ?? "";
-        const db = normalizeDate(b.release_date) ?? "";
+        const da = releaseWeekDate(a) ?? "";
+        const db = releaseWeekDate(b) ?? "";
         return db.localeCompare(da);
       });
 
       return {
         id,
         label: week.label,
-        uiLabel: formatWeekRangeRu(week.week_start, week.week_end),
+        uiLabel: formatWeekRangeEn(week.week_start, week.week_end),
         releaseCount: weekReleases.length,
         releases: weekReleases
       };
@@ -299,9 +426,10 @@ function buildWeekGroups(releases: ReleaseItem[], weeks: CoverageWeek[]): WeekGr
 
 export default async function HomePage() {
   const [sourceMetaMap, coverageWeeks] = await Promise.all([loadSourceMetaMap(), loadCoverageWeeks()]);
-  const sourceIds = Object.keys(sourceMetaMap);
+  const sourceIds = Object.keys(sourceMetaMap).filter((id) => id !== "catalog_snapshot");
   const releases = await loadAllReleasesDeduped(sourceIds, sourceMetaMap);
-  const weekGroups = buildWeekGroups(releases, coverageWeeks);
+  const effectiveWeeks = coverageWeeks.length ? coverageWeeks : buildWeeksFromReleases(releases);
+  const weekGroups = buildWeekGroups(releases, effectiveWeeks);
 
   return (
     <main className="mx-auto w-full max-w-7xl px-4 py-10 sm:px-6 lg:px-8">

@@ -12,12 +12,22 @@
       "crawl": {
         "mode": "myfonts_api",
         "products_endpoint": "/products.json",
-        "page_size": 250,
-        "max_pages": 6,
+        "page_size": 100,
+        "max_pages": 250,
         "incremental_flush_every": 10,
         "enable_debut_enrichment": true,
-        "max_debut_checks": 600,
-        "debut_lookback_days": 90
+        "max_debut_checks": 5000,
+        "debut_lookback_days": 90,
+        "api_request_delay_seconds": 0.5,
+        "detail_request_delay_seconds": 0.35,
+        "enable_tech_specs_script_enrichment": true,
+        "max_tech_specs_checks": 5000,
+        "reuse_last_success_profile": false,
+        "always_enrich_packages": true,
+        "language_script_signal_mode": "strong",
+        "browser_mode": false,
+        "browser_headless": true,
+        "browser_storage_state_path": "state/myfonts_storage_state.json"
       },
       "assets": {
         "download_image": true,
@@ -36,10 +46,21 @@
         "favicon_url": "https://type.today/favicon/favicon-32x32.png"
       },
       "crawl": {
-        "mode": "type_today_journal",
+        "mode": "type_today_api",
+        "api_base_url": "https://type.today",
+        "fonts_endpoint": "/api/v1/fonts",
+        "font_detail_endpoint_template": "/api/v1/fonts/{slug}",
+        "authors_endpoint": "/api/v1/authors",
+        "author_detail_endpoint_template": "/api/v1/authors/{slug}",
+        "font_detail_include": "font_styles,custom_font_styles,font_tabs",
         "journal_url": "/ru/journal",
-        "incremental_flush_every": 5,
-        "new_post_prefix": "Новый шрифт:"
+        "new_post_prefix": "Новый шрифт:",
+        "page_size": 100,
+        "max_pages": 0,
+        "use_author_mapping": true,
+        "include_full_raw": true,
+        "request_delay_seconds": 0.05,
+        "incremental_flush_every": 10
       },
       "assets": {
         "download_image": true,
@@ -60,9 +81,13 @@
         "mode": "futurefonts_activity",
         "activity_endpoint": "/api/v1/activity",
         "incremental_flush_every": 5,
-        "max_pages_per_type": 6,
+        "max_pages_per_type": 220,
         "lookback_days": 30,
-        "detail_fetch_limit": 40
+        "detail_fetch_limit": 40,
+        "typeface_fetch_limit": 2500,
+        "activity_retry_max_retries": 14,
+        "activity_retry_base_delay_seconds": 2.0,
+        "activity_request_delay_seconds": 0.8
       },
       "assets": {
         "download_image": true,
@@ -86,9 +111,10 @@
         "incremental_flush_every": 10,
         "foundries_endpoint": "/api/1/foundries/",
         "page_size": 200,
-        "max_pages": 20,
+        "max_pages": 0,
         "ordering": "-released",
-        "lookback_days": 90,
+        "lookback_days": 0,
+        "disable_date_cutoff": true,
         "script_id_map": {
           "160": "Arabic",
           "200": "Greek",
@@ -99,15 +125,39 @@
           "907": "Indic"
         },
         "enable_image_enrichment": true,
-        "image_enrichment_limit": 12,
-        "image_site_page_limit": 6
+        "image_enrichment_limit": 0,
+        "image_site_page_limit": 0
       },
       "assets": {
         "download_image": true,
         "download_woff": false,
         "download_specimen_pdf": false,
-        "max_downloads_per_run": 80,
+        "max_downloads_per_run": 0,
         "download_for_all_releases": true
+      }
+    },
+    {
+      "id": "contemporarytype",
+      "name": "Contemporary Type",
+      "enabled": true,
+      "base_url": "https://contemporarytype.com",
+      "meta": {
+        "favicon_url": "https://contemporarytype.com/favicon.ico"
+      },
+      "crawl": {
+        "mode": "contemporarytype_products",
+        "api_base_url": "https://backend.contemporarytype.com",
+        "products_endpoint": "/api_front/products",
+        "detail_endpoint_template": "/api_front/product/{slug}?with-bundles",
+        "enable_detail_enrichment": true,
+        "detail_fetch_limit": 49,
+        "incremental_flush_every": 10
+      },
+      "assets": {
+        "download_image": false,
+        "download_woff": false,
+        "download_specimen_pdf": false,
+        "max_downloads_per_run": 0
       }
     }
   ]
