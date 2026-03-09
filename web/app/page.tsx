@@ -8,6 +8,7 @@ import { loadSourceMetaMap, sourceFaviconUiUrl, type SourceUiMeta } from "@/lib/
 
 export const dynamic = "force-dynamic";
 export const revalidate = 0;
+const USE_LOCAL_ASSET_FILES = process.env.VERCEL !== "1";
 
 type CoverageWeek = {
   week_start: string;
@@ -145,6 +146,10 @@ function toCachedImageUrl(imageUrl: string | null | undefined): string | null {
 }
 
 async function withLocalImages(baseDir: string, sourceRelPrefix: string, releases: ReleaseItem[]): Promise<ReleaseItem[]> {
+  if (!USE_LOCAL_ASSET_FILES) {
+    return releases.map((release) => ({ ...release, image_url: toCachedImageUrl(release.image_url) }));
+  }
+
   const out = await Promise.all(
     releases.map(async (release) => {
       const releaseId = release.release_id;

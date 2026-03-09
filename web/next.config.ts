@@ -8,7 +8,10 @@ const nextConfig: NextConfig = {
     ]
   },
   outputFileTracingIncludes: {
-    "/*": ["./data/**/*", "./state/**/*"]
+    "/*": ["./data/**/all_releases.json", "./state/data_coverage.json", "./config/sources.json"]
+  },
+  outputFileTracingExcludes: {
+    "/api/assets": ["./data/**/*", "./state/**/*"]
   }
 };
 

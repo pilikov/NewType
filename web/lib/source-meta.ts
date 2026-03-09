@@ -40,6 +40,9 @@ function toPosixPath(p: string): string {
 
 export function sourceFaviconUiUrl(meta: SourceUiMeta | undefined): string | null {
   if (!meta) return null;
+  if (process.env.VERCEL === "1") {
+    return meta.faviconUrl;
+  }
   if (meta.faviconLocalPath) {
     return `/api/assets?p=${encodeURIComponent(toPosixPath(meta.faviconLocalPath))}`;
   }
