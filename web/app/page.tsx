@@ -9,6 +9,7 @@ import { loadSourceMetaMap, sourceFaviconUiUrl, type SourceUiMeta } from "@/lib/
 export const dynamic = "force-dynamic";
 export const revalidate = 0;
 const USE_LOCAL_ASSET_FILES = process.env.VERCEL !== "1";
+const USE_REMOTE_IMAGE_PROXY = process.env.VERCEL !== "1";
 
 type CoverageWeek = {
   week_start: string;
@@ -140,6 +141,7 @@ function toCachedImageUrl(imageUrl: string | null | undefined): string | null {
   if (!imageUrl) return null;
   if (imageUrl.startsWith("/api/assets?p=") || imageUrl.startsWith("/api/assets?u=")) return imageUrl;
   if (imageUrl.startsWith("http://") || imageUrl.startsWith("https://")) {
+    if (!USE_REMOTE_IMAGE_PROXY) return imageUrl;
     return `/api/assets?u=${encodeURIComponent(imageUrl)}`;
   }
   return imageUrl;
