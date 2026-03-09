@@ -63,22 +63,33 @@ function extensionFromRemote(url: string, contentType: string): string {
   return ".img";
 }
 
-async function readOrCacheRemoteImage(dataRoot: string, remoteUrl: string): Promise<{ buf: Uint8Array; contentType: string } | null> {
-  const cacheDir = path.join(dataRoot, "_meta", "image-cache");
-  await fs.mkdir(cacheDir, { recursive: true });
+async function readOrCacheRemoteImage(
+  remoteUrl: string,
+  preferredCacheDir: string | null
+): Promise<{ buf: Uint8Array; contentType: string } | null> {
+  let cacheDir = preferredCacheDir;
+  if (cacheDir) {
+    try {
+      await fs.mkdir(cacheDir, { recursive: true });
+    } catch {
+      cacheDir = null;
+    }
+  }
 
   const key = crypto.createHash("sha256").update(remoteUrl).digest("hex");
 
-  try {
-    const files = await fs.readdir(cacheDir);
-    const existed = files.find((name) => name.startsWith(`${key}.`));
-    if (existed) {
-      const abs = path.join(cacheDir, existed);
-      const buf = await fs.readFile(abs);
-      return { buf, contentType: getMimeType(abs) };
+  if (cacheDir) {
+    try {
+      const files = await fs.readdir(cacheDir);
+      const existed = files.find((name) => name.startsWith(`${key}.`));
+      if (existed) {
+        const abs = path.join(cacheDir, existed);
+        const buf = await fs.readFile(abs);
+        return { buf, contentType: getMimeType(abs) };
+      }
+    } catch {
+      // continue to fetch
     }
-  } catch {
-    // continue to fetch
   }
 
   let response: Response;
@@ -103,11 +114,13 @@ async function readOrCacheRemoteImage(dataRoot: string, remoteUrl: string): Prom
   if (buf.length === 0 || buf.length > 8 * 1024 * 1024) return null;
 
   const ext = extensionFromRemote(remoteUrl, contentType);
-  const outPath = path.join(cacheDir, `${key}${ext}`);
-  try {
-    await fs.writeFile(outPath, buf);
-  } catch {
-    // ignore write failure and still return fetched content
+  if (cacheDir) {
+    const outPath = path.join(cacheDir, `${key}${ext}`);
+    try {
+      await fs.writeFile(outPath, buf);
+    } catch {
+      // ignore write failure and still return fetched content
+    }
   }
   return { buf, contentType };
 }
@@ -128,12 +141,19 @@ export async function GET(request: NextRequest) {
       return NextResponse.json({ error: "invalid remote url" }, { status: 400 });
     }
 
-    const dataRoot = await resolveDataRoot();
-    if (!dataRoot) {
-      return NextResponse.json({ error: "data root not found" }, { status: 500 });
+    const isVercel = process.env.VERCEL === "1";
+    let preferredCacheDir: string | null = null;
+
+    if (isVercel) {
+      preferredCacheDir = "/tmp/type-parser-image-cache";
+    } else {
+      const dataRoot = await resolveDataRoot();
+      if (dataRoot) {
+        preferredCacheDir = path.join(dataRoot, "_meta", "image-cache");
+      }
     }
 
-    const cached = await readOrCacheRemoteImage(dataRoot, remoteUrl);
+    const cached = await readOrCacheRemoteImage(remoteUrl, preferredCacheDir);
     if (!cached) {
       return NextResponse.json({ error: "remote image unavailable" }, { status: 404 });
     }
