@@ -7,7 +7,7 @@
       "enabled": true,
       "base_url": "https://www.myfonts.com",
       "meta": {
-        "favicon_url": "https://www.myfonts.com/favicon.ico"
+        "favicon_url": "https://www.myfonts.com/cdn/shop/files/MyFonts_Favicon_small.png?v=1717748062"
       },
       "crawl": {
         "mode": "myfonts_api",
