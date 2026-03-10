@@ -11,9 +11,9 @@ venv/
 # OS
 .DS_Store
 
-# Local runtime/state
-state/
-data/
+# Local runtime/state (only repo root — web/data and web/state are committed for Vercel)
+/state/
+/data/
 
 # Frontend deps/build
 web/node_modules/

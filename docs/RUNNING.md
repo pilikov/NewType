@@ -70,12 +70,6 @@ npm run dev
 bash scripts/smoke_baseline.sh
 ```
 
-Проверка расхождения `src` и `typerelease-sync/src`:
-
-```bash
-bash scripts/check_src_mirror.sh
-```
-
 ## Короткие команды через Makefile
 
 ```bash
