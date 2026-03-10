@@ -77,6 +77,18 @@ python3 -m src.main --sources myfonts --myfonts-start-date 2026-03-01 --myfonts-
 python3 -m src.main --history-weeks 10
 ```
 
+### MyFonts: исправить названия пакетов в уже скачанном JSON (без ре-рана)
+В `products.json` у MyFonts отдельные товары на каждый пакет («Complete Family», «Upright», «Slanted»). Краулер подставляет `collection_url` в `source_url`, но `name` остаётся заголовком товара — в UI появляются карточки «Upright» с ссылкой на другую семью. Локально можно поправить только данные:
+
+```bash
+python3 scripts/fix_myfonts_package_names.py --dry-run --roots web/data/myfonts
+python3 scripts/fix_myfonts_package_names.py --write --roots web/data/myfonts
+# Опционально: одна карточка на семью (схлопывает дубликаты по collection URL)
+python3 scripts/fix_myfonts_package_names.py --write --dedupe --roots web/data/myfonts
+```
+
+После `--write` пересоберите/задеплойте `web/` или снова выполните `npm run prebuild` в `web/`.
+
 ## Структура данных
 - `data/<source>/<YYYY-MM-DD>/all_releases.json`
 - `data/<source>/<YYYY-MM-DD>/new_releases.json`
