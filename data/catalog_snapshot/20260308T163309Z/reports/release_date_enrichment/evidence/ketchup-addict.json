@@ -1,0 +1,27 @@
+{
+  "record_id": "ketchup-addict",
+  "source_url": "https://www.suvatypefoundry.ee/ketchup-addict/",
+  "checked_at": "2026-03-09T01:40:18.868395+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/ketchup-addict/",
+      "snippet": " KETCHUP ADDICT NEXT FONT A U Q G I DOWNLOAD O M P Z S H E F B T K R X W V N Y L C J D KETCHUP ADDICT  by Birgita Siim (2019) The font reflects emptiness in stomach and soul of a Ketchup Addict, who is constantly dreamin"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/ketchup-addict/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/ketchup-addict/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "my-maps-sans-stereographic",
+  "source_url": "https://www.suvatypefoundry.ee/my-maps-sans-stereographic/",
+  "checked_at": "2026-03-09T01:52:51.452750+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/my-maps-sans-stereographic/",
+      "snippet": "S SANS STEREOGRAPHIC NEXT FONT V CONTACT M W R C Z L J F N X B P K U O Y Q A E I D S T G H MY MAPS SANS by Andree Paat (2016) For my BA final project I experimented with different virtual tools that have a drawing functi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/my-maps-sans-stereographic/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/my-maps-sans-stereographic/",
+    "last_modified": null
+  }
+}

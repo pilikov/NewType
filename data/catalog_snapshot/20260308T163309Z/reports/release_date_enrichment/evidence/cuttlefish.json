@@ -1,0 +1,34 @@
+{
+  "record_id": "cuttlefish",
+  "source_url": "https://teelinefonts.com/typefaces/cuttlefish",
+  "checked_at": "2026-03-09T01:38:04.319162+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://teelinefonts.com/typefaces/cuttlefish",
+      "snippet": "notes Pangrams About The foundry The designer Contact Follow Newsletter Facebook Instagram Mastodon Bluesky Copyright © 2021 Teeline Fonts LLC. All rights reserved. This website, designed with Webflow and Fontdue , uses "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://teelinefonts.com/typefaces/cuttlefish",
+      "snippet": "Sat, 07 Mar 2026 01:42:11 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://teelinefonts.com/typefaces/cuttlefish",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://teelinefonts.com/typefaces/cuttlefish",
+    "last_modified": "Sat, 07 Mar 2026 01:42:11 GMT"
+  }
+}

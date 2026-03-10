@@ -1,0 +1,20 @@
+{
+  "record_id": "two-fingers-skinny",
+  "source_url": "https://www.rsztype.com/fonts/two-fingers",
+  "checked_at": "2026-03-09T02:01:33.986412+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-14",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.rsztype.com/fonts/two-fingers",
+      "snippet": "2026-02-14"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.rsztype.com/fonts/two-fingers",
+    "last_modified": null
+  }
+}

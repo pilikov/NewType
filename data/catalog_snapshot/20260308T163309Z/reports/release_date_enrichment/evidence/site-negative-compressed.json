@@ -1,0 +1,55 @@
+{
+  "record_id": "site-negative-compressed",
+  "source_url": "https://typeandroll.eu/typefaces/site-negative-compressed",
+  "checked_at": "2026-03-09T02:00:40.219200+00:00",
+  "candidates": [
+    {
+      "date": "2022-06-25",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typeandroll.eu/site-negative-compressed/",
+      "snippet": "2022-06-25T11:53:21+02:00"
+    },
+    {
+      "date": "2022-06-25",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://typeandroll.eu/site-negative-compressed/",
+      "snippet": "2022-06-25T11:53:21+02:00"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typeandroll.eu/site-negative-compressed/",
+      "snippet": "same time, narrow proportions and large x-height enables compact typesetting. Designed by Robert Jarzec Release date 07.2022 Scripts Latin Language support Western European, Central European, South Eastern European, Sout"
+    },
+    {
+      "date": "2022-07-11",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typeandroll.eu/site-negative-compressed/",
+      "snippet": "2022-07-11T16:44:21+02:00"
+    },
+    {
+      "date": "2022-07-11",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://typeandroll.eu/site-negative-compressed/",
+      "snippet": "2022-07-11T16:44:21+02:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typeandroll.eu/typefaces/site-negative-compressed",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typeandroll.eu/site-negative-compressed/",
+    "last_modified": null
+  }
+}

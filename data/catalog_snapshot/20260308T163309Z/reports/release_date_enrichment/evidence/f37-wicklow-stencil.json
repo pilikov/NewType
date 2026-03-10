@@ -1,0 +1,41 @@
+{
+  "record_id": "f37-wicklow-stencil",
+  "source_url": "https://www.f37foundry.com/fonts/f37-wicklow-stencil",
+  "checked_at": "2026-03-09T01:59:10.440348+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-03",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.f37foundry.com/fonts/f37-wicklow-stencil",
+      "snippet": "2026-02-03T07:44:35Z"
+    },
+    {
+      "date": "1993-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.f37foundry.com/fonts/f37-wicklow-stencil",
+      "snippet": "w F37 Blanka Weight Bold Size 80pt Leading 90pt Tracking -5 Buy F37 Wicklow Stencil & F37 Wicklow Michael Biggs (1928 — 1993) was born in Stockport, Cheshire, UK. He lived in Dublin from 1930, with the exception of 1948-"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.f37foundry.com/fonts/f37-wicklow-stencil",
+      "snippet": "mation Trial Fonts Goods Fonts In Use About Information Support FAQ’s Licences Copyright Cookie Policy Privacy Policy © 2026 F37 Foundry Limited. All Rights Reserved"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.f37foundry.com/fonts/f37-wicklow-stencil",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.f37foundry.com/fonts/f37-wicklow-stencil",
+    "last_modified": null
+  }
+}

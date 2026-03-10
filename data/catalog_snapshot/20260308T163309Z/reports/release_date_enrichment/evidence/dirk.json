@@ -1,0 +1,48 @@
+{
+  "record_id": "dirk",
+  "source_url": "https://www.centraltype.com/dirk",
+  "checked_at": "2026-03-09T01:58:44.614497+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.centraltype.com/dirk",
+      "snippet": " Each style is packed with a robust selection of diacritics and special characters for thorough language support. YEAR: 2018 DESIGNER: Mark Butchko Styles: 6 Regular, 6 Oblique version: 2.0 SAMPLES Copyright © 2023 Centr"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.centraltype.com/dirk",
+      "snippet": "ab. The result retains the charm of vintage wood type, but sheds a lot of the over-familiarity of a digital revival. In 2022, the Dirk family was expanded six regular styles and six matching obliques. Each style is packe"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.centraltype.com/dirk",
+      "snippet": "rough language support. YEAR: 2018 DESIGNER: Mark Butchko Styles: 6 Regular, 6 Oblique version: 2.0 SAMPLES Copyright © 2023 Central Type. All rights reserved. Licensing Information"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.centraltype.com/dirk",
+      "snippet": "Tue, 03 Mar 2026 17:24:37 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.centraltype.com/dirk",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.centraltype.com/dirk",
+    "last_modified": "Tue, 03 Mar 2026 17:24:37 GMT"
+  }
+}

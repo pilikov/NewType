@@ -1,0 +1,41 @@
+{
+  "record_id": "karl",
+  "source_url": "https://www.sourcetype.com/typefaces/333/karl",
+  "checked_at": "2026-03-09T01:41:14.593122+00:00",
+  "candidates": [
+    {
+      "date": "1992-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.sourcetype.com/typefaces/333/karl",
+      "snippet": " FF Blur mimic the degenerative effect of copying and recopying on a low-quality Xerox machine. FF Blur, Neville Brody (1992) 10/11 VAG Rounded used on Apple keyboards to compensate for backlight blur (1999–2015) 11/11 I"
+    },
+    {
+      "date": "1999-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.sourcetype.com/typefaces/333/karl",
+      "snippet": "erox machine. FF Blur, Neville Brody (1992) 10/11 VAG Rounded used on Apple keyboards to compensate for backlight blur (1999–2015) 11/11 In 1983 Hooters creates its infamous logo, later that year the company was official"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.sourcetype.com/typefaces/333/karl",
+      "snippet": "machine. FF Blur, Neville Brody (1992) 10/11 VAG Rounded used on Apple keyboards to compensate for backlight blur (1999–2015) 11/11 In 1983 Hooters creates its infamous logo, later that year the company was officially in"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.sourcetype.com/typefaces/333/karl",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.sourcetype.com/typefaces/333/karl",
+    "last_modified": null
+  }
+}

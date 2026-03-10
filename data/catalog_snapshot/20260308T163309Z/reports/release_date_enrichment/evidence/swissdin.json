@@ -1,0 +1,62 @@
+{
+  "record_id": "swissdin",
+  "source_url": "https://newglyph.com/typefaces/swissdin",
+  "checked_at": "2026-03-09T01:58:37.001747+00:00",
+  "candidates": [
+    {
+      "date": "2024-03-27",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://newglyph.com/typeface/swissdin/",
+      "snippet": "2024-03-27T08:02:21+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://newglyph.com/typeface/swissdin/",
+      "snippet": "arty Website Art Direction by Dennis Moya Razafimandimby Experience design by Kilian Amendola Web development by Horde ©2026 newglyph"
+    },
+    {
+      "date": "2025-01-21",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://newglyph.com/typeface/swissdin/",
+      "snippet": "2025-01-21T15:44:27+00:00"
+    },
+    {
+      "date": "2025-01-21",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://newglyph.com/typeface/swissdin/",
+      "snippet": "2025-01-21T15:44:27+00:00"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://newglyph.com/typeface/swissdin/",
+      "snippet": "dium Medium Italic Semi Bold Semi Bold Italic Bold Bold Italic Extra Bold Extra Bold Italic Black Black Italic Ascender 2020 Cap height 1444 X height 1067 Baseline 0 Descender -576 Uppercase Lowercase Uppercase accented "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://newglyph.com/typeface/swissdin/",
+      "snippet": "Sun, 08 Mar 2026 16:27:49 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://newglyph.com/typefaces/swissdin",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://newglyph.com/typeface/swissdin/",
+    "last_modified": "Sun, 08 Mar 2026 16:27:49 GMT"
+  }
+}

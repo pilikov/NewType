@@ -1,0 +1,41 @@
+{
+  "record_id": "ts-fonts--zunburk-font-v3-2",
+  "source_url": "https://tsfonts.com/font/zunburk-font-v3-2/",
+  "checked_at": "2026-03-09T02:01:03.544118+00:00",
+  "candidates": [
+    {
+      "date": "2025-04-24",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://tsfonts.com/font/zunburk-font-v3-2/",
+      "snippet": "2025-04-24T18:38:13+00:00"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://tsfonts.com/font/zunburk-font-v3-2/",
+      "snippet": "he most distinctive multilingual typefaces, offering seven variable axes within a single font.. First released in early 2024, it has gone through several uplifting phases, culminating in the current Version 3 . All lette"
+    },
+    {
+      "date": "2026-02-15",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://tsfonts.com/font/zunburk-font-v3-2/",
+      "snippet": "2026-02-15T13:06:17+00:00"
+    },
+    {
+      "date": "2026-02-21",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://tsfonts.com/font/zunburk-font-v3-2/",
+      "snippet": "2026-02-21"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://tsfonts.com/font/zunburk-font-v3-2/",
+    "last_modified": null
+  }
+}

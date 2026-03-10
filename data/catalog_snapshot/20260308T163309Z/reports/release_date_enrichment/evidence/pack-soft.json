@@ -1,0 +1,104 @@
+{
+  "record_id": "pack-soft",
+  "source_url": "https://bloomtype.com/fonts/pack-soft",
+  "checked_at": "2026-03-09T01:46:51.772234+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-26",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://bloomtype.com/fonts/pack-soft/",
+      "snippet": "2022-01-26T15:36:49+00:00"
+    },
+    {
+      "date": "2022-01-26",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://bloomtype.com/fonts/pack-soft/",
+      "snippet": "2022-01-26T15:36:49+00:00"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://bloomtype.com/fonts/pack-soft/",
+      "snippet": " much character as possible into the space it’s given. Perfect for dense snug and comfy headlines! Release date October 2022 Designer Baptiste Guesnon Related links Pack Hard Twitter Instagram contact@bloomtype.com Typef"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://bloomtype.com/fonts/pack-soft/",
+      "snippet": "mailing list to receive future font updates and releases. Selection of past custom type projects Folksam Sans Folksam – 2025 Vend Sans Vend (ex. Schibsted) – 2025 Fairly Sans Jimmy Fairly – 2024 Postmuseum Display Postmu"
+    },
+    {
+      "date": "2025-05-02",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://bloomtype.com/fonts/pack-soft/",
+      "snippet": "2025-05-02T06:35:22+00:00"
+    },
+    {
+      "date": "2025-05-02",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://bloomtype.com/fonts/pack-soft/",
+      "snippet": "2025-05-02T06:35:22+00:00"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://bloomtype.com/fonts/pack-soft/",
+      "snippet": "xt Gaultier Text Jean Paul Gaultier – 2021 kpa KPA KPA Pension – 2020 sbab SBAB SBAB – 2019 almega Almega Sans Almega – 2018 Welcome to the garden, where things grow… or get tossed in the shed! Glasshouse Try the font bu"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://bloomtype.com/fonts/pack-soft/",
+      "snippet": " Paul Gaultier – 2021 gaultier-text Gaultier Text Jean Paul Gaultier – 2021 kpa KPA KPA Pension – 2020 sbab SBAB SBAB – 2019 almega Almega Sans Almega – 2018 Welcome to the garden, where things grow… or get tossed in the"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://bloomtype.com/fonts/pack-soft/",
+      "snippet": "ono Gaultier Mono Jean Paul Gaultier – 2021 gaultier-text Gaultier Text Jean Paul Gaultier – 2021 kpa KPA KPA Pension – 2020 sbab SBAB SBAB – 2019 almega Almega Sans Almega – 2018 Welcome to the garden, where things grow"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://bloomtype.com/fonts/pack-soft/",
+      "snippet": "ess Display Arlanda Express – 2023 Hjärnsläpp Hjärnfonden – 2022 gaultier-display Gaultier Display Jean Paul Gaultier – 2021 gaultier-mono Gaultier Mono Jean Paul Gaultier – 2021 gaultier-text Gaultier Text Jean Paul Gau"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://bloomtype.com/fonts/pack-soft/",
+      "snippet": "y Fairly – 2024 Postmuseum Display Postmuseum – 2024 Adlibris Sans Adlibris – 2024 Gaultier Gothic Jean Paul Gaultier – 2023 Strawberry Sans Strawberry – 2023 Express Display Arlanda Express – 2023 Hjärnsläpp Hjärnfonden"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://bloomtype.com/fonts/pack-soft/",
+      "snippet": " past custom type projects Folksam Sans Folksam – 2025 Vend Sans Vend (ex. Schibsted) – 2025 Fairly Sans Jimmy Fairly – 2024 Postmuseum Display Postmuseum – 2024 Adlibris Sans Adlibris – 2024 Gaultier Gothic Jean Paul Ga"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://bloomtype.com/fonts/pack-soft",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://bloomtype.com/fonts/pack-soft/",
+    "last_modified": null
+  }
+}

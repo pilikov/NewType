@@ -1,0 +1,48 @@
+{
+  "record_id": "dx-kord-variable",
+  "source_url": "https://dirtylinestudio.com/product/dx-kord/",
+  "checked_at": "2026-03-09T01:43:10.158626+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://dirtylinestudio.com/product/dx-kord/",
+      "snippet": "our design to the next level. Credits & Details Styles Regular Designers Hendra Maulia, Aulia Rahman Release Date April 2025 Version 1.00 Available Formats OTF\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tTTF\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWOFF\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWOFF2 Sup"
+    },
+    {
+      "date": "2025-04-05",
+      "score": 0.7,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://dirtylinestudio.com/product/dx-kord/",
+      "snippet": "2025-04-05T11:20:18+07:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://dirtylinestudio.com/product/dx-kord/",
+      "snippet": "es Mockups Freebies Custom-Project Shop Freebies Custom-Project Works Font In Use Blog License About © Dirtyline Studio 2026 Dx Kord Variable Trial Buying Options Font Tester Info Glyph Trial Buying Options Variable Font"
+    },
+    {
+      "date": "2025-10-11",
+      "score": 0.44999999999999996,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://dirtylinestudio.com/product/dx-kord/",
+      "snippet": "2025-10-11T21:59:52+07:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://dirtylinestudio.com/product/dx-kord/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://dirtylinestudio.com/product/dx-kord/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "record_id": "futura-nd-display",
+  "source_url": "https://bauertypes.com/bauer-classics/futura-nd-display/",
+  "checked_at": "2026-03-09T01:49:52.839764+00:00",
+  "candidates": [
+    {
+      "date": "2022-03-16",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://bauertypes.com/bauer-classics/futura-nd-display/",
+      "snippet": "2022-03-16T07:56:15+00:00"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://bauertypes.com/bauer-classics/futura-nd-display/",
+      "snippet": "ved Other links Terminos y Condiciones Politica de privacidad Aviso Legal Politica de cookies EULA Contacta Copyright © 2022 Bauer Types, S.L. | All rights reserved NEWSLETTER Stay up to date with the latest typography n"
+    },
+    {
+      "date": "2025-04-23",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://bauertypes.com/bauer-classics/futura-nd-display/",
+      "snippet": "2025-04-23T15:25:39+00:00"
+    },
+    {
+      "date": "2025-04-23",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://bauertypes.com/bauer-classics/futura-nd-display/",
+      "snippet": "2025-04-23T15:25:39+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://bauertypes.com/bauer-classics/futura-nd-display/",
+      "snippet": "icy Policy of Cookies EULA Contact General Terms Legal Notice Privacy Policy Policy of Cookies EULA Contact Copyright © 2025 Bauer Types, S.L. | All rights reserved Other links Terminos y Condiciones Politica de privacid"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://bauertypes.com/bauer-classics/futura-nd-display/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://bauertypes.com/bauer-classics/futura-nd-display/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "cowgirl",
+  "source_url": "https://www.shapesforcash.com/typefaces/cowgirl",
+  "checked_at": "2026-03-09T01:51:23.763693+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.shapesforcash.com/typefaces/cowgirl",
+      "snippet": " is rude. However, I protest my innocence, I was listening to Neil Young’s Cowgirl in the sand at the time of naming. © 2026 Shapes for Cash"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.shapesforcash.com/typefaces/cowgirl",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.shapesforcash.com/typefaces/cowgirl",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "confettis-braille",
+  "source_url": "https://typographies.fr/N/confettisbraille/confettisbraille.html",
+  "checked_at": "2026-03-09T01:45:59.421653+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typographies.fr/N/confettisbraille/confettisbraille.html",
+      "snippet": " for the Tokyo Type Directors Club Annual. Confettis Braille typeface was selected for Typographica Favourite Typefaces 2016. Take a look at the article on TypeCulture . Thanks to Mark Jamra for his editorial assistance "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typographies.fr/N/confettisbraille/confettisbraille.html",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typographies.fr/N/confettisbraille/confettisbraille.html",
+    "last_modified": null
+  }
+}

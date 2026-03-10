@@ -1,0 +1,48 @@
+{
+  "record_id": "progressiva",
+  "source_url": "https://outrasfontes.com/typefaces/progressiva",
+  "checked_at": "2026-03-09T01:42:23.521267+00:00",
+  "candidates": [
+    {
+      "date": "2021-05-06",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://outrasfontes.com/progressiva/",
+      "snippet": "2021-05-06T22:14:55+00:00"
+    },
+    {
+      "date": "2021-05-06",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://outrasfontes.com/progressiva/",
+      "snippet": "2021-05-06T22:14:55+00:00"
+    },
+    {
+      "date": "2024-05-22",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://outrasfontes.com/progressiva/",
+      "snippet": "2024-05-22T01:31:00+00:00"
+    },
+    {
+      "date": "2024-05-22",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://outrasfontes.com/progressiva/",
+      "snippet": "2024-05-22T01:31:00+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://outrasfontes.com/typefaces/progressiva",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://outrasfontes.com/progressiva/",
+    "last_modified": null
+  }
+}

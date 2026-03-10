@@ -1,0 +1,15 @@
+https://cdn-gc.type.today/_next/static/D8X_TB406JhDZncVZ-A9v/_buildManifest.js
+https://cdn-gc.type.today/_next/static/D8X_TB406JhDZncVZ-A9v/_ssgManifest.js
+https://cdn-gc.type.today/_next/static/chunks/358-9e91e6ba4a673c9a.js
+https://cdn-gc.type.today/_next/static/chunks/375-2900a1ad8ba0faf2.js
+https://cdn-gc.type.today/_next/static/chunks/506-776f865635bb6d6d.js
+https://cdn-gc.type.today/_next/static/chunks/625-ad73ed907c910b50.js
+https://cdn-gc.type.today/_next/static/chunks/751-c79238a1565030eb.js
+https://cdn-gc.type.today/_next/static/chunks/788-85b5e705101f7753.js
+https://cdn-gc.type.today/_next/static/chunks/framework-467b11a89995b152.js
+https://cdn-gc.type.today/_next/static/chunks/main-91bfc30a3c06de7a.js
+https://cdn-gc.type.today/_next/static/chunks/pages/_app-ed100058a3a5297b.js
+https://cdn-gc.type.today/_next/static/chunks/pages/designer/%5Bauthor_slug%5D-bbdf06de62a014e6.js
+https://cdn-gc.type.today/_next/static/chunks/pages/index-f9fcbe22de555d0f.js
+https://cdn-gc.type.today/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+https://cdn-gc.type.today/_next/static/chunks/webpack-10fe492b4ab4b4db.js

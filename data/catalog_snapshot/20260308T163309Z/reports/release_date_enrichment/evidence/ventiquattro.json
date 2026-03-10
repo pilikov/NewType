@@ -1,0 +1,62 @@
+{
+  "record_id": "ventiquattro",
+  "source_url": "https://playtype.com/typefaces/ventiquattro",
+  "checked_at": "2026-03-09T01:57:52.145152+00:00",
+  "candidates": [
+    {
+      "date": "2024-11-13",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://playtype.com/typefaces/ventiquattro/",
+      "snippet": "2024-11-13T09:32:11+00:00"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://playtype.com/typefaces/ventiquattro/",
+      "snippet": "ld Italic Bold Italic Extrabold Italic Black Italic VentiQuattro Buy from 50€ Styles 18 Designer Jonas Hecksher Release 2024 Buongiorno – say hello to VentiQuattro. VentiQuattro is an elegant, distinct and expressive ser"
+    },
+    {
+      "date": "2025-12-08",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://playtype.com/typefaces/ventiquattro/",
+      "snippet": "2025-12-08T08:49:24+00:00"
+    },
+    {
+      "date": "2025-12-08",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://playtype.com/typefaces/ventiquattro/",
+      "snippet": "2025-12-08T08:49:24+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://playtype.com/typefaces/ventiquattro/",
+      "snippet": "rty of their respective owners and no endorsement or derogation is intended or inferred. All other content, copyright © 2026 Playtype. All rights reserved."
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://playtype.com/typefaces/ventiquattro/",
+      "snippet": "Fri, 06 Mar 2026 12:23:59 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://playtype.com/typefaces/ventiquattro",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://playtype.com/typefaces/ventiquattro/",
+    "last_modified": "Fri, 06 Mar 2026 12:23:59 GMT"
+  }
+}

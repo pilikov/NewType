@@ -1,0 +1,27 @@
+{
+  "record_id": "megavolt-narrow",
+  "source_url": "https://djr.com/notes/megavolt-narrow-font-of-the-month",
+  "checked_at": "2026-03-09T01:49:26.501216+00:00",
+  "candidates": [
+    {
+      "date": "2025-06-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/megavolt-narrow-font-of-the-month",
+      "snippet": "wog Rhody Rustique Slight Chance Tortellini Zenith DJR Club Typeset Glyphs Notes About Sign in Cart Notes See all posts June 1, 2025 # David Jonathan Ross May’s Font of the Month: Megavolt Narrow Sextile concert poster b"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://djr.com/notes/megavolt-narrow-font-of-the-month",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://djr.com/notes/megavolt-narrow-font-of-the-month",
+    "last_modified": null
+  }
+}

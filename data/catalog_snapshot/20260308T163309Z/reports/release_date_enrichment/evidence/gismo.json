@@ -1,0 +1,62 @@
+{
+  "record_id": "gismo",
+  "source_url": "https://fontfabric.com/typefaces/gismo",
+  "checked_at": "2026-03-09T01:40:54.868679+00:00",
+  "candidates": [
+    {
+      "date": "2023-03-09",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.fontfabric.com/fonts/gismo/",
+      "snippet": "2023-03-09T00:09:35+00:00"
+    },
+    {
+      "date": "2023-03-09",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/gismo/",
+      "snippet": "rnates, ordinals, localization, and more, providing advanced typographic control for modern design needs. Release Date: March 9, 2023 4 Gismo Font Styles (1 Variable): Gismo Variable ; Gismo SemiRound ; Gismo SemiRectang"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.fontfabric.com/fonts/gismo/",
+      "snippet": "2026-02-18T13:11:55+00:00"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.fontfabric.com/fonts/gismo/",
+      "snippet": "2026-02-18T13:11:55+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/gismo/",
+      "snippet": "pt fonts Font sale Free fonts Fonts in use Font collections Legal Infringements About Help Blog Partnerships Contact us 2026 © Fontfabric llc. Privacy Notice Manage Cookies"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.fontfabric.com/fonts/gismo/",
+      "snippet": "Sun, 08 Mar 2026 17:30:52 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fontfabric.com/typefaces/gismo",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.fontfabric.com/fonts/gismo/",
+    "last_modified": "Sun, 08 Mar 2026 17:30:52 GMT"
+  }
+}

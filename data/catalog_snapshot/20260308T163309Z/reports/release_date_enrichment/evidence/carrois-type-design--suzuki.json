@@ -1,0 +1,41 @@
+{
+  "record_id": "carrois-type-design--suzuki",
+  "source_url": "https://www.carrois.com/typefaces/custom/Suzuki/",
+  "checked_at": "2026-03-09T02:00:58.809457+00:00",
+  "candidates": [
+    {
+      "date": "2005-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.carrois.com/typefaces/custom/Suzuki/",
+      "snippet": "atin Extended · Greek · Cyrillic · Vietnamese 🌐 120+ Languages Credits Client: Suzuki Agency: Sven Voelker Studio Year: 2005 - 2012 Design Executive: Ralph du Carrois Mastering & Font-Production: Alphabet Type Project Ma"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.carrois.com/typefaces/custom/Suzuki/",
+      "snippet": "tended · Greek · Cyrillic · Vietnamese 🌐 120+ Languages Credits Client: Suzuki Agency: Sven Voelker Studio Year: 2005 - 2012 Design Executive: Ralph du Carrois Mastering & Font-Production: Alphabet Type Project Managemen"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.carrois.com/typefaces/custom/Suzuki/",
+      "snippet": " Design & Technology Consulting & Licensing Logo Service Studio Contact Login LinkedIn EULA / AGB Impressum en de © CTD 2026 — Carrois Type Design is a label of bBox Type GmbH"
+    },
+    {
+      "date": "2026-02-22",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.carrois.com/typefaces/custom/Suzuki/",
+      "snippet": "2026-02-22"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.carrois.com/typefaces/custom/Suzuki/",
+    "last_modified": null
+  }
+}

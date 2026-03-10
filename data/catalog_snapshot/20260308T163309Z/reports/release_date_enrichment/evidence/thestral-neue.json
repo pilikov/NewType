@@ -1,0 +1,27 @@
+{
+  "record_id": "thestral-neue",
+  "source_url": "https://xcicero.esad-gv.net/page/thestral/",
+  "checked_at": "2026-03-09T02:01:37.434218+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://xcicero.esad-gv.net/page/thestral/",
+      "snippet": "ter Thestral Neue, dessiné par Pauline Maréchal, à partir d’un caractère de la maison Jacoby & Fils. Version 1.0 (avril 2024) Télécharger la fonte"
+    },
+    {
+      "date": "2026-02-14",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://xcicero.esad-gv.net/page/thestral/",
+      "snippet": "2026-02-14"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://xcicero.esad-gv.net/page/thestral/",
+    "last_modified": null
+  }
+}

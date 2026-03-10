@@ -1,0 +1,27 @@
+{
+  "record_id": "zwizz-typeface",
+  "source_url": "https://hanken.co/products/zwizz-typeface",
+  "checked_at": "2026-03-09T01:50:01.139628+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://hanken.co/products/zwizz-typeface",
+      "snippet": "        – Hanken Design Co. Skip to content Fonts Licensing Desktop License Webfont License App License HDC Font Bundle 2026 Customized/Enterprise Font Licensing Services Contact Us Log in Search Submit Submit Close 0 it"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://hanken.co/products/zwizz-typeface",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hanken.co/products/zwizz-typeface",
+    "last_modified": null
+  }
+}

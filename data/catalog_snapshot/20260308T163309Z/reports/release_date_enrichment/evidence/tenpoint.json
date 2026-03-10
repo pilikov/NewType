@@ -1,0 +1,20 @@
+{
+  "record_id": "tenpoint",
+  "source_url": "https://muirmcneil.com/typefaces/tenpoint",
+  "checked_at": "2026-03-09T02:04:13.533549+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://muirmcneil.com/typefaces/tenpoint",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://muirmcneil.com/project/tenpoint/",
+    "last_modified": null
+  }
+}

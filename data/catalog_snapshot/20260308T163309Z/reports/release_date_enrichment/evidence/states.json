@@ -1,0 +1,27 @@
+{
+  "record_id": "states",
+  "source_url": "https://fatype.com/typefaces/states",
+  "checked_at": "2026-03-09T01:57:04.759385+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fatype.com/typefaces/states",
+      "snippet": " Oil Based Varnishes Rounded Black Buy Citizenship in a Castle of pixels Rounded Thin Italic Buy The Temple Woods Gang (2022) RAZ Rounded Light Italic Buy High-Fi Sound: 24-bit@192kHz max Rounded Regular Italic Buy Johnn"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fatype.com/typefaces/states",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fatype.com/typefaces/states",
+    "last_modified": null
+  }
+}

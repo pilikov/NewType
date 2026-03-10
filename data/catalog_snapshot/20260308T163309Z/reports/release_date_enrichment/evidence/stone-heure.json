@@ -1,0 +1,41 @@
+{
+  "record_id": "stone-heure",
+  "source_url": "https://ainsifont.com/font/stone-heure",
+  "checked_at": "2026-03-09T01:56:27.732942+00:00",
+  "candidates": [
+    {
+      "date": "1998-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/font/stone-heure",
+      "snippet": " Xavier Meurice is a French designer born in 1974. Graduated of l’École supérieure des Arts Décoratifs de Strasbourg in 1998. Co-founder of the graphic design studio Atelier télescopique in 1998. Co-founder of the digita"
+    },
+    {
+      "date": "2001-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/font/stone-heure",
+      "snippet": "da Regular Buy ADD TO CART 30 € OTF Stone Heure Regular Fantaisie-0 -123456789) -ABCD-(éà:? Fantaisie Headline 1 weight 2001 Af Stone Heure 2001 Designer. Xavier Meurice Classification. Fantaisie Langage. Latin Standard "
+    },
+    {
+      "date": "2007-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/font/stone-heure",
+      "snippet": "e 1 weight 2001 Af Stone Heure 2001 Designer. Xavier Meurice Classification. Fantaisie Langage. Latin Standard Édition. 2007 Illustrations et photographies. © Atelier télescopique. Info. Caractère de titrage à utiliser e"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ainsifont.com/font/stone-heure",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.ainsifont.com/font/stone-heure",
+    "last_modified": null
+  }
+}

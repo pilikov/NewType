@@ -1,0 +1,34 @@
+{
+  "record_id": "astro",
+  "source_url": "https://detail.tf/pages/astro",
+  "checked_at": "2026-03-09T01:50:56.507151+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://detail.tf/pages/astro",
+      "snippet": "t letters to give the same impression to readers on from microchips to spaceships. Designer: Makoto Kamimura / Release: 2018 *Only available as a complete 40 styles family set. download Specimen(pdf) Astro 1 Default text"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://detail.tf/pages/astro",
+      "snippet": "P) 私たちについて 新着情報 ご購入方法 お問合せ Legal (JP) ライセンス サービス利用規約 プライバシーポリシー 特定商取引法に基づく表記 Facebook Twitter Instagram Kamimura & Co. ©2021 Kamimura & Co. Inc. Astro A neo-humanist sans serif. Astro is a calm, sophisticated, and noisel"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://detail.tf/pages/astro",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://detail.tf/pages/astro",
+    "last_modified": null
+  }
+}

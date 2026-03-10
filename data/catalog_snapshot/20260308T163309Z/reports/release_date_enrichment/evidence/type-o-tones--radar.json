@@ -1,0 +1,27 @@
+{
+  "record_id": "type-o-tones--radar",
+  "source_url": "https://type-o-tones.com/fonts/radar",
+  "checked_at": "2026-03-09T01:53:28.215972+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/radar",
+      "snippet": "ons Radar Family Pack 4 Fonts 220 € 165 € Add to cart Fina, Texto, Seminegra, Negra Author Marta Sánchez Marco Creation 2018 Actual version 1 Styles 4 Character sets Basic Latin Latin-1 Supplement Latin-2 Central Europea"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://type-o-tones.com/fonts/radar",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://type-o-tones.com/fonts/radar",
+    "last_modified": null
+  }
+}

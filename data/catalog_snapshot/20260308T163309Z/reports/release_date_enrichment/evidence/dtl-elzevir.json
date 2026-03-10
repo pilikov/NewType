@@ -1,0 +1,19 @@
+{
+  "record_id": "dtl-elzevir",
+  "source_url": "https://www.dutchtypelibrary.nl/DTLElzevir.html",
+  "checked_at": "2026-03-09T01:56:47.648105+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.dutchtypelibrary.nl/DTLElzevir.html",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='www.dutchtypelibrary.nl', port=443): Max retries exceeded with url: /DTLElzevir.html (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)')))"
+  }
+}

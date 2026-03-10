@@ -1,0 +1,34 @@
+{
+  "record_id": "royals-serif",
+  "source_url": "https://jenwagner.co/products/royals-serif",
+  "checked_at": "2026-03-09T01:53:05.349827+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://jenwagner.co/products/royals-serif-a-6-weight-timeless-serif-family/",
+      "snippet": "free demos before they're released!). Privacy Policy | Terms & Conditions | Shipping & Return Policy | © Jen Wagner Co. 2025 | Fonts used: JWType Sans | Shop development by Penguin Designing Resources typefaces Licensing"
+    },
+    {
+      "date": "2025-02-18",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://jenwagner.co/products/royals-serif-a-6-weight-timeless-serif-family/",
+      "snippet": "y. Use this classic, refined serif for large-scale headers, big text moments, or gorgeous quotes. (New Update: Released February 18, 2025) Royals Serif is a 6-weight typeface that was built to feel regal while still bein"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://jenwagner.co/products/royals-serif",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://jenwagner.co/products/royals-serif-a-6-weight-timeless-serif-family/",
+    "last_modified": null
+  }
+}

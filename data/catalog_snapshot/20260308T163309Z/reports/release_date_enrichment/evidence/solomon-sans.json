@@ -1,0 +1,62 @@
+{
+  "record_id": "solomon-sans",
+  "source_url": "https://fontfabric.com/typefaces/solomon-sans",
+  "checked_at": "2026-03-09T02:00:00.999344+00:00",
+  "candidates": [
+    {
+      "date": "2011-09-13",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.fontfabric.com/fonts/solomon-sans/",
+      "snippet": "2011-09-13T12:00:31+00:00"
+    },
+    {
+      "date": "2011-09-13",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/solomon-sans/",
+      "snippet": "igatures, subscript, and superscript—guaranteeing professional-level typographic control and flexibility. Release Date: September 13, 2011 Explore: Sans Serif Fonts Credits: Svetoslav Simov Similar fonts Resist Mono 16 f"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.fontfabric.com/fonts/solomon-sans/",
+      "snippet": "2026-03-05T14:38:01+00:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.fontfabric.com/fonts/solomon-sans/",
+      "snippet": "2026-03-05T14:38:01+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/solomon-sans/",
+      "snippet": "pt fonts Font sale Free fonts Fonts in use Font collections Legal Infringements About Help Blog Partnerships Contact us 2026 © Fontfabric llc. Privacy Notice Manage Cookies"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.fontfabric.com/fonts/solomon-sans/",
+      "snippet": "Mon, 09 Mar 2026 02:00:04 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fontfabric.com/typefaces/solomon-sans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.fontfabric.com/fonts/solomon-sans/",
+    "last_modified": "Mon, 09 Mar 2026 02:00:04 GMT"
+  }
+}

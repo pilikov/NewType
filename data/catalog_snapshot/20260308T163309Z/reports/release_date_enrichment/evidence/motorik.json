@@ -1,0 +1,34 @@
+{
+  "record_id": "motorik",
+  "source_url": "https://monokrom.no/fonts/motorik",
+  "checked_at": "2026-03-09T01:58:17.433823+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://monokrom.no/fonts/motorik",
+      "snippet": "ng italics. + Add Motorik to cart + Get free trial Details Designers: Frode Helland, Inga Plönnigs, Wei Huang Released: 2024 Animation: Julie Jørstad Text: Frode Helland Editing: Caren Litherland Language support We offe"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://monokrom.no/fonts/motorik",
+      "snippet": "age support We offer active support for over 200 languages. Read more about our character set . Monokrom Skriftforlag © 2026 Oslo—Kragerø—Birkeland · Imprint Select typeface ------ Avgarde Condensed Diploë R-I-B-BI Motor"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://monokrom.no/fonts/motorik",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://monokrom.no/fonts/motorik",
+    "last_modified": null
+  }
+}

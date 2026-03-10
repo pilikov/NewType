@@ -1,0 +1,48 @@
+{
+  "record_id": "winter-sans",
+  "source_url": "https://skrr-type.com/wintersans",
+  "checked_at": "2026-03-09T01:58:06.385201+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://skrr-type.com/wintersans",
+      "snippet": "ram 12 Styles + Variable Language support for the Western European Latin, Central European, Cyrillic Published in March 2022 Winter Sans is a neo-grotesque, strong and frank typeface, representing both winter's beauty an"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://skrr-type.com/wintersans",
+      "snippet": "is a neo-grotesque, strong and frank typeface, representing both winter's beauty and harshness. The idea began in early 2020 and was developped over 2 years to finally become a full 12-styles sans serif typeface. An unst"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://skrr-type.com/wintersans",
+      "snippet": "License View in cart Student License View in cart Download Trial Trial version Full Family Download In Use Skrr Type Â© 2025 Instagram m@skrr-type.com"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://skrr-type.com/wintersans",
+      "snippet": "Sun, 29 Jun 2025 09:45:13 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://skrr-type.com/wintersans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://skrr-type.com/wintersans",
+    "last_modified": "Sun, 29 Jun 2025 09:45:13 GMT"
+  }
+}

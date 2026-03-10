@@ -1,0 +1,27 @@
+{
+  "record_id": "claude-type--ninna",
+  "source_url": "https://claudetype.com/typefaces/ninna",
+  "checked_at": "2026-03-09T01:36:02.386524+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://claudetype.com/typefaces/ninna",
+      "snippet": "o Signature Works About Licensing Licensing EULA FAQ Trial Fonts Connect Instagram concierge@claudetype.com Subscribe © 2026 Claude • All Rights Reserved"
+    },
+    {
+      "date": "2026-03-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://claudetype.com/typefaces/ninna",
+      "snippet": "2026-03-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://claudetype.com/typefaces/ninna",
+    "last_modified": null
+  }
+}

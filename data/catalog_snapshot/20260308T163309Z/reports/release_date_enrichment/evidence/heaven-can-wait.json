@@ -1,0 +1,20 @@
+{
+  "record_id": "heaven-can-wait",
+  "source_url": "https://www.futurefonts.com/olga-umpeleva/heaven-can-wait",
+  "checked_at": "2026-03-09T02:01:24.504918+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-15",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.futurefonts.com/olga-umpeleva/heaven-can-wait",
+      "snippet": "2026-02-15"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.futurefonts.com/olga-umpeleva/heaven-can-wait",
+    "last_modified": null
+  }
+}

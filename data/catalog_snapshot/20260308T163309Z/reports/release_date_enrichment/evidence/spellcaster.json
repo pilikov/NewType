@@ -1,0 +1,27 @@
+{
+  "record_id": "spellcaster",
+  "source_url": "https://interrobangtype.co/typefaces/spellcaster",
+  "checked_at": "2026-03-09T01:38:36.692216+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://interrobangtype.co/product/spellcaster/",
+      "snippet": "ed on this site, unless otherwise mentioned, are the creation and intellectual property of Derek Weathersbee. Copyright 2021. X"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://interrobangtype.co/typefaces/spellcaster",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://interrobangtype.co/product/spellcaster/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "zeenesia-studio--panther-hunter",
+  "source_url": "https://zeenesia.com/product/panther-hunter/",
+  "checked_at": "2026-03-09T01:36:29.035067+00:00",
+  "candidates": [
+    {
+      "date": "2023-07-27",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://zeenesia.com/product/panther-hunter/",
+      "snippet": "2023-07-27T03:09:14+00:00"
+    },
+    {
+      "date": "2023-09-17",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://zeenesia.com/product/panther-hunter/",
+      "snippet": "2023-09-17T07:29:35+00:00"
+    },
+    {
+      "date": "2023-09-17",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://zeenesia.com/product/panther-hunter/",
+      "snippet": "2023-09-17T07:29:35+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://zeenesia.com/product/panther-hunter/",
+      "snippet": "ty Add to cart Related products $ 15 Rumaisha $ 15 Marwah Signature $ 15 Jalliestha $ 0 The Hungry Free Font Copyright ©2025 Zeenesia Studio All Right Reserved Menu Home Shop Serif Fonts Sans Serif Fonts Script Fonts Dis"
+    },
+    {
+      "date": "2026-02-26",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://zeenesia.com/product/panther-hunter/",
+      "snippet": "2026-02-26"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://zeenesia.com/product/panther-hunter/",
+    "last_modified": null
+  }
+}

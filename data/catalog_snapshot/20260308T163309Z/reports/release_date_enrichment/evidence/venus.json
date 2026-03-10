@@ -1,0 +1,27 @@
+{
+  "record_id": "venus",
+  "source_url": "https://u270d.eesab.fr/projets/venus/",
+  "checked_at": "2026-03-09T01:55:12.627267+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://u270d.eesab.fr/projets/venus/",
+      "snippet": "U+270D | Venus+ Venus+ 2022 Mathilde Mary Louise Bourlon-Tréguier Nicolas Pineau Anke Renaud Yi Shen Renan Vigneron Chaque graisse de la famille de"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://u270d.eesab.fr/projets/venus/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://u270d.eesab.fr/projets/venus/",
+    "last_modified": null
+  }
+}

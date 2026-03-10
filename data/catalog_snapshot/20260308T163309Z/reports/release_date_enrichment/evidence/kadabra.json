@@ -1,0 +1,20 @@
+{
+  "record_id": "kadabra",
+  "source_url": "https://victoriarushton.com/typefaces/kadabra",
+  "checked_at": "2026-03-09T01:50:35.475963+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://victoriarushton.com/typefaces/kadabra",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://victoriarushton.com/typefaces/kadabra",
+    "last_modified": null
+  }
+}

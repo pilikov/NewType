@@ -1,0 +1,41 @@
+{
+  "record_id": "rl-reklama",
+  "source_url": "https://www.radluka.com/rl-reklama",
+  "checked_at": "2026-03-09T01:46:44.389452+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.radluka.com/rl-reklama",
+      "snippet": "ts space-saving capabilities, the typeface, counterintuitively, complements economy with personality. Publication year: 2025 Styles RL Reklama has 6 styles + variable font: Regular, Medium, Semi, Bold, Extra, Black +Vari"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.radluka.com/rl-reklama",
+      "snippet": "ut ‍ License Agreement ‍ Free Trials Privacy Policy ‍ Terms & Conditions radeklukasiewicz@gmail.com Instagram LinkedIn ©2026 Radek Łukasiewicz. All rights reserved."
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.radluka.com/rl-reklama",
+      "snippet": "Sun, 08 Mar 2026 10:11:10 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.radluka.com/rl-reklama",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.radluka.com/rl-reklama",
+    "last_modified": "Sun, 08 Mar 2026 10:11:10 GMT"
+  }
+}

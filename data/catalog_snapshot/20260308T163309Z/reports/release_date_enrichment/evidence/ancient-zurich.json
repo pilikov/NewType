@@ -1,0 +1,41 @@
+{
+  "record_id": "ancient-zurich",
+  "source_url": "https://dirtylinestudio.com/product/ancient-zurich/",
+  "checked_at": "2026-03-09T01:41:38.985742+00:00",
+  "candidates": [
+    {
+      "date": "2020-03-30",
+      "score": 0.7,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://dirtylinestudio.com/product/ancient-zurich/",
+      "snippet": "2020-03-30T13:17:00+07:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://dirtylinestudio.com/product/ancient-zurich/",
+      "snippet": "es Mockups Freebies Custom-Project Shop Freebies Custom-Project Works Font In Use Blog License About © Dirtyline Studio 2026 Ancient Zurich Buying Options Font Tester Info Glyph Buying Options White/Black Title/Paragraph"
+    },
+    {
+      "date": "2020-03-30",
+      "score": 0.44999999999999996,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://dirtylinestudio.com/product/ancient-zurich/",
+      "snippet": "2020-03-30T13:24:31+07:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://dirtylinestudio.com/product/ancient-zurich/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://dirtylinestudio.com/product/ancient-zurich/",
+    "last_modified": null
+  }
+}

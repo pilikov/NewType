@@ -1,0 +1,27 @@
+{
+  "record_id": "cap-sizun",
+  "source_url": "https://www.suvatypefoundry.ee/cap-sizun/",
+  "checked_at": "2026-03-09T01:57:44.957435+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/cap-sizun/",
+      "snippet": "Y PREVIOUS FONT CAP SIZUN NEXT FONT W M U B C A F Q E I L DOWNLOAD N T Z S K X P O V Y J H D R G CAP SIZUN by Eva Rank (2017) Cap Sizun is a reverse contrast font inspired by movements of a broad-nib pen. Supervised by A"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/cap-sizun/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/cap-sizun/",
+    "last_modified": null
+  }
+}

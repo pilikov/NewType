@@ -1,0 +1,48 @@
+{
+  "record_id": "rl-aqva",
+  "source_url": "https://www.radluka.com/rl-aqva",
+  "checked_at": "2026-03-09T01:50:41.493776+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.radluka.com/rl-aqva",
+      "snippet": "al settings offer, with its fluid lines serving as a visual metaphor for the calming rhythm of water. Publication year: 2024, 2025 Styles ‍ RL Aqva has 4 styles + variable font: Regular Medium Bold Black +Variable Breezy"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.radluka.com/rl-aqva",
+      "snippet": "tings offer, with its fluid lines serving as a visual metaphor for the calming rhythm of water. Publication year: 2024, 2025 Styles ‍ RL Aqva has 4 styles + variable font: Regular Medium Bold Black +Variable Breezy, rela"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.radluka.com/rl-aqva",
+      "snippet": "ut ‍ License Agreement ‍ Free Trials Privacy Policy ‍ Terms & Conditions radeklukasiewicz@gmail.com Instagram LinkedIn ©2026 Radek Łukasiewicz. All rights reserved."
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.radluka.com/rl-aqva",
+      "snippet": "Thu, 12 Feb 2026 17:31:48 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.radluka.com/rl-aqva",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.radluka.com/rl-aqva",
+    "last_modified": "Thu, 12 Feb 2026 17:31:48 GMT"
+  }
+}

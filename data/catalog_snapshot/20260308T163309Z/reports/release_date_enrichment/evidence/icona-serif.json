@@ -1,0 +1,19 @@
+{
+  "record_id": "icona-serif",
+  "source_url": "https://www.suitcasetype.com/fonts/icona-serif",
+  "checked_at": "2026-03-09T02:03:45.547143+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suitcasetype.com/fonts/icona-serif",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='www.suitcasetype.com', port=443): Max retries exceeded with url: /fonts/icona-serif (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))"
+  }
+}

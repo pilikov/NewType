@@ -1,0 +1,27 @@
+{
+  "record_id": "hoss-round-slab",
+  "source_url": "https://pstypelab.com/hoss-rnd-slab",
+  "checked_at": "2026-03-09T02:01:37.876884+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://pstypelab.com/hoss-rnd-slab",
+      "snippet": "e? Get in touch and let’s discuss your needs Explore the Character Set A ll Content Created + Produced by Mark Caneso - 2026\nAll Types Welcome"
+    },
+    {
+      "date": "2026-02-14",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://pstypelab.com/hoss-rnd-slab",
+      "snippet": "2026-02-14"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://pstypelab.com/hoss-rnd-slab",
+    "last_modified": null
+  }
+}

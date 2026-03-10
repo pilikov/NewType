@@ -1,0 +1,41 @@
+{
+  "record_id": "molitor",
+  "source_url": "https://www.205.tf/molitor",
+  "checked_at": "2026-03-09T01:59:26.210665+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/molitor",
+      "snippet": "e to our newsletter: ▶︎ Follow Us Facebook Instagram LinkedIn Bluesky Typeface Molitor Designer Matthieu Cortat Release 2019 Fonts In Use Specimen Molitor , designed by Matthieu Cortat in 2019, is a modernist yet joyous "
+    },
+    {
+      "date": "1996-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/molitor",
+      "snippet": "irst Aquacade in which she also starred, at the 1937 Cleveland Exposition. She was truly a girl who did it all. When in 1996, while attending the Olympic Games in Atlanta as America’s oldest Olympic Gold medalist, she wa"
+    },
+    {
+      "date": "2002-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/molitor",
+      "snippet": "eneral, that is.” And she did, setting F.I.N.A. Masters World Records into her 90’s. Aileen Riggin Soule passed away in 2002 in a retirement home in Honolulu at the age of ninety-six years. At her request, Aileen’s relat"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.205.tf/molitor",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.205.tf/molitor",
+    "last_modified": null
+  }
+}

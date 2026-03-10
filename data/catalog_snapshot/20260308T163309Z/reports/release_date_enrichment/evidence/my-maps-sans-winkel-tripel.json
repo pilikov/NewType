@@ -1,0 +1,27 @@
+{
+  "record_id": "my-maps-sans-winkel-tripel",
+  "source_url": "https://www.suvatypefoundry.ee/my-maps-sans-winkel-tripel/",
+  "checked_at": "2026-03-09T01:58:27.917160+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/my-maps-sans-winkel-tripel/",
+      "snippet": "S SANS WINKEL TRIPEL NEXT FONT W P B H J M D X C V Q U CONTACT S Z A E I T O G F R N Y K L MY MAPS SANS by Andree Paat (2016) For my BA final project I experimented with different virtual tools that have a drawing functi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/my-maps-sans-winkel-tripel/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/my-maps-sans-winkel-tripel/",
+    "last_modified": null
+  }
+}

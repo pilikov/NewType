@@ -1,0 +1,41 @@
+{
+  "record_id": "signal",
+  "source_url": "https://www.productiontype.com/font/signal",
+  "checked_at": "2026-03-09T01:51:33.614875+00:00",
+  "candidates": [
+    {
+      "date": "2003-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://productiontype.com/font/signal",
+      "snippet": "oduction Type has a long-standing relationship with signage typefaces, making them a focus of research from as early as 2003. This new Signal, revisited and harmonized, continues our reflexion and opens up new possibilit"
+    },
+    {
+      "date": "2019-06-11",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://productiontype.com/font/signal",
+      "snippet": "o cart Add fonts to playlist Signal Regular + Signal Bold Cahu Load more Information Design Emmanuel Besse Release Date 2019-06-11 Team Julien Lelièvre Hugues Gentile Ilya Ruderman Yury Ostromentsky Marion Sendral Céline"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://productiontype.com/font/signal",
+      "snippet": " zippy Mazda, quickly excels on the rugged course. Signal Bold Italic Buy from €70 Signal In Use For every season since 2020, I, Hugues François, have designed the graphic identity for Manège Maubeuge, scène nationale tr"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.productiontype.com/font/signal",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://productiontype.com/font/signal",
+    "last_modified": null
+  }
+}

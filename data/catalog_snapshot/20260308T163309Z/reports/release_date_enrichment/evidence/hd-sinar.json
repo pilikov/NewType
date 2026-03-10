@@ -1,0 +1,20 @@
+{
+  "record_id": "hd-sinar",
+  "source_url": "https://holdontype.design/",
+  "checked_at": "2026-03-09T02:01:25.414483+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-15",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://holdontype.design/",
+      "snippet": "2026-02-15"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://holdontype.design/",
+    "last_modified": null
+  }
+}

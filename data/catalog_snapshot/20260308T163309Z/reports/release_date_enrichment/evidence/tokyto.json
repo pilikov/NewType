@@ -1,0 +1,20 @@
+{
+  "record_id": "tokyto",
+  "source_url": "https://www.bb-bureau.fr/tokyto",
+  "checked_at": "2026-03-09T02:04:10.739619+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.bb-bureau.fr/tokyto",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.bb-bureau.fr/tokyto",
+    "last_modified": null
+  }
+}

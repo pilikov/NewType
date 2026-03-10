@@ -1,0 +1,19 @@
+{
+  "record_id": "austin-hairline-condensed",
+  "source_url": "https://commercialtype.com/catalog/austin-hairline-condensed",
+  "checked_at": "2026-03-09T02:04:15.617614+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-29",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://commercialtype.com/catalog/austin-hairline-condensed",
+      "snippet": "2026-01-29"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "404 Client Error: Not Found for url: https://commercialtype.com/catalog/austin-hairline-condensed"
+  }
+}

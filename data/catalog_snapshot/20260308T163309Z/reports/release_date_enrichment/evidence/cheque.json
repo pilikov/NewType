@@ -1,0 +1,69 @@
+{
+  "record_id": "cheque",
+  "source_url": "https://fontfabric.com/typefaces/cheque",
+  "checked_at": "2026-03-09T01:58:00.667507+00:00",
+  "candidates": [
+    {
+      "date": "2017-02-01",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.fontfabric.com/fonts/cheque/",
+      "snippet": "2017-02-01T12:00:19+00:00"
+    },
+    {
+      "date": "2017-02-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/cheque/",
+      "snippet": "Regular ; Cheque Black . Multilingual Support & OpenType Features Extended Latin and Cyrillic alphabets; Release date - February 1, 2017 Explore: Serif Fonts , Display Fonts Similar fonts Uni Neue 14 font styles from $39"
+    },
+    {
+      "date": "2025-10-20",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.fontfabric.com/fonts/cheque/",
+      "snippet": "2025-10-20T11:00:55+00:00"
+    },
+    {
+      "date": "2025-10-20",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.fontfabric.com/fonts/cheque/",
+      "snippet": "2025-10-20T11:00:55+00:00"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/cheque/",
+      "snippet": "opping cart. You can proceed with checkout or pick more fonts and licenses to buy. Checkout About Cheque was created in 2017 by Mirela Belova while she was a student at Fontfabric. Drawing from blackboard-style lettering"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/cheque/",
+      "snippet": "pt fonts Font sale Free fonts Fonts in use Font collections Legal Infringements About Help Blog Partnerships Contact us 2026 © Fontfabric llc. Privacy Notice Manage Cookies"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.fontfabric.com/fonts/cheque/",
+      "snippet": "Mon, 09 Mar 2026 01:58:03 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fontfabric.com/typefaces/cheque",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.fontfabric.com/fonts/cheque/",
+    "last_modified": "Mon, 09 Mar 2026 01:58:03 GMT"
+  }
+}

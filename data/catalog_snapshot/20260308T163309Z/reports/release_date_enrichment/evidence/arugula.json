@@ -1,0 +1,34 @@
+{
+  "record_id": "arugula",
+  "source_url": "https://drj11.itch.io/arugula-font",
+  "checked_at": "2026-03-09T01:40:18.613561+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://drj11.itch.io/arugula-font",
+      "snippet": "this font supports. For wayfinding, arrows are supplied, and markers for croissant, coffee, and fountain. Release Notes 2025-03 /IJ digraph (for Dutch) added; available as Unicode U+0132 and also as a /I_J ligature enabl"
+    },
+    {
+      "date": "2025-03-12",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://drj11.itch.io/arugula-font",
+      "snippet": "es: Arugula20250312.zip 86 kB Arugula20231009.zip (older version) 89 kB Development log Arugula Font: A few more glyphs Mar 12, 2025 Comments Log in with itch.io to leave a comment. fczuardi 165 days ago I loved this fon"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://drj11.itch.io/arugula-font",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://drj11.itch.io/arugula-font",
+    "last_modified": null
+  }
+}

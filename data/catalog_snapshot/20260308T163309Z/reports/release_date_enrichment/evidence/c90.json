@@ -1,0 +1,48 @@
+{
+  "record_id": "c90",
+  "source_url": "https://sportsfonts.com/fonts/c90",
+  "checked_at": "2026-03-09T01:52:30.740017+00:00",
+  "candidates": [
+    {
+      "date": "2025-04-26",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://sportsfonts.com/fonts/c90",
+      "snippet": "2025-04-26"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sportsfonts.com/fonts/c90",
+      "snippet": "rts, from no-budget to high-profile. Browse our retail fonts , or get in touch for modifications or custom solutions. © 2016–2026 Sportsfonts / Christoph Koeberlin . Website by Andreas Nymark . No cookies, no tracking, n"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sportsfonts.com/fonts/c90",
+      "snippet": "rmation Designer Christoph Koeberlin Styles 3 License Work in progress. Preview fonts and licensing upon request . Year 2025 Tags Numerals-only Work in progress Gallery C90 concept shirt by Svante Pettersson Font styles "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sportsfonts.com/fonts/c90",
+      "snippet": "from no-budget to high-profile. Browse our retail fonts , or get in touch for modifications or custom solutions. © 2016–2026 Sportsfonts / Christoph Koeberlin . Website by Andreas Nymark . No cookies, no tracking, no shi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://sportsfonts.com/fonts/c90",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sportsfonts.com/fonts/c90",
+    "last_modified": null
+  }
+}

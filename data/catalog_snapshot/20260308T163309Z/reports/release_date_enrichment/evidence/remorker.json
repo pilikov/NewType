@@ -1,0 +1,41 @@
+{
+  "record_id": "remorker",
+  "source_url": "https://hottype.co/fonts/remorker",
+  "checked_at": "2026-03-09T01:47:35.590517+00:00",
+  "candidates": [
+    {
+      "date": "2025-02-04",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://hottype.co/fonts/remorker",
+      "snippet": "2025-02-04"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://hottype.co/fonts/remorker",
+      "snippet": "jects About Account Remorker Buy\n                                    Now Designer: Marko Hrastovec, Mihael Šandro Year: 2025 Update: 01/2025 Styles: 1 Condition: Basic character set Stencil letters happen to be a common "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://hottype.co/fonts/remorker",
+      "snippet": "he typeface works just as well in a broad spectrum of environments that call for an industrial look and feel. Buy Now © 2026 HotType Support Crafted by Fran , Zoran & FoundryCore Back to top ↑"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://hottype.co/fonts/remorker",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hottype.co/fonts/remorker",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "record_id": "piet",
+  "source_url": "https://typemates.com/fonts/piet",
+  "checked_at": "2026-03-09T01:51:33.136250+00:00",
+  "candidates": [
+    {
+      "date": "2024-02-18",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typemates.com/fonts/piet",
+      "snippet": "2024-02-18T11:12:00+01:00"
+    },
+    {
+      "date": "2024-02-18",
+      "score": 0.95,
+      "source_type": "jsonld:dateCreated",
+      "source_url": "https://www.typemates.com/fonts/piet",
+      "snippet": "2024-02-18T10:57:54+01:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typemates.com/fonts/piet",
+      "snippet": "2026-03-05T11:52:53+01:00"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/piet",
+      "snippet": " 1987, Japanese provisions included 516 multi-story garages for bicycle parking. The first Danish route, C99, opened in 2012 between the Vesterbro rail station in Copenhagen and Albertslund, a western suburb. The route c"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/piet",
+      "snippet": "ing flavour with upright italic shapes. In the toolbox of ss01, you’ll find an alternate a! Designed by Nils Thomsen in 2024 European Design Award Gold at European Design Award 2025 Specs 16 styles in 4 weights plus Ital"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/piet",
+      "snippet": " ss01, you’ll find an alternate a! Designed by Nils Thomsen in 2024 European Design Award Gold at European Design Award 2025 Specs 16 styles in 4 weights plus Italics, more than 550 glyphs per font Formats OTF and TTF fo"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typemates.com/fonts/piet",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typemates.com/fonts/piet",
+    "last_modified": null
+  }
+}

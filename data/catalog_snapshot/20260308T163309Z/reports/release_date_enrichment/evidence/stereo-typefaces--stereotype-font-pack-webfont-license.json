@@ -1,0 +1,20 @@
+{
+  "record_id": "stereo-typefaces--stereotype-font-pack-webfont-license",
+  "source_url": "https://www.stereo-type.fr/fonts/stereotype-font-pack-webfont-license/",
+  "checked_at": "2026-03-08T16:58:28.377262+00:00",
+  "candidates": [
+    {
+      "date": "2026-03-07",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.stereo-type.fr/fonts/stereotype-font-pack-webfont-license/",
+      "snippet": "2026-03-07"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.stereo-type.fr/fonts/stereotype-font-pack-webfont-license/",
+    "last_modified": null
+  }
+}

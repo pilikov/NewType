@@ -1,0 +1,19 @@
+{
+  "record_id": "frederik",
+  "source_url": "https://thenorthernblock.co.uk/fonts/p/frederik",
+  "checked_at": "2026-03-09T01:40:30.312304+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://thenorthernblock.co.uk/fonts/p/frederik",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "404 Client Error: Not Found for url: https://thenorthernblock.co.uk/fonts/p/frederik"
+  }
+}

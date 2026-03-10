@@ -1,0 +1,41 @@
+{
+  "record_id": "sedgwick",
+  "source_url": "https://www.leinstertype.com/fonts/sedgwick",
+  "checked_at": "2026-03-09T02:01:13.171462+00:00",
+  "candidates": [
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.leinstertype.com/fonts/sedgwick",
+      "snippet": "ur story. Sedgwick’s forms were inspired by the structure and stroke of Nieuw Javaansch No.1, Troy’s unreleased revival 2012, of Lettergieterij Amsterdam’s 1909 typeface, and the unique form and texture of the civilité t"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.leinstertype.com/fonts/sedgwick",
+      "snippet": "rhol’s muse—Edie Sedgwick—the factory girl with timeless charm and charisma. Sedgwick ™ was designed by Troy Leinster © 2023. ‍ • Print • Web/Screen • Branding • Packaging Back to Top ↑ Join the Typemasters® email list →"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.leinstertype.com/fonts/sedgwick",
+      "snippet": "Sat, 07 Mar 2026 04:12:52 GMT"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.leinstertype.com/fonts/sedgwick",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.leinstertype.com/fonts/sedgwick",
+    "last_modified": "Sat, 07 Mar 2026 04:12:52 GMT"
+  }
+}

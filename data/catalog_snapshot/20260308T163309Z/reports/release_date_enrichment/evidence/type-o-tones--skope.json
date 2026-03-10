@@ -1,0 +1,34 @@
+{
+  "record_id": "type-o-tones--skope",
+  "source_url": "https://type-o-tones.com/fonts/skope",
+  "checked_at": "2026-03-09T01:36:42.033333+00:00",
+  "candidates": [
+    {
+      "date": "1998-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/skope",
+      "snippet": "mic masters such as Josep Coll or Manuel Urda from his cartoons in the pages of the classic TBO (Barcelona, Spain, 1917-1998)  or our contemporary favorites Francesc Capdevila -Max- and Joost Swarte. The proportions and "
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/skope",
+      "snippet": "ial Buying options Skope Family Pack 2 Fonts 110 € 93.50 € Add to cart Regular, Italic Author José Manuel Urós Creation 2018 Actual version 1 Styles 2 Character sets Basic Latin Latin-1 Supplement Latin-2 Central Europea"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://type-o-tones.com/fonts/skope",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://type-o-tones.com/fonts/skope",
+    "last_modified": null
+  }
+}

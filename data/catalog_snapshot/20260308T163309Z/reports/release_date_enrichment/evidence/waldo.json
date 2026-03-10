@@ -1,0 +1,27 @@
+{
+  "record_id": "waldo",
+  "source_url": "https://thenorthernblock.co.uk/fonts/p/waldo",
+  "checked_at": "2026-03-09T01:52:33.389671+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://thenorthernblock.co.uk/fonts/p/waldo",
+      "snippet": " exclusive offers and the latest foundry updates. Email Address Subscribe Thank you! Copyright © The Northern Block Ltd 2026."
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://thenorthernblock.co.uk/fonts/p/waldo",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://thenorthernblock.co.uk/fonts/p/waldo",
+    "last_modified": null
+  }
+}

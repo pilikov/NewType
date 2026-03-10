@@ -1,0 +1,27 @@
+{
+  "record_id": "merlin",
+  "source_url": "https://shinntype.com/merlin/",
+  "checked_at": "2026-03-09T01:43:36.072323+00:00",
+  "candidates": [
+    {
+      "date": "2021-10-26",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://shinntype.com/merlin/",
+      "snippet": "ype - Modern and Classic Fonts Fonts About Blog Custom Prints Texts Contact My account Checkout Cart Select Page Merlin Oct 26, 2021 Cart Shop Policies Follow Follow Follow Follow Follow Follow Follow"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://shinntype.com/merlin/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://shinntype.com/merlin/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "cutoff_date": "2026-01-01",
+  "total_releases_since_2026": 5437,
+  "total_unique_studios_since_2026": 384,
+  "confidence_counts": {
+    "low": 4871,
+    "medium": 559,
+    "high": 7
+  },
+  "fields_collected": [
+    "authors",
+    "date_basis",
+    "foundry_id",
+    "foundry_name",
+    "foundry_url",
+    "has_trial",
+    "is_variable",
+    "name",
+    "raw_created_at",
+    "raw_featured_at",
+    "raw_last_enriched",
+    "raw_typeface_id",
+    "release_date",
+    "release_date_candidates_count",
+    "release_date_confidence",
+    "release_date_confidence_score",
+    "release_date_initial",
+    "release_date_source_type",
+    "release_date_source_url",
+    "release_status",
+    "release_year",
+    "scripts",
+    "source_id",
+    "source_name",
+    "source_url",
+    "styles"
+  ],
+  "files": {
+    "releases_json": "data/catalog_snapshot/20260308T163309Z/reports/release_date_enrichment/releases_since_2026.json",
+    "releases_csv": "data/catalog_snapshot/20260308T163309Z/reports/release_date_enrichment/releases_since_2026.csv"
+  }
+}

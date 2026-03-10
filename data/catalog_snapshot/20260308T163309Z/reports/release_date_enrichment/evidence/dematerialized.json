@@ -1,0 +1,27 @@
+{
+  "record_id": "dematerialized",
+  "source_url": "https://www.suvatypefoundry.ee/dematerialized/",
+  "checked_at": "2026-03-09T01:44:06.100211+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/dematerialized/",
+      "snippet": "DEMATERIALIZED NEXT FONT J A G R L Z DOWNLOAD Q U W O I M H T F P S C X V K Y D B E N DEMATERIALIZED by Kertu Klementi (2020) This font wants to be something it’s not. It doesn’t like sitting in one place waiting to be r"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/dematerialized/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/dematerialized/",
+    "last_modified": null
+  }
+}

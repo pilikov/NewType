@@ -1,0 +1,34 @@
+{
+  "record_id": "pennypacker",
+  "source_url": "https://cjtype.com/typefaces/pennypacker",
+  "checked_at": "2026-03-09T01:53:29.178359+00:00",
+  "candidates": [
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://cjtype.com/typefaces/pennypacker/",
+      "snippet": "e Grotesk lineage of typefaces originates from the matricies of Wagner & Schmidt, Leipzig in 1914 ( Indra Kupferschmid, 2014 ). Pennypacker is inspired in particular by Aurora-Grotesk and Favorit-Grotesk, but also draws "
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://cjtype.com/typefaces/pennypacker/",
+      "snippet": " hello@cjtype.com IG: @cjtype ⁂ @cjtype@mastodon.social CJ Type RSS Get email updates Licensing Information Copyright © 2017 , CJ Type Design & Development by Vanna Vu This site uses Eleventy by Zach Leatherman and Text-"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://cjtype.com/typefaces/pennypacker",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://cjtype.com/typefaces/pennypacker/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "record_id": "new-frank-condensed-italic",
+  "source_url": "https://newlyn.com/fonts/new-frank-condensed-italic",
+  "checked_at": "2026-03-09T01:48:07.925024+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://newlyn.com/fonts/new-frank-condensed-italic",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://newlyn.com/fonts/new-frank-condensed",
+    "last_modified": null
+  }
+}

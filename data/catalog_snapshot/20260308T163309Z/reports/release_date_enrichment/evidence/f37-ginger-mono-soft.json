@@ -1,0 +1,19 @@
+{
+  "record_id": "f37-ginger-mono-soft",
+  "source_url": "https://www.f37foundry.com/fonts/f37-ginger-mono-soft",
+  "checked_at": "2026-03-09T01:54:58.478566+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.f37foundry.com/fonts/f37-ginger-mono-soft",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='www.f37foundry.com', port=443): Max retries exceeded with url: /fonts/f37-ginger-mono-soft (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))"
+  }
+}

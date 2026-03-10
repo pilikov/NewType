@@ -1,0 +1,41 @@
+{
+  "record_id": "stack",
+  "source_url": "https://jtdtype.com/typeface/stack",
+  "checked_at": "2026-03-09T02:01:20.548571+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://jtdtype.com/typeface/stack",
+      "snippet": " YOU Account Licensing FAQ Trial Fonts Stack Fill Courses Bricks Mortar Courses Mortar Bricks № of Styles 5 Released in 2018 Designed by James Hultquist-Todd Research and input by Craig Welsh & Jenna Flickinger PDF ⇩ Spe"
+    },
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://jtdtype.com/typeface/stack",
+      "snippet": " Alternate & SS04 Alternate Umlauts Small Caps All Small Caps The Hamilton Wood Type and Printing Museum was founded in 2000 and is located in Two Rivers, Wisconsin, United States. About Stack Stack brings the spirit of "
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://jtdtype.com/typeface/stack",
+      "snippet": "cer Ultramega Foundry Account About Licensing FAQ Trial Fonts Contact info@JTDType.com Follow Mastodon JTD Typewriter © 2025 JTD, LLC • Philadelphia, PA"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://jtdtype.com/typeface/stack",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://jtdtype.com/typeface/stack",
+    "last_modified": null
+  }
+}

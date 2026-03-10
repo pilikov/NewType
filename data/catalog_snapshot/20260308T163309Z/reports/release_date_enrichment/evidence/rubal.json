@@ -1,0 +1,34 @@
+{
+  "record_id": "rubal",
+  "source_url": "https://ainsifont.com/font/rubal",
+  "checked_at": "2026-03-09T01:59:26.667012+00:00",
+  "candidates": [
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/font/rubal",
+      "snippet": "gular Stencil-01234567 -890-)-°ABCDEFG -PQRS?/+€@%é Stencil Black 1 weight Best type 2011, Creative Review Af Rubal Pro 2010 Designer. Sébastien Delobel Classification. Linéale stencil grasse Langage. Latin Pro Édition. "
+    },
+    {
+      "date": "2011-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/font/rubal",
+      "snippet": "y ADD TO CART 50 € OTF Rubal Pro Regular Stencil-01234567 -890-)-°ABCDEFG -PQRS?/+€@%é Stencil Black 1 weight Best type 2011, Creative Review Af Rubal Pro 2010 Designer. Sébastien Delobel Classification. Linéale stencil "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ainsifont.com/font/rubal",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.ainsifont.com/font/rubal",
+    "last_modified": null
+  }
+}

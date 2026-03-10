@@ -1,0 +1,20 @@
+{
+  "record_id": "material",
+  "source_url": "https://optimo.ch/typefaces/material",
+  "checked_at": "2026-03-09T01:57:03.757171+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://optimo.ch/typefaces/material",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://optimo.ch/typefaces/material",
+    "last_modified": null
+  }
+}

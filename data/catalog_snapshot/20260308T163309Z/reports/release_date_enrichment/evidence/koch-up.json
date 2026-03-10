@@ -1,0 +1,27 @@
+{
+  "record_id": "koch-up",
+  "source_url": "https://drj11.itch.io/koch-up-font",
+  "checked_at": "2026-03-09T01:40:27.772605+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://drj11.itch.io/koch-up-font",
+      "snippet": "design has been set in stone partway through an unfinished draft. The repertoire is limited: only A to Z, apostrophe (U+2019), space, and the punctuation marks Â« . Â», Â« * Â», and Â« - Â». Though, there are quite a few"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://drj11.itch.io/koch-up-font",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://drj11.itch.io/koch-up-font",
+    "last_modified": null
+  }
+}

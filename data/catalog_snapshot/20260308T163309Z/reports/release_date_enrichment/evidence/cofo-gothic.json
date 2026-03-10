@@ -1,0 +1,34 @@
+{
+  "record_id": "cofo-gothic",
+  "source_url": "https://contrastfoundry.com/typeface/cofo-gothic",
+  "checked_at": "2026-03-09T01:43:14.888853+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://contrastfoundry.com/typeface/cofo-gothic",
+      "snippet": "and advertising to editorial and packaging. Designer: Maria Doreuli Team: Anna Khorash, Olga Kovalenko Year of release: 2023–2026 Version: 1.200 Styles: Thin, Thin Italic, Light, Light Italic, Regular, Regular Italic, Me"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://contrastfoundry.com/typeface/cofo-gothic",
+      "snippet": "dvertising to editorial and packaging. Designer: Maria Doreuli Team: Anna Khorash, Olga Kovalenko Year of release: 2023–2026 Version: 1.200 Styles: Thin, Thin Italic, Light, Light Italic, Regular, Regular Italic, Medium,"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://contrastfoundry.com/typeface/cofo-gothic",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://contrastfoundry.com/typeface/cofo-gothic",
+    "last_modified": null
+  }
+}

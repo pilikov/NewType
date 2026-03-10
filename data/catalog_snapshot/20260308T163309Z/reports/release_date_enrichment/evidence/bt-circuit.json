@@ -1,0 +1,41 @@
+{
+  "record_id": "bt-circuit",
+  "source_url": "https://www.bleifreitype.ch/typefaces/bt-circuit",
+  "checked_at": "2026-03-09T01:53:00.776441+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.bleifreitype.ch/typefaces/bt-circuit",
+      "snippet": "rma, Zazaki, Zulu, Zuni Credits Design Matthieu Dillier Assistance Aaron Aebi Florian Beyeler Rahel Marbet Release Date 2024 Version 1.5 Last updated November 2025 Supported Languages Latin Plus Abenaki, Afaan Oromo, Afa"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.bleifreitype.ch/typefaces/bt-circuit",
+      "snippet": "Matthieu Dillier Assistance Aaron Aebi Florian Beyeler Rahel Marbet Release Date 2024 Version 1.5 Last updated November 2025 Supported Languages Latin Plus Abenaki, Afaan Oromo, Afar, Afrikaans, Albanian, Alsatian, Amis,"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.bleifreitype.ch/typefaces/bt-circuit",
+      "snippet": "Thu, 05 Mar 2026 01:28:42 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.bleifreitype.ch/typefaces/bt-circuit",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.bleifreitype.ch/typefaces/bt-circuit",
+    "last_modified": "Thu, 05 Mar 2026 01:28:42 GMT"
+  }
+}

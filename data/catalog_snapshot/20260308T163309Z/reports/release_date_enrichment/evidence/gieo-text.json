@@ -1,0 +1,41 @@
+{
+  "record_id": "gieo-text",
+  "source_url": "https://accentiatype.com/",
+  "checked_at": "2026-03-09T01:50:55.604599+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://accentiatype.com/",
+      "snippet": "am a typeface and product designer. After completing my Masterâs in Typeface Design from the University of Reading in 2021 (MATD 20/21), I have been creating my typefaces while helping to expand the work of others. The"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://accentiatype.com/",
+      "snippet": "lls. In my free time, you will likely find me enjoying coffee, mystery novels, RPG, or yoga. Â© Copyright Linh Nguyá»n 2025"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://accentiatype.com/",
+      "snippet": "Tue, 12 Aug 2025 03:44:43 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://accentiatype.com/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://accentiatype.com/",
+    "last_modified": "Tue, 12 Aug 2025 03:44:43 GMT"
+  }
+}

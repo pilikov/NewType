@@ -1,0 +1,83 @@
+{
+  "record_id": "tt-commons-classic",
+  "source_url": "https://typetype.org/typefaces/tt-commons-classic",
+  "checked_at": "2026-03-09T02:03:47.992318+00:00",
+  "candidates": [
+    {
+      "date": "2021-05-03",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typetype.org/fonts/tt-commons/",
+      "snippet": "2021-05-03T17:36:10+00:00"
+    },
+    {
+      "date": "2021-05-03",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://typetype.org/fonts/tt-commons/",
+      "snippet": "2021-05-03T17:36:10+00:00"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-commons/",
+      "snippet": "atives Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! Font Update: What’s New in the Latest Version Version"
+    },
+    {
+      "date": "2018-02-26",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-commons/",
+      "snippet": "Type features Over 265 languages TT Commons™ Classic — a flawless typographic classic! Release and update date Release: February 26, 2018 Last update: February 24, 2026 What's changed in the font: The number of font styl"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-commons/",
+      "snippet": "ans serif suitable for diverse design contexts. Update from February 24, 2026 — What’s New? 30% off Valid until 10 Apr, 2026 Single style: from $ 47.99 Original price was: $47.99. $ 33.59 Current price is: $33.59. Full f"
+    },
+    {
+      "date": "2026-02-24",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-commons/",
+      "snippet": "mons™ Classic TT Commons™ Classic is a versatile geometric sans serif suitable for diverse design contexts. Update from February 24, 2026 — What’s New? 30% off Valid until 10 Apr, 2026 Single style: from $ 47.99 Original"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typetype.org/fonts/tt-commons/",
+      "snippet": "2026-02-25T10:54:54+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://typetype.org/fonts/tt-commons/",
+      "snippet": "2026-02-25T10:54:54+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://typetype.org/fonts/tt-commons/",
+      "snippet": "Fri, 06 Mar 2026 21:00:57 GMT"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typetype.org/typefaces/tt-commons-classic",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typetype.org/fonts/tt-commons/",
+    "last_modified": "Fri, 06 Mar 2026 21:00:57 GMT"
+  }
+}

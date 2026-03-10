@@ -1,0 +1,41 @@
+{
+  "record_id": "input",
+  "source_url": "https://djr.com/input",
+  "checked_at": "2026-03-09T02:01:38.299930+00:00",
+  "candidates": [
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/input",
+      "snippet": "my Mac OS System font, and you can too. Download and installation instructions » Input In Use From Fonts In Use Feltron 2013 Annual Report Mike’s Maze 2023: What makes us human? Severance (TV series) Data Humanism: The R"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/input",
+      "snippet": "ture of Data Visualization Kamala Harris: For The People The Co. Career Expo Control Dashboard UI Ulf Schneider website 2017 moon calendar Alex Prager Can-Tini Complex I Am Here – Alice Mary Behind This Wall hard seltzer"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/input",
+      "snippet": "can too. Download and installation instructions » Input In Use From Fonts In Use Feltron 2013 Annual Report Mike’s Maze 2023: What makes us human? Severance (TV series) Data Humanism: The Revolutionary Future of Data Vis"
+    },
+    {
+      "date": "2026-02-14",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://djr.com/input",
+      "snippet": "2026-02-14"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://djr.com/input",
+    "last_modified": null
+  }
+}

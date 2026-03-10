@@ -1,0 +1,48 @@
+{
+  "record_id": "zeenesia-studio--mighty-marine",
+  "source_url": "https://zeenesia.com/product/mighty-marine/",
+  "checked_at": "2026-03-09T01:36:28.756079+00:00",
+  "candidates": [
+    {
+      "date": "2024-06-24",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://zeenesia.com/product/mighty-marine/",
+      "snippet": "2024-06-24T14:35:45+00:00"
+    },
+    {
+      "date": "2025-05-13",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://zeenesia.com/product/mighty-marine/",
+      "snippet": "2025-05-13T00:11:21+00:00"
+    },
+    {
+      "date": "2025-05-13",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://zeenesia.com/product/mighty-marine/",
+      "snippet": "2025-05-13T00:11:21+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://zeenesia.com/product/mighty-marine/",
+      "snippet": "ity Add to cart Related products $ 17 Brown Soulmate $ 24 Alerio $ 16 Mango Vintage Sale! $ 12 Tropic Avenue Copyright ©2025 Zeenesia Studio All Right Reserved Menu Home Shop Serif Fonts Sans Serif Fonts Script Fonts Dis"
+    },
+    {
+      "date": "2026-02-26",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://zeenesia.com/product/mighty-marine/",
+      "snippet": "2026-02-26"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://zeenesia.com/product/mighty-marine/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "type-o-tones--brise",
+  "source_url": "https://type-o-tones.com/fonts/brise",
+  "checked_at": "2026-03-09T01:41:52.015669+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/brise",
+      "snippet": "ariable Font, Text Light, Text Regular, Display Bold, Display ExtraBold, Display Extreme Author Laura Meseguer Creation 2025 Actual version 1 Styles 6 Character sets Basic Latin Latin-1 Supplement Latin-2 Central Europea"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://type-o-tones.com/fonts/brise",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://type-o-tones.com/fonts/brise",
+    "last_modified": null
+  }
+}

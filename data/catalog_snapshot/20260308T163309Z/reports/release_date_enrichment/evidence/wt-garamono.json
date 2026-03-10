@@ -1,0 +1,41 @@
+{
+  "record_id": "wt-garamono",
+  "source_url": "https://wisetype.nl/typefaces/garamono",
+  "checked_at": "2026-03-09T01:48:57.523401+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://wisetype.nl/typefaces/garamono",
+      "snippet": "ns Corbel Primed Polyurethane Ekena Millwork™ corp01x18x18at $58.90 Design Ishar Hawkins Mastering Jacob Wise Published 2025 Updated September 2025, V 1.0 Formats otf, ttf, woff, woff2 Open specimen View languages In fro"
+    },
+    {
+      "date": "2001-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://wisetype.nl/typefaces/garamono",
+      "snippet": "o Ponti, is a complete stereo system (CD player, tape deck, tuner, amplifier) by Sansui with six-foot Duntech Sovereign 2001 speakers in Brazilian rosewood. A down-filled futon lies on an oakwood frame in the center of t"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://wisetype.nl/typefaces/garamono",
+      "snippet": " of Ishar Hawkins — a graphic and type designer who’s humour permeates every project touches. The design started out in 2021 and was gradually developed over these past years. WT Garamono – Italic Regular Italic Size Ope"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://wisetype.nl/typefaces/garamono",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://wisetype.nl/typefaces/garamono",
+    "last_modified": null
+  }
+}

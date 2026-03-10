@@ -1,0 +1,20 @@
+{
+  "record_id": "barteldes",
+  "source_url": "https://dunwichtype.com/typefaces/barteldes",
+  "checked_at": "2026-03-09T02:02:02.239410+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://dunwichtype.com/typefaces/barteldes",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://dunwichtype.com/fonts/barteldes/",
+    "last_modified": null
+  }
+}

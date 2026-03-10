@@ -1,0 +1,69 @@
+{
+  "record_id": "limousine",
+  "source_url": "http://osp.kitchen/foundry/limousine/",
+  "checked_at": "2026-03-09T01:44:22.409585+00:00",
+  "candidates": [
+    {
+      "date": "2002-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/limousine/",
+      "snippet": "c” as Pierre might say) from Free UCS Outline Fonts. Even if the license is a bit unclear: From FreeSans font: Copyleft 2002, 2003, 2005, 2008 Free Software Foundation. We did a version with A, R, a, and t glyph modified"
+    },
+    {
+      "date": "2003-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/limousine/",
+      "snippet": "Pierre might say) from Free UCS Outline Fonts. Even if the license is a bit unclear: From FreeSans font: Copyleft 2002, 2003, 2005, 2008 Free Software Foundation. We did a version with A, R, a, and t glyph modified. The "
+    },
+    {
+      "date": "2005-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/limousine/",
+      "snippet": " might say) from Free UCS Outline Fonts. Even if the license is a bit unclear: From FreeSans font: Copyleft 2002, 2003, 2005, 2008 Free Software Foundation. We did a version with A, R, a, and t glyph modified. The genera"
+    },
+    {
+      "date": "2008-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/limousine/",
+      "snippet": "eople accused of “criminal association for the purposes of terrorist activity”. They were arrested the 11th of november 2008, in France. They and others are the victims of a witch-hunt where the word “terrorism” was appl"
+    },
+    {
+      "date": "2011-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/limousine/",
+      "snippet": "-stream README.html text/html Log Alexandre Leray said — Created the skeleton of the repository Thursday, 24th February 2011 - 19:48 Eric Schrijver tweeted — \"Blog contents added as README and iceberg\" Saturday, 14th Apr"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/limousine/",
+      "snippet": "y, 24th February 2011 - 19:48 Eric Schrijver tweeted — \"Blog contents added as README and iceberg\" Saturday, 14th April 2012 - 12:06 Eric Schrijver said — \"remove README because README.html exists\" Thursday, 12th Septemb"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/limousine/",
+      "snippet": "rday, 14th April 2012 - 12:06 Eric Schrijver said — \"remove README because README.html exists\" Thursday, 12th September 2013 - 16:43 Eric Schrijver confessed — Squash the skeleton Saturday, 14th September 2013 - 23:40 Er"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://osp.kitchen/foundry/limousine/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "http://osp.kitchen/foundry/limousine/",
+    "last_modified": null
+  }
+}

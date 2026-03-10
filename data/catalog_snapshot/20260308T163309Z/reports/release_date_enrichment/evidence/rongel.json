@@ -1,0 +1,41 @@
+{
+  "record_id": "rongel",
+  "source_url": "https://felicianotype.com/typefaces/rongel",
+  "checked_at": "2026-03-09T01:42:58.631966+00:00",
+  "candidates": [
+    {
+      "date": "2004-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://felicianotype.com/typefaces/rongel/",
+      "snippet": "g with Eudald News, Merlo, and Geronimo (available through The Enschedé Font Foundry). Trial fonts Specimens Rongel pdf 2004 6 styles Rongel  Family           — 6 styles, €200,00 BUY Rongel Regular, €50,00 BUY Type somet"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://felicianotype.com/typefaces/rongel/",
+      "snippet": "s Tabular Oldstyle Figures Numerators Denominators Fractions Ordinals Stylistic Alternates Inferiors Superiors Italic © 2026 Feliciano Type. All rights reserved. Acceptera Cockpit Correct Crisol Eudald Flama Garda Grosa "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://felicianotype.com/typefaces/rongel/",
+      "snippet": "Mon, 09 Mar 2026 01:42:59 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://felicianotype.com/typefaces/rongel",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://felicianotype.com/typefaces/rongel/",
+    "last_modified": "Mon, 09 Mar 2026 01:42:59 GMT"
+  }
+}

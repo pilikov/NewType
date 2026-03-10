@@ -1,0 +1,55 @@
+{
+  "record_id": "suspire",
+  "source_url": "https://fabiohaagtype.com/typefaces/suspire",
+  "checked_at": "2026-03-09T01:59:51.783994+00:00",
+  "candidates": [
+    {
+      "date": "2025-08-28",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://fabiohaagtype.com/en/font/suspire/",
+      "snippet": "2025-08-28T19:32:10+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fabiohaagtype.com/en/font/suspire/",
+      "snippet": "eve que chega de mansinho OT It’s about the journey Uppercase & Lowercase Numerals Diacritics Symbols About Launch year 2025 Weights 9 Styles 2 Lead Designer Henrique Beier Team Graphic design by Kalany Balardin and copy"
+    },
+    {
+      "date": "2025-11-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://fabiohaagtype.com/en/font/suspire/",
+      "snippet": "2025-11-05T17:29:36+00:00"
+    },
+    {
+      "date": "2025-11-05",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://fabiohaagtype.com/en/font/suspire/",
+      "snippet": "2025-11-05T17:29:36+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fabiohaagtype.com/en/font/suspire/",
+      "snippet": "romotional emails about our products and services. You can opt-out at any time. Retail Fonts Services Who We Are Blog © 2026 Fabio Haag Type / VLF Design Ltda Terms and conditions Privacy policy By clicking on \"Accept al"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fabiohaagtype.com/typefaces/suspire",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fabiohaagtype.com/en/font/suspire/",
+    "last_modified": null
+  }
+}

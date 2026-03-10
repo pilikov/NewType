@@ -1,0 +1,69 @@
+{
+  "record_id": "bork",
+  "source_url": "https://www.harbortype.com/typefaces/bork",
+  "checked_at": "2026-03-09T01:57:22.119942+00:00",
+  "candidates": [
+    {
+      "date": "2021-04-22",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.harbortype.com/fonts/bork/",
+      "snippet": "2021-04-22T10:30:28+00:00"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.harbortype.com/fonts/bork/",
+      "snippet": "oud of that. This impeccable work was entirely done by Lu Leitenperger . Designed by Lu Leitenperger Release date April 2021 Awards Tipos Latinos 9 14th Biennial of Brazilian Graphic Design Hiiibrand Awards 2023 Bork Reg"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.harbortype.com/fonts/bork/",
+      "snippet": " Leitenperger Release date April 2021 Awards Tipos Latinos 9 14th Biennial of Brazilian Graphic Design Hiiibrand Awards 2023 Bork Regular OpenType Standard Ligatures Contextual Alternates Case-Sensitive Forms Fractions N"
+    },
+    {
+      "date": "2025-08-25",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.harbortype.com/fonts/bork/",
+      "snippet": "2025-08-25T00:52:58+00:00"
+    },
+    {
+      "date": "2025-08-25",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.harbortype.com/fonts/bork/",
+      "snippet": "2025-08-25T00:52:58+00:00"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.harbortype.com/fonts/bork/",
+      "snippet": "our download. Harbor Type is an independent type foundry based in Porto Alegre, Brazil. Versão em português Copyright © 2014–2026 Harbor Type. All rights reserved. Fonts Bork Densia Sans Dona Garibaldi Graviola Graviola "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.harbortype.com/fonts/bork/",
+      "snippet": "ownload. Harbor Type is an independent type foundry based in Porto Alegre, Brazil. Versão em português Copyright © 2014–2026 Harbor Type. All rights reserved. Fonts Bork Densia Sans Dona Garibaldi Graviola Graviola Soft "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.harbortype.com/typefaces/bork",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.harbortype.com/fonts/bork/",
+    "last_modified": null
+  }
+}

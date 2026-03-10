@@ -1,0 +1,27 @@
+{
+  "record_id": "beach-club",
+  "source_url": "https://milletype.fr/beach-club",
+  "checked_at": "2026-03-09T02:02:49.553911+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://milletype.fr/beach-club",
+      "snippet": "int media. Make your next\n          design project feel like a day at the beach! Style from 25€ Family from 114€ Update 2025.06.03 — v01.2 Font design Milletype Foundry Font engineering Milletype Foundry Download ☞ Speci"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://milletype.fr/beach-club",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://milletype.fr/beach-club",
+    "last_modified": null
+  }
+}

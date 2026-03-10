@@ -1,0 +1,41 @@
+{
+  "record_id": "vtg-stencil-din",
+  "source_url": "https://astype.de/font_v_vtg-stencil-din.php",
+  "checked_at": "2026-03-09T01:53:24.743090+00:00",
+  "candidates": [
+    {
+      "date": "2003-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_v_vtg-stencil-din.php",
+      "snippet": "as B Stencil Ornaments A Thanksgiving Wine Grape A Free Fonts: DIN Type A - Basic Presto Nepos Fonts Wood Poster Eight ©2003 – 2026 by Andreas Seidel | astype fonts RSS Feed Imprint"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_v_vtg-stencil-din.php",
+      "snippet": "Type Zoom – Click into the text to edit. Regular Alt The VtgStencilDin-Regular font is listed in the current DIN 1451-1:2018-12 specification as a reference for stencil fonts in accordance with the DIN 1451-2 standard. D"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_v_vtg-stencil-din.php",
+      "snippet": "encil Ornaments A Thanksgiving Wine Grape A Free Fonts: DIN Type A - Basic Presto Nepos Fonts Wood Poster Eight ©2003 – 2026 by Andreas Seidel | astype fonts RSS Feed Imprint"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://astype.de/font_v_vtg-stencil-din.php",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.astype.de/font_v_vtg-stencil-din.php",
+    "last_modified": null
+  }
+}

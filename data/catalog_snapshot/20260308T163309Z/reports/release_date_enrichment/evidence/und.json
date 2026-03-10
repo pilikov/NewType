@@ -1,0 +1,62 @@
+{
+  "record_id": "und",
+  "source_url": "https://playtype.com/typefaces/und",
+  "checked_at": "2026-03-09T02:02:26.200012+00:00",
+  "candidates": [
+    {
+      "date": "2022-05-12",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://playtype.com/typefaces/und/",
+      "snippet": "2022-05-12T12:50:52+00:00"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://playtype.com/typefaces/und/",
+      "snippet": "ormation & Journal Previous Font Next Font Buy from 50€ Regular UND Buy from 50€ Style 1 Designer Jeppe Pendrup Release 2022 Und - A contemporary type tribute to one of our favourite eras in music. ⁠While we love to trav"
+    },
+    {
+      "date": "2025-06-26",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://playtype.com/typefaces/und/",
+      "snippet": "2025-06-26T07:52:17+00:00"
+    },
+    {
+      "date": "2025-06-26",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://playtype.com/typefaces/und/",
+      "snippet": "2025-06-26T07:52:17+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://playtype.com/typefaces/und/",
+      "snippet": "rty of their respective owners and no endorsement or derogation is intended or inferred. All other content, copyright © 2026 Playtype. All rights reserved."
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://playtype.com/typefaces/und/",
+      "snippet": "Fri, 06 Mar 2026 14:58:33 GMT"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://playtype.com/typefaces/und",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://playtype.com/typefaces/und/",
+    "last_modified": "Fri, 06 Mar 2026 14:58:33 GMT"
+  }
+}

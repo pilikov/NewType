@@ -1,0 +1,27 @@
+{
+  "record_id": "contrast-foundry--cofo-raffine",
+  "source_url": "https://contrastfoundry.com/typeface/cofo-raffin",
+  "checked_at": "2026-03-09T01:38:14.822904+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://contrastfoundry.com/typeface/cofo-raffin",
+      "snippet": "ing them. Read more Legal Privacy policy Licensing Follow us Twitter Facebook Instagram Created by Madebymad & WR ©CoFo 2026 , All rights reserved You selected 0 items Go to cart → Total 0 items $ 0 Go to cart Aa"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://contrastfoundry.com/typeface/cofo-raffin",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://contrastfoundry.com/typeface/cofo-raffin",
+    "last_modified": null
+  }
+}

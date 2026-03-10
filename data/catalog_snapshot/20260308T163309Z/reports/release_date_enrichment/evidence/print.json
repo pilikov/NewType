@@ -1,0 +1,34 @@
+{
+  "record_id": "print",
+  "source_url": "https://www.fairetype.com/fonts/print",
+  "checked_at": "2026-03-09T01:53:12.681937+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.fairetype.com/fonts/print",
+      "snippet": "edium Bold Black Print Colophon Design Sabrina Nacmias Engineering Sabrina Nacmias Vietnamese Support Rosie Mai Release 2025 Version 1.0 File Types .OTF, .TTF, .WOFF2 Supported Languages Albanian Asu Basque Bemba Bena Br"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.fairetype.com/fonts/print",
+      "snippet": "Overlap Luma Sans Luma Luma Reverse Palme Information Blog Free Trial Fonts Licensing Trial Licensing Fonts in Use FAQ ©2026 Faire Type Privacy Policy We use cookies to ensure you get the best experience on our website. "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.fairetype.com/fonts/print",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.fairetype.com/fonts/print",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "typerepublic--merce",
+  "source_url": "https://typerepublic.com/fonts/merce",
+  "checked_at": "2026-03-09T01:47:40.630929+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typerepublic.com/fonts/merce/",
+      "snippet": "stil transicional, fent un homenatge a la tipografia després de 109 anys de la seva creació. Designed by Ricard Garcia, 2020-2023 Free trial versions Curious to try our fonts before committing? We are offering free trial"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typerepublic.com/fonts/merce/",
+      "snippet": "transicional, fent un homenatge a la tipografia després de 109 anys de la seva creació. Designed by Ricard Garcia, 2020-2023 Free trial versions Curious to try our fonts before committing? We are offering free trial vers"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typerepublic.com/fonts/merce/",
+      "snippet": "ustom In Use Blog Shop About HELP Support Commercial Policy Licensing EULA FAQs Privacy Policy Terms of use Copyright © 2026 Typerepublic. All Rights Reserved. Made with ♥ by Ashler Design"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typerepublic.com/fonts/merce",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typerepublic.com/fonts/merce/",
+    "last_modified": null
+  }
+}

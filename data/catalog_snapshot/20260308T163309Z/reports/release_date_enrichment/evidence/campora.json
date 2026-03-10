@@ -1,0 +1,41 @@
+{
+  "record_id": "campora",
+  "source_url": "https://wtypefoundry.com/typefaces/campora",
+  "checked_at": "2026-03-09T01:42:29.276888+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-16",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://wtypefoundry.com/typefaces/campora",
+      "snippet": "2024-01-16"
+    },
+    {
+      "date": "1999-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://wtypefoundry.com/typefaces/campora",
+      "snippet": "and 138 the answer is 56... No? Let me tell you what I believe.... The war that devastated the Real World.... OPEN RAVE 1999 - [Parque O’Higgins]... Sin mi Olguita Marina, nada tiene senti... The future is female or it w"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://wtypefoundry.com/typefaces/campora",
+      "snippet": "/ Software License eBook / ePub Corporate Server Instagram Subscribe hola@wtypefoundry.com BACK TO TOP © W Type Foundry 2026"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://wtypefoundry.com/typefaces/campora",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://wtypefoundry.com/typefaces/campora",
+    "last_modified": null
+  }
+}

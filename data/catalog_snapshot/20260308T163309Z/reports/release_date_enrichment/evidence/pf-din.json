@@ -1,0 +1,48 @@
+{
+  "record_id": "pf-din",
+  "source_url": "https://parachutefonts.com/typeface/DIN-Text",
+  "checked_at": "2026-03-09T01:57:38.310390+00:00",
+  "candidates": [
+    {
+      "date": "2002-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/DIN-Text",
+      "snippet": "ry our latest additions to the DIN families, the epic DIN Max Variable and multiscript DIN Global Variable . Published: 2002 Designer: Panos Vassiliou FORMAT Desktop (otf) Web (woff/woff2) Digital Ad (woff/woff2) ePub (o"
+    },
+    {
+      "date": "2010-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/DIN-Text",
+      "snippet": "leted in 2002 as a group of 4 families which included condensed and compressed as well as a special display version. In 2010, Parachute® released 4 new families DIN Monospace, DIN Stencil, DIN Text Arabic and DIN Text Un"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/DIN-Text",
+      "snippet": "abled styles are only available when you purchase the entire family. ADD STYLE Close Newsletter / Follow us      © 2026 Parachute® Typefoundry. All Rights Reserved COOKIES NOTICE This Site uses cookies, including th"
+    },
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/DIN-Text",
+      "snippet": "st publication in the 1930s, several type foundries adopted the original designs for digital photocomposition. By early 2000, it became apparent that the existing DIN-based fonts (which were limited to a few Latin-only s"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://parachutefonts.com/typeface/DIN-Text",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://parachutefonts.com/typeface/DIN-Text",
+    "last_modified": null
+  }
+}

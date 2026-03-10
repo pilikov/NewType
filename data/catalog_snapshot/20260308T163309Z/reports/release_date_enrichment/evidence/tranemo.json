@@ -1,0 +1,41 @@
+{
+  "record_id": "tranemo",
+  "source_url": "https://www.nymarktype.co/fonts/tranemo",
+  "checked_at": "2026-03-09T02:03:35.573325+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.nymarktype.co/fonts/tranemo/",
+      "snippet": " the first retail release. Tranemo About Nymark Type Close Questions & answers Privacy policy Terms & conditions EULA © 2018–2026 Nymark Type. Company registration 559065-5931. info@nymarktype.co"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.nymarktype.co/fonts/tranemo/",
+      "snippet": "as my first retail font. Design credits Andreas Nymark Stefan Hattenbach (feedback) Kåge Gustafsson (original) Released 2021 Format OTF, WOFF, WOFF2, TTF (variable font) Downloads Type specimen (667 KB) Trial fonts (228 "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.nymarktype.co/fonts/tranemo/",
+      "snippet": "first retail release. Tranemo About Nymark Type Close Questions & answers Privacy policy Terms & conditions EULA © 2018–2026 Nymark Type. Company registration 559065-5931. info@nymarktype.co"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.nymarktype.co/fonts/tranemo",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.nymarktype.co/fonts/tranemo/",
+    "last_modified": null
+  }
+}

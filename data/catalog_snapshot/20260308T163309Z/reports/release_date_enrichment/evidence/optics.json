@@ -1,0 +1,27 @@
+{
+  "record_id": "optics",
+  "source_url": "https://kevinfoleyfonts.com/optics",
+  "checked_at": "2026-03-09T02:00:25.912367+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kevinfoleyfonts.com/optics",
+      "snippet": "th a friendly vibe and a big, open feel. Perfect for use in magazines, logos and packaging. ↑ Back to Top © Kevin Foley 2025 This website uses cookies to improve your experience and analyze site traffic. By clicking \"Acc"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://kevinfoleyfonts.com/optics",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://kevinfoleyfonts.com/optics",
+    "last_modified": null
+  }
+}

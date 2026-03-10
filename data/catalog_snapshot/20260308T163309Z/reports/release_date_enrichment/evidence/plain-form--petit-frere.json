@@ -1,0 +1,27 @@
+{
+  "record_id": "plain-form--petit-frere",
+  "source_url": "https://plain-form.com/typefaces/petit-frere",
+  "checked_at": "2026-03-09T01:51:30.285684+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://plain-form.com/typefaces/petit-frere",
+      "snippet": "rless design space, two takes on the sans-serif genre meant to complement each other. Try Family 28 styles Release year 2022 Related typefaces • Grandmaster • Nostra Sett → Notes on design → PDF Specimen PDF Specimen [↘]"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://plain-form.com/typefaces/petit-frere",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://plain-form.com/typefaces/petit-frere",
+    "last_modified": null
+  }
+}

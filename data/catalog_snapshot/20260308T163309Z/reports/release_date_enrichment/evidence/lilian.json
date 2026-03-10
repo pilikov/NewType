@@ -1,0 +1,55 @@
+{
+  "record_id": "lilian",
+  "source_url": "https://celine-hurka.com/typefaces/lilian",
+  "checked_at": "2026-03-09T01:51:46.584334+00:00",
+  "candidates": [
+    {
+      "date": "2024-06-03",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://celine-hurka.com/lilian/",
+      "snippet": "2024-06-03T22:32:03+00:00"
+    },
+    {
+      "date": "2024-06-03",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://celine-hurka.com/lilian/",
+      "snippet": "2024-06-03T22:32:03+00:00"
+    },
+    {
+      "date": "2025-05-17",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://celine-hurka.com/lilian/",
+      "snippet": "2025-05-17T23:04:29+00:00"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://celine-hurka.com/lilian/",
+      "snippet": "mation Licensing Trial fonts Cart Céline Hurka TYPEFACES / 2024 / LILIAN Test For Clara . DESIGNED BY CÉLINE HURKA YEAR 2020–2024 CHARACTER SET 535 GLYPHS STYLISTIC SETS ORNAMENTS AND ORNAMENTED INITIALS BASED ON THE CRO"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://celine-hurka.com/lilian/",
+      "snippet": "S VERSION GARDEN OF AETHER REVIVING TYPE Writing In Use Information Licensing Trial fonts Cart Céline Hurka TYPEFACES / 2024 / LILIAN Test For Clara . DESIGNED BY CÉLINE HURKA YEAR 2020–2024 CHARACTER SET 535 GLYPHS STYL"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://celine-hurka.com/typefaces/lilian",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://celine-hurka.com/lilian/",
+    "last_modified": null
+  }
+}

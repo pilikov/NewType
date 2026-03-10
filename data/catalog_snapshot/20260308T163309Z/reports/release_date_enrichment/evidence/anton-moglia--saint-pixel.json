@@ -1,0 +1,27 @@
+{
+  "record_id": "anton-moglia--saint-pixel",
+  "source_url": "https://anton.moglia.fr/fonts/saint-pixel/",
+  "checked_at": "2026-03-09T01:36:19.008492+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://anton.moglia.fr/fonts/saint-pixel/",
+      "snippet": "Loading... S'abonner Loading... Merci ! Vous allez recevoir un email de confirmation pour finaliser votre abonnement. © 2026 Anton Moglia Lire la Licence"
+    },
+    {
+      "date": "2026-02-27",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://anton.moglia.fr/fonts/saint-pixel/",
+      "snippet": "2026-02-27"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://anton.moglia.fr/fonts/saint-pixel/",
+    "last_modified": null
+  }
+}

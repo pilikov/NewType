@@ -1,0 +1,48 @@
+{
+  "record_id": "winner",
+  "source_url": "https://sportsfonts.com/fonts/winner",
+  "checked_at": "2026-03-09T01:57:41.452169+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-22",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://sportsfonts.com/fonts/winner",
+      "snippet": "2026-02-22"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sportsfonts.com/fonts/winner",
+      "snippet": "ensed Regular ! Information Designer Christoph Koeberlin Styles 49 License Commercial. Customization upon request. Year 2016 Current Version 1.104 See also Winner College , Winner Sans , Winner Numerals Tags Numerals + L"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sportsfonts.com/fonts/winner",
+      "snippet": "ls + Letters Gallery Winner × adidas.com/football (01/2026) Winner × adidas.com/football (01/2026) Winner × Real Betis (2023) Winner™ superfamily Get all 280 fonts as a MyFonts Bundle for a steal! Winner Winner Sans Winn"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sportsfonts.com/fonts/winner",
+      "snippet": "ee also Winner College , Winner Sans , Winner Numerals Tags Numerals + Letters Gallery Winner × adidas.com/football (01/2026) Winner × adidas.com/football (01/2026) Winner × Real Betis (2023) Winner™ superfamily Get all "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://sportsfonts.com/fonts/winner",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sportsfonts.com/fonts/winner",
+    "last_modified": null
+  }
+}

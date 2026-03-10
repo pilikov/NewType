@@ -1,0 +1,20 @@
+{
+  "record_id": "clip-bold-decisions",
+  "source_url": "https://bold-decisions.biz/Typefaces/Clip",
+  "checked_at": "2026-03-09T01:43:07.574541+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://bold-decisions.biz/Typefaces/Clip",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://bold-decisions.biz/Typefaces/Clip",
+    "last_modified": null
+  }
+}

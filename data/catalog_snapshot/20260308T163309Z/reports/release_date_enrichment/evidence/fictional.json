@@ -1,0 +1,20 @@
+{
+  "record_id": "fictional",
+  "source_url": "https://jonastype.com/fictional",
+  "checked_at": "2026-03-09T01:55:57.946245+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://jonastype.com/fictional",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://jonastype.com/fictional",
+    "last_modified": null
+  }
+}

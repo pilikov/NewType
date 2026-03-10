@@ -1,0 +1,62 @@
+{
+  "record_id": "magnette",
+  "source_url": "https://ecal-typefaces.ch/typefaces/magnette",
+  "checked_at": "2026-03-09T01:57:49.840470+00:00",
+  "candidates": [
+    {
+      "date": "2025-02-05",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://ecal-typefaces.ch/typeface/magnette/",
+      "snippet": "2025-02-05T10:27:03+00:00"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://ecal-typefaces.ch/typeface/magnette/",
+      "snippet": "2026-02-03T14:30:25+00:00"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://ecal-typefaces.ch/typeface/magnette/",
+      "snippet": "2026-02-03T14:30:25+00:00"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ecal-typefaces.ch/typeface/magnette/",
+      "snippet": "nded forms and angular, dynamic shapes, each challenging visual expectations in distinct ways. Magnette was designed in 2024 by Edouard Berard. close AÁĂǍÂÄÀĀĄÅÃÆBCĆČÇĈĊDĎĐÐEÉĔĚÊËĖÈĒĘFGĞĜĢĠHĦĤIĲÍĬǏÎÏİÌĪĮĨĴKĶLĹĽĻĿŁMNŃŇŅÑŊ"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ecal-typefaces.ch/typeface/magnette/",
+      "snippet": "to use in their school projects. Read more in our EULA if you're unsure which license you need. ©Students, ECAL\n        2026.\n        All rights reserved. This site uses cookies to provide you an optimal browsing experie"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://ecal-typefaces.ch/typeface/magnette/",
+      "snippet": "Sun, 08 Mar 2026 15:41:24 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ecal-typefaces.ch/typefaces/magnette",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ecal-typefaces.ch/typeface/magnette/",
+    "last_modified": "Sun, 08 Mar 2026 15:41:24 GMT"
+  }
+}

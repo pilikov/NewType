@@ -1,0 +1,69 @@
+{
+  "record_id": "ktf-metro-fonts",
+  "source_url": "https://kyivtypefoundry.com/projects/kyiv-metro-fonts",
+  "checked_at": "2026-03-09T02:00:09.909488+00:00",
+  "candidates": [
+    {
+      "date": "1993-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://kyivtypefoundry.com/projects/kyiv-metro-fonts",
+      "snippet": "hby Narodiv to Zvirynetska, a big online dispute began about the readability of the lettering. Kievskyi Vestnik Nr. 88, 1993. An excerpt from the newspaper article about station renaming called “Dismantle the medal, metr"
+    },
+    {
+      "date": "1990-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kyivtypefoundry.com/projects/kyiv-metro-fonts",
+      "snippet": "tect from the Metroprojekt, which he specially developed for his architectural designs. During the massive renamings of 1990–93, everything got mixed up and the old Antiqua (see KTF Metro Roman) was used as a replacement"
+    },
+    {
+      "date": "1991-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kyivtypefoundry.com/projects/kyiv-metro-fonts",
+      "snippet": "gners, 1979 Fragment from a poster by Valeriy Viter (b. 1947) Chervoniy Khutir station wall From the film \"Kyiv Metro\", 1991 These letters have become the hallmark of the Kyiv metro, although no one ever talks about it. "
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kyivtypefoundry.com/projects/kyiv-metro-fonts",
+      "snippet": "stone in its rich history, which continues to be written. Built six decades ago, it carries 1.32 mln. passengers a day (2016) and is one of the most beautiful manmade creations in Ukraine. As part of station architecture"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kyivtypefoundry.com/projects/kyiv-metro-fonts",
+      "snippet": "ut FAQ Licensing In use KTF 06: Metro Roman, Blueline, Sport, Botanical, Xarkiv Preface Credits Echoing WWII events, in 2022 Kyiv Metro became the bomb shelter for thousands of its inhabitants. This sad fact is another b"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kyivtypefoundry.com/projects/kyiv-metro-fonts",
+      "snippet": "tice different letterings. “Look at them, analyze and make fonts on their basis”, we told to our students in our summer 2023 workshop called “Kyiv Metro Fonts”. Font production:\nVadym Aksieiev Yevgen Anfalov Nazariy Kond"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kyivtypefoundry.com/projects/kyiv-metro-fonts",
+      "snippet": "e'd like to ask you for a donation. Use our PayPal , and we'll distribute the money among those in a need and report in 2024. Students:\nOlesia Bachynska\nRoman Baranovsky\nGalya Dautova\nAndriy Holubokiy\nNazariy Kondratiuk\n"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://kyivtypefoundry.com/projects/kyiv-metro-fonts",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://kyivtypefoundry.com/projects/kyiv-metro-fonts",
+    "last_modified": null
+  }
+}

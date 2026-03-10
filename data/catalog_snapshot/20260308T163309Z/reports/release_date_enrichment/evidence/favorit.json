@@ -1,0 +1,41 @@
+{
+  "record_id": "favorit",
+  "source_url": "https://abcdinamo.com/typefaces/favorit",
+  "checked_at": "2026-03-09T01:47:57.595250+00:00",
+  "candidates": [
+    {
+      "date": "2013-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://abcdinamo.com/typefaces/favorit",
+      "snippet": "... Tonight at Merlin. Poster Designs by Mark Bohle and Raffael Kormann. Published by Prima.Publikationen Buy Favorit © 2013–2026 Dinamo Typefaces. All rights reserved FAQ Contact Licensing Terms Hardware Terms Privacy &"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://abcdinamo.com/typefaces/favorit",
+      "snippet": "onight at Merlin. Poster Designs by Mark Bohle and Raffael Kormann. Published by Prima.Publikationen Buy Favorit © 2013–2026 Dinamo Typefaces. All rights reserved FAQ Contact Licensing Terms Hardware Terms Privacy & Cook"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://abcdinamo.com/typefaces/favorit",
+      "snippet": "Public Space? Lost and Found. MIT School of Architecture and Planning NODE Berlin Oslo mit Lydia Sachse. The MIT Press, 2017 The Book of Hov. Jay-Z exhibition and publication Video is loading ... Tonight at Merlin. Poste"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://abcdinamo.com/typefaces/favorit",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://abcdinamo.com/typefaces/favorit",
+    "last_modified": null
+  }
+}

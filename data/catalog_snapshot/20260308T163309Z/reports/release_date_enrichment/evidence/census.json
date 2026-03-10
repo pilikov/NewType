@@ -1,0 +1,27 @@
+{
+  "record_id": "census",
+  "source_url": "https://www.daltonmaag.com/library/census",
+  "checked_at": "2026-03-09T01:42:51.197068+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/census.html",
+      "snippet": "ont weight with an unusual Cap Height axis, swash caps, and stylish uncial lowercase alternates. Designed and developed\n2024 Designers Ben Jones Awards Communication Arts Award of Excellence, D&AD Awards Shortlist Writin"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.daltonmaag.com/library/census",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.daltonmaag.com/font-library/census.html",
+    "last_modified": null
+  }
+}

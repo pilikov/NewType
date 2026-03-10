@@ -1,0 +1,34 @@
+{
+  "record_id": "type-o-tones--zoologic",
+  "source_url": "https://type-o-tones.com/fonts/zoologic",
+  "checked_at": "2026-03-09T01:57:17.692722+00:00",
+  "candidates": [
+    {
+      "date": "2007-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/zoologic",
+      "snippet": " Description ZooLogic is a sans-serif typeface with rounded terminals that originated from a hand-lettering project. In 2007, CocoBooks published the work of the Japanese illustration group La Zoo, known for covers that "
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/zoologic",
+      "snippet": "ions ZooLogic Family Pack 3 Fonts 165 € 140.25 € Add to cart Style 1, Style 2, Style 3 Author José Manuel Urós Creation 2025 Actual version 1 Styles 3 Character sets Basic Latin Latin-1 Supplement Latin-2 Central Europea"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://type-o-tones.com/fonts/zoologic",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://type-o-tones.com/fonts/zoologic",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "sztos",
+  "source_url": "https://capitalics.wtf/font/sztos",
+  "checked_at": "2026-03-09T01:57:25.535854+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://capitalics.wtf/en/font/sztos",
+      "snippet": "Italic Show All 40 styles Need Test Fonts? You can now download them anytime from your account Dashboard . About Sztos (2018-2022) is a remix of one of the most famous grotesques used in Poland – Baccarat (published by J"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://capitalics.wtf/en/font/sztos",
+      "snippet": "c Show All 40 styles Need Test Fonts? You can now download them anytime from your account Dashboard . About Sztos (2018-2022) is a remix of one of the most famous grotesques used in Poland – Baccarat (published by Jan Id"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://capitalics.wtf/font/sztos",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://capitalics.wtf/en/font/sztos",
+    "last_modified": null
+  }
+}

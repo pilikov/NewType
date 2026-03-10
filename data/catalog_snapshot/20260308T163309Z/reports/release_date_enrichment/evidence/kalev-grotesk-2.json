@@ -1,0 +1,27 @@
+{
+  "record_id": "kalev-grotesk-2",
+  "source_url": "https://www.suvatypefoundry.ee/kalev-grotesk-2/",
+  "checked_at": "2026-03-09T01:46:55.733543+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/kalev-grotesk-2/",
+      "snippet": "LEV GROTESK 2 NEXT FONT I R Y O W N B Q D Z H G X A E M J T P V F C S CONTACT U L K KALEV GROTESK (2.0) by Jaan Rõõmus (2018) Follow-up project. Executed after graduation. Supervised by Mart Anderson CONTACT THE AUTHOR W"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/kalev-grotesk-2/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/kalev-grotesk-2/",
+    "last_modified": null
+  }
+}

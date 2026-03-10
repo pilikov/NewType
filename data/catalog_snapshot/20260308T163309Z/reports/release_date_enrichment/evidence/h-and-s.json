@@ -1,0 +1,27 @@
+{
+  "record_id": "h-and-s",
+  "source_url": "https://delvefonts.com/",
+  "checked_at": "2026-03-09T01:41:38.419949+00:00",
+  "candidates": [
+    {
+      "date": "1996-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://delvefonts.com/",
+      "snippet": "s video games, medical equipment, and mobile device UI. Learn more about our custom work → About Delve Fonts Founded in 1996, Delve Fonts provides type design services including variable fonts, mobile app fonts, system f"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://delvefonts.com/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://delvefonts.com/",
+    "last_modified": null
+  }
+}

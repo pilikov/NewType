@@ -1,0 +1,34 @@
+{
+  "record_id": "typetr--tp-productus",
+  "source_url": "https://www.typetr.com/productus.html",
+  "checked_at": "2026-03-09T01:36:02.631119+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typetr.com/productus.html",
+      "snippet": "/3 1/4 1/5 234/567 1/2 1/3 1/4 1/5 234/567 font-feature-settings: \"frac\" 1; Add to cart Productus glyph set Copyright © 2026 TYPETR | Buro Petr van Blokland + Claudia Mens | Licensing | Terms, conditions & privacy Bitcou"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.typetr.com/productus.html",
+      "snippet": "Thu, 05 Mar 2026 06:06:45 UTC"
+    },
+    {
+      "date": "2026-03-02",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.typetr.com/productus.html",
+      "snippet": "2026-03-02"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typetr.com/productus.html",
+    "last_modified": "Thu, 05 Mar 2026 06:06:45 UTC"
+  }
+}

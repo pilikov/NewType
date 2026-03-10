@@ -1,0 +1,34 @@
+{
+  "record_id": "farset-feirste",
+  "source_url": "https://muirmcneil.com/typefaces/farset-feirste",
+  "checked_at": "2026-03-09T01:50:24.258785+00:00",
+  "candidates": [
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://muirmcneil.com/project/farset-feirste/",
+      "snippet": "rofessor of Graphic Design at Ulster University, first developed the idiosyncratic lettering into a digital alphabet in 2015 and soon afterwards began work on a matching gaelic typeform to facilitate bilingual usage. In "
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://muirmcneil.com/project/farset-feirste/",
+      "snippet": "digital alphabet in 2015 and soon afterwards began work on a matching gaelic typeform to facilitate bilingual usage. In 2018, he approached MuirMcNeil to develop his prototypes into a working type system. four-three In a"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://muirmcneil.com/typefaces/farset-feirste",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://muirmcneil.com/project/farset-feirste/",
+    "last_modified": null
+  }
+}

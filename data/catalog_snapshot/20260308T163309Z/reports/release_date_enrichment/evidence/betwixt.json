@@ -1,0 +1,27 @@
+{
+  "record_id": "betwixt",
+  "source_url": "https://xcicero.esad-gv.net/page/betwixt/",
+  "checked_at": "2026-03-09T02:01:37.110540+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://xcicero.esad-gv.net/page/betwixt/",
+      "snippet": "essiné par Héra Mahseredjian, à partir d’un caractère en bois distribué par la fonderie Caslon & Cie. Version 1.0 (juin 2024) Télécharger la fonte (.otf)"
+    },
+    {
+      "date": "2026-02-14",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://xcicero.esad-gv.net/page/betwixt/",
+      "snippet": "2026-02-14"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://xcicero.esad-gv.net/page/betwixt/",
+    "last_modified": null
+  }
+}

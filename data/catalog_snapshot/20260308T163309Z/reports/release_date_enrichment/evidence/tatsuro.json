@@ -1,0 +1,48 @@
+{
+  "record_id": "tatsuro",
+  "source_url": "https://www.vocaltype.co/history-of/tatsuro",
+  "checked_at": "2026-03-09T02:01:43.056025+00:00",
+  "candidates": [
+    {
+      "date": "2022-12-02",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.vocaltype.co/history-of/tatsuro",
+      "snippet": "2022-12-02T17:18:25-0500"
+    },
+    {
+      "date": "2022-12-02",
+      "score": 0.9,
+      "source_type": "meta:datePublished",
+      "source_url": "https://www.vocaltype.co/history-of/tatsuro",
+      "snippet": "2022-12-02T17:18:25-0500"
+    },
+    {
+      "date": "2023-06-04",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.vocaltype.co/history-of/tatsuro",
+      "snippet": "2023-06-04T20:02:39-0400"
+    },
+    {
+      "date": "2022-12-02",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.vocaltype.co/history-of/tatsuro",
+      "snippet": "pe Sign In My Account Typefaces Custom Design History Progress Information Reach Sign In My Account TATSURO Tre Seals · December  2, 2022 Nearly 30 years before Dr. King marched with “I AM A MAN” signs, Tatsuro Matsuda w"
+    },
+    {
+      "date": "2026-02-13",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.vocaltype.co/history-of/tatsuro",
+      "snippet": "2026-02-13"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.vocaltype.co/history-of/tatsuro",
+    "last_modified": null
+  }
+}

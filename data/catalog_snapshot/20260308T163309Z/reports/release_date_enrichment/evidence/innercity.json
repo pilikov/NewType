@@ -1,0 +1,34 @@
+{
+  "record_id": "innercity",
+  "source_url": "https://parachutefonts.com/typeface/innercity",
+  "checked_at": "2026-03-09T02:02:59.753973+00:00",
+  "candidates": [
+    {
+      "date": "2002-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/innercity",
+      "snippet": "ith high-tech, innovative attitude. This family is available in six styles with support for Latin and Greek. Published: 2002 Designer: Panos Vassiliou FORMAT Desktop (otf) Web (woff/woff2) Digital Ad (woff/woff2) ePub (o"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/innercity",
+      "snippet": "abled styles are only available when you purchase the entire family. ADD STYLE Close Newsletter / Follow us      © 2026 Parachute® Typefoundry. All Rights Reserved COOKIES NOTICE This Site uses cookies, including th"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://parachutefonts.com/typeface/innercity",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://parachutefonts.com/typeface/innercity",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "tofu--36-days-of-type-2023-standard-licence",
+  "source_url": "https://tofutype.ca/product/36-days-of-type-2023-standard-licence/",
+  "checked_at": "2026-03-09T01:36:25.802052+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://tofutype.ca/product/36-days-of-type-2023-standard-licence/",
+      "snippet": " was: $40.00. $ 0.00 Current price is: $0.00. Add to cart Typefaces Meiros Demur Renwick Mosko Ice Tray 36 Days of Type 2023 Upcoming Releases Notes FAQ Licensing Glyph Set Standards Resources Type Design Graphic Design "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://tofutype.ca/product/36-days-of-type-2023-standard-licence/",
+      "snippet": "eam Connect Email Instagram LinkedIn Purchase on MyFonts Secrets FOR THE RECORD FontsInUse Information Privacy Policy © 2026 Tofu Type Foundry"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://tofutype.ca/product/36-days-of-type-2023-standard-licence/",
+      "snippet": "Sun, 08 Mar 2026 16:42:14 GMT"
+    },
+    {
+      "date": "2026-02-26",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://tofutype.ca/product/36-days-of-type-2023-standard-licence/",
+      "snippet": "2026-02-26"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://tofutype.ca/product/36-days-of-type-2023-standard-licence/",
+    "last_modified": "Sun, 08 Mar 2026 16:42:14 GMT"
+  }
+}

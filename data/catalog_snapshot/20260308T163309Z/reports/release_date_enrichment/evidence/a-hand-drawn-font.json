@@ -1,0 +1,55 @@
+{
+  "record_id": "a-hand-drawn-font",
+  "source_url": "http://www.motaitalic.com/a-hand-drawn-font",
+  "checked_at": "2026-03-09T01:37:08.808313+00:00",
+  "candidates": [
+    {
+      "date": "2025-08-19",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://motaitalic.com/product/a-hand-drawn-font/",
+      "snippet": "2025-08-19T10:11:57+00:00"
+    },
+    {
+      "date": "2026-02-06",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://motaitalic.com/product/a-hand-drawn-font/",
+      "snippet": "2026-02-06T23:47:39+00:00"
+    },
+    {
+      "date": "2026-02-06",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://motaitalic.com/product/a-hand-drawn-font/",
+      "snippet": "2026-02-06T23:47:39+00:00"
+    },
+    {
+      "date": "2008-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://motaitalic.com/product/a-hand-drawn-font/",
+      "snippet": "ft Certificate Objects Prints Stationery T-Shirts Tote Bags Follow Us! Instagram Twitter LinkedIn Facebook Mota Italic ©2008-2026 Mota Italic, all rights reserved."
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://motaitalic.com/product/a-hand-drawn-font/",
+      "snippet": "rtificate Objects Prints Stationery T-Shirts Tote Bags Follow Us! Instagram Twitter LinkedIn Facebook Mota Italic ©2008-2026 Mota Italic, all rights reserved."
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://www.motaitalic.com/a-hand-drawn-font",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://motaitalic.com/product/a-hand-drawn-font/",
+    "last_modified": null
+  }
+}

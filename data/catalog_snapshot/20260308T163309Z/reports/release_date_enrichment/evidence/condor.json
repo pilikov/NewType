@@ -1,0 +1,27 @@
+{
+  "record_id": "condor",
+  "source_url": "https://djr.com/condor",
+  "checked_at": "2026-03-09T01:53:20.057590+00:00",
+  "candidates": [
+    {
+      "date": "2009-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/condor",
+      "snippet": "y sloped italics serve to underscore its vibrant texture, making it a perfect choice for dazzling displays. Contrast In 2009, I moved to Lowell, Massachusetts. I loved walking around the old mill buildings in this indust"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://djr.com/condor",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://djr.com/condor",
+    "last_modified": null
+  }
+}

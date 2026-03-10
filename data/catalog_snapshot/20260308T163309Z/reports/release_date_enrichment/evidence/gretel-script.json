@@ -1,0 +1,48 @@
+{
+  "record_id": "gretel-script",
+  "source_url": "https://typejockeys.com/font/gretel-script",
+  "checked_at": "2026-03-09T01:57:02.108684+00:00",
+  "candidates": [
+    {
+      "date": "2025-03-10",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typejockeys.com/en/font/gretel-script",
+      "snippet": "2025-03-10T17:13:58+01:00"
+    },
+    {
+      "date": "2025-10-01",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typejockeys.com/en/font/gretel-script",
+      "snippet": "2025-10-01T10:09:52+02:00"
+    },
+    {
+      "date": "2025-10-01",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.typejockeys.com/en/font/gretel-script",
+      "snippet": "2025-10-01T10:09:52+02:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typejockeys.com/en/font/gretel-script",
+      "snippet": " in Use Die gestiefelte Katze Wedding Anna&Quirin Public Greetings Campaign Wichers Fast Food Licensing Legal Privacy © 2026 Typejockeys de en Trial Fonts close Search website close"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typejockeys.com/font/gretel-script",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typejockeys.com/en/font/gretel-script",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "record_id": "highway-gothic",
+  "source_url": "https://parachutefonts.com/typeface/highway-gothic",
+  "checked_at": "2026-03-09T02:02:49.795232+00:00",
+  "candidates": [
+    {
+      "date": "2001-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/highway-gothic",
+      "snippet": "ed in 2005 under the name Highway Sans which was released online in 2007 as part of our Premium Collection . Published: 2001 Designer: Panos Vassiliou FORMAT Desktop (otf) Web (woff/woff2) Digital Ad (woff/woff2) ePub (o"
+    },
+    {
+      "date": "2003-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/highway-gothic",
+      "snippet": " weight range from Thin to Black, true-italics and support for Latin and Greek. Specimens were published in Parachute's 2003 book/catalog . PF Highway Gothic is a very clean and legible typeface with a well-balanced text"
+    },
+    {
+      "date": "2005-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/highway-gothic",
+      "snippet": "eface with a well-balanced texture. Based on these early Parachute typefaces, a new multiscript family was developed in 2005 under the name Highway Sans which was released online in 2007 as part of our Premium Collection"
+    },
+    {
+      "date": "2007-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/highway-gothic",
+      "snippet": "hute typefaces, a new multiscript family was developed in 2005 under the name Highway Sans which was released online in 2007 as part of our Premium Collection . view details Test Drive Details ABOUT PF Highway Gothic was"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/highway-gothic",
+      "snippet": "abled styles are only available when you purchase the entire family. ADD STYLE Close Newsletter / Follow us      © 2026 Parachute® Typefoundry. All Rights Reserved COOKIES NOTICE This Site uses cookies, including th"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://parachutefonts.com/typeface/highway-gothic",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://parachutefonts.com/typeface/highway-gothic",
+    "last_modified": null
+  }
+}

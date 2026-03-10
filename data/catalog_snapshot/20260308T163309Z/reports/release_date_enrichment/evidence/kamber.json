@@ -1,0 +1,27 @@
+{
+  "record_id": "kamber",
+  "source_url": "https://studiobuchanan.xyz/typeface/kamber",
+  "checked_at": "2026-03-09T01:40:07.001083+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fonts.wondermake.xyz/typeface/kamber",
+      "snippet": " Fonts About Contact Custom Type Help Privacy Policy Fonts Design About Contact Kamber Humanist Sans-Serif Published in 2018 Jonny Gibson 16 Styles v1.04 37 Languages Kamber is a playful and approachable, neo-grotesque s"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://studiobuchanan.xyz/typeface/kamber",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fonts.wondermake.xyz/typeface/kamber",
+    "last_modified": null
+  }
+}

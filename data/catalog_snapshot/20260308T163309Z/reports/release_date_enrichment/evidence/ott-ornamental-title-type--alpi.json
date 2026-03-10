@@ -1,0 +1,27 @@
+{
+  "record_id": "ott-ornamental-title-type--alpi",
+  "source_url": "https://ott-foundry.com/typefaces/alpi",
+  "checked_at": "2026-03-09T02:01:16.938536+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ott-foundry.com/typefaces/alpi",
+      "snippet": "1 diapo alpi 2 diapo alpi 2 grand diapo alpi grand diapo alpi Informations About Alpi is a display typeface designed in 2019 initially as a logo for a group of high-altitude sportsmen. With the name already indicating th"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ott-foundry.com/typefaces/alpi",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ott-foundry.com/typefaces/alpi",
+    "last_modified": null
+  }
+}

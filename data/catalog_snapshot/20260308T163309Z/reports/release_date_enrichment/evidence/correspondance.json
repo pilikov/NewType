@@ -1,0 +1,48 @@
+{
+  "record_id": "correspondance",
+  "source_url": "https://radimpesko.com/fonts/correspondance",
+  "checked_at": "2026-03-09T01:39:31.855124+00:00",
+  "candidates": [
+    {
+      "date": "2001-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://radimpesko.com/fonts/correspondance",
+      "snippet": "ondance is displayed on headlines from Le Monde . Correspondance Sample PDF 476.6 KB RP Digital Type Foundry Specimen © 2001–2026 RP Digital Type Foundry , Lÿno © 2009–2026 KN & RP. All rights reserved, including the rig"
+    },
+    {
+      "date": "2009-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://radimpesko.com/fonts/correspondance",
+      "snippet": "onde . Correspondance Sample PDF 476.6 KB RP Digital Type Foundry Specimen © 2001–2026 RP Digital Type Foundry , Lÿno © 2009–2026 KN & RP. All rights reserved, including the right of reproduction in whole or in part in a"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://radimpesko.com/fonts/correspondance",
+      "snippet": "form. All typefaces designed by RP between 2001 and 2026. Lÿno designed by Karl Nawrot and Radim Peško between 2009 and 2012. Please do not distribute fonts illegally. Terms of Service"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://radimpesko.com/fonts/correspondance",
+      "snippet": "ce is displayed on headlines from Le Monde . Correspondance Sample PDF 476.6 KB RP Digital Type Foundry Specimen © 2001–2026 RP Digital Type Foundry , Lÿno © 2009–2026 KN & RP. All rights reserved, including the right of"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://radimpesko.com/fonts/correspondance",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://radimpesko.com/fonts/correspondance",
+    "last_modified": null
+  }
+}

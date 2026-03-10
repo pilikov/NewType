@@ -1,0 +1,34 @@
+{
+  "record_id": "edit-serif-cyrillic",
+  "source_url": "http://www.atlasfonts.com/typefaces/edit-serif-cyrillic",
+  "checked_at": "2026-03-09T01:38:47.312908+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://www.atlasfonts.com/typefaces/edit-serif-cyrillic/",
+      "snippet": "ning Proportional Lining Tabular Oldstyle Proportional Oldstyle Mathematic Marks Licensing Impressum Contact Privacy Â© 2026 Atlas Font Foundry This site uses cookies. Privacy Policy OK"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "http://www.atlasfonts.com/typefaces/edit-serif-cyrillic/",
+      "snippet": "Fri, 23 Jan 2026 02:46:01 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://www.atlasfonts.com/typefaces/edit-serif-cyrillic",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "http://www.atlasfonts.com/typefaces/edit-serif-cyrillic/",
+    "last_modified": "Fri, 23 Jan 2026 02:46:01 GMT"
+  }
+}

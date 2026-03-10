@@ -1,0 +1,19 @@
+{
+  "record_id": "stk-miso",
+  "source_url": "https://typekiosk.smuss.studio/miso",
+  "checked_at": "2026-03-09T02:01:23.702874+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typekiosk.smuss.studio/miso",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "403 Client Error: Forbidden for url: https://typekiosk.smuss.studio/miso"
+  }
+}

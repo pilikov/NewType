@@ -1,0 +1,20 @@
+{
+  "record_id": "pinopolis-mono",
+  "source_url": "https://pretendfoundry.com/pinopolis-mono",
+  "checked_at": "2026-03-09T01:46:10.322931+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://pretendfoundry.com/pinopolis-mono",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://pretendfoundry.com/pinopolis-mono",
+    "last_modified": null
+  }
+}

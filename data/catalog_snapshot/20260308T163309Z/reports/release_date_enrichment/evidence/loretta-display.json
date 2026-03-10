@@ -1,0 +1,34 @@
+{
+  "record_id": "loretta-display",
+  "source_url": "https://novatypefoundry.com/fonts/loretta-display",
+  "checked_at": "2026-03-09T01:47:16.962107+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://novatypefoundry.com/fonts/loretta-display/",
+      "snippet": "lay Semibold Italic Loretta Display Bold Loretta Display Bold Italic Family 12\n\t\t\tstyles Designed by Joana Correia Year 2023 Loretta Display Try it About In use Glyphs Adobe Fonts Trials Buy Bold Extra Light Extra Light "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://novatypefoundry.com/fonts/loretta-display/",
+      "snippet": "ivacy Policy Fonts Alga Anona Artigo Artigo Display Baga Laca Pro Laca Text Lemongrass Script Loretta Loretta Display © 2026 Nova Type Foundry Distinctive type crafted with warmth and precision Instagram LinkedIn Behance"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://novatypefoundry.com/fonts/loretta-display",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://novatypefoundry.com/fonts/loretta-display/",
+    "last_modified": null
+  }
+}

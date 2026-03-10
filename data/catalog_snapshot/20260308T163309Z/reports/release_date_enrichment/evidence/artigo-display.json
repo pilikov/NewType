@@ -1,0 +1,41 @@
+{
+  "record_id": "artigo-display",
+  "source_url": "https://novatypefoundry.com/fonts/artigo-display",
+  "checked_at": "2026-03-09T01:50:43.870869+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://novatypefoundry.com/fonts/artigo-display/",
+      "snippet": " Artigo Display has won a Certificate of Typographic Excellence from the Type Directors Typeface Competition in January 2018. Available for\n\t\t\t\tDesktop,  Webfont See EULA Language support Supported languages include (Lat"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://novatypefoundry.com/fonts/artigo-display/",
+      "snippet": "egular Artigo Display Medium Artigo Display Bold Artigo Display Black Family 6\n\t\t\tstyles Designed by Joana Correia Year 2017 Artigo Display Try it About In use Glyphs Adobe Fonts Trials Buy Regular ExtraLight Light Regul"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://novatypefoundry.com/fonts/artigo-display/",
+      "snippet": "ivacy Policy Fonts Alga Anona Artigo Artigo Display Baga Laca Pro Laca Text Lemongrass Script Loretta Loretta Display © 2026 Nova Type Foundry Distinctive type crafted with warmth and precision Instagram LinkedIn Behance"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://novatypefoundry.com/fonts/artigo-display",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://novatypefoundry.com/fonts/artigo-display/",
+    "last_modified": null
+  }
+}

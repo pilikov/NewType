@@ -1,0 +1,69 @@
+{
+  "record_id": "virna",
+  "source_url": "https://fsd.it/typefaces/virna",
+  "checked_at": "2026-03-09T01:48:23.641205+00:00",
+  "candidates": [
+    {
+      "date": "2015-11-25",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://fsd.it/shop/fonts/virna/",
+      "snippet": "2015-11-25T17:34:31+00:00"
+    },
+    {
+      "date": "2025-04-11",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://fsd.it/shop/fonts/virna/",
+      "snippet": "2025-04-11T08:48:21+00:00"
+    },
+    {
+      "date": "2025-04-11",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://fsd.it/shop/fonts/virna/",
+      "snippet": "2025-04-11T08:48:21+00:00"
+    },
+    {
+      "date": "2003-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fsd.it/shop/fonts/virna/",
+      "snippet": "Select 1-5 employees 6-50 employees 51-500 employees Clear Quantity Qty Add to cart Description Reviews 0 In September, 2003 I’ve been contacted by MTV for the restyling of mtv.it I started from the beginning to work on "
+    },
+    {
+      "date": "2005-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fsd.it/shop/fonts/virna/",
+      "snippet": "s probably the first western font with vertical combination of glyphs Pure power! Virna is included in ADI Design Index 2005 A great satisfaction There are no reviews yet. Add a review Be the first to review “Virna” Canc"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fsd.it/shop/fonts/virna/",
+      "snippet": "39 Contact Terms and Conditions Privacy and Cookies Shipping policy Refund policy How to protecting the webfont files © 2026 Fabrizio Schiavi. All rights reserved We use cookies on our website to give you the most releva"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://fsd.it/shop/fonts/virna/",
+      "snippet": "Sun, 08 Mar 2026 23:12:53 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fsd.it/typefaces/virna",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fsd.it/shop/fonts/virna/",
+    "last_modified": "Sun, 08 Mar 2026 23:12:53 GMT"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "vaksal",
+  "source_url": "https://www.suvatypefoundry.ee/vaksal/",
+  "checked_at": "2026-03-09T01:47:13.316396+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/vaksal/",
+      "snippet": "UNDRY PREVIOUS FONT VAKSAL NEXT FONT V I A R G H DOWNLOAD K Z X S D U Q N F C B E M Y L O W J P T VAKSAL by Marje Kask (2020) Vaksal is the digitalisation of Estonian train station signs’ typeface. Vaksal supports both L"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/vaksal/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/vaksal/",
+    "last_modified": null
+  }
+}

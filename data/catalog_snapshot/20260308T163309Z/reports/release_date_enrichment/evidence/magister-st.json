@@ -1,0 +1,48 @@
+{
+  "record_id": "magister-st",
+  "source_url": "https://www.sourcetype.com/typefaces/5325/magister",
+  "checked_at": "2026-03-09T01:48:45.135221+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.sourcetype.com/typefaces/5325/magister",
+      "snippet": "d to the public for the first time! Magister ST is designed by Laurenz Brunner and was first released by Source Type in 2025. Available Cuts Display Regular Italic Book Medium Bold Medium Ext Bold Ext Black Ext V a r i a"
+    },
+    {
+      "date": "2011-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.sourcetype.com/typefaces/5325/magister",
+      "snippet": "ibarndi, Zapotec, Zulu, Zuni Download Specimen PDF Trial Fonts Colophon Design: Aldo Novarese (1966) / Laurenz Brunner (2011–2022) Design & Production Assistance: Michelangelo Nigra, Dominik Bissem , Stefan Fitze Animati"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.sourcetype.com/typefaces/5325/magister",
+      "snippet": "e over their factories. In the turmoil, a majority of Nebiolo’s typefaces, including Magister, were lost to history. In 2013, Laurenz Brunner first used his digitized version of Magister on a publication for the British "
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.sourcetype.com/typefaces/5325/magister",
+      "snippet": "di, Zapotec, Zulu, Zuni Download Specimen PDF Trial Fonts Colophon Design: Aldo Novarese (1966) / Laurenz Brunner (2011–2022) Design & Production Assistance: Michelangelo Nigra, Dominik Bissem , Stefan Fitze Animations: "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.sourcetype.com/typefaces/5325/magister",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.sourcetype.com/typefaces/5325/magister",
+    "last_modified": null
+  }
+}

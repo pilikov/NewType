@@ -1,0 +1,27 @@
+{
+  "record_id": "gothic-scribble",
+  "source_url": "https://bonezdesignz.com/typefaces/gothic-scribble",
+  "checked_at": "2026-03-09T01:48:19.158886+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://bonezdesignz.com/gothic-scribble/",
+      "snippet": "Sun, 08 Mar 2026 16:52:27 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://bonezdesignz.com/typefaces/gothic-scribble",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://bonezdesignz.com/gothic-scribble/",
+    "last_modified": "Sun, 08 Mar 2026 16:52:27 GMT"
+  }
+}

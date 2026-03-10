@@ -1,0 +1,62 @@
+{
+  "record_id": "berlingske-slab-stencil",
+  "source_url": "https://playtype.com/typefaces/berlingske-slab-stencil",
+  "checked_at": "2026-03-09T02:02:06.613848+00:00",
+  "candidates": [
+    {
+      "date": "2018-12-29",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://playtype.com/typefaces/berlingske-slab-stencil/",
+      "snippet": "2018-12-29T13:56:00+00:00"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://playtype.com/typefaces/berlingske-slab-stencil/",
+      "snippet": "old Italic Extrabold Italic Black Italic Berlingske Slab Stencil Buy from 50€ Styles 12 Designer Jonas Hecksher Release 2014 Berlingske Slab Stencil comes with proportions similar to the Slab Display but combined with a "
+    },
+    {
+      "date": "2025-06-26",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://playtype.com/typefaces/berlingske-slab-stencil/",
+      "snippet": "2025-06-26T08:56:57+00:00"
+    },
+    {
+      "date": "2025-06-26",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://playtype.com/typefaces/berlingske-slab-stencil/",
+      "snippet": "2025-06-26T08:56:57+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://playtype.com/typefaces/berlingske-slab-stencil/",
+      "snippet": "rty of their respective owners and no endorsement or derogation is intended or inferred. All other content, copyright © 2026 Playtype. All rights reserved."
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://playtype.com/typefaces/berlingske-slab-stencil/",
+      "snippet": "Fri, 06 Mar 2026 15:06:59 GMT"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://playtype.com/typefaces/berlingske-slab-stencil",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://playtype.com/typefaces/berlingske-slab-stencil/",
+    "last_modified": "Fri, 06 Mar 2026 15:06:59 GMT"
+  }
+}

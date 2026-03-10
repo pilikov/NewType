@@ -1,0 +1,27 @@
+{
+  "record_id": "cleric",
+  "source_url": "https://beastsofengland.co/products/cleric",
+  "checked_at": "2026-03-09T01:40:56.981970+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://beastsofengland.co/products/cleric",
+      "snippet": "screaming to open. But I won’t allow them. I can’t allow them. I know he’s watching me. Check out a sample PDF, here. © 2026 Beasts of England Terms & License Privacy Policy Search Search"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://beastsofengland.co/products/cleric",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://beastsofengland.co/products/cleric",
+    "last_modified": null
+  }
+}

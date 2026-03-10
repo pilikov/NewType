@@ -1,0 +1,41 @@
+{
+  "record_id": "gt-walsheim",
+  "source_url": "https://www.grillitype.com/typefaces/gt-walsheim",
+  "checked_at": "2026-03-09T01:44:16.647399+00:00",
+  "candidates": [
+    {
+      "date": "2009-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.grillitype.com/typeface/gt-walsheim",
+      "snippet": "930s, GT Walsheim is a friendly but precise typeface. Supports all Cyrillic languages. Designed by Noël Leu Released in 2009/2017 Available in 32 styles GT Walsheim is available for customization and language extensions "
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.grillitype.com/typeface/gt-walsheim",
+      "snippet": " GT Walsheim is a friendly but precise typeface. Supports all Cyrillic languages. Designed by Noël Leu Released in 2009/2017 Available in 32 styles GT Walsheim is available for customization and language extensions Downl"
+    },
+    {
+      "date": "1993-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.grillitype.com/typeface/gt-walsheim",
+      "snippet": " 1986 ebenda Medium Oblique Hermann Eidenbenz – Герман Эиденбенц – 4. September 1902 in Cannanore, Indien – 25. Februar 1993 in Basel Bold Herbert Matter – Герберт Матер – 25. April 1907 in Engelberg – 8. Mai 1984 in Sou"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.grillitype.com/typefaces/gt-walsheim",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.grillitype.com/typeface/gt-walsheim",
+    "last_modified": null
+  }
+}

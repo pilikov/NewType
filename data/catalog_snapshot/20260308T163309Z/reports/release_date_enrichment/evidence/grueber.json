@@ -1,0 +1,27 @@
+{
+  "record_id": "grueber",
+  "source_url": "https://www.daltonmaag.com/library/grueber",
+  "checked_at": "2026-03-09T01:56:58.126152+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/grueber.html",
+      "snippet": " in visual communication, which is further amplified by its quirky expressive alternates. Designed and developed\n2009â2025 Designers Lukas Paltram Writing Systems Latin, Latin Extended Supporting over 860\nLanguages Aar"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.daltonmaag.com/library/grueber",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.daltonmaag.com/font-library/grueber.html",
+    "last_modified": null
+  }
+}

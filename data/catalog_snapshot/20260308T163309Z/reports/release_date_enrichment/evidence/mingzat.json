@@ -1,0 +1,97 @@
+{
+  "record_id": "mingzat",
+  "source_url": "https://software.sil.org/mingzat",
+  "checked_at": "2026-03-09T01:41:00.026943+00:00",
+  "candidates": [
+    {
+      "date": "2019-03-13",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://software.sil.org/mingzat/",
+      "snippet": "2019-03-13T22:02:28+00:00"
+    },
+    {
+      "date": "2019-03-13",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://software.sil.org/mingzat/",
+      "snippet": "2019-03-13T22:02:28+00:00"
+    },
+    {
+      "date": "2008-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/mingzat/",
+      "snippet": ".100 Update fs bit to 7 Update advanced width of U+00A0 NO-BREAK SPACE to match U+0020 SPACE Update advanced width of U+2008 PUNCTUATION SPACE to match U+002E FULL STOP Added visible square box to .notdef Mingzat version"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/mingzat/",
+      "snippet": "(OFL) . Font Version Platform Details Mingzat 1.200 for all platforms FONT                 | 487.2 KB                 | 5 Mar 2026 Release Notes for Version 1.200 Fixed positioning of LEPCHA SIGN RAN above LEPCHA VOWEL S"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://software.sil.org/mingzat/",
+      "snippet": "2026-03-05T14:40:00+00:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://software.sil.org/mingzat/",
+      "snippet": "2026-03-05T14:40:00+00:00"
+    },
+    {
+      "date": "2013-09-25",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/mingzat/",
+      "snippet": "ersions Version Platform Details Mingzat 0.100 for all platforms PREV FONT                 | 189.2 KB                 | 25 Sep 2013 Mingzat 1.000 for all platforms PREV FONT                 | 714.9 KB                 | 7"
+    },
+    {
+      "date": "2019-10-07",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/mingzat/",
+      "snippet": "KB                 | 25 Sep 2013 Mingzat 1.000 for all platforms PREV FONT                 | 714.9 KB                 | 7 Oct 2019 Mingzat 1.100 for all platforms PREV FONT                 | 756.8 KB                 | 19"
+    },
+    {
+      "date": "2022-05-19",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/mingzat/",
+      "snippet": " KB                 | 7 Oct 2019 Mingzat 1.100 for all platforms PREV FONT                 | 756.8 KB                 | 19 May 2022 Mingzat version 1.100 Update fs bit to 7 Update advanced width of U+00A0 NO-BREAK SPACE "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/mingzat/",
+      "snippet": "Language Software Forum Scripture Software Forum General Software Support Serve with Us About Us Contact Us Copyright © 2026 SIL Global Terms of Use Privacy Policy"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://software.sil.org/mingzat/",
+      "snippet": "Mon, 09 Mar 2026 00:56:44 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://software.sil.org/mingzat",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://software.sil.org/mingzat/",
+    "last_modified": "Mon, 09 Mar 2026 00:56:44 GMT"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "space-grotesk",
+  "source_url": "https://fonts.floriankarsten.com/space-grotesk",
+  "checked_at": "2026-03-09T01:47:40.904928+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fonts.floriankarsten.com/space-grotesk",
+      "snippet": "k, Vietnamese, Welsh, Zarma, Zulu Licensing Released under SIL Open Font License , as a modified version of Space Mono (2016, Colophon Foundry & Google Fonts). Download Typeface FK Grotesk 32 styles, from 60 Eur FK Grote"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fonts.floriankarsten.com/space-grotesk",
+      "snippet": "ětoslav Bartoš Publisher Florian Karsten Typefaces Original typeface Space Mono (Colophon Foundry) Release date January 2018 (1.0.0), October 2020 (2.0.0) Version 2.0.0 Formats OTF, TTF (variable), WOFF, WOFF2 Glyphs 573"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fonts.floriankarsten.com/space-grotesk",
+      "snippet": "er Florian Karsten Typefaces Original typeface Space Mono (Colophon Foundry) Release date January 2018 (1.0.0), October 2020 (2.0.0) Version 2.0.0 Formats OTF, TTF (variable), WOFF, WOFF2 Glyphs 573 OpenType features Sta"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fonts.floriankarsten.com/space-grotesk",
+      "snippet": "e foundry publishing high quality retail and custom typefaces. All typefaces are sold exclusively through this website. 2026 © Květoslav Bartoš & Florian Karsten Typefaces . Design & Code: Florian Karsten Studio . Made w"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fonts.floriankarsten.com/space-grotesk",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fonts.floriankarsten.com/space-grotesk",
+    "last_modified": null
+  }
+}

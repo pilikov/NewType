@@ -1,0 +1,34 @@
+{
+  "record_id": "cofo-sona",
+  "source_url": "https://contrastfoundry.com/typeface/cofo-sona",
+  "checked_at": "2026-03-09T01:53:43.975204+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://contrastfoundry.com/typeface/cofo-sona",
+      "snippet": "gly semi-neutral demeanor. Designer: Liza Rasskazova Team: Maria Doreuli, Anna Khorash, Tasya Petelina Year of release: 2023 Version: 1.0 Styles: Regular, Medium, Bold, Black CoFo Sona in use Subscribe to our news Get up"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://contrastfoundry.com/typeface/cofo-sona",
+      "snippet": "ing them. Read more Legal Privacy policy Licensing Follow us Twitter Facebook Instagram Created by Madebymad & WR ©CoFo 2026 , All rights reserved You selected 0 items Go to cart → Total 0 items $ 0 Go to cart Aa"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://contrastfoundry.com/typeface/cofo-sona",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://contrastfoundry.com/typeface/cofo-sona",
+    "last_modified": null
+  }
+}

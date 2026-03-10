@@ -1,0 +1,41 @@
+{
+  "record_id": "gt-cinetype",
+  "source_url": "https://www.grillitype.com/typefaces/gt-cinetype",
+  "checked_at": "2026-03-09T01:53:59.310920+00:00",
+  "candidates": [
+    {
+      "date": "2015-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.grillitype.com/typeface/gt-cinetype",
+      "snippet": "an only move in straight lines, so the typeface contains no curves. Designed by Mauro Paolozzi, Rafael Koch Released in 2015 Available in 7 styles GT Cinetype is available for customization and language extensions Downlo"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.grillitype.com/typeface/gt-cinetype",
+      "snippet": "awn of the Dead 1978 by George A. Romero with David Emge, Ken Foree, Scott H. Reiniger Regular Italic Jodorowsky’s Dune 2013 by Frank Pavich with Alejandro Jodorowsky, Michel Seydoux, H.R. Giger Bold They Live 1988 by Jo"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.grillitype.com/typeface/gt-cinetype",
+      "snippet": "po 1970 by Alejandro Jodorowsky with Alejandro Jodorowsky, Brontis Jodorowsky, José Legarreta Light Italic Interstellar 2014 by Christopher Nolan with Matthew McConaughey, Anne Hathaway, Jessica Chastain Regular Dawn of "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.grillitype.com/typefaces/gt-cinetype",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.grillitype.com/typeface/gt-cinetype",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "bruphy-text",
+  "source_url": "https://verycoolstudio.com/typefaces/bruphy",
+  "checked_at": "2026-03-09T01:41:59.612841+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://verycoolstudio.com/typefaces/bruphy",
+      "snippet": "Very Cool Studio | Bruphy Very Cool Typefaces Articles About In Use Bruphy Char set Extended Latin Released 2019 Styles 29 TrialFonts.otf Specimen.pdf An anfractuous venture of Very Cool Studios, Bruphy is the result of "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://verycoolstudio.com/typefaces/bruphy",
+      "snippet": "out them is the name. Our trial fonts have full opentype features, kerning, and character sets included. Happy trials! ©2026 Very Cool Studio Commercial License Terms Trial Terms"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://verycoolstudio.com/typefaces/bruphy",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://verycoolstudio.com/typefaces/bruphy",
+    "last_modified": null
+  }
+}

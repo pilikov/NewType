@@ -1,0 +1,62 @@
+{
+  "record_id": "precise-sans",
+  "source_url": "http://www.motaitalic.com/precise-sans",
+  "checked_at": "2026-03-09T01:47:48.187077+00:00",
+  "candidates": [
+    {
+      "date": "2018-03-27",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://motaitalic.com/product/precise-sans/",
+      "snippet": "2018-03-27T11:04:34+00:00"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://motaitalic.com/product/precise-sans/",
+      "snippet": "er font – most of the extended Latin language support is here now. Lots of extras too :) v0.1 → Initial Release 10 May, 2022 → Three weights: Thin, Regular, Black → 125 characters per font Precise Sans’ Character Set foo"
+    },
+    {
+      "date": "2026-01-15",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://motaitalic.com/product/precise-sans/",
+      "snippet": "2026-01-15T11:45:51+00:00"
+    },
+    {
+      "date": "2026-01-15",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://motaitalic.com/product/precise-sans/",
+      "snippet": "2026-01-15T11:45:51+00:00"
+    },
+    {
+      "date": "2008-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://motaitalic.com/product/precise-sans/",
+      "snippet": "ft Certificate Objects Prints Stationery T-Shirts Tote Bags Follow Us! Instagram Twitter LinkedIn Facebook Mota Italic ©2008-2026 Mota Italic, all rights reserved."
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://motaitalic.com/product/precise-sans/",
+      "snippet": "omplete this form. Feedback for Precise Sans * Message SEND Beta Updates v0.2 → The “Worth the Wait” Update 12 January, 2026 → All 10 weights! → 683 characters per font – most of the extended Latin language support is he"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://www.motaitalic.com/precise-sans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://motaitalic.com/product/precise-sans/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "record_id": "founder-s-hand",
+  "source_url": "https://creativemarket.com/jenwagnerco/291870223-Founder%E2%80%99s-Hand-Handwritten-Notes",
+  "checked_at": "2026-03-09T01:40:22.007411+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://creativemarket.com/jenwagnerco/291870223-Founder%E2%80%99s-Hand-Handwritten-Notes",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "403 Client Error: Forbidden for url: https://creativemarket.com/jenwagnerco/291870223-Founder%E2%80%99s-Hand-Handwritten-Notes"
+  }
+}

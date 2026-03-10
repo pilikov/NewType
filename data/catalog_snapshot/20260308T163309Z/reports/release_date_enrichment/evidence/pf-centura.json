@@ -1,0 +1,41 @@
+{
+  "record_id": "pf-centura",
+  "source_url": "https://parachutefonts.com/typeface/Centura",
+  "checked_at": "2026-03-09T01:59:21.570980+00:00",
+  "candidates": [
+    {
+      "date": "1999-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/Centura",
+      "snippet": "variable typeface that reimagines these classic styles for modern use. An early version of PF Centura was introduced in 1999 as Centura 3D , a two-style 3D design showcasing its innovative potential. This version, now pa"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/Centura",
+      "snippet": "lized, feature-rich typeface underscores its enduring appeal and adaptability for diverse design challenges. Published: 2025 Designer: Panos Vassiliou FORMAT Desktop instances (otf)\nDesktop variable (ttf)\nWeb instances ("
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/Centura",
+      "snippet": "abled styles are only available when you purchase the entire family. ADD STYLE Close Newsletter / Follow us      © 2026 Parachute® Typefoundry. All Rights Reserved COOKIES NOTICE This Site uses cookies, including th"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://parachutefonts.com/typeface/Centura",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://parachutefonts.com/typeface/Centura",
+    "last_modified": null
+  }
+}

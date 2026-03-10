@@ -1,0 +1,55 @@
+{
+  "record_id": "f37-analog",
+  "source_url": "https://www.f37foundry.com/fonts/f37-analog",
+  "checked_at": "2026-03-09T01:54:03.554995+00:00",
+  "candidates": [
+    {
+      "date": "2025-11-20",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.f37foundry.com/fonts/f37-analog",
+      "snippet": "2025-11-20T20:51:37Z"
+    },
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.f37foundry.com/fonts/f37-analog",
+      "snippet": "ck fox jumps over the lazy dog Text SemiBold 200 pt Buy from £ 45 Game Boy Colour Text Thin 300 pt Buy from £ 45 Sydney 2000 Text Bold 600 pt Buy from £ 45 Y2K Popular Pairings with F37 Analog ® Buy F37 Analog & F37 Hooj"
+    },
+    {
+      "date": "2000-12-31",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.f37foundry.com/fonts/f37-analog",
+      "snippet": "it is the ninth largest building in the world by usable volume. The exhibition was open to the public from 1 January to 31 December 2000. The project and exhibition were highly contentious and attracted barely half of th"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.f37foundry.com/fonts/f37-analog",
+      "snippet": "in South East London, England, which housed a major exhibition celebrating the beginning of the third millennium. As of 2022, it is the ninth largest building in the world by usable volume. The exhibition was open to the"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.f37foundry.com/fonts/f37-analog",
+      "snippet": "mation Trial Fonts Goods Fonts In Use About Information Support FAQ’s Licences Copyright Cookie Policy Privacy Policy © 2026 F37 Foundry Limited. All Rights Reserved"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.f37foundry.com/fonts/f37-analog",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.f37foundry.com/fonts/f37-analog",
+    "last_modified": null
+  }
+}

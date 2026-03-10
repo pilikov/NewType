@@ -1,0 +1,27 @@
+{
+  "record_id": "lambiseim",
+  "source_url": "https://www.suvatypefoundry.ee/lambiseim/",
+  "checked_at": "2026-03-09T01:56:31.559814+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/lambiseim/",
+      "snippet": "VIOUS FONT LAMBISEIM NEXT FONT S DOWNLOAD E G T C A P D X K B L R Z V Q F N M H Y W I U J O LAMBISEIM by Kenneth Allik (2018) A topic close to my heart is lighting. It plays a big role in my life. Without lighting I woul"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/lambiseim/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/lambiseim/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "paraiso",
+  "source_url": "https://plain-form.com/typefaces/paraiso",
+  "checked_at": "2026-03-09T01:46:57.852164+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://plain-form.com/typefaces/paraiso",
+      "snippet": "2 Disc Ordinals (ordn) Emu 200 → Emu 200 Superscript (sups) Vol 38 → Vol 38 Subscript (subs) 2/9 → 2/9 Fractions (frac) 2019 → 2019 Tabular figures (tnum) 1948 → 1948 Oldstyle figures (onum) News from the typographic mar"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://plain-form.com/typefaces/paraiso",
+      "snippet": "r layouts, its blocky letterforms naturally calling for compact leading and big sizes. Try Family 7 styles Release year 2022 → Notes on design → PDF Specimen PDF Specimen [↘] → Type tester → Information → In use → Charac"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://plain-form.com/typefaces/paraiso",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://plain-form.com/typefaces/paraiso",
+    "last_modified": null
+  }
+}

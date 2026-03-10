@@ -1,0 +1,27 @@
+{
+  "record_id": "jaws",
+  "source_url": "https://nuformtype.com/typefaces/jaws",
+  "checked_at": "2026-03-09T01:58:31.992223+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://nuformtype.com/jaws",
+      "snippet": "lligraphy, this type sheds its classic roots and takes firm in the contemporary landscape. DOWNLOAD SPECIMEN﻿ Buy Jaws ©2026 NUFORM TYPE"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://nuformtype.com/typefaces/jaws",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://nuformtype.com/jaws",
+    "last_modified": null
+  }
+}

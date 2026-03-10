@@ -1,0 +1,41 @@
+{
+  "record_id": "cenzo-flare",
+  "source_url": "https://wtypefoundry.com/typefaces/cenzo-flare",
+  "checked_at": "2026-03-09T01:40:12.655641+00:00",
+  "candidates": [
+    {
+      "date": "2025-06-20",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://wtypefoundry.com/typefaces/cenzo-flare",
+      "snippet": "2025-06-20"
+    },
+    {
+      "date": "1999-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://wtypefoundry.com/typefaces/cenzo-flare",
+      "snippet": "Flare Line Bold Cenzo Flare Line Bold Italic Cenzo Flare Line Black Cenzo Flare Line Black Italic Choose text OPEN RAVE 1999 - [Parque O’Higgins]... Don’t mind me, I'm just looking for m... Ask a silly question, get a si"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://wtypefoundry.com/typefaces/cenzo-flare",
+      "snippet": "/ Software License eBook / ePub Corporate Server Instagram Subscribe hola@wtypefoundry.com BACK TO TOP © W Type Foundry 2026"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://wtypefoundry.com/typefaces/cenzo-flare",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://wtypefoundry.com/typefaces/cenzo-flare",
+    "last_modified": null
+  }
+}

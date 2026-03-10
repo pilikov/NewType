@@ -1,0 +1,26 @@
+{
+  "context": {
+    "run_id": "cb2e06702a59",
+    "started_at": "2026-03-09T10:03:26.132118+00:00",
+    "source_filter": [
+      "type_today"
+    ],
+    "timeout_seconds": 30
+  },
+  "summary": {
+    "run_id": "cb2e06702a59",
+    "started_at": "2026-03-09T10:03:26.132118+00:00",
+    "finished_at": "2026-03-09T10:03:49.328389Z",
+    "sources": [
+      {
+        "source_id": "type_today",
+        "status": "failed",
+        "total_releases": 0,
+        "new_releases": 0,
+        "duration_seconds": 22.919,
+        "output_dir": null,
+        "error": "404 Client Error: Not Found for url: https://type.today/api/v1/fonts/firstprize_old?include=font_styles%2Ccustom_font_styles%2Cfont_tabs"
+      }
+    ]
+  }
+}

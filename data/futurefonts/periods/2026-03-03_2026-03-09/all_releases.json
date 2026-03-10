@@ -1,0 +1,135 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/element-type/zerk?v=0.2",
+    "name": "Zerk",
+    "styles": [],
+    "authors": [
+      "Element Type"
+    ],
+    "scripts": [
+      "basic-latin"
+    ],
+    "release_date": "2026-03-05",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/395/medium_header.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/8637/220226-zerk-specimen3-v02.pdf",
+    "discovered_at": "2026-03-09T08:22:03.899966+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:19163",
+      "activity_id": 19163,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.2",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 8637,
+      "resolved_typeface_id": 2398,
+      "typeface_language": "basic-latin"
+    },
+    "release_id": "6e79306170243f9e"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/masahiro-naruse/mn-octic?v=0.2",
+    "name": "MN™ Octic",
+    "styles": [],
+    "authors": [
+      "Masahiro Naruse"
+    ],
+    "scripts": [
+      "basic-latin",
+      "extended-latin"
+    ],
+    "release_date": "2026-03-04",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/173/medium_Artboard2.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/8439/MN_Octic_v2_Specimen.pdf",
+    "discovered_at": "2026-03-09T08:22:04.609760+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:19131",
+      "activity_id": 19131,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.2",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 8439,
+      "resolved_typeface_id": 413,
+      "typeface_language": "basic-latin,extended-latin"
+    },
+    "release_id": "984dd824a485f9f2"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/masahiro-naruse/mn-garfield?v=0.2",
+    "name": "MN™ Garfield",
+    "styles": [],
+    "authors": [
+      "Masahiro Naruse"
+    ],
+    "scripts": [
+      "basic-latin"
+    ],
+    "release_date": "2026-03-04",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/173/medium_Artboard2.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/8406/MN_Garfield_v2_Specimen.pdf",
+    "discovered_at": "2026-03-09T08:22:05.263101+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:19130",
+      "activity_id": 19130,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.2",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 8406,
+      "resolved_typeface_id": 414,
+      "typeface_language": "basic-latin"
+    },
+    "release_id": "1d9335ebfaa66d36"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/dualtype/padova?v=0.2",
+    "name": "Padova",
+    "styles": [],
+    "authors": [
+      "DualType"
+    ],
+    "scripts": [
+      "basic-latin"
+    ],
+    "release_date": "2026-03-03",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/428/medium_dualtype-header-100.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-09T08:22:05.931584+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:19064",
+      "activity_id": 19064,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.2",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 8703,
+      "resolved_typeface_id": 1903,
+      "typeface_language": "basic-latin"
+    },
+    "release_id": "cc2bcf11aa2a150e"
+  }
+]

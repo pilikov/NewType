@@ -1,0 +1,48 @@
+{
+  "record_id": "cyreal--alike",
+  "source_url": "https://www.cyreal.org/fonts/alike",
+  "checked_at": "2026-03-09T01:36:05.206447+00:00",
+  "candidates": [
+    {
+      "date": "2009-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/alike/",
+      "snippet": "s low for a pleasant reading experience. Alike Angular is a complementary titling style. Designed by Sveta Sebyakina in 2009, and in collaboration with Alexei Vanyashin it was first released in 2011 by Cyreal. To contrib"
+    },
+    {
+      "date": "2011-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/alike/",
+      "snippet": "titling style. Designed by Sveta Sebyakina in 2009, and in collaboration with Alexei Vanyashin it was first released in 2011 by Cyreal. To contribute to the project, visit github.com/cyrealtype/Alike Alike Alike Regular "
+    },
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/alike/",
+      "snippet": "rmat Static 2 styles OTF, TTF, woff2 Download Donate Source Files Authors: Sveta Sebyakina Tags: Serif Scripts: Latin © 2010–2026 Cyreal and respective authors. All rights reserved. This site uses cookies (including Goog"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/alike/",
+      "snippet": "Static 2 styles OTF, TTF, woff2 Download Donate Source Files Authors: Sveta Sebyakina Tags: Serif Scripts: Latin © 2010–2026 Cyreal and respective authors. All rights reserved. This site uses cookies (including Google An"
+    },
+    {
+      "date": "2026-03-02",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.cyreal.org/fonts/alike",
+      "snippet": "2026-03-02"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.cyreal.org/fonts/alike/",
+    "last_modified": null
+  }
+}

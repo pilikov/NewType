@@ -1,0 +1,27 @@
+{
+  "record_id": "ct-gates",
+  "source_url": "https://contextype.com/typefaces/ct-gates",
+  "checked_at": "2026-03-09T01:48:12.290353+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://contextype.com/typefaces/ct-gates",
+      "snippet": "Fri, 14 Feb 2025 18:57:04 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://contextype.com/typefaces/ct-gates",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://contextype.com/typefaces/ct-gates",
+    "last_modified": "Fri, 14 Feb 2025 18:57:04 GMT"
+  }
+}

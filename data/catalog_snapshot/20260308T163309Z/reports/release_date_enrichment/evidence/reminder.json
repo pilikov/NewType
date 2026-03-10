@@ -1,0 +1,41 @@
+{
+  "record_id": "reminder",
+  "source_url": "https://parachutefonts.com/typeface/reminder",
+  "checked_at": "2026-03-09T01:57:14.231691+00:00",
+  "candidates": [
+    {
+      "date": "2003-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/reminder",
+      "snippet": "ce to use. But don't take our word for it. The applications of this typeface are endless. Since its 1st release back in 2003, we have seen it being used for anything from banking to automobiles. And now, with this new ve"
+    },
+    {
+      "date": "2006-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/reminder",
+      "snippet": "eminder comes loaded with 555 glyphs which support all European languages including Greek and Cyrillic. Published: 2003/2006 Designer: Panos Vassiliou FORMAT Desktop (otf) Web (woff/woff2) Digital Ad (woff/woff2) ePub (o"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/reminder",
+      "snippet": "abled styles are only available when you purchase the entire family. ADD STYLE Close Newsletter / Follow us      © 2026 Parachute® Typefoundry. All Rights Reserved COOKIES NOTICE This Site uses cookies, including th"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://parachutefonts.com/typeface/reminder",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://parachutefonts.com/typeface/reminder",
+    "last_modified": null
+  }
+}

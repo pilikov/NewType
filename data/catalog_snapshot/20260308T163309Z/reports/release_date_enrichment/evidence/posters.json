@@ -1,0 +1,41 @@
+{
+  "record_id": "posters",
+  "source_url": "https://contemporarytype.com/fonts/posters-ng",
+  "checked_at": "2026-03-09T01:36:04.484636+00:00",
+  "candidates": [
+    {
+      "date": "2000-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://contemporarytype.com/fonts/posters-ng",
+      "snippet": "license ⤓ Read Newglyph’s EULA Desktop None 5 users 10 users 20 users 50 users 100 users 200 users 500 users 1000 users 2000 users Web None 10000 pageviews 50000 pageviews 100000 pageviews 200000 pageviews 1000000 pagevi"
+    },
+    {
+      "date": "2025-11-26",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://contemporarytype.com/fonts/posters-ng",
+      "snippet": "osters NG Normal Black Posters NG Normal Black Italic OpenType Features Add to cart + Clear Foundry: Newglyph Released: November 26, 2025 Styles: 96 Category: sans-serif Tone: formal, casual Use size: large, medium Width"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://contemporarytype.com/fonts/posters-ng",
+      "snippet": "me licenses and styles All Fonts Foundries About FAQ Newsletter Terms and Conditions Instagram Privacy Notice Contact © 2026 Contemporary Type LLC We’d appreciate your consent to use statistics cookies to improve this pr"
+    },
+    {
+      "date": "2026-03-02",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://contemporarytype.com/fonts/posters-ng",
+      "snippet": "2026-03-02"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://contemporarytype.com/fonts/posters-ng",
+    "last_modified": null
+  }
+}

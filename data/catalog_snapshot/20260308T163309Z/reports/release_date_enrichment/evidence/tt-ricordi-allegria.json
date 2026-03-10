@@ -1,0 +1,90 @@
+{
+  "record_id": "tt-ricordi-allegria",
+  "source_url": "https://typetype.org/typefaces/tt-ricordi-allegria",
+  "checked_at": "2026-03-09T02:03:32.645380+00:00",
+  "candidates": [
+    {
+      "date": "2021-11-03",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typetype.org/fonts/tt-ricordi-allegria/",
+      "snippet": "2021-11-03T19:05:25+00:00"
+    },
+    {
+      "date": "2021-11-03",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://typetype.org/fonts/tt-ricordi-allegria/",
+      "snippet": "2021-11-03T19:05:25+00:00"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-ricordi-allegria/",
+      "snippet": "atives Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! TT Ricordi Allegria Award Font Update: What’s New in "
+    },
+    {
+      "date": "2021-10-28",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-ricordi-allegria/",
+      "snippet": " 1 variable 1,466 glyphs per style 35 OpenType features Support for over 230 languages Release and update date Release: October 28, 2021 Last update: September 30, 2025 What's changed in the font: A full lowercase set ha"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-ricordi-allegria/",
+      "snippet": "res ss10 | Negative Circled Figures ss11 | Bashkir localization ss12 | Chuvash localization Variable axes Big update in 2025—new lowercase characters and new languages TT Ricordi Allegria Size Paragraph English Deutsch Р"
+    },
+    {
+      "date": "2025-09-30",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-ricordi-allegria/",
+      "snippet": "ical inscriptions. Its character can be transformed through stylistic sets. TT Ricordi Allegria won 1 award Update from September 30, 2025 — What’s New? Single style: from $ 43.99 Full family: from $ 139 6 styles Buy fon"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-ricordi-allegria/",
+      "snippet": "s Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! TT Ricordi Allegria Award Font Update: What’s New in the L"
+    },
+    {
+      "date": "2025-11-14",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typetype.org/fonts/tt-ricordi-allegria/",
+      "snippet": "2025-11-14T21:00:03+00:00"
+    },
+    {
+      "date": "2025-11-14",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://typetype.org/fonts/tt-ricordi-allegria/",
+      "snippet": "2025-11-14T21:00:03+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://typetype.org/fonts/tt-ricordi-allegria/",
+      "snippet": "Fri, 06 Mar 2026 21:08:25 GMT"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typetype.org/typefaces/tt-ricordi-allegria",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typetype.org/fonts/tt-ricordi-allegria/",
+    "last_modified": "Fri, 06 Mar 2026 21:08:25 GMT"
+  }
+}

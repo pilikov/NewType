@@ -1,0 +1,62 @@
+{
+  "record_id": "architype-motherwell",
+  "source_url": "https://www.thefoundrytypes.com/typefaces/architype-motherwell",
+  "checked_at": "2026-03-09T01:36:42.585142+00:00",
+  "candidates": [
+    {
+      "date": "2024-03-12",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.thefoundrytypes.com/fonts/architype-motherwell/",
+      "snippet": "2024-03-12T14:07:15+00:00"
+    },
+    {
+      "date": "2024-07-30",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.thefoundrytypes.com/fonts/architype-motherwell/",
+      "snippet": "2024-07-30T16:54:09+00:00"
+    },
+    {
+      "date": "2024-07-30",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.thefoundrytypes.com/fonts/architype-motherwell/",
+      "snippet": "2024-07-30T16:54:09+00:00"
+    },
+    {
+      "date": "1991-07-16",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/architype-motherwell/",
+      "snippet": "ing of the stencil gaps is diverse and playful, offering an interesting texture. Robert Motherwell, (January 24, 1915 – July 16, 1991), was an American abstract expressionist painter, printmaker, and editor of The Dada P"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/architype-motherwell/",
+      "snippet": "AQs Font licensing Privacy policy Account My account Orders Downloads Website by Studio Playne © The Foundry Types 1989–2026 Back to top"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.thefoundrytypes.com/fonts/architype-motherwell/",
+      "snippet": "Tue, 03 Mar 2026 14:39:27 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.thefoundrytypes.com/typefaces/architype-motherwell",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.thefoundrytypes.com/fonts/architype-motherwell/",
+    "last_modified": "Tue, 03 Mar 2026 14:39:27 GMT"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "record_id": "norbert",
+  "source_url": "https://typemates.com/fonts/norbert",
+  "checked_at": "2026-03-09T01:48:25.044240+00:00",
+  "candidates": [
+    {
+      "date": "2021-03-23",
+      "score": 0.95,
+      "source_type": "jsonld:dateCreated",
+      "source_url": "https://www.typemates.com/fonts/norbert",
+      "snippet": "2021-03-23T18:09:04+01:00"
+    },
+    {
+      "date": "2021-04-01",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typemates.com/fonts/norbert",
+      "snippet": "2021-04-01T08:00:00+02:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typemates.com/fonts/norbert",
+      "snippet": "2026-03-05T11:57:01+01:00"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/norbert",
+      "snippet": "erts. Philipp hopes you care about Norbert’s extensive range of arrows because he does. Designed by Philipp Neumeyer in 2021 Consulting & Help Maria Doreuli , Daria Cohen , Ilya Ruderman & Yury Ostromentsky Modern Cyrill"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/norbert",
+      "snippet": "rrent state of Cyrillic type development. TDC Award Certificate of Typographic Excellence by the Type Directors Club in 2022 and highlighted as Judges’ Choice. Granshan Award 1st price for the most outstanding Cyrillics "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typemates.com/fonts/norbert",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typemates.com/fonts/norbert",
+    "last_modified": null
+  }
+}

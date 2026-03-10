@@ -1,0 +1,41 @@
+{
+  "record_id": "nan-jaune",
+  "source_url": "https://studiotriple.fr/travaux/typefaces/jaune/",
+  "checked_at": "2026-03-09T01:50:47.317812+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://studiotriple.fr/travaux/typefaces/jaune/",
+      "snippet": "Studio Triple — NaN Jaune Skip to content NaN Jaune Home About 2016-2021 Retail Images Infos In use Get from €60 Get NaN Jaune from €60 Closed Contact We’re told that apertures shouldn’t "
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://studiotriple.fr/travaux/typefaces/jaune/",
+      "snippet": "Studio Triple — NaN Jaune Skip to content NaN Jaune Home About 2016-2021 Retail Images Infos In use Get from €60 Get NaN Jaune from €60 Closed Contact We’re told that apertures shouldn’t look "
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://studiotriple.fr/travaux/typefaces/jaune/",
+      "snippet": "ustom Open-source Hyper Scrypt Custom Open-source Millimetre Open-source Oldies, Protoypes All images:  © Studio Triple 2023"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://studiotriple.fr/travaux/typefaces/jaune/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://studiotriple.fr/travaux/typefaces/jaune/",
+    "last_modified": null
+  }
+}

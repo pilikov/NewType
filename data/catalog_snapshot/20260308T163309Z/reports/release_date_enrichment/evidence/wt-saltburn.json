@@ -1,0 +1,48 @@
+{
+  "record_id": "wt-saltburn",
+  "source_url": "https://wisetype.nl/typefaces/saltburn",
+  "checked_at": "2026-03-09T01:52:47.484012+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://wisetype.nl/typefaces/saltburn",
+      "snippet": "entific Inferiors Automatic Fractions Case Sensitive Forms Ornaments Nederlandse Spoorwegen Design Jacob Wise Published 2021 Updated Feb 2025, V 1.1 Formats otf, woff, woff2, Variable ttf Open specimen View languages The"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://wisetype.nl/typefaces/saltburn",
+      "snippet": " Automatic Fractions Case Sensitive Forms Ornaments Nederlandse Spoorwegen Design Jacob Wise Published 2021 Updated Feb 2025, V 1.1 Formats otf, woff, woff2, Variable ttf Open specimen View languages The Domestic Stage D"
+    },
+    {
+      "date": "1995-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://wisetype.nl/typefaces/saltburn",
+      "snippet": " by Gert Dumbar while working for Tel Design in 1968. Initially, the NS used Adrian Frutiger's Univers typeface, but in 1995, it switched to an adaptation of Frutiger's self named 'Frutiger'. Gerard Unger, the Dutch typo"
+    },
+    {
+      "date": "1997-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://wisetype.nl/typefaces/saltburn",
+      "snippet": "works across Europe. I aimed to strike a balance between three particular railway networks: British Rail (defunct since 1997), the Dutch NS, and the Swiss Federal Railways (SBB), all of which employ a similar, neutral \"h"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://wisetype.nl/typefaces/saltburn",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://wisetype.nl/typefaces/saltburn",
+    "last_modified": null
+  }
+}

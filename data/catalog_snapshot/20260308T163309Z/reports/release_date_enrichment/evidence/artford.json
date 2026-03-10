@@ -1,0 +1,34 @@
+{
+  "record_id": "artford",
+  "source_url": "https://typography.synthview.com/artford-font.php",
+  "checked_at": "2026-03-09T01:55:26.303549+00:00",
+  "candidates": [
+    {
+      "date": "2024-10-15",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typography.synthview.com/artford-font.php",
+      "snippet": "2024-10-15"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typography.synthview.com/artford-font.php",
+      "snippet": "Artford, a cool, stylish and versatile Sans-serif font family. 1 free style. Published on: 15th of October 2024 Artford is a cool sans-serif font designed for versatility. Its slightly wider design and big x-height make "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typography.synthview.com/artford-font.php",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typography.synthview.com/artford-font.php",
+    "last_modified": null
+  }
+}

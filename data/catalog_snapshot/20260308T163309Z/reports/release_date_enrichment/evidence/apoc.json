@@ -1,0 +1,55 @@
+{
+  "record_id": "apoc",
+  "source_url": "https://blazetype.eu/typefaces/apoc",
+  "checked_at": "2026-03-09T01:54:23.006592+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://blazetype.eu/typefaces/apoc",
+      "snippet": "tails Apoc embodies the battle between Light and Dark. Apoc(alypse)'s sharp character set & alternates were released in 2018 and updated in 2020 & 2022 by Matthieu Salvaggio. Cyrillic languages were designed by Ilya Rude"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://blazetype.eu/typefaces/apoc",
+      "snippet": "the battle between Light and Dark. Apoc(alypse)'s sharp character set & alternates were released in 2018 and updated in 2020 & 2022 by Matthieu Salvaggio. Cyrillic languages were designed by Ilya Ruderman (Tomorrow Type)"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://blazetype.eu/typefaces/apoc",
+      "snippet": "tle between Light and Dark. Apoc(alypse)'s sharp character set & alternates were released in 2018 and updated in 2020 & 2022 by Matthieu Salvaggio. Cyrillic languages were designed by Ilya Ruderman (Tomorrow Type) and Yu"
+    },
+    {
+      "date": "2025-09-24",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://blazetype.eu/typefaces/apoc",
+      "snippet": "2025-09-24"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://blazetype.eu/typefaces/apoc",
+      "snippet": " Bonto Mega Armag Arges Sichem Gueta Discotack Negatif Tangley Square Swirl Zoo Barabbas Dudler Taklobo Sapfir Darker © 2026 Blaze Type All rights reserved Cookie Consent We use cookies to provide you with the best possi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://blazetype.eu/typefaces/apoc",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://blazetype.eu/typefaces/apoc",
+    "last_modified": null
+  }
+}

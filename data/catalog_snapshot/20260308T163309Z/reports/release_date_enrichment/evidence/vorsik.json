@@ -1,0 +1,27 @@
+{
+  "record_id": "vorsik",
+  "source_url": "https://www.suvatypefoundry.ee/vorsik/",
+  "checked_at": "2026-03-09T01:48:33.990748+00:00",
+  "candidates": [
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/vorsik/",
+      "snippet": "RY PREVIOUS FONT VORSIK NEXT FONT G W R V Y L H B E Q X F J I K DOWNLOAD S U C O A P M Z D T N VÕRSIK by Karri Kaljend (2015) A typeface expressing speed and movement. Supervised by Christoph Knoth DOWNLOAD When using fo"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/vorsik/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/vorsik/",
+    "last_modified": null
+  }
+}

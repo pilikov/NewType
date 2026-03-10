@@ -1,0 +1,41 @@
+{
+  "record_id": "narly",
+  "source_url": "https://www.emigre.com/Fonts/Narly",
+  "checked_at": "2026-03-09T01:49:49.050369+00:00",
+  "candidates": [
+    {
+      "date": "1993-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.emigre.com/Fonts/Narly",
+      "snippet": "ects Prints by Rudy VanderLans News Narly (Type Specimen) Free PDF Download More info Narly Designed by Zuzana Licko in 1993. More... Narly embraces the relative sophistication of yesterday’s computer technology. Licko’s"
+    },
+    {
+      "date": "1995-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.emigre.com/Fonts/Narly",
+      "snippet": "s Emigre News Archive Contact Us Emigre Inc. 1700 Shattuck Ave., #307 Berkeley, CA 94709 1-530-756-2900 info@emigre.com 1995 - 2026 © All Rights Reserved Emigre Inc.\n\t\t\t\t\t\t\t\t | Privacy Policy"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.emigre.com/Fonts/Narly",
+      "snippet": "e News Archive Contact Us Emigre Inc. 1700 Shattuck Ave., #307 Berkeley, CA 94709 1-530-756-2900 info@emigre.com 1995 - 2026 © All Rights Reserved Emigre Inc.\n\t\t\t\t\t\t\t\t | Privacy Policy"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.emigre.com/Fonts/Narly",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.emigre.com/Fonts/Narly",
+    "last_modified": null
+  }
+}

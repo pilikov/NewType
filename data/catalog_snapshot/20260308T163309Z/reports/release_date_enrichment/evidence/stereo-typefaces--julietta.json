@@ -1,0 +1,20 @@
+{
+  "record_id": "stereo-typefaces--julietta",
+  "source_url": "https://www.stereo-type.fr/fonts/julietta/",
+  "checked_at": "2026-03-08T16:58:32.395632+00:00",
+  "candidates": [
+    {
+      "date": "2026-03-07",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.stereo-type.fr/fonts/julietta/",
+      "snippet": "2026-03-07"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.stereo-type.fr/fonts/julietta/",
+    "last_modified": null
+  }
+}

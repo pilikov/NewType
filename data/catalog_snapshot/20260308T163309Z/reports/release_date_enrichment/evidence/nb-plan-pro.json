@@ -1,0 +1,41 @@
+{
+  "record_id": "nb-plan-pro",
+  "source_url": "https://neubauladen.com/typeface/nb-plan-pro",
+  "checked_at": "2026-03-09T01:59:06.265421+00:00",
+  "candidates": [
+    {
+      "date": "2001-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://neubauladen.com/typeface/nb-plan-pro/",
+      "snippet": "peMe Licensing Options & Descriptions Terms & Conditions/Licenses Shipping Costs My Account Customer Support Designer © 2001-2026 Neubau . All rights reserved. Our website uses cookies to improve the user experience. In "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://neubauladen.com/typeface/nb-plan-pro/",
+      "snippet": "Licensing Options & Descriptions Terms & Conditions/Licenses Shipping Costs My Account Customer Support Designer © 2001-2026 Neubau . All rights reserved. Our website uses cookies to improve the user experience. In our p"
+    },
+    {
+      "date": "2026-03-09",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://neubauladen.com/typeface/nb-plan-pro/",
+      "snippet": "NBL —   Product Typeface  NB Plan™ Pro NBL Monday, March 9, 2026 • Search for: Search Apparel (4) Digital Goods (111) Elements (90) Misc (1) Neubau Edition (4) Physical (19) Posters (1"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://neubauladen.com/typeface/nb-plan-pro",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://neubauladen.com/typeface/nb-plan-pro/",
+    "last_modified": null
+  }
+}

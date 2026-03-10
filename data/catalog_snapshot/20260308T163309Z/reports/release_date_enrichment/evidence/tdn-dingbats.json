@@ -1,0 +1,27 @@
+{
+  "record_id": "tdn-dingbats",
+  "source_url": "https://www.typedunord.com/tdn-dingbats",
+  "checked_at": "2026-03-09T02:03:09.399672+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.typedunord.com/tdn-dingbats",
+      "snippet": "Tue, 03 Mar 2026 07:17:14 GMT"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.typedunord.com/tdn-dingbats",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typedunord.com/tdn-dingbats",
+    "last_modified": "Tue, 03 Mar 2026 07:17:14 GMT"
+  }
+}

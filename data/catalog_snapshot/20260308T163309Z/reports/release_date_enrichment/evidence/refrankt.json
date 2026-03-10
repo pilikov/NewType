@@ -1,0 +1,48 @@
+{
+  "record_id": "refrankt",
+  "source_url": "https://groteskly.xyz/typefaces/refrankt",
+  "checked_at": "2026-03-09T01:59:35.803081+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://groteskly.xyz/fonts/refrankt",
+      "snippet": "hs, making Refrankt a versatile and powerful typeface for contemporary design. Styles 18 Fonts Characters 800+ Released 2023 Updated 2023 Designers Eugene Tantsurin, Anna Remm Version 1.00 Supported Languages OpenType Fe"
+    },
+    {
+      "date": "2001-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://groteskly.xyz/fonts/refrankt",
+      "snippet": "orms mark mark-to-mark positioning 1.1 0.000 From â¬35 Stanley Kubrickâs depiction of space travel, most famously in 2001: A Space Odyssey, blends scientific accuracy with visionary artistry, creating a cinematic expe"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://groteskly.xyz/fonts/refrankt",
+      "snippet": " Tantsurin PR Ostale Informacione Tehnologije Beograd 1B Matice Srpske Belgrade, Serbia 11160 Â© Groteskly Yours Studio 2026 Site Home All Fonts Fonts in Use Trials About Blog FAQ Licensing Cookies Privacy Refunds Contac"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://groteskly.xyz/fonts/refrankt",
+      "snippet": "Tue, 03 Mar 2026 13:59:43 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://groteskly.xyz/typefaces/refrankt",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://groteskly.xyz/fonts/refrankt",
+    "last_modified": "Tue, 03 Mar 2026 13:59:43 GMT"
+  }
+}

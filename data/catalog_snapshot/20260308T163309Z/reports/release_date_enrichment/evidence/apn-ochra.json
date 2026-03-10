@@ -1,0 +1,34 @@
+{
+  "record_id": "apn-ochra",
+  "source_url": "https://www.alphabetspatricknell.com/apn-ochra",
+  "checked_at": "2026-03-09T01:40:02.073102+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.alphabetspatricknell.com/apn-ochra",
+      "snippet": "ous text arrived with twentieth-century modernismâat the dawn of our present era. Glyph Set Topââââ Â© 2023â2025 Alphabets Patrick Nell Â· Licenses Â· Imprint & Disclosure Â· Privacy Also available through an"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.alphabetspatricknell.com/apn-ochra",
+      "snippet": "Sun, 02 Nov 2025 10:50:55 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.alphabetspatricknell.com/apn-ochra",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.alphabetspatricknell.com/apn-ochra",
+    "last_modified": "Sun, 02 Nov 2025 10:50:55 GMT"
+  }
+}

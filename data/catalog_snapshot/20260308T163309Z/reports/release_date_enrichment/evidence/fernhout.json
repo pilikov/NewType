@@ -1,0 +1,62 @@
+{
+  "record_id": "fernhout",
+  "source_url": "https://www.thefoundrytypes.com/fonts/fernhout/",
+  "checked_at": "2026-03-09T01:39:40.461733+00:00",
+  "candidates": [
+    {
+      "date": "2021-11-22",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.thefoundrytypes.com/fonts/wim-crouwel-fernhout-design/",
+      "snippet": "2021-11-22T22:44:49+00:00"
+    },
+    {
+      "date": "2024-07-30",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.thefoundrytypes.com/fonts/wim-crouwel-fernhout-design/",
+      "snippet": "2024-07-30T16:26:00+00:00"
+    },
+    {
+      "date": "2024-07-30",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.thefoundrytypes.com/fonts/wim-crouwel-fernhout-design/",
+      "snippet": "2024-07-30T16:26:00+00:00"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/wim-crouwel-fernhout-design/",
+      "snippet": "evelopment of the ‘fernhout’ typeface. In use Fernhout, designed in collaboration with Thonik for the Dutch Design Week 2021, Eindhoven. Read about our case study here Dutch Design Week 2021, official merchandise. DDW – "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/wim-crouwel-fernhout-design/",
+      "snippet": "AQs Font licensing Privacy policy Account My account Orders Downloads Website by Studio Playne © The Foundry Types 1989–2026 Back to top"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.thefoundrytypes.com/fonts/wim-crouwel-fernhout-design/",
+      "snippet": "Tue, 03 Mar 2026 14:39:48 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.thefoundrytypes.com/fonts/fernhout/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.thefoundrytypes.com/fonts/wim-crouwel-fernhout-design/",
+    "last_modified": "Tue, 03 Mar 2026 14:39:48 GMT"
+  }
+}

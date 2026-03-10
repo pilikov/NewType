@@ -1,0 +1,48 @@
+{
+  "record_id": "zeenesia-studio--bromo-plateau",
+  "source_url": "https://zeenesia.com/product/bromo-plateau/",
+  "checked_at": "2026-03-09T01:36:22.196269+00:00",
+  "candidates": [
+    {
+      "date": "2023-08-20",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://zeenesia.com/product/bromo-plateau/",
+      "snippet": "2023-08-20T00:12:06+00:00"
+    },
+    {
+      "date": "2026-01-16",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://zeenesia.com/product/bromo-plateau/",
+      "snippet": "2026-01-16T06:58:15+00:00"
+    },
+    {
+      "date": "2026-01-16",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://zeenesia.com/product/bromo-plateau/",
+      "snippet": "2026-01-16T06:58:15+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://zeenesia.com/product/bromo-plateau/",
+      "snippet": "omo Plateau quantity Add to cart Related products $ 16 Night Michy $ 17 Broman $ 17 Black Rover $ 16 Caorgen Copyright ©2025 Zeenesia Studio All Right Reserved Menu Home Shop Serif Fonts Sans Serif Fonts Script Fonts Dis"
+    },
+    {
+      "date": "2026-02-26",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://zeenesia.com/product/bromo-plateau/",
+      "snippet": "2026-02-26"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://zeenesia.com/product/bromo-plateau/",
+    "last_modified": null
+  }
+}

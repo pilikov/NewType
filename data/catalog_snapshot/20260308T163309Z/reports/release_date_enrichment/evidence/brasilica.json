@@ -1,0 +1,41 @@
+{
+  "record_id": "brasilica",
+  "source_url": "https://www.c-a-s-t.com/typefaces/brasilica",
+  "checked_at": "2026-03-09T01:57:25.286447+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/brasilica/",
+      "snippet": "n (including all the diacritics and Open Type features for indigenous languages and IPA characters) will be released in 2016. Designer Rafael Dietzsch Supported languages Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Br"
+    },
+    {
+      "date": "2011-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/brasilica/",
+      "snippet": "erman, Taita, Teso, Upper Sorbian, Uzbek (Latin), Volapük, Vunjo, Walser, Welsh, Western Frisian, Zulu Production years 2011-2015 Styles Regular, Regular Italic, Medium, SemiBold, Bold, Black OpenType Features Oldstyle f"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/brasilica/",
+      "snippet": "inuous texts, Brasilica proved its versatility in its very first public appearance, in the visual identity of the ATypI 2015 conference in São Paulo. Brasilica began as a Masters project at the University of Reading, and"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.c-a-s-t.com/typefaces/brasilica",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.c-a-s-t.com/typefaces/brasilica/",
+    "last_modified": null
+  }
+}

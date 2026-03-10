@@ -1,0 +1,3458 @@
+[
+  {
+    "foundry_id": "sudtipos",
+    "foundry_name": "Sudtipos",
+    "foundry_url": "https://www.sudtipos.com/",
+    "release_count": 269,
+    "favicon_url": "https://www.sudtipos.com/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "device-fonts",
+    "foundry_name": "Device Fonts",
+    "foundry_url": "https://www.devicefonts.co.uk/",
+    "release_count": 257,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "p22-type-foundry",
+    "foundry_name": "P22 Type Foundry",
+    "foundry_url": "https://p22.com/fonts/?foundries=p22",
+    "release_count": 198,
+    "favicon_url": "https://p22.com/favicon.svg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "canada-type",
+    "foundry_name": "Canada Type",
+    "foundry_url": "https://canadatype.com/",
+    "release_count": 169,
+    "favicon_url": "https://canadatype.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "typotheque",
+    "foundry_name": "Typotheque",
+    "foundry_url": "https://www.typotheque.com/",
+    "release_count": 165,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "f37",
+    "foundry_name": "F37",
+    "foundry_url": "http://f37foundry.com/",
+    "release_count": 136,
+    "favicon_url": "https://f37foundry.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "commercial-type",
+    "foundry_name": "Commercial Type",
+    "foundry_url": "https://commercialtype.com",
+    "release_count": 126,
+    "favicon_url": "https://commercialtype.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "positype",
+    "foundry_name": "Positype",
+    "foundry_url": "https://positype.com/",
+    "release_count": 110,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "tour-de-force",
+    "foundry_name": "Tour de Force Font Foundry",
+    "foundry_url": "https://tourdefonts.com",
+    "release_count": 110,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "house-industries",
+    "foundry_name": "House Industries",
+    "foundry_url": "https://housefonts.com/",
+    "release_count": 97,
+    "favicon_url": "https://housefonts.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "resistenza-type-foundry",
+    "foundry_name": "Resistenza Type Foundry",
+    "foundry_url": "https://www.rsztype.com/",
+    "release_count": 83,
+    "favicon_url": "https://www.rsztype.com/tenant-favicon/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "lineto",
+    "foundry_name": "Lineto",
+    "foundry_url": "https://lineto.com/",
+    "release_count": 79,
+    "favicon_url": "https://lineto.com/favicon.svg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "hubert-jocham-type",
+    "foundry_name": "Hubert Jocham Type",
+    "foundry_url": "https://www.hubertjocham.de/",
+    "release_count": 73,
+    "favicon_url": "https://www.hubertjocham.de/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "lanston-type-company",
+    "foundry_name": "Lanston Type Company",
+    "foundry_url": "https://p22.com/fonts/?foundries=ltc",
+    "release_count": 73,
+    "favicon_url": "https://p22.com/favicon.svg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "hvd-fonts",
+    "foundry_name": "HvD Fonts",
+    "foundry_url": "https://www.hvdfonts.com/",
+    "release_count": 68,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "stereo-typefaces",
+    "foundry_name": "Stereo Type",
+    "foundry_url": "https://www.stereo-type.fr/",
+    "release_count": 59,
+    "favicon_url": "https://www.stereo-type.fr/wp-content/themes/Stereotype/images/favicon.ico",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "brutal-types",
+    "foundry_name": "Brutal Types",
+    "foundry_url": "https://www.brutaltypes.com/",
+    "release_count": 55,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "production-type",
+    "foundry_name": "Production Type",
+    "foundry_url": "https://www.productiontype.com/",
+    "release_count": 55,
+    "favicon_url": "https://productiontype.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "the-designers-foundry",
+    "foundry_name": "The Designers Foundry",
+    "foundry_url": "https://www.thedesignersfoundry.com/",
+    "release_count": 55,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "hanken-design-co",
+    "foundry_name": "Hanken Design Co.",
+    "foundry_url": "https://hanken.co/",
+    "release_count": 53,
+    "favicon_url": "https://hanken.co/cdn/shop/files/Website-Blue-Logo.png?crop=center&height=32&v=1613173807&width=32",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "typetogether",
+    "foundry_name": "TypeTogether",
+    "foundry_url": "https://www.type-together.com/",
+    "release_count": 53,
+    "favicon_url": "https://www.type-together.com/favicon.ico?v=2026.01.29.09.31",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "typeverything",
+    "foundry_name": "Typeverything",
+    "foundry_url": "https://typeverything.com/",
+    "release_count": 50,
+    "favicon_url": "https://typeverything.com/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "optimo",
+    "foundry_name": "Optimo",
+    "foundry_url": "https://optimo.ch",
+    "release_count": 49,
+    "favicon_url": "https://optimo.ch/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "suitcase-type-foundry",
+    "foundry_name": "Suitcase Type Foundry",
+    "foundry_url": "https://www.suitcasetype.com/",
+    "release_count": 49,
+    "favicon_url": "https://www.suitcasetype.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "atipo",
+    "foundry_name": "Atipo",
+    "foundry_url": "https://www.atipofoundry.com/",
+    "release_count": 47,
+    "favicon_url": "https://www.atipofoundry.com/assets/images/favicon.png",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "connary-fagen",
+    "foundry_name": "Connary Fagen",
+    "foundry_url": "https://connary.com",
+    "release_count": 44,
+    "favicon_url": "https://connary.com/favicons/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "that-that-type",
+    "foundry_name": "That That Type",
+    "foundry_url": "https://www.thatthattype.com",
+    "release_count": 44,
+    "favicon_url": "https://www.thatthattype.com/tenant-favicon/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "adam-ladd-design",
+    "foundry_name": "Adam Ladd Design",
+    "foundry_url": "https://ladd-design.com/",
+    "release_count": 43,
+    "favicon_url": "https://ladd-design.com/assets/5b5852ff-751c-4506-82ff-7d8946862a29_carw_1x1x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "laura-worthington",
+    "foundry_name": "Laura Worthington",
+    "foundry_url": "https://lauraworthingtondesign.com/",
+    "release_count": 42,
+    "favicon_url": "https://lauraworthingtondesign.com/favicon.svg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "muirmcneil",
+    "foundry_name": "MuirMcNeil",
+    "foundry_url": "https://muirmcneil.com/",
+    "release_count": 40,
+    "favicon_url": "https://muirmcneil.com/wp-content/themes/muirmcneil/images/mmcn_favicon4.ico",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "sharp-type",
+    "foundry_name": "Sharp Type",
+    "foundry_url": "https://sharptype.co",
+    "release_count": 40,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "superior-type",
+    "foundry_name": "Superior Type",
+    "foundry_url": "http://superiortype.com",
+    "release_count": 40,
+    "favicon_url": "https://superiortype.com/favicon-96x96.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "the-northern-block",
+    "foundry_name": "The Northern Block",
+    "foundry_url": "https://thenorthernblock.co.uk/",
+    "release_count": 40,
+    "favicon_url": "https://images.squarespace-cdn.com/content/v1/5f197177c2b0542a57e1e105/43932b24-8baf-49d8-a253-588558ccdb61/favicon.ico?format=100w",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "pstl",
+    "foundry_name": "PSTL",
+    "foundry_url": "https://pstypelab.com/",
+    "release_count": 36,
+    "favicon_url": "https://images.squarespace-cdn.com/content/v1/571ea12f746fb9143714af34/1461907426148-SY8AIYGVPSQCCZ2IAXBY/favicon.ico?format=100w",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "briefcase-type-foundry",
+    "foundry_name": "Briefcase Type Foundry",
+    "foundry_url": "https://www.briefcasetype.com/",
+    "release_count": 35,
+    "favicon_url": "https://www.briefcasetype.com/themes/briefcasetype/images/bc_favicon.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "london-type-foundry",
+    "foundry_name": "London Type Foundry",
+    "foundry_url": "https://londontype.co.uk/",
+    "release_count": 33,
+    "favicon_url": "https://londontype.co.uk/images/icons/favicon.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "capitalics-wtf",
+    "foundry_name": "Capitalics WTF",
+    "foundry_url": "https://capitalics.wtf",
+    "release_count": 32,
+    "favicon_url": "https://capitalics.wtf/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "bold-monday",
+    "foundry_name": "Bold Monday",
+    "foundry_url": "https://boldmonday.com",
+    "release_count": 31,
+    "favicon_url": "https://boldmonday.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "yellow-design-studio",
+    "foundry_name": "Yellow Design Studio",
+    "foundry_url": "https://yellowdesignstudio.com",
+    "release_count": 31,
+    "favicon_url": "https://yellowdesignstudio.com/favicon.svg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "newlyn",
+    "foundry_name": "Newlyn",
+    "foundry_url": "https://newlyn.com/",
+    "release_count": 30,
+    "favicon_url": "https://newlyn.com/newlyn-icon-64x64-01.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "facetype",
+    "foundry_name": "FaceType",
+    "foundry_url": "https://www.facetype.org/",
+    "release_count": 29,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "identity-letters",
+    "foundry_name": "Identity Letters",
+    "foundry_url": "https://www.identity-letters.com/",
+    "release_count": 29,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "ludwigtype",
+    "foundry_name": "LudwigType",
+    "foundry_url": "https://www.ludwigtype.de/",
+    "release_count": 29,
+    "favicon_url": "https://ludwigtype.de/favicon/favicon-96x96.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "mark-simonson-studio",
+    "foundry_name": "Mark Simonson Studio",
+    "foundry_url": "https://www.marksimonson.com/",
+    "release_count": 29,
+    "favicon_url": "https://www.marksimonson.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "hex-projects",
+    "foundry_name": "HEX Projects",
+    "foundry_url": "https://hex.xyz",
+    "release_count": 26,
+    "favicon_url": "https://hex.xyz/assets/favicon.png?2022-02-02",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "studio-rene-bieder",
+    "foundry_name": "Studio René Bieder",
+    "foundry_url": "https://renebieder.com",
+    "release_count": 26,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "fort-foundry",
+    "foundry_name": "Fort Foundry",
+    "foundry_url": "https://fortfoundry.com/",
+    "release_count": 25,
+    "favicon_url": "https://fortfoundry.com/static/images/favicon.png",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "kimmy-design",
+    "foundry_name": "Kimmy Design",
+    "foundry_url": "https://kimmydesign.com/",
+    "release_count": 25,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "plau",
+    "foundry_name": "Plau",
+    "foundry_url": "https://plau.design/",
+    "release_count": 25,
+    "favicon_url": "https://plau.design/vermelho-favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "frere-jones-type",
+    "foundry_name": "Frere–Jones Type",
+    "foundry_url": "https://frerejones.com/",
+    "release_count": 24,
+    "favicon_url": "https://frerejones.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "hamilton-wood-type-collection",
+    "foundry_name": "Hamilton Wood Type Collection",
+    "foundry_url": "https://p22.com/fonts/?foundries=hwt",
+    "release_count": 24,
+    "favicon_url": "https://p22.com/favicon.svg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "lucasfonts",
+    "foundry_name": "LucasFonts",
+    "foundry_url": "https://www.lucasfonts.com/",
+    "release_count": 24,
+    "favicon_url": "https://www.lucasfonts.com/favicons/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "luzi-type",
+    "foundry_name": "Luzi Type",
+    "foundry_url": "https://www.luzi-type.ch/",
+    "release_count": 24,
+    "favicon_url": "https://www.luzi-type.ch/image/favicons/favicon.svg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "r-typography",
+    "foundry_name": "R-Typography",
+    "foundry_url": "https://www.r-typography.com/",
+    "release_count": 24,
+    "favicon_url": "https://www.r-typography.com/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "bb-bureau",
+    "foundry_name": "bb-bureau",
+    "foundry_url": "https://www.bb-bureau.fr/",
+    "release_count": 24,
+    "favicon_url": "https://www.bb-bureau.fr/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "lipton-letter-design",
+    "foundry_name": "Lipton Letter Design",
+    "foundry_url": "https://liptonletterdesign.com/",
+    "release_count": 23,
+    "favicon_url": "https://liptonletterdesign.com/img/lipton-logo.svg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "out-of-the-dark",
+    "foundry_name": "Out of the Dark",
+    "foundry_url": "https://www.outofthedark.swiss/",
+    "release_count": 23,
+    "favicon_url": "https://www.outofthedark.swiss/favicon/android-icon-192x192.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "lux-typo",
+    "foundry_name": "Lux Typo",
+    "foundry_url": "https://luxtypo.com",
+    "release_count": 22,
+    "favicon_url": "https://luxtypo.com/cdn/shop/t/7/assets/favicon.ico?v=124196783063127389801655354511",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "ndiscover",
+    "foundry_name": "Ndiscover",
+    "foundry_url": "https://ndiscover.com",
+    "release_count": 22,
+    "favicon_url": "https://ndiscover.com/uploads/2020/04/cropped-favicon-32x32.jpg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "retype",
+    "foundry_name": "ReType",
+    "foundry_url": "https://www.re-type.com/",
+    "release_count": 22,
+    "favicon_url": "https://www.re-type.com/favicon.ico",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "shinntype",
+    "foundry_name": "ShinnType",
+    "foundry_url": "https://shinntype.com/",
+    "release_count": 22,
+    "favicon_url": "https://shinntype.com/wp-content/uploads/2021/07/cropped-shinntypelogo-32x32.jpg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "dotless-type",
+    "foundry_name": "Dotless type",
+    "foundry_url": "https://dotless-type.com/",
+    "release_count": 21,
+    "favicon_url": "https://dotless-type.com/wp-content/uploads/2023/11/cropped-web_logo-32x32.jpg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "dutch-type-library",
+    "foundry_name": "Dutch Type Library",
+    "foundry_url": "https://www.dutchtypelibrary.nl/",
+    "release_count": 21,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "brownfox",
+    "foundry_name": "Brownfox",
+    "foundry_url": "https://brownfox.org/",
+    "release_count": 20,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "pandeka-studio",
+    "foundry_name": "Pandeka Studio",
+    "foundry_url": "https://pandekafoundry.com/",
+    "release_count": 20,
+    "favicon_url": "https://pandekafoundry.com/wp-content/uploads/2025/01/pandeka-favicon-150x150.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "giulia-boggio",
+    "foundry_name": "Giulia Boggio",
+    "foundry_url": "https://www.giuliaboggio.xyz/",
+    "release_count": 19,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "juri-zaech",
+    "foundry_name": "Juri Zaech",
+    "foundry_url": "https://www.juri-zaech.com/",
+    "release_count": 19,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "ott-ornamental-title-type",
+    "foundry_name": "OTT — Ornamental & Title Type",
+    "foundry_url": "https://ott-foundry.com/",
+    "release_count": 19,
+    "favicon_url": "https://ott-foundry.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "delve-fonts",
+    "foundry_name": "Delve Fonts",
+    "foundry_url": "https://delvefonts.com/",
+    "release_count": 18,
+    "favicon_url": "https://delvefonts.com/static/favicon/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "dizajndesign",
+    "foundry_name": "DizajnDesign",
+    "foundry_url": "https://dizajndesign.sk/",
+    "release_count": 17,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "manufacturas-tipograficas-madrilenas",
+    "foundry_name": "Manufacturas Tipográficas Madrileñas",
+    "foundry_url": "https://mtm.madrid/",
+    "release_count": 17,
+    "favicon_url": "https://mtm.madrid/wp-content/uploads/2025/03/MTM-FOOT.svg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "noir-blanc-rouge",
+    "foundry_name": "Noir Blanc Rouge",
+    "foundry_url": "https://noirblancrouge.com/",
+    "release_count": 17,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "pretend-foundry",
+    "foundry_name": "Pretend Foundry",
+    "foundry_url": "https://pretendfoundry.com/",
+    "release_count": 17,
+    "favicon_url": "https://pretendfoundry.com/images/favicon.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "tptq-arabic",
+    "foundry_name": "TPTQ Arabic",
+    "foundry_url": "https://tptq-arabic.com/",
+    "release_count": 17,
+    "favicon_url": "https://tptq-arabic.com/ssadmin/tptq_site_common/images/arabic-favicon.ico",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "b-v-h-type",
+    "foundry_name": "b•v-h type",
+    "foundry_url": "https://bvhtype.com/",
+    "release_count": 17,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "david-jonathan-ross",
+    "foundry_name": "David Jonathan Ross",
+    "foundry_url": "https://djr.com/",
+    "release_count": 16,
+    "favicon_url": "https://djr.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "kostic-type-foundry",
+    "foundry_name": "Kostić Type Foundry",
+    "foundry_url": "https://www.kostictype.com",
+    "release_count": 16,
+    "favicon_url": "https://kostictype.com/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "type-by",
+    "foundry_name": "Type By",
+    "foundry_url": "https://www.typeby.com/",
+    "release_count": 16,
+    "favicon_url": "https://www.typeby.com/tenant-favicon/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "typeji",
+    "foundry_name": "Typeji",
+    "foundry_url": "https://typeji.com/",
+    "release_count": 16,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "lo-ol-type-foundry",
+    "foundry_name": "lo-ol Type Foundry",
+    "foundry_url": "https://www.lo-ol.design/",
+    "release_count": 16,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "atlas",
+    "foundry_name": "Atlas",
+    "foundry_url": "http://www.atlasfonts.com/",
+    "release_count": 15,
+    "favicon_url": "http://www.atlasfonts.com/wp-content/themes/atlas/img/safari-pinned-tab-icon.svg",
+    "favicon_source": "mask-icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "garagefonts",
+    "foundry_name": "GarageFonts",
+    "foundry_url": "https://garagefonts.com/",
+    "release_count": 15,
+    "favicon_url": "https://garagefonts.com/favicon.ico",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "league-of-movable-type",
+    "foundry_name": "League of Movable Type",
+    "foundry_url": "https://www.theleagueofmoveabletype.com/",
+    "release_count": 15,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "tokotype",
+    "foundry_name": "Tokotype",
+    "foundry_url": "https://www.tokotype.com/",
+    "release_count": 15,
+    "favicon_url": "https://www.tokotype.com/images/main/favicon32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "australian-type-foundry",
+    "foundry_name": "Australian Type Foundry",
+    "foundry_url": "http://www.atf.com.au/",
+    "release_count": 14,
+    "favicon_url": "https://www.atf.com.au/wp-content/uploads/2021/10/cropped-android-chrome-512x512-1-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "carter-cone",
+    "foundry_name": "Carter & Cone",
+    "foundry_url": "https://carterandcone.com/",
+    "release_count": 14,
+    "favicon_url": "https://carterandcone.com/img/cc-icon.svg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "character-type",
+    "foundry_name": "Character Type",
+    "foundry_url": "https://charactertype.com/",
+    "release_count": 14,
+    "favicon_url": "https://charactertype.com/favicon-32x32.png?2",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "melvastype",
+    "foundry_name": "Melvastype",
+    "foundry_url": "https://www.melvastype.fi/",
+    "release_count": 14,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "union-type-design",
+    "foundry_name": "Union Type Design",
+    "foundry_url": "https://www.uniontypedesign.com/",
+    "release_count": 14,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "xyz-type",
+    "foundry_name": "XYZ Type",
+    "foundry_url": "https://xyztype.com/",
+    "release_count": 14,
+    "favicon_url": "https://xyztype.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "ellen-luff-type-foundry",
+    "foundry_name": "Ellen Luff Type Foundry",
+    "foundry_url": "https://ellenlufftype.com/",
+    "release_count": 13,
+    "favicon_url": "https://ellenlufftype.com/favicon.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "frost",
+    "foundry_name": "Frost",
+    "foundry_url": "https://www.frostype.xyz/",
+    "release_count": 13,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "labor-and-wait",
+    "foundry_name": "Labor and Wait",
+    "foundry_url": "https://www.laborandwait.xyz/",
+    "release_count": 13,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "mckl",
+    "foundry_name": "MCKL",
+    "foundry_url": "https://mckltype.com",
+    "release_count": 13,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "mostardesign-type-foundry",
+    "foundry_name": "Mostardesign Type Foundry",
+    "foundry_url": "https://motyfo.com",
+    "release_count": 13,
+    "favicon_url": "https://www.motyfo.com/wp-content/uploads/2021/06/cropped-cropped-ico-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "revolver-type-foundry",
+    "foundry_name": "Revolver Type Foundry",
+    "foundry_url": "https://revolvertype.com",
+    "release_count": 13,
+    "favicon_url": "https://www.revolvertype.com/favicon.ico",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "schick-toikka",
+    "foundry_name": "Schick Toikka",
+    "foundry_url": "https://www.schick-toikka.com/",
+    "release_count": 13,
+    "favicon_url": "https://www.schick-toikka.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "tunera",
+    "foundry_name": "Tunera",
+    "foundry_url": "https://www.tunera.xyz/",
+    "release_count": 13,
+    "favicon_url": "https://www.tunera.xyz/site/templates/styles/images/favicon/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "typografische",
+    "foundry_name": "Typografische",
+    "foundry_url": "https://www.typografische.com",
+    "release_count": 13,
+    "favicon_url": "https://framerusercontent.com/images/1X6dFWtKStxgDndZVbhuAiHbWV4.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "3type",
+    "foundry_name": "3type",
+    "foundry_url": "https://3type.cn",
+    "release_count": 12,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "a2-type",
+    "foundry_name": "A2-Type",
+    "foundry_url": "https://a2-type.co.uk/",
+    "release_count": 12,
+    "favicon_url": "https://a2-type.co.uk/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "ivy-foundry",
+    "foundry_name": "Ivy Foundry",
+    "foundry_url": "https://ivyfoundry.com/",
+    "release_count": 12,
+    "favicon_url": "https://ivyfoundry.com/favicon.svg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "kilotype",
+    "foundry_name": "Kilotype",
+    "foundry_url": "https://kilotype.de",
+    "release_count": 12,
+    "favicon_url": "https://kilotype.de/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "typetr",
+    "foundry_name": "Typetr",
+    "foundry_url": "https://www.typetr.com/index.html",
+    "release_count": 12,
+    "favicon_url": "https://www.typetr.com/images/logos/typetr.ico",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "warsaw-types",
+    "foundry_name": "Warsaw Types",
+    "foundry_url": "https://kroje.org/en/",
+    "release_count": 12,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "atf-collection",
+    "foundry_name": "ATF Collection",
+    "foundry_url": "http://atftype.com/",
+    "release_count": 11,
+    "favicon_url": "https://atftype.com/favicon.ico",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "altiplano",
+    "foundry_name": "Altiplano",
+    "foundry_url": "https://altiplano.xyz/",
+    "release_count": 11,
+    "favicon_url": "https://altiplano.xyz/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "babelfont",
+    "foundry_name": "Babelfont",
+    "foundry_url": "https://babelfont.com",
+    "release_count": 11,
+    "favicon_url": "https://babelfont.com/wp-content/uploads/fbrfg/favicon-96x96.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "binnenland",
+    "foundry_name": "Binnenland",
+    "foundry_url": "https://binnenland.ch",
+    "release_count": 11,
+    "favicon_url": "https://binnenland.ch/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "caketype",
+    "foundry_name": "CakeType",
+    "foundry_url": "https://www.caketype.com/",
+    "release_count": 11,
+    "favicon_url": "https://www.caketype.com/favicon.ico",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "jen-wagner-co",
+    "foundry_name": "Jen Wagner Co.",
+    "foundry_url": "https://jenwagner.co/",
+    "release_count": 11,
+    "favicon_url": "https://static.showit.co/200/ccoPS6hF-DWvdHyyeqh8xA/144397/jw_type_favicon.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "jikji-soft",
+    "foundry_name": "Jikji Soft",
+    "foundry_url": "https://www.jikjisoft.com/font",
+    "release_count": 11,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "manic-type",
+    "foundry_name": "Manic Type",
+    "foundry_url": "https://www.manictype.com/",
+    "release_count": 11,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "tightype",
+    "foundry_name": "Tightype",
+    "foundry_url": "https://tightype.com",
+    "release_count": 11,
+    "favicon_url": "https://tightype.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "tipografies",
+    "foundry_name": "Tipografies",
+    "foundry_url": "https://tipografies.com",
+    "release_count": 11,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "typesenses",
+    "foundry_name": "Typesenses",
+    "foundry_url": "https://typesenses.com/",
+    "release_count": 11,
+    "favicon_url": "https://typesenses.com/assets/fba55389-da9f-4466-8c74-e0d3a2bb61fc_carw_1x1x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "allcaps",
+    "foundry_name": "AllCaps",
+    "foundry_url": "https://www.allcapstype.com/",
+    "release_count": 10,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "avondale-type-co",
+    "foundry_name": "Avondale Type Co.",
+    "foundry_url": "https://avondaletypeco.com",
+    "release_count": 10,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "bold-decisions",
+    "foundry_name": "Bold Decisions",
+    "foundry_url": "https://bold-decisions.biz/",
+    "release_count": 10,
+    "favicon_url": "https://bold-decisions.biz/pages/5f099d503779dd4bf96835b9/favicon.svg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "cotype",
+    "foundry_name": "CoType",
+    "foundry_url": "https://cotypefoundry.com/",
+    "release_count": 10,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "fincker-font-cuisine",
+    "foundry_name": "Fincker Font Cuisine",
+    "foundry_url": "https://www.fontcuisine.com/",
+    "release_count": 10,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "fond-de-riz",
+    "foundry_name": "Fond de riz",
+    "foundry_url": "https://fonderiz.fr/",
+    "release_count": 10,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "forgotten-shapes",
+    "foundry_name": "Forgotten Shapes",
+    "foundry_url": "https://forgotten-shapes.com/",
+    "release_count": 10,
+    "favicon_url": "https://forgotten-shapes.com/wp-content/themes/fosh5-theme/components/mh_favicons/production-links/favicon-32x32.png?1",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "j-foundry",
+    "foundry_name": "J Foundry",
+    "foundry_url": "https://jfoundry.com/",
+    "release_count": 10,
+    "favicon_url": "https://jfoundry.com/favicon.svg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "lechuga-type",
+    "foundry_name": "Lechuga Type",
+    "foundry_url": "https://fonts.antoniolechuga.com/",
+    "release_count": 10,
+    "favicon_url": "https://fonts.antoniolechuga.com/wp-content/uploads/2024/05/cropped-Asset-5-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "lettersoup",
+    "foundry_name": "Lettersoup",
+    "foundry_url": "https://www.lettersoup.de/",
+    "release_count": 10,
+    "favicon_url": "https://www.lettersoup.de/wp-content/themes/lettersoup/app/favicons/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "maxitype",
+    "foundry_name": "Maxitype",
+    "foundry_url": "https://maxitype.com/",
+    "release_count": 10,
+    "favicon_url": "https://maxitype.com/wp-content/uploads/2021/12/cropped-android-chrome-512x512-2-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "nguyen-gobber",
+    "foundry_name": "Nguyen Gobber",
+    "foundry_url": "https://nguyengobber.com/",
+    "release_count": 10,
+    "favicon_url": "https://nguyengobber.com/assets/favicon/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "or-type",
+    "foundry_name": "Or Type",
+    "foundry_url": "https://ortype.is",
+    "release_count": 10,
+    "favicon_url": "https://ortype.is/assets/images/favicon.png?v=2",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "typerotation",
+    "foundry_name": "Typerotation",
+    "foundry_url": "https://typerotation.com",
+    "release_count": 10,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "muccatypo",
+    "foundry_name": "muccaTypo",
+    "foundry_url": "https://www.muccatypo.com/",
+    "release_count": 10,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "a-is-for",
+    "foundry_name": "A is for",
+    "foundry_url": "https://aisforfonts.com/",
+    "release_count": 9,
+    "favicon_url": "https://aisforfonts.com/wp-content/uploads/2020/03/cropped-favicon-32x32.jpg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "alt-tf",
+    "foundry_name": "ALT.tf",
+    "foundry_url": "https://alt-tf.com/",
+    "release_count": 9,
+    "favicon_url": "https://alt-tf.com/cdn/shop/files/Asset_25.png?crop=center&height=32&v=1694440058&width=32",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "aesthetic-type",
+    "foundry_name": "Aesthetic Type",
+    "foundry_url": "https://aesthetictype.com/",
+    "release_count": 9,
+    "favicon_url": "https://aesthetictype.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "calame-bureau",
+    "foundry_name": "Calame.Bureau",
+    "foundry_url": "https://www.arthurcalame.com/",
+    "release_count": 9,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "camelot-typefaces",
+    "foundry_name": "Camelot Typefaces",
+    "foundry_url": "https://camelot-typefaces.com/",
+    "release_count": 9,
+    "favicon_url": "https://camelot-typefaces.com/favicon.ico",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "dunwich-type-founders",
+    "foundry_name": "Dunwich Type Founders",
+    "foundry_url": "https://dunwichtype.com/",
+    "release_count": 9,
+    "favicon_url": "https://dunwichtype.com/wp-content/uploads/2020/06/cropped-KindredLogo_FaviconUC-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "erkin-karamemet",
+    "foundry_name": "Erkin Karamemet",
+    "foundry_url": "https://erkinkaramemet.com/",
+    "release_count": 9,
+    "favicon_url": "https://erkinkaramemet.com/wp-content/uploads/2023/10/cropped-EK_Favicon3-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "jan-fromm",
+    "foundry_name": "Jan Fromm",
+    "foundry_url": "https://janfromm.de/",
+    "release_count": 9,
+    "favicon_url": "https://janfromm.de/site/templates/icons/favicon-32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "metis",
+    "foundry_name": "Metis",
+    "foundry_url": "https://metis-foundry.com",
+    "release_count": 9,
+    "favicon_url": "https://metis-foundry.com/wp-content/uploads/2023/02/cropped-Metis_Logo_01_Tr-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "mota-italic",
+    "foundry_name": "Mota Italic",
+    "foundry_url": "http://www.motaitalic.com/",
+    "release_count": 9,
+    "favicon_url": "https://motaitalic.com/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "nice-to-type",
+    "foundry_name": "Nice to type",
+    "foundry_url": "https://nicetotype.jp",
+    "release_count": 9,
+    "favicon_url": "https://nicetotype.jp/icon.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "smuss-type-kiosk",
+    "foundry_name": "Smuss Type Kiosk",
+    "foundry_url": "https://typekiosk.smuss.studio/",
+    "release_count": 9,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "tekio",
+    "foundry_name": "Tekio",
+    "foundry_url": "https://store.tekio.work/",
+    "release_count": 9,
+    "favicon_url": "https://store.tekio.work/cdn/shop/files/tekiofav.png?crop=center&height=32&v=1710324671&width=32",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "xo-type-co",
+    "foundry_name": "XO Type Co.",
+    "foundry_url": "https://xotype.co/",
+    "release_count": 9,
+    "favicon_url": "https://xotype.co/assets/xo-icon.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "astype-fonts",
+    "foundry_name": "Astype Fonts",
+    "foundry_url": "https://astype.de/",
+    "release_count": 8,
+    "favicon_url": "https://www.astype.de/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "ecal-typefaces",
+    "foundry_name": "ECAL Typefaces",
+    "foundry_url": "https://ecal-typefaces.ch/",
+    "release_count": 8,
+    "favicon_url": "https://ecal-typefaces.ch/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "general-type-studio",
+    "foundry_name": "General Type Studio",
+    "foundry_url": "https://www.generaltypestudio.com/",
+    "release_count": 8,
+    "favicon_url": "https://www.generaltypestudio.com/tenant-favicon/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "power-type",
+    "foundry_name": "Power Type",
+    "foundry_url": "https://power-type.com/",
+    "release_count": 8,
+    "favicon_url": "https://power-type.com/favicon/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "spoke",
+    "foundry_name": "Spoke",
+    "foundry_url": "https://www.spoketype.com/",
+    "release_count": 8,
+    "favicon_url": "https://www.spoketype.com/wp-content/themes/spoke/assets/img/favicon.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "temporary-state",
+    "foundry_name": "Temporary State",
+    "foundry_url": "https://type.tmpstate.net/",
+    "release_count": 8,
+    "favicon_url": "https://type.tmpstate.net/static/static/assets/favicon.ico",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "type-supply",
+    "foundry_name": "Type Supply",
+    "foundry_url": "https://typesupply.com/",
+    "release_count": 8,
+    "favicon_url": "https://cdn.prod.website-files.com/66a589425e61c9071b018061/695e6e090e0e0cfe1e203005_32x32.png",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "universal-thirst",
+    "foundry_name": "Universal Thirst",
+    "foundry_url": "https://universalthirst.com/",
+    "release_count": 8,
+    "favicon_url": "https://universalthirst.com/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "almarena",
+    "foundry_name": "Almarena",
+    "foundry_url": "https://almarenafoundry.com/",
+    "release_count": 7,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "approximate-type",
+    "foundry_name": "Approximate Type",
+    "foundry_url": "https://approxtype.com/",
+    "release_count": 7,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "british-standard-type",
+    "foundry_name": "British Standard Type",
+    "foundry_url": "https://www.britishstandardtype.xyz/",
+    "release_count": 7,
+    "favicon_url": "https://www.britishstandardtype.xyz/favicon.ico",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "fatype",
+    "foundry_name": "Fatype",
+    "foundry_url": "https://fatype.com",
+    "release_count": 7,
+    "favicon_url": "https://fatype.com/assets/icons/favicon-e0b411442de8a32566bd30138452137bdc81bd413e3908e5c3cf6baf12d49515.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "francis-chouquet",
+    "foundry_name": "Francis Chouquet",
+    "foundry_url": "https://www.francischouquet.com/",
+    "release_count": 7,
+    "favicon_url": "https://images.squarespace-cdn.com/content/v1/648482e7fb42f33c24837b87/34c9b715-0942-4377-88e5-4e85687ab5ba/favicon.ico?format=100w",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "james-plattner",
+    "foundry_name": "James Plattner",
+    "foundry_url": "https://jamesplattner.com/",
+    "release_count": 7,
+    "favicon_url": "https://freight.cargo.site/t/original/i/144e9de8dd9afeb1ad8d4f3c2ac02bede268a46571848ca4d5e18d8e4ae938d3/IG-Export-2024-38.ico",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "july-type",
+    "foundry_name": "July Type",
+    "foundry_url": "https://www.julytype.com/",
+    "release_count": 7,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "love-letters",
+    "foundry_name": "Love Letters",
+    "foundry_url": "http://love-letters.be/",
+    "release_count": 7,
+    "favicon_url": "https://www.domeinwebshop.nl/favicon.ico",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "mb-type",
+    "foundry_name": "MB Type",
+    "foundry_url": "https://mbtype.com/",
+    "release_count": 7,
+    "favicon_url": "https://mbtype.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "midwest-type",
+    "foundry_name": "Midwest Type",
+    "foundry_url": "https://midwesttype.com/",
+    "release_count": 7,
+    "favicon_url": "https://midwesttype.com/favicon/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "nan",
+    "foundry_name": "NaN",
+    "foundry_url": "https://www.nan.xyz/",
+    "release_count": 7,
+    "favicon_url": "https://www.nan.xyz/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "nuform",
+    "foundry_name": "Nuform",
+    "foundry_url": "https://nuformtype.com/",
+    "release_count": 7,
+    "favicon_url": "https://nuformtype.com/wp-content/uploads/2022/01/NuForm_Favicon_16_64x64.png",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "ops-type",
+    "foundry_name": "OPS Type",
+    "foundry_url": "http://ourpolitesocietytype.net",
+    "release_count": 7,
+    "favicon_url": "https://ops-type.com/media/site/5014cea067-1756286771/ops-type-favicon-kopie-4-1-600x.png",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "proof-of-words",
+    "foundry_name": "Proof of Words",
+    "foundry_url": "https://proof-of-words.com/",
+    "release_count": 7,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "supercontinente",
+    "foundry_name": "Supercontinente",
+    "foundry_url": "https://www.supercontinente.com",
+    "release_count": 7,
+    "favicon_url": "https://supercontinente.com/favicon.ico",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "vectro",
+    "foundry_name": "Vectro",
+    "foundry_url": "https://www.vectrotype.com/",
+    "release_count": 7,
+    "favicon_url": "https://www.vectrotype.com/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "weltkern",
+    "foundry_name": "Weltkern",
+    "foundry_url": "https://weltkern.com",
+    "release_count": 7,
+    "favicon_url": "https://weltkern.com/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "adobe-originals",
+    "foundry_name": "Adobe Originals",
+    "foundry_url": "https://adobe.com/type",
+    "release_count": 6,
+    "favicon_url": "https://www.adobe.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "alexandre-crequer",
+    "foundry_name": "Alexandre Créquer",
+    "foundry_url": "https://alex-creq.com/",
+    "release_count": 6,
+    "favicon_url": "https://alex-creq.com/favicons/favicon_16.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "carrois-type-design",
+    "foundry_name": "Carrois Type Design",
+    "foundry_url": "https://www.carrois.com/",
+    "release_count": 6,
+    "favicon_url": "https://www.carrois.com/assets/favicon/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "darden-studio",
+    "foundry_name": "Darden Studio",
+    "foundry_url": "https://www.dardenstudio.com/",
+    "release_count": 6,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "debi-sementelli",
+    "foundry_name": "Debi Sementelli",
+    "foundry_url": "https://debisementelli.com/",
+    "release_count": 6,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "formerly-known",
+    "foundry_name": "Formerly Known",
+    "foundry_url": "https://formerly-known.com/",
+    "release_count": 6,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "freight-collection",
+    "foundry_name": "Freight Collection",
+    "foundry_url": "https://freightcollection.com/",
+    "release_count": 6,
+    "favicon_url": "https://freightcollection.com/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "jolicia-type",
+    "foundry_name": "Jolicia Type",
+    "foundry_url": "https://joliciatype.com/",
+    "release_count": 6,
+    "favicon_url": "https://i0.wp.com/joliciatype.com/wp-content/uploads/2021/05/favicon.png?fit=128%2C5128&ssl=1",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "naipe-foundry",
+    "foundry_name": "Naipe Foundry",
+    "foundry_url": "https://naipefoundry.com/",
+    "release_count": 6,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "neue",
+    "foundry_name": "Neue",
+    "foundry_url": "https://www.neue.shop/",
+    "release_count": 6,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "nomad-foundry",
+    "foundry_name": "Nomad Foundry",
+    "foundry_url": "https://nomadfoundry.design/",
+    "release_count": 6,
+    "favicon_url": "https://cdn.myportfolio.com/cb27cc1c-9a38-470b-8e65-8ed31d4dd9bc/3490028b-ec2e-4ab7-a1e9-927e951f4eb2_carw_1x1x32.jpg?h=9f3125967b23f0ba553905f5b58d3e12",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "reset",
+    "foundry_name": "Reset Type Studio",
+    "foundry_url": "https://www.reset-type.com/",
+    "release_count": 6,
+    "favicon_url": "https://www.reset-type.com/build/images/favicon.png",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "serpentype",
+    "foundry_name": "Serpentype",
+    "foundry_url": "https://www.serpentype.com/",
+    "release_count": 6,
+    "favicon_url": "https://images.squarespace-cdn.com/content/v1/5e3f124e0b0aed2f275d54a0/1608149507164-QJ9MLEKJ9YQG9YVVB205/favicon.ico?format=100w",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "shapes-for-cash",
+    "foundry_name": "Shapes for Cash",
+    "foundry_url": "https://www.shapesforcash.com/",
+    "release_count": 6,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "sportsfonts",
+    "foundry_name": "Sportsfonts",
+    "foundry_url": "https://sportsfonts.com/",
+    "release_count": 6,
+    "favicon_url": "https://sportsfonts.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "studio-muhittin-gunes",
+    "foundry_name": "Studio Muhittin Güneş",
+    "foundry_url": "https://gunesmuhittin.com/",
+    "release_count": 6,
+    "favicon_url": "https://framerusercontent.com/images/hhddSNb8wXeqTHrJRsx09JtaQ.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "twintype",
+    "foundry_name": "Twintype",
+    "foundry_url": "https://twintype.co/en",
+    "release_count": 6,
+    "favicon_url": "https://twintype.co/assets/favicon-d660bf32e7f4725e2fa22b0811abcfafb21f85df42b1956fc3eb87cf44bc16b1.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "working-title",
+    "foundry_name": "Working Title",
+    "foundry_url": "https://workingtitletypefoundry.be/",
+    "release_count": 6,
+    "favicon_url": "https://workingtitletypefoundry.be/assets/workingtitlelogo.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "writtenshape",
+    "foundry_name": "WrittenShape",
+    "foundry_url": "https://www.writtenshape.com/",
+    "release_count": 6,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "art-grootfontein",
+    "foundry_name": "Art Grootfontein",
+    "foundry_url": "https://www.grootfontein.net/",
+    "release_count": 5,
+    "favicon_url": "https://www.grootfontein.net/wp-content/uploads/2021/09/cropped-Grootfontein_Favicon2021-32x32.jpg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "beasts-of-england",
+    "foundry_name": "Beasts of England",
+    "foundry_url": "https://beastsofengland.co/",
+    "release_count": 5,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "counter-forms",
+    "foundry_name": "Counter Forms",
+    "foundry_url": "https://counter-forms.com/",
+    "release_count": 5,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "en-travaux",
+    "foundry_name": "En Travaux",
+    "foundry_url": "https://entravaux.framer.website",
+    "release_count": 5,
+    "favicon_url": "https://framerusercontent.com/images/Ytd0aE5FJGnHEZve7iiFhrsDxg.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "fuerte-type",
+    "foundry_name": "Fuerte Type",
+    "foundry_url": "https://www.fuertetype.com/",
+    "release_count": 5,
+    "favicon_url": "https://www.fuertetype.com/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "gs-type",
+    "foundry_name": "GS-Type",
+    "foundry_url": "https://gs-type.com/",
+    "release_count": 5,
+    "favicon_url": "https://c-p.rmcdn1.net/60531d62f1597b009de74aac/Favicon-e4330663-4bab-4fdb-be18-e9132616cd44_144.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "lettermatic",
+    "foundry_name": "Lettermatic",
+    "foundry_url": "https://lettermatic.com/",
+    "release_count": 5,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "ma-ma-type",
+    "foundry_name": "MA-MA Type",
+    "foundry_url": "https://ma-ma-type.com/",
+    "release_count": 5,
+    "favicon_url": "https://ma-ma-type.com/assets/favicons/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "multitudes",
+    "foundry_name": "Multitudes",
+    "foundry_url": "https://www.madeformultitudes.com/",
+    "release_count": 5,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "psy-ops",
+    "foundry_name": "PSY/OPS",
+    "foundry_url": "https://www.psyops.com",
+    "release_count": 5,
+    "favicon_url": "https://www.psyops.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "piotr-lapa",
+    "foundry_name": "Piotr Łapa",
+    "foundry_url": "https://piotrlapa.com/",
+    "release_count": 5,
+    "favicon_url": "https://freight.cargo.site/t/original/i/V2519040920420706304169153401772/Glowa.ico",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "public-type",
+    "foundry_name": "Public Type",
+    "foundry_url": "https://www.publictype.us/",
+    "release_count": 5,
+    "favicon_url": "https://www.publictype.us/tenant-favicon/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "pyte-foundry",
+    "foundry_name": "Pyte Foundry",
+    "foundry_url": "https://thepytefoundry.net/",
+    "release_count": 5,
+    "favicon_url": "https://thepytefoundry.net/assets/favicon.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "razzia-type",
+    "foundry_name": "Razzia Type",
+    "foundry_url": "https://www.razziatype.com/",
+    "release_count": 5,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "republish",
+    "foundry_name": "Republish",
+    "foundry_url": "https://republi.sh/",
+    "release_count": 5,
+    "favicon_url": "https://republi.sh/wp-content/uploads/fbrfg/favicon-32x32.png?v=E6wdBoYgNK",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "ruben-prol",
+    "foundry_name": "Rubén Prol",
+    "foundry_url": "https://rubenprol.gal/",
+    "release_count": 5,
+    "favicon_url": "https://rubenprol.gal/favicon.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "skritur",
+    "foundry_name": "Skritur",
+    "foundry_url": "https://www.skritur.eu/",
+    "release_count": 5,
+    "favicon_url": "https://www.skritur.eu/tenant-favicon/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "sociotype",
+    "foundry_name": "Sociotype",
+    "foundry_url": "https://socio-type.com/",
+    "release_count": 5,
+    "favicon_url": "https://socio-type.com/favicon.ico",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "spaghetype",
+    "foundry_name": "Spaghetype",
+    "foundry_url": "https://www.spaghetype.com/",
+    "release_count": 5,
+    "favicon_url": "https://static.wixstatic.com/media/9c9314_e4b021a2b0a64b5a9421bc59af4bb2bc~mv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/9c9314_e4b021a2b0a64b5a9421bc59af4bb2bc~mv2.jpg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "typeoca",
+    "foundry_name": "Typeóca",
+    "foundry_url": "https://typeoca.com/",
+    "release_count": 5,
+    "favicon_url": "https://typeoca.com/favicon.svg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "tupokompanii",
+    "foundry_name": "Tüpokompanii",
+    "foundry_url": "https://www.typokompanii.com/",
+    "release_count": 5,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "victoria-rushton",
+    "foundry_name": "Victoria Rushton",
+    "foundry_url": "https://victoriarushton.com/",
+    "release_count": 5,
+    "favicon_url": "https://victoriarushton.com/favicon.ico",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "typographies-fr",
+    "foundry_name": "typographies.fr",
+    "foundry_url": "https://typographies.fr/",
+    "release_count": 5,
+    "favicon_url": "https://typographies.fr/favicon.ico",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "blast-foundry",
+    "foundry_name": "Blast Foundry",
+    "foundry_url": "https://blast-foundry.com/",
+    "release_count": 4,
+    "favicon_url": "https://blast-foundry.com/media/site/9142a34b89-1684525389/8xxhaimx0q7a-32x.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "contemporary-type",
+    "foundry_name": "Contemporary Type",
+    "foundry_url": "https://contemporarytype.com/",
+    "release_count": 4,
+    "favicon_url": "https://contemporarytype.com/icons/favicon-dark.svg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "contrast-foundry",
+    "foundry_name": "Contrast Foundry",
+    "foundry_url": "https://contrastfoundry.com/",
+    "release_count": 4,
+    "favicon_url": "https://contrastfoundry.com/favicon.ico",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "dstype",
+    "foundry_name": "DSType",
+    "foundry_url": "https://dstype.com",
+    "release_count": 4,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "daytona-mess",
+    "foundry_name": "Daytona Mess",
+    "foundry_url": "https://daytonamess.com/",
+    "release_count": 4,
+    "favicon_url": "https://freight.cargo.site/t/original/i/25a133c977813bc655d65c326a6508e7b5f302f167a46845c483ccdc73fb50fd/Sans-titre-1.ico",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "double-zero",
+    "foundry_name": "Double Zero",
+    "foundry_url": "https://www.dblzr.com/",
+    "release_count": 4,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "duong-tran",
+    "foundry_name": "Dương Trần",
+    "foundry_url": "",
+    "release_count": 4,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "missing_foundry_url"
+  },
+  {
+    "foundry_id": "edition-studio",
+    "foundry_name": "Edition.studio",
+    "foundry_url": "https://edition.studio/",
+    "release_count": 4,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "franziska-weitgruber",
+    "foundry_name": "Franziska Weitgruber",
+    "foundry_url": "https://franziskaweitgruber.com/",
+    "release_count": 4,
+    "favicon_url": "https://franziskaweitgruber.com/wp-content/uploads/2018/06/cropped-LogoF4-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "fredsfonts",
+    "foundry_name": "FredsFonts",
+    "foundry_url": "https://fredsfonts.com/",
+    "release_count": 4,
+    "favicon_url": "https://freight.cargo.site/t/original/i/2bc7ac962e86085fec81d60ad53fd5a1fd7857f766ce2a5a00f3d704c324190d/FfWhite-02.ico",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "inga-plonnigs",
+    "foundry_name": "Inga Plönnigs",
+    "foundry_url": "https://www.ingaploennigs.com/",
+    "release_count": 4,
+    "favicon_url": "https://www.ingaploennigs.com/wp-content/uploads/2018/04/cropped-favicon1-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "letterjuice",
+    "foundry_name": "Letterjuice",
+    "foundry_url": "https://letterjuice.cat/",
+    "release_count": 4,
+    "favicon_url": "https://letterjuice.cat/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "monokrom",
+    "foundry_name": "Monokrom",
+    "foundry_url": "https://monokrom.no/",
+    "release_count": 4,
+    "favicon_url": "https://monokrom.no/assets/images/favicon.ico",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "nouvelle-noire",
+    "foundry_name": "Nouvelle Noire",
+    "foundry_url": "https://nouvellenoire.ch/",
+    "release_count": 4,
+    "favicon_url": "https://nouvellenoire.ch/wp/wp-includes/images/w-logo-blue-white-bg.png",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "parachute-type-foundry",
+    "foundry_name": "Parachute Type Foundry",
+    "foundry_url": "https://parachutefonts.com",
+    "release_count": 4,
+    "favicon_url": "https://parachutefonts.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "road-to-venice-type",
+    "foundry_name": "Road to Venice Type",
+    "foundry_url": "https://r-vtype.com",
+    "release_count": 4,
+    "favicon_url": "https://www.r-vtype.com/wordpress/wp-content/themes/foundrytheme/resources/favicons/android-icon-192x192.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "scannerlicker",
+    "foundry_name": "Scannerlicker",
+    "foundry_url": "https://fonts.scannerlicker.net/",
+    "release_count": 4,
+    "favicon_url": "https://fonts.scannerlicker.net/wp-content/themes/scannerlicker-2019/assets/img/android-icon-192x192.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "spirit-bones",
+    "foundry_name": "Spirit & Bones",
+    "foundry_url": "https://spiritandbonesdesign.com/",
+    "release_count": 4,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "type-matters",
+    "foundry_name": "Type Matters",
+    "foundry_url": "http://typematters.de",
+    "release_count": 4,
+    "favicon_url": "http://typematters.de/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "zeenesia-studio",
+    "foundry_name": "Zeenesia Studio",
+    "foundry_url": "https://zeenesia.com/",
+    "release_count": 4,
+    "favicon_url": "https://zeenesia.com/wp-content/uploads/2023/06/cropped-LOGOTYPE-ZEENESIA-baru-21-1-1-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "notyourtype-foundry",
+    "foundry_name": "notyourtype foundry",
+    "foundry_url": "https://notyourtype.nl",
+    "release_count": 4,
+    "favicon_url": "https://www.notyourtype.nl/site/assets/files/favicon/android-icon-192x192.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "adotbelow",
+    "foundry_name": "Adotbelow",
+    "foundry_url": "https://www.adotbelow.com/",
+    "release_count": 3,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "anton-moglia",
+    "foundry_name": "Anton Moglia",
+    "foundry_url": "https://anton.moglia.fr/en/",
+    "release_count": 3,
+    "favicon_url": "https://anton.moglia.fr/site/templates/img/fav/favicon-96x96.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "beam-type",
+    "foundry_name": "Beam Type",
+    "foundry_url": "https://www.beamtype.com",
+    "release_count": 3,
+    "favicon_url": "https://www.beamtype.com/static/icons/large_icon.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "blaze-type",
+    "foundry_name": "Blaze Type",
+    "foundry_url": "https://blazetype.eu/",
+    "release_count": 3,
+    "favicon_url": "https://blazetype-1f562.kxcdn.com/media/site/abe0dd2f33-1642600683/blzt_favicon.png?width=32&v=abe0dd2f33-1642600683&enlarge=0&fit=1",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "boomtype",
+    "foundry_name": "Boomtype",
+    "foundry_url": "https://www.boomtype.xyz/",
+    "release_count": 3,
+    "favicon_url": "https://cdn.prod.website-files.com/663b8f0563df7d3317b213e2/669e4f6706f78feb1bf44ddd_favicon_32.png",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "c-type",
+    "foundry_name": "C-Type",
+    "foundry_url": "https://www.carmen-type.com/",
+    "release_count": 3,
+    "favicon_url": "https://www.carmen-type.com/wp-content/uploads/2022/12/cropped-Site_icon-30-30-32x32.jpg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "caterina-santullo",
+    "foundry_name": "Caterina Santullo",
+    "foundry_url": "https://www.instagram.com/caterinasantullo/",
+    "release_count": 3,
+    "favicon_url": "https://static.cdninstagram.com/rsrc.php/yr/r/rzWiSjZRxk5.webp",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "cubictype",
+    "foundry_name": "CubicType",
+    "foundry_url": "https://about.cubictype.com/",
+    "release_count": 3,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "dinamo",
+    "foundry_name": "Dinamo",
+    "foundry_url": "https://abcdinamo.com/",
+    "release_count": 3,
+    "favicon_url": "https://abcdinamo.com/assets/favicon/favicon.svg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "font-spectrum",
+    "foundry_name": "Font Spectrum",
+    "foundry_url": "https://fontspectrum.com/",
+    "release_count": 3,
+    "favicon_url": "https://fontspectrum.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "jakob-fangmeier",
+    "foundry_name": "Jakob Fangmeier",
+    "foundry_url": "https://type.design/",
+    "release_count": 3,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "jonas-type",
+    "foundry_name": "Jonas Type",
+    "foundry_url": "https://jonastype.com/",
+    "release_count": 3,
+    "favicon_url": "https://jonastype.com/assets/images/favicon.ico",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "kanon-foundry",
+    "foundry_name": "Kanon Foundry",
+    "foundry_url": "https://kanonfoundry.com",
+    "release_count": 3,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "laucke-siebein-type",
+    "foundry_name": "Laucke Siebein Type",
+    "foundry_url": "https://type.studio-laucke-siebein.com/",
+    "release_count": 3,
+    "favicon_url": "https://type.studio-laucke-siebein.com/icons/favicon-96x96.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "margot-leveque",
+    "foundry_name": "Margot Lévêque",
+    "foundry_url": "https://margotleveque.com/",
+    "release_count": 3,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "minjoo-ham",
+    "foundry_name": "Minjoo Ham",
+    "foundry_url": "http://minjooham.com/",
+    "release_count": 3,
+    "favicon_url": "http://minjooham.com/wp-content/uploads/2018/07/Favicon3-1.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "muk-monsalve",
+    "foundry_name": "Muk Monsalve",
+    "foundry_url": "https://www.futurefonts.com/muk-monsalve",
+    "release_count": 3,
+    "favicon_url": "https://www.futurefonts.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "open-source-publishing",
+    "foundry_name": "Open Source Publishing",
+    "foundry_url": "http://osp.kitchen/",
+    "release_count": 3,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "outline-online",
+    "foundry_name": "Outline Online",
+    "foundry_url": "https://www.outline-online.com/",
+    "release_count": 3,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "process-type-foundry",
+    "foundry_name": "Process Type Foundry",
+    "foundry_url": "https://processtypefoundry.com/",
+    "release_count": 3,
+    "favicon_url": "https://processtypefoundry.com/favicon.ico",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "rosetta",
+    "foundry_name": "Rosetta",
+    "foundry_url": "https://rosettatype.com/",
+    "release_count": 3,
+    "favicon_url": "https://rosettatype.com/assets/favicon/favicon.ico",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "rudiger",
+    "foundry_name": "Rüdiger",
+    "foundry_url": "https://www.philippneumeyer.com/",
+    "release_count": 3,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "suva-type-foundry",
+    "foundry_name": "SUVA Type Foundry",
+    "foundry_url": "https://www.suvatypefoundry.ee/",
+    "release_count": 3,
+    "favicon_url": "https://www.suvatypefoundry.ee/wp-includes/images/w-logo-blue-white-bg.png",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "sophia-type",
+    "foundry_name": "Sophia Type",
+    "foundry_url": "https://cargocollective.com/sophiatai",
+    "release_count": 3,
+    "favicon_url": "https://cargocollective.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "space-type",
+    "foundry_name": "Space Type",
+    "foundry_url": "https://spacetypeco.com/",
+    "release_count": 3,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "workhorse-type-foundry",
+    "foundry_name": "Workhorse Type Foundry",
+    "foundry_url": "https://workhorse.studio/",
+    "release_count": 3,
+    "favicon_url": "https://workhorse.studio/cdn/shop/files/favicon_6c57b2fe-8830-415b-8859-692354794830.png?crop=center&height=32&v=1687653500&width=32",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "yanone",
+    "foundry_name": "Yanone",
+    "foundry_url": "https://www.yanone.de/",
+    "release_count": 3,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "electro-bibliotheque",
+    "foundry_name": "Électro-bibliothèque",
+    "foundry_url": "https://electrobibliotheque.org/",
+    "release_count": 3,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "205tf",
+    "foundry_name": "205TF",
+    "foundry_url": "https://www.205.tf/",
+    "release_count": 2,
+    "favicon_url": "https://www.205.tf/favicon.ico",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "afrotype",
+    "foundry_name": "Afrotype",
+    "foundry_url": "https://www.afrotype.com/",
+    "release_count": 2,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "aieou-tools",
+    "foundry_name": "Aieou Tools",
+    "foundry_url": "https://aeiou.tools/",
+    "release_count": 2,
+    "favicon_url": "https://aeiou.tools/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "alex-slobzheninov",
+    "foundry_name": "Alex Slobzheninov",
+    "foundry_url": "",
+    "release_count": 2,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "missing_foundry_url"
+  },
+  {
+    "foundry_id": "bea-korsh",
+    "foundry_name": "Bea Korsh",
+    "foundry_url": "https://beakorsh.com/",
+    "release_count": 2,
+    "favicon_url": "https://beakorsh.com/assets/images/favicon.ico",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "brody-fonts",
+    "foundry_name": "Brody Fonts",
+    "foundry_url": "https://brodyfonts.typenetwork.com/",
+    "release_count": 2,
+    "favicon_url": "https://typenetwork.com/icons/favicon-16x16.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "cstm-fonts",
+    "foundry_name": "CSTM Fonts",
+    "foundry_url": "https://cstmfonts.com/",
+    "release_count": 2,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "claude-type",
+    "foundry_name": "Claude Type",
+    "foundry_url": "https://claudetype.com/",
+    "release_count": 2,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "dalton-maag",
+    "foundry_name": "Dalton Maag",
+    "foundry_url": "https://www.daltonmaag.com/",
+    "release_count": 2,
+    "favicon_url": "https://www.daltonmaag.com/favicon.ico",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "david-einwaller",
+    "foundry_name": "David Einwaller",
+    "foundry_url": "https://deinwaller.com/",
+    "release_count": 2,
+    "favicon_url": "https://freight.cargo.site/t/original/i/Y1929334558189124814296356981129/DE-Icon-Black-300dpi.ico",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "dirtyline-studio",
+    "foundry_name": "Dirtyline Studio",
+    "foundry_url": "https://dirtylinestudio.com/",
+    "release_count": 2,
+    "favicon_url": "https://dirtylinestudio.com/wp-content/uploads/2020/07/favicon_ds.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "elefonts",
+    "foundry_name": "Elefonts",
+    "foundry_url": "https://elenaschneider.com/",
+    "release_count": 2,
+    "favicon_url": "https://cortex.persona.co/t/original/i/7af98072b11f5d54327cde7952cadf6549f4ed1e8be1d1ed88becaa8aec14e5c/PENG_icon.ico",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "extratype",
+    "foundry_name": "Extratype",
+    "foundry_url": "https://extratype.com",
+    "release_count": 2,
+    "favicon_url": "https://extratype.com/extratype/favicons/android-icon-192x192.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "foster-type",
+    "foundry_name": "Foster Type",
+    "foundry_url": "https://www.fostertype.com/",
+    "release_count": 2,
+    "favicon_url": "https://www.fostertype.com/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "furniture",
+    "foundry_name": "Furniture",
+    "foundry_url": "https://www.furniture.xyz/",
+    "release_count": 2,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "hassen-khattak",
+    "foundry_name": "Hassen Khattak",
+    "foundry_url": "https://www.futurefonts.com/hassen_khattak",
+    "release_count": 2,
+    "favicon_url": "https://www.futurefonts.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "helsinki-type-studio",
+    "foundry_name": "Helsinki Type Studio",
+    "foundry_url": "https://helsinkitypestudio.com/",
+    "release_count": 2,
+    "favicon_url": "https://helsinkitypestudio.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "holdon-type",
+    "foundry_name": "Holdon Type",
+    "foundry_url": "https://holdontype.design/",
+    "release_count": 2,
+    "favicon_url": "https://freight.cargo.site/t/original/i/D2131673768298884611456509447569/favicon.ico",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "kerns-cairns",
+    "foundry_name": "Kerns & Cairns",
+    "foundry_url": "https://www.kernsandcairns.com/",
+    "release_count": 2,
+    "favicon_url": "https://images.squarespace-cdn.com/content/v1/5b5b2cd975f9ee76014e9893/1566355536196-JZONUT7EVVGYDFV39LFN/favicon.ico?format=100w",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "lapagelepage",
+    "foundry_name": "Lapagelepage",
+    "foundry_url": "",
+    "release_count": 2,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "missing_foundry_url"
+  },
+  {
+    "foundry_id": "lift-type",
+    "foundry_name": "Lift Type",
+    "foundry_url": "https://www.lift-type.fr/",
+    "release_count": 2,
+    "favicon_url": "https://www.lift-type.fr/cdn/shop/files/favicon.png?crop=center&height=32&v=1731577778&width=32",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "lipi",
+    "foundry_name": "Lipi",
+    "foundry_url": "https://lipi.xyz/",
+    "release_count": 2,
+    "favicon_url": "https://freight.cargo.site/t/original/i/ac883d0f66c43d6b3e8c962bc2607c7f94def3e01fbdd180206e59dcd25d586b/Untitled_Artwork-1.ico",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "luis-bandovas",
+    "foundry_name": "Luis Bandovas",
+    "foundry_url": "https://satori.pt/",
+    "release_count": 2,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "manchester-type",
+    "foundry_name": "Manchester Type",
+    "foundry_url": "https://www.manchestertype.com/",
+    "release_count": 2,
+    "favicon_url": "https://www.manchestertype.com/wp-content/uploads/2020/05/cropped-Mcr-type-favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "mark-fromberg",
+    "foundry_name": "Mark Frömberg",
+    "foundry_url": "https://markfromberg.com/",
+    "release_count": 2,
+    "favicon_url": "https://markfromberg.com/user/themes/quark/images/favicon.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "natalie-rauch",
+    "foundry_name": "Natalie Rauch",
+    "foundry_url": "https://www.natalie-rauch.com/",
+    "release_count": 2,
+    "favicon_url": "https://static.wixstatic.com/media/ebe3ff_aacb4c87070e4298b801f31fe03a3481~mv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/ebe3ff_aacb4c87070e4298b801f31fe03a3481~mv2.jpg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "november",
+    "foundry_name": "November",
+    "foundry_url": "https://www.nvmbr.in/",
+    "release_count": 2,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "novo-typo",
+    "foundry_name": "Novo Typo",
+    "foundry_url": "https://www.novotypo.nl/",
+    "release_count": 2,
+    "favicon_url": "https://www.novotypo.nl/favicon.ico",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "oh-no-type-co",
+    "foundry_name": "OH no Type Co.",
+    "foundry_url": "https://ohnotype.co/",
+    "release_count": 2,
+    "favicon_url": "https://ohnotype.co/assets/images/favicon.ico",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "olof",
+    "foundry_name": "Olof",
+    "foundry_url": "http://www.olof.ch/",
+    "release_count": 2,
+    "favicon_url": "http://www.olof.ch/img/favicon.ico",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "otherwhere-collective",
+    "foundry_name": "Otherwhere Collective",
+    "foundry_url": "https://otherwherecollective.com",
+    "release_count": 2,
+    "favicon_url": "https://otherwherecollective.com/wp-content/uploads/2024/03/OC_favicon_68x68.gif",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "overtype",
+    "foundry_name": "Overtype",
+    "foundry_url": "https://www.overtypefoundry.com/",
+    "release_count": 2,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "o-plerou-studio",
+    "foundry_name": "O’Plérou Studio",
+    "foundry_url": "https://foundry.oplerou.studio/",
+    "release_count": 2,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "paavola-type-studio",
+    "foundry_name": "Paavola Type Studio",
+    "foundry_url": "https://www.paavolatype.com/",
+    "release_count": 2,
+    "favicon_url": "https://www.paavolatype.com/wp-content/uploads/paavolatypestudio-smile.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "phantom-foundry",
+    "foundry_name": "Phantom Foundry",
+    "foundry_url": "http://phantom-foundry.com/",
+    "release_count": 2,
+    "favicon_url": "http://phantom-foundry.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "pizza-typefaces",
+    "foundry_name": "Pizza Typefaces",
+    "foundry_url": "https://typefaces.pizza/",
+    "release_count": 2,
+    "favicon_url": "https://typefaces.pizza/favicon-32x32.png?v=22e9d6e1bb59541fd2cc96282772530f",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "quintana-font",
+    "foundry_name": "Quintana-Font",
+    "foundry_url": "https://quintana-font.cl/",
+    "release_count": 2,
+    "favicon_url": "https://quintana-font.cl/media/site/3fdbac7101-1713557622/flags_letterings_1-32x.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "robin-pitchon",
+    "foundry_name": "Robin Pitchon",
+    "foundry_url": "https://www.robinpitchon.com/",
+    "release_count": 2,
+    "favicon_url": "https://images.squarespace-cdn.com/content/v1/64ff3c848958ea102766a4cd/a5d990d8-ec87-46bc-bc07-9d51ca3dc51f/favicon.ico?format=100w",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "softdrive-r-foundry",
+    "foundry_name": "Softdrive® Foundry",
+    "foundry_url": "https://www.softdrivefoundry.com/",
+    "release_count": 2,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "souvenir-typefaces",
+    "foundry_name": "Souvenir Typefaces",
+    "foundry_url": "https://www.souvenirtypefaces.xyz/",
+    "release_count": 2,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "that-s-weirdo-stuff",
+    "foundry_name": "That’s Weirdo Stuff",
+    "foundry_url": "https://www.thatsweirdostuff.com",
+    "release_count": 2,
+    "favicon_url": "https://images.squarespace-cdn.com/content/v1/69050e334f641c4f7345a407/50457ded-e791-4afd-a2c3-ed24cd290d84/favicon.ico?format=100w",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "typearture",
+    "foundry_name": "Typearture",
+    "foundry_url": "https://www.typearture.com/",
+    "release_count": 2,
+    "favicon_url": "https://www.typearture.com/wp-content/uploads/2017/07/cropped-Typearture_Logo_512-01-32x32.png",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "typetanic",
+    "foundry_name": "Typetanic",
+    "foundry_url": "https://gregshutters.com",
+    "release_count": 2,
+    "favicon_url": "https://images.squarespace-cdn.com/content/v1/5cc614d7c2e8e00001336c86/1556487140289-L56NNE4FXQ3AQNMQ98FG/favicon.ico?format=100w",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "yeah-right-type",
+    "foundry_name": "Yeah Right Type",
+    "foundry_url": "https://yeahrighttype.com/",
+    "release_count": 2,
+    "favicon_url": "https://images.squarespace-cdn.com/content/v1/6025cf57520eeb43c0ed3d12/571e9eb9-7ba4-4c4c-a910-08ffee29ff8e/favicon.ico?format=100w",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "indestructible-type",
+    "foundry_name": "indestructible type*",
+    "foundry_url": "https://indestructibletype.com",
+    "release_count": 2,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "abhijit-menon",
+    "foundry_name": "Abhijit Menon",
+    "foundry_url": "https://www.futurefonts.com/abhijit",
+    "release_count": 1,
+    "favicon_url": "https://www.futurefonts.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "adriana-garciduenas",
+    "foundry_name": "Adriana Garcidueñas",
+    "foundry_url": "https://www.futurefonts.com/adriana-garciduenas",
+    "release_count": 1,
+    "favicon_url": "https://www.futurefonts.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "anna-khorash",
+    "foundry_name": "Anna Khorash",
+    "foundry_url": "",
+    "release_count": 1,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "missing_foundry_url"
+  },
+  {
+    "foundry_id": "arlyn-ramos",
+    "foundry_name": "Arlyn Ramos",
+    "foundry_url": "https://www.futurefonts.com/arlynramos/",
+    "release_count": 1,
+    "favicon_url": "https://www.futurefonts.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "arphic",
+    "foundry_name": "Arphic",
+    "foundry_url": "https://www.arphic.com",
+    "release_count": 1,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "benn-zorn",
+    "foundry_name": "Benn Zorn",
+    "foundry_url": "https://bennzorn.com/",
+    "release_count": 1,
+    "favicon_url": "https://static.cdninstagram.com/rsrc.php/yr/r/rzWiSjZRxk5.webp",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "black-foundry",
+    "foundry_name": "Black Foundry",
+    "foundry_url": "https://black-foundry.com/",
+    "release_count": 1,
+    "favicon_url": "https://black-foundry.com/favicon.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "bonez-designz",
+    "foundry_name": "Bonez Designz",
+    "foundry_url": "https://bonezdesignz.com",
+    "release_count": 1,
+    "favicon_url": "https://bonezdesignz.com/wp-content/uploads/2022/11/cropped-13320728_1022488331172292_6565575974030462770_o-jpg-32x32.webp",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "brandon-nickerson-studio",
+    "foundry_name": "Brandon Nickerson Studio",
+    "foundry_url": "https://www.bnicks.com/",
+    "release_count": 1,
+    "favicon_url": "https://images.squarespace-cdn.com/content/v1/5e8ba98309ca9631bf1720b3/1599933287676-4SUNFU3F4NS83C6V51JH/favicon.ico?format=100w",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "cj-type",
+    "foundry_name": "CJ Type",
+    "foundry_url": "https://cjtype.com/",
+    "release_count": 1,
+    "favicon_url": "https://cjtype.com/images/favicon.ico",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "cabargatype",
+    "foundry_name": "CabargaType",
+    "foundry_url": "https://cabargatype.com/",
+    "release_count": 1,
+    "favicon_url": "https://assets.squarespace.com/universal/default-favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "cast-type-foundry",
+    "foundry_name": "Cast Type Foundry",
+    "foundry_url": "https://www.c-a-s-t.com/",
+    "release_count": 1,
+    "favicon_url": "https://www.c-a-s-t.com/wp/wp-content/uploads/2025/03/cropped-logo-cast-png-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "castletype",
+    "foundry_name": "CastleType",
+    "foundry_url": "http://castletype.com/",
+    "release_count": 1,
+    "favicon_url": "http://castletype.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "compania-tipografica-de-chile",
+    "foundry_name": "Compañía Tipográfica de Chile",
+    "foundry_url": "",
+    "release_count": 1,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "missing_foundry_url"
+  },
+  {
+    "foundry_id": "ddott",
+    "foundry_name": "DDOTT",
+    "foundry_url": "https://ddott.net/",
+    "release_count": 1,
+    "favicon_url": "https://ddott.net/wp-content/themes/ddott/favicon/android-icon-36x36.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "dreamtype",
+    "foundry_name": "Dreamtype",
+    "foundry_url": "https://dreamtype.xyz",
+    "release_count": 1,
+    "favicon_url": "https://dreamtype.xyz/favicon.ico",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "ek-type",
+    "foundry_name": "Ek Type",
+    "foundry_url": "https://ektype.in/",
+    "release_count": 1,
+    "favicon_url": "https://ektype.in/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "fabrizio-schiavi-design",
+    "foundry_name": "Fabrizio Schiavi Design",
+    "foundry_url": "https://fsd.it",
+    "release_count": 1,
+    "favicon_url": "https://fsd.it/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "familjen-type",
+    "foundry_name": "Familjen Type",
+    "foundry_url": "https://familjentype.se/",
+    "release_count": 1,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "fontador",
+    "foundry_name": "Fontador",
+    "foundry_url": "https://fontador.de/",
+    "release_count": 1,
+    "favicon_url": "https://www.fontador.de/wp/wp-content/uploads/2024/07/cropped-favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "fontfabric",
+    "foundry_name": "Fontfabric",
+    "foundry_url": "https://fontfabric.com",
+    "release_count": 1,
+    "favicon_url": "https://www.fontfabric.com/wp-content/uploads/2024/08/favicon-1-1.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "fonts-from-folch",
+    "foundry_name": "Fonts from Folch",
+    "foundry_url": "http://www.fontsfromfolch.com/",
+    "release_count": 1,
+    "favicon_url": "http://www.fontsfromfolch.com/wp-content/uploads/2023/05/cropped-fav-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "formagari",
+    "foundry_name": "Formagari",
+    "foundry_url": "https://formagari.com/",
+    "release_count": 1,
+    "favicon_url": "https://formagari.com/favicon.svg?v=3",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "formula-type",
+    "foundry_name": "Formula Type",
+    "foundry_url": "https://formulatype.com",
+    "release_count": 1,
+    "favicon_url": "https://formulatype.com/icon.png?0fc7bd1b2376287c",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "foundry5",
+    "foundry_name": "Foundry5",
+    "foundry_url": "https://foundryfivetype.com/",
+    "release_count": 1,
+    "favicon_url": "https://foundryfivetype.com/favicon-32x32.png?v=65e7323eac8c20f8d80795dba77a00d0",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "grilli-type",
+    "foundry_name": "Grilli Type",
+    "foundry_url": "https://www.grillitype.com/",
+    "release_count": 1,
+    "favicon_url": "https://www.grillitype.com/icons/android-icon-192x192.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "groteskly-yours-studio",
+    "foundry_name": "Groteskly Yours Studio",
+    "foundry_url": "https://groteskly.xyz/",
+    "release_count": 1,
+    "favicon_url": "https://framerusercontent.com/images/FSxFcZYQAIrR6g1cTFaxZQaC5KE.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "gruppo-due",
+    "foundry_name": "Gruppo Due",
+    "foundry_url": "https://gruppo-due.com/",
+    "release_count": 1,
+    "favicon_url": "https://gruppo-due.com/favicon/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "hoodzpah",
+    "foundry_name": "Hoodzpah",
+    "foundry_url": "https://hoodzpahdesign.com/",
+    "release_count": 1,
+    "favicon_url": "https://hoodzpahdesign.com/wp-content/uploads/2020/06/cropped-Hoodzpah-logos-icon-favicon-more-negative-2-32x32.jpg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "indian-type-foundry",
+    "foundry_name": "Indian Type Foundry",
+    "foundry_url": "https://www.indiantypefoundry.com/",
+    "release_count": 1,
+    "favicon_url": "https://www.indiantypefoundry.com/themes/indiantypefoundry/favicons/favicon-32x32.png?v=nggKMv9knA",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "inhouse-type",
+    "foundry_name": "Inhouse Type",
+    "foundry_url": "https://www.inhousetype.com/",
+    "release_count": 1,
+    "favicon_url": "https://images.squarespace-cdn.com/content/v1/5fc53846be9b6939512724de/39e056a5-67e8-4f00-b903-bef7cd8f6dbb/favicon.ico?format=100w",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "isabel-urbina-pena",
+    "foundry_name": "Isabel Urbina Peña",
+    "foundry_url": "https://www.isabelurbinapena.com/type",
+    "release_count": 1,
+    "favicon_url": "https://images.squarespace-cdn.com/content/v1/529d1c3ce4b0b36e2fb6cd60/1509904711789-WYBUFJZEOIN13T77AIV9/favicon.ico?format=100w",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "jose-sole",
+    "foundry_name": "José Solé",
+    "foundry_url": "https://jmsole.cl/",
+    "release_count": 1,
+    "favicon_url": "https://cortex.persona.co/t/original/i/acc27f0424ad13296c94f9cd521fdf309ce538bdaa2b2891665007838e50b54a/js_logo.ico",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "kel-troughton",
+    "foundry_name": "Kel Troughton",
+    "foundry_url": "",
+    "release_count": 1,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "missing_foundry_url"
+  },
+  {
+    "foundry_id": "keya-vadgama",
+    "foundry_name": "Keya Vadgama",
+    "foundry_url": "",
+    "release_count": 1,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "missing_foundry_url"
+  },
+  {
+    "foundry_id": "kometa",
+    "foundry_name": "Kometa",
+    "foundry_url": "https://www.kometa.xyz/",
+    "release_count": 1,
+    "favicon_url": "https://kometatype.com/favicon.ico",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "kontour",
+    "foundry_name": "Kontour",
+    "foundry_url": "https://www.kontour.com/",
+    "release_count": 1,
+    "favicon_url": "https://kontour.com/media/site/1a909a8013-1728327536/favicon95-32x.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "kostas-bartsokas",
+    "foundry_name": "Kostas Bartsokas",
+    "foundry_url": "https://www.kostasbartsokas.com/",
+    "release_count": 1,
+    "favicon_url": "https://kostasbartsokas.com/favicon-196x196.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "lost-type-co-op",
+    "foundry_name": "Lost Type Co-op",
+    "foundry_url": "https://www.losttype.com/",
+    "release_count": 1,
+    "favicon_url": "https://www.losttype.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "m59",
+    "foundry_name": "M59",
+    "foundry_url": "https://emfiftynine.com/",
+    "release_count": 1,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "mark-van-leeuwen",
+    "foundry_name": "Mark van Leeuwen",
+    "foundry_url": "https://markvanleeuwen.co",
+    "release_count": 1,
+    "favicon_url": "https://images.squarespace-cdn.com/content/v1/5b83a03f297114b18b5f55b3/1537873572727-0M3NI7ZZGWWQ0K7O3CZ0/favicon.ico?format=100w",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "moretype",
+    "foundry_name": "Moretype",
+    "foundry_url": "http://moretype.co.uk",
+    "release_count": 1,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "morula-type",
+    "foundry_name": "Morula Type",
+    "foundry_url": "",
+    "release_count": 1,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "missing_foundry_url"
+  },
+  {
+    "foundry_id": "mztype",
+    "foundry_name": "MzType",
+    "foundry_url": "https://mztype.ch/",
+    "release_count": 1,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "noheul-lee",
+    "foundry_name": "Noheul Lee",
+    "foundry_url": "",
+    "release_count": 1,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "missing_foundry_url"
+  },
+  {
+    "foundry_id": "nondescript",
+    "foundry_name": "Nondescript",
+    "foundry_url": "https://nondescript.co/",
+    "release_count": 1,
+    "favicon_url": "https://nondescript.co/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "nostalgic-dolphin-studio",
+    "foundry_name": "Nostalgic Dolphin Studio",
+    "foundry_url": "https://nostalgicdolphin.com/fonts/",
+    "release_count": 1,
+    "favicon_url": "https://nostalgicdolphin.com/wp-content/uploads/2024/03/cropped-Favicon-512px-v2-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "office-of-personal-responsibility",
+    "foundry_name": "Office of Personal Responsibility",
+    "foundry_url": "https://opr.group",
+    "release_count": 1,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  },
+  {
+    "foundry_id": "olga-umpeleva",
+    "foundry_name": "Olga Umpeleva",
+    "foundry_url": "",
+    "release_count": 1,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "missing_foundry_url"
+  },
+  {
+    "foundry_id": "ooper-case",
+    "foundry_name": "Ooper Case",
+    "foundry_url": "",
+    "release_count": 1,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "missing_foundry_url"
+  },
+  {
+    "foundry_id": "peregrin-studio",
+    "foundry_name": "Peregrin Studio",
+    "foundry_url": "https://peregrinstudio.com",
+    "release_count": 1,
+    "favicon_url": "https://peregrinstudio.com/wp-content/uploads/2023/03/PSLOGOBW.jpg",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "peter-roeleveld",
+    "foundry_name": "Peter Roeleveld",
+    "foundry_url": "https://peterroeleveld.com/",
+    "release_count": 1,
+    "favicon_url": "https://freight.cargo.site/t/original/i/c80222351356cb4addfe0c8afd0777c3938ce577c3b963bf8f3d588f642ab25f/favicon.ico",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "queertype",
+    "foundry_name": "QueerType",
+    "foundry_url": "https://queertype.co/",
+    "release_count": 1,
+    "favicon_url": "https://queertype.co/assets/images/QT-fav.png",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "reber-r41",
+    "foundry_name": "Reber R41",
+    "foundry_url": "https://www.r41.it/",
+    "release_count": 1,
+    "favicon_url": "https://www.r41.it/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "riptype",
+    "foundry_name": "Riptype",
+    "foundry_url": "https://www.riptype.xyz/",
+    "release_count": 1,
+    "favicon_url": "https://cdn.prod.website-files.com/6400ac95a0d0924aa63cb565/6400ac95a0d092fddd3cb596_Riptype_Logo_circle_32px.png",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "ryan-bugden",
+    "foundry_name": "Ryan Bugden",
+    "foundry_url": "https://ryanbugden.com/",
+    "release_count": 1,
+    "favicon_url": "https://freight.cargo.site/t/original/i/659c74be7ffb2d92a4d6dfad9a9e5df624f0825c7d884e45891a84cd20353093/stenArtboard-noAlias.ico",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "sabina-kipara",
+    "foundry_name": "Sabina Kipară",
+    "foundry_url": "https://sabinakipara.com/",
+    "release_count": 1,
+    "favicon_url": "https://sabinakipara.com/wp-content/uploads/s-favicon-150x150.jpg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "scifipoetry",
+    "foundry_name": "Scifipoetry",
+    "foundry_url": "https://scifipoetry.de/",
+    "release_count": 1,
+    "favicon_url": "https://scifipoetry.de/wp-content/uploads/2025/08/cropped-SCI-Favi-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "serebryakov-type-foundry",
+    "foundry_name": "Serebryakov Type Foundry",
+    "foundry_url": "https://serebryakov.com/",
+    "release_count": 1,
+    "favicon_url": "https://serebryakov.com/favicon.ico",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "sergej-lebedev",
+    "foundry_name": "Sergej Lebedev",
+    "foundry_url": "https://typedesigner.de/",
+    "release_count": 1,
+    "favicon_url": "https://typedesigner.de/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "shriftovik-type-foundry",
+    "foundry_name": "Shriftovik Type Foundry",
+    "foundry_url": "https://shriftovik.com/",
+    "release_count": 1,
+    "favicon_url": "https://static.tildacdn.com/tild3933-6133-4537-a161-333135363235/favicon.ico",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "soft-type",
+    "foundry_name": "Soft Type",
+    "foundry_url": "https://www.kyleletendre.com/",
+    "release_count": 1,
+    "favicon_url": "https://images.squarespace-cdn.com/content/v1/55bd60ece4b0c50a1d884f69/9583f491-ad50-4507-8202-7f823823a97d/favicon.ico?format=100w",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "source-type",
+    "foundry_name": "Source Type",
+    "foundry_url": "https://www.sourcetype.com/",
+    "release_count": 1,
+    "favicon_url": "https://www.sourcetype.com/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "spizh",
+    "foundry_name": "Spizh",
+    "foundry_url": "https://www.futurefonts.com/spizh/",
+    "release_count": 1,
+    "favicon_url": "https://www.futurefonts.com/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "store-norske-skriftkompani",
+    "foundry_name": "Store Norske Skriftkompani",
+    "foundry_url": "https://skriftkompani.no/",
+    "release_count": 1,
+    "favicon_url": "https://skriftkompani.no/filer/favicon.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "studio-feixen-fonts",
+    "foundry_name": "Studio Feixen Fonts",
+    "foundry_url": "https://fonts.studiofeixen.ch/",
+    "release_count": 1,
+    "favicon_url": "https://fonts.studiofeixen.ch/favicon.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "studio-type",
+    "foundry_name": "Studio Type",
+    "foundry_url": "https://studiotype.be/",
+    "release_count": 1,
+    "favicon_url": "https://studiotype.be/assets/images/favicon.svg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "ts-fonts",
+    "foundry_name": "TS Fonts",
+    "foundry_url": "https://tsfonts.com/",
+    "release_count": 1,
+    "favicon_url": "https://tsfonts.com/wp-content/uploads/2023/12/cropped-fav-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "tamara-pilz",
+    "foundry_name": "Tamara Pilz",
+    "foundry_url": "https://www.tamarapilz.com/",
+    "release_count": 1,
+    "favicon_url": "https://www.tamarapilz.com/wp-content/uploads/2022/01/TP_Fav.svg",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "tulsey-type",
+    "foundry_name": "Tulsey Type",
+    "foundry_url": "https://www.tulseytype.com",
+    "release_count": 1,
+    "favicon_url": "https://assets.squarespace.com/universal/default-favicon.ico",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "type-du-nord",
+    "foundry_name": "Type Du Nord",
+    "foundry_url": "https://www.typedunord.com/",
+    "release_count": 1,
+    "favicon_url": "https://cdn.prod.website-files.com/650a07c9645eb7e49a95a312/65e56de31c637fb50e3f909e_TDN_Site_Favicon-01.png",
+    "favicon_source": "shortcut icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "typerepublic",
+    "foundry_name": "TypeRepublic",
+    "foundry_url": "https://typerepublic.com/",
+    "release_count": 1,
+    "favicon_url": "https://typerepublic.com/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "u-s-graphics-company",
+    "foundry_name": "U.S. Graphics Company",
+    "foundry_url": "https://usgraphics.com/",
+    "release_count": 1,
+    "favicon_url": "https://usgraphics.com/static/core/favicon/favicon.94b3eee5335b.ico",
+    "favicon_source": "fallback:/favicon.ico",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "virgile-flores",
+    "foundry_name": "Virgile Flores",
+    "foundry_url": "https://www.virgileflores.com/typefoundry",
+    "release_count": 1,
+    "favicon_url": "https://framerusercontent.com/images/BlDjQmE7Db2CvHUS1kTwuKiuie0.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "weekend-type",
+    "foundry_name": "Weekend Type",
+    "foundry_url": "https://weekendtype.xyz/",
+    "release_count": 1,
+    "favicon_url": "https://freight.cargo.site/t/original/i/U2118955353569657034441552326374/WKD1.003_Logos_01.ico",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "yep-type",
+    "foundry_name": "Yep! Type",
+    "foundry_url": "https://www.yeptype.com/",
+    "release_count": 1,
+    "favicon_url": "https://www.yeptype.com/tenant-favicon/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "bbox-type",
+    "foundry_name": "bBox Type",
+    "foundry_url": "https://bboxtype.com/",
+    "release_count": 1,
+    "favicon_url": "https://carrois.com/assets/favicon/favicon-32x32.png",
+    "favicon_source": "icon",
+    "favicon_status": "ok"
+  },
+  {
+    "foundry_id": "udi-type-foundry",
+    "foundry_name": "Ụdị Type Foundry",
+    "foundry_url": "https://www.udifoundry.com/fonts/touki-grotesk",
+    "release_count": 1,
+    "favicon_url": null,
+    "favicon_source": null,
+    "favicon_status": "not_found"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "record_id": "domingo",
+  "source_url": "https://www.sudtipos.com/font/domingo",
+  "checked_at": "2026-03-09T01:50:27.395430+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.sudtipos.com/font/domingo",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "404 Client Error: Page not found for url: https://www.sudtipos.com/404?aspxerrorpath=/font/domingo"
+  }
+}

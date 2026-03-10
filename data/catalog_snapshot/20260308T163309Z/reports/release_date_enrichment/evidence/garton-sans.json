@@ -1,0 +1,27 @@
+{
+  "record_id": "garton-sans",
+  "source_url": "https://weekendtype.xyz/garton-sans",
+  "checked_at": "2026-03-09T01:46:09.335473+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://weekendtype.xyz/garton-sans",
+      "snippet": "stic alternates that expand their creative possibilities. technical Designed by: Hamish Makgill and Luke Charsley Year: 2021 Glyphs: 688 Encoding: Latin Extended File Formats: OTF, WOFF, WOFF2 Version: 1.0 Source materia"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://weekendtype.xyz/garton-sans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://weekendtype.xyz/garton-sans",
+    "last_modified": null
+  }
+}

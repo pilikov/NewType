@@ -1,0 +1,34 @@
+{
+  "record_id": "multiflex",
+  "source_url": "https://www.leinstertype.com/fonts/multiflex",
+  "checked_at": "2026-03-09T02:01:21.945417+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.leinstertype.com/fonts/multiflex",
+      "snippet": " punctuation and alternates Language Support for Latin S+M (390+ languages) Multiflex ® was designed by Troy Leinster © 2025. • Branding • Editorial • UI/UX • Responsive WD • Packaging • Wayfinding • Exhibition Design • "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.leinstertype.com/fonts/multiflex",
+      "snippet": "Sat, 07 Mar 2026 02:53:43 GMT"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.leinstertype.com/fonts/multiflex",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.leinstertype.com/fonts/multiflex",
+    "last_modified": "Sat, 07 Mar 2026 02:53:43 GMT"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "ritual",
+  "source_url": "https://revolvertype.com/typefaces/ritual",
+  "checked_at": "2026-03-09T01:56:05.124438+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.revolvertype.com/typefaces/ritual/",
+      "snippet": " add to cart Ritual Medium Moon watch Omega 853 chronograph Click to edit Edit text add to cart Ritual Medium Italic In 2021, a study by Cambridge University showed that Bitcoin, at 121 terawatt-hours per year. used more"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://revolvertype.com/typefaces/ritual",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.revolvertype.com/typefaces/ritual/",
+    "last_modified": null
+  }
+}

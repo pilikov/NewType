@@ -1,0 +1,27 @@
+{
+  "record_id": "p22-komusubi",
+  "source_url": "https://p22.com/fonts/komusubi/",
+  "checked_at": "2026-03-09T01:48:30.241582+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/komusubi/",
+      "snippet": " 0a 1A 1a 2A 2a 3A 3a 4A 4a 5A 5a 6A 6a 7A 7a 8A 8a 9A 9a 0O 0o 1O 1o 2O 2o 3O 3o 4O 4o 5O 5o 6O 6o 7O 7o 8O 8o 9O 9o © 2026 The Type Founders, LLC Fonts Designers About Privacy & Cookies Terms of Service Licensing Servi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://p22.com/fonts/komusubi/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://p22.com/fonts/komusubi/",
+    "last_modified": null
+  }
+}

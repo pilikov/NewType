@@ -1,0 +1,41 @@
+{
+  "record_id": "klaket",
+  "source_url": "https://tosche.net/fonts/klaket",
+  "checked_at": "2026-03-09T01:40:22.630700+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://tosche.net/fonts/klaket",
+      "snippet": "agari En Jp Fonts Non-fonts Blog Profile Name: Klaket Type: Retail typeface Publisher: Omega Type Foundry Release year: 2021 Purchase links: I Love Typography Specimen images by Sherine Salla Klaket is a Arabic & Latin t"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://tosche.net/fonts/klaket",
+      "snippet": "n non-Latin typography and held in different places around the world (at least before the Covid pandemic). The Granshan 2016 was in Cairo, which was my first visit to an Arabic realm, and a city full of Ruqah letterings."
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://tosche.net/fonts/klaket",
+      "snippet": " name Klaket is an Arabic word for clapperboard used in filming, and originates from the French equivalent ‘claquet’. © 2026 Toshi Omagari Facebook Twitter EN Twitter JP Instagram GitHub"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://tosche.net/fonts/klaket",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://tosche.net/fonts/klaket",
+    "last_modified": null
+  }
+}

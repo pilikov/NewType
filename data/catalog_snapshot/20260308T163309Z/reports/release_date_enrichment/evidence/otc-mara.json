@@ -1,0 +1,41 @@
+{
+  "record_id": "otc-mara",
+  "source_url": "https://ograda.co/fonts/otc-mara",
+  "checked_at": "2026-03-09T01:57:18.851685+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://ograda.co/fonts/otc-mara",
+      "snippet": "FONTS — Ograda Type Co. SRL * FONTS CUSTOM IN USE NEWS SHOP ︎ OTC Textura 7 Iul 2025 Contemporary, simplified blackletter typeface inspired by volumetric signage. \nThe whole design process and decisions w"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ograda.co/fonts/otc-mara",
+      "snippet": "Medium Price / Number of Users OTC Escu Bold Price / Number of Users Get it today! E-mail for your License. Copyright © 2017–2026 Ograda Type Company SRL All rights reserved. Contact Email Instagram Info Licenses (EULA) "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ograda.co/fonts/otc-mara",
+      "snippet": "m Price / Number of Users OTC Escu Bold Price / Number of Users Get it today! E-mail for your License. Copyright © 2017–2026 Ograda Type Company SRL All rights reserved. Contact Email Instagram Info Licenses (EULA) Terms"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ograda.co/fonts/otc-mara",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ograda.co/fonts/otc-mara",
+    "last_modified": null
+  }
+}

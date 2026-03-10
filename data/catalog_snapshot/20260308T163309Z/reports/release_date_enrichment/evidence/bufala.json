@@ -1,0 +1,41 @@
+{
+  "record_id": "bufala",
+  "source_url": "https://hypersand.studio/shop/bufala",
+  "checked_at": "2026-03-09T01:57:32.778061+00:00",
+  "candidates": [
+    {
+      "date": "2022-11-22",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://hypersand.studio/shop/product/bufala/",
+      "snippet": "2022-11-22T09:58:28+00:00"
+    },
+    {
+      "date": "2025-11-10",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://hypersand.studio/shop/product/bufala/",
+      "snippet": "2025-11-10T18:42:14+00:00"
+    },
+    {
+      "date": "2025-11-10",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://hypersand.studio/shop/product/bufala/",
+      "snippet": "2025-11-10T18:42:14+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://hypersand.studio/shop/bufala",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hypersand.studio/shop/product/bufala/",
+    "last_modified": null
+  }
+}

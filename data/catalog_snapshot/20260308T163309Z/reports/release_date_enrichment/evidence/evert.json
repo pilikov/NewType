@@ -1,0 +1,19 @@
+{
+  "record_id": "evert",
+  "source_url": "https://foundryfivetype.com/type/evert/",
+  "checked_at": "2026-03-09T02:01:14.780943+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://foundryfivetype.com/type/evert/",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "404 Client Error: Not Found for url: https://foundryfivetype.com/type/evert/"
+  }
+}

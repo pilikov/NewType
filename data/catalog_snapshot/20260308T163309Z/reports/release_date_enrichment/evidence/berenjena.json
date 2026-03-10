@@ -1,0 +1,48 @@
+{
+  "record_id": "berenjena",
+  "source_url": "https://quintana-font.cl/typefaces/berenjena",
+  "checked_at": "2026-03-09T02:02:17.156458+00:00",
+  "candidates": [
+    {
+      "date": "2024-04-23",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://quintana-font.cl/typefaces/berenjena",
+      "snippet": "2024-04-23"
+    },
+    {
+      "date": "2003-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://quintana-font.cl/typefaces/berenjena",
+      "snippet": "tures Superscript Subscript Fractions Font Variations 100px format_size format_line_spacing Roberto Bolaño Ávalos (1953-2003) Berenjena Bold Italic Select a style Berenjena Book Berenjena Book Italic Berenjena Regular Be"
+    },
+    {
+      "date": "2007-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://quintana-font.cl/typefaces/berenjena",
+      "snippet": "s Standard ligatures Superscript Subscript Fractions Font Variations 100px format_size format_line_spacing RATATOUILLE [2007] Berenjena Regular Italic Select a style Berenjena Book Berenjena Book Italic Berenjena Regular"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://quintana-font.cl/typefaces/berenjena",
+      "snippet": "c U$D 34.00 Berenjena Bold U$D 34.00 Berenjena Bold Italic U$D 34.00 TOTAL U$D 0.00 Proceed to checkout Quintana-Font © 2026 Font Catalog Loica Sans Violeta RunRun Lira Sans Berenjena Simona Chupilca Vivaceta Modérnica L"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://quintana-font.cl/typefaces/berenjena",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://quintana-font.cl/typefaces/berenjena",
+    "last_modified": null
+  }
+}

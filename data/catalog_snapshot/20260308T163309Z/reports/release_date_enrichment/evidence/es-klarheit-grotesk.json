@@ -1,0 +1,27 @@
+{
+  "record_id": "es-klarheit-grotesk",
+  "source_url": "https://extraset.ch/typefaces/es-klarheit-grotesk",
+  "checked_at": "2026-03-09T01:45:05.923125+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://extraset.ch/typefaces/es-klarheit-grotesk-paneuro/",
+      "snippet": "ree to the terms & conditions Leave this field empty if you're human: Typefaces About us Information Shop Contact EULA ©2025 Extraset Typefoundry \nAll rights reserved Follow us on Instagram & Facebook Follow us on Instag"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://extraset.ch/typefaces/es-klarheit-grotesk",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://extraset.ch/typefaces/es-klarheit-grotesk-paneuro/",
+    "last_modified": null
+  }
+}

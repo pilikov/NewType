@@ -1,0 +1,27 @@
+{
+  "record_id": "fuuld",
+  "source_url": "https://www.thatthattype.com/fonts/fuuld",
+  "checked_at": "2026-03-09T01:49:13.932034+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thatthattype.com/fonts/fuuld",
+      "snippet": "That That Type: Fuuld Fonts License Free Trial Fonts About Log in Fuuld Fuuld is a sans serif ink conscious font © 2026 That That Type"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.thatthattype.com/fonts/fuuld",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.thatthattype.com/fonts/fuuld",
+    "last_modified": null
+  }
+}

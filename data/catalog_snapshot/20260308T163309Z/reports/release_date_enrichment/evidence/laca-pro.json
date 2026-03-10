@@ -1,0 +1,34 @@
+{
+  "record_id": "laca-pro",
+  "source_url": "https://novatypefoundry.com/fonts/laca-pro",
+  "checked_at": "2026-03-09T01:41:47.765293+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://novatypefoundry.com/fonts/laca-pro/",
+      "snippet": "a Pro Bold Laca Pro Bold Italic Laca Pro Black Laca Pro Black Italic Family 16\n\t\t\tstyles Designed by Joana Correia Year 2020 Laca Pro Try it About Hightlights In use Glyphs Adobe Fonts Trials Buy Black ExtraLight ExtraLi"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://novatypefoundry.com/fonts/laca-pro/",
+      "snippet": "ivacy Policy Fonts Alga Anona Artigo Artigo Display Baga Laca Pro Laca Text Lemongrass Script Loretta Loretta Display © 2026 Nova Type Foundry Distinctive type crafted with warmth and precision Instagram LinkedIn Behance"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://novatypefoundry.com/fonts/laca-pro",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://novatypefoundry.com/fonts/laca-pro/",
+    "last_modified": null
+  }
+}

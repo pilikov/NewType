@@ -1,0 +1,83 @@
+{
+  "record_id": "auto-grotesk",
+  "source_url": "https://ddott.net/typefaces/auto-grotesk",
+  "checked_at": "2026-03-09T02:02:25.743833+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-06",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://ddott.net/auto-grotesk-a-love-letter-to-wood-type/",
+      "snippet": "2026-01-06T18:09:05+00:00"
+    },
+    {
+      "date": "2026-01-06",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://ddott.net/auto-grotesk-a-love-letter-to-wood-type/",
+      "snippet": "2026-01-06T18:09:05+00:00"
+    },
+    {
+      "date": "2004-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://ddott.net/auto-grotesk-a-love-letter-to-wood-type/",
+      "snippet": "4. Moran, Bill. Hamilton Wood Type: A History in Headlines. Chapter 3, “The Making of Wood Type,” 25. Blinc Publishing, 2004. You may also like Auto Grotesk 12 Styles 2 Families New From €75 Try it! Rob Roy Kelly: “My in"
+    },
+    {
+      "date": "2026-01-13",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://ddott.net/auto-grotesk-a-love-letter-to-wood-type/",
+      "snippet": "2026-01-13T09:54:55+00:00"
+    },
+    {
+      "date": "2026-01-13",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://ddott.net/auto-grotesk-a-love-letter-to-wood-type/",
+      "snippet": "2026-01-13T09:54:55+00:00"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ddott.net/auto-grotesk-a-love-letter-to-wood-type/",
+      "snippet": "ets of Wood: Luigi Melchiori and the History of Italian Wood Type. “Wood type manufacture”. Cornuda: Tipoteca Italiana, 2014. 3. Kelly, Rob Roy. American Wood Type: 1828–1900. Chapter III, “Wood Type Manufacture, Veneer "
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ddott.net/auto-grotesk-a-love-letter-to-wood-type/",
+      "snippet": "een materiality and concept. Cutting maple boards to 10 Cicero (45 mm) height at TMDC, Barcelona. Photograph by author (2022). CNC router test at Ateneu de Fabricació, Barcelona. Photograph by author (2022). Adapting Edw"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ddott.net/auto-grotesk-a-love-letter-to-wood-type/",
+      "snippet": "o type height (23.566mm) using a Polytype Leveller at the Berlin Print Workshop (p. 98a). Photograph by Sibila Estruch (2024). Constantly checking type height with a special gauge. Even slight irregularities affect the p"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ddott.net/auto-grotesk-a-love-letter-to-wood-type/",
+      "snippet": "aus dem Betrieb. [n.d.]. From Klingspor Museum Offenbach. Pattern of Helvetica by DeLittle, York. Photograph by author, 2025. Museum der Arbeit, Hamburg. Type Cutter using a pantograph. In Add Punch to Your Printing with"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ddott.net/typefaces/auto-grotesk",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ddott.net/auto-grotesk-a-love-letter-to-wood-type/",
+    "last_modified": null
+  }
+}

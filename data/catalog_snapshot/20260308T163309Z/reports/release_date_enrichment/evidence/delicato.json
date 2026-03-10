@@ -1,0 +1,41 @@
+{
+  "record_id": "delicato",
+  "source_url": "https://macrhino.com/typefaces/delicato",
+  "checked_at": "2026-03-09T01:55:14.959367+00:00",
+  "candidates": [
+    {
+      "date": "2005-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://macrhino.com/project/delicato",
+      "snippet": "ervices Custom Type Commercial Type Other Work About & Services Custom Type Commercial Type Other Work Date of release: 2005 4 weights DOWNLOAD PDF Desktop €189,00 EUR Webfont €189,00 EUR Combined €284,00 EUR Size Line h"
+    },
+    {
+      "date": "2004-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://macrhino.com/project/delicato",
+      "snippet": "PDF Desktop €189,00 EUR Webfont €189,00 EUR Combined €284,00 EUR Size Line height Letter spacing Try typeface here... © 2004–2020 Stefan Hattenbach/MRF.  Site design: Jonas Hellström D+AD ."
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://macrhino.com/project/delicato",
+      "snippet": "esktop €189,00 EUR Webfont €189,00 EUR Combined €284,00 EUR Size Line height Letter spacing Try typeface here... © 2004–2020 Stefan Hattenbach/MRF.  Site design: Jonas Hellström D+AD ."
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://macrhino.com/typefaces/delicato",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://macrhino.com/project/delicato",
+    "last_modified": null
+  }
+}

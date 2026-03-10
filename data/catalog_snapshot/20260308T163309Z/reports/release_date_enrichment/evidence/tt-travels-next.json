@@ -1,0 +1,90 @@
+{
+  "record_id": "tt-travels-next",
+  "source_url": "https://typetype.org/typefaces/tt-travels-next",
+  "checked_at": "2026-03-09T02:03:41.531748+00:00",
+  "candidates": [
+    {
+      "date": "2021-07-08",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typetype.org/fonts/tt-travels-next/",
+      "snippet": "2021-07-08T09:56:56+00:00"
+    },
+    {
+      "date": "2021-07-08",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://typetype.org/fonts/tt-travels-next/",
+      "snippet": "2021-07-08T09:56:56+00:00"
+    },
+    {
+      "date": "2021-07-15",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-travels-next/",
+      "snippet": "eatures, counting in stylistic alternates, ligatures, arrows, and circled figures; 190+ languages support. Release date July 15, 2021 Additionally Specimen Download font specimen (pdf) Poster Images Graphic presentation "
+    },
+    {
+      "date": "2026-01-26",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typetype.org/fonts/tt-travels-next/",
+      "snippet": "2026-01-26T21:00:05+00:00"
+    },
+    {
+      "date": "2026-01-26",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://typetype.org/fonts/tt-travels-next/",
+      "snippet": "2026-01-26T21:00:05+00:00"
+    },
+    {
+      "date": "2004-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-travels-next/",
+      "snippet": " berries and spices: rosemary, cardamom, anise, cinnamon and others. Akvavit is inspired by a true story from UEFA EURO 2004. In the last... Show all Description About font family TT Travels Next 200+ Language support In"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-travels-next/",
+      "snippet": "atives Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! TT Travels Next Award Bronze Granshan is the world’s "
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-travels-next/",
+      "snippet": " version of the TT Travels font family emerged at the «Mail.ru Design Conf x Dribbble Meetup» that took place in August 2020 in Moscow. The typeface has very wide proportions and characters that almost do not get narrowe"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-travels-next/",
+      "snippet": " typeface harmoniously balances smooth curves and sharp angles. TT Travels Next won 1 award 30% off Valid until 13 Mar, 2026 Single style: from $ 47.99 Original price was: $47.99. $ 33.59 Current price is: $33.59. Full f"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://typetype.org/fonts/tt-travels-next/",
+      "snippet": "Fri, 06 Mar 2026 21:55:07 GMT"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typetype.org/typefaces/tt-travels-next",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typetype.org/fonts/tt-travels-next/",
+    "last_modified": "Fri, 06 Mar 2026 21:55:07 GMT"
+  }
+}

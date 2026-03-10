@@ -1,0 +1,34 @@
+{
+  "record_id": "itacolomi",
+  "source_url": "https://ellertype.com/typefaces/itacolomi",
+  "checked_at": "2026-03-09T02:03:59.993358+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://ellertype.com/itacolomi/",
+      "snippet": "«stone girl» and refers to a specific hill in the state of Minas Gerais. Newsletter Instagram Behance Email Copyright © 2021 Eller Type | All rights reserved. Desenvolvido com estratégia e performance por Navival cross m"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://ellertype.com/itacolomi/",
+      "snippet": "Fri, 07 Nov 2025 14:49:30 GMT"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ellertype.com/typefaces/itacolomi",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ellertype.com/itacolomi/",
+    "last_modified": "Fri, 07 Nov 2025 14:49:30 GMT"
+  }
+}

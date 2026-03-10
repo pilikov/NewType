@@ -1,0 +1,48 @@
+{
+  "record_id": "lab-antiqua",
+  "source_url": "https://lettersfromsweden.se/font/lab-antiqua",
+  "checked_at": "2026-03-09T01:54:08.432353+00:00",
+  "candidates": [
+    {
+      "date": "2008-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://lettersfromsweden.se/font/lab-antiqua/",
+      "snippet": "Letters From Sweden to turn their vision into a premium typeface. The project took three years to complete. Designed in 2008, the SDL logotype consists of three serif letters characterised by large, flat serifs and a ref"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://lettersfromsweden.se/font/lab-antiqua/",
+      "snippet": "b Antiqua Web quantity Add to cart More than 50 million page views? Contact us . To celebrate their 20th anniversary in 2018, Stockholm Design Lab decided to create a signature typeface inspired by their own wordmark. Th"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://lettersfromsweden.se/font/lab-antiqua/",
+      "snippet": "r optical correction—to avoid parts of letters crashing into each other in tightly-stacked titles set in all-caps. Year 2022 Designed by Stockholm Design Lab Göran Söderström Script(s) latin cyrillic Lab Antiqua Adelia B"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://lettersfromsweden.se/font/lab-antiqua/",
+      "snippet": "Mon, 09 Mar 2026 01:54:15 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://lettersfromsweden.se/font/lab-antiqua",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://lettersfromsweden.se/font/lab-antiqua/",
+    "last_modified": "Mon, 09 Mar 2026 01:54:15 GMT"
+  }
+}

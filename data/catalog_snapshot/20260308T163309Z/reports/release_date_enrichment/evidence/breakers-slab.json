@@ -1,0 +1,20 @@
+{
+  "record_id": "breakers-slab",
+  "source_url": "http://beta.kostictype.com/fonts/breakers-slab",
+  "checked_at": "2026-03-09T01:52:46.416852+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://beta.kostictype.com/fonts/breakers-slab",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://kostictype.com/fonts/breakers-slab/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "ops-grotesko",
+  "source_url": "http://ourpolitesocietytype.net/typefaces/ops-grotesko",
+  "checked_at": "2026-03-09T01:56:48.492226+00:00",
+  "candidates": [
+    {
+      "date": "1990-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ops-type.com/typefaces/ops-grotesko/Text",
+      "snippet": "liography: 01. Jonathan Goldberg. Writing Matter: From the Hands of the English Renaissance. Stanford University Press, 1990. 02. Frederic J. Schwartz. The Werkbund: Design Thoery and Mass Culture Before the First World "
+    },
+    {
+      "date": "1996-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ops-type.com/typefaces/ops-grotesko/Text",
+      "snippet": "2. Frederic J. Schwartz. The Werkbund: Design Thoery and Mass Culture Before the First World War. Yale Univesity Press, 1996. 03. Frederick A. Horowitz and Brenda Danilowitz. Josef Albers: To Open Eyes. Phaidon Press, 20"
+    },
+    {
+      "date": "2006-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ops-type.com/typefaces/ops-grotesko/Text",
+      "snippet": "Yale Univesity Press, 1996. 03. Frederick A. Horowitz and Brenda Danilowitz. Josef Albers: To Open Eyes. Phaidon Press, 2006. 04. Jacques Ranciere. “The Red of La Chinoise: Godard’s Politics.” in Film Fables. Berg Publis"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ops-type.com/typefaces/ops-grotesko/Text",
+      "snippet": "ar.com, July 23, 1978. 06. James Bridges. The Paper Chase. 20th Century Fox, 1973. text specimen writer Buy Copyright © 2026 OPS Type. All rights reserved."
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://ourpolitesocietytype.net/typefaces/ops-grotesko",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ops-type.com/typefaces/ops-grotesko/Text",
+    "last_modified": null
+  }
+}

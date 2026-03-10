@@ -1,0 +1,20 @@
+{
+  "record_id": "hershey-peignot",
+  "source_url": "https://fonderiz.fr/hershey/",
+  "checked_at": "2026-03-09T02:01:25.547396+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-15",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fonderiz.fr/hershey/",
+      "snippet": "2026-02-15"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fonderiz.fr/hershey/",
+    "last_modified": null
+  }
+}

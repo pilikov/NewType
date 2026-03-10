@@ -1,0 +1,27 @@
+{
+  "record_id": "wt-morris-roman",
+  "source_url": "https://interrobangtype.co/typefaces/wt-morris-roman",
+  "checked_at": "2026-03-09T01:56:54.476510+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://interrobangtype.co/?attachment_id=338",
+      "snippet": "ed on this site, unless otherwise mentioned, are the creation and intellectual property of Derek Weathersbee. Copyright 2021. X"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://interrobangtype.co/typefaces/wt-morris-roman",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://interrobangtype.co/?attachment_id=338",
+    "last_modified": null
+  }
+}

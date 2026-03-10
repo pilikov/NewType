@@ -1,0 +1,41 @@
+{
+  "record_id": "plakat-good-type",
+  "source_url": "https://goodtypefoundry.com/plakat/",
+  "checked_at": "2026-03-09T01:59:44.867171+00:00",
+  "candidates": [
+    {
+      "date": "2014-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://goodtypefoundry.com/plakat/",
+      "snippet": "irky grotesque typeface inspired by typefaces found on old posters, street signs and newspapers. Originally designed in 2014, further developed and released in 2016. 2 weights / 2 styles European Language Support Release"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://goodtypefoundry.com/plakat/",
+      "snippet": "faces found on old posters, street signs and newspapers. Originally designed in 2014, further developed and released in 2016. 2 weights / 2 styles European Language Support Release 2016 Buy Plakat RATHKES GATE (TYPE DESI"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://goodtypefoundry.com/plakat/",
+      "snippet": "Career (0) Trial Fonts Good Type Foundry AS, Rettedalsbakkane 9, 4110 Forsand, Norway © Copyright – all rights reserved 2025 Typeface in use: GTF Good Sans"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://goodtypefoundry.com/plakat/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://goodtypefoundry.com/plakat/",
+    "last_modified": null
+  }
+}

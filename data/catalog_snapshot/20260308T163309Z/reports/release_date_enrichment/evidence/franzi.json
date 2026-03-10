@@ -1,0 +1,27 @@
+{
+  "record_id": "franzi",
+  "source_url": "https://wannatype.com/typefaces/franzi",
+  "checked_at": "2026-03-09T01:56:59.016738+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://wannatype.com/product/franzi-pro/",
+      "snippet": "ng. Please check your entries and try again. By clicking the submit button you agree to the wannatype privacy policy. © 2025 wannatype.com Designed by wannatype.com. Engineered by danubeweb.at. Gefördert durch die Wirtsc"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://wannatype.com/typefaces/franzi",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://wannatype.com/product/franzi-pro/",
+    "last_modified": null
+  }
+}

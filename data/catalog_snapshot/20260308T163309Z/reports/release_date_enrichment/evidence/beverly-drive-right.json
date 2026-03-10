@@ -1,0 +1,48 @@
+{
+  "record_id": "beverly-drive-right",
+  "source_url": "https://hoodzpahdesign.com/product/beverly-drive-font-right/",
+  "checked_at": "2026-03-09T02:01:25.291970+00:00",
+  "candidates": [
+    {
+      "date": "2020-12-05",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://hoodzpahdesign.com/product/beverly-drive-font-right/",
+      "snippet": "2020-12-05T00:30:51+00:00"
+    },
+    {
+      "date": "2025-12-02",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://hoodzpahdesign.com/product/beverly-drive-font-right/",
+      "snippet": "2025-12-02T05:15:49+00:00"
+    },
+    {
+      "date": "2025-12-02",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://hoodzpahdesign.com/product/beverly-drive-font-right/",
+      "snippet": "2025-12-02T05:15:49+00:00"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://hoodzpahdesign.com/product/beverly-drive-font-right/",
+      "snippet": "ht/style you purchased. Credits: Typeface Design: Amy Hood, Hoodzphah, Inc. Production: Hoodzpah, Inc. © Hoodzpah, Inc. 2020 Fonts in use: See how people are using our fonts: #hoodfonts Features: 531 glyphs. Language Sup"
+    },
+    {
+      "date": "2026-02-15",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://hoodzpahdesign.com/product/beverly-drive-font-right/",
+      "snippet": "2026-02-15"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hoodzpahdesign.com/product/beverly-drive-font-right/",
+    "last_modified": null
+  }
+}

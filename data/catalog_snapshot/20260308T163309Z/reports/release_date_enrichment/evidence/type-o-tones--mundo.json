@@ -1,0 +1,41 @@
+{
+  "record_id": "type-o-tones--mundo",
+  "source_url": "https://type-o-tones.com/fonts/mundo",
+  "checked_at": "2026-03-09T01:50:42.710847+00:00",
+  "candidates": [
+    {
+      "date": "1990-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/mundo",
+      "snippet": "ld 35.00 Add to cart Generate text Mundo Demi Bold 35.00 Add to cart Generate text Mundo Demi Bold 35.00 Add to cart En 1990 el Mundo… ¡era azul! Upscaling the resurgent networking exchange solutions, achieving a breakaw"
+    },
+    {
+      "date": "1997-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/mundo",
+      "snippet": "pplicability transactional modeling. by Estudio Mariscal Mundo: Special Buying options Author Estudio Mariscal Creation 1997 Actual version 3 (2007) Styles 1 Character sets Basic Latin Latin-1 Supplement License Types De"
+    },
+    {
+      "date": "2007-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/mundo",
+      "snippet": "nal modeling. by Estudio Mariscal Mundo: Special Buying options Author Estudio Mariscal Creation 1997 Actual version 3 (2007) Styles 1 Character sets Basic Latin Latin-1 Supplement License Types Desktop, Webfont, ePub, A"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://type-o-tones.com/fonts/mundo",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://type-o-tones.com/fonts/mundo",
+    "last_modified": null
+  }
+}

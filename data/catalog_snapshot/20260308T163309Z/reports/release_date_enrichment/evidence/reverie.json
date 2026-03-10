@@ -1,0 +1,48 @@
+{
+  "record_id": "reverie",
+  "source_url": "https://celine-hurka.com/typefaces/reverie",
+  "checked_at": "2026-03-09T01:49:05.954497+00:00",
+  "candidates": [
+    {
+      "date": "2024-09-19",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://celine-hurka.com/reverie/",
+      "snippet": "2024-09-19T17:04:06+00:00"
+    },
+    {
+      "date": "2024-09-19",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://celine-hurka.com/reverie/",
+      "snippet": "2024-09-19T17:04:06+00:00"
+    },
+    {
+      "date": "2025-05-17",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://celine-hurka.com/reverie/",
+      "snippet": "2025-05-17T23:00:31+00:00"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://celine-hurka.com/reverie/",
+      "snippet": "S VERSION GARDEN OF AETHER REVIVING TYPE Writing In Use Information Licensing Trial fonts Cart Céline Hurka TYPEFACES / 2024 / REVERIE Test It was a reverie in summer. Calmness, clarity, after the mists of winter and spr"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://celine-hurka.com/typefaces/reverie",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://celine-hurka.com/reverie/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "letter-gothic-recast",
+  "source_url": "https://www.daltonmaag.com/library/letter-gothic-recast",
+  "checked_at": "2026-03-09T01:48:01.882240+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/letter-gothic-recast.html",
+      "snippet": " monospace variable font, it now includes a Slant axis and a Weight axis from Hairline to Black. Designed and developed\n2025 Designers Samir Reis, Emanuela Conidi, Bruno Mello, Natalia Qadreh Writing Systems Cyrillic, Gr"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.daltonmaag.com/library/letter-gothic-recast",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.daltonmaag.com/font-library/letter-gothic-recast.html",
+    "last_modified": null
+  }
+}

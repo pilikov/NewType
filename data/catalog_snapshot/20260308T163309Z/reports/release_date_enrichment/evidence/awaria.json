@@ -1,0 +1,41 @@
+{
+  "record_id": "awaria",
+  "source_url": "https://laic.pl/typefaces/awaria",
+  "checked_at": "2026-03-09T02:02:03.690430+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-22",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://laic.pl/product/typefaces/awaria/",
+      "snippet": "2022-01-22T22:52:27+00:00"
+    },
+    {
+      "date": "2026-02-17",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://laic.pl/product/typefaces/awaria/",
+      "snippet": "2026-02-17T14:53:12+00:00"
+    },
+    {
+      "date": "2026-02-17",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://laic.pl/product/typefaces/awaria/",
+      "snippet": "2026-02-17T14:53:12+00:00"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://laic.pl/typefaces/awaria",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://laic.pl/product/typefaces/awaria/",
+    "last_modified": null
+  }
+}

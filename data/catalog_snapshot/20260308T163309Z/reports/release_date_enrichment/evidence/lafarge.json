@@ -1,0 +1,34 @@
+{
+  "record_id": "lafarge",
+  "source_url": "https://gregshutters.com/lafarge",
+  "checked_at": "2026-03-09T01:59:05.219094+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.gregshutters.com/lafarge",
+      "snippet": "text typefaces like Times New Roman or Bookman that look out of place in historic signage. LaFarge has been awarded the 2021 Communication Arts Award of Excellence and the ADC Annual Merit award , and was included in the"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.gregshutters.com/lafarge",
+      "snippet": " Contact Menu Work About Contact LaFarge Category: Typefaces Recognition: 2021 Communication Arts Award of Excellence ; 2020 STA 100 ; ADC Annual Merit Award LaFarge recreates the look of the delicate, handmade mosaic ti"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://gregshutters.com/lafarge",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.gregshutters.com/lafarge",
+    "last_modified": null
+  }
+}

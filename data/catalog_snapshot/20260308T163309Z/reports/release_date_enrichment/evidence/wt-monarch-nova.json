@@ -1,0 +1,48 @@
+{
+  "record_id": "wt-monarch-nova",
+  "source_url": "https://wisetype.nl/typefaces/monarch-nova",
+  "checked_at": "2026-03-09T01:50:09.044500+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://wisetype.nl/typefaces/monarch-nova",
+      "snippet": " folly's. Clay pipes and pottery wash ashore... The design started life as Monarch – the first font I published back in 2017 based on a rough set of sketches. It was an attempt to capture the graphic design zeitgeist of "
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://wisetype.nl/typefaces/monarch-nova",
+      "snippet": "riginal in spirit. I returned to the font a few years later and worked on a fully redrawn update which was published in 2020 as 'Monarch Nova'. The update sought to tone down some of the more clumsy aspects of the design"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://wisetype.nl/typefaces/monarch-nova",
+      "snippet": "ications, Inc. 180 Varick Street New York, N.Y. 10014 Design Jacob Wise Spacing Igino Marini Published 2017 Updated Feb 2025, V 2.1 Formats otf, woff, woff2 Open specimen View languages Uppercase A A B B C C D D E E F F "
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://wisetype.nl/typefaces/monarch-nova",
+      "snippet": " This was aided by the help of the French type designer Margot Lévêque who assisted in the production. More recently in 2024, I returned to the font once again to refine and expand on the design. Unsurprisingly, this led"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://wisetype.nl/typefaces/monarch-nova",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://wisetype.nl/typefaces/monarch-nova",
+    "last_modified": null
+  }
+}

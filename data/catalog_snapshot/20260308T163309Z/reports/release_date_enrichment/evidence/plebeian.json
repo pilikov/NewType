@@ -1,0 +1,34 @@
+{
+  "record_id": "plebeian",
+  "source_url": "https://order.design/otf/plebeian",
+  "checked_at": "2026-03-09T01:50:30.967759+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://order.design/otf/plebeian",
+      "snippet": "t used on a poster for the film Om Dar-B-Dar, which was scheduled to screen at Brooklyn’s Spectacle Theater in March of 2020. That year, my goal had been to design an original typeface or piece of lettering for a new Spe"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://order.design/otf/plebeian",
+      "snippet": "nnes Famira, David Jonathan Ross, Connor Davenport, Delaney Weber, and Cris R Hernandez. Thank you all. Benjamin Tuttle 2021 Everything is in order Office 212 Franklin Street Ground Floor Brooklyn, NY 11222 Contact 330 5"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://order.design/otf/plebeian",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://order.design/otf/plebeian",
+    "last_modified": null
+  }
+}

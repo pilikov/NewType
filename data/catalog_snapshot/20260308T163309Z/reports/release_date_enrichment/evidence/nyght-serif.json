@@ -1,0 +1,27 @@
+{
+  "record_id": "nyght-serif",
+  "source_url": "https://www.tunera.xyz/fonts/nyght-serif",
+  "checked_at": "2026-03-09T01:59:11.375147+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.tunera.xyz/fonts/nyght-serif/",
+      "snippet": "ormed. The typeface, designed by Maksym Kobuzan , presents a wide Latin character set as well as Ukrainian Cyrillic. In 2023, it received the Typographic Excellence Certificate award in the occasion of the 69th edition o"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.tunera.xyz/fonts/nyght-serif",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.tunera.xyz/fonts/nyght-serif/",
+    "last_modified": null
+  }
+}

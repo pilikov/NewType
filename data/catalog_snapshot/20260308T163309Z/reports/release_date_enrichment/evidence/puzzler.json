@@ -1,0 +1,48 @@
+{
+  "record_id": "puzzler",
+  "source_url": "https://www.emigre.com/Fonts/Puzzler",
+  "checked_at": "2026-03-09T01:52:06.480972+00:00",
+  "candidates": [
+    {
+      "date": "1993-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.emigre.com/Fonts/Puzzler",
+      "snippet": "cintosh computer, the Emigre team, consisting of Rudy VanderLans and Zuzana Licko, with the addition of Tim Starback in 1993, were among the early adaptors to the new technology. ( More... ) General Info Licensing Overvi"
+    },
+    {
+      "date": "1995-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.emigre.com/Fonts/Puzzler",
+      "snippet": "s Emigre News Archive Contact Us Emigre Inc. 1700 Shattuck Ave., #307 Berkeley, CA 94709 1-530-756-2900 info@emigre.com 1995 - 2026 © All Rights Reserved Emigre Inc.\n\t\t\t\t\t\t\t\t | Privacy Policy"
+    },
+    {
+      "date": "2005-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.emigre.com/Fonts/Puzzler",
+      "snippet": "Lans News Puzzler (Type Specimen) Free PDF Download Purchase printed copy More info Puzzler Designed by Zuzana Licko in 2005. More... With Puzzler, Zuzana Licko revisits and expands upon some of her earlier forays into d"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.emigre.com/Fonts/Puzzler",
+      "snippet": "e News Archive Contact Us Emigre Inc. 1700 Shattuck Ave., #307 Berkeley, CA 94709 1-530-756-2900 info@emigre.com 1995 - 2026 © All Rights Reserved Emigre Inc.\n\t\t\t\t\t\t\t\t | Privacy Policy"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.emigre.com/Fonts/Puzzler",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.emigre.com/Fonts/Puzzler",
+    "last_modified": null
+  }
+}

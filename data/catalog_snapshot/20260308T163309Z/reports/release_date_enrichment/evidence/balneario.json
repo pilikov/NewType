@@ -1,0 +1,19 @@
+{
+  "record_id": "balneario",
+  "source_url": "https://www.sudtipos.com/font/balneario",
+  "checked_at": "2026-03-09T01:40:43.774635+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.sudtipos.com/font/balneario",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='www.sudtipos.com', port=443): Read timed out. (read timeout=12)"
+  }
+}

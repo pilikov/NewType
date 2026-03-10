@@ -1,0 +1,69 @@
+{
+  "record_id": "muller-next",
+  "source_url": "https://fontfabric.com/typefaces/muller-next",
+  "checked_at": "2026-03-09T01:41:06.702045+00:00",
+  "candidates": [
+    {
+      "date": "2022-10-26",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.fontfabric.com/fonts/muller-next/",
+      "snippet": "2022-10-26T12:18:19+00:00"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/muller-next/",
+      "snippet": "on of the original Muller , redesigned by Plamen Motev, Leon Hugues, and Radomir Tinkov at Fontfabric. Released in late 2022, it expands the family into a massive type system with 216 styles across nine widths and twelve"
+    },
+    {
+      "date": "2022-10-26",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/muller-next/",
+      "snippet": " forms, superscript & subscript, old-style/lining/tabular figures, fractions, localized forms, and more. Release Date - October 26, 2022 Explore: Sans Serif Fonts , Display Fonts Muller Next Wide Thin Italic ; Muller Nex"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.fontfabric.com/fonts/muller-next/",
+      "snippet": "2026-03-05T14:19:34+00:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.fontfabric.com/fonts/muller-next/",
+      "snippet": "2026-03-05T14:19:34+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/muller-next/",
+      "snippet": "pt fonts Font sale Free fonts Fonts in use Font collections Legal Infringements About Help Blog Partnerships Contact us 2026 © Fontfabric llc. Privacy Notice Manage Cookies"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.fontfabric.com/fonts/muller-next/",
+      "snippet": "Sun, 08 Mar 2026 13:02:54 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fontfabric.com/typefaces/muller-next",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.fontfabric.com/fonts/muller-next/",
+    "last_modified": "Sun, 08 Mar 2026 13:02:54 GMT"
+  }
+}

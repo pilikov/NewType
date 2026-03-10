@@ -1,0 +1,90 @@
+{
+  "record_id": "mona",
+  "source_url": "https://ainsifont.com/font/mona",
+  "checked_at": "2026-03-09T01:51:23.071657+00:00",
+  "candidates": [
+    {
+      "date": "2001-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/catalogue",
+      "snippet": "w Tech étendu Mento Sans Rounded 1 weight 2020 Raoul Monospaced 4 weights iN HommacH sheure Fantaisie Headline 1 weight 2001 Archives Custom Creations rss — twitter — facebook — instagram — Français — English"
+    },
+    {
+      "date": "2011-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/catalogue",
+      "snippet": "Tomica Linéale Sans 5 weights 2012 Singolo Extra Condensed Rounded 1 weight 2014 Rubal Stencil Black 1 weight Best type 2011, Creative Review Screenex Pixel 1 weight Low Tech étendu Mento Sans Rounded 1 weight 2020 Raoul"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/catalogue",
+      "snippet": "Sans 5 weights 2016 Fluo Stencil Rounded 1 weight 2014 Rijsel Linéale Sans 6 weights 2013 Tomica Linéale Sans 5 weights 2012 Singolo Extra Condensed Rounded 1 weight 2014 Rubal Stencil Black 1 weight Best type 2011, Crea"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/catalogue",
+      "snippet": "kable 5 weights 2018 Unida Linéale Sans 5 weights 2016 Fluo Stencil Rounded 1 weight 2014 Rijsel Linéale Sans 6 weights 2013 Tomica Linéale Sans 5 weights 2012 Singolo Extra Condensed Rounded 1 weight 2014 Rubal Stencil "
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/catalogue",
+      "snippet": "022 Playtime Condensed Rounded Stackable 5 weights 2018 Unida Linéale Sans 5 weights 2016 Fluo Stencil Rounded 1 weight 2014 Rijsel Linéale Sans 6 weights 2013 Tomica Linéale Sans 5 weights 2012 Singolo Extra Condensed R"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/catalogue",
+      "snippet": " Stuce Display Fantaisie 1 weight 2022 Playtime Condensed Rounded Stackable 5 weights 2018 Unida Linéale Sans 5 weights 2016 Fluo Stencil Rounded 1 weight 2014 Rijsel Linéale Sans 6 weights 2013 Tomica Linéale Sans 5 wei"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/catalogue",
+      "snippet": "nfo MONA Monospaced 5 weights 2023 Stuce Display Fantaisie 1 weight 2022 Playtime Condensed Rounded Stackable 5 weights 2018 Unida Linéale Sans 5 weights 2016 Fluo Stencil Rounded 1 weight 2014 Rijsel Linéale Sans 6 weig"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/catalogue",
+      "snippet": "ncil Black 1 weight Best type 2011, Creative Review Screenex Pixel 1 weight Low Tech étendu Mento Sans Rounded 1 weight 2020 Raoul Monospaced 4 weights iN HommacH sheure Fantaisie Headline 1 weight 2001 Archives Custom C"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/catalogue",
+      "snippet": " – CONTACT MAIL AinsiFont Catalog Home • Catalog • Info MONA Monospaced 5 weights 2023 Stuce Display Fantaisie 1 weight 2022 Playtime Condensed Rounded Stackable 5 weights 2018 Unida Linéale Sans 5 weights 2016 Fluo Sten"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/catalogue",
+      "snippet": "ACCOUNT I CART T. +33 -0-3 20 52 61 61 – CONTACT MAIL AinsiFont Catalog Home • Catalog • Info MONA Monospaced 5 weights 2023 Stuce Display Fantaisie 1 weight 2022 Playtime Condensed Rounded Stackable 5 weights 2018 Unida"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ainsifont.com/font/mona",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.ainsifont.com/catalogue",
+    "last_modified": null
+  }
+}

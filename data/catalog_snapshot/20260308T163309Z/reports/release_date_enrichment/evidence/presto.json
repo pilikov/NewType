@@ -1,0 +1,62 @@
+{
+  "record_id": "presto",
+  "source_url": "https://astype.de/font_d_presto.php",
+  "checked_at": "2026-03-09T01:48:49.886406+00:00",
+  "candidates": [
+    {
+      "date": "2003-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_d_presto.php",
+      "snippet": "as B Stencil Ornaments A Thanksgiving Wine Grape A Free Fonts: DIN Type A - Basic Presto Nepos Fonts Wood Poster Eight ©2003 – 2026 by Andreas Seidel | astype fonts RSS Feed Imprint"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_d_presto.php",
+      "snippet": ". The «Presto - Free» version was made in honour of its designer Helmut Matheis (1917-2021), who turned 100 in November 2017.\r\nMatheis was delighted with this proposal and happy to give Florian Hardwig and Fust & Friends"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_d_presto.php",
+      "snippet": " to give Florian Hardwig and Fust & Friends his permission. The digital font development was done by Andreas Seidel. In 2019 its character set was extended, making \"Presto-Regular\" usable in a wide array of languages. Af"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_d_presto.php",
+      "snippet": "blished as foundry type in Germany. The «Presto - Free» version was made in honour of its designer Helmut Matheis (1917-2021), who turned 100 in November 2017.\r\nMatheis was delighted with this proposal and happy to give "
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_d_presto.php",
+      "snippet": "its character set was extended, making \"Presto-Regular\" usable in a wide array of languages. After Jan Middendorp (1956–2023) closed the micro foundry Fust & Friends in October 2021, this font can still be licensed via a"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_d_presto.php",
+      "snippet": "encil Ornaments A Thanksgiving Wine Grape A Free Fonts: DIN Type A - Basic Presto Nepos Fonts Wood Poster Eight ©2003 – 2026 by Andreas Seidel | astype fonts RSS Feed Imprint"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://astype.de/font_d_presto.php",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.astype.de/font_d_presto.php",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "lost-type-co-op--klinic-slab",
+  "source_url": "http://www.losttype.com/font/?name=klinic",
+  "checked_at": "2026-03-08T16:58:43.594551+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://www.losttype.com/font/?name=klinic",
+      "snippet": "mercial License ($432.00) Amount ($5, $10, $20, $40, $100): asdasda Questions? Send us a Message » Copyright Lost Type™ 2019 Brought to you by Riley Cran and Friends . Fonts > Klinic Slab by Joe Prince Fonts Store Blog C"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://www.losttype.com/font/?name=klinic",
+      "snippet": "2026-03-05"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "http://www.losttype.com/font/?name=klinic",
+    "last_modified": null
+  }
+}

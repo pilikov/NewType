@@ -1,0 +1,48 @@
+{
+  "record_id": "schijn",
+  "source_url": "https://www.typearture.com/typefaces/schijn",
+  "checked_at": "2026-03-09T02:00:38.101729+00:00",
+  "candidates": [
+    {
+      "date": "2018-04-09",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typearture.com/product/schijn/",
+      "snippet": "2018-04-09T10:22:50+00:00"
+    },
+    {
+      "date": "2024-01-12",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typearture.com/product/schijn/",
+      "snippet": "2024-01-12T14:17:46+00:00"
+    },
+    {
+      "date": "2024-01-12",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.typearture.com/product/schijn/",
+      "snippet": "2024-01-12T14:17:46+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.typearture.com/product/schijn/",
+      "snippet": "Thu, 05 Mar 2026 11:36:44 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.typearture.com/typefaces/schijn",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typearture.com/product/schijn/",
+    "last_modified": "Thu, 05 Mar 2026 11:36:44 GMT"
+  }
+}

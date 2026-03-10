@@ -1,0 +1,48 @@
+{
+  "record_id": "zeenesia-studio--perfectly-stylish",
+  "source_url": "https://zeenesia.com/product/perfectly-stylish/",
+  "checked_at": "2026-03-09T01:36:29.084857+00:00",
+  "candidates": [
+    {
+      "date": "2024-06-24",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://zeenesia.com/product/perfectly-stylish/",
+      "snippet": "2024-06-24T14:08:29+00:00"
+    },
+    {
+      "date": "2025-05-13",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://zeenesia.com/product/perfectly-stylish/",
+      "snippet": "2025-05-13T00:13:36+00:00"
+    },
+    {
+      "date": "2025-05-13",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://zeenesia.com/product/perfectly-stylish/",
+      "snippet": "2025-05-13T00:13:36+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://zeenesia.com/product/perfectly-stylish/",
+      "snippet": "tly Stylish quantity Add to cart Related products $ 17 Glytern $ 16 Breather $ 16 Nebulen $ 16 Bright Almond Copyright ©2025 Zeenesia Studio All Right Reserved Menu Home Shop Serif Fonts Sans Serif Fonts Script Fonts Dis"
+    },
+    {
+      "date": "2026-02-26",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://zeenesia.com/product/perfectly-stylish/",
+      "snippet": "2026-02-26"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://zeenesia.com/product/perfectly-stylish/",
+    "last_modified": null
+  }
+}

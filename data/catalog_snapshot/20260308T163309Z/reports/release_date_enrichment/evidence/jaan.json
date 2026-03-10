@@ -1,0 +1,27 @@
+{
+  "record_id": "jaan",
+  "source_url": "https://www.suvatypefoundry.ee/jaan/",
+  "checked_at": "2026-03-09T01:40:27.440259+00:00",
+  "candidates": [
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/jaan/",
+      "snippet": " FOUNDRY PREVIOUS FONT JAAN NEXT FONT W H L K Y R D N J C M I G S Z X A P F T Q DOWNLOAD V E O U B JAAN by Jaan Rõõmus (2014) A typeface studying unconventional tools for drawing. Supervised by Dinamo (Johannes Breyer, F"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/jaan/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/jaan/",
+    "last_modified": null
+  }
+}

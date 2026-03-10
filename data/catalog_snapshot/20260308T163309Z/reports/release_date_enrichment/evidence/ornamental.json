@@ -1,0 +1,27 @@
+{
+  "record_id": "ornamental",
+  "source_url": "https://www.suvatypefoundry.ee/ornamental/",
+  "checked_at": "2026-03-09T01:49:35.920869+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/ornamental/",
+      "snippet": "NT ORNAMENTAL NEXT FONT W N DOWNLOAD D X V C M R I K L Y O A Z S H U J B F P G E T Q ORNAMENTAL by Polina Zahharenkova (2020) This typeface is inspired by Victorian style ornaments and nature patterns, conveying their el"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/ornamental/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/ornamental/",
+    "last_modified": null
+  }
+}

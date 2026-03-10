@@ -1,0 +1,41 @@
+{
+  "record_id": "raoul-gottschling--platze",
+  "source_url": "https://raoulgottschling.de/plaetze/",
+  "checked_at": "2026-03-09T01:51:41.532185+00:00",
+  "candidates": [
+    {
+      "date": "2025-04-23",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://raoulgottschling.de/plaetze/",
+      "snippet": "2025-04-23T09:41:50+00:00"
+    },
+    {
+      "date": "2025-04-23",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://raoulgottschling.de/plaetze/",
+      "snippet": "2025-04-23T17:07:31+00:00"
+    },
+    {
+      "date": "2025-04-23",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://raoulgottschling.de/plaetze/",
+      "snippet": "2025-04-23T17:07:31+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://raoulgottschling.de/plaetze/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://raoulgottschling.de/plaetze/",
+    "last_modified": null
+  }
+}

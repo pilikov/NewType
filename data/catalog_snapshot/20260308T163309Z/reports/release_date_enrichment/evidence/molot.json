@@ -1,0 +1,27 @@
+{
+  "record_id": "molot",
+  "source_url": "https://www.suvatypefoundry.ee/molot/",
+  "checked_at": "2026-03-09T01:53:28.569242+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/molot/",
+      "snippet": "VIOUS FONT MOLOT NEXT FONT DOWNLOAD C U H W O F T M J I D B A G P V K E Q S N X R L Y Z MOLOT by Anastassia Tšepaikina (2017) A bulky font, reminiscent of the constructivist art movement. Made during typography class fro"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/molot/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/molot/",
+    "last_modified": null
+  }
+}

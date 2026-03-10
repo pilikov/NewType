@@ -1,0 +1,34 @@
+{
+  "record_id": "mt-shift",
+  "source_url": "https://simontruffer.ch/mt-shift/",
+  "checked_at": "2026-03-09T01:50:38.857474+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://simontruffer.ch/mt-shift/",
+      "snippet": "sential in bringing this project to life.\n                Also, gratitude to Tim TÃ¶nz for his valuable contribution. © 2024 MOTIONTYPE - Simon Truffer. All rights reserved."
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://simontruffer.ch/mt-shift/",
+      "snippet": "Fri, 19 Dec 2025 21:37:10 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://simontruffer.ch/mt-shift/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://simontruffer.ch/mt-shift/",
+    "last_modified": "Fri, 19 Dec 2025 21:37:10 GMT"
+  }
+}

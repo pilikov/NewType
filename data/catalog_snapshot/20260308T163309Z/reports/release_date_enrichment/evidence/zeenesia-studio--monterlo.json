@@ -1,0 +1,48 @@
+{
+  "record_id": "zeenesia-studio--monterlo",
+  "source_url": "https://zeenesia.com/product/monterlo/",
+  "checked_at": "2026-03-09T01:36:25.411533+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-14",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://zeenesia.com/product/monterlo/",
+      "snippet": "2026-02-14T10:24:56+00:00"
+    },
+    {
+      "date": "2026-02-14",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://zeenesia.com/product/monterlo/",
+      "snippet": "2026-02-14T10:31:44+00:00"
+    },
+    {
+      "date": "2026-02-14",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://zeenesia.com/product/monterlo/",
+      "snippet": "2026-02-14T10:31:44+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://zeenesia.com/product/monterlo/",
+      "snippet": "Monterlo quantity Add to cart Related products $ 15 Choco Candy $ 15 Kid Candy $ 16 Hisyam $ 15 Golden Blast Copyright ©2025 Zeenesia Studio All Right Reserved Menu Home Shop Serif Fonts Sans Serif Fonts Script Fonts Dis"
+    },
+    {
+      "date": "2026-02-26",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://zeenesia.com/product/monterlo/",
+      "snippet": "2026-02-26"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://zeenesia.com/product/monterlo/",
+    "last_modified": null
+  }
+}

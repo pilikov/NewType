@@ -1,0 +1,76 @@
+{
+  "record_id": "tt-alientz",
+  "source_url": "https://typetype.org/typefaces/tt-alientz",
+  "checked_at": "2026-03-09T02:03:44.625526+00:00",
+  "candidates": [
+    {
+      "date": "2021-04-27",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typetype.org/fonts/tt-alientz/",
+      "snippet": "2021-04-27T10:13:40+00:00"
+    },
+    {
+      "date": "2021-04-27",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://typetype.org/fonts/tt-alientz/",
+      "snippet": "2021-04-27T10:13:40+00:00"
+    },
+    {
+      "date": "2019-11-06",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-alientz/",
+      "snippet": "ard, not outward. Despite its extremeness, the serif will look good both in large and in small body sizes. Release date November 6, 2019 Additionally Custom version Looking for a custom version of this font? Read more Ac"
+    },
+    {
+      "date": "2026-02-27",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typetype.org/fonts/tt-alientz/",
+      "snippet": "2026-02-27T13:39:21+00:00"
+    },
+    {
+      "date": "2026-02-27",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://typetype.org/fonts/tt-alientz/",
+      "snippet": "2026-02-27T13:39:21+00:00"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-alientz/",
+      "snippet": "atives Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! Link copied!"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-alientz/",
+      "snippet": "s Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! Link copied!"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://typetype.org/fonts/tt-alientz/",
+      "snippet": "Sat, 07 Mar 2026 04:08:55 GMT"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typetype.org/typefaces/tt-alientz",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typetype.org/fonts/tt-alientz/",
+    "last_modified": "Sat, 07 Mar 2026 04:08:55 GMT"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "petit-serif",
+  "source_url": "https://www.205.tf/petit-serif",
+  "checked_at": "2026-03-09T01:52:17.206578+00:00",
+  "candidates": [
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/petit-serif",
+      "snippet": " our newsletter: ▶︎ Follow Us Facebook Instagram LinkedIn Bluesky Typeface Petit Serif Designer Matthieu Cortat Release 2012 Fonts In Use Specimen For the Petit Serif typeface, Matthieu Cortat was inspired by lettering c"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.205.tf/petit-serif",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.205.tf/petit-serif",
+    "last_modified": null
+  }
+}

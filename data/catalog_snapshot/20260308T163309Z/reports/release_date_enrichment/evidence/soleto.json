@@ -1,0 +1,27 @@
+{
+  "record_id": "soleto",
+  "source_url": "https://www.daltonmaag.com/library/soleto",
+  "checked_at": "2026-03-09T01:47:34.904757+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/soleto.html",
+      "snippet": "odern, inviting appeal, this friendly typeface is perfect for branding and corporate use. Designed and developed\n2014â2024 Designers Fernando Caro, Fabio Haag, Rafael Saraiva Writing Systems Cyrillic, Latin Supporting "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.daltonmaag.com/library/soleto",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.daltonmaag.com/font-library/soleto.html",
+    "last_modified": null
+  }
+}

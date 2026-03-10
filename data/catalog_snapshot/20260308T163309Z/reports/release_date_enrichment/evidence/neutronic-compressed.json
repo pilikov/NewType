@@ -1,0 +1,34 @@
+{
+  "record_id": "neutronic-compressed",
+  "source_url": "https://fonts.adobe.com/fonts/neutronic",
+  "checked_at": "2026-03-09T01:51:00.074089+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fonts.adobe.com/fonts/neutronic",
+      "snippet": "efaces that transcend language barriers and unite people through typography. Founded by Minjoo Ham and Mark Frömberg in 2020, Hypertype is committed to making a difference through thorough research and an innovative, tec"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fonts.adobe.com/fonts/neutronic",
+      "snippet": "liano Nederlands Norsk Português Suomi Svenska Русский 日本語 简体中文 繁體中文 한국어 Do not sell or share my personal information © 2026 Adobe. All rights reserved. Adobe Fonts Get started with more than 5,000 fonts for free Instant"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fonts.adobe.com/fonts/neutronic",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fonts.adobe.com/fonts/neutronic",
+    "last_modified": null
+  }
+}

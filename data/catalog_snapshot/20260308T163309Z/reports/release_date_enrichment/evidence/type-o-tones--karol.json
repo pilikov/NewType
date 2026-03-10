@@ -1,0 +1,41 @@
+{
+  "record_id": "type-o-tones--karol",
+  "source_url": "https://type-o-tones.com/fonts/karol",
+  "checked_at": "2026-03-09T01:46:56.183587+00:00",
+  "candidates": [
+    {
+      "date": "2011-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/karol",
+      "snippet": "2 Central European License Types Desktop, Webfont, ePub, App, Server Description Karol was designed by Daniel Sabino in 2011 as a project in the MA in Advanced Typography from EINA/UAB, in Barcelona, Spain. It was born a"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/karol",
+      "snippet": "lic, Book, Book Italic, SemiBold, SemiBold Italic, Bold, Bold Italic, Black, Black Italic Author Daniel Sabino Creation 2013 Actual version 2 (2022) Styles 8 Character sets Basic Latin Latin-1 Supplement Latin-2 Central "
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/karol",
+      "snippet": " SemiBold, SemiBold Italic, Bold, Bold Italic, Black, Black Italic Author Daniel Sabino Creation 2013 Actual version 2 (2022) Styles 8 Character sets Basic Latin Latin-1 Supplement Latin-2 Central European License Types "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://type-o-tones.com/fonts/karol",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://type-o-tones.com/fonts/karol",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "fraunces",
+  "source_url": "https://undercase.xyz/fonts/fraunces",
+  "checked_at": "2026-03-09T01:39:37.646649+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://undercase.xyz/fonts/fraunces",
+      "snippet": "with 4 axes: Weight, Softness, Wonk, and Optical Size. Designed by: Phaedra Charles Flavia Zimbardi Released: September 2020 Commissioned by: Google Fonts Styles: Roman & Italic, 4 Axes, 100+ styles. View the Fraunces mi"
+    },
+    {
+      "date": "2020-10-27",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://undercase.xyz/fonts/fraunces",
+      "snippet": "2020-10-27"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://undercase.xyz/fonts/fraunces",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://undercase.xyz/fonts/fraunces",
+    "last_modified": null
+  }
+}

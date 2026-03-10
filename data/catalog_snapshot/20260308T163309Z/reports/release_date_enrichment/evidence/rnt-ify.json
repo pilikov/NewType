@@ -1,0 +1,48 @@
+{
+  "record_id": "rnt-ify",
+  "source_url": "https://studiotype.be/fonts/rnt-ify",
+  "checked_at": "2026-03-09T01:41:06.881027+00:00",
+  "candidates": [
+    {
+      "date": "1991-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://studiotype.be/fonts/rnt-ify",
+      "snippet": "scar Rothe. Wouter van Nes [05/01/1995, Hasselt] is a type & graphic designer based in Ghent. Walter Oscar Rothe [09/08/1991, Waregem] is a type & brand designer based in Antwerp. Both are interested in the position of t"
+    },
+    {
+      "date": "1995-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://studiotype.be/fonts/rnt-ify",
+      "snippet": "dern and retro-futuristic feel. RNT - [Right Now Type] are Wouter van Nes and Walter Oscar Rothe. Wouter van Nes [05/01/1995, Hasselt] is a type & graphic designer based in Ghent. Walter Oscar Rothe [09/08/1991, Waregem]"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://studiotype.be/fonts/rnt-ify",
+      "snippet": "roject receives financial support from stad Antwerpen for the startup and development of this innovation.\n            © 2012–2025 Studio Type. Design by ssnn creative agency . Development by Matthias Deckx . Social Insta"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://studiotype.be/fonts/rnt-ify",
+      "snippet": "t receives financial support from stad Antwerpen for the startup and development of this innovation.\n            © 2012–2025 Studio Type. Design by ssnn creative agency . Development by Matthias Deckx . Social Instagram "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://studiotype.be/fonts/rnt-ify",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://studiotype.be/fonts/rnt-ify",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "vzwo-choreo-stencil",
+  "source_url": "https://viktorzumegen.de/choreo-stencil.html",
+  "checked_at": "2026-03-09T01:52:28.965121+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://viktorzumegen.de/choreo-stencil.html",
+      "snippet": "hnical Information Classification Stencil Styles 5 Styles & 1 Variable Font Glyph Count 623 Glyphs per Style Release 08/2025 Version 1.0 Design Viktor Zumegen Font Production Viktor Zumegen File Formats (static fonts) .o"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://viktorzumegen.de/choreo-stencil.html",
+      "snippet": " WORK Letterings & Logos INFORMATION Licensing Contact About STAY UP TO DATE Instagram Pinterest Fonts In Use Â© 2018â2026 VZWO Type | Viktor Zumegen. All rights reserved. Imprint & Data Privacy Back to top â"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://viktorzumegen.de/choreo-stencil.html",
+      "snippet": "Thu, 08 Jan 2026 16:12:49 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://viktorzumegen.de/choreo-stencil.html",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://viktorzumegen.de/choreo-stencil.html",
+    "last_modified": "Thu, 08 Jan 2026 16:12:49 GMT"
+  }
+}

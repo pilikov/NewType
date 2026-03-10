@@ -1,0 +1,27 @@
+{
+  "record_id": "fraise",
+  "source_url": "https://www.daltonmaag.com/library/fraise",
+  "checked_at": "2026-03-09T01:45:56.673863+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/fraise.html",
+      "snippet": "akes it suitable for a huge range of design and branding applications from body text to display. Designed and developed\n2024 Designers Pablo Bosch Awards Communication Arts Award of Excellence Writing Systems Latin Suppo"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.daltonmaag.com/library/fraise",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.daltonmaag.com/font-library/fraise.html",
+    "last_modified": null
+  }
+}

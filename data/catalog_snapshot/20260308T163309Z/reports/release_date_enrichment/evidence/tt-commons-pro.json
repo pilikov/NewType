@@ -1,0 +1,97 @@
+{
+  "record_id": "tt-commons-pro",
+  "source_url": "https://typetype.org/typefaces/tt-commons-pro",
+  "checked_at": "2026-03-09T02:03:22.841310+00:00",
+  "candidates": [
+    {
+      "date": "2023-03-05",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typetype.org/fonts/tt-commons-pro/",
+      "snippet": "2023-03-05T06:49:19+00:00"
+    },
+    {
+      "date": "2023-03-05",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://typetype.org/fonts/tt-commons-pro/",
+      "snippet": "2023-03-05T06:49:19+00:00"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-commons-pro/",
+      "snippet": "atives Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! Font Update: What’s New in the Latest Version Version"
+    },
+    {
+      "date": "2018-03-06",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-commons-pro/",
+      "snippet": "n the Arabic script. TT Commons™ Pro — the flawless foundation for your font wardrobe! Release and update date Release: March 6, 2018 Last update: November 11, 2025 What's changed in the font: 5 different subfamilies: No"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-commons-pro/",
+      "snippet": " improving it: seven years of painstaking work, redraws, adding new subfamilies, and expanding language support. And in 2025, we took another step forward by adding support for the Arabic script TT Commons™ Pro Size Para"
+    },
+    {
+      "date": "2025-11-11",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-commons-pro/",
+      "snippet": "rif that ranks among the studio's most popular releases. It is adaptable to virtually any design challenge. Update from November 11, 2025 — What’s New? Single style: from $ 47.99 Full family: from $ 659 104 styles Buy fo"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-commons-pro/",
+      "snippet": "s Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! Font Update: What’s New in the Latest Version Version from"
+    },
+    {
+      "date": "2025-12-26",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typetype.org/fonts/tt-commons-pro/",
+      "snippet": "2025-12-26T21:00:03+00:00"
+    },
+    {
+      "date": "2025-12-26",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://typetype.org/fonts/tt-commons-pro/",
+      "snippet": "2025-12-26T21:00:03+00:00"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-commons-pro/",
+      "snippet": "tnum | Tabular Figures c2sc | Capitals to Small Caps zero | Slashed Zero Variable axes The story of TT Commons began in 2017 with our internal need for a versatile font. We had no idea back then that it would resonate so"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://typetype.org/fonts/tt-commons-pro/",
+      "snippet": "Fri, 06 Mar 2026 21:06:07 GMT"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typetype.org/typefaces/tt-commons-pro",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typetype.org/fonts/tt-commons-pro/",
+    "last_modified": "Fri, 06 Mar 2026 21:06:07 GMT"
+  }
+}

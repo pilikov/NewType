@@ -1,0 +1,48 @@
+{
+  "record_id": "zeenesia-studio--millaris",
+  "source_url": "https://zeenesia.com/product/millaris/",
+  "checked_at": "2026-03-09T01:36:23.798970+00:00",
+  "candidates": [
+    {
+      "date": "2024-02-11",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://zeenesia.com/product/millaris/",
+      "snippet": "2024-02-11T01:40:51+00:00"
+    },
+    {
+      "date": "2025-05-25",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://zeenesia.com/product/millaris/",
+      "snippet": "2025-05-25T00:11:47+00:00"
+    },
+    {
+      "date": "2025-05-25",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://zeenesia.com/product/millaris/",
+      "snippet": "2025-05-25T00:11:47+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://zeenesia.com/product/millaris/",
+      "snippet": "Clear Millaris quantity Add to cart Related products $ 16 Selaris $ 16 Caorgen $ 16 Magic Prince $ 16 Karima Copyright ©2025 Zeenesia Studio All Right Reserved Menu Home Shop Serif Fonts Sans Serif Fonts Script Fonts Dis"
+    },
+    {
+      "date": "2026-02-26",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://zeenesia.com/product/millaris/",
+      "snippet": "2026-02-26"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://zeenesia.com/product/millaris/",
+    "last_modified": null
+  }
+}

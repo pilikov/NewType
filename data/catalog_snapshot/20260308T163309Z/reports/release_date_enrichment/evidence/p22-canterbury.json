@@ -1,0 +1,27 @@
+{
+  "record_id": "p22-canterbury",
+  "source_url": "https://p22.com/fonts/canterbury/",
+  "checked_at": "2026-03-09T01:48:35.929404+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/canterbury/",
+      "snippet": "Z À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö Ø Ù Ú Û Ü Ý Þ Ł Œ Š Ÿ Ž Stylistic Set 5 a c e g l m n o p q r s t u y © 2026 The Type Founders, LLC Fonts Designers About Privacy & Cookies Terms of Service Licensing Servi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://p22.com/fonts/canterbury/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://p22.com/fonts/canterbury/",
+    "last_modified": null
+  }
+}

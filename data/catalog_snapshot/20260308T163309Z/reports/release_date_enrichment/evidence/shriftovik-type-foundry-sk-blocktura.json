@@ -1,0 +1,41 @@
+{
+  "record_id": "shriftovik-type-foundry-sk-blocktura",
+  "source_url": "https://shriftovik.com/sk_blocktura",
+  "checked_at": "2026-03-09T01:36:19.391972+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-02",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://shriftovik.com/sk_blocktura",
+      "snippet": "his font. Its unprecedented multilingualism will satisfy any type of tasks and projects. Author;Tikhon Reztcov;\nRelease;02 february 2026;\nVersion;1.0;\nFormats;OTF, TTF, WOFF, WOFF2; SK Blocktura $ 24.99 $ buy Trial Speci"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://shriftovik.com/sk_blocktura",
+      "snippet": "ocessing of personal data and agree to privacy policy . shriftovik xyz@shriftovik.com about catalog portfolio license © 2025 telegram vk youtube behance instagram contacts faq policy cookie? cookie! Оплатить Your name E-"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://shriftovik.com/sk_blocktura",
+      "snippet": "Mon, 02 Feb 2026 10:27:31 GMT"
+    },
+    {
+      "date": "2026-02-27",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://shriftovik.com/sk_blocktura",
+      "snippet": "2026-02-27"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://shriftovik.com/sk_blocktura",
+    "last_modified": "Mon, 02 Feb 2026 10:27:31 GMT"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "record_id": "nice-micro",
+  "source_url": "https://fontwerk.com/fonts/nice-micro",
+  "checked_at": "2026-03-09T01:48:09.704732+00:00",
+  "candidates": [
+    {
+      "date": "2013-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fontwerk.com/en/fonts/nice-micro",
+      "snippet": "men Anja Knust Graphic Design, Imagery Neo Motion Studio Motion Graphics Lucy Beckley English Translation Design Period 2013–2022 Release History March 29, 2022 Awards 2023 Communication Arts Award of Excellence Recommen"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fontwerk.com/en/fonts/nice-micro",
+      "snippet": "nja Knust Graphic Design, Imagery Neo Motion Studio Motion Graphics Lucy Beckley English Translation Design Period 2013–2022 Release History March 29, 2022 Awards 2023 Communication Arts Award of Excellence Recommended U"
+    },
+    {
+      "date": "2022-03-29",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fontwerk.com/en/fonts/nice-micro",
+      "snippet": "ign, Imagery Neo Motion Studio Motion Graphics Lucy Beckley English Translation Design Period 2013–2022 Release History March 29, 2022 Awards 2023 Communication Arts Award of Excellence Recommended Use Technology, Licens"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fontwerk.com/en/fonts/nice-micro",
+      "snippet": "n Studio Motion Graphics Lucy Beckley English Translation Design Period 2013–2022 Release History March 29, 2022 Awards 2023 Communication Arts Award of Excellence Recommended Use Technology, Licenses & Trademarks Format"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fontwerk.com/en/fonts/nice-micro",
+      "snippet": "act Students Free Trials Newsletter Licensing Privacy Policy Terms of Use Instagram LinkedIn Mastodon RSS RSS (Fonts) © 2026 Fontwerk GmbH"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fontwerk.com/fonts/nice-micro",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fontwerk.com/en/fonts/nice-micro",
+    "last_modified": null
+  }
+}

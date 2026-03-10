@@ -1,0 +1,27 @@
+{
+  "record_id": "jovie",
+  "source_url": "https://www.daltonmaag.com/library/jovie",
+  "checked_at": "2026-03-09T01:51:04.827890+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/jovie.html",
+      "snippet": "ye-catching Glow style, Jovie shines in text and display settings, offering warmth and elegance. Designed and developed\n2024 Designers Franziska Hubmann Writing Systems Latin Supporting over 790\nLanguages Aari (Latin Scr"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.daltonmaag.com/library/jovie",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.daltonmaag.com/font-library/jovie.html",
+    "last_modified": null
+  }
+}

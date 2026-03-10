@@ -1,0 +1,469 @@
+{
+  "generated_at": "2026-03-09T12:21:03.985740+00:00",
+  "source_id": "type_today",
+  "total_releases": 272,
+  "baseline_count": 272,
+  "new_release_count": 0,
+  "removed_release_count": 0,
+  "changed_release_count": 93,
+  "new_release_examples": [],
+  "removed_release_examples": [],
+  "changed_release_examples": [
+    {
+      "release_id": "0106b799ebc337e4",
+      "before": {
+        "slug": "canela_text",
+        "name": "Canela Text",
+        "source_url": "https://type.today/ru/canela_text",
+        "fingerprint": "09d0ebecdc0882a6af79ff8f"
+      },
+      "after": {
+        "slug": "canela_text",
+        "name": "Canela Text",
+        "source_url": "https://type.today/ru/canela_text",
+        "fingerprint": "39e210a135ef27936c0539b8"
+      }
+    },
+    {
+      "release_id": "0146894e893be56a",
+      "before": {
+        "slug": "gik",
+        "name": "Gik",
+        "source_url": "https://type.today/ru/gik",
+        "fingerprint": "ac85ce555e2509bd73fd8a26"
+      },
+      "after": {
+        "slug": "gik",
+        "name": "Gik",
+        "source_url": "https://type.today/ru/gik",
+        "fingerprint": "de21ccc4aade7baac941776a"
+      }
+    },
+    {
+      "release_id": "01f79ee71a58c213",
+      "before": {
+        "slug": "bering_stencil",
+        "name": "Bering Stencil",
+        "source_url": "https://type.today/ru/bering_stencil",
+        "fingerprint": "af0321077a6dee5af6303cbb"
+      },
+      "after": {
+        "slug": "bering_stencil",
+        "name": "Bering Stencil",
+        "source_url": "https://type.today/ru/bering_stencil",
+        "fingerprint": "7181a9c7f4fcb388901b33fd"
+      }
+    },
+    {
+      "release_id": "0582a617ebf198ce",
+      "before": {
+        "slug": "normalidad_variable",
+        "name": "Normalidad Variable",
+        "source_url": "https://type.today/ru/normalidad_variable",
+        "fingerprint": "143d0407afdd231d31f13264"
+      },
+      "after": {
+        "slug": "normalidad_variable",
+        "name": "Normalidad Variable",
+        "source_url": "https://type.today/ru/normalidad_variable",
+        "fingerprint": "1f9263102ee3378ecbe81b63"
+      }
+    },
+    {
+      "release_id": "08581d75462d6444",
+      "before": {
+        "slug": "roslindale_deck",
+        "name": "Roslindale Deck Narrow",
+        "source_url": "https://type.today/ru/roslindale_deck",
+        "fingerprint": "7aa64873d740b190fe829b03"
+      },
+      "after": {
+        "slug": "roslindale_deck",
+        "name": "Roslindale Deck Narrow",
+        "source_url": "https://type.today/ru/roslindale_deck",
+        "fingerprint": "4e2466a013e3333ae3e5c18f"
+      }
+    },
+    {
+      "release_id": "09e76ee7c3087857",
+      "before": {
+        "slug": "yuni_grotesque",
+        "name": "Yuni Grotesque",
+        "source_url": "https://type.today/ru/yuni_grotesque",
+        "fingerprint": "35de5c46a6a2cda74cdffc4f"
+      },
+      "after": {
+        "slug": "yuni_grotesque",
+        "name": "Yuni Grotesque",
+        "source_url": "https://type.today/ru/yuni_grotesque",
+        "fingerprint": "4ed93a81d8a64e400cfc2266"
+      }
+    },
+    {
+      "release_id": "0d231ccfb555696f",
+      "before": {
+        "slug": "graphik_geo",
+        "name": "Graphik Georgian",
+        "source_url": "https://type.today/ru/graphik_geo",
+        "fingerprint": "2fdf7455dd2f765eb4a79b2b"
+      },
+      "after": {
+        "slug": "graphik_geo",
+        "name": "Graphik Georgian",
+        "source_url": "https://type.today/ru/graphik_geo",
+        "fingerprint": "3e1a9384330500c7eb9182da"
+      }
+    },
+    {
+      "release_id": "0e620d621e7cd907",
+      "before": {
+        "slug": "elma_mono",
+        "name": "Elma Mono",
+        "source_url": "https://type.today/ru/elma_mono",
+        "fingerprint": "7eb7df537ad1055234aa4de7"
+      },
+      "after": {
+        "slug": "elma_mono",
+        "name": "Elma Mono",
+        "source_url": "https://type.today/ru/elma_mono",
+        "fingerprint": "1bb2b8fd21a898fe83900341"
+      }
+    },
+    {
+      "release_id": "0ffc3c674be58b5b",
+      "before": {
+        "slug": "trola",
+        "name": "Trola",
+        "source_url": "https://type.today/ru/trola",
+        "fingerprint": "69d5bdf57ac47e10d3c9b5ab"
+      },
+      "after": {
+        "slug": "trola",
+        "name": "Trola",
+        "source_url": "https://type.today/ru/trola",
+        "fingerprint": "32c843e1ffd499b039d7311d"
+      }
+    },
+    {
+      "release_id": "1235aba4b1f00650",
+      "before": {
+        "slug": "feature_text",
+        "name": "Feature Text",
+        "source_url": "https://type.today/ru/feature_text",
+        "fingerprint": "55edbf161b6b012ff6bacdfa"
+      },
+      "after": {
+        "slug": "feature_text",
+        "name": "Feature Text",
+        "source_url": "https://type.today/ru/feature_text",
+        "fingerprint": "8a29a106ed9c63ce21df70a8"
+      }
+    },
+    {
+      "release_id": "15a25707f96c62d6",
+      "before": {
+        "slug": "apoc",
+        "name": "Apoc",
+        "source_url": "https://type.today/ru/apoc",
+        "fingerprint": "a8a6e4f6437a7057ae3fd604"
+      },
+      "after": {
+        "slug": "apoc",
+        "name": "Apoc",
+        "source_url": "https://type.today/ru/apoc",
+        "fingerprint": "1f6b2a5acc229213da37c2d3"
+      }
+    },
+    {
+      "release_id": "16b50be86182d1c4",
+      "before": {
+        "slug": "feature_display",
+        "name": "Feature Display",
+        "source_url": "https://type.today/ru/feature_display",
+        "fingerprint": "8d8e2505be695e00bebdd81c"
+      },
+      "after": {
+        "slug": "feature_display",
+        "name": "Feature Display",
+        "source_url": "https://type.today/ru/feature_display",
+        "fingerprint": "f728fa9ff426101c3d0c6fd6"
+      }
+    },
+    {
+      "release_id": "1901f0a55b820427",
+      "before": {
+        "slug": "gratimo_classic",
+        "name": "Gratimo Classic",
+        "source_url": "https://type.today/ru/gratimo_classic",
+        "fingerprint": "ae787f18795e2ff9190b8bc1"
+      },
+      "after": {
+        "slug": "gratimo_classic",
+        "name": "Gratimo Classic",
+        "source_url": "https://type.today/ru/gratimo_classic",
+        "fingerprint": "73f4507248241187bbdcac1f"
+      }
+    },
+    {
+      "release_id": "19b2372060d02b89",
+      "before": {
+        "slug": "feature_deck",
+        "name": "Feature Deck",
+        "source_url": "https://type.today/ru/feature_deck",
+        "fingerprint": "449e1d9b724465069c00b4cf"
+      },
+      "after": {
+        "slug": "feature_deck",
+        "name": "Feature Deck",
+        "source_url": "https://type.today/ru/feature_deck",
+        "fingerprint": "9aac9acb932fe206960d56c9"
+      }
+    },
+    {
+      "release_id": "1eb4621a11b341b0",
+      "before": {
+        "slug": "lurk_a",
+        "name": "Lurk A",
+        "source_url": "https://type.today/ru/lurk_a",
+        "fingerprint": "3cdc202ac297567b62546643"
+      },
+      "after": {
+        "slug": "lurk_a",
+        "name": "Lurk A",
+        "source_url": "https://type.today/ru/lurk_a",
+        "fingerprint": "64666dff1ba5dde36058a695"
+      }
+    },
+    {
+      "release_id": "1f3f890054a26ca4",
+      "before": {
+        "slug": "graphik_condensed",
+        "name": "Graphik Condensed",
+        "source_url": "https://type.today/ru/graphik_condensed",
+        "fingerprint": "62d4976efe76323866a9b39d"
+      },
+      "after": {
+        "slug": "graphik_condensed",
+        "name": "Graphik Condensed",
+        "source_url": "https://type.today/ru/graphik_condensed",
+        "fingerprint": "12765936ade801c19c682437"
+      }
+    },
+    {
+      "release_id": "1fdd1e3abbb01676",
+      "before": {
+        "slug": "spektra",
+        "name": "Spektra",
+        "source_url": "https://type.today/ru/spektra",
+        "fingerprint": "3948608ca7a8d9c1e8e1b970"
+      },
+      "after": {
+        "slug": "spektra",
+        "name": "Spektra",
+        "source_url": "https://type.today/ru/spektra",
+        "fingerprint": "3ce06dfea9667f3e528995df"
+      }
+    },
+    {
+      "release_id": "2222692148f6ae59",
+      "before": {
+        "slug": "oceanic_gothic",
+        "name": "Oceanic Gothic",
+        "source_url": "https://type.today/ru/oceanic_gothic",
+        "fingerprint": "168d6ba5f8344d0a655a7023"
+      },
+      "after": {
+        "slug": "oceanic_gothic",
+        "name": "Oceanic Gothic",
+        "source_url": "https://type.today/ru/oceanic_gothic",
+        "fingerprint": "a040a9b5d61f04f84611133d"
+      }
+    },
+    {
+      "release_id": "2261ed4cfb21f992",
+      "before": {
+        "slug": "stratos_cyrillic",
+        "name": "Stratos",
+        "source_url": "https://type.today/ru/stratos_cyrillic",
+        "fingerprint": "14bfc05c6b974c5d1efad593"
+      },
+      "after": {
+        "slug": "stratos_cyrillic",
+        "name": "Stratos",
+        "source_url": "https://type.today/ru/stratos_cyrillic",
+        "fingerprint": "acd047a3203874ad4e4f443a"
+      }
+    },
+    {
+      "release_id": "2596a25103396537",
+      "before": {
+        "slug": "oceanic_grotesk",
+        "name": "Oceanic Grotesk",
+        "source_url": "https://type.today/ru/oceanic_grotesk",
+        "fingerprint": "86abe548689a64caab104d47"
+      },
+      "after": {
+        "slug": "oceanic_grotesk",
+        "name": "Oceanic Grotesk",
+        "source_url": "https://type.today/ru/oceanic_grotesk",
+        "fingerprint": "d7fd9b6f4a34e4fd1a597e5f"
+      }
+    },
+    {
+      "release_id": "274074b0d7592d18",
+      "before": {
+        "slug": "canela_condensed",
+        "name": "Canela Condensed",
+        "source_url": "https://type.today/ru/canela_condensed",
+        "fingerprint": "74d8fe72ecc9fbfd3ca20678"
+      },
+      "after": {
+        "slug": "canela_condensed",
+        "name": "Canela Condensed",
+        "source_url": "https://type.today/ru/canela_condensed",
+        "fingerprint": "6461130979e72800a5a3aee2"
+      }
+    },
+    {
+      "release_id": "2bec0bcdf7524fc2",
+      "before": {
+        "slug": "factor_a",
+        "name": "Factor A",
+        "source_url": "https://type.today/ru/factor_a",
+        "fingerprint": "dff5720276db28652a67cce3"
+      },
+      "after": {
+        "slug": "factor_a",
+        "name": "Factor A",
+        "source_url": "https://type.today/ru/factor_a",
+        "fingerprint": "0a75e25b5f8d7a0bab6b0e98"
+      }
+    },
+    {
+      "release_id": "2ec78df561c1cf7f",
+      "before": {
+        "slug": "oceanic_text_mono",
+        "name": "Oceanic Text Mono",
+        "source_url": "https://type.today/ru/oceanic_text_mono",
+        "fingerprint": "c9978edb1b4cb9ca0d67a054"
+      },
+      "after": {
+        "slug": "oceanic_text_mono",
+        "name": "Oceanic Text Mono",
+        "source_url": "https://type.today/ru/oceanic_text_mono",
+        "fingerprint": "186f0a74ca769bcea809a0bb"
+      }
+    },
+    {
+      "release_id": "31b48ed5eb70753e",
+      "before": {
+        "slug": "roslindale_display",
+        "name": "Roslindale Display Condensed",
+        "source_url": "https://type.today/ru/roslindale_display",
+        "fingerprint": "4ef7946a64463dbea40712f2"
+      },
+      "after": {
+        "slug": "roslindale_display",
+        "name": "Roslindale Display Condensed",
+        "source_url": "https://type.today/ru/roslindale_display",
+        "fingerprint": "eb053ce85b3e321ceec8812f"
+      }
+    },
+    {
+      "release_id": "32de940a6c5fd884",
+      "before": {
+        "slug": "Graphik",
+        "name": "Graphik",
+        "source_url": "https://type.today/ru/Graphik",
+        "fingerprint": "57da7e48d50506a5b5688f3b"
+      },
+      "after": {
+        "slug": "Graphik",
+        "name": "Graphik",
+        "source_url": "https://type.today/ru/Graphik",
+        "fingerprint": "6c1f1e9dd366395126f01732"
+      }
+    },
+    {
+      "release_id": "33718c23fe5acaf7",
+      "before": {
+        "slug": "halvar_breitschrift",
+        "name": "Halvar Breitschrift",
+        "source_url": "https://type.today/ru/halvar_breitschrift",
+        "fingerprint": "e715ff8ce9292be253ec66d0"
+      },
+      "after": {
+        "slug": "halvar_breitschrift",
+        "name": "Halvar Breitschrift",
+        "source_url": "https://type.today/ru/halvar_breitschrift",
+        "fingerprint": "6b0ce729ac636ddf01dde570"
+      }
+    },
+    {
+      "release_id": "33cc8dcee8b9c90d",
+      "before": {
+        "slug": "grato_classic",
+        "name": "Grato Classic",
+        "source_url": "https://type.today/ru/grato_classic",
+        "fingerprint": "a1810d26fa5ab2d56e2967d4"
+      },
+      "after": {
+        "slug": "grato_classic",
+        "name": "Grato Classic",
+        "source_url": "https://type.today/ru/grato_classic",
+        "fingerprint": "64a7d3893d8255d9a94566f9"
+      }
+    },
+    {
+      "release_id": "3c237e3089944f54",
+      "before": {
+        "slug": "protogrotesk",
+        "name": "Proto Grotesk",
+        "source_url": "https://type.today/ru/protogrotesk",
+        "fingerprint": "0892962df97d2aca111a6099"
+      },
+      "after": {
+        "slug": "protogrotesk",
+        "name": "Proto Grotesk",
+        "source_url": "https://type.today/ru/protogrotesk",
+        "fingerprint": "393d00ef1c62bd905f337319"
+      }
+    },
+    {
+      "release_id": "3d8a31c75e0bbb16",
+      "before": {
+        "slug": "roslindale_variable",
+        "name": "Roslindale Variable",
+        "source_url": "https://type.today/ru/roslindale_variable",
+        "fingerprint": "902558b3f5a014a41b989db7"
+      },
+      "after": {
+        "slug": "roslindale_variable",
+        "name": "Roslindale Variable",
+        "source_url": "https://type.today/ru/roslindale_variable",
+        "fingerprint": "4efc8731838c219f0fe9737f"
+      }
+    },
+    {
+      "release_id": "3f75ffead03621a0",
+      "before": {
+        "slug": "lyon_text",
+        "name": "Lyon Text",
+        "source_url": "https://type.today/ru/lyon_text",
+        "fingerprint": "3858bef8fd923fcf959c2cc7"
+      },
+      "after": {
+        "slug": "lyon_text",
+        "name": "Lyon Text",
+        "source_url": "https://type.today/ru/lyon_text",
+        "fingerprint": "5046917209734d7c52836e43"
+      }
+    }
+  ],
+  "monitoring_plan": [
+    "Run source=type_today daily and inspect new_release_count/changed_release_count in this report.",
+    "Alert when new_release_count > 0 or changed_release_count > 0.",
+    "Store latest monitor snapshot in state to diff against previous run.",
+    "Use fields[fonts]=slug,title,new_badge,year lightweight probe for frequent checks if needed."
+  ]
+}

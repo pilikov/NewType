@@ -1,0 +1,55 @@
+{
+  "record_id": "caporal",
+  "source_url": "https://www.205.tf/caporal",
+  "checked_at": "2026-03-09T01:42:38.004508+00:00",
+  "candidates": [
+    {
+      "date": "2010-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/caporal",
+      "snippet": "be to our newsletter: ▶︎ Follow Us Facebook Instagram LinkedIn Bluesky Typeface Caporal Designer Damien Gautier Release 2010 Fonts In Use Specimen This stencil type typeface stands out for its geometrical structure and i"
+    },
+    {
+      "date": "2004-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/caporal",
+      "snippet": "ve particulièrement redoutable, n’est que rarement programmé. On peut toutefois évoquer l'ascension de l'Alpe d'Huez en 2004, ou celle du Ventoux en 1987. L'ère Prudhomme verra cette épreuve plus fréquemment, avec une ét"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/caporal",
+      "snippet": "L'ère Prudhomme verra cette épreuve plus fréquemment, avec une étape en « montagnes russes » entre Embrun et Chorges en 2013, un CLM en montée entre Sallanches et Megève en 2016, et l'ascension de la Planche des Belles F"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/caporal",
+      "snippet": " avec une étape en « montagnes russes » entre Embrun et Chorges en 2013, un CLM en montée entre Sallanches et Megève en 2016, et l'ascension de la Planche des Belles Filles en 2020. La Grande Boucle est une compétition c"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/caporal",
+      "snippet": "Chorges en 2013, un CLM en montée entre Sallanches et Megève en 2016, et l'ascension de la Planche des Belles Filles en 2020. La Grande Boucle est une compétition cycliste par étapes qui a lieu principalement en France c"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.205.tf/caporal",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.205.tf/caporal",
+    "last_modified": null
+  }
+}

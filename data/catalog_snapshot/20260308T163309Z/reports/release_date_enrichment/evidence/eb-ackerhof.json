@@ -1,0 +1,19 @@
+{
+  "record_id": "eb-ackerhof",
+  "source_url": "https://electrobibliotheque.org/eb-ackerhof",
+  "checked_at": "2026-03-09T01:58:53.329178+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://electrobibliotheque.org/eb-ackerhof",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='electrobibliotheque.org', port=443): Max retries exceeded with url: /eb-ackerhof (Caused by SSLError(CertificateError(\"hostname 'electrobibliotheque.org' doesn't match either of 'preview.infomaniak.website', '*.infomaniak.site', '*.preview.infomaniak.website'\")))"
+  }
+}

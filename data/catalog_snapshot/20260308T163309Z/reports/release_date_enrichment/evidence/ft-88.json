@@ -1,0 +1,34 @@
+{
+  "record_id": "ft-88",
+  "source_url": "https://u270d.eesab.fr/projets/ft-88/",
+  "checked_at": "2026-03-09T01:46:02.479836+00:00",
+  "candidates": [
+    {
+      "date": "1993-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://u270d.eesab.fr/projets/ft-88/",
+      "snippet": "e de l’écriture mono-chasse ». Mais le Minitel se heurte à ses limites techniques, et l’apparition de World Wide Web en 1993 freine son développement. Le projet typographique pensé par Ange Degheest ne verra pas le jour."
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://u270d.eesab.fr/projets/ft-88/",
+      "snippet": "U+270D | FT-88 FT-88 2020 Oriane Charvieux Mandy Elbé Les caractères FT-88 ont créés dans le cadre du projet Reviving Ange Degheest. A sa créatio"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://u270d.eesab.fr/projets/ft-88/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://u270d.eesab.fr/projets/ft-88/",
+    "last_modified": null
+  }
+}

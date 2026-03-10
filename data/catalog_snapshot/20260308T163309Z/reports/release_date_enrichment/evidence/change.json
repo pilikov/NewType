@@ -1,0 +1,41 @@
+{
+  "record_id": "change",
+  "source_url": "https://capitalics.wtf/font/change",
+  "checked_at": "2026-03-09T01:57:57.415866+00:00",
+  "candidates": [
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://capitalics.wtf/en/font/change",
+      "snippet": "unt Dashboard . About Change is a typeface family designed as a part of Mateusz Machalski's PhD project, carried out in 2015-2021. The main goal was to create a typeface allowing for the typesetting of complex humanistic"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://capitalics.wtf/en/font/change",
+      "snippet": "alności предвождани Οικουμενική Διακήρυξη Phiên họp thứ ba của RYSZARD KAPUŚCIŃSKI Περιφέρεια Κεντρικής Снежная Пантера 2020 Style Font Size Tracking styles Regular Regular Italic Medium Medium Italic SemiBold SemiBold I"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://capitalics.wtf/en/font/change",
+      "snippet": "ashboard . About Change is a typeface family designed as a part of Mateusz Machalski's PhD project, carried out in 2015-2021. The main goal was to create a typeface allowing for the typesetting of complex humanistic text"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://capitalics.wtf/font/change",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://capitalics.wtf/en/font/change",
+    "last_modified": null
+  }
+}

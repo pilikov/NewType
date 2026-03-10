@@ -1,0 +1,55 @@
+{
+  "record_id": "bay-sans",
+  "source_url": "https://blast-foundry.com/typefaces/bay-sans",
+  "checked_at": "2026-03-09T02:01:58.836825+00:00",
+  "candidates": [
+    {
+      "date": "2024-04-17",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://blast-foundry.com/typefaces/bay-sans",
+      "snippet": "2024-04-17"
+    },
+    {
+      "date": "1999-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://blast-foundry.com/typefaces/bay-sans",
+      "snippet": "shaped underwater rock formation. Mavericks is a winter destination for some of the world’s best big wave surfers. From 1999 to 2016, an invitation-only contest called the Titans of Mavericks was held there during most w"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://blast-foundry.com/typefaces/bay-sans",
+      "snippet": "nderwater rock formation. Mavericks is a winter destination for some of the world’s best big wave surfers. From 1999 to 2016, an invitation-only contest called the Titans of Mavericks was held there during most winter su"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://blast-foundry.com/typefaces/bay-sans",
+      "snippet": "in Specimen Free Trials Buy Cart 0 Typefaces About Services Licenses Sign in Bay Sans ▶ Designed by Barbara Bigosińska, 2022 ◀ Versatile sans in 9 weights + italics with alternates variable swash Bay Sans • wght: [100–90"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://blast-foundry.com/typefaces/bay-sans",
+      "snippet": "o: NL002489662B18 Need something? Get in touch at licensing@blast-foundry.com FutureFonts Instagram Twitter Copyright © 2026 Blast Foundry. All rights reserved. We use cookies to provide you with the best possible experi"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://blast-foundry.com/typefaces/bay-sans",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://blast-foundry.com/typefaces/bay-sans",
+    "last_modified": null
+  }
+}

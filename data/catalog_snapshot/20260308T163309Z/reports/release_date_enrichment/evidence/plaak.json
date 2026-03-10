@@ -1,0 +1,34 @@
+{
+  "record_id": "plaak",
+  "source_url": "https://www.205.tf/plaak",
+  "checked_at": "2026-03-09T01:46:57.894547+00:00",
+  "candidates": [
+    {
+      "date": "2014-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/plaak",
+      "snippet": "ribe to our newsletter: ▶︎ Follow Us Facebook Instagram LinkedIn Bluesky Typeface Plaak Designer Damien Gautier Release 2014 Fonts In Use Article Specimen This typeface takes its inspiration from the characters that one "
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/plaak",
+      "snippet": "ignage, visual identity. An enhanced version of lowercase letters is currently being studied. Its launch is planned for 2018. With the efficient and precious help of Roxane Gataud. 24 Style s Serie 1 Sathonay Serie 2 Gri"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.205.tf/plaak",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.205.tf/plaak",
+    "last_modified": null
+  }
+}

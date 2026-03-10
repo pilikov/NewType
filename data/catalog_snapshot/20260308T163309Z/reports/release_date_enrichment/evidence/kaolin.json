@@ -1,0 +1,41 @@
+{
+  "record_id": "kaolin",
+  "source_url": "https://skrr-type.com/kaolin",
+  "checked_at": "2026-03-09T01:52:07.749242+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://skrr-type.com/kaolin",
+      "snippet": "e Challeton Website Instagram 5 Styles Language support for the Western European Latin, Basic Latin Published in August 2022 Updated February 2025 Kaolin is a groovy and friendly font. Created from a sketch in the corner"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://skrr-type.com/kaolin",
+      "snippet": "stagram 5 Styles Language support for the Western European Latin, Basic Latin Published in August 2022 Updated February 2025 Kaolin is a groovy and friendly font. Created from a sketch in the corner of a notebook and ins"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://skrr-type.com/kaolin",
+      "snippet": "Sun, 29 Jun 2025 09:45:10 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://skrr-type.com/kaolin",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://skrr-type.com/kaolin",
+    "last_modified": "Sun, 29 Jun 2025 09:45:10 GMT"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "monospaceland",
+  "source_url": "https://minttype.com/monospaceland",
+  "checked_at": "2026-03-09T01:49:37.363575+00:00",
+  "candidates": [
+    {
+      "date": "2020-06-12",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://minttype.com/monospaceland",
+      "snippet": " two-axis variable font to allow setting arbitrary weight and slant angle. Designed by Oleh Lishchuk First published on Jun 12, 2020 21 styles 3 free styles €134.10 Add to Cart Buying options Font names Pangrams: Basic L"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://minttype.com/monospaceland",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://minttype.com/monospaceland",
+    "last_modified": null
+  }
+}

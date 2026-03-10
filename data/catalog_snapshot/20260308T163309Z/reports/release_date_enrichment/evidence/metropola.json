@@ -1,0 +1,19 @@
+{
+  "record_id": "metropola",
+  "source_url": "https://tourdefonts.com/?product=metropola",
+  "checked_at": "2026-03-09T01:48:29.236577+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://tourdefonts.com/?product=metropola",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='tourdefonts.com', port=443): Read timed out. (read timeout=12)"
+  }
+}

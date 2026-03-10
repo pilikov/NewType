@@ -1,0 +1,41 @@
+{
+  "record_id": "gayot-new",
+  "source_url": "https://foundry.bigfog.co/typefaces/gayot-new",
+  "checked_at": "2026-03-09T01:49:41.792563+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://foundry.bigfog.co/typefaces/gayot-new",
+      "snippet": ", short headlines, names on the back of football jerseys or budget space travel vessels. Information RELEASED: NOVEMBER 2022 (V1.0), April 2025 (V2.0) DESIGN & PRODUCTION :Â BRIAN DOVE VERSION: 2.0 â³Â Design Notes Supp"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://foundry.bigfog.co/typefaces/gayot-new",
+      "snippet": "names on the back of football jerseys or budget space travel vessels. Information RELEASED: NOVEMBER 2022 (V1.0), April 2025 (V2.0) DESIGN & PRODUCTION :Â BRIAN DOVE VERSION: 2.0 â³Â Design Notes Supported Languages Ach"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://foundry.bigfog.co/typefaces/gayot-new",
+      "snippet": "Thu, 19 Feb 2026 20:00:39 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://foundry.bigfog.co/typefaces/gayot-new",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://foundry.bigfog.co/typefaces/gayot-new",
+    "last_modified": "Thu, 19 Feb 2026 20:00:39 GMT"
+  }
+}

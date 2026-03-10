@@ -1,0 +1,27 @@
+{
+  "record_id": "raptor-v1",
+  "source_url": "http://superiortype.com/fonts/raptor-v1",
+  "checked_at": "2026-03-09T01:59:46.440030+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://superiortype.com/fonts/raptor-v1",
+      "snippet": "aptor V1 ExtraBold Italic Raptor V1 Black Raptor V1 Black Italic Languages (351) Show Languages Superior Type Â© 2013â2026. All rights reserved Support Contact Instagram"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://superiortype.com/fonts/raptor-v1",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://superiortype.com/fonts/raptor-v1",
+    "last_modified": null
+  }
+}

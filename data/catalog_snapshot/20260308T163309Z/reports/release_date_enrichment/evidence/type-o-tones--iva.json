@@ -1,0 +1,41 @@
+{
+  "record_id": "type-o-tones--iva",
+  "source_url": "https://type-o-tones.com/fonts/iva",
+  "checked_at": "2026-03-09T01:49:43.897706+00:00",
+  "candidates": [
+    {
+      "date": "1994-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/iva",
+      "snippet": "Basic Latin Latin-1 Supplement License Types Desktop, Webfont, ePub, App, Server Description This family was created in 1994 for the credit titles of a film, and is in fact the handwriting of Ramon Tosas, Ivà, the late c"
+    },
+    {
+      "date": "1995-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/iva",
+      "snippet": "au Ivà: Special Buying options Ivà Family Pack 2 Fonts 70 € 56 € Add to cart Regular, Heavy Author Joan Barjau Creation 1995 Actual version 2 (2007) Styles 2 Character sets Basic Latin Latin-1 Supplement License Types De"
+    },
+    {
+      "date": "2007-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/iva",
+      "snippet": "options Ivà Family Pack 2 Fonts 70 € 56 € Add to cart Regular, Heavy Author Joan Barjau Creation 1995 Actual version 2 (2007) Styles 2 Character sets Basic Latin Latin-1 Supplement License Types Desktop, Webfont, ePub, A"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://type-o-tones.com/fonts/iva",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://type-o-tones.com/fonts/iva",
+    "last_modified": null
+  }
+}

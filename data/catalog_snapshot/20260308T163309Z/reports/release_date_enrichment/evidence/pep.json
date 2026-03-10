@@ -1,0 +1,34 @@
+{
+  "record_id": "pep",
+  "source_url": "https://fontclubbelgica.com/typefaces/pep",
+  "checked_at": "2026-03-09T01:41:50.960681+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fontclubbelgica.com/typefaces/pep/",
+      "snippet": "hat explores the limits of the childs game “ABC Con Fantasia” by Bruno Munari. Designer: Dries Wiewauters Release Date: 2019 Opentype features Double storey a ss01 Anagrammatical → Anagrammatical Single storey a ss02 Abr"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://fontclubbelgica.com/typefaces/pep/",
+      "snippet": "Fri, 30 Jan 2026 14:30:52 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fontclubbelgica.com/typefaces/pep",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fontclubbelgica.com/typefaces/pep/",
+    "last_modified": "Fri, 30 Jan 2026 14:30:52 GMT"
+  }
+}

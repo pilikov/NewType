@@ -1,0 +1,55 @@
+{
+  "record_id": "canon-grotesque",
+  "source_url": "https://veeratchanon.com/",
+  "checked_at": "2026-03-09T01:40:32.253217+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://veeratchanon.com/",
+      "snippet": "atchanon Boongsrithong | Selected Works Ratchanon Boongsrithong About Contact Sahn Type Design 2025 Saunter Type Design 2024 Canon Grotesque Available on FutureFonts Type Design 2024–2025 (WIP) Potential Worlds Lettering"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://veeratchanon.com/",
+      "snippet": "Ratchanon Boongsrithong | Selected Works Ratchanon Boongsrithong About Contact Sahn Type Design 2025 Saunter Type Design 2024 Canon Grotesque Available on FutureFonts Type Design 2024–2025 (WIP) Potential Worlds Letterin"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://veeratchanon.com/",
+      "snippet": "esign, Logotype 2024 Conforma Type Design (WIP) Miller Old Style No.4 (Type Revival) Type Design 2024 Bar Iris Logotype 2022 Viscera Type Design 2024 String Calligraphy /in collaboration with Rebekka Hausmann , and Lucas"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://veeratchanon.com/",
+      "snippet": "022 Viscera Type Design 2024 String Calligraphy /in collaboration with Rebekka Hausmann , and Lucas Portron Type Design 2023–2024 Refuge Type Design 2024 Copyright Ratchanon Boongsrithong, 2026, All Rights Reserved."
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://veeratchanon.com/",
+      "snippet": "h Rebekka Hausmann , and Lucas Portron Type Design 2023–2024 Refuge Type Design 2024 Copyright Ratchanon Boongsrithong, 2026, All Rights Reserved."
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://veeratchanon.com/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://veeratchanon.com/",
+    "last_modified": null
+  }
+}

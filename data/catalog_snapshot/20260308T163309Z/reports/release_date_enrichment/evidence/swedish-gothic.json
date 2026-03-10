@@ -1,0 +1,34 @@
+{
+  "record_id": "swedish-gothic",
+  "source_url": "https://lettersfromsweden.se/font/swedish-gothic",
+  "checked_at": "2026-03-09T01:51:50.580854+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://lettersfromsweden.se/font/swedish-gothic/",
+      "snippet": "dverse conditions. Swedish Gothic was first introduced in Malmsten Hellberg’s redesign of Tidskriften Arkitektur . Year 2019 Designed by Göran Söderström Script(s) latin Specimen Download Swedish Gothic PDF Swedish Gothi"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://lettersfromsweden.se/font/swedish-gothic/",
+      "snippet": "Mon, 09 Mar 2026 01:51:51 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://lettersfromsweden.se/font/swedish-gothic",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://lettersfromsweden.se/font/swedish-gothic/",
+    "last_modified": "Mon, 09 Mar 2026 01:51:51 GMT"
+  }
+}

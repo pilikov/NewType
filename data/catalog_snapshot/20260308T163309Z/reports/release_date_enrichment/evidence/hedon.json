@@ -1,0 +1,19 @@
+{
+  "record_id": "hedon",
+  "source_url": "https://tourdefonts.com/?product=hedon",
+  "checked_at": "2026-03-09T02:02:57.363356+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://tourdefonts.com/?product=hedon",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='tourdefonts.com', port=443): Read timed out. (read timeout=12)"
+  }
+}

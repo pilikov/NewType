@@ -1,0 +1,20 @@
+{
+  "record_id": "pimpit",
+  "source_url": "https://www.bb-bureau.fr/pimpit",
+  "checked_at": "2026-03-09T01:48:37.605704+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.bb-bureau.fr/pimpit",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.bb-bureau.fr/pimpit",
+    "last_modified": null
+  }
+}

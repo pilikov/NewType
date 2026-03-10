@@ -1,0 +1,41 @@
+{
+  "record_id": "tenso",
+  "source_url": "https://www.exljbris.com/tenso.html",
+  "checked_at": "2026-03-09T02:02:33.523993+00:00",
+  "candidates": [
+    {
+      "date": "2008-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.exljbris.com/tenso.html",
+      "snippet": "ough: â¢ Fontspring (prefered reseller) â¢ MyFonts â¢ FontShop App Licenses can be purchased through : Fontspring Â© 2008-2021, exljbris Font Foundry | EULA | Extended licensing | contact"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.exljbris.com/tenso.html",
+      "snippet": " â¢ Fontspring (prefered reseller) â¢ MyFonts â¢ FontShop App Licenses can be purchased through : Fontspring Â© 2008-2021, exljbris Font Foundry | EULA | Extended licensing | contact"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.exljbris.com/tenso.html",
+      "snippet": "Mon, 28 Jun 2021 12:49:58 GMT"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.exljbris.com/tenso.html",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.exljbris.com/tenso.html",
+    "last_modified": "Mon, 28 Jun 2021 12:49:58 GMT"
+  }
+}

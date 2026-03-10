@@ -1,0 +1,34 @@
+{
+  "record_id": "le-beaune",
+  "source_url": "https://www.205.tf/le-beaune",
+  "checked_at": "2026-03-09T01:44:18.835745+00:00",
+  "candidates": [
+    {
+      "date": "2011-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/le-beaune",
+      "snippet": " to our newsletter: ▶︎ Follow Us Facebook Instagram LinkedIn Bluesky Typeface Le Beaune Designer Damien Gautier Release 2011 Fonts In Use Specimen This concise typeface was originally designed for the eponymous city in B"
+    },
+    {
+      "date": "1995-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/le-beaune",
+      "snippet": "elease 2011 Fonts In Use Specimen This concise typeface was originally designed for the eponymous city in Bourgogne, in 1995. Ultimately it was never used as planned for the signage in the municipal buildings. In 2011, D"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.205.tf/le-beaune",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.205.tf/le-beaune",
+    "last_modified": null
+  }
+}

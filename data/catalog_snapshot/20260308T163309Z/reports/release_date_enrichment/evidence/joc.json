@@ -1,0 +1,27 @@
+{
+  "record_id": "joc",
+  "source_url": "https://sabinakipara.com/typefaces/joc",
+  "checked_at": "2026-03-09T01:53:44.976305+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sabinakipara.com/custom/joc/",
+      "snippet": " Joc can be found and purchased on Future Fonts . Retail Custom Logotype Instagram LinkedIn Email Privacy ©KiparăStudio 2026"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://sabinakipara.com/typefaces/joc",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sabinakipara.com/custom/joc/",
+    "last_modified": null
+  }
+}

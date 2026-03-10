@@ -1,0 +1,34 @@
+{
+  "record_id": "t1-oniria",
+  "source_url": "https://t1-foundry.com/products/oniria",
+  "checked_at": "2026-03-09T01:36:50.008454+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://t1-foundry.com/products/oniria",
+      "snippet": " Ordinals — Symbols — Variable Font — 87% Latin Plus Download the free trial here. Type Designer: Juanlu Ortiz Release: 2025 Subscribe to stay up to date with our newest font releases and discounts. Email address Subscri"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://t1-foundry.com/products/oniria",
+      "snippet": " address Subscribe → T1 Foundry United Kingdom. Search FAQs Privacy Policy Refund Policy Find Us On.. Instagram Email © 2026, T1 Foundry . Powered by Shopify Payment methods American Express Apple Pay Diners Club Discove"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://t1-foundry.com/products/oniria",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://t1-foundry.com/products/oniria",
+    "last_modified": null
+  }
+}

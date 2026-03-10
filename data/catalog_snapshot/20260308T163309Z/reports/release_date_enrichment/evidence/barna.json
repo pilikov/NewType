@@ -1,0 +1,41 @@
+{
+  "record_id": "barna",
+  "source_url": "https://typerepublic.com/fonts/barna",
+  "checked_at": "2026-03-09T02:02:12.223135+00:00",
+  "candidates": [
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typerepublic.com/fonts/barna/",
+      "snippet": "s a xifres elzevirianes— pensada per respondre a totes les necessitats i requisits del text. Designed by Andreu Balius, 2010-2011. Free trial versions Curious to try our fonts before committing? We are offering free tria"
+    },
+    {
+      "date": "2011-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typerepublic.com/fonts/barna/",
+      "snippet": "f cardiovascular disease than in countries like the United States where similar levels of fat consumption are found. By 2011, the Mediterranean diet was included by some authors as a fad diet promoted for losing weight. "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typerepublic.com/fonts/barna/",
+      "snippet": "ustom In Use Blog Shop About HELP Support Commercial Policy Licensing EULA FAQs Privacy Policy Terms of use Copyright © 2026 Typerepublic. All Rights Reserved. Made with ♥ by Ashler Design"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typerepublic.com/fonts/barna",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typerepublic.com/fonts/barna/",
+    "last_modified": null
+  }
+}

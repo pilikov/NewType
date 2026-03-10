@@ -1,0 +1,19 @@
+{
+  "record_id": "baruch",
+  "source_url": "https://www.brutaltypes.com/fonts/baruch",
+  "checked_at": "2026-03-09T02:01:58.680805+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.brutaltypes.com/fonts/baruch",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "403 Client Error: Forbidden for url: https://www.brutaltypes.com/fonts/baruch"
+  }
+}

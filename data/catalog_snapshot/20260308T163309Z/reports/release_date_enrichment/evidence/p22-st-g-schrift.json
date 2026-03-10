@@ -1,0 +1,27 @@
+{
+  "record_id": "p22-st-g-schrift",
+  "source_url": "https://p22.com/fonts/st-g-schrift/",
+  "checked_at": "2026-03-09T02:00:30.307288+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/st-g-schrift/",
+      "snippet": "Ę Ě Ĝ Ğ Ġ Ģ Ĥ Ħ Ĩ Ī Ĭ Į Ĳ Ĵ Ķ Ĺ Ļ Ľ Ŀ Ł Ń Ņ Ň Ŋ Ō Ŏ Ő Ŕ Ŗ Ř Ś Ŝ Ş Š Ţ Ť Ŧ Titling A L M N S T V W À Á Â Ã Ä Å Æ Ñ Ł Š © 2026 The Type Founders, LLC Fonts Designers About Privacy & Cookies Terms of Service Licensing Servi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://p22.com/fonts/st-g-schrift/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://p22.com/fonts/st-g-schrift/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "zeenesia-studio--cerotta",
+  "source_url": "https://zeenesia.com/product/cerotta/",
+  "checked_at": "2026-03-09T01:36:26.464991+00:00",
+  "candidates": [
+    {
+      "date": "2024-03-12",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://zeenesia.com/product/cerotta/",
+      "snippet": "2024-03-12T01:48:49+00:00"
+    },
+    {
+      "date": "2025-05-25",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://zeenesia.com/product/cerotta/",
+      "snippet": "2025-05-25T00:13:25+00:00"
+    },
+    {
+      "date": "2025-05-25",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://zeenesia.com/product/cerotta/",
+      "snippet": "2025-05-25T00:13:25+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://zeenesia.com/product/cerotta/",
+      "snippet": "ity Add to cart Related products $ 16 Bright Almond $ 16 Caorgen $ 18 La Fleur Grande $ 17 The Franky Dunkey Copyright ©2025 Zeenesia Studio All Right Reserved Menu Home Shop Serif Fonts Sans Serif Fonts Script Fonts Dis"
+    },
+    {
+      "date": "2026-02-26",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://zeenesia.com/product/cerotta/",
+      "snippet": "2026-02-26"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://zeenesia.com/product/cerotta/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "jolicia-type--browne-de-calvin",
+  "source_url": "https://joliciatype.com/browne-de-calvin/",
+  "checked_at": "2026-03-09T02:01:06.279579+00:00",
+  "candidates": [
+    {
+      "date": "2025-04-29",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://joliciatype.com/browne-de-calvin/",
+      "snippet": "t » Serif » Browne de Calvin File Type OTF, TTF, WOFF2, VAR Vector Yes File Size 1,3 MB Browne de Calvin by Joliciatype April 29, 2025 Choose your license What are these? license <span class=\"g9radioname\">Desktop License"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://joliciatype.com/browne-de-calvin/",
+      "snippet": "st offer and updates Subscribe Follow us on Social Media Jolicia Type Support FAQs Privacy Policy Terms and Conditions ©2026 Joliciatype.com - All rights reserved. Scroll to top"
+    },
+    {
+      "date": "2026-02-19",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://joliciatype.com/browne-de-calvin/",
+      "snippet": "2026-02-19"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://joliciatype.com/browne-de-calvin/",
+    "last_modified": null
+  }
+}

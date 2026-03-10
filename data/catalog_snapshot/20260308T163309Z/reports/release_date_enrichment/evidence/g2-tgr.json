@@ -1,0 +1,41 @@
+{
+  "record_id": "g2-tgr",
+  "source_url": "https://gruppo-due.com/typeface/g2-tgr",
+  "checked_at": "2026-03-09T01:40:39.624193+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://gruppo-due.com/typefaces/tgr/",
+      "snippet": "Early stages and admittedly quite rough versions of G2 TGR were recklessly used for a number of projects dating back to 2016. Over the course of the following years we gradually polished, adapted and expanded the typefac"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://gruppo-due.com/typefaces/tgr/",
+      "snippet": " request a license, you will receive a download link\n      including the relevant font files and a license agreement. © 2026 Gruppo Due GbR About Gruppo Due Retail Typefaces Custom Typefaces Projects Online Shop Free Tri"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://gruppo-due.com/typefaces/tgr/",
+      "snippet": "Sat, 17 Jan 2026 00:16:42 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://gruppo-due.com/typeface/g2-tgr",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://gruppo-due.com/typefaces/tgr/",
+    "last_modified": "Sat, 17 Jan 2026 00:16:42 GMT"
+  }
+}

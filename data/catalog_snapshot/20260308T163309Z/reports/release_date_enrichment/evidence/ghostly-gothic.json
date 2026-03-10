@@ -1,0 +1,27 @@
+{
+  "record_id": "ghostly-gothic",
+  "source_url": "https://www.publictype.us/fonts/ghostlygothic",
+  "checked_at": "2026-03-09T01:46:13.118677+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.publictype.us/fonts/ghostlygothic",
+      "snippet": "ng-term brand thinking. Typefaces Contact Font licenses Privacy policy Test fonts Join the Public. Add your email here. 2026 © Public Type"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.publictype.us/fonts/ghostlygothic",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.publictype.us/fonts/ghostlygothic",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "that-that-new-roman",
+  "source_url": "https://www.thatthattype.com/fonts/that-that-new-roman",
+  "checked_at": "2026-03-09T02:01:24.338140+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.thatthattype.com/fonts/that-that-new-roman",
+      "snippet": "se Free Trial Fonts About Log in That That New Roman Regular Italic That That New Roman + Italic is a serif type pair © 2026 That That Type"
+    },
+    {
+      "date": "2026-02-15",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.thatthattype.com/fonts/that-that-new-roman",
+      "snippet": "2026-02-15"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.thatthattype.com/fonts/that-that-new-roman",
+    "last_modified": null
+  }
+}

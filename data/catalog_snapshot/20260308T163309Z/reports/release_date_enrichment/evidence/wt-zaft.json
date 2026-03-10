@@ -1,0 +1,34 @@
+{
+  "record_id": "wt-zaft",
+  "source_url": "https://wisetype.nl/typefaces/zaft",
+  "checked_at": "2026-03-09T01:55:27.564899+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://wisetype.nl/typefaces/zaft",
+      "snippet": "rnative w Ljubac Socrates 34 XP Size OpenType Ligatures Alternative w Ljubac Socrates 34 XP Design Jacob Wise Published 2019 Updated Feb 2025, V 1.1 Formats otf, woff, woff2, Variable ttf Open specimen View Languages Upp"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://wisetype.nl/typefaces/zaft",
+      "snippet": "Socrates 34 XP Size OpenType Ligatures Alternative w Ljubac Socrates 34 XP Design Jacob Wise Published 2019 Updated Feb 2025, V 1.1 Formats otf, woff, woff2, Variable ttf Open specimen View Languages Uppercase A A B B C "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://wisetype.nl/typefaces/zaft",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://wisetype.nl/typefaces/zaft",
+    "last_modified": null
+  }
+}

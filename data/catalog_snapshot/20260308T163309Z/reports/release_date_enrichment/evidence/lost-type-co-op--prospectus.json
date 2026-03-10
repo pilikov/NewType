@@ -1,0 +1,41 @@
+{
+  "record_id": "lost-type-co-op--prospectus",
+  "source_url": "http://prospectus.losttype.com/",
+  "checked_at": "2026-03-08T16:58:45.766917+00:00",
+  "candidates": [
+    {
+      "date": "2011-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "http://prospectus.losttype.com/",
+      "snippet": "ce from Lost Type The Daily Prospectus Lost Type A Lost Type Co‑op Publication Drawing new shapes for you to read since 2011 Tuesday August 3 rd , 2021 pro·spec·tus: noun A document that advertises a product, service, ve"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "http://prospectus.losttype.com/",
+      "snippet": " Prospectus Lost Type A Lost Type Co‑op Publication Drawing new shapes for you to read since 2011 Tuesday August 3 rd , 2021 pro·spec·tus: noun A document that advertises a product, service, venture, institution, or even"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://prospectus.losttype.com/",
+      "snippet": "inspiration for the non-existent lowercase companion to the Imperial Roman Inscriptional uppercase forms. In January of 2016 I began a year-long certificate program in typeface design (Type@Cooper West) at Letterform Arc"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://prospectus.losttype.com/",
+      "snippet": "2026-03-05"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "http://prospectus.losttype.com/",
+    "last_modified": null
+  }
+}

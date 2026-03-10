@@ -1,0 +1,28 @@
+{
+  "record_id": "a-abf-silhouette",
+  "source_url": "https://nouvellenoire.ch/typefaces/a-abf-silhouette",
+  "checked_at": "2026-03-09T01:37:06.041454+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://nouvellenoire.ch/app/uploads/2017/09/A.ABF-Silhouette.otf",
+      "snippet": "Mon, 13 Feb 2023 21:44:26 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://nouvellenoire.ch/typefaces/a-abf-silhouette",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": 200,
+    "error": "unsupported content-type: font/otf",
+    "final_url": "https://nouvellenoire.ch/app/uploads/2017/09/A.ABF-Silhouette.otf",
+    "last_modified": "Mon, 13 Feb 2023 21:44:26 GMT"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "cabina",
+  "source_url": "https://abc-etc.com/typefaces/cabina",
+  "checked_at": "2026-03-09T01:53:09.671799+00:00",
+  "candidates": [
+    {
+      "date": "2021-12-11",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://abc-etc.com/#font:433",
+      "snippet": "2021-12-11T19:07:39+00:00"
+    },
+    {
+      "date": "2026-02-26",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://abc-etc.com/#font:433",
+      "snippet": "2026-02-26T03:16:12+00:00"
+    },
+    {
+      "date": "2026-02-26",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://abc-etc.com/#font:433",
+      "snippet": "2026-02-26T03:16:12+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://abc-etc.com/#font:433",
+      "snippet": "Mon, 09 Mar 2026 01:29:25 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://abc-etc.com/typefaces/cabina",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://abc-etc.com/#font:433",
+    "last_modified": "Mon, 09 Mar 2026 01:29:25 GMT"
+  }
+}

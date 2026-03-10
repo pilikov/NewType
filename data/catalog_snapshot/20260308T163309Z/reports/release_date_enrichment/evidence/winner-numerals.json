@@ -1,0 +1,48 @@
+{
+  "record_id": "winner-numerals",
+  "source_url": "https://sportsfonts.com/fonts/winner-numerals",
+  "checked_at": "2026-03-09T01:56:17.010746+00:00",
+  "candidates": [
+    {
+      "date": "2025-04-10",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://sportsfonts.com/fonts/winner-numerals",
+      "snippet": "2025-04-10"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sportsfonts.com/fonts/winner-numerals",
+      "snippet": "rts, from no-budget to high-profile. Browse our retail fonts , or get in touch for modifications or custom solutions. © 2016–2026 Sportsfonts / Christoph Koeberlin . Website by Andreas Nymark . No cookies, no tracking, n"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sportsfonts.com/fonts/winner-numerals",
+      "snippet": "guages + Greek. Information Designer Christoph Koeberlin Styles 10 License Commercial. Customization upon request. Year 2022 Current Version 2.000 See also Winner , Winner Sans , Winner College , Libero , Sportsfonts Leg"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sportsfonts.com/fonts/winner-numerals",
+      "snippet": "from no-budget to high-profile. Browse our retail fonts , or get in touch for modifications or custom solutions. © 2016–2026 Sportsfonts / Christoph Koeberlin . Website by Andreas Nymark . No cookies, no tracking, no shi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://sportsfonts.com/fonts/winner-numerals",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sportsfonts.com/fonts/winner-numerals",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "record_id": "a-poudre",
+  "source_url": "https://nouvellenoire.ch/typefaces/a-poudre",
+  "checked_at": "2026-03-09T01:44:58.020843+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-15",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://nouvellenoire.ch/product/a-poudre/",
+      "snippet": "2017-01-15T16:45:47+00:00"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://nouvellenoire.ch/product/a-poudre/",
+      "snippet": "sired. We keep you covered with news of projects and just-released products direct to your inbox. © Nouvelle Noire GmbH 2012–2026 We use cookies on our website to give you the most relevant experience by remembering your"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://nouvellenoire.ch/product/a-poudre/",
+      "snippet": " ← A. Poudre Six Add this weight to Cart Get Trial Font Designer: Philippe Apeloig Development: Nouvelle Noire Release: 2013 Version: 1.0 Awards: German Design Award ’15 Specimen: Detailed character sets, language suppor"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://nouvellenoire.ch/product/a-poudre/",
+      "snippet": ". We keep you covered with news of projects and just-released products direct to your inbox. © Nouvelle Noire GmbH 2012–2026 We use cookies on our website to give you the most relevant experience by remembering your pref"
+    },
+    {
+      "date": "2024-02-15",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://nouvellenoire.ch/product/a-poudre/",
+      "snippet": "2024-02-15T09:55:41+00:00"
+    },
+    {
+      "date": "2024-02-15",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://nouvellenoire.ch/product/a-poudre/",
+      "snippet": "2024-02-15T09:55:41+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://nouvellenoire.ch/typefaces/a-poudre",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://nouvellenoire.ch/product/a-poudre/",
+    "last_modified": null
+  }
+}

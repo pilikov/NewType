@@ -1,0 +1,34 @@
+{
+  "record_id": "ballinger",
+  "source_url": "https://signalfoundry.com/typefaces/ballinger",
+  "checked_at": "2026-03-09T02:02:36.229563+00:00",
+  "candidates": [
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://signalfoundry.com/typefaces/ballinger",
+      "snippet": "k Italic Mono Thin X-Light Light Regular Medium Bold X-Bold Black Cart Checkout LinkedIn Privacy Policy Built by Estd © 2012–2026 Signal Type Foundry Privacy Policy Built by Estd → © 2012–2026 Signal Type Foundry"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://signalfoundry.com/typefaces/ballinger",
+      "snippet": "lic Mono Thin X-Light Light Regular Medium Bold X-Bold Black Cart Checkout LinkedIn Privacy Policy Built by Estd © 2012–2026 Signal Type Foundry Privacy Policy Built by Estd → © 2012–2026 Signal Type Foundry"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://signalfoundry.com/typefaces/ballinger",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://signalfoundry.com/typefaces/ballinger",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "letterwerk--stencil-allround",
+  "source_url": "https://letterwerk.ch/shop",
+  "checked_at": "2026-03-08T16:58:44.772587+00:00",
+  "candidates": [
+    {
+      "date": "2008-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://letterwerk.ch/",
+      "snippet": "Euro 40.- (Please contact us if you are interested) Letterwerk is a design studio specialized in type design founded in 2008 by Fabian Widmer and Dominique Boessner. The design studio is based in Zürich and Berlin. Conta"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://letterwerk.ch/",
+      "snippet": "ian@letterwerk.ch – Letterwerk Berlin Dominique Boessner, Paul-Lincke-Ufer 41, D-10999 Berlin dominique@letterwerk.ch © 2025"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://letterwerk.ch/shop",
+      "snippet": "2026-03-05"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://letterwerk.ch/",
+    "last_modified": null
+  }
+}

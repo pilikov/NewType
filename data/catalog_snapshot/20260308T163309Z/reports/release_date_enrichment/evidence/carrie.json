@@ -1,0 +1,48 @@
+{
+  "record_id": "carrie",
+  "source_url": "https://www.vocaltype.co/history-of/carrie",
+  "checked_at": "2026-03-09T01:37:38.309524+00:00",
+  "candidates": [
+    {
+      "date": "2020-03-01",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.vocaltype.co/history-of/carrie",
+      "snippet": "2020-03-01T19:08:44-0500"
+    },
+    {
+      "date": "2020-03-01",
+      "score": 0.9,
+      "source_type": "meta:datePublished",
+      "source_url": "https://www.vocaltype.co/history-of/carrie",
+      "snippet": "2020-03-01T19:08:44-0500"
+    },
+    {
+      "date": "2020-03-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.vocaltype.co/history-of/carrie",
+      "snippet": "ype Sign In My Account Typefaces Custom Design History Progress Information Reach Sign In My Account CARRIE Tre Seals · March  1, 2020 On October 23, 1915, over 25,000 women marched up Fifth Avenue in New York City to ad"
+    },
+    {
+      "date": "2023-06-04",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.vocaltype.co/history-of/carrie",
+      "snippet": "2023-06-04T20:05:42-0400"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.vocaltype.co/history-of/carrie",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.vocaltype.co/history-of/carrie",
+    "last_modified": null
+  }
+}

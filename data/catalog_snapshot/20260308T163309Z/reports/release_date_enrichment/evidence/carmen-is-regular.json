@@ -1,0 +1,62 @@
+{
+  "record_id": "carmen-is-regular",
+  "source_url": "https://celine-hurka.com/carmenisregular/",
+  "checked_at": "2026-03-09T01:42:44.635625+00:00",
+  "candidates": [
+    {
+      "date": "2025-02-22",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://celine-hurka.com/carmenisregular/",
+      "snippet": "2025-02-22T16:27:59+00:00"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://celine-hurka.com/carmenisregular/",
+      "snippet": " from the start in our layouts. It was a fun back-and-forth process and we became closer through this collaboration. In 2021 this Carmen is regular was pre-release it on Solitype (thanks to Charlotte Rohde & Vivien Hoffm"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://celine-hurka.com/carmenisregular/",
+      "snippet": "S VERSION GARDEN OF AETHER REVIVING TYPE Writing In Use Information Licensing Trial fonts Cart Céline Hurka TYPEFACES / 2025 / CARMEN IS REGULAR TEST 22.02.2025: Today it’s Carmen’s birthday, the perfect day to release C"
+    },
+    {
+      "date": "2025-02-22",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://celine-hurka.com/carmenisregular/",
+      "snippet": "2025-02-22T16:27:59+00:00"
+    },
+    {
+      "date": "2025-05-17",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://celine-hurka.com/carmenisregular/",
+      "snippet": "2025-05-17T23:00:03+00:00"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://celine-hurka.com/carmenisregular/",
+      "snippet": " Carmen is Regular. <3 HBD CARMEN <3 DESIGNED BY CÉLINE HURKA IN COLLABORATION WITH AND FOR CARMEN DUSMET CARRASCO YEAR 2020/2025 CHARACTER SET 675 GLYPHS STYLE ON FEBRUARY TWENTY SECOND FEATURES LIGATURES ON REQUEST CAR"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://celine-hurka.com/carmenisregular/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://celine-hurka.com/carmenisregular/",
+    "last_modified": null
+  }
+}

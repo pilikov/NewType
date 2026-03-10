@@ -1,0 +1,62 @@
+{
+  "record_id": "combina",
+  "source_url": "https://fontfabric.com/typefaces/combina",
+  "checked_at": "2026-03-09T01:46:03.190221+00:00",
+  "candidates": [
+    {
+      "date": "2025-05-23",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.fontfabric.com/fonts/combina/",
+      "snippet": "2025-05-23T07:59:47+00:00"
+    },
+    {
+      "date": "2025-05-22",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/combina/",
+      "snippet": "tes, stylistic sets, ligatures, localized forms, case-sensitive glyphs , and more. Release and Update Date Released on: May 22, 2025 What’s New in Combina: Fully reprogrammed contextual alternates engine New OpenType alt"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.fontfabric.com/fonts/combina/",
+      "snippet": "2026-02-18T12:29:02+00:00"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.fontfabric.com/fonts/combina/",
+      "snippet": "2026-02-18T12:29:02+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/combina/",
+      "snippet": "pt fonts Font sale Free fonts Fonts in use Font collections Legal Infringements About Help Blog Partnerships Contact us 2026 © Fontfabric llc. Privacy Notice Manage Cookies"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.fontfabric.com/fonts/combina/",
+      "snippet": "Mon, 09 Mar 2026 01:46:06 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fontfabric.com/typefaces/combina",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.fontfabric.com/fonts/combina/",
+    "last_modified": "Mon, 09 Mar 2026 01:46:06 GMT"
+  }
+}

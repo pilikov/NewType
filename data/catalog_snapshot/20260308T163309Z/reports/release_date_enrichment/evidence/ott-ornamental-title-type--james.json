@@ -1,0 +1,27 @@
+{
+  "record_id": "ott-ornamental-title-type--james",
+  "source_url": "https://ott-foundry.com/typefaces/james",
+  "checked_at": "2026-03-09T02:01:21.377470+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://ott-foundry.com/typefaces/james",
+      "snippet": "orming letters with modular shapes in sometimes unexpected ways. James was designed by Eliott Grunewald and released in 2022 Details Character set: Latin extended File formats delivered: OTF, TTF, WOFF, WOFF2 Designed by"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ott-foundry.com/typefaces/james",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ott-foundry.com/typefaces/james",
+    "last_modified": null
+  }
+}

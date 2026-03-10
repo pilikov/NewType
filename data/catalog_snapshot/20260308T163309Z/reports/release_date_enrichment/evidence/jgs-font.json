@@ -1,0 +1,27 @@
+{
+  "record_id": "jgs-font",
+  "source_url": "https://velvetyne.fr/fonts/jgs-font/",
+  "checked_at": "2026-03-09T01:40:49.880583+00:00",
+  "candidates": [
+    {
+      "date": "2023-05-30",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://velvetyne.fr/fonts/jgs-font/",
+      "snippet": "e Sans Serif Geometric Ascii Writing systems Latin Symbols License SIL Open Font License, Version 1.1 Date Published on May 30, 2023 Ce contenu existe en Français Jgs Font is a font family made as a tribute to Joan G. St"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://velvetyne.fr/fonts/jgs-font/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://velvetyne.fr/fonts/jgs-font/",
+    "last_modified": null
+  }
+}

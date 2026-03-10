@@ -1,0 +1,41 @@
+{
+  "record_id": "f37-caligari",
+  "source_url": "https://www.f37foundry.com/fonts/f37-caligari",
+  "checked_at": "2026-03-09T01:54:59.177303+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-12",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.f37foundry.com/fonts/f37-caligari",
+      "snippet": "2026-01-12T14:45:45Z"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.f37foundry.com/fonts/f37-caligari",
+      "snippet": "o test F37 Caligari ® Font Sampler Text Regular 100 pt Buy from £ 40 Das Cabinet des Dr. Caligari but if it was made in 2024. Text Black 460 pt Buy from £ 40 TEXTURA Alphabet Medium 140 pt Buy from £ 40 AaBbCcDdEeFfGgHhI"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.f37foundry.com/fonts/f37-caligari",
+      "snippet": "mation Trial Fonts Goods Fonts In Use About Information Support FAQ’s Licences Copyright Cookie Policy Privacy Policy © 2026 F37 Foundry Limited. All Rights Reserved"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.f37foundry.com/fonts/f37-caligari",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.f37foundry.com/fonts/f37-caligari",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "record_id": "kaius",
+  "source_url": "https://typemates.com/fonts/kaius",
+  "checked_at": "2026-03-09T01:41:10.485187+00:00",
+  "candidates": [
+    {
+      "date": "2020-11-01",
+      "score": 0.95,
+      "source_type": "jsonld:dateCreated",
+      "source_url": "https://www.typemates.com/fonts/kaius",
+      "snippet": "2020-11-01T09:33:34+01:00"
+    },
+    {
+      "date": "2020-11-10",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typemates.com/fonts/kaius",
+      "snippet": "2020-11-10T00:00:00+01:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typemates.com/fonts/kaius",
+      "snippet": "2026-03-05T12:07:49+01:00"
+    },
+    {
+      "date": "1991-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/kaius",
+      "snippet": "n hett aver Dusende vun Teken. Unicode hett en mööglichen Ümfang vun 1.114.112 Teken. De eerste Version is in’n Oktober 1991 rutkamen un harr 28.302 Teken. De aktuellste Version vun Juli 2006 hett 101.203 Teken. Kaius Ha"
+    },
+    {
+      "date": "2006-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/kaius",
+      "snippet": "n 1.114.112 Teken. De eerste Version is in’n Oktober 1991 rutkamen un harr 28.302 Teken. De aktuellste Version vun Juli 2006 hett 101.203 Teken. Kaius Hairline Hairline Italic Extra Light Extra Light Italic Light Light I"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/kaius",
+      "snippet": "character set covers an extensive 3,000 glyphs. Whatever you might need, Kaius covers it. Designed by Lisa Fischbach in 2020 Contributions Igino Marini Specs 16 styles each with 3000+ glyphs Formats otf and ttf for deskt"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typemates.com/fonts/kaius",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typemates.com/fonts/kaius",
+    "last_modified": null
+  }
+}

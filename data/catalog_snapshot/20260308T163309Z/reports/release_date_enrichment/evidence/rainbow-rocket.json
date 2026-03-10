@@ -1,0 +1,34 @@
+{
+  "record_id": "rainbow-rocket",
+  "source_url": "https://drj11.itch.io/rainbow-rocket-font",
+  "checked_at": "2026-03-09T01:47:11.339700+00:00",
+  "candidates": [
+    {
+      "date": "2008-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://drj11.itch.io/rainbow-rocket-font",
+      "snippet": " them for different width spaces: 1-stripe width: U+200A HAIR SPACE 2-stripe width: U+2009 THIN SPACE 3-stripe width: U+2008 PUNCTUATION SPACE (same width as FULL STOP) On macOS you may be able to use Character Viewer to"
+    },
+    {
+      "date": "2009-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://drj11.itch.io/rainbow-rocket-font",
+      "snippet": "is font series implements three of them for different width spaces: 1-stripe width: U+200A HAIR SPACE 2-stripe width: U+2009 THIN SPACE 3-stripe width: U+2008 PUNCTUATION SPACE (same width as FULL STOP) On macOS you may "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://drj11.itch.io/rainbow-rocket-font",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://drj11.itch.io/rainbow-rocket-font",
+    "last_modified": null
+  }
+}

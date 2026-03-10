@@ -1,0 +1,55 @@
+{
+  "record_id": "preon",
+  "source_url": "https://www.setuptype.com/fonts/preon",
+  "checked_at": "2026-03-09T02:01:22.597358+00:00",
+  "candidates": [
+    {
+      "date": "1992-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.setuptype.com/fonts/preon",
+      "snippet": "ght  21 px Un planeta exoplaneta es un planeta fuera del Sistema Solar. La primera confirmación de detección ocurrió en 1992. Al 1 de octubre de 2022, hay 5197 exoplanetas confirmados en 3833 sistemas planetarios, con 84"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.setuptype.com/fonts/preon",
+      "snippet": "0 px Aa Aa Aa Aa Aa Aa Aa Aa Aa Aa Aa Aa Aa Aa QS Thin Stylistic Set 3 Light true true Spurred r, u HTML5, finalized in 2014, standardized multimedia and graphic content on the web. Thin 50 px Thin  17 px Ein Exoplanet i"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.setuptype.com/fonts/preon",
+      "snippet": "planeta es un planeta fuera del Sistema Solar. La primera confirmación de detección ocurrió en 1992. Al 1 de octubre de 2022, hay 5197 exoplanetas confirmados en 3833 sistemas planetarios, con 840 sistemas que tienen más"
+    },
+    {
+      "date": "2025-07-17",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.setuptype.com/fonts/preon",
+      "snippet": "font: 26.1 KB (Average size per style) Version: 0.75 Copyright: Preon, Ondrej Jób © 2026. All rights reserved. Updated: Jul 17 2025 Buy v0.75 Try Change Color Scheme Specimen Styles Glyphs Info Setup Type Fonts, Branding"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.setuptype.com/fonts/preon",
+      "snippet": "ic Set 1–4, Case Sensitive Forms Webfont: 26.1 KB (Average size per style) Version: 0.75 Copyright: Preon, Ondrej Jób © 2026. All rights reserved. Updated: Jul 17 2025 Buy v0.75 Try Change Color Scheme Specimen Styles Gl"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.setuptype.com/fonts/preon",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.setuptype.com/fonts/preon",
+    "last_modified": null
+  }
+}

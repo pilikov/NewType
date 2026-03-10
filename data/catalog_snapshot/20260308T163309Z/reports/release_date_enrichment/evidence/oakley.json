@@ -1,0 +1,41 @@
+{
+  "record_id": "oakley",
+  "source_url": "https://markvanleeuwen.co/oakley",
+  "checked_at": "2026-03-09T01:59:12.782387+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.markvanleeuwen.co/oakley",
+      "snippet": "nd includes contextual and stylistic alternates, swash capitals, ligatures & more… BUY NOW User Licence Agreement Year: 2020-2022 Feature: Yearbook of Type 6, Slanted Publishers , 2022 Trial Fonts Available on Request BU"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.markvanleeuwen.co/oakley",
+      "snippet": "cludes contextual and stylistic alternates, swash capitals, ligatures & more… BUY NOW User Licence Agreement Year: 2020-2022 Feature: Yearbook of Type 6, Slanted Publishers , 2022 Trial Fonts Available on Request BUY OAK"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.markvanleeuwen.co/oakley",
+      "snippet": "ble on Request BUY OAKLEY All Cortese Sans Cortese Aespira Oakley Magalie Cortese Sans Cortese Aespira Oakley Magalie © 2026 Mark van Leeuwen. All rights reserved."
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://markvanleeuwen.co/oakley",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.markvanleeuwen.co/oakley",
+    "last_modified": null
+  }
+}

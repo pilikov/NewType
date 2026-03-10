@@ -1,0 +1,55 @@
+{
+  "record_id": "caligrafia-de-bula",
+  "source_url": "https://www.psyops.com/typefaces/caligrafia-de-bula",
+  "checked_at": "2026-03-09T01:49:48.751796+00:00",
+  "candidates": [
+    {
+      "date": "2016-11-08",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.psyops.com/caligrafia-de-bula/",
+      "snippet": "2016-11-08T00:04:28+00:00"
+    },
+    {
+      "date": "2023-10-11",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.psyops.com/caligrafia-de-bula/",
+      "snippet": "2023-10-11T22:17:40+00:00"
+    },
+    {
+      "date": "2023-10-11",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.psyops.com/caligrafia-de-bula/",
+      "snippet": "2023-10-11T22:17:40+00:00"
+    },
+    {
+      "date": "1995-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.psyops.com/caligrafia-de-bula/",
+      "snippet": "32 REGIO 1 32 COMPANY ABOUT US PRIVACY LEARN MORE DESIGN LICENSING CONNECT WITH US CONTACT FORM JOIN OUR MAILING LIST © 1995–2025 PSY/OPS Type Foundry. All Rights Reserved. Page load link 0 Added to cart Close cart Your "
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.psyops.com/caligrafia-de-bula/",
+      "snippet": "GIO 1 32 COMPANY ABOUT US PRIVACY LEARN MORE DESIGN LICENSING CONNECT WITH US CONTACT FORM JOIN OUR MAILING LIST © 1995–2025 PSY/OPS Type Foundry. All Rights Reserved. Page load link 0 Added to cart Close cart Your Cart "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.psyops.com/typefaces/caligrafia-de-bula",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.psyops.com/caligrafia-de-bula/",
+    "last_modified": null
+  }
+}

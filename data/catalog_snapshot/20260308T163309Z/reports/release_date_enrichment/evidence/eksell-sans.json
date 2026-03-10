@@ -1,0 +1,41 @@
+{
+  "record_id": "eksell-sans",
+  "source_url": "https://lettersfromsweden.se/font/eksell-sans",
+  "checked_at": "2026-03-09T01:37:07.701414+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://lettersfromsweden.se/font/eksell-sans/",
+      "snippet": "o Novarese’s Sintex (VGC, 1972). Still, Eksell’s daring design takes those concepts into entirely new territories. Year 2021 Designed by Olle Eksell Göran Söderström Script(s) latin Eksell Sans Adelia BAZAAR Blåkulla Cap"
+    },
+    {
+      "date": "2007-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://lettersfromsweden.se/font/eksell-sans/",
+      "snippet": " West where avant-garde musicians put out hip jazz records. Eksell Sans is the only other alphabet by Olle Eksell (1918–2007). The iconic Swedish designer and illustrator approached typographic shapes with a visionary at"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://lettersfromsweden.se/font/eksell-sans/",
+      "snippet": "Mon, 09 Mar 2026 01:37:09 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://lettersfromsweden.se/font/eksell-sans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://lettersfromsweden.se/font/eksell-sans/",
+    "last_modified": "Mon, 09 Mar 2026 01:37:09 GMT"
+  }
+}

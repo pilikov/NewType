@@ -1,0 +1,48 @@
+{
+  "record_id": "du-bois",
+  "source_url": "https://www.vocaltype.co/history-of/du-bois",
+  "checked_at": "2026-03-09T01:37:04.563140+00:00",
+  "candidates": [
+    {
+      "date": "2021-06-18",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.vocaltype.co/history-of/du-bois",
+      "snippet": "2021-06-18T18:41:25-0400"
+    },
+    {
+      "date": "2021-06-18",
+      "score": 0.9,
+      "source_type": "meta:datePublished",
+      "source_url": "https://www.vocaltype.co/history-of/du-bois",
+      "snippet": "2021-06-18T18:41:25-0400"
+    },
+    {
+      "date": "2023-06-04",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.vocaltype.co/history-of/du-bois",
+      "snippet": "2023-06-04T20:04:04-0400"
+    },
+    {
+      "date": "2021-06-18",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.vocaltype.co/history-of/du-bois",
+      "snippet": "pe Sign In My Account Typefaces Custom Design History Progress Information Reach Sign In My Account DU BOIS Tre Seals · June 18, 2021 W.E.B. Du Bois, William Edward Burghardt Du Bois in full, was an American sociologist,"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.vocaltype.co/history-of/du-bois",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.vocaltype.co/history-of/du-bois",
+    "last_modified": null
+  }
+}

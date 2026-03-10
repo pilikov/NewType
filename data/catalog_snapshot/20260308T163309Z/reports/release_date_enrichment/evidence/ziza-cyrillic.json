@@ -1,0 +1,48 @@
+{
+  "record_id": "ziza-cyrillic",
+  "source_url": "https://www.novotypo.nl/fonts/ziza/history.html",
+  "checked_at": "2026-03-09T01:54:07.592936+00:00",
+  "candidates": [
+    {
+      "date": "2015-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.novotypo.nl/fonts/ziza/history.html",
+      "snippet": "ation of the Typewood - The Declaration of Deconstructed Typography project and the Bixa typeface that was published in 2015. Bixa, the chromatic typeface, which is also produced in woodtype, is designed as a typeface fo"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.novotypo.nl/fonts/ziza/history.html",
+      "snippet": "o Typo / Mark van Wageningen\n(www.novotypo.nl) Font development & production by Lisa DrÃ¶es Amsterdam - The Netherlands\n2018 Supporting over 150 Latin languages Copyright Â© 2023. Novo Typo. All rights reserved. Our font"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.novotypo.nl/fonts/ziza/history.html",
+      "snippet": "velopment & production by Lisa DrÃ¶es Amsterdam - The Netherlands\n2018 Supporting over 150 Latin languages Copyright Â© 2023. Novo Typo. All rights reserved. Our fonts are also available via Myfonts or Youworkforthem"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.novotypo.nl/fonts/ziza/history.html",
+      "snippet": "Mon, 02 Jan 2023 13:34:14 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.novotypo.nl/fonts/ziza/history.html",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.novotypo.nl/fonts/ziza/history.html",
+    "last_modified": "Mon, 02 Jan 2023 13:34:14 GMT"
+  }
+}

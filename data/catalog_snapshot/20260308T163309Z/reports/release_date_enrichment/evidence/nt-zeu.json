@@ -1,0 +1,34 @@
+{
+  "record_id": "nt-zeu",
+  "source_url": "https://nodotypefoundry.com/typefaces/nt-zeu",
+  "checked_at": "2026-03-09T01:59:31.958884+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://nodotypefoundry.com/typefaces/nt-zeu/",
+      "snippet": "e and download our trials. Light Light Italic Regular Regular Italic Bold Bold Italic Reset Type Here... NT Zeu Release 2020 Styles 3 Glyphs 423 NT Zeu is our reinterpretation of timeless and classic redefined by Nodo’s "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://nodotypefoundry.com/typefaces/nt-zeu/",
+      "snippet": "eu NT Bau NT Ciceron NT Dapper NT Umami NT Stardust NT Voluma Sitemap Fonts in use Custom Market About FAQs © Copyright 2026 Nodo™ Type Foundry text@nodotypefoundry.com"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://nodotypefoundry.com/typefaces/nt-zeu",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://nodotypefoundry.com/typefaces/nt-zeu/",
+    "last_modified": null
+  }
+}

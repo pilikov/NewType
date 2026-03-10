@@ -1,0 +1,34 @@
+{
+  "record_id": "fluo",
+  "source_url": "https://ainsifont.com/font/fluo",
+  "checked_at": "2026-03-09T01:49:39.396570+00:00",
+  "candidates": [
+    {
+      "date": "2014-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/font/fluo",
+      "snippet": "ted in 2012, Fluo is a -Stencilled titling- character. The character set of the font has been optimized and extended in 2014 to be published and distributed by AinsiFont . Exemples d'utilisations. Font in use. Web. tremp"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/font/fluo",
+      "snippet": "TO CART 40 € OTF Fluo Regular Stencil 01234567- 89-(?+ABCDEFGHIJ -KLMNOPQR-(éà:?) Stencil Rounded 1 weight 2014 Af Fluo 2012 Designers. Xavier Meurice et Sébastien Delobel Classification. Stencil arrondie Langage. Latin "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ainsifont.com/font/fluo",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.ainsifont.com/font/fluo",
+    "last_modified": null
+  }
+}

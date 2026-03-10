@@ -1,0 +1,41 @@
+{
+  "record_id": "p22-stanyan",
+  "source_url": "https://p22.com/fonts/stanyan/",
+  "checked_at": "2026-03-09T01:51:11.347521+00:00",
+  "candidates": [
+    {
+      "date": "2003-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/stanyan/",
+      "snippet": "n word and poetry by Rod McKuen, P22 reissued the LP on CD in an exclusive arrangement with the Stanyan Music group. In 2003, the reissue of the ‘In Search of Eros’ LP followed. Each of the CD releases contained an accom"
+    },
+    {
+      "date": "1999-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/stanyan/",
+      "snippet": "y consists of a series of fonts produced in association with our friend and Beatsville collaborator, Mr. Rod McKuen. In 1999, to commemorate the 40th anniversary of the legendary 1959 ‘Beastville’ LP of spoken word and p"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/stanyan/",
+      "snippet": "al Punctuation ’ ” Initial Punctuation ‘ “ Other Punctuation , ; : ! ¡ ? ¿ . @ Open Punctuation ( [ Math Symbol < = > © 2026 The Type Founders, LLC Fonts Designers About Privacy & Cookies Terms of Service Licensing Servi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://p22.com/fonts/stanyan/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://p22.com/fonts/stanyan/",
+    "last_modified": null
+  }
+}

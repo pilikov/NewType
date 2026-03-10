@@ -1,0 +1,41 @@
+{
+  "record_id": "ts-fonts--aldarwish-font",
+  "source_url": "https://tsfonts.com/font/aldarwish-font/",
+  "checked_at": "2026-03-09T02:00:59.833673+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-27",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://tsfonts.com/font/aldarwish-font/",
+      "snippet": "2024-01-27T20:11:50+00:00"
+    },
+    {
+      "date": "2026-02-15",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://tsfonts.com/font/aldarwish-font/",
+      "snippet": "2026-02-15T13:07:25+00:00"
+    },
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://tsfonts.com/font/aldarwish-font/",
+      "snippet": " OTF File Price: $500 For More About License ↗ Extended Users: Ten, Devices: Twenty Formats: OTF_TTF_WOFF Files Price: $2000 For More About License ↗ Custom – Unlimited users – Unlimited installations – Ability to modify"
+    },
+    {
+      "date": "2026-02-21",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://tsfonts.com/font/aldarwish-font/",
+      "snippet": "2026-02-21"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://tsfonts.com/font/aldarwish-font/",
+    "last_modified": null
+  }
+}

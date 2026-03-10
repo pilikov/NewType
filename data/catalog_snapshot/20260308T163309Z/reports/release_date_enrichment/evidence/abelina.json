@@ -1,0 +1,41 @@
+{
+  "record_id": "abelina",
+  "source_url": "https://www.sudtipos.com/font/abelina",
+  "checked_at": "2026-03-09T01:37:14.932317+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.sudtipos.com/font/abelina",
+      "snippet": "In use News About us Eula Privacy Sudtipos Facebook Sudtipos Twitter Sudtipos Instagram sudtipos@sudtipos.com Copyright 2026 Sudtipos Designed by Ashler"
+    },
+    {
+      "date": "2011-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.sudtipos.com/font/abelina",
+      "snippet": " under completion of the Specialization in Typography Design at University of Buenos Aires, Argentina, during the years 2011 and 2012. Opentype features Uppercase-Lowercase Lowercase Superscript Currencies Standard ligat"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.sudtipos.com/font/abelina",
+      "snippet": "mpletion of the Specialization in Typography Design at University of Buenos Aires, Argentina, during the years 2011 and 2012. Opentype features Uppercase-Lowercase Lowercase Superscript Currencies Standard ligatures Disc"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.sudtipos.com/font/abelina",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.sudtipos.com/font/abelina",
+    "last_modified": null
+  }
+}

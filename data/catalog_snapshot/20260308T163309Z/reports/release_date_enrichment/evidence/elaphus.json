@@ -1,0 +1,34 @@
+{
+  "record_id": "elaphus",
+  "source_url": "https://deinwaller.com/elaphus",
+  "checked_at": "2026-03-09T01:58:57.978698+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://deinwaller.com/elaphus",
+      "snippet": " EINWALLER.COM (s) STUDIO (f) TRIAL FONTS (w) SELECTED WORK (t) TYPE CATALOGUE ↓ ( b ) BUY ELAPHUS Years of Production: 2019–2021 Glyphset: Latin Extended-A With great support of ↗ Bruce Kennett and others, I was able to"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://deinwaller.com/elaphus",
+      "snippet": "ALLER.COM (s) STUDIO (f) TRIAL FONTS (w) SELECTED WORK (t) TYPE CATALOGUE ↓ ( b ) BUY ELAPHUS Years of Production: 2019–2021 Glyphset: Latin Extended-A With great support of ↗ Bruce Kennett and others, I was able to get "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://deinwaller.com/elaphus",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://deinwaller.com/elaphus",
+    "last_modified": null
+  }
+}

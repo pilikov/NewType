@@ -1,0 +1,41 @@
+{
+  "record_id": "cyreal--marmelad",
+  "source_url": "https://www.cyreal.org/fonts/marmelad",
+  "checked_at": "2026-03-09T01:36:06.762128+00:00",
+  "candidates": [
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/marmelad/",
+      "snippet": "tyle OTF, TTF, woff2 Download Donate Source Files Authors: Manvel Shmavonyan Tags: Sans Serif Scripts: Latin Cyrillic © 2010–2026 Cyreal and respective authors. All rights reserved. This site uses cookies (including Goog"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/marmelad/",
+      "snippet": "rms well on screen because of its soft rounded features and generous x-height. The font supports Latin and Cyrillic. In 2022, the kerning is improved and the Latin language coverage expanded. To contribute, see github.co"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/marmelad/",
+      "snippet": "OTF, TTF, woff2 Download Donate Source Files Authors: Manvel Shmavonyan Tags: Sans Serif Scripts: Latin Cyrillic © 2010–2026 Cyreal and respective authors. All rights reserved. This site uses cookies (including Google An"
+    },
+    {
+      "date": "2026-03-02",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.cyreal.org/fonts/marmelad",
+      "snippet": "2026-03-02"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.cyreal.org/fonts/marmelad/",
+    "last_modified": null
+  }
+}

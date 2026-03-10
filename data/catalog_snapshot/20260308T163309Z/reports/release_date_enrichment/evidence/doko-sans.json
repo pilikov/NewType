@@ -1,0 +1,55 @@
+{
+  "record_id": "doko-sans",
+  "source_url": "https://www.setuptype.com/fonts/doko-sans",
+  "checked_at": "2026-03-09T02:01:14.258302+00:00",
+  "candidates": [
+    {
+      "date": "1992-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.setuptype.com/fonts/doko-sans",
+      "snippet": "egular  22 px An exoplanet planet is a planet outside the Solar System. The first confirmation of detection occurred in 1992. As of 1 October 2022, there are 5,197 confirmed exoplanets in 3,833 planetary systems, with 84"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.setuptype.com/fonts/doko-sans",
+      "snippet": "e est une planète en dehors du système solaire. La première confirmation de détection a eu lieu en 1992. Au 1er octobre 2022, il y avait 5 197 exoplanètes confirmées dans 3 833 systèmes planétaires, avec 840 systèmes aya"
+    },
+    {
+      "date": "2022-10-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.setuptype.com/fonts/doko-sans",
+      "snippet": "x An exoplanet planet is a planet outside the Solar System. The first confirmation of detection occurred in 1992. As of 1 October 2022, there are 5,197 confirmed exoplanets in 3,833 planetary systems, with 840 systems ha"
+    },
+    {
+      "date": "2025-07-14",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.setuptype.com/fonts/doko-sans",
+      "snippet": "t: 36.5 KB (Average size per style) Version: 0.7 Copyright: Doko Sans, Ondrej Jób © 2026. All rights reserved. Updated: Jul 14 2025 Buy v0.7 Try Change Color Scheme Specimen Styles Glyphs Info Setup Type Fonts, Branding,"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.setuptype.com/fonts/doko-sans",
+      "snippet": "tive Forms, Swashes, Ordinals Webfont: 36.5 KB (Average size per style) Version: 0.7 Copyright: Doko Sans, Ondrej Jób © 2026. All rights reserved. Updated: Jul 14 2025 Buy v0.7 Try Change Color Scheme Specimen Styles Gly"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.setuptype.com/fonts/doko-sans",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.setuptype.com/fonts/doko-sans",
+    "last_modified": null
+  }
+}

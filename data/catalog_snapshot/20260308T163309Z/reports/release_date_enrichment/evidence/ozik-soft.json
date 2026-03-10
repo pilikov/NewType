@@ -1,0 +1,27 @@
+{
+  "record_id": "ozik-soft",
+  "source_url": "https://nuformtype.com/typefaces/ozik-soft",
+  "checked_at": "2026-03-09T01:48:25.564647+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://nuformtype.com/ozik-soft",
+      "snippet": "often enjoy a game of hard-to-get. Here's to hoping OZIK Soft finds its cozy spot in your type library!! BUY OZIK Soft ©2026 NUFORM TYPE"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://nuformtype.com/typefaces/ozik-soft",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://nuformtype.com/ozik-soft",
+    "last_modified": null
+  }
+}

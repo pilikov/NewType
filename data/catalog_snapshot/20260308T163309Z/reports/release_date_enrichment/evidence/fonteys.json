@@ -1,0 +1,34 @@
+{
+  "record_id": "fonteys",
+  "source_url": "https://fandofonts.com/typefaces/fonteys",
+  "checked_at": "2026-03-09T01:59:18.574114+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fandofonts.com/portfolio/fonteys-typeface/",
+      "snippet": "phy which evil goal is to become the most used informal font on the planet. Even more than the Comic Sans! Creation May 2017 Author Fando Fonts Keys Open Type; Random; Comic; Handwritting; Lettering; Albert Monteys; Cyll"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fandofonts.com/portfolio/fonteys-typeface/",
+      "snippet": "eface Monteys’s typography Fumetto typeface Strukelj typeface Shop Portfolio Author Contact My account License info 0 © 2018  Fernando Fuentes More fonts and works soon Fonteys Typeface Out there, in the wastelands of th"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fandofonts.com/typefaces/fonteys",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fandofonts.com/portfolio/fonteys-typeface/",
+    "last_modified": null
+  }
+}

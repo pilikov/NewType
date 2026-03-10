@@ -1,0 +1,27 @@
+{
+  "record_id": "bungee",
+  "source_url": "https://djr.com/typefaces/bungee",
+  "checked_at": "2026-03-09T01:53:02.214369+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/typefaces/bungee",
+      "snippet": "e Don’t Be Denied Drylendar Allform Guta Cafe Vietnam Centre Cerise identity and website Horsetooth Int’l Film Festival 2019 Pokémon Super Extra Deluxe Essential Handbook Is it Cake? protein supplement FontGoggles Be[rli"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://djr.com/typefaces/bungee",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://djr.com/typefaces/bungee",
+    "last_modified": null
+  }
+}

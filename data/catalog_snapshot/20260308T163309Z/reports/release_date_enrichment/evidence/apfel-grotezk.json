@@ -1,0 +1,55 @@
+{
+  "record_id": "apfel-grotezk",
+  "source_url": "https://collletttivo.it/typefaces/apfel-grotezk",
+  "checked_at": "2026-03-09T01:36:40.553520+00:00",
+  "candidates": [
+    {
+      "date": "2019-11-19",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://www.collletttivo.it/typefaces/apfel-grotezk",
+      "snippet": "2019-11-19T00:00:00.000Z"
+    },
+    {
+      "date": "2019-11-19",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.collletttivo.it/typefaces/apfel-grotezk",
+      "snippet": "zes. Details Designed by Luigi Gorlero 1 Family , 5 Styles Supports Latin Licensed under SIL Open Font License Released November 19, 2019 Last updated October 6, 2023 Version 2.000 Download Donate to support our Open Sou"
+    },
+    {
+      "date": "2023-10-06",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.collletttivo.it/typefaces/apfel-grotezk",
+      "snippet": "Gorlero 1 Family , 5 Styles Supports Latin Licensed under SIL Open Font License Released November 19, 2019 Last updated October 6, 2023 Version 2.000 Download Donate to support our Open Source font catalogue Collletttivo"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.collletttivo.it/typefaces/apfel-grotezk",
+      "snippet": "ead and agree to the Privacy Policy submit email instagram github twitter Licensing Privacy Policy Newsletter Archive © 2026 Collletttivo Designed by Collletttivo. Developed by Luigi Gorlero ."
+    },
+    {
+      "date": "2023-10-06",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.collletttivo.it/typefaces/apfel-grotezk",
+      "snippet": "2023-10-06T00:00:00.000Z"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://collletttivo.it/typefaces/apfel-grotezk",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.collletttivo.it/typefaces/apfel-grotezk",
+    "last_modified": null
+  }
+}

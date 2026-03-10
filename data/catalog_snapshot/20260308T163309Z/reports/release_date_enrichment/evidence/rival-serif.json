@@ -1,0 +1,20 @@
+{
+  "record_id": "rival-serif",
+  "source_url": "https://motyfo.com/typefaces/rival-serif",
+  "checked_at": "2026-03-09T01:52:53.565066+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://motyfo.com/typefaces/rival-serif",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.motyfo.com/font-family/rival-serif/",
+    "last_modified": null
+  }
+}

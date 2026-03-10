@@ -1,0 +1,20 @@
+{
+  "record_id": "headwaters",
+  "source_url": "https://shinntype.com/headwaters",
+  "checked_at": "2026-03-09T02:02:21.337407+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://shinntype.com/headwaters",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://shinntype.com/headwaters/",
+    "last_modified": null
+  }
+}

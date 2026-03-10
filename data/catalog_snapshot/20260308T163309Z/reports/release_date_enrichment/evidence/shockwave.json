@@ -1,0 +1,55 @@
+{
+  "record_id": "shockwave",
+  "source_url": "https://dirtylinestudio.com/product/shockwave-svg-font/",
+  "checked_at": "2026-03-09T01:56:21.195278+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://dirtylinestudio.com/product/shockwave-svg-font/",
+      "snippet": "lettering with high-definition brush textures, completely built in to the font as a transparency. Requires Photoshop CC 2017 or Illustrator CC 2018 (or newer) to use. WHAT’S INCLUDED IN THIS PACK : Shockwave SVG Shockwav"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://dirtylinestudio.com/product/shockwave-svg-font/",
+      "snippet": "inition brush textures, completely built in to the font as a transparency. Requires Photoshop CC 2017 or Illustrator CC 2018 (or newer) to use. WHAT’S INCLUDED IN THIS PACK : Shockwave SVG Shockwave Brush Vector Shockwav"
+    },
+    {
+      "date": "2020-03-29",
+      "score": 0.7,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://dirtylinestudio.com/product/shockwave-svg-font/",
+      "snippet": "2020-03-29T05:22:35+07:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://dirtylinestudio.com/product/shockwave-svg-font/",
+      "snippet": "es Mockups Freebies Custom-Project Shop Freebies Custom-Project Works Font In Use Blog License About © Dirtyline Studio 2026 Shockwave – SVG FONT Buying Options Font Tester Info Glyph Buying Options White/Black Title/Par"
+    },
+    {
+      "date": "2020-03-29",
+      "score": 0.44999999999999996,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://dirtylinestudio.com/product/shockwave-svg-font/",
+      "snippet": "2020-03-29T05:33:59+07:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://dirtylinestudio.com/product/shockwave-svg-font/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://dirtylinestudio.com/product/shockwave-svg-font/",
+    "last_modified": null
+  }
+}

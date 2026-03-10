@@ -1,0 +1,69 @@
+{
+  "record_id": "nostalgic-dolphin-studio--olcino",
+  "source_url": "https://nostalgicdolphin.com/font-olcino/",
+  "checked_at": "2026-03-09T01:36:16.437083+00:00",
+  "candidates": [
+    {
+      "date": "2024-02-27",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://nostalgicdolphin.com/font-olcino/",
+      "snippet": "2024-02-27T12:09:45+00:00"
+    },
+    {
+      "date": "2024-02-27",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://nostalgicdolphin.com/font-olcino/",
+      "snippet": "2024-02-27T12:09:45+00:00"
+    },
+    {
+      "date": "2025-10-30",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://nostalgicdolphin.com/font-olcino/",
+      "snippet": "2025-10-30T18:53:01+00:00"
+    },
+    {
+      "date": "2025-10-30",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://nostalgicdolphin.com/font-olcino/",
+      "snippet": "2025-10-30T18:53:01+00:00"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://nostalgicdolphin.com/font-olcino/",
+      "snippet": "icolor OTF version of this font will show up only in apps that are compatible with color fonts, like Adobe Photoshop CC 2017.0.1 and above, Illustrator CC 2018 or QuarkXPress 2018. Learn more about color fonts & their su"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://nostalgicdolphin.com/font-olcino/",
+      "snippet": "l show up only in apps that are compatible with color fonts, like Adobe Photoshop CC 2017.0.1 and above, Illustrator CC 2018 or QuarkXPress 2018. Learn more about color fonts & their support in third-party apps at www.co"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://nostalgicdolphin.com/font-olcino/",
+      "snippet": "se enable JavaScript in your browser to complete this form. Email * SUBSCRIBE FONT LICENSING PRIVACY POLICY Copyright © 2024 Nostalgic Dolphin. All rights reserved."
+    },
+    {
+      "date": "2026-03-01",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://nostalgicdolphin.com/font-olcino/",
+      "snippet": "2026-03-01"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://nostalgicdolphin.com/font-olcino/",
+    "last_modified": null
+  }
+}

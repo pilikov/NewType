@@ -1,0 +1,34 @@
+{
+  "record_id": "calafati-soft",
+  "source_url": "https://wannatype.com/product/calafatisoft/",
+  "checked_at": "2026-03-09T01:44:42.834831+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://wannatype.com/product/calafatisoft/",
+      "snippet": "tly with the Wien Pro and the Liebelei Pro. Calafati is available in weights light, regular, medium, bold and black. In 2022, Calafati received a major update. The recent family, Calafati Soft, is an 100% offspring of sh"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://wannatype.com/product/calafatisoft/",
+      "snippet": "ng. Please check your entries and try again. By clicking the submit button you agree to the wannatype privacy policy. © 2025 wannatype.com Designed by wannatype.com. Engineered by danubeweb.at. Gefördert durch die Wirtsc"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://wannatype.com/product/calafatisoft/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://wannatype.com/product/calafatisoft/",
+    "last_modified": null
+  }
+}

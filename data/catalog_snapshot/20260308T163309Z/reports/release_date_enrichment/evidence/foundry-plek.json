@@ -1,0 +1,83 @@
+{
+  "record_id": "foundry-plek",
+  "source_url": "https://www.thefoundrytypes.com/fonts/foundry-plek",
+  "checked_at": "2026-03-09T01:46:00.105935+00:00",
+  "candidates": [
+    {
+      "date": "2020-08-11",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-plek/",
+      "snippet": "2020-08-11T14:41:27+00:00"
+    },
+    {
+      "date": "2023-08-24",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-plek/",
+      "snippet": "2023-08-24T11:52:22+00:00"
+    },
+    {
+      "date": "2023-08-24",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-plek/",
+      "snippet": "2023-08-24T11:52:22+00:00"
+    },
+    {
+      "date": "2002-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-plek/",
+      "snippet": "e developed, explored and fun. Foundry Flek can be viewed here . Foundry Flek and Plek, Graphics International 100, Nov 2002, p.29. Foundry Flek and Plek, Graphics International 100, Nov 2002, p.29. Foundry Flek and Plek"
+    },
+    {
+      "date": "2003-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-plek/",
+      "snippet": "y Flek and Plek, Design Week – Twenty Years On, Sept 2006, p.44. Foundry Flek and Plek, Graphics International 103, Feb 2003, p.17. Foundry Flek and Plek, Grafik 151, May 2007, back cover. Foundry Flek and Plek sample. I"
+    },
+    {
+      "date": "2006-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-plek/",
+      "snippet": "y Flek and Plek, Graphics International 100, Nov 2002, p.29. Foundry Flek and Plek, Design Week – Twenty Years On, Sept 2006, p.44. Foundry Flek and Plek, Graphics International 103, Feb 2003, p.17. Foundry Flek and Plek"
+    },
+    {
+      "date": "2007-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-plek/",
+      "snippet": "t 2006, p.44. Foundry Flek and Plek, Graphics International 103, Feb 2003, p.17. Foundry Flek and Plek, Grafik 151, May 2007, back cover. Foundry Flek and Plek sample. In use Lightwriting – an installation for Lumiere Du"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-plek/",
+      "snippet": "AQs Font licensing Privacy policy Account My account Orders Downloads Website by Studio Playne © The Foundry Types 1989–2026 Back to top"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-plek/",
+      "snippet": "Tue, 03 Mar 2026 14:39:53 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-plek",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.thefoundrytypes.com/fonts/foundry-plek/",
+    "last_modified": "Tue, 03 Mar 2026 14:39:53 GMT"
+  }
+}

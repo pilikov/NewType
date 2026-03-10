@@ -1,0 +1,20 @@
+{
+  "record_id": "axiom",
+  "source_url": "https://www.ludwigtype.de/fonts/axiom/overview",
+  "checked_at": "2026-03-09T02:02:26.908912+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.ludwigtype.de/fonts/axiom/overview",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ludwigtype.de/fonts/axiom/overview",
+    "last_modified": null
+  }
+}

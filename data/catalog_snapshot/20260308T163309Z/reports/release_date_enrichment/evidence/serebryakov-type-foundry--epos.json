@@ -1,0 +1,55 @@
+{
+  "record_id": "serebryakov-type-foundry--epos",
+  "source_url": "https://serebryakov.com/fonts/epos",
+  "checked_at": "2026-03-08T16:58:44.397509+00:00",
+  "candidates": [
+    {
+      "date": "2018-08-22",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/epos",
+      "snippet": "Cyrillic Features Discretionary ligatures Stylistic alternates Upper case forms only Designer Denis Serebryakov Release Aug 22, 2018 Awarded 2021, Modern Cyrillic, Winner Epos is a theatrical figure in the typographic re"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/epos",
+      "snippet": "cretionary ligatures Stylistic alternates Upper case forms only Designer Denis Serebryakov Release Aug 22, 2018 Awarded 2021, Modern Cyrillic, Winner Epos is a theatrical figure in the typographic repertoire. It blends t"
+    },
+    {
+      "date": "2006-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/epos",
+      "snippet": " medium, and regular. A wide set of ligatures and alternate characters allows for tighter, more rhythmic typesetting. © 2006– 2026 Instagram BELARUS, 220021, MINSK, NEZAVISIMOSTI AVE., 95A, OFFICE 37, REG. BY THE MINSK C"
+    },
+    {
+      "date": "2014-02-11",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/epos",
+      "snippet": "026 Instagram BELARUS, 220021, MINSK, NEZAVISIMOSTI AVE., 95A, OFFICE 37, REG. BY THE MINSK CITY EXECUTIVE COMMITTEE ON FEB 11, 2014. TAX ID 290447975, IE DENIS RODIONOVICH SEREBRYAKOV"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/epos",
+      "snippet": "m, and regular. A wide set of ligatures and alternate characters allows for tighter, more rhythmic typesetting. © 2006– 2026 Instagram BELARUS, 220021, MINSK, NEZAVISIMOSTI AVE., 95A, OFFICE 37, REG. BY THE MINSK CITY EX"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://serebryakov.com/fonts/epos",
+      "snippet": "2026-03-05"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://serebryakov.com/fonts/epos",
+    "last_modified": null
+  }
+}

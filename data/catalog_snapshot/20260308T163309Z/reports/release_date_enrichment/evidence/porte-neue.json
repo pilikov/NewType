@@ -1,0 +1,48 @@
+{
+  "record_id": "porte-neue",
+  "source_url": "https://groteskly.xyz/typefaces/porte-neue",
+  "checked_at": "2026-03-09T01:47:09.491565+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://groteskly.xyz/fonts/porte-neue",
+      "snippet": "â¬35 â¬105 Porte Neue Porte Neue is an elegant font family by Groteskly Yours Studio. Originally released as Porte in 2019, this updated 2025 version refines its classic outlines while expanding the family to six style"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://groteskly.xyz/fonts/porte-neue",
+      "snippet": "Neue Porte Neue is an elegant font family by Groteskly Yours Studio. Originally released as Porte in 2019, this updated 2025 version refines its classic outlines while expanding the family to six styles plus a variable f"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://groteskly.xyz/fonts/porte-neue",
+      "snippet": " Tantsurin PR Ostale Informacione Tehnologije Beograd 1B Matice Srpske Belgrade, Serbia 11160 Â© Groteskly Yours Studio 2026 Site Home All Fonts Fonts in Use Trials About Blog FAQ Licensing Cookies Privacy Refunds Contac"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://groteskly.xyz/fonts/porte-neue",
+      "snippet": "Tue, 03 Mar 2026 13:59:44 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://groteskly.xyz/typefaces/porte-neue",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://groteskly.xyz/fonts/porte-neue",
+    "last_modified": "Tue, 03 Mar 2026 13:59:44 GMT"
+  }
+}

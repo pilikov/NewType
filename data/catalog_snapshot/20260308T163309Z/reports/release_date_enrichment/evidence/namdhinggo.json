@@ -1,0 +1,104 @@
+{
+  "record_id": "namdhinggo",
+  "source_url": "https://software.sil.org/namdhinggo",
+  "checked_at": "2026-03-09T01:58:32.553285+00:00",
+  "candidates": [
+    {
+      "date": "2019-03-14",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://software.sil.org/namdhinggo/",
+      "snippet": "2019-03-14T19:04:00+00:00"
+    },
+    {
+      "date": "2019-03-14",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://software.sil.org/namdhinggo/",
+      "snippet": "2019-03-14T19:04:00+00:00"
+    },
+    {
+      "date": "2007-06-14",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/namdhinggo/",
+      "snippet": "Namdhinggo SIL L (obsolete legacy font) 1.001 for all platforms LEGACY FONT                 | 67.1 KB                 | 14 Jun 2007 top Information for Contributors We welcome contributions to this font project, such as "
+    },
+    {
+      "date": "2023-12-21",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/namdhinggo/",
+      "snippet": "nt Version Version Platform Details Namdhinggo 3.100 for all platforms FONT                 | 1.05 MB                 | 21 Dec 2023 Release Notes for v3.100 Add single danda (U+0964) Previous Versions Version Platform De"
+    },
+    {
+      "date": "2025-09-17",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://software.sil.org/namdhinggo/",
+      "snippet": "2025-09-17T20:13:08+00:00"
+    },
+    {
+      "date": "2025-09-17",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://software.sil.org/namdhinggo/",
+      "snippet": "2025-09-17T20:13:08+00:00"
+    },
+    {
+      "date": "2012-02-21",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/namdhinggo/",
+      "snippet": "             | 28 May 2021 Namdhinggo SIL 1.004 for all platforms PREV FONT                 | 70.0 KB                 | 21 Feb 2012 Legacy font (obsolete) This font is not encoded according to the Unicode Standard. It is"
+    },
+    {
+      "date": "2021-05-28",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/namdhinggo/",
+      "snippet": "            | 29 Apr 2022 Namdhinggo SIL 2.000 for all platforms PREV FONT                 | 144.2 KB                 | 28 May 2021 Namdhinggo SIL 1.004 for all platforms PREV FONT                 | 70.0 KB              "
+    },
+    {
+      "date": "2022-04-29",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/namdhinggo/",
+      "snippet": "                | 24 Aug 2022 Namdhinggo 3.000 for all platforms PREV FONT                 | 871.2 KB                 | 29 Apr 2022 Namdhinggo SIL 2.000 for all platforms PREV FONT                 | 144.2 KB             "
+    },
+    {
+      "date": "2022-08-24",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/namdhinggo/",
+      "snippet": "ions Version Platform Details Namdhinggo 3.001 for all platforms PREV FONT                 | 908.2 KB                 | 24 Aug 2022 Namdhinggo 3.000 for all platforms PREV FONT                 | 871.2 KB                 "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/namdhinggo/",
+      "snippet": "Language Software Forum Scripture Software Forum General Software Support Serve with Us About Us Contact Us Copyright © 2026 SIL Global Terms of Use Privacy Policy"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://software.sil.org/namdhinggo/",
+      "snippet": "Mon, 09 Mar 2026 00:33:04 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://software.sil.org/namdhinggo",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://software.sil.org/namdhinggo/",
+    "last_modified": "Mon, 09 Mar 2026 00:33:04 GMT"
+  }
+}

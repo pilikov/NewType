@@ -1,0 +1,27 @@
+{
+  "record_id": "ping-pong",
+  "source_url": "https://capitalics.wtf/font/ping-pong",
+  "checked_at": "2026-03-09T01:51:58.469242+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://capitalics.wtf/en/font/ping-pong",
+      "snippet": "for the Printing Industry, they attempted to rasterize letters of different sizes and with different line densities. In 2020, Mateusz Machalski wanted to digitize and expand the entire project. Thanks to the help of prof"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://capitalics.wtf/font/ping-pong",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://capitalics.wtf/en/font/ping-pong",
+    "last_modified": null
+  }
+}

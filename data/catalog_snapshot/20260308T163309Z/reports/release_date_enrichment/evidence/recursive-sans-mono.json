@@ -1,0 +1,97 @@
+{
+  "record_id": "recursive-sans-mono",
+  "source_url": "https://www.recursive.design/",
+  "checked_at": "2026-03-09T01:48:36.756815+00:00",
+  "candidates": [
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.recursive.design/",
+      "snippet": "ghths (u+215d) ⅞ ⅞ vulgar fraction seven eighths (u+215e) _ _ low line (u+005f) - - hyphen-minus (u+002d) ‐ ‐ hyphen (u+2010) ‒ ‒ figure dash (u+2012) – – en dash (u+2013) — — em dash (u+2014) ― ― horizontal bar (u+2015)"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.recursive.design/",
+      "snippet": " fraction seven eighths (u+215e) _ _ low line (u+005f) - - hyphen-minus (u+002d) ‐ ‐ hyphen (u+2010) ‒ ‒ figure dash (u+2012) – – en dash (u+2013) — — em dash (u+2014) ― ― horizontal bar (u+2015) ( ( left parenthesis (u+"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.recursive.design/",
+      "snippet": "hs (u+215e) _ _ low line (u+005f) - - hyphen-minus (u+002d) ‐ ‐ hyphen (u+2010) ‒ ‒ figure dash (u+2012) – – en dash (u+2013) — — em dash (u+2014) ― ― horizontal bar (u+2015) ( ( left parenthesis (u+0028) ) ) right paren"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.recursive.design/",
+      "snippet": "ine (u+005f) - - hyphen-minus (u+002d) ‐ ‐ hyphen (u+2010) ‒ ‒ figure dash (u+2012) – – en dash (u+2013) — — em dash (u+2014) ― ― horizontal bar (u+2015) ( ( left parenthesis (u+0028) ) ) right parenthesis (u+0029) [ [ l"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.recursive.design/",
+      "snippet": "s (u+002d) ‐ ‐ hyphen (u+2010) ‒ ‒ figure dash (u+2012) – – en dash (u+2013) — — em dash (u+2014) ― ― horizontal bar (u+2015) ( ( left parenthesis (u+0028) ) ) right parenthesis (u+0029) [ [ left square bracket (u+005b) "
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.recursive.design/",
+      "snippet": "0025) ‰ ‰ per mille sign (u+2030) ' ' apostrophe (u+0027) \" \" quotation mark (u+0022) ‘ ‘ left single quotation mark (u+2018) ’ ’ right single quotation mark (u+2019) “ “ left double quotation mark (u+201c) ” ” right dou"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.recursive.design/",
+      "snippet": "strophe (u+0027) \" \" quotation mark (u+0022) ‘ ‘ left single quotation mark (u+2018) ’ ’ right single quotation mark (u+2019) “ “ left double quotation mark (u+201c) ” ” right double quotation mark (u+201d) ‚ ‚ single lo"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.recursive.design/",
+      "snippet": "gle quotation mark (u+00ab) » » right-pointing double angle quotation mark (u+00bb) * * asterisk (u+002a) † † dagger (u+2020) ‡ ‡ double dagger (u+2021) · · middle dot (u+00b7) • • bullet (u+2022) … … horizontal ellipsis"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.recursive.design/",
+      "snippet": " » » right-pointing double angle quotation mark (u+00bb) * * asterisk (u+002a) † † dagger (u+2020) ‡ ‡ double dagger (u+2021) · · middle dot (u+00b7) • • bullet (u+2022) … … horizontal ellipsis (u+2026) . . full stop (u+"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.recursive.design/",
+      "snippet": "ark (u+00bb) * * asterisk (u+002a) † † dagger (u+2020) ‡ ‡ double dagger (u+2021) · · middle dot (u+00b7) • • bullet (u+2022) … … horizontal ellipsis (u+2026) . . full stop (u+002e) , , comma (u+002c) : : colon (u+003a) "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.recursive.design/",
+      "snippet": ") † † dagger (u+2020) ‡ ‡ double dagger (u+2021) · · middle dot (u+00b7) • • bullet (u+2022) … … horizontal ellipsis (u+2026) . . full stop (u+002e) , , comma (u+002c) : : colon (u+003a) ; ; semicolon (u+003b) ! ! exclam"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.recursive.design/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.recursive.design/",
+    "last_modified": null
+  }
+}

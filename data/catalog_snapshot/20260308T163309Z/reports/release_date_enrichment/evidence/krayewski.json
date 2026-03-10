@@ -1,0 +1,55 @@
+{
+  "record_id": "krayewski",
+  "source_url": "https://laic.pl/typefaces/krayewski",
+  "checked_at": "2026-03-09T01:52:27.871749+00:00",
+  "candidates": [
+    {
+      "date": "2023-10-22",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://laic.pl/product/typefaces/krayewski/",
+      "snippet": "2023-10-22T02:34:53+00:00"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://laic.pl/product/typefaces/krayewski/",
+      "snippet": "ver for “Moje Okładki” (“My Covers”). The book, containing multiple designs by the artist was published and designed in 2014 by Tytus Klepacz. Design update support: Pola Małaczewska Script support: Latin, Cyrillic, Gree"
+    },
+    {
+      "date": "2026-02-17",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://laic.pl/product/typefaces/krayewski/",
+      "snippet": "2026-02-17T15:05:17+00:00"
+    },
+    {
+      "date": "2026-02-17",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://laic.pl/product/typefaces/krayewski/",
+      "snippet": "2026-02-17T15:05:17+00:00"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://laic.pl/product/typefaces/krayewski/",
+      "snippet": " Monter Center ↓ Hello, this is Krayewski Typeface Krayewski typeface is a geometric display typeface. Designed back in 2018 as a tribute to polish designer Andre de Krayewski. The font is based on a lettering sketch by "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://laic.pl/typefaces/krayewski",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://laic.pl/product/typefaces/krayewski/",
+    "last_modified": null
+  }
+}

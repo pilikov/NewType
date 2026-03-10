@@ -1,0 +1,69 @@
+{
+  "record_id": "alphatier-pro",
+  "source_url": "https://typeculture.com/typefaces/alphatier-pro/",
+  "checked_at": "2026-03-09T01:51:52.849576+00:00",
+  "candidates": [
+    {
+      "date": "2016-10-07",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typeculture.com/foundry/font-collection/alphatier-pro/",
+      "snippet": "2016-10-07T15:21:24+00:00"
+    },
+    {
+      "date": "2001-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeculture.com/foundry/font-collection/alphatier-pro/",
+      "snippet": "gn competition. In 2002, Alphatier was selected as one of 17 typefaces to represent the best in type design of the year 2001 by the Type Directors Club of New York in their annual competition. Styles Complements OpenType"
+    },
+    {
+      "date": "2004-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeculture.com/foundry/font-collection/alphatier-pro/",
+      "snippet": "l and historic script. Available on Typekit Latienne™ Pro Always a popular design, now loaded with OpenType features. © 2004–2026 TypeCulture LLC • 130 Park Ave. • Portland • Maine • 04101 • Privacy Policy • Contact Us T"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeculture.com/foundry/font-collection/alphatier-pro/",
+      "snippet": " historic script. Available on Typekit Latienne™ Pro Always a popular design, now loaded with OpenType features. © 2004–2026 TypeCulture LLC • 130 Park Ave. • Portland • Maine • 04101 • Privacy Policy • Contact Us Typeki"
+    },
+    {
+      "date": "2024-04-29",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typeculture.com/foundry/font-collection/alphatier-pro/",
+      "snippet": "2024-04-29T14:17:16+00:00"
+    },
+    {
+      "date": "2024-04-29",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.typeculture.com/foundry/font-collection/alphatier-pro/",
+      "snippet": "2024-04-29T14:17:16+00:00"
+    },
+    {
+      "date": "2002-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typeculture.com/foundry/font-collection/alphatier-pro/",
+      "snippet": "s chosen a winner in the Association Typographique Internationale’s first international typeface design competition. In 2002, Alphatier was selected as one of 17 typefaces to represent the best in type design of the year"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typeculture.com/typefaces/alphatier-pro/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typeculture.com/foundry/font-collection/alphatier-pro/",
+    "last_modified": null
+  }
+}

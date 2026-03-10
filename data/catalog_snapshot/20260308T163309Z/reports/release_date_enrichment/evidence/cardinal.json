@@ -1,0 +1,41 @@
+{
+  "record_id": "cardinal",
+  "source_url": "https://verycoolstudio.com/typefaces/cardinal",
+  "checked_at": "2026-03-09T01:37:24.576859+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://verycoolstudio.com/typefaces/cardinal",
+      "snippet": " Cool Studio | Cardinal Very Cool Typefaces Articles About In Use Cardinal Version 1.1 Char set Extended Latin Released 2017 Designer Kyle Benson Styles 48 TrialFonts.otf For as long as there have been poster grotesques "
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://verycoolstudio.com/typefaces/cardinal",
+      "snippet": "gular and Medium in use by Banzai Cardinal Condensed ExtraBold Italic in use by Jeff Wiggins for My Famicase Exhibition 2019 Cardinal Wide Medium in use by Joachim Herz Stiftung See also Aa Kansas Casual A sign painter's"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://verycoolstudio.com/typefaces/cardinal",
+      "snippet": "out them is the name. Our trial fonts have full opentype features, kerning, and character sets included. Happy trials! ©2026 Very Cool Studio Commercial License Terms Trial Terms"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://verycoolstudio.com/typefaces/cardinal",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://verycoolstudio.com/typefaces/cardinal",
+    "last_modified": null
+  }
+}

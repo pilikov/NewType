@@ -1,0 +1,55 @@
+{
+  "record_id": "sportsfonts-legends",
+  "source_url": "https://sportsfonts.com/fonts/sportsfonts-legends",
+  "checked_at": "2026-03-09T01:57:15.717341+00:00",
+  "candidates": [
+    {
+      "date": "2025-05-08",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://sportsfonts.com/fonts/sportsfonts-legends",
+      "snippet": "2025-05-08"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sportsfonts.com/fonts/sportsfonts-legends",
+      "snippet": "rts, from no-budget to high-profile. Browse our retail fonts , or get in touch for modifications or custom solutions. © 2016–2026 Sportsfonts / Christoph Koeberlin . Website by Andreas Nymark . No cookies, no tracking, n"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sportsfonts.com/fonts/sportsfonts-legends",
+      "snippet": "ee Numerals-only Retro Gallery Photo © fcn.de ↑ Franz in use by 1. FC Nürnberg ( Special shirt “Eingetragener Verein” , 2024) Font styles Sportsfonts Legends 123 Diego 123 Franz 123 Johan 123 Pelé Glyph inspector Show gl"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sportsfonts.com/fonts/sportsfonts-legends",
+      "snippet": "stoph Koeberlin Styles 4 License Free for non-commercial use ( CC BY-NC-ND 4.0 ). Otherwise, please get in touch . Year 2025 Current version 1.000 See also Libero , Winner Numerals , Panenka Tags Free Numerals-only Retro"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sportsfonts.com/fonts/sportsfonts-legends",
+      "snippet": "from no-budget to high-profile. Browse our retail fonts , or get in touch for modifications or custom solutions. © 2016–2026 Sportsfonts / Christoph Koeberlin . Website by Andreas Nymark . No cookies, no tracking, no shi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://sportsfonts.com/fonts/sportsfonts-legends",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sportsfonts.com/fonts/sportsfonts-legends",
+    "last_modified": null
+  }
+}

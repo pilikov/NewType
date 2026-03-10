@@ -1,0 +1,41 @@
+{
+  "record_id": "ott-ornamental-title-type--moore",
+  "source_url": "https://ott-foundry.com/typefaces/moore",
+  "checked_at": "2026-03-09T02:01:18.536398+00:00",
+  "candidates": [
+    {
+      "date": "1996-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ott-foundry.com/typefaces/moore",
+      "snippet": "∞◊√∫∂∏µ∑ΩΩΔ∆ℓ℮ Font in use Dreams, Los Angeles Dreams, Los Angeles Dreams, Los Angeles Dreams, Los Angeles Essais, 2020–1996 by Jacques Ferrier Essais, 2020–1996 by Jacques Ferrier Essais, 2020–1996 by Jacques Ferrier Es"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ott-foundry.com/typefaces/moore",
+      "snippet": "↕↖↗↘↙∞◊√∫∂∏µ∑ΩΩΔ∆ℓ℮ Font in use Dreams, Los Angeles Dreams, Los Angeles Dreams, Los Angeles Dreams, Los Angeles Essais, 2020–1996 by Jacques Ferrier Essais, 2020–1996 by Jacques Ferrier Essais, 2020–1996 by Jacques Ferri"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ott-foundry.com/typefaces/moore",
+      "snippet": "1996 by Jacques Ferrier Essais, 2020–1996 by Jacques Ferrier Essais, 2020–1996 by Jacques Ferrier Festival Magic Barbès 2024 Poster Festival Magic Barbès 2024 Poster Festival Magic Barbès 2024 Poster Festival Magic Barbè"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ott-foundry.com/typefaces/moore",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ott-foundry.com/typefaces/moore",
+    "last_modified": null
+  }
+}

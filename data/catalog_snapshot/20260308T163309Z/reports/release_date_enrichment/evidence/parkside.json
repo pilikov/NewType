@@ -1,0 +1,34 @@
+{
+  "record_id": "parkside",
+  "source_url": "https://www.marksimonson.com/fonts/view/parkside",
+  "checked_at": "2026-03-09T01:51:53.904772+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.marksimonson.com/fonts/view/parkside/",
+      "snippet": "turn Policy Connect Contact Me Email Newsletter Instagram X (Twitter) Mastodon Notebook RSS Feed Mark Simonson Studio © 2026 The Type Founders, LLC"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.marksimonson.com/fonts/view/parkside/",
+      "snippet": "Parkside | Fonts by Mark Simonson Fonts Notebook Services About Cart Parkside Fonts Buy Parkside Parkside (2018) is a script typeface inspired by typefaces and lettering of the 1930s and 1940s. Unlike metal typefaces fro"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.marksimonson.com/fonts/view/parkside",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.marksimonson.com/fonts/view/parkside/",
+    "last_modified": null
+  }
+}

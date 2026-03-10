@@ -1,0 +1,34 @@
+{
+  "record_id": "gal-gothic",
+  "source_url": "http://blackletra.com/typefaces/gal-gothic",
+  "checked_at": "2026-03-09T01:40:41.093301+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-24",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://blackletra.com/typefaces/gal-gothic",
+      "snippet": "2025-01-24"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://blackletra.com/typefaces/gal-gothic",
+      "snippet": "ec Zarma Zazaki Zulu Zuni Design Daniel Sabino Production Daniel Sabino Lucas Gini Font engineering Henrique Beier Year 2022 Related Gal Gothic Narrow Gal Gothic Condensed Gal Gothic Buying Options Close Anyone who uses "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://blackletra.com/typefaces/gal-gothic",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://blackletra.com/typefaces/gal-gothic",
+    "last_modified": null
+  }
+}

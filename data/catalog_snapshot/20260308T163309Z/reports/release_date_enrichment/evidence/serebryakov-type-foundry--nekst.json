@@ -1,0 +1,55 @@
+{
+  "record_id": "serebryakov-type-foundry--nekst",
+  "source_url": "https://serebryakov.com/fonts/nekst",
+  "checked_at": "2026-03-08T16:58:44.541455+00:00",
+  "candidates": [
+    {
+      "date": "2020-07-10",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/nekst",
+      "snippet": "Cyrillic Features Stylistic alternates Case-sensitive forms Oldstyle/Lining figures Designer Denis Serebryakov Released Jul 10, 2020 Awarded 2022, Granshan, Special Mention Nekst is a geometric grotesque — simple and aus"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/nekst",
+      "snippet": "listic alternates Case-sensitive forms Oldstyle/Lining figures Designer Denis Serebryakov Released Jul 10, 2020 Awarded 2022, Granshan, Special Mention Nekst is a geometric grotesque — simple and austere, but only at fir"
+    },
+    {
+      "date": "2006-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/nekst",
+      "snippet": " and typographic tension. This is a typeface where form doesn’t follow trend — it becomes a tool for visual thinking. © 2006– 2026 Instagram BELARUS, 220021, MINSK, NEZAVISIMOSTI AVE., 95A, OFFICE 37, REG. BY THE MINSK C"
+    },
+    {
+      "date": "2014-02-11",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/nekst",
+      "snippet": "026 Instagram BELARUS, 220021, MINSK, NEZAVISIMOSTI AVE., 95A, OFFICE 37, REG. BY THE MINSK CITY EXECUTIVE COMMITTEE ON FEB 11, 2014. TAX ID 290447975, IE DENIS RODIONOVICH SEREBRYAKOV"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/nekst",
+      "snippet": "ypographic tension. This is a typeface where form doesn’t follow trend — it becomes a tool for visual thinking. © 2006– 2026 Instagram BELARUS, 220021, MINSK, NEZAVISIMOSTI AVE., 95A, OFFICE 37, REG. BY THE MINSK CITY EX"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://serebryakov.com/fonts/nekst",
+      "snippet": "2026-03-05"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://serebryakov.com/fonts/nekst",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "record_id": "victory-gardens-sans",
+  "source_url": "https://www.gregshutters.com/victory-gardens-sans",
+  "checked_at": "2026-03-09T01:54:16.262069+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.gregshutters.com/victory-gardens-sans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "404 Client Error: Not Found for url: https://www.gregshutters.com/victory-gardens-sans"
+  }
+}

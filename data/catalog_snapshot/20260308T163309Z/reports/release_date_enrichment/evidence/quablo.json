@@ -1,0 +1,20 @@
+{
+  "record_id": "quablo",
+  "source_url": "https://www.atipofoundry.com/fonts/quablo",
+  "checked_at": "2026-03-09T01:57:46.007342+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.atipofoundry.com/fonts/quablo",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.atipofoundry.com/fonts/quablo",
+    "last_modified": null
+  }
+}

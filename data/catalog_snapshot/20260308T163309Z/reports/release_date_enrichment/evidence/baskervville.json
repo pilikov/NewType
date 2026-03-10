@@ -1,0 +1,34 @@
+{
+  "record_id": "baskervville",
+  "source_url": "https://anrt-nancy.fr/fr/fonts/baskervville",
+  "checked_at": "2026-03-09T02:02:47.818513+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://anrt-nancy.fr/fr/fonts/baskervville",
+      "snippet": "phique ANRT Présentation Projets Candidature Recherche Publications Vidéos Articles Fontes Journal en Baskervville Info 2017–2018 Alexis Faudot, Rémi Forte, Morgane Pierson, Rafael Ribas, Tanguy Vanlaeys, Rosalie Wagner "
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://anrt-nancy.fr/fr/fonts/baskervville",
+      "snippet": "e ANRT Présentation Projets Candidature Recherche Publications Vidéos Articles Fontes Journal en Baskervville Info 2017–2018 Alexis Faudot, Rémi Forte, Morgane Pierson, Rafael Ribas, Tanguy Vanlaeys, Rosalie Wagner Baske"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://anrt-nancy.fr/fr/fonts/baskervville",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://anrt-nancy.fr/fr/fonts/baskervville",
+    "last_modified": null
+  }
+}

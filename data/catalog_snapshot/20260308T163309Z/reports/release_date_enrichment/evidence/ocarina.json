@@ -1,0 +1,55 @@
+{
+  "record_id": "ocarina",
+  "source_url": "https://www.setuptype.com/fonts/ocarina",
+  "checked_at": "2026-03-09T02:01:21.578161+00:00",
+  "candidates": [
+    {
+      "date": "1992-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.setuptype.com/fonts/ocarina",
+      "snippet": "Aa Aa Regular  19 px Ein Exoplanet ist ein Planet außerhalb des Sonnensystems. Die erste bestätigte Entdeckung erfolgte 1992. Bis zum 1. Oktober 2022 sind 5.197 bestätigte Exoplaneten in 3.833 Planetensystemen bekannt, v"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.setuptype.com/fonts/ocarina",
+      "snippet": "Exoplanet ist ein Planet außerhalb des Sonnensystems. Die erste bestätigte Entdeckung erfolgte 1992. Bis zum 1. Oktober 2022 sind 5.197 bestätigte Exoplaneten in 3.833 Planetensystemen bekannt, von denen 840 Systeme mehr"
+    },
+    {
+      "date": "2022-10-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.setuptype.com/fonts/ocarina",
+      "snippet": "x An exoplanet planet is a planet outside the Solar System. The first confirmation of detection occurred in 1992. As of 1 October 2022, there are 5,197 confirmed exoplanets in 3,833 planetary systems, with 840 systems ha"
+    },
+    {
+      "date": "2025-05-15",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.setuptype.com/fonts/ocarina",
+      "snippet": "nt: 26.2 KB (Average size per style) Version: 0.93 Copyright: Ocarina, Ondrej Jób © 2026. All rights reserved. Updated: May 15 2025 Buy v0.93 Try Change Color Scheme Specimen Styles Glyphs Info Setup Type Fonts, Branding"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.setuptype.com/fonts/ocarina",
+      "snippet": "itive Forms, Subscript Figures Webfont: 26.2 KB (Average size per style) Version: 0.93 Copyright: Ocarina, Ondrej Jób © 2026. All rights reserved. Updated: May 15 2025 Buy v0.93 Try Change Color Scheme Specimen Styles Gl"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.setuptype.com/fonts/ocarina",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.setuptype.com/fonts/ocarina",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "superveloz",
+  "source_url": "https://typerepublic.com/fonts/superveloz",
+  "checked_at": "2026-03-09T01:59:58.606355+00:00",
+  "candidates": [
+    {
+      "date": "2004-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typerepublic.com/fonts/superveloz/",
+      "snippet": "dry in Barcelona in the early 1940s. This modular system was digitized and revived by Andreu Balius and Àlex Trochut in 2004. SuperTipo Veloz, produced in 1942 by Fundición Tipográfica Iranzo (Barcelona), is a set of com"
+    },
+    {
+      "date": "2005-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typerepublic.com/fonts/superveloz/",
+      "snippet": "signed by Joan Trochut, 1942 Andreu Balius and Àlex Trochut, 2004 Awards Excellence in Type Design Type Directors Club. 2005 Free trial versions Curious to try our fonts before committing? We are offering free trial vers"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typerepublic.com/fonts/superveloz/",
+      "snippet": "ustom In Use Blog Shop About HELP Support Commercial Policy Licensing EULA FAQs Privacy Policy Terms of use Copyright © 2026 Typerepublic. All Rights Reserved. Made with ♥ by Ashler Design"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typerepublic.com/fonts/superveloz",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typerepublic.com/fonts/superveloz/",
+    "last_modified": null
+  }
+}

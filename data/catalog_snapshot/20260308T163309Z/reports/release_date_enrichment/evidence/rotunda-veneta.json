@@ -1,0 +1,27 @@
+{
+  "record_id": "rotunda-veneta",
+  "source_url": "https://www.c-a-s-t.com/typefaces/rotunda-veneta",
+  "checked_at": "2026-03-09T01:47:32.291267+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/rotunda-veneta/",
+      "snippet": ", Rwa, Samburu, Sangu, Shambala, Shona, Soga, Somali, Swahili, Taita, Teso, Uzbek (Latin), Vunjo, Zulu Production years 2020 Additional info Rotunda Veneta: capturing the 15th-century mainstream Where Textura was the for"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.c-a-s-t.com/typefaces/rotunda-veneta",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.c-a-s-t.com/typefaces/rotunda-veneta/",
+    "last_modified": null
+  }
+}

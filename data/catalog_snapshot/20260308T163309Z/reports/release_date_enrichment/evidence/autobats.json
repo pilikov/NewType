@@ -1,0 +1,19 @@
+{
+  "record_id": "autobats",
+  "source_url": "https://canadatype.com/product/autobats-font",
+  "checked_at": "2026-03-09T02:02:24.275868+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://canadatype.com/product/autobats-font",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "403 Client Error: Forbidden for url: https://canadatype.com/product/autobats-font"
+  }
+}

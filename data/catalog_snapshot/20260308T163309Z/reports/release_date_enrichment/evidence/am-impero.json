@@ -1,0 +1,27 @@
+{
+  "record_id": "am-impero",
+  "source_url": "http://www.c-a-s-t.com/typefaces/am-impero",
+  "checked_at": "2026-03-09T01:48:28.121769+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/am-impero/",
+      "snippet": " Swiss German, Taita, Teso, Upper Sorbian, Uzbek (Latin), Volapük, Vunjo, Welsh, Western Frisian, Zulu Production years 2025 Additional info ‘The goal with AM Impero,’ says designer Antonella Sartorelli, ‘was to preserve"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://www.c-a-s-t.com/typefaces/am-impero",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.c-a-s-t.com/typefaces/am-impero/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "mgf-sans",
+  "source_url": "https://www.c-a-s-t.com/typefaces/mgf-sans",
+  "checked_at": "2026-03-09T01:44:59.556152+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/mgf-sans/",
+      "snippet": "pe Foundry. Home / Typefaces / Studies / MGF Sans MGF Sans Font Info Testers Glyphs Opentype Font info Designed for the 2022 Milano Graphic Festival, and then extended to its successor BIG, this contemporary sans echoes "
+    },
+    {
+      "date": "2022-03-27",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/mgf-sans/",
+      "snippet": "lano Graphic Festival, the first widespread event of graphic design, illustration and visual cultures held in Milan, 25–27 March 2022. Designer Fabrizio Falcone – along with festival director Francesco Dondina – was look"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/mgf-sans/",
+      "snippet": "h, Swiss German, Taita, Teso, Uzbek (Latin), Volapük, Vunjo, Walser, Welsh, Western Frisian, Zulu Production years 2022-2024 Additional info MGF: the Milanese cut MGF Sans was born as the custom face of Milano Graphic Fe"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.c-a-s-t.com/typefaces/mgf-sans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.c-a-s-t.com/typefaces/mgf-sans/",
+    "last_modified": null
+  }
+}

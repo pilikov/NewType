@@ -1,0 +1,27 @@
+{
+  "record_id": "madis-igor",
+  "source_url": "https://www.suvatypefoundry.ee/madis-igor/",
+  "checked_at": "2026-03-09T01:48:32.144021+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/madis-igor/",
+      "snippet": "FONT MADIS-IGOR NEXT FONT J W B C S Y D N G M L H A R DOWNLOAD X V Z P Q E K F I O U T MADIS-IGOR  by Eliisabet Kuslap (2019) The outlined font symbolizes the wish to stay anonymous while the Cyrillic letters emphasize t"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/madis-igor/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/madis-igor/",
+    "last_modified": null
+  }
+}

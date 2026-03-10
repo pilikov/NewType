@@ -1,0 +1,48 @@
+{
+  "record_id": "schrift-foundry--rufus",
+  "source_url": "https://www.schriftfoundry.com/collection/rufus",
+  "checked_at": "2026-03-09T01:36:02.250842+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.schriftfoundry.com/collection/rufus",
+      "snippet": "ev. And now you can enjoy their mutual typographical genesis. Design Eugene Yukechev Consulting Savva Terentyev Release 2020 * For more details: “ Rhythmic spacing  in music engraving of Terentyev’s editions anno 2021 ” "
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.schriftfoundry.com/collection/rufus",
+      "snippet": "ng Savva Terentyev Release 2020 * For more details: “ Rhythmic spacing  in music engraving of Terentyev’s editions anno 2021 ” Casus & Rufus Illusion+Samsara Stolyar Illusion+Samsara Casus & Rufus Illusion+Samsara Illusi"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.schriftfoundry.com/collection/rufus",
+      "snippet": " info@schriftfoundry.com Sign up for updates Your submission has been received! Something went wrong. Try again later © 2025 Schrift Publishers, Inc. Back to Top ↑ Sign up for updates Your submission has been received! S"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.schriftfoundry.com/collection/rufus",
+      "snippet": "Thu, 05 Mar 2026 17:50:33 GMT"
+    },
+    {
+      "date": "2026-03-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.schriftfoundry.com/collection/rufus",
+      "snippet": "2026-03-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.schriftfoundry.com/collection/rufus",
+    "last_modified": "Thu, 05 Mar 2026 17:50:33 GMT"
+  }
+}

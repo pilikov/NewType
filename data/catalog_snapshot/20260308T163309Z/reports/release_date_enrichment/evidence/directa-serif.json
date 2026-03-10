@@ -1,0 +1,48 @@
+{
+  "record_id": "directa-serif",
+  "source_url": "https://outrasfontes.com/typefaces/directa-serif",
+  "checked_at": "2026-03-09T01:57:11.287927+00:00",
+  "candidates": [
+    {
+      "date": "2021-05-07",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://outrasfontes.com/directa-serif/",
+      "snippet": "2021-05-07T14:51:24+00:00"
+    },
+    {
+      "date": "2021-05-07",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://outrasfontes.com/directa-serif/",
+      "snippet": "2021-05-07T14:51:24+00:00"
+    },
+    {
+      "date": "2023-05-24",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://outrasfontes.com/directa-serif/",
+      "snippet": "2023-05-24T23:33:13+00:00"
+    },
+    {
+      "date": "2023-05-24",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://outrasfontes.com/directa-serif/",
+      "snippet": "2023-05-24T23:33:13+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://outrasfontes.com/typefaces/directa-serif",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://outrasfontes.com/directa-serif/",
+    "last_modified": null
+  }
+}

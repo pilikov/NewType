@@ -1,0 +1,19 @@
+{
+  "record_id": "poleno",
+  "source_url": "https://dizajndesign.sk/en/font/poleno",
+  "checked_at": "2026-03-09T01:52:55.244729+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://dizajndesign.sk/en/font/poleno",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='dizajndesign.sk', port=443): Max retries exceeded with url: /en/font/poleno (Caused by NameResolutionError(\"HTTPSConnection(host='dizajndesign.sk', port=443): Failed to resolve 'dizajndesign.sk' ([Errno 8] nodename nor servname provided, or not known)\"))"
+  }
+}

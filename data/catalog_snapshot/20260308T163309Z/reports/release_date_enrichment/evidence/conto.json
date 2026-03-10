@@ -1,0 +1,48 @@
+{
+  "record_id": "conto",
+  "source_url": "https://typemates.com/fonts/conto",
+  "checked_at": "2026-03-09T01:43:20.300754+00:00",
+  "candidates": [
+    {
+      "date": "2016-09-05",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typemates.com/fonts/conto",
+      "snippet": "2016-09-05T22:25:00+02:00"
+    },
+    {
+      "date": "2016-09-05",
+      "score": 0.95,
+      "source_type": "jsonld:dateCreated",
+      "source_url": "https://www.typemates.com/fonts/conto",
+      "snippet": "2016-09-05T22:11:38+02:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typemates.com/fonts/conto",
+      "snippet": "2026-03-05T12:11:43+01:00"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/conto",
+      "snippet": "e Conto via his Fountain Foundry before he passed too soon. Thank you for your help, Peter! Designed by Nils Thomsen in 2014 Specs Providing 8 weights + italics, including, 885 glyphs per font and 100 fancy ligatures For"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typemates.com/fonts/conto",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typemates.com/fonts/conto",
+    "last_modified": null
+  }
+}

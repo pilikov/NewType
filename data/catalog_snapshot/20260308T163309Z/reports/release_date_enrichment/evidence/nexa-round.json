@@ -1,0 +1,55 @@
+{
+  "record_id": "nexa-round",
+  "source_url": "https://fontfabric.com/typefaces/nexa-round",
+  "checked_at": "2026-03-09T01:37:02.648209+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-21",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.fontfabric.com/fonts/nexa-round/",
+      "snippet": "2025-01-21T15:10:32+00:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.fontfabric.com/fonts/nexa-round/",
+      "snippet": "2026-03-05T14:49:04+00:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.fontfabric.com/fonts/nexa-round/",
+      "snippet": "2026-03-05T14:49:04+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/nexa-round/",
+      "snippet": "pt fonts Font sale Free fonts Fonts in use Font collections Legal Infringements About Help Blog Partnerships Contact us 2026 © Fontfabric llc. Privacy Notice Manage Cookies"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.fontfabric.com/fonts/nexa-round/",
+      "snippet": "Sun, 08 Mar 2026 12:01:51 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fontfabric.com/typefaces/nexa-round",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.fontfabric.com/fonts/nexa-round/",
+    "last_modified": "Sun, 08 Mar 2026 12:01:51 GMT"
+  }
+}

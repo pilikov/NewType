@@ -1,0 +1,34 @@
+{
+  "record_id": "feisar",
+  "source_url": "https://boldmonday.com/typeface/feisar/",
+  "checked_at": "2026-03-09T01:45:36.307483+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/feisar/",
+      "snippet": "ent discounts Privacy policy Return policy Disclaimer Subscribe to News & Updates Twitter | Facebook | Mail Copyright © 2026 Bold Monday – all rights reserved Made by Unwind"
+    },
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/feisar/",
+      "snippet": "till surprisingly readable since the underlying bitmap design was tailored for a small size. Designer Paul van der Laan 2000 Feisar supports the following languages Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Catalan,"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://boldmonday.com/typeface/feisar/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://boldmonday.com/typeface/feisar/",
+    "last_modified": null
+  }
+}

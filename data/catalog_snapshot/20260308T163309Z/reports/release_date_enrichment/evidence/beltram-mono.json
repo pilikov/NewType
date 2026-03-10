@@ -1,0 +1,41 @@
+{
+  "record_id": "beltram-mono",
+  "source_url": "https://domicilefoundry.com/typefaces/beltram-mono",
+  "checked_at": "2026-03-09T02:02:38.898182+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://domicilefoundry.com/typefaces/beltram-mono",
+      "snippet": "am Mono family 12 styles Light Italic Regular Italic Medium Italic Semibold Italic Bold Italic Black Italic Year 2018â2023 Designer Joona Louhi Amount of styles 12 Pricing Single styles from 54â¬ Family from 246â¬ Li"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://domicilefoundry.com/typefaces/beltram-mono",
+      "snippet": "EFACES Beltram Beltram Mono Chauffeur Dolph Larsen Louche Rondeau CONTACT Email Instagram Domicile Foundry Copyright Â© 2025"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://domicilefoundry.com/typefaces/beltram-mono",
+      "snippet": "Tue, 02 Dec 2025 08:27:58 GMT"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://domicilefoundry.com/typefaces/beltram-mono",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://domicilefoundry.com/typefaces/beltram-mono",
+    "last_modified": "Tue, 02 Dec 2025 08:27:58 GMT"
+  }
+}

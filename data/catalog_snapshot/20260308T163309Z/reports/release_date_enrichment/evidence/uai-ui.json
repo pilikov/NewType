@@ -1,0 +1,27 @@
+{
+  "record_id": "uai-ui",
+  "source_url": "https://store.naipefoundry.com/fonts/uai",
+  "checked_at": "2026-03-09T02:01:34.734122+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://store.naipefoundry.com/fonts/uai",
+      "snippet": "k-Mungkan Wiradjuri Wolof Xavante Xhosa Yapese Yindjibarndi Zapotec Zarma Zazaki Zulu Zuni Sin prisa, pero sin pausa. © 2026 Naipe Foundry"
+    },
+    {
+      "date": "2026-02-14",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://store.naipefoundry.com/fonts/uai",
+      "snippet": "2026-02-14"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://store.naipefoundry.com/fonts/uai",
+    "last_modified": null
+  }
+}

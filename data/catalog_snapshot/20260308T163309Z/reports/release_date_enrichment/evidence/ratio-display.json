@@ -1,0 +1,34 @@
+{
+  "record_id": "ratio-display",
+  "source_url": "https://pstypelab.com/ratio-display",
+  "checked_at": "2026-03-09T01:59:14.056156+00:00",
+  "candidates": [
+    {
+      "date": "2009-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://pstypelab.com/ratio-display",
+      "snippet": "densed Kye Station Hoss Extra Campaign Sans Lettering Typespotting Info Goods Ratio Display In Use: on the cover of the 2009 Annual Report for The Jewish Community Foundation of Los Angeles Have a sample of Ratio Display"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://pstypelab.com/ratio-display",
+      "snippet": " of Los Angeles Have a sample of Ratio Display in use? Send it our way A ll Content Created + Produced by Mark Caneso - 2026\nAll Types Welcome"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://pstypelab.com/ratio-display",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://pstypelab.com/ratio-display",
+    "last_modified": null
+  }
+}

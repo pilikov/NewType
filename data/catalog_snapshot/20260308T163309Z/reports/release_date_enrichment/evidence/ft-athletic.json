@@ -1,0 +1,41 @@
+{
+  "record_id": "ft-athletic",
+  "source_url": "https://www.formulatype.com/ft-athletic",
+  "checked_at": "2026-03-09T01:59:23.487151+00:00",
+  "candidates": [
+    {
+      "date": "1999-10-12",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://formulatype.com/ft-athletic",
+      "snippet": "ss songs feel profoundly moving and timeless. FT Athletic, Light Major Leagues is an EP by Pavement,\nit was released on October 12, 1999. FT Athletic, Regular Jackets FT Athletic, Regular Designers and streetwear brands "
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://formulatype.com/ft-athletic",
+      "snippet": "The poles that supported the sign were hauled to the site by mules. The project cost $21,000, equivalent to $360,000 in 2022. The sign was officially dedicated in 1923, intended to last only a year and a half. The rise o"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://formulatype.com/ft-athletic",
+      "snippet": "lso influenced by typefaces such as ITC Machine, ITC Superstar and Berthold City. Information ⮝ Version: 1.000\nYear(s): 2025\nDesigner: Piero Di Biase\nDesign assistance: Kasper Pyndt Rasmussen\nMastering: Alberto Malossi\nG"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.formulatype.com/ft-athletic",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://formulatype.com/ft-athletic",
+    "last_modified": null
+  }
+}

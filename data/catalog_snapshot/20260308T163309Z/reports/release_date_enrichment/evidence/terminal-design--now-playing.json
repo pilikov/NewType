@@ -1,0 +1,90 @@
+{
+  "record_id": "terminal-design--now-playing",
+  "source_url": "https://www.terminaldesign.com/fonts/now-playing/",
+  "checked_at": "2026-03-09T01:36:01.476635+00:00",
+  "candidates": [
+    {
+      "date": "2016-11-29",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.terminaldesign.com/fonts/now-playing/",
+      "snippet": "2016-11-29T17:33:54+00:00"
+    },
+    {
+      "date": "2023-04-26",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.terminaldesign.com/fonts/now-playing/",
+      "snippet": "2023-04-26T16:01:27+00:00"
+    },
+    {
+      "date": "2023-04-26",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.terminaldesign.com/fonts/now-playing/",
+      "snippet": "2023-04-26T16:01:27+00:00"
+    },
+    {
+      "date": "1990-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.terminaldesign.com/fonts/now-playing/",
+      "snippet": "acqueline Carey James Patterson Kathy Reichs Rachel Kushner Stephen King Request a Quote Terminal Design was founded in 1990 by me, James Montalbano , and is located on the terminal moraine in Brooklyn, NY. Hence the nam"
+    },
+    {
+      "date": "1995-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.terminaldesign.com/fonts/now-playing/",
+      "snippet": "ut that only made me ill. When my nausea subsided, I started Terminal Design, Inc. and I haven’t been sick since. Since 1995 I have been working on the Clearview type system for text, display, roadway and interior guide "
+    },
+    {
+      "date": "2002-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.terminaldesign.com/fonts/now-playing/",
+      "snippet": "| Yo® Sophie | Yo® Zelda Client Work Custom Fonts | Lettering | Request a Quote About Font Licensing | Privacy Policy © 2002 - 2026 Terminal Design, Inc., All Rights Reserved. 718, Alfon, Badinage, Cappella, Choice Sans,"
+    },
+    {
+      "date": "2004-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.terminaldesign.com/fonts/now-playing/",
+      "snippet": ". Since 1995 I have been working on the Clearview type system for text, display, roadway and interior guide signage. In 2004 the 13 font ClearviewHwy family was granted interim approval by the Federal Highway Administrat"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.terminaldesign.com/fonts/now-playing/",
+      "snippet": "Caption | Consul® Deck | Consul® Display | Consul® Text | Enclave® | Fervent® | Giacomo® 2.0 | Insouciant® | ITC Orbon™ 2020 | Kaboodle® | Kinney® | Latin 512® | Latin 512® Compressed | Latin 512® Condensed | Latin 512® "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.terminaldesign.com/fonts/now-playing/",
+      "snippet": "ophie | Yo® Zelda Client Work Custom Fonts | Lettering | Request a Quote About Font Licensing | Privacy Policy © 2002 - 2026 Terminal Design, Inc., All Rights Reserved. 718, Alfon, Badinage, Cappella, Choice Sans, Consul"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.terminaldesign.com/fonts/now-playing/",
+      "snippet": "Wed, 26 Apr 2023 16:01:27 GMT"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.terminaldesign.com/fonts/now-playing/",
+      "snippet": "2026-03-05"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.terminaldesign.com/fonts/now-playing/",
+    "last_modified": "Wed, 26 Apr 2023 16:01:27 GMT"
+  }
+}

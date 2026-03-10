@@ -1,0 +1,19 @@
+{
+  "record_id": "atomette",
+  "source_url": "https://www.devicefonts.co.uk/catalogue/atomette",
+  "checked_at": "2026-03-09T02:02:54.002302+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.devicefonts.co.uk/catalogue/atomette",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "403 Client Error: Forbidden for url: https://www.devicefonts.co.uk/catalogue/atomette"
+  }
+}

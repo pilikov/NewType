@@ -1,0 +1,41 @@
+{
+  "record_id": "shire-types",
+  "source_url": "https://typography.net/fonts/shire-types",
+  "checked_at": "2026-03-09T01:51:19.334642+00:00",
+  "candidates": [
+    {
+      "date": "2017-02-12",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typography.net/fonts/shire-types",
+      "snippet": "2017-02-12T12:12:00+00:00"
+    },
+    {
+      "date": "2022-08-09",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typography.net/fonts/shire-types",
+      "snippet": "2022-08-09T14:27:02+01:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typography.net/fonts/shire-types",
+      "snippet": "ote 37 Font Info Footnote 18 Footnote 15 Read the design notes at StudioType.com Cookie policy Privacy policy Sitemap © 2026 Jeremy Tankard Typography Ltd"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typography.net/fonts/shire-types",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typography.net/fonts/shire-types",
+    "last_modified": null
+  }
+}

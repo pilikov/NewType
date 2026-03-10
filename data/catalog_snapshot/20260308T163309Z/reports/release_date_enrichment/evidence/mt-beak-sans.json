@@ -1,0 +1,34 @@
+{
+  "record_id": "mt-beak-sans",
+  "source_url": "https://www.modern-type.com/typefaces/mt-beak-sans",
+  "checked_at": "2026-03-09T01:54:54.695265+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.modern-type.com/typefaces/mt-beak-sans",
+      "snippet": "inktraps are littered throughout the typeface providing a delicate balance of openness, contrast and style. Coming late 2024, MT Beak will evolve to soar the skies along its feathered friends. Styles 1 Version Number 0.1"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.modern-type.com/typefaces/mt-beak-sans",
+      "snippet": "s 1 Version Number 0.1 Date of release 2024 Designers Ana Andreeva Production Dalton Bruyns  Modern Type © Modern Type 2026"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.modern-type.com/typefaces/mt-beak-sans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.modern-type.com/typefaces/mt-beak-sans",
+    "last_modified": null
+  }
+}

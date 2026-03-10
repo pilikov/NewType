@@ -1,0 +1,15 @@
+{
+  "source": "myfonts",
+  "range": {
+    "from": "2026-03-01",
+    "to": "2026-03-07"
+  },
+  "scan_window_by_published_at": {
+    "from": "2026-02-27",
+    "to": "2026-03-08"
+  },
+  "pages_scanned": 1,
+  "candidates_checked": 0,
+  "total": 0,
+  "releases": []
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "masurka",
+  "source_url": "https://www.suvatypefoundry.ee/masurka/",
+  "checked_at": "2026-03-09T01:57:44.860913+00:00",
+  "candidates": [
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/masurka/",
+      "snippet": "DRY PREVIOUS FONT MASURKA NEXT FONT X B O Q A D Z W L V U P E G T H K I N F C S DOWNLOAD R J M Y MASURKA by Maria Muuk (2014) A typeface digitized from the book “Tänapäeva kiri” (Contemporary Script, 1956) by Villu Toots"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/masurka/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/masurka/",
+    "last_modified": null
+  }
+}

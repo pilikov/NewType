@@ -1,0 +1,34 @@
+{
+  "record_id": "p22-dada",
+  "source_url": "https://p22.com/fonts/dada/",
+  "checked_at": "2026-03-09T01:51:01.503474+00:00",
+  "candidates": [
+    {
+      "date": "2006-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/dada/",
+      "snippet": " can be used to create Dada inspired typography by simply selecting various OpenType features. P22 Dada was released in 2006 as “Dada Special Edition” to coincide with the “First Major International Dada Museum Exhibitio"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/dada/",
+      "snippet": "x y z Titling A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z © 2026 The Type Founders, LLC Fonts Designers About Privacy & Cookies Terms of Service Licensing Servi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://p22.com/fonts/dada/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://p22.com/fonts/dada/",
+    "last_modified": null
+  }
+}

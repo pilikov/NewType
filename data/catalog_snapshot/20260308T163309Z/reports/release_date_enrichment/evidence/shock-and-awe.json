@@ -1,0 +1,83 @@
+{
+  "record_id": "shock-and-awe",
+  "source_url": "https://barnbrook.net/typefaces/shock-and-awe",
+  "checked_at": "2026-03-09T01:57:53.618542+00:00",
+  "candidates": [
+    {
+      "date": "2016-06-01",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://barnbrook.net/typefaces/shock-and-awe/",
+      "snippet": "2016-06-01T15:50:58+00:00"
+    },
+    {
+      "date": "1991-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://barnbrook.net/typefaces/shock-and-awe/",
+      "snippet": "introduced into service in 1983 and have been deployed by US and UK forces in a number of conflicts, including both the 1991 Gulf War and the 2003 invasion of Iraq. Whilst the source material may be considered controvers"
+    },
+    {
+      "date": "2025-09-18",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://barnbrook.net/typefaces/shock-and-awe/",
+      "snippet": "2025-09-18T23:08:35+00:00"
+    },
+    {
+      "date": "2025-09-18",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://barnbrook.net/typefaces/shock-and-awe/",
+      "snippet": "2025-09-18T23:08:35+00:00"
+    },
+    {
+      "date": "2003-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://barnbrook.net/typefaces/shock-and-awe/",
+      "snippet": "e in 1983 and have been deployed by US and UK forces in a number of conflicts, including both the 1991 Gulf War and the 2003 invasion of Iraq. Whilst the source material may be considered controversial, these typefaces h"
+    },
+    {
+      "date": "2004-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://barnbrook.net/typefaces/shock-and-awe/",
+      "snippet": "ised with a retrospective at the Design Museum in London entitled Friendly Fire in 2007 and at Ginza Graphic Gallery in 2004. A touring exhibition if the studio’s work Collateral Damage was staged in various countries, i"
+    },
+    {
+      "date": "2007-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://barnbrook.net/typefaces/shock-and-awe/",
+      "snippet": "k’s contribution to design was recognised with a retrospective at the Design Museum in London entitled Friendly Fire in 2007 and at Ginza Graphic Gallery in 2004. A touring exhibition if the studio’s work Collateral Dama"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://barnbrook.net/typefaces/shock-and-awe/",
+      "snippet": "r teaching and lecturing worldwide. Awards 59th Annual Grammy Awards – Winner of Best Recording Package for Blackstar , 2016 The Design Museum Beazley Design of The Year – Winner of Graphic Design of the Year for Blackst"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://barnbrook.net/typefaces/shock-and-awe/",
+      "snippet": "Mon, 09 Mar 2026 00:57:29 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://barnbrook.net/typefaces/shock-and-awe",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://barnbrook.net/typefaces/shock-and-awe/",
+    "last_modified": "Mon, 09 Mar 2026 00:57:29 GMT"
+  }
+}

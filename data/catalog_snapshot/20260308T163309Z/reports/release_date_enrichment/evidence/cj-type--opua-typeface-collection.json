@@ -1,0 +1,27 @@
+{
+  "record_id": "cj-type--opua-typeface-collection",
+  "source_url": "https://cjtype.com/typefaces/opua",
+  "checked_at": "2026-03-09T01:50:27.831192+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://cjtype.com/typefaces/opua/",
+      "snippet": " hello@cjtype.com IG: @cjtype ⁂ @cjtype@mastodon.social CJ Type RSS Get email updates Licensing Information Copyright © 2017 , CJ Type Design & Development by Vanna Vu This site uses Eleventy by Zach Leatherman and Text-"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://cjtype.com/typefaces/opua",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://cjtype.com/typefaces/opua/",
+    "last_modified": null
+  }
+}

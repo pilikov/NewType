@@ -1,0 +1,41 @@
+{
+  "record_id": "thingbat",
+  "source_url": "https://www.emigre.com/Fonts/Thingbat",
+  "checked_at": "2026-03-09T02:02:43.020178+00:00",
+  "candidates": [
+    {
+      "date": "1993-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.emigre.com/Fonts/Thingbat",
+      "snippet": "VanderLans News Not Your Garden Variety (Type Specimen) Free PDF Download More info Thingbat Designed by John Hersey in 1993. A A Thingbat (111 Illustrations) $65.00 A a B b C c D d E e F f G g H h I i J j K k L l M m N "
+    },
+    {
+      "date": "1995-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.emigre.com/Fonts/Thingbat",
+      "snippet": "s Emigre News Archive Contact Us Emigre Inc. 1700 Shattuck Ave., #307 Berkeley, CA 94709 1-530-756-2900 info@emigre.com 1995 - 2026 © All Rights Reserved Emigre Inc.\n\t\t\t\t\t\t\t\t | Privacy Policy"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.emigre.com/Fonts/Thingbat",
+      "snippet": "e News Archive Contact Us Emigre Inc. 1700 Shattuck Ave., #307 Berkeley, CA 94709 1-530-756-2900 info@emigre.com 1995 - 2026 © All Rights Reserved Emigre Inc.\n\t\t\t\t\t\t\t\t | Privacy Policy"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.emigre.com/Fonts/Thingbat",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.emigre.com/Fonts/Thingbat",
+    "last_modified": null
+  }
+}

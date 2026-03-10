@@ -1,0 +1,83 @@
+{
+  "record_id": "karela",
+  "source_url": "https://www.blancoletters.com/typefaces/karela",
+  "checked_at": "2026-03-09T01:51:02.807865+00:00",
+  "candidates": [
+    {
+      "date": "2016-12-05",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.blancoletters.com/typefaces/karela/",
+      "snippet": "2016-12-05T09:40:08+01:00"
+    },
+    {
+      "date": "2016-12-05",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://www.blancoletters.com/typefaces/karela/",
+      "snippet": "2016-12-05T09:40:08+01:00"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.blancoletters.com/typefaces/karela/",
+      "snippet": "alics, combining the precision of a slab serif with the warmth of a handwritten stroke. First released on 14th February 2020 Styles & Weights: A Multiplexed Type System for Stable Layouts Karela is a meticulously enginee"
+    },
+    {
+      "date": "2026-03-06",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.blancoletters.com/typefaces/karela/",
+      "snippet": "2026-03-06T12:04:15+01:00"
+    },
+    {
+      "date": "2026-03-06",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.blancoletters.com/typefaces/karela/",
+      "snippet": "2026-03-06T12:04:15+01:00"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.blancoletters.com/typefaces/karela/",
+      "snippet": "h Info Contact FAQ Licence (EULA) Legal Legal Notice Privacy Policy Cookie Policy Terms & Conditions © Juan Luis Blanco 2015-2025 Manage Consent We use cookies to improve your experience and to analyze site usage. You ca"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.blancoletters.com/typefaces/karela/",
+      "snippet": "critic, please contact me . I am happy to expand the character set to meet your exact editorial requirements. From June 2017 capital letter ß is official in German. This is what it looks like in Karela. Karela supports m"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.blancoletters.com/typefaces/karela/",
+      "snippet": "o Contact FAQ Licence (EULA) Legal Legal Notice Privacy Policy Cookie Policy Terms & Conditions © Juan Luis Blanco 2015-2025 Manage Consent We use cookies to improve your experience and to analyze site usage. You can acc"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.blancoletters.com/typefaces/karela/",
+      "snippet": "Fri, 06 Mar 2026 19:55:28 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.blancoletters.com/typefaces/karela",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.blancoletters.com/typefaces/karela/",
+    "last_modified": "Fri, 06 Mar 2026 19:55:28 GMT"
+  }
+}

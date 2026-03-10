@@ -1,0 +1,27 @@
+{
+  "record_id": "pacaembu",
+  "source_url": "https://store.naipefoundry.com/fonts/pacaembu",
+  "checked_at": "2026-03-09T01:53:19.448322+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://store.naipefoundry.com/fonts/pacaembu",
+      "snippet": "k-Mungkan Wiradjuri Wolof Xavante Xhosa Yapese Yindjibarndi Zapotec Zarma Zazaki Zulu Zuni Sin prisa, pero sin pausa. © 2026 Naipe Foundry"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://store.naipefoundry.com/fonts/pacaembu",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://store.naipefoundry.com/fonts/pacaembu",
+    "last_modified": null
+  }
+}

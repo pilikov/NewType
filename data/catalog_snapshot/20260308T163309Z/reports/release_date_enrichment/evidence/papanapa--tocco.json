@@ -1,0 +1,41 @@
+{
+  "record_id": "papanapa--tocco",
+  "source_url": "https://www.myfonts.com/collections/tocco-font-papanapa",
+  "checked_at": "2026-03-09T01:36:20.643347+00:00",
+  "candidates": [
+    {
+      "date": "1999-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.myfonts.com/collections/tocco-font-papanapa",
+      "snippet": "elp FAQ Contact About Terms and Conditions Terms of Use Privacy Policy Return Policy Legal Help FAQ Contact Copyright © 1999-2025 MyFonts Inc. All rights reserved. Choosing a selection results in a full page refresh."
+    },
+    {
+      "date": "2020-04-08",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.myfonts.com/collections/tocco-font-papanapa",
+      "snippet": "pe you enjoy it! Designers: Thiago Bellotti Publisher: Papanapa Foundry: Papanapa Design Owner: Papanapa MyFonts debut: Apr 8, 2020 Tocco About Papanapa We are a branding studio based in São Paulo, Brazil. We aim to crea"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.myfonts.com/collections/tocco-font-papanapa",
+      "snippet": "AQ Contact About Terms and Conditions Terms of Use Privacy Policy Return Policy Legal Help FAQ Contact Copyright © 1999-2025 MyFonts Inc. All rights reserved. Choosing a selection results in a full page refresh."
+    },
+    {
+      "date": "2026-02-26",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.myfonts.com/collections/tocco-font-papanapa",
+      "snippet": "2026-02-26"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.myfonts.com/collections/tocco-font-papanapa",
+    "last_modified": null
+  }
+}

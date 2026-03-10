@@ -1,0 +1,41 @@
+{
+  "record_id": "pembroke",
+  "source_url": "https://typography.net/fonts/pembroke",
+  "checked_at": "2026-03-09T01:39:59.652942+00:00",
+  "candidates": [
+    {
+      "date": "2017-02-10",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typography.net/fonts/pembroke",
+      "snippet": "2017-02-10T20:15:00+00:00"
+    },
+    {
+      "date": "2024-09-24",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typography.net/fonts/pembroke",
+      "snippet": "2024-09-24T19:56:22+01:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typography.net/fonts/pembroke",
+      "snippet": "Info Footnote 22 Footnote 24 Footnote 29 Read the design notes at StudioType.com Cookie policy Privacy policy Sitemap © 2026 Jeremy Tankard Typography Ltd"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typography.net/fonts/pembroke",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typography.net/fonts/pembroke",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "gt-super",
+  "source_url": "https://www.grillitype.com/typefaces/gt-super",
+  "checked_at": "2026-03-09T01:38:18.531242+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.grillitype.com/typeface/gt-super",
+      "snippet": "stable, typographic shapes. Designed by Noël Leu (Grilli Type) with help from Mirco Schiavone & Reto Moser Released in 2018 Available in 20 styles GT Super is available for customization and language extensions Download"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.grillitype.com/typeface/gt-super",
+      "snippet": "uper minisite to discover more about the typeface family’s history and design concept. GT Super in use Transit Filmfest 2025 GT Super in use Superficies GT Super in use Mulheres Míticas GT Super in use Scott Avett: Invis"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.grillitype.com/typefaces/gt-super",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.grillitype.com/typeface/gt-super",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "zak",
+  "source_url": "https://www.suvatypefoundry.ee/zak/",
+  "checked_at": "2026-03-09T02:00:25.124520+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/zak/",
+      "snippet": "PE FOUNDRY PREVIOUS FONT ZAK NEXT FONT V P X B G A N O C DOWNLOAD K D E Z Y Q S H T R F W U I J L M ŽAK  by Marje Kask (2019) The font-family Žak is based on a character, who is a hat-wearing vampire. One day he loses hi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/zak/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/zak/",
+    "last_modified": null
+  }
+}

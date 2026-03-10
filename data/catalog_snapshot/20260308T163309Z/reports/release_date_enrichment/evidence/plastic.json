@@ -1,0 +1,132 @@
+{
+  "record_id": "plastic",
+  "source_url": "https://obrysy.xyz/typefaces/plastic",
+  "checked_at": "2026-03-09T01:50:26.339351+00:00",
+  "candidates": [
+    {
+      "date": "2024-05-15",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://obrysy.xyz/plastic/",
+      "snippet": "2024-05-15T08:50:44+00:00"
+    },
+    {
+      "date": "2025-10-29",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://obrysy.xyz/plastic/",
+      "snippet": "2025-10-29T14:56:09+00:00"
+    },
+    {
+      "date": "2025-10-29",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://obrysy.xyz/plastic/",
+      "snippet": "2025-10-29T14:56:09+00:00"
+    },
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://obrysy.xyz/plastic/",
+      "snippet": "H U+2014 — EM DASH \"case\" U+2014 — FIGURE DASH U+2012 ‒ HORIZONTAL BAR U+2015 ― HORIZONTAL BAR \"case\" U+2015 ― HYPHEN U+2010 ‐ LOW LINE U+005F _ DOUBLE LOW LINE U+2017 ‗ WAVE DASH U+301C 〜 WAVE DASH \"case\" U+301C 〜 SINGL"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://obrysy.xyz/plastic/",
+      "snippet": "N-MINUS \"case\" U+002D - EN dash U+2013 – EN DASH \"case\" U+2013 – EM DASH U+2014 — EM DASH \"case\" U+2014 — FIGURE DASH U+2012 ‒ HORIZONTAL BAR U+2015 ― HORIZONTAL BAR \"case\" U+2015 ― HYPHEN U+2010 ‐ LOW LINE U+005F _ DOUB"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://obrysy.xyz/plastic/",
+      "snippet": "UARE BRACKET U+005D ] RIGHT SQUARE BRACKET \"case\" U+005D ] HYPHEN-MINUS U+002D - HYPHEN-MINUS \"case\" U+002D - EN dash U+2013 – EN DASH \"case\" U+2013 – EM DASH U+2014 — EM DASH \"case\" U+2014 — FIGURE DASH U+2012 ‒ HORIZON"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://obrysy.xyz/plastic/",
+      "snippet": "T \"case\" U+005D ] HYPHEN-MINUS U+002D - HYPHEN-MINUS \"case\" U+002D - EN dash U+2013 – EN DASH \"case\" U+2013 – EM DASH U+2014 — EM DASH \"case\" U+2014 — FIGURE DASH U+2012 ‒ HORIZONTAL BAR U+2015 ― HORIZONTAL BAR \"case\" U+"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://obrysy.xyz/plastic/",
+      "snippet": "EN dash U+2013 – EN DASH \"case\" U+2013 – EM DASH U+2014 — EM DASH \"case\" U+2014 — FIGURE DASH U+2012 ‒ HORIZONTAL BAR U+2015 ― HORIZONTAL BAR \"case\" U+2015 ― HYPHEN U+2010 ‐ LOW LINE U+005F _ DOUBLE LOW LINE U+2017 ‗ WAV"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://obrysy.xyz/plastic/",
+      "snippet": "ASH U+2012 ‒ HORIZONTAL BAR U+2015 ― HORIZONTAL BAR \"case\" U+2015 ― HYPHEN U+2010 ‐ LOW LINE U+005F _ DOUBLE LOW LINE U+2017 ‗ WAVE DASH U+301C 〜 WAVE DASH \"case\" U+301C 〜 SINGLE LOW-9 QUOTATION MARK U+201A ‚ DOUBLE LOW-"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://obrysy.xyz/plastic/",
+      "snippet": "rsion: 1.1 Designer: Jitka Schneider, Ivana Palečková (www.ivanapaleckova.com) Development: Jitka Schneider Copyright © 2018–2025 by Jitka Schneider & Ivana Palečková. All rights reserved. Features Contextual Alternates "
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://obrysy.xyz/plastic/",
+      "snippet": "ON MARK U+201C “ RIGHT DOUBLE QUOTATION MARK U+201D ” LEFT SINGLE QUOTATION MARK U+2018 ‘ RIGHT SINGLE QUOTATION MARK U+2019 ’ SINGLE LEFT-POINTING ANGLE QUOTATION MARK U+2039 ‹ SINGLE LEFT-POINTING ANGLE QUOTATION MARK "
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://obrysy.xyz/plastic/",
+      "snippet": " PRIME U+2032 ′ DOUBLE PRIME U+2033 ″ VERTICAL LINE U+007C | VERTICAL LINE \"case\" U+007C | BROKEN BAR U+00A6 ¦ DAGGER U+2020 † LDOUBLE DAGGER U+2021 ‡ SCRIPT SMALL L U+2113 ℓ ESTIMATED SYMBOL U+212E ℮ LNUMERO SIGN UU+211"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://obrysy.xyz/plastic/",
+      "snippet": "RIME U+2033 ″ VERTICAL LINE U+007C | VERTICAL LINE \"case\" U+007C | BROKEN BAR U+00A6 ¦ DAGGER U+2020 † LDOUBLE DAGGER U+2021 ‡ SCRIPT SMALL L U+2113 ℓ ESTIMATED SYMBOL U+212E ℮ LNUMERO SIGN UU+2116 № SERVICE MARK U+2120 "
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://obrysy.xyz/plastic/",
+      "snippet": " QUESTION MARK \"case\" U+00BF ¿ MIDDLE DOT U+00B7 · MIDDLE DOT \"LOCL\" U+00B7 · MIDDLE DOT \"LOCL, CASE\" U+00B7 · BULLET U+2022 • BULLET \"case\" U+2022 • ASTERISK U+002A * NUMBER SIGN U+0023 # OVERLINE U+203E ‾ SOLIDUS U+002"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://obrysy.xyz/plastic/",
+      "snippet": ": 1.1 Designer: Jitka Schneider, Ivana Palečková (www.ivanapaleckova.com) Development: Jitka Schneider Copyright © 2018–2025 by Jitka Schneider & Ivana Palečková. All rights reserved. Features Contextual Alternates \"calt"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://obrysy.xyz/plastic/",
+      "snippet": "+2089 ₉ FULL STOP U+002E . COMMA U+002C , COLON U+003A : COLON \"case\" U+003A : SEMICOLON U+003B ; HORIZONTAL ELLIPSIS U+2026 … EXCLAMATION MARK U+0021 ! EXCLAMATION MARK \"ss03\" U+0021 ! INVERTED EXCLAMATION MARK U+00A1 ¡"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://obrysy.xyz/typefaces/plastic",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://obrysy.xyz/plastic/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "drummond",
+  "source_url": "http://blackletra.com/typefaces/drummond",
+  "checked_at": "2026-03-09T01:58:49.669825+00:00",
+  "candidates": [
+    {
+      "date": "2024-10-09",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://blackletra.com/typefaces/drummond",
+      "snippet": "2024-10-09"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://blackletra.com/typefaces/drummond",
+      "snippet": "lar Italic About this font In Garamont’s footsteps By Emerson Eller This typeface is the result of work started between 2018 and 2019 during the Expert class Type design course held at the Museum Plantin-Moretus in Antwe"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://blackletra.com/typefaces/drummond",
+      "snippet": "c About this font In Garamont’s footsteps By Emerson Eller This typeface is the result of work started between 2018 and 2019 during the Expert class Type design course held at the Museum Plantin-Moretus in Antwerp, Belgi"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://blackletra.com/typefaces/drummond",
+      "snippet": " Zapotec, Zazaki, Zulu, Zuni Design Emerson Eller Production Emerson Eller Lucas Gini Henrique Beier Daniel Sabino Year 2024 Drummond Buying Options Close Anyone who uses the fonts must purchase a license. To choose your"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://blackletra.com/typefaces/drummond",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://blackletra.com/typefaces/drummond",
+    "last_modified": null
+  }
+}

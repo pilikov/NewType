@@ -1,0 +1,27 @@
+{
+  "record_id": "libre-office-sans",
+  "source_url": "https://www.suvatypefoundry.ee/libre-office-sans/",
+  "checked_at": "2026-03-09T01:45:56.175577+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/libre-office-sans/",
+      "snippet": "RE OFFICE SANS NEXT FONT L U S O R W G H J A I Q V X N Z K P B F DOWNLOAD M Y C T D E LIBRE OFFICE SANS by Andree Paat (2016) A font drawn in the open-source program Libre Office. Created as a part of Andree Paat’s gradu"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/libre-office-sans/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/libre-office-sans/",
+    "last_modified": null
+  }
+}

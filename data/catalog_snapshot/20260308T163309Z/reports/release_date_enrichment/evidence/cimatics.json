@@ -1,0 +1,55 @@
+{
+  "record_id": "cimatics",
+  "source_url": "http://osp.kitchen/foundry/cimatics/",
+  "checked_at": "2026-03-09T01:37:55.026834+00:00",
+  "candidates": [
+    {
+      "date": "2009-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/cimatics/",
+      "snippet": "wnload snapshot → About → Snapshots → Files → Log About OSP-foundry :: Cimatics Cimatics This font was designed in July 2009, for the graphic identity of Cimatics A\\V Platform . It gathers glyphs from FreeSerif, FreeSeri"
+    },
+    {
+      "date": "2011-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/cimatics/",
+      "snippet": "ream README.html text/html Log Alexandre Leray peached — Created the skeleton of the repository Thursday, 24th February 2011 - 19:48 Eric Schrijver disclosed — \"Blog contents added as README and iceberg\" Saturday, 14th A"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/cimatics/",
+      "snippet": " 24th February 2011 - 19:48 Eric Schrijver disclosed — \"Blog contents added as README and iceberg\" Saturday, 14th April 2012 - 12:11 Eric Schrijver let the cat out of the bag — Merge with http://osp.constantvzw.org/found"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/cimatics/",
+      "snippet": "will show up as the banner (Rename for the git based implementation of the OSP Foundry design) Saturday, 14th September 2013 - 19:48 Stéphanie Vilayphiou divulged — structure UFR + webfonts Friday, 5th October 2018 - 16:"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/cimatics/",
+      "snippet": "ign) Saturday, 14th September 2013 - 19:48 Stéphanie Vilayphiou divulged — structure UFR + webfonts Friday, 5th October 2018 - 16:09 These project views are all based on VisualCulture . We welcome you to study these, imp"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://osp.kitchen/foundry/cimatics/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "http://osp.kitchen/foundry/cimatics/",
+    "last_modified": null
+  }
+}

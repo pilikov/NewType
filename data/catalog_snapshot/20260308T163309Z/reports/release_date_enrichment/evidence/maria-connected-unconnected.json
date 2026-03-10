@@ -1,0 +1,55 @@
+{
+  "record_id": "maria-connected-unconnected",
+  "source_url": "https://threedotstype.com/product/maria/",
+  "checked_at": "2026-03-09T01:48:57.643824+00:00",
+  "candidates": [
+    {
+      "date": "2017-08-16",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://threedotstype.com/product/maria/",
+      "snippet": "2017-08-16T09:28:53+00:00"
+    },
+    {
+      "date": "2025-12-15",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://threedotstype.com/product/maria/",
+      "snippet": "2025-12-15T13:30:16+00:00"
+    },
+    {
+      "date": "2025-12-15",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://threedotstype.com/product/maria/",
+      "snippet": "2025-12-15T13:30:16+00:00"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://threedotstype.com/product/maria/",
+      "snippet": "with it’s form to Maria letters. Several dozens arrows and pictograms can be useful in wayfindings. < Previous Next > © 2017—2025 Fonts Extract Semislab Extract Grotesk Tor grotesk Mix Rubin Sans Radius Janus Heneczek Pr"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://threedotstype.com/product/maria/",
+      "snippet": "it’s form to Maria letters. Several dozens arrows and pictograms can be useful in wayfindings. < Previous Next > © 2017—2025 Fonts Extract Semislab Extract Grotesk Tor grotesk Mix Rubin Sans Radius Janus Heneczek Pro Di "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://threedotstype.com/product/maria/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://threedotstype.com/product/maria/",
+    "last_modified": null
+  }
+}

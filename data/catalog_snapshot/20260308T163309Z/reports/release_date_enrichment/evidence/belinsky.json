@@ -1,0 +1,41 @@
+{
+  "record_id": "belinsky",
+  "source_url": "https://tosche.net/fonts/belinsky",
+  "checked_at": "2026-03-09T02:01:32.041134+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://tosche.net/fonts/belinsky",
+      "snippet": "on-fonts Blog Profile Name: Belinsky, Belinsky Text Type: Retail typeface Publisher: Tabular Type Foundry Release year: 2019 Purchase links: I Love Typography (both) I was inspired by over-exaggerated architectural lette"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://tosche.net/fonts/belinsky",
+      "snippet": " depending on the context, which I implemented in i l t f to fill wide gaps. It’s an approach I took in Cowhand back in 2015. Unfortunately however, OpenType support is not so strong in coding apps and the effect is not "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://tosche.net/fonts/belinsky",
+      "snippet": "mmigrant family, the Belinsky’s. The film has nothing to do with the typeface, but I just love the sound of the name. © 2026 Toshi Omagari Facebook Twitter EN Twitter JP Instagram GitHub"
+    },
+    {
+      "date": "2026-02-14",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://tosche.net/fonts/belinsky",
+      "snippet": "2026-02-14"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://tosche.net/fonts/belinsky",
+    "last_modified": null
+  }
+}

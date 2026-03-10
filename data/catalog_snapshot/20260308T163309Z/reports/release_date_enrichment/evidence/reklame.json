@@ -1,0 +1,20 @@
+{
+  "record_id": "reklame",
+  "source_url": "https://bold-decisions.biz/typefaces/reklame",
+  "checked_at": "2026-03-09T01:53:44.687372+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://bold-decisions.biz/typefaces/reklame",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://bold-decisions.biz/typefaces/reklame",
+    "last_modified": null
+  }
+}

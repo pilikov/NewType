@@ -1,0 +1,62 @@
+{
+  "record_id": "29lt-zarid-sans-lg",
+  "source_url": "https://www.29lt.com/product/29lt-zarid-sans-lg/",
+  "checked_at": "2026-03-09T01:36:30.527978+00:00",
+  "candidates": [
+    {
+      "date": "2020-07-13",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-sans-lg/",
+      "snippet": "2020-07-13T21:15:17+00:00"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-sans-lg/",
+      "snippet": "og.29LT.com Contact Us info [at] 29lt [dot] com Social Media Instagram YouTube Facebook X 29Letters Type Foundry S.L. © 2012 – 2026 / All rights\r\n\t\t\t\t\treserved. Partner at Fontstand Available at Type Network"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-sans-lg/",
+      "snippet": ".com Contact Us info [at] 29lt [dot] com Social Media Instagram YouTube Facebook X 29Letters Type Foundry S.L. © 2012 – 2026 / All rights\r\n\t\t\t\t\treserved. Partner at Fontstand Available at Type Network"
+    },
+    {
+      "date": "2025-04-22",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-sans-lg/",
+      "snippet": "2025-04-22T09:25:32+00:00"
+    },
+    {
+      "date": "2025-04-22",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-sans-lg/",
+      "snippet": "2025-04-22T09:25:32+00:00"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-sans-lg/",
+      "snippet": "t Type Designers Krista Radoeva (Greek) Jan Fromm (Latin) Name Meaning Strong / Robust / Bold Number of Glyphs 630 Year 2020 Languages Eastern European, Central European, Western European, North American, and South Ameri"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-sans-lg/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.29lt.com/product/29lt-zarid-sans-lg/",
+    "last_modified": null
+  }
+}

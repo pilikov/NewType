@@ -1,0 +1,27 @@
+{
+  "record_id": "p22-tuscaloosa",
+  "source_url": "https://p22.com/fonts/tuscaloosa/",
+  "checked_at": "2026-03-09T01:55:35.432657+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/tuscaloosa/",
+      "snippet": "actions 0/0 0⁄0 1/2 1/3 1/4 1⁄2 1⁄3 1⁄4 2/3 2⁄3 3/4 3⁄4 Ordinals a o Scientific Inferiors 1 2 3 4 Superscript 1 2 3 4 © 2026 The Type Founders, LLC Fonts Designers About Privacy & Cookies Terms of Service Licensing Servi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://p22.com/fonts/tuscaloosa/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://p22.com/fonts/tuscaloosa/",
+    "last_modified": null
+  }
+}

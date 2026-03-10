@@ -1,0 +1,48 @@
+{
+  "record_id": "zeenesia-studio--miches",
+  "source_url": "https://zeenesia.com/product/miches/",
+  "checked_at": "2026-03-09T01:36:28.471490+00:00",
+  "candidates": [
+    {
+      "date": "2024-10-29",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://zeenesia.com/product/miches/",
+      "snippet": "2024-10-29T08:32:57+00:00"
+    },
+    {
+      "date": "2025-05-01",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://zeenesia.com/product/miches/",
+      "snippet": "2025-05-01T14:21:07+00:00"
+    },
+    {
+      "date": "2025-05-01",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://zeenesia.com/product/miches/",
+      "snippet": "2025-05-01T14:21:07+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://zeenesia.com/product/miches/",
+      "snippet": "uantity Add to cart Related products $ 15 Fresh Pineapple $ 15 Chikybard $ 15 Choco Candy $ 16 Bright Almond Copyright ©2025 Zeenesia Studio All Right Reserved Menu Home Shop Serif Fonts Sans Serif Fonts Script Fonts Dis"
+    },
+    {
+      "date": "2026-02-26",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://zeenesia.com/product/miches/",
+      "snippet": "2026-02-26"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://zeenesia.com/product/miches/",
+    "last_modified": null
+  }
+}

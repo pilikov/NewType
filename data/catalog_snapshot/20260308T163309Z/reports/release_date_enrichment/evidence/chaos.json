@@ -1,0 +1,27 @@
+{
+  "record_id": "chaos",
+  "source_url": "https://www.suvatypefoundry.ee/chaos/",
+  "checked_at": "2026-03-09T01:55:21.356711+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/chaos/",
+      "snippet": "UNDRY PREVIOUS FONT CHAOS NEXT FONT M E K Q O R Y W L H DOWNLOAD V S I A T P D X J Z U G C F B N CHAOS by Sigrid Liira (2018) Relationship between humans and technology and everything in between. Supervised by Ott Metusa"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/chaos/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/chaos/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "tzimmes",
+  "source_url": "https://capitalics.wtf/font/tzimmes",
+  "checked_at": "2026-03-09T02:03:21.020652+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://capitalics.wtf/en/font/tzimmes",
+      "snippet": "ił Berlioz. Одухотворённость Trinité – d’Estienne d’Orves víðáttumikið štvrťhodinový najťažších 21 Grands Prix de F1 en 2016 Style Font Size Tracking styles Thin Thin Italic ExtraLight ExtraLight Italic Light Light Itali"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://capitalics.wtf/font/tzimmes",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://capitalics.wtf/en/font/tzimmes",
+    "last_modified": null
+  }
+}

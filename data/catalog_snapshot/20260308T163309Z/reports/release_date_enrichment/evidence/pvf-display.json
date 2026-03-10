@@ -1,0 +1,48 @@
+{
+  "record_id": "pvf-display",
+  "source_url": "https://due-studio.com/typefaces/pvf-display",
+  "checked_at": "2026-03-09T01:52:07.182419+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.due-studio.com/typefaces/pvf-display",
+      "snippet": "ss11 ss12 ss13 ss14 ss15 ss16 ss17 ss18 ss19 ss20 Styles Regular Designer Alessio Pompadura, Massimiliano Vitti Release 2019 (v1.0), 2020 (v2.0) Encoding Latin-1 Supplement Specimen Download PVF Display is an all caps ge"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.due-studio.com/typefaces/pvf-display",
+      "snippet": "3 ss14 ss15 ss16 ss17 ss18 ss19 ss20 Styles Regular Designer Alessio Pompadura, Massimiliano Vitti Release 2019 (v1.0), 2020 (v2.0) Encoding Latin-1 Supplement Specimen Download PVF Display is an all caps geometric and m"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.due-studio.com/typefaces/pvf-display",
+      "snippet": "ting a complex and variegated system of signs made up of tangents and overlaps that make it suitable for display use. © 2022 Due Studio Via Luigi Einaudi, 88 06073, Corciano (PG), Italy info@due-studio.com type@due-studi"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.due-studio.com/typefaces/pvf-display",
+      "snippet": "Wed, 04 Mar 2026 19:52:12 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://due-studio.com/typefaces/pvf-display",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.due-studio.com/typefaces/pvf-display",
+    "last_modified": "Wed, 04 Mar 2026 19:52:12 GMT"
+  }
+}

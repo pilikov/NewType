@@ -1,0 +1,27 @@
+{
+  "record_id": "nl-diode",
+  "source_url": "https://muirmcneil.com/typefaces/nl-diode",
+  "checked_at": "2026-03-09T01:48:22.006218+00:00",
+  "candidates": [
+    {
+      "date": "2014-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://muirmcneil.com/01-dot-12-dot-14/",
+      "snippet": "01 Dot 12 Dot 14 «  MuirMcNeil 01 Dot 12 Dot 14 November 30th, 2014 We are pleased to announce the release four new geometric type systems and an accompanying set of four limited edition "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://muirmcneil.com/typefaces/nl-diode",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://muirmcneil.com/01-dot-12-dot-14/",
+    "last_modified": null
+  }
+}

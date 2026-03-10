@@ -1,0 +1,10 @@
+{
+  "source": "myfonts",
+  "range": {
+    "from": "2026-03-01",
+    "to": "2026-03-07"
+  },
+  "note": "Derived from local snapshot data/myfonts/2026-03-07/all_releases.json (release_date field from snapshot).",
+  "total": 0,
+  "releases": []
+}

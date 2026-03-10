@@ -1,0 +1,41 @@
+{
+  "record_id": "hamira",
+  "source_url": "https://dirtylinestudio.com/product/hamira-signature-brush-font/",
+  "checked_at": "2026-03-09T01:52:10.681682+00:00",
+  "candidates": [
+    {
+      "date": "2020-03-25",
+      "score": 0.7,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://dirtylinestudio.com/product/hamira-signature-brush-font/",
+      "snippet": "2020-03-25T12:42:36+07:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://dirtylinestudio.com/product/hamira-signature-brush-font/",
+      "snippet": "es Mockups Freebies Custom-Project Shop Freebies Custom-Project Works Font In Use Blog License About © Dirtyline Studio 2026 Hamira – Signature Brush Font Buying Options Font Tester Info Glyph Buying Options White/Black "
+    },
+    {
+      "date": "2020-03-30",
+      "score": 0.44999999999999996,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://dirtylinestudio.com/product/hamira-signature-brush-font/",
+      "snippet": "2020-03-30T13:13:09+07:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://dirtylinestudio.com/product/hamira-signature-brush-font/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://dirtylinestudio.com/product/hamira-signature-brush-font/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "record_id": "lil-grotesk",
+  "source_url": "https://noirblancrouge.com/typefaces/lil-grotesk",
+  "checked_at": "2026-03-09T01:42:14.277570+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://noirblancrouge.com/typefaces/lil-grotesk",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='noirblancrouge.com', port=443): Read timed out. (read timeout=12)"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "record_id": "tempera-biblio",
+  "source_url": "https://www.typotheque.com/fonts/tempera-biblio",
+  "checked_at": "2026-03-09T02:03:50.622162+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.typotheque.com/fonts/tempera-biblio",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "403 Client Error: Forbidden for url: https://www.typotheque.com/fonts/tempera-biblio"
+  }
+}

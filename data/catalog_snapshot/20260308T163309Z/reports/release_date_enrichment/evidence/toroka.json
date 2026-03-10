@@ -1,0 +1,27 @@
+{
+  "record_id": "toroka",
+  "source_url": "https://www.inhousetype.com/typefaces/p/toroka",
+  "checked_at": "2026-03-09T02:03:00.118609+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.inhousetype.com/typefaces/p/toroka",
+      "snippet": "rty of their respective owners and no endorsement or derogation is intended or inferred. All other content, copyright © 2025 INHOUSE TYPE LTD. All rights reserved."
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.inhousetype.com/typefaces/p/toroka",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.inhousetype.com/typefaces/p/toroka",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "amen-display",
+  "source_url": "https://hungarumlaut.com/typefaces/amendisplay",
+  "checked_at": "2026-03-09T01:39:32.917553+00:00",
+  "candidates": [
+    {
+      "date": "2013-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://hungarumlaut.com/typefaces/amendisplay",
+      "snippet": "recommended point size is 24 pt. Later I’m planning to expand the family with text optical size. Designed by Adam Katyi 2013–2018 release date: October 2018 Language Support Basic Latin West-European Central-European Bal"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://hungarumlaut.com/typefaces/amendisplay",
+      "snippet": "013 I have redrawn the letters several times, but I’ve found it’s clear voice only 5 years after the first sketches. In 2018 I redesigned all the characters with more geometric details and a comletely new italic style. T"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://hungarumlaut.com/typefaces/amendisplay",
+      "snippet": ", App-, and Broadcast Licences are not available online, please contact us for purchase. Hungarumlaut  © Copyright 2013-2025 Licensing Payment Info OT Guide Mail Twitter Instagram"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://hungarumlaut.com/typefaces/amendisplay",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hungarumlaut.com/typefaces/amendisplay",
+    "last_modified": null
+  }
+}

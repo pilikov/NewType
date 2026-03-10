@@ -1,0 +1,27 @@
+{
+  "record_id": "corinthe",
+  "source_url": "https://milletype.fr/corinthe",
+  "checked_at": "2026-03-09T01:52:37.315868+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://milletype.fr/corinthe",
+      "snippet": "erent tribute to the ingenuity of humanity and the enduring legacy of its tools. Style from 25€ Family from 114€ Update 2025.06.03 — v01.2 Font design Romain Marc Font engineering Milletype Foundry Download ☞ Specimen ☞ "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://milletype.fr/corinthe",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://milletype.fr/corinthe",
+    "last_modified": null
+  }
+}

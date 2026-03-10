@@ -1,0 +1,27 @@
+{
+  "record_id": "grave-presse",
+  "source_url": "https://xcicero.esad-gv.net/page/grave/",
+  "checked_at": "2026-03-09T01:58:25.686175+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://xcicero.esad-gv.net/page/grave/",
+      "snippet": " dessiné par Loris Espitalier, à partir d’un caractère en bois distribué par la maison Georges Morel. Version 1.0 (juin 2024) Télécharger la fonte (.otf)"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://xcicero.esad-gv.net/page/grave/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://xcicero.esad-gv.net/page/grave/",
+    "last_modified": null
+  }
+}

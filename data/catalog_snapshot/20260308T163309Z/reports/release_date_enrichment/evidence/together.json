@@ -1,0 +1,48 @@
+{
+  "record_id": "together",
+  "source_url": "https://contemporarytype.com/fonts/ft-together",
+  "checked_at": "2026-03-09T01:36:03.158790+00:00",
+  "candidates": [
+    {
+      "date": "2025-11-10",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://contemporarytype.com/fonts/ft-together",
+      "snippet": "OpenType Features Add to cart + Clear FT Together Bold arrowLeft arrowRight Item 1 of 5 Foundry: Formula Type Released: November 10, 2025 Styles: 1 Category: sans-serif Tone: casual Use size: large Width: normal Weight: "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://contemporarytype.com/fonts/ft-together",
+      "snippet": "me licenses and styles All Fonts Foundries About FAQ Newsletter Terms and Conditions Instagram Privacy Notice Contact © 2026 Contemporary Type LLC We’d appreciate your consent to use statistics cookies to improve this pr"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://contemporarytype.com/fonts/ft-together",
+      "snippet": " PDF Specimen About the typeface FT Together was originally conceived as the corporate typeface for the identity of the 2022 Alliance Graphique Internationale Congress in Trieste, a port city in northeastern Italy. Inspi"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://contemporarytype.com/fonts/ft-together",
+      "snippet": "Mon, 09 Mar 2026 01:36:03 GMT"
+    },
+    {
+      "date": "2026-03-02",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://contemporarytype.com/fonts/ft-together",
+      "snippet": "2026-03-02"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://contemporarytype.com/fonts/ft-together",
+    "last_modified": "Mon, 09 Mar 2026 01:36:03 GMT"
+  }
+}

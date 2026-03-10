@@ -1,0 +1,55 @@
+{
+  "record_id": "novo-dada",
+  "source_url": "https://www.youworkforthem.com/font/T3283/novo-dada",
+  "checked_at": "2026-03-09T01:48:13.576023+00:00",
+  "candidates": [
+    {
+      "date": "2012-07-31",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://www.youworkforthem.com/font/T3283/novo-dada",
+      "snippet": "2012-07-31"
+    },
+    {
+      "date": "2001-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.youworkforthem.com/font/T3283/novo-dada",
+      "snippet": "00 Fonts and 767,000 graphics available for download at YouWorkForThem. The Original Creative Marketplace | Copyright © 2001-2026 YouWorkForThem. All Rights Reserved. We accept Visa, MasterCard, American Express, Discove"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.youworkforthem.com/font/T3283/novo-dada",
+      "snippet": "nts and 767,000 graphics available for download at YouWorkForThem. The Original Creative Marketplace | Copyright © 2001-2026 YouWorkForThem. All Rights Reserved. We accept Visa, MasterCard, American Express, Discover, Ap"
+    },
+    {
+      "date": "2014-11-04",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.youworkforthem.com/font/T3283/novo-dada",
+      "snippet": "2014-11-04"
+    },
+    {
+      "date": "2012-07-31",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.youworkforthem.com/font/T3283/novo-dada",
+      "snippet": "er_size_tester NT Novo Dada $26.00 Add to Cart Cart Data Cart Data Cart Data Cart Data Cart Data by Novo Typo Posted on Jul 31, 2012 Handpicked Sales Rank: 26116 ywft.us/2127baf33 Share An unordinary type of family: Novo"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.youworkforthem.com/font/T3283/novo-dada",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.youworkforthem.com/font/T3283/novo-dada",
+    "last_modified": null
+  }
+}

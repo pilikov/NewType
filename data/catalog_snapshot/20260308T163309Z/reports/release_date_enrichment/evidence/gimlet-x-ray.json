@@ -1,0 +1,27 @@
+{
+  "record_id": "gimlet-x-ray",
+  "source_url": "https://djr.com/gimlet-xray",
+  "checked_at": "2026-03-09T01:40:52.926853+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://djr.com/gimlet-xray",
+      "snippet": "ariable color font is available in COLR/CPAL and SVG flavors, and was released to the Font of the Month Club in January 2020. I think you’ll enjoy it! Gimlet X-Ray is the January 2020 offering from Font of the Month Club"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://djr.com/gimlet-xray",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://djr.com/gimlet-xray",
+    "last_modified": null
+  }
+}

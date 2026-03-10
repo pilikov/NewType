@@ -1,0 +1,34 @@
+{
+  "record_id": "vestmar",
+  "source_url": "https://monokrom.no/fonts/vestmar",
+  "checked_at": "2026-03-09T01:58:14.611774+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://monokrom.no/fonts/vestmar",
+      "snippet": "way’s most innovative type designers. + Add Vestmar to cart + Get free trial Details Designer: Sindre Bremnes Released: 2020 Format: OTF, WOFF, WOFF2 Language support We offer active support for over 200 languages. Read "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://monokrom.no/fonts/vestmar",
+      "snippet": "age support We offer active support for over 200 languages. Read more about our character set . Monokrom Skriftforlag © 2026 Oslo—Kragerø—Birkeland · Imprint Select typeface ------ Avgarde Condensed Diploë R-I-B-BI Motor"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://monokrom.no/fonts/vestmar",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://monokrom.no/fonts/vestmar",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "radio",
+  "source_url": "https://www.suvatypefoundry.ee/radio/",
+  "checked_at": "2026-03-09T02:00:31.512041+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/radio/",
+      "snippet": "UNDRY PREVIOUS FONT RADIO NEXT FONT P W A L Y K V F U N J I M R C DOWNLOAD B S Z T O X E D H G Q RADIO by Pavel Salmin (2020) This font is based on soviet magazines for radio amateurs. It refers to electronic schemes and"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/radio/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/radio/",
+    "last_modified": null
+  }
+}

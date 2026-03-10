@@ -1,0 +1,34 @@
+{
+  "record_id": "vogy-smog",
+  "source_url": "https://www.swisstypefaces.com/fonts/vogy/",
+  "checked_at": "2026-03-09T01:56:00.332542+00:00",
+  "candidates": [
+    {
+      "date": "2006-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.swisstypefaces.com/fonts/vogy/",
+      "snippet": "ndled via credit card Mastercard, VISA, American Express, Discover Network Follow Us Facebook Twitter Instagram In Use ©2006–2026 Swiss Typefaces All rights reserved"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.swisstypefaces.com/fonts/vogy/",
+      "snippet": " via credit card Mastercard, VISA, American Express, Discover Network Follow Us Facebook Twitter Instagram In Use ©2006–2026 Swiss Typefaces All rights reserved"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.swisstypefaces.com/fonts/vogy/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.swisstypefaces.com/fonts/vogy/",
+    "last_modified": null
+  }
+}

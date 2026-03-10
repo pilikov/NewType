@@ -1,0 +1,48 @@
+{
+  "record_id": "manual-tatry",
+  "source_url": "https://www.setuptype.com/fonts/manual-tatry",
+  "checked_at": "2026-03-09T02:01:17.415031+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.setuptype.com/fonts/manual-tatry",
+      "snippet": " Sensitive Forms, Ordinals Webfont: 16.4 KB (Average size per style) Version: 1.0 Copyright: Manual Tatry, Ondrej Jób © 2018. All rights reserved. Release Date: Jun 30 2018 Updated: Feb 21 2025 Buy Try Change Color Schem"
+    },
+    {
+      "date": "2018-06-30",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.setuptype.com/fonts/manual-tatry",
+      "snippet": "KB (Average size per style) Version: 1.0 Copyright: Manual Tatry, Ondrej Jób © 2018. All rights reserved. Release Date: Jun 30 2018 Updated: Feb 21 2025 Buy Try Change Color Scheme Specimen Styles Glyphs Info Setup Type "
+    },
+    {
+      "date": "2025-02-21",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.setuptype.com/fonts/manual-tatry",
+      "snippet": "style) Version: 1.0 Copyright: Manual Tatry, Ondrej Jób © 2018. All rights reserved. Release Date: Jun 30 2018 Updated: Feb 21 2025 Buy Try Change Color Scheme Specimen Styles Glyphs Info Setup Type Fonts, Branding, Lett"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.setuptype.com/fonts/manual-tatry",
+      "snippet": "ess Contact E-mail Instagram Facebook Fontstand Pinterest Mastodon Threads Setup Type All Rights Reserved. Ondrej Jób © 2026"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.setuptype.com/fonts/manual-tatry",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.setuptype.com/fonts/manual-tatry",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "arnhem-display",
+  "source_url": "https://www.typeby.com/fonts/arnhem-display",
+  "checked_at": "2026-03-09T01:55:15.653272+00:00",
+  "candidates": [
+    {
+      "date": "1999-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/arnhem-display",
+      "snippet": " family and is designed for newspaper headline composition. The original Arnhem family was designed by Fred Smeijers in 1999 for the Nederlandse Staatscourant, the daily newspaper of the Dutch government. The design was "
+    },
+    {
+      "date": "2006-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/arnhem-display",
+      "snippet": " Arnhem’s character, colour and reading quality make it exceptional. The first version of Arnhem Display was created in 2006 for Mark Porter as part of the redesign of Het Financieele Dagblad, the leading financial newsp"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/arnhem-display",
+      "snippet": "mo Remo Stencil Rosalinde Subtil Grotesk Edward Lirico Eva Meran Stan Standing Type Couteau Greco Klub Orly Copyright © 2026 Type By. All Rights Reserved. Information About Licenses Help Terms & conditions of sale Terms "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.typeby.com/fonts/arnhem-display",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typeby.com/fonts/arnhem-display",
+    "last_modified": null
+  }
+}

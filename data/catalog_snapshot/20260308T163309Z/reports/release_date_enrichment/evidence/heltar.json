@@ -1,0 +1,27 @@
+{
+  "record_id": "heltar",
+  "source_url": "https://thenorthernblock.co.uk/fonts/p/heltar",
+  "checked_at": "2026-03-09T02:01:47.395354+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://thenorthernblock.co.uk/fonts/p/heltar",
+      "snippet": " exclusive offers and the latest foundry updates. Email Address Subscribe Thank you! Copyright © The Northern Block Ltd 2026."
+    },
+    {
+      "date": "2026-02-10",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://thenorthernblock.co.uk/fonts/p/heltar",
+      "snippet": "2026-02-10"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://thenorthernblock.co.uk/fonts/p/heltar",
+    "last_modified": null
+  }
+}

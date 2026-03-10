@@ -1,0 +1,19 @@
+{
+  "record_id": "september",
+  "source_url": "https://www.devicefonts.co.uk/catalogue/september",
+  "checked_at": "2026-03-09T01:54:40.318958+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.devicefonts.co.uk/catalogue/september",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "403 Client Error: Forbidden for url: https://www.devicefonts.co.uk/catalogue/september"
+  }
+}

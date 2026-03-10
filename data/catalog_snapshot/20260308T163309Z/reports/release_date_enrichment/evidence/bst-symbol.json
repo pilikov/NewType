@@ -1,0 +1,20 @@
+{
+  "record_id": "bst-symbol",
+  "source_url": "https://www.britishstandardtype.xyz/",
+  "checked_at": "2026-03-09T01:42:03.756248+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.britishstandardtype.xyz/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.britishstandardtype.xyz/",
+    "last_modified": null
+  }
+}

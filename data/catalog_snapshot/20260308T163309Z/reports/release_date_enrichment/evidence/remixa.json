@@ -1,0 +1,41 @@
+{
+  "record_id": "remixa",
+  "source_url": "https://narrowtype.com/typefaces/remixa",
+  "checked_at": "2026-03-09T01:53:44.994707+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://narrowtype.com/fonts/remixa/",
+      "snippet": "e Read less Credits & Details Name Styles Released Updated Formats Variable Classification Type Design Remixa 6 Weights 2023 2024, Version 2.0 OTF, TTF, WOFF, WOFF2 YES Sans Serif Andrej Sevcik Supported Languages Afrika"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://narrowtype.com/fonts/remixa/",
+      "snippet": "d less Credits & Details Name Styles Released Updated Formats Variable Classification Type Design Remixa 6 Weights 2023 2024, Version 2.0 OTF, TTF, WOFF, WOFF2 YES Sans Serif Andrej Sevcik Supported Languages Afrikaans A"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://narrowtype.com/fonts/remixa/",
+      "snippet": "Sun, 08 Mar 2026 18:42:08 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://narrowtype.com/typefaces/remixa",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://narrowtype.com/fonts/remixa/",
+    "last_modified": "Sun, 08 Mar 2026 18:42:08 GMT"
+  }
+}

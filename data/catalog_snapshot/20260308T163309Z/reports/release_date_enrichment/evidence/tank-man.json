@@ -1,0 +1,55 @@
+{
+  "record_id": "tank-man",
+  "source_url": "https://www.vocaltype.co/history-of/tank-man",
+  "checked_at": "2026-03-09T01:59:27.355355+00:00",
+  "candidates": [
+    {
+      "date": "2023-06-04",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.vocaltype.co/history-of/tank-man",
+      "snippet": "2023-06-04T05:02:59-0400"
+    },
+    {
+      "date": "2023-06-04",
+      "score": 0.9,
+      "source_type": "meta:datePublished",
+      "source_url": "https://www.vocaltype.co/history-of/tank-man",
+      "snippet": "2023-06-04T05:02:59-0400"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.vocaltype.co/history-of/tank-man",
+      "snippet": "Many have only become aware of it after going to other countries. While it’s unclear how many civilians were killed, in 2017, newly released UK documents revealed that a diplomatic cable from then-British Ambassador to C"
+    },
+    {
+      "date": "2023-06-12",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.vocaltype.co/history-of/tank-man",
+      "snippet": "2023-06-12T14:42:07-0400"
+    },
+    {
+      "date": "2023-06-04",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.vocaltype.co/history-of/tank-man",
+      "snippet": "e Sign In My Account Typefaces Custom Design History Progress Information Reach Sign In My Account TANK MAN Tre Seals · June  4, 2023 Before I delve into the details, I would like to state that I possess a profound under"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.vocaltype.co/history-of/tank-man",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.vocaltype.co/history-of/tank-man",
+    "last_modified": null
+  }
+}

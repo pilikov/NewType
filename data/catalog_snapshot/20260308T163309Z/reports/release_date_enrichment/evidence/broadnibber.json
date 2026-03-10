@@ -1,0 +1,27 @@
+{
+  "record_id": "broadnibber",
+  "source_url": "https://www.suvatypefoundry.ee/broadnibber/",
+  "checked_at": "2026-03-09T01:44:14.204679+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/broadnibber/",
+      "snippet": "S FONT BROADNIBBER NEXT FONT R E S X V K DOWNLOAD O L F J G W P B I Q T N M H U A Y Z C D BROADNIBBER by Kristjan Prik (2020) Broadnibber is a font with rather dramatic line weight contrasts, inspired by calligraphic let"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/broadnibber/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/broadnibber/",
+    "last_modified": null
+  }
+}

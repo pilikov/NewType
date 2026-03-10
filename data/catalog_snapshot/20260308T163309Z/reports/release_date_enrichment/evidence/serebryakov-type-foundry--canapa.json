@@ -1,0 +1,48 @@
+{
+  "record_id": "serebryakov-type-foundry--canapa",
+  "source_url": "https://serebryakov.com/fonts/canapa",
+  "checked_at": "2026-03-08T16:58:45.966383+00:00",
+  "candidates": [
+    {
+      "date": "2017-11-08",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/canapa",
+      "snippet": "lic) Scripts Latin, Cyrillic Features Contextual Alternates Oldstyle/Tabular Figures Designer Denis Serebryakov Release Nov 8, 2017 Canapa is a humanist sans-serif with wide proportions. The family includes ten styles, i"
+    },
+    {
+      "date": "2006-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/canapa",
+      "snippet": "dium sizes. It’s not a universal typeface, but it adapts easily to different tasks while maintaining a friendly tone. © 2006– 2026 Instagram BELARUS, 220021, MINSK, NEZAVISIMOSTI AVE., 95A, OFFICE 37, REG. BY THE MINSK C"
+    },
+    {
+      "date": "2014-02-11",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/canapa",
+      "snippet": "026 Instagram BELARUS, 220021, MINSK, NEZAVISIMOSTI AVE., 95A, OFFICE 37, REG. BY THE MINSK CITY EXECUTIVE COMMITTEE ON FEB 11, 2014. TAX ID 290447975, IE DENIS RODIONOVICH SEREBRYAKOV"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/canapa",
+      "snippet": "izes. It’s not a universal typeface, but it adapts easily to different tasks while maintaining a friendly tone. © 2006– 2026 Instagram BELARUS, 220021, MINSK, NEZAVISIMOSTI AVE., 95A, OFFICE 37, REG. BY THE MINSK CITY EX"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://serebryakov.com/fonts/canapa",
+      "snippet": "2026-03-05"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://serebryakov.com/fonts/canapa",
+    "last_modified": null
+  }
+}

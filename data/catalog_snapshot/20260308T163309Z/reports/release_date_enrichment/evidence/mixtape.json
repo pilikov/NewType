@@ -1,0 +1,34 @@
+{
+  "record_id": "mixtape",
+  "source_url": "http://superiortype.com/fonts/mixtape",
+  "checked_at": "2026-03-09T01:47:43.333377+00:00",
+  "candidates": [
+    {
+      "date": "2008-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://superiortype.com/fonts/mixtape",
+      "snippet": "Superior Glyphs Regular 𓀊 100px Overview 𓀊 𓀝 Details Description The Mixtape typeface family traces its origins back to 2008, when designer Rostislav VanÄk set out to create a typeface rooted in Bauhaus and avant-garde "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://superiortype.com/fonts/mixtape",
+      "snippet": "Bold Mixtape ExtraBold Italic Mixtape Black Mixtape Black Italic Languages (302) Show Languages Superior Type Â© 2013â2026. All rights reserved Support Contact Instagram"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://superiortype.com/fonts/mixtape",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://superiortype.com/fonts/mixtape",
+    "last_modified": null
+  }
+}

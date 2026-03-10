@@ -1,0 +1,34 @@
+{
+  "record_id": "scoop",
+  "source_url": "https://lettersfromsweden.se/font/scoop",
+  "checked_at": "2026-03-09T01:53:12.490344+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://lettersfromsweden.se/font/scoop/",
+      "snippet": "gens Nyheter offers extensive national and international coverage. Together with DN Serif, the typeface was launched in 2023 for the printed daily newspaper, website, and mobile app. Scoop is now available as a commercia"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://lettersfromsweden.se/font/scoop/",
+      "snippet": "Mon, 09 Mar 2026 01:53:13 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://lettersfromsweden.se/font/scoop",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://lettersfromsweden.se/font/scoop/",
+    "last_modified": "Mon, 09 Mar 2026 01:53:13 GMT"
+  }
+}

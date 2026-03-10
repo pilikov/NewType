@@ -1,0 +1,48 @@
+{
+  "record_id": "victor-narrow",
+  "source_url": "https://www.kometa.xyz/typefaces/victor-narrow",
+  "checked_at": "2026-03-09T01:52:38.447183+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://kometatype.com/typefaces/victor-narrow",
+      "snippet": "esigned and engineered in the Czech Republic Progressive retail & bespoke typography Trusted by 24,100+ customers since 2018 Available for bespoke commissions Sold exclusively through this website Fonts for future-facing"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://kometatype.com/typefaces/victor-narrow",
+      "snippet": "ish, Finnish, Norwegian, Slovak, Icelandic and 25 more languages List All 41 Languages Status Version 1.0 (Conceived 03/2020, Released 01/2022) Designer Christian JÃ¡nskÃ½ Assistance Juan Jun Feng View Typeface Details â"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://kometatype.com/typefaces/victor-narrow",
+      "snippet": "egian, Slovak, Icelandic and 25 more languages List All 41 Languages Status Version 1.0 (Conceived 03/2020, Released 01/2022) Designer Christian JÃ¡nskÃ½ Assistance Juan Jun Feng View Typeface Details â You might like "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kometatype.com/typefaces/victor-narrow",
+      "snippet": "e Fonts Download Trials Shop Goods Sign In Bespoke Work Design Studio Help Center Instagram Facebook KOMETA Typefaces Â©2026 All rights reserved. This website does not track you."
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.kometa.xyz/typefaces/victor-narrow",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://kometatype.com/typefaces/victor-narrow",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "chupilca",
+  "source_url": "https://quintana-font.cl/typefaces/chupilca",
+  "checked_at": "2026-03-09T01:45:28.068927+00:00",
+  "candidates": [
+    {
+      "date": "2024-04-23",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://quintana-font.cl/typefaces/chupilca",
+      "snippet": "2024-04-23"
+    },
+    {
+      "date": "1999-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://quintana-font.cl/typefaces/chupilca",
+      "snippet": " (ss05) Alternative y (ss06) Cursive ampersand (ss07) Font Variations 100px format_size format_line_spacing Fight Club, 1999 Chupilca Fat Select a style Chupilca Fat Chupilca Background format_align_left format_align_cen"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://quintana-font.cl/typefaces/chupilca",
+      "snippet": "amily U$D 34.00 Chupilca Fat U$D 29.00 Chupilca Background U$D 12.00 TOTAL U$D 0.00 Proceed to checkout Quintana-Font © 2026 Font Catalog Loica Sans Violeta RunRun Lira Sans Berenjena Simona Chupilca Vivaceta Modérnica L"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://quintana-font.cl/typefaces/chupilca",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://quintana-font.cl/typefaces/chupilca",
+    "last_modified": null
+  }
+}

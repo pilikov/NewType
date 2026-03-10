@@ -1,0 +1,41 @@
+{
+  "record_id": "ultramega",
+  "source_url": "https://jtdtype.com/typeface/ultramega",
+  "checked_at": "2026-03-09T02:01:21.962271+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://jtdtype.com/typeface/ultramega",
+      "snippet": "ack Hairline Oblique Light Oblique Regular Oblique Medium Oblique Bold Oblique Black Oblique № of Styles 12 Released in 2025 Designed by Rachel Kriebel PDF ⇩ Specimen ↓ About ↓ Design Notes ↓ Glyphs ↓ Ultramega Black 120"
+    },
+    {
+      "date": "1996-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://jtdtype.com/typeface/ultramega",
+      "snippet": "Alternate a SS03 Alternate M The following procedures apply to pumps manufactured, overhauled, or repaired between July 1996 and November 1998 Ultramega Light 60 px Fonts ▼ Features ▼ Hairline Hairline Oblique Light Ligh"
+    },
+    {
+      "date": "1998-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://jtdtype.com/typeface/ultramega",
+      "snippet": "lternate M The following procedures apply to pumps manufactured, overhauled, or repaired between July 1996 and November 1998 Ultramega Light 60 px Fonts ▼ Features ▼ Hairline Hairline Oblique Light Light Oblique Regular "
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://jtdtype.com/typeface/ultramega",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://jtdtype.com/typeface/ultramega",
+    "last_modified": null
+  }
+}

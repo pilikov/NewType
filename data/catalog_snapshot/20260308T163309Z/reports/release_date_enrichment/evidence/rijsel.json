@@ -1,0 +1,55 @@
+{
+  "record_id": "rijsel",
+  "source_url": "https://ainsifont.com/font/rijsel",
+  "checked_at": "2026-03-09T01:42:55.317167+00:00",
+  "candidates": [
+    {
+      "date": "2013-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/font/rijsel",
+      "snippet": "of an international company headquarters based in France. The glyphs set of the font has been optimized and extended in 2013 to be published and distributed by AinsiFont . Rijsel_Specimen.pdf 329.70 Ko Six nuances de gri"
+    },
+    {
+      "date": "1997-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/font/rijsel",
+      "snippet": "bastien Delobel is a French designer born in 1972. Graduated of l’École supérieure des Arts Décoratifs de Strasbourg in 1997. Co-founder of the graphic design studio Atelier télescopique in 1998. Co-founder of the digita"
+    },
+    {
+      "date": "1998-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/font/rijsel",
+      "snippet": "e supérieure des Arts Décoratifs de Strasbourg in 1997. Co-founder of the graphic design studio Atelier télescopique in 1998. Co-founder of the digitale foundry for original typefaces ainsifont in 2003. (originally calle"
+    },
+    {
+      "date": "2003-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/font/rijsel",
+      "snippet": "phic design studio Atelier télescopique in 1998. Co-founder of the digitale foundry for original typefaces ainsifont in 2003. (originally called La Fonderie Nordik. 1998-2003) A B C D E F G H I J K L M N O P Q R S T U V "
+    },
+    {
+      "date": "2011-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.ainsifont.com/font/rijsel",
+      "snippet": "e-01234 567890-);°ABC DEFGH°-àé&!€ ADD TO CART 160 € OTF Font pack 6 weights Linéale Sans 6 weights 2013 Af Rijsel sans 2011 Designer. Sébastien Delobel Classification. Linéale Langage. Latin Pro Édition. 2013 Illustrati"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ainsifont.com/font/rijsel",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.ainsifont.com/font/rijsel",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "ts-fonts--hiba-font",
+  "source_url": "https://tsfonts.com/font/hiba-font/",
+  "checked_at": "2026-03-09T02:00:59.219808+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-31",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://tsfonts.com/font/hiba-font/",
+      "snippet": "2024-01-31T10:38:40+00:00"
+    },
+    {
+      "date": "2026-03-08",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://tsfonts.com/font/hiba-font/",
+      "snippet": "2026-03-08T13:28:45+00:00"
+    },
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://tsfonts.com/font/hiba-font/",
+      "snippet": "ify 15 characters – The font name can be customized – All font formats included (OTF_TTF_WOFF_WOFF2) Price Starts From $2000 For More About License ↗ A studio specialized in type design and branding. Brows Fonts Branding"
+    },
+    {
+      "date": "2026-02-21",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://tsfonts.com/font/hiba-font/",
+      "snippet": "2026-02-21"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://tsfonts.com/font/hiba-font/",
+    "last_modified": null
+  }
+}

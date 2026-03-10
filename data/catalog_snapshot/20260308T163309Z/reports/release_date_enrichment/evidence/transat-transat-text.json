@@ -1,0 +1,27 @@
+{
+  "record_id": "transat-transat-text",
+  "source_url": "https://www.gregshutters.com/transat",
+  "checked_at": "2026-03-09T02:01:27.093514+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.gregshutters.com/transat",
+      "snippet": "o read at small sizes. Transat has been used in various applications worldwide, including in the title graphics for the 2016 NBC variety series Maya & Marty , designed by Pentagram. Get It Now: Typographer Adobe Fonts Fo"
+    },
+    {
+      "date": "2026-02-15",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.gregshutters.com/transat",
+      "snippet": "2026-02-15"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.gregshutters.com/transat",
+    "last_modified": null
+  }
+}

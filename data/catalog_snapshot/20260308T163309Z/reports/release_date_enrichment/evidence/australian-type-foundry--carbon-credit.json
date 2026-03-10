@@ -1,0 +1,48 @@
+{
+  "record_id": "australian-type-foundry--carbon-credit",
+  "source_url": "https://www.atf.com.au/",
+  "checked_at": "2026-03-09T01:35:56.300634+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.atf.com.au/",
+      "snippet": "e Workshops Fonts Licensing Payment Methods Contact Newsletter Email address: Leave this field empty if you're human: © 2026 Australian Type Foundry. Sitemap twitter facebook pinterest instagram behance Close Menu Home A"
+    },
+    {
+      "date": "2015-06-20",
+      "score": 0.6499999999999999,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.atf.com.au/",
+      "snippet": "2015-06-20T05:52:41+00:00"
+    },
+    {
+      "date": "2026-02-20",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.atf.com.au/",
+      "snippet": "2026-02-20T05:05:35+00:00"
+    },
+    {
+      "date": "2026-02-20",
+      "score": 0.39999999999999997,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.atf.com.au/",
+      "snippet": "2026-02-20T05:05:35+00:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.atf.com.au/",
+      "snippet": "2026-03-05"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.atf.com.au/",
+    "last_modified": null
+  }
+}

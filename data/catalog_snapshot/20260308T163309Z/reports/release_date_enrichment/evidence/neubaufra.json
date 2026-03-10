@@ -1,0 +1,34 @@
+{
+  "record_id": "neubaufra",
+  "source_url": "https://www.inhousetype.com/typefaces/p/neubaufra",
+  "checked_at": "2026-03-09T01:58:45.972575+00:00",
+  "candidates": [
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.inhousetype.com/typefaces/p/neubaufra",
+      "snippet": "of 9 Image 8 of 9 Image 9 of 9 Neubaufra £238.74 Neubaufra is a geometric modernist type family. Originally released in 2012 as Baufra, Neubaufra is a considerate restoration of the original work. Inspired by the early 2"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.inhousetype.com/typefaces/p/neubaufra",
+      "snippet": "rty of their respective owners and no endorsement or derogation is intended or inferred. All other content, copyright © 2025 INHOUSE TYPE LTD. All rights reserved."
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.inhousetype.com/typefaces/p/neubaufra",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.inhousetype.com/typefaces/p/neubaufra",
+    "last_modified": null
+  }
+}

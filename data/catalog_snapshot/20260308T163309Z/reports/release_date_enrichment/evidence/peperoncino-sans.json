@@ -1,0 +1,20 @@
+{
+  "record_id": "peperoncino-sans",
+  "source_url": "https://www.rsztype.com/fonts/peperoncino",
+  "checked_at": "2026-03-09T01:48:34.450141+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.rsztype.com/fonts/peperoncino",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.rsztype.com/fonts/peperoncino",
+    "last_modified": null
+  }
+}

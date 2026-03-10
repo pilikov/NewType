@@ -1,0 +1,27 @@
+{
+  "record_id": "p22-1722",
+  "source_url": "https://p22.com/fonts/1722/",
+  "checked_at": "2026-03-09T01:50:46.694787+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/1722/",
+      "snippet": " Ǽ Ș E G J K L O Q T Y Z h k w È É Ê Ë Ò Ó Ô Õ Ö Ø Ý Ē Ĕ Ė Ę Ě Ĝ Ğ Ġ Ģ Ĳ Ĵ Ķ Ĺ Ļ Ľ Lining Figures 0 1 2 3 4 5 6 7 8 9 © 2026 The Type Founders, LLC Fonts Designers About Privacy & Cookies Terms of Service Licensing Servi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://p22.com/fonts/1722/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://p22.com/fonts/1722/",
+    "last_modified": null
+  }
+}

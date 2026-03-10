@@ -1,0 +1,27 @@
+{
+  "record_id": "lost-type-co-op--dotties",
+  "source_url": "https://latest.losttype.com/introducing/dotties",
+  "checked_at": "2026-03-08T16:58:44.938109+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://latest.losttype.com/introducing/dotties",
+      "snippet": " in many cohesive voices, mixing function with flavor. Try Dotties Lost Type Fonts Store Blog Contact About Copyright © 2026 Lost Type. Brought to you by Riley Cran and friends ."
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://latest.losttype.com/introducing/dotties",
+      "snippet": "2026-03-05"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://latest.losttype.com/introducing/dotties",
+    "last_modified": null
+  }
+}

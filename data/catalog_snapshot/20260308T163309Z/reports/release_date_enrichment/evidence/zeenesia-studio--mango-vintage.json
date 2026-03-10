@@ -1,0 +1,48 @@
+{
+  "record_id": "zeenesia-studio--mango-vintage",
+  "source_url": "https://zeenesia.com/product/mango-vintage/",
+  "checked_at": "2026-03-09T01:36:27.989905+00:00",
+  "candidates": [
+    {
+      "date": "2023-09-17",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://zeenesia.com/product/mango-vintage/",
+      "snippet": "2023-09-17T03:04:30+00:00"
+    },
+    {
+      "date": "2025-05-29",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://zeenesia.com/product/mango-vintage/",
+      "snippet": "2025-05-29T04:49:17+00:00"
+    },
+    {
+      "date": "2025-05-29",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://zeenesia.com/product/mango-vintage/",
+      "snippet": "2025-05-29T04:49:17+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://zeenesia.com/product/mango-vintage/",
+      "snippet": "antity Add to cart Related products $ 15 Fresh Pineapple $ 15 Lemonilla $ 15 Farm Bluster $ 15 Reds Aglonema Copyright ©2025 Zeenesia Studio All Right Reserved Menu Home Shop Serif Fonts Sans Serif Fonts Script Fonts Dis"
+    },
+    {
+      "date": "2026-02-26",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://zeenesia.com/product/mango-vintage/",
+      "snippet": "2026-02-26"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://zeenesia.com/product/mango-vintage/",
+    "last_modified": null
+  }
+}

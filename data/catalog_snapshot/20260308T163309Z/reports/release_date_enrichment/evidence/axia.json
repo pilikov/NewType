@@ -1,0 +1,62 @@
+{
+  "record_id": "axia",
+  "source_url": "https://www.kontour.com/typefaces/axia",
+  "checked_at": "2026-03-09T02:01:48.900396+00:00",
+  "candidates": [
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://kontour.com/typefaces/axia",
+      "snippet": "old Italic Black Black Italic Axia Stencil Light Black About Axia Designer Sibylle Hagmann Version 1.001 Year published 2012 Pricing $300.00, starting at $50.00 Formats .otf, .ttf, .woff Axia is a sans serif uni-widths o"
+    },
+    {
+      "date": "2025-10-13",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://kontour.com/typefaces/axia",
+      "snippet": "2025-10-13"
+    },
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kontour.com/typefaces/axia",
+      "snippet": "ial Fonts Fonts In use Activate on Adobe Fonts Test with Fontstand Type Network ALL RIGHTS RESERVED Kontour Type, LLC © 2000 – 2026 FAQ Licenses Terms & Conditions Contact About + Recognition Social"
+    },
+    {
+      "date": "2003-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kontour.com/typefaces/axia",
+      "snippet": " found some inspiration in the TwinCities typeface family created by Sibylle Hagmann for the University of Minnesota in 2003. Axia has been orchestrated from scratch, each the roman and italic weights harmonize perfectly"
+    },
+    {
+      "date": "2011-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kontour.com/typefaces/axia",
+      "snippet": "ye and form nicely proportioned type when united. Originally designed for the Rice University School of Architecture in 2011, this contemporary sans found some inspiration in the TwinCities typeface family created by Sib"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kontour.com/typefaces/axia",
+      "snippet": "ts Fonts In use Activate on Adobe Fonts Test with Fontstand Type Network ALL RIGHTS RESERVED Kontour Type, LLC © 2000 – 2026 FAQ Licenses Terms & Conditions Contact About + Recognition Social"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.kontour.com/typefaces/axia",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://kontour.com/typefaces/axia",
+    "last_modified": null
+  }
+}

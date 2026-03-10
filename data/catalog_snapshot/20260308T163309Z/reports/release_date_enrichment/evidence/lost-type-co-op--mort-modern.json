@@ -1,0 +1,41 @@
+{
+  "record_id": "lost-type-co-op--mort-modern",
+  "source_url": "http://mort-modern.losttype.com/",
+  "checked_at": "2026-03-08T16:58:45.616014+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://mort-modern.losttype.com/",
+      "snippet": "hemeral medium of type, and included in the massive type specimen tomes produced by these companies. Freeman Craw (1917–2017, New York) had spun his career in advertising and identity design into a career in type, workin"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://mort-modern.losttype.com/",
+      "snippet": "st. MORT MODERN A serif typeface in 56 styles designed by Riley Cran, inspired by the lettering work of Mortimer Leach. 2018 m This is Mort Modern A new typeface designed by Riley Cran, inspired by the work of lettering "
+    },
+    {
+      "date": "2011-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://mort-modern.losttype.com/",
+      "snippet": "y in 1985. Doyald Young took over Mort’s lettering class at Art Center, and continued to teach there until his death in 2011. During his career he drew logotypes for Prince, The Cheesecake Factory, General Electric, Prud"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://mort-modern.losttype.com/",
+      "snippet": "2026-03-05"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://mort-modern.losttype.com/",
+    "last_modified": null
+  }
+}

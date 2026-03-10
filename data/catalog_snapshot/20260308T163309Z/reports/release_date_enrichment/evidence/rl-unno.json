@@ -1,0 +1,41 @@
+{
+  "record_id": "rl-unno",
+  "source_url": "https://www.regularlines.com/typefaces/rl-unno",
+  "checked_at": "2026-03-09T01:54:00.390791+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.regularlines.com/rl-unno-old/",
+      "snippet": "Trials Information Services Cart Regular Lines Type Foundry Information Unno Collection 1 family, 8 styles Release date 2018 The Unno typeface's versatility is evident in its ability to look great in various media format"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.regularlines.com/rl-unno-old/",
+      "snippet": "PDF Specimen Other Typefaces RL-Zeta-old RL-Slack-old RL-Refusit-old Instagram info@regularlines.com Regular Lines TF © 2024 Instagram info@regularlines.com Regular Lines TF © 2024"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.regularlines.com/rl-unno-old/",
+      "snippet": "Fri, 22 Aug 2025 09:49:05 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.regularlines.com/typefaces/rl-unno",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.regularlines.com/rl-unno-old/",
+    "last_modified": "Fri, 22 Aug 2025 09:49:05 GMT"
+  }
+}

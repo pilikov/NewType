@@ -1,0 +1,34 @@
+{
+  "record_id": "stanley",
+  "source_url": "https://boldmonday.com/typeface/stanley/",
+  "checked_at": "2026-03-09T01:57:03.471603+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/stanley/",
+      "snippet": "ent discounts Privacy policy Return policy Disclaimer Subscribe to News & Updates Twitter | Facebook | Mail Copyright © 2026 Bold Monday – all rights reserved Made by Unwind"
+    },
+    {
+      "date": "2008-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/stanley/",
+      "snippet": "s to many extras including ligatures, stylistic alternates and different kinds of numbers. Designer Pieter van Rosmalen 2008 Stanley supports the following languages Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Bosnian"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://boldmonday.com/typeface/stanley/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://boldmonday.com/typeface/stanley/",
+    "last_modified": null
+  }
+}

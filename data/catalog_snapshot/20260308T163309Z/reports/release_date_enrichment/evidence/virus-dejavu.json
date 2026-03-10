@@ -1,0 +1,83 @@
+{
+  "record_id": "virus-dejavu",
+  "source_url": "https://barnbrook.net/typefaces/virus-dejavu",
+  "checked_at": "2026-03-09T01:59:16.889343+00:00",
+  "candidates": [
+    {
+      "date": "2016-06-01",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://barnbrook.net/typefaces/virus-dejavu/",
+      "snippet": "2016-06-01T15:48:52+00:00"
+    },
+    {
+      "date": "2019-05-21",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://barnbrook.net/typefaces/virus-dejavu/",
+      "snippet": "2019-05-21T14:53:37+00:00"
+    },
+    {
+      "date": "2019-05-21",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://barnbrook.net/typefaces/virus-dejavu/",
+      "snippet": "2019-05-21T14:53:37+00:00"
+    },
+    {
+      "date": "2002-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://barnbrook.net/typefaces/virus-dejavu/",
+      "snippet": ". The DejaVu fonts are themselves modifications and developments of Bitstream Vera, originally designed by Jim Lyles in 2002. During the development of Virus DejaVu, the 13 weights of the original DejaVu were manually re"
+    },
+    {
+      "date": "2004-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://barnbrook.net/typefaces/virus-dejavu/",
+      "snippet": "ised with a retrospective at the Design Museum in London entitled Friendly Fire in 2007 and at Ginza Graphic Gallery in 2004. A touring exhibition if the studio’s work Collateral Damage was staged in various countries, i"
+    },
+    {
+      "date": "2007-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://barnbrook.net/typefaces/virus-dejavu/",
+      "snippet": "k’s contribution to design was recognised with a retrospective at the Design Museum in London entitled Friendly Fire in 2007 and at Ginza Graphic Gallery in 2004. A touring exhibition if the studio’s work Collateral Dama"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://barnbrook.net/typefaces/virus-dejavu/",
+      "snippet": "rainian cultural centre, Mystetskyi Arsenal and for the first Kyiv international biennale of contemporary art, Arsenale 2012 . The decision to develop a pre-existing open-source font project as the typographic bedrock of"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://barnbrook.net/typefaces/virus-dejavu/",
+      "snippet": "r teaching and lecturing worldwide. Awards 59th Annual Grammy Awards – Winner of Best Recording Package for Blackstar , 2016 The Design Museum Beazley Design of The Year – Winner of Graphic Design of the Year for Blackst"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://barnbrook.net/typefaces/virus-dejavu/",
+      "snippet": "Mon, 09 Mar 2026 01:39:27 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://barnbrook.net/typefaces/virus-dejavu",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://barnbrook.net/typefaces/virus-dejavu/",
+    "last_modified": "Mon, 09 Mar 2026 01:39:27 GMT"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "record_id": "elizabeth-nd",
+  "source_url": "https://bauertypes.com/en/elizabeth-nd",
+  "checked_at": "2026-03-09T01:44:53.497707+00:00",
+  "candidates": [
+    {
+      "date": "2022-03-14",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://bauertypes.com/buy/elizabeth-nd/",
+      "snippet": "2022-03-14T08:23:18+00:00"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://bauertypes.com/buy/elizabeth-nd/",
+      "snippet": "ved Other links Terminos y Condiciones Politica de privacidad Aviso Legal Politica de cookies EULA Contacta Copyright © 2022 Bauer Types, S.L. | All rights reserved NEWSLETTER Stay up to date with the latest typography n"
+    },
+    {
+      "date": "2022-05-19",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://bauertypes.com/buy/elizabeth-nd/",
+      "snippet": "2022-05-19T09:24:27+00:00"
+    },
+    {
+      "date": "2022-05-19",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://bauertypes.com/buy/elizabeth-nd/",
+      "snippet": "2022-05-19T09:24:27+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://bauertypes.com/buy/elizabeth-nd/",
+      "snippet": "icy Policy of Cookies EULA Contact General Terms Legal Notice Privacy Policy Policy of Cookies EULA Contact Copyright © 2025 Bauer Types, S.L. | All rights reserved Other links Terminos y Condiciones Politica de privacid"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://bauertypes.com/en/elizabeth-nd",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://bauertypes.com/buy/elizabeth-nd/",
+    "last_modified": null
+  }
+}

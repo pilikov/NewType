@@ -1,0 +1,41 @@
+{
+  "record_id": "sopran",
+  "source_url": "https://type-salon.com/typefaces/sopran",
+  "checked_at": "2026-03-09T01:53:56.968519+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-21",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://type-salon.com/portfolio/sopran/",
+      "snippet": "2020-01-21T09:29:54+00:00"
+    },
+    {
+      "date": "2024-06-19",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://type-salon.com/portfolio/sopran/",
+      "snippet": "2024-06-19T11:31:48+00:00"
+    },
+    {
+      "date": "2024-06-19",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://type-salon.com/portfolio/sopran/",
+      "snippet": "2024-06-19T11:31:48+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://type-salon.com/typefaces/sopran",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://type-salon.com/portfolio/sopran/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "crespo",
+  "source_url": "https://hottype.co/fonts/crespo",
+  "checked_at": "2026-03-09T01:41:24.838007+00:00",
+  "candidates": [
+    {
+      "date": "2025-02-04",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://hottype.co/fonts/crespo",
+      "snippet": "2025-02-04"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://hottype.co/fonts/crespo",
+      "snippet": "rojects About Account Crespo Buy\n                                    Now Designer: Marko Hrastovec, Mihael Šandro Year: 2025 Update: 01/2025 Styles: 36 Condition: Basic character set Starting as an interpretation of a sh"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://hottype.co/fonts/crespo",
+      "snippet": "ic sans serif, as there is something quite humanist and unique protruding from those sturdy geometric shapes. Buy Now © 2026 HotType Support Crafted by Fran , Zoran & FoundryCore Back to top ↑"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://hottype.co/fonts/crespo",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hottype.co/fonts/crespo",
+    "last_modified": null
+  }
+}

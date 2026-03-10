@@ -1,0 +1,48 @@
+{
+  "record_id": "zeenesia-studio--magic-romance",
+  "source_url": "https://zeenesia.com/product/magic-romance/",
+  "checked_at": "2026-03-09T01:36:27.954743+00:00",
+  "candidates": [
+    {
+      "date": "2023-07-27",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://zeenesia.com/product/magic-romance/",
+      "snippet": "2023-07-27T09:12:06+00:00"
+    },
+    {
+      "date": "2025-02-27",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://zeenesia.com/product/magic-romance/",
+      "snippet": "2025-02-27T15:47:59+00:00"
+    },
+    {
+      "date": "2025-02-27",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://zeenesia.com/product/magic-romance/",
+      "snippet": "2025-02-27T15:47:59+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://zeenesia.com/product/magic-romance/",
+      "snippet": "ntity Add to cart Related products $ 16 Selaris $ 18 Dream To Berich $ 16 Bright Almond $ 18 La Fleur Grande Copyright ©2025 Zeenesia Studio All Right Reserved Menu Home Shop Serif Fonts Sans Serif Fonts Script Fonts Dis"
+    },
+    {
+      "date": "2026-02-26",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://zeenesia.com/product/magic-romance/",
+      "snippet": "2026-02-26"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://zeenesia.com/product/magic-romance/",
+    "last_modified": null
+  }
+}

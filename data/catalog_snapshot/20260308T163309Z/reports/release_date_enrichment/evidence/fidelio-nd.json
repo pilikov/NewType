@@ -1,0 +1,28 @@
+{
+  "record_id": "fidelio-nd",
+  "source_url": "https://bauertypes.com/en/fidelio-nd",
+  "checked_at": "2026-03-09T01:56:22.749569+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://bauertypes.com/wp-content/uploads/2025/12/FIDELIO-ND.woff2",
+      "snippet": "Mon, 15 Dec 2025 09:33:37 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://bauertypes.com/en/fidelio-nd",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": 200,
+    "error": "unsupported content-type: font/woff2",
+    "final_url": "https://bauertypes.com/wp-content/uploads/2025/12/FIDELIO-ND.woff2",
+    "last_modified": "Mon, 15 Dec 2025 09:33:37 GMT"
+  }
+}

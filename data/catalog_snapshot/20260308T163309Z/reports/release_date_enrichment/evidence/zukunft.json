@@ -1,0 +1,41 @@
+{
+  "record_id": "zukunft",
+  "source_url": "https://laboldevita.com/fonts/zukunft",
+  "checked_at": "2026-03-09T01:56:46.346113+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.laboldevita.com/fonts/zukunft",
+      "snippet": "l symbols and italic capital swashes to make use of the full potential of Zukunft! Regular, Italic, Display Released in 2020 Latin Extended-A Cyrillic 876 Glyphs The complete font family The complete font family The comp"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.laboldevita.com/fonts/zukunft",
+      "snippet": "icles License (EULA) Student Discount About the Foundry Imprint General Terms and Conditions Privacy Policy Copyright Â©2026 LA BOLDE VITA (Nearly) all rights reserved. ALL FONTS Airo BHV Grotunda Kanton Gothic Neptun Re"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.laboldevita.com/fonts/zukunft",
+      "snippet": "Thu, 05 Mar 2026 19:01:29 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://laboldevita.com/fonts/zukunft",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.laboldevita.com/fonts/zukunft",
+    "last_modified": "Thu, 05 Mar 2026 19:01:29 GMT"
+  }
+}

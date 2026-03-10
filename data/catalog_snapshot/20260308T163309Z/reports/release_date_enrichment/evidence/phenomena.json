@@ -1,0 +1,62 @@
+{
+  "record_id": "phenomena",
+  "source_url": "https://fontfabric.com/typefaces/phenomena",
+  "checked_at": "2026-03-09T01:48:52.272372+00:00",
+  "candidates": [
+    {
+      "date": "2016-05-17",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.fontfabric.com/fonts/phenomena/",
+      "snippet": "2016-05-17T12:00:42+00:00"
+    },
+    {
+      "date": "2016-05-17",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/phenomena/",
+      "snippet": "cts. Comprehensive OpenType features deliver advanced typographic control for both print and digital use. Release Date: May 17, 2016 7 Phenomena Fonts Styles FREE: Phenomena Thin ; Phenomena Regular ; Phenomena Light ; P"
+    },
+    {
+      "date": "2026-02-12",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.fontfabric.com/fonts/phenomena/",
+      "snippet": "2026-02-12T14:29:55+00:00"
+    },
+    {
+      "date": "2026-02-12",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.fontfabric.com/fonts/phenomena/",
+      "snippet": "2026-02-12T14:29:55+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/phenomena/",
+      "snippet": "pt fonts Font sale Free fonts Fonts in use Font collections Legal Infringements About Help Blog Partnerships Contact us 2026 © Fontfabric llc. Privacy Notice Manage Cookies"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.fontfabric.com/fonts/phenomena/",
+      "snippet": "Sun, 08 Mar 2026 19:48:12 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fontfabric.com/typefaces/phenomena",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.fontfabric.com/fonts/phenomena/",
+    "last_modified": "Sun, 08 Mar 2026 19:48:12 GMT"
+  }
+}

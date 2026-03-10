@@ -1,0 +1,48 @@
+{
+  "record_id": "serebryakov-type-foundry--displace-2-0",
+  "source_url": "https://serebryakov.com/fonts/displace20",
+  "checked_at": "2026-03-08T16:58:45.979495+00:00",
+  "candidates": [
+    {
+      "date": "2019-03-06",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/displace20",
+      "snippet": "Family 10 styles (5 italic) Scripts Latin, Cyrillic Features Oldstyle/Lining Figures Designer Denis Serebryakov Release Mar 6, 2019 Displace 2.0 is a display typeface that could be associated with several different categ"
+    },
+    {
+      "date": "2006-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/displace20",
+      "snippet": "splacement from the structural axis. The typeface includes ten styles: five weights, each with both roman and italic. © 2006– 2026 Instagram BELARUS, 220021, MINSK, NEZAVISIMOSTI AVE., 95A, OFFICE 37, REG. BY THE MINSK C"
+    },
+    {
+      "date": "2014-02-11",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/displace20",
+      "snippet": "026 Instagram BELARUS, 220021, MINSK, NEZAVISIMOSTI AVE., 95A, OFFICE 37, REG. BY THE MINSK CITY EXECUTIVE COMMITTEE ON FEB 11, 2014. TAX ID 290447975, IE DENIS RODIONOVICH SEREBRYAKOV"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/displace20",
+      "snippet": "ment from the structural axis. The typeface includes ten styles: five weights, each with both roman and italic. © 2006– 2026 Instagram BELARUS, 220021, MINSK, NEZAVISIMOSTI AVE., 95A, OFFICE 37, REG. BY THE MINSK CITY EX"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://serebryakov.com/fonts/displace20",
+      "snippet": "2026-03-05"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://serebryakov.com/fonts/displace20",
+    "last_modified": null
+  }
+}

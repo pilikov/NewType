@@ -1,0 +1,27 @@
+{
+  "record_id": "geotunda",
+  "source_url": "https://typeji.com/typefaces/geotunda",
+  "checked_at": "2026-03-09T01:51:54.751019+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typeji.com/typefaces/geotunda",
+      "snippet": "acy Policy Links TienMin Liao FutureFonts Specimen Book Kanji/Hanzi Contact Instagram Threads LinkedIn abc@typeji.com © 2026 Typeji. All rights reserved. © 2026 Typeji. All rights reserved."
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typeji.com/typefaces/geotunda",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typeji.com/typefaces/geotunda",
+    "last_modified": null
+  }
+}

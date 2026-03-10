@@ -1,0 +1,27 @@
+{
+  "record_id": "nine-elms",
+  "source_url": "https://www.daltonmaag.com/library/nine-elms",
+  "checked_at": "2026-03-09T01:50:04.341280+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/nine-elms.html",
+      "snippet": " Its Roman and Italic variable fonts both feature Optical Size and extensive Weight axes. Designed and developed\n2024â2025 Designers Eduardo RennÃ³, Franziska Hubmann, Natalia Qadreh Writing Systems Cyrillic, Greek, La"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.daltonmaag.com/library/nine-elms",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.daltonmaag.com/font-library/nine-elms.html",
+    "last_modified": null
+  }
+}

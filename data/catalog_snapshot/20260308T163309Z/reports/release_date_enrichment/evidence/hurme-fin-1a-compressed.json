@@ -1,0 +1,55 @@
+{
+  "record_id": "hurme-fin-1a-compressed",
+  "source_url": "https://hurmedesign.com/typefaces/hurme-fin-1a-compressed",
+  "checked_at": "2026-03-09T02:03:53.374323+00:00",
+  "candidates": [
+    {
+      "date": "2018-03-12",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://hurmedesign.com/homepage/catalog/hurme-fin-1a-compressed/",
+      "snippet": "2018-03-12T19:34:39+00:00"
+    },
+    {
+      "date": "2023-02-01",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://hurmedesign.com/homepage/catalog/hurme-fin-1a-compressed/",
+      "snippet": "2023-02-01T07:57:29+00:00"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://hurmedesign.com/homepage/catalog/hurme-fin-1a-compressed/",
+      "snippet": " files within minutes. If you have any questions or need technical support, please contact us . Purchase Hurme Design © 2018-2021 Privacy policy Login Email Address * Password * Remember me Lost your password? Reset Pass"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://hurmedesign.com/homepage/catalog/hurme-fin-1a-compressed/",
+      "snippet": "s within minutes. If you have any questions or need technical support, please contact us . Purchase Hurme Design © 2018-2021 Privacy policy Login Email Address * Password * Remember me Lost your password? Reset Password "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://hurmedesign.com/homepage/catalog/hurme-fin-1a-compressed/",
+      "snippet": "Mon, 09 Mar 2026 01:44:58 GMT"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://hurmedesign.com/typefaces/hurme-fin-1a-compressed",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hurmedesign.com/homepage/catalog/hurme-fin-1a-compressed/",
+    "last_modified": "Mon, 09 Mar 2026 01:44:58 GMT"
+  }
+}

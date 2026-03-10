@@ -1,0 +1,34 @@
+{
+  "record_id": "cemer",
+  "source_url": "https://www.c-a-s-t.com/typefaces/cemer",
+  "checked_at": "2026-03-09T01:42:50.583566+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/cemer/",
+      "snippet": "emer, their products and the relationship between the company and Marcello D’Andrea. The first result of his work was a 2016 exhibition he co-curated with Valerio Nicoletti in Lecce with the title Sampling Marcello D’And"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/cemer/",
+      "snippet": ", Rwa, Samburu, Sangu, Shambala, Shona, Soga, Somali, Swahili, Taita, Teso, Uzbek (Latin), Vunjo, Zulu Production years 2020 Additional info Cemer: the modernist charm of southern design Cemer is a geometric monospaced u"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.c-a-s-t.com/typefaces/cemer",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.c-a-s-t.com/typefaces/cemer/",
+    "last_modified": null
+  }
+}

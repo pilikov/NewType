@@ -1,0 +1,48 @@
+{
+  "record_id": "zeenesia-studio--neue-qophins",
+  "source_url": "https://zeenesia.com/product/neue-qophins/",
+  "checked_at": "2026-03-09T01:36:28.981977+00:00",
+  "candidates": [
+    {
+      "date": "2024-10-07",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://zeenesia.com/product/neue-qophins/",
+      "snippet": "2024-10-07T14:43:38+00:00"
+    },
+    {
+      "date": "2025-05-12",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://zeenesia.com/product/neue-qophins/",
+      "snippet": "2025-05-12T13:04:20+00:00"
+    },
+    {
+      "date": "2025-05-12",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://zeenesia.com/product/neue-qophins/",
+      "snippet": "2025-05-12T13:04:20+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://zeenesia.com/product/neue-qophins/",
+      "snippet": "quantity Add to cart Related products $ 18 Tropical Avenue $ 16 Bionca $ 16 Mango Vintage $ 17 Mighty Marine Copyright ©2025 Zeenesia Studio All Right Reserved Menu Home Shop Serif Fonts Sans Serif Fonts Script Fonts Dis"
+    },
+    {
+      "date": "2026-02-26",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://zeenesia.com/product/neue-qophins/",
+      "snippet": "2026-02-26"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://zeenesia.com/product/neue-qophins/",
+    "last_modified": null
+  }
+}

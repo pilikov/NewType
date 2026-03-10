@@ -1,0 +1,27 @@
+{
+  "record_id": "oscilus",
+  "source_url": "https://studiobuchanan.xyz/typeface/oscilus",
+  "checked_at": "2026-03-09T01:52:58.938998+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fonts.wondermake.xyz/typeface/oscilus",
+      "snippet": "Fonts by Wondermake Fonts About Contact Custom Type Help Privacy Policy Fonts Design About Contact Oscilus Wavy Display 2020 Jonny Gibson 1 weight v1.0 Basic Latin only Sometimes you need a typeface that works, no matter"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://studiobuchanan.xyz/typeface/oscilus",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fonts.wondermake.xyz/typeface/oscilus",
+    "last_modified": null
+  }
+}

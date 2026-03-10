@@ -1,0 +1,27 @@
+{
+  "record_id": "mosir",
+  "source_url": "https://capitalics.wtf/font/mosir",
+  "checked_at": "2026-03-09T01:47:54.599456+00:00",
+  "candidates": [
+    {
+      "date": "2019-02-28",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://capitalics.wtf/en/font/mosir",
+      "snippet": "ogin Register Mosir Specimen Styles About Buy this font Mosir Specimen Write something... Mosir reiciendis molestiae et 2019-02-28 05:41:17 Magazynowa 89A, 11-383 Marylka doc. Bartek Sokołowski Style Font Size Tracking s"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://capitalics.wtf/font/mosir",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://capitalics.wtf/en/font/mosir",
+    "last_modified": null
+  }
+}

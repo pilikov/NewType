@@ -1,0 +1,27 @@
+{
+  "record_id": "rauschen-a",
+  "source_url": "https://www.outofthedark.swiss/rauschen-a",
+  "checked_at": "2026-03-09T01:55:38.607921+00:00",
+  "candidates": [
+    {
+      "date": "2005-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.outofthedark.swiss/rauschen-a",
+      "snippet": " of the Dark - Rauschen A <link rel=\"stylesheet\" type=\"text/css\" href=\"fonts/font.css?022426093027\"> Bellos, Alex. June 2005. “Coke. Guns. Booty. Beats.” Blender Out of the Dark Menu Typefaces Catalogue Trials Get Rausch"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.outofthedark.swiss/rauschen-a",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.outofthedark.swiss/rauschen-a",
+    "last_modified": null
+  }
+}

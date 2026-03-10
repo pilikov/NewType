@@ -1,0 +1,41 @@
+{
+  "record_id": "tortellini",
+  "source_url": "https://djr.com/tortellini",
+  "checked_at": "2026-03-09T02:03:51.312670+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/tortellini-font-of-the-month",
+      "snippet": "ally started this typeface intending to make a wide companion for the condensed Pappardelle (Font of the Month, October 2017). But I quickly realized that taking the same concept and making it wider was not going to be n"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/tortellini-font-of-the-month",
+      "snippet": " in Cart Notes See all posts July 8, 2019 # David Jonathan Ross July’s font of the month: Tortellini Font of the Month, 2019/07 PDF Try Buy $24 What follows is an abridged version of the Font of the Month Club’s July mai"
+    },
+    {
+      "date": "2019-07-08",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/tortellini-font-of-the-month",
+      "snippet": "wog Rhody Rustique Slight Chance Tortellini Zenith DJR Club Typeset Glyphs Notes About Sign in Cart Notes See all posts July 8, 2019 # David Jonathan Ross July’s font of the month: Tortellini Font of the Month, 2019/07 P"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://djr.com/tortellini",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://djr.com/notes/tortellini-font-of-the-month",
+    "last_modified": null
+  }
+}

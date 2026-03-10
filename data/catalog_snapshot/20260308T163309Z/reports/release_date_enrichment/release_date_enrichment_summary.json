@@ -1,0 +1,22 @@
+{
+  "input_rows": 12198,
+  "processed_new_rows": 12078,
+  "total_rows_enriched": 12198,
+  "with_candidates": 12198,
+  "release_date_changed": 8487,
+  "confidence_counts": {
+    "high": 1322,
+    "medium": 3661,
+    "low": 7215
+  },
+  "started_at": "2026-03-09T01:35:56.298910+00:00",
+  "finished_at": "2026-03-09T02:04:26.683925+00:00",
+  "duration_seconds": 1710.385,
+  "files": {
+    "json": "data/catalog_snapshot/20260308T163309Z/reports/release_date_enrichment/service_valid_last_10_weeks_enriched.json",
+    "csv": "data/catalog_snapshot/20260308T163309Z/reports/release_date_enrichment/service_valid_last_10_weeks_enriched.csv",
+    "summary": "data/catalog_snapshot/20260308T163309Z/reports/release_date_enrichment/release_date_enrichment_summary.json",
+    "checkpoint": "state/catalog_snapshot/release_date_enrichment_checkpoint.json",
+    "evidence_dir": "data/catalog_snapshot/20260308T163309Z/reports/release_date_enrichment/evidence"
+  }
+}

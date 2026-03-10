@@ -1,0 +1,19 @@
+{
+  "record_id": "avaline",
+  "source_url": "https://kimmydesign.com/typeface/avaline",
+  "checked_at": "2026-03-09T02:01:46.025703+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-10",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://kimmydesign.com/typeface/avaline",
+      "snippet": "2026-02-10"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "403 Client Error: Forbidden for url: https://kimmydesign.com/typeface/avaline"
+  }
+}

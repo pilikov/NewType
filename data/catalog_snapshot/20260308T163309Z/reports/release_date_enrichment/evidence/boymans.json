@@ -1,0 +1,55 @@
+{
+  "record_id": "boymans",
+  "source_url": "https://radimpesko.com/fonts/boymans",
+  "checked_at": "2026-03-09T01:57:23.495095+00:00",
+  "candidates": [
+    {
+      "date": "2001-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://radimpesko.com/fonts/boymans",
+      "snippet": "Boymans is not available for licensing. Boymans is displayed on headlines from El Universal . I Hate It When It Rains © 2001–2026 RP Digital Type Foundry , Lÿno © 2009–2026 KN & RP. All rights reserved, including the rig"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://radimpesko.com/fonts/boymans",
+      "snippet": "ns is not available for licensing. Boymans is displayed on headlines from El Universal . I Hate It When It Rains © 2001–2026 RP Digital Type Foundry , Lÿno © 2009–2026 KN & RP. All rights reserved, including the right of"
+    },
+    {
+      "date": "2003-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://radimpesko.com/fonts/boymans",
+      "snippet": "ck A B C A B C A B C A B C A B C A B C A B C D UPPERCASE lowercase Waterfall A a W … Boymans was originally designed in 2003 as part of the identity developed by Mevis & Van Deursen for Museum Boijmans van Beuningen in R"
+    },
+    {
+      "date": "2009-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://radimpesko.com/fonts/boymans",
+      "snippet": "mans is displayed on headlines from El Universal . I Hate It When It Rains © 2001–2026 RP Digital Type Foundry , Lÿno © 2009–2026 KN & RP. All rights reserved, including the right of reproduction in whole or in part in a"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://radimpesko.com/fonts/boymans",
+      "snippet": "form. All typefaces designed by RP between 2001 and 2026. Lÿno designed by Karl Nawrot and Radim Peško between 2009 and 2012. Please do not distribute fonts illegally. Terms of Service"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://radimpesko.com/fonts/boymans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://radimpesko.com/fonts/boymans",
+    "last_modified": null
+  }
+}

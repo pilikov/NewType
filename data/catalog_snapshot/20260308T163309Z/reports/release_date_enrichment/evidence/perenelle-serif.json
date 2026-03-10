@@ -1,0 +1,27 @@
+{
+  "record_id": "perenelle-serif",
+  "source_url": "https://www.daltonmaag.com/library/perenelle-serif",
+  "checked_at": "2026-03-09T01:48:51.812543+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/perenelle-serif.html",
+      "snippet": "and expressive cursive Italics, make it ideal for refined editorial work and impactful branding. Designed and developed\n2024 Designers Robert Pratley Writing Systems Latin Supporting over 790\nLanguages Aari (Latin Script"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.daltonmaag.com/library/perenelle-serif",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.daltonmaag.com/font-library/perenelle-serif.html",
+    "last_modified": null
+  }
+}

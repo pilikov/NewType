@@ -1,0 +1,41 @@
+{
+  "record_id": "klostro",
+  "source_url": "https://www.riptype.xyz/product/klostro",
+  "checked_at": "2026-03-09T01:47:36.110039+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.riptype.xyz/product/klostro",
+      "snippet": "r Ciarán Brandin Release Date January 2022 Typeface Klostro is a contemporary blackletter designed by Ciarán Brandin in 2020. He crafted the character set based on the concept of fitting the most amount of letters in the"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.riptype.xyz/product/klostro",
+      "snippet": "o@riptype.xyz or follow our instagram @riptype.xyz Klostro No items found. Designer Ciarán Brandin Release Date January 2022 Typeface Klostro is a contemporary blackletter designed by Ciarán Brandin in 2020. He crafted t"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.riptype.xyz/product/klostro",
+      "snippet": "Wed, 04 Mar 2026 17:48:16 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.riptype.xyz/product/klostro",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.riptype.xyz/product/klostro",
+    "last_modified": "Wed, 04 Mar 2026 17:48:16 GMT"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "record_id": "tt-globs",
+  "source_url": "https://typetype.org/typefaces/tt-globs",
+  "checked_at": "2026-03-09T02:03:32.539049+00:00",
+  "candidates": [
+    {
+      "date": "2021-06-08",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typetype.org/fonts/tt-globs/",
+      "snippet": "2021-06-08T09:04:33+00:00"
+    },
+    {
+      "date": "2021-06-08",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://typetype.org/fonts/tt-globs/",
+      "snippet": "2021-06-08T09:04:33+00:00"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-globs/",
+      "snippet": "atives Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! Font Update: What’s New in the Latest Version Version"
+    },
+    {
+      "date": "2021-06-05",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-globs/",
+      "snippet": "h alternates; 230+ languages support. TT Globs is a bold choice for designer projects! Release and update date Release: June 5, 2021 Last update: April 2, 2024 What's changed in the font: Expanded character set (1051 gly"
+    },
+    {
+      "date": "2024-04-02",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-globs/",
+      "snippet": "roportions and friendly personality. It is perfect for projects requiring warmth and distinctive character. Update from April 2, 2024 — What’s New? Single style: from $ 43.99 Full family: from $ 109 4 styles Buy font Tes"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typetype.org/fonts/tt-globs/",
+      "snippet": "s Contact Sitemap Follow us tw in be me yt pi Cookies User agreement Privacy policy Buying rules ©\n                2013—2026                TypeType® Contact us! Font Update: What’s New in the Latest Version Version from"
+    },
+    {
+      "date": "2025-10-31",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typetype.org/fonts/tt-globs/",
+      "snippet": "2025-10-31T21:00:05+00:00"
+    },
+    {
+      "date": "2025-10-31",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://typetype.org/fonts/tt-globs/",
+      "snippet": "2025-10-31T21:00:05+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://typetype.org/fonts/tt-globs/",
+      "snippet": "Sat, 07 Mar 2026 01:20:01 GMT"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typetype.org/typefaces/tt-globs",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typetype.org/fonts/tt-globs/",
+    "last_modified": "Sat, 07 Mar 2026 01:20:01 GMT"
+  }
+}

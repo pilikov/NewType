@@ -1,0 +1,19 @@
+{
+  "record_id": "u8",
+  "source_url": "https://fatype.com/typefaces/u8",
+  "checked_at": "2026-03-09T02:04:11.401780+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fatype.com/typefaces/u8",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='fatype.com', port=443): Max retries exceeded with url: /typefaces/u8 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))"
+  }
+}

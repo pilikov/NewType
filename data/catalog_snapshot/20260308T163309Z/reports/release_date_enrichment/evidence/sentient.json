@@ -1,0 +1,34 @@
+{
+  "record_id": "sentient",
+  "source_url": "https://muirmcneil.com/typefaces/sentient",
+  "checked_at": "2026-03-09T01:41:26.108664+00:00",
+  "candidates": [
+    {
+      "date": "2001-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://muirmcneil.com/project/sentient/",
+      "snippet": "in collaboration with Tim Hutchinson . Hutchinson originally designed Sentient in 2017 as a single alphabet for ‘Beyond 2001: New Horizons’, a celebration of the 10th anniversary of the Stanley Kubrick archive at the Lon"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://muirmcneil.com/project/sentient/",
+      "snippet": " four weights developed by MuirMcNeil in collaboration with Tim Hutchinson . Hutchinson originally designed Sentient in 2017 as a single alphabet for ‘Beyond 2001: New Horizons’, a celebration of the 10th anniversary of "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://muirmcneil.com/typefaces/sentient",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://muirmcneil.com/project/sentient/",
+    "last_modified": null
+  }
+}

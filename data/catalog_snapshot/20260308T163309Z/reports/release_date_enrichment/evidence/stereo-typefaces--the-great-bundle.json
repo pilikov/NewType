@@ -1,0 +1,27 @@
+{
+  "record_id": "stereo-typefaces--the-great-bundle",
+  "source_url": "https://www.stereo-type.fr/fonts/the-great-bundle/",
+  "checked_at": "2026-03-08T16:58:35.503606+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.stereo-type.fr/fonts/the-great-bundle/",
+      "snippet": "ption Broadcast License Extended License Standard License Unlimited License Webfont License The Great Bundle • December 2020 update with 36 fonts Added : Badass Moon, Madame, Snowballs, Halloweek, Yellowstone and Holly &"
+    },
+    {
+      "date": "2026-03-07",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.stereo-type.fr/fonts/the-great-bundle/",
+      "snippet": "2026-03-07"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.stereo-type.fr/fonts/the-great-bundle/",
+    "last_modified": null
+  }
+}

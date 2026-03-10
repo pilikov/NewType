@@ -1,0 +1,55 @@
+{
+  "record_id": "apk-galeria",
+  "source_url": "https://apk-type.com/typefaces/apk-galeria",
+  "checked_at": "2026-03-09T01:40:00.695362+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-13",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://apk-type.com/family/apk-galeria/",
+      "snippet": "2023-01-13T17:01:51+00:00"
+    },
+    {
+      "date": "2026-01-19",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://apk-type.com/family/apk-galeria/",
+      "snippet": "2026-01-19T15:55:50+00:00"
+    },
+    {
+      "date": "2026-01-19",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://apk-type.com/family/apk-galeria/",
+      "snippet": "2026-01-19T15:55:50+00:00"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://apk-type.com/family/apk-galeria/",
+      "snippet": "inally designed as a custom font (Regular) as part of a visual identity for a modern art gallery in the Netherlands. In 2022 it has been revisited, reworked and refined. In 2023, together with Swiss-based font developer "
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://apk-type.com/family/apk-galeria/",
+      "snippet": " a visual identity for a modern art gallery in the Netherlands. In 2022 it has been revisited, reworked and refined. In 2023, together with Swiss-based font developer Maël Bächtold, the Regular was expanded into a comple"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://apk-type.com/typefaces/apk-galeria",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://apk-type.com/family/apk-galeria/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "dap",
+  "source_url": "https://www.suvatypefoundry.ee/dap/",
+  "checked_at": "2026-03-09T01:36:57.455991+00:00",
+  "candidates": [
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/dap/",
+      "snippet": "FOUNDRY PREVIOUS FONT DAP NEXT FONT W A L B D DOWNLOAD G P U V N I Y X O Q C Z K F R T E H J M S DAP by Moonika Maidre (2014) This typeface was created in Dinamo workshop. Supervised by Dinamo (Johannes Breyer, Fabian Ha"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/dap/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/dap/",
+    "last_modified": null
+  }
+}

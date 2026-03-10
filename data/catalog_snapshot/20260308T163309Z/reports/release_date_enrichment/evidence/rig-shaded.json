@@ -1,0 +1,27 @@
+{
+  "record_id": "rig-shaded",
+  "source_url": "https://jamieclarketype.com/fonts/rig-shaded",
+  "checked_at": "2026-03-09T01:53:54.854232+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://jamieclarketype.com/fonts/rig-shaded/",
+      "snippet": "cribed as ‘a masterpiece of 3D typography’, Rig Shaded is your go-to for dynamic, standout design. Styles: 20 Released: 2017 Formats: OTF, WOFF, WOFF2, VAR (as available) Languages: Over 250 languages, including: Afrikaa"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://jamieclarketype.com/fonts/rig-shaded",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://jamieclarketype.com/fonts/rig-shaded/",
+    "last_modified": null
+  }
+}

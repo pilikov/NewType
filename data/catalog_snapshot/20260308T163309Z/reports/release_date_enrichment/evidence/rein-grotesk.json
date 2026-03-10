@@ -1,0 +1,27 @@
+{
+  "record_id": "rein-grotesk",
+  "source_url": "https://www.suvatypefoundry.ee/rein-grotesk/",
+  "checked_at": "2026-03-09T01:52:36.337817+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/rein-grotesk/",
+      "snippet": "T REIN GROTESK NEXT FONT M I G H J Z D R X Y K T O U L V Q S E F P C B W DOWNLOAD N A REIN GROTESK by Georg Ander Sild (2022) Rein Grotesk is a typeface that is inspired by my grandfather. The letters are built quite fli"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/rein-grotesk/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/rein-grotesk/",
+    "last_modified": null
+  }
+}

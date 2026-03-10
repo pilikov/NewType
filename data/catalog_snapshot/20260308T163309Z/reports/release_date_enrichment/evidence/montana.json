@@ -1,0 +1,19 @@
+{
+  "record_id": "montana",
+  "source_url": "https://optimo.ch/typefaces/montana",
+  "checked_at": "2026-03-09T01:53:33.127489+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://optimo.ch/typefaces/montana",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": 500,
+    "error": "HTTP 500"
+  }
+}

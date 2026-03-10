@@ -1,0 +1,41 @@
+{
+  "record_id": "central-script",
+  "source_url": "https://www.centraltype.com/central-script",
+  "checked_at": "2026-03-09T01:52:22.427391+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.centraltype.com/central-script",
+      "snippet": "haracters for thorough language support. ‍ YEAR: 2025 DESIGNER: Mark Butchko Styles: 6 version: 1.0 SAMPLES Copyright © 2023 Central Type. All rights reserved. Licensing Information"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.centraltype.com/central-script",
+      "snippet": " Central Script is packed with a robust set of diacritics and special characters for thorough language support. ‍ YEAR: 2025 DESIGNER: Mark Butchko Styles: 6 version: 1.0 SAMPLES Copyright © 2023 Central Type. All rights"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.centraltype.com/central-script",
+      "snippet": "Wed, 25 Feb 2026 07:14:18 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.centraltype.com/central-script",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.centraltype.com/central-script",
+    "last_modified": "Wed, 25 Feb 2026 07:14:18 GMT"
+  }
+}

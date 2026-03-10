@@ -1,0 +1,34 @@
+{
+  "record_id": "recognition",
+  "source_url": "https://a2-type.co.uk/recognition",
+  "checked_at": "2026-03-09T01:40:43.713913+00:00",
+  "candidates": [
+    {
+      "date": "2003-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/recognition",
+      "snippet": "Stencil Poster Handwriting Modular A—Z index Custom fonts About Contact Search 0 Recognition Buy Originally designed in 2003 as a stand-alone sans font, in a single weight, for the catalogue to accompany the exhibition ‘"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/recognition",
+      "snippet": " Sorbian, Vunjo, Walloon, Welsh, Western Frisian, Wolof, Xhosa, Zulu Manufacturer: A2-TYPE Designer: Henrik Kubel Year: 2012 Copyright: © A2-TYPE Trademark: Recognition is a trademark of A2-TYPE Licence: Terms and condit"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://a2-type.co.uk/recognition",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://a2-type.co.uk/recognition",
+    "last_modified": null
+  }
+}

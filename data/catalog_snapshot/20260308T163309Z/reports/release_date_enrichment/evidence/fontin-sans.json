@@ -1,0 +1,48 @@
+{
+  "record_id": "fontin-sans",
+  "source_url": "https://www.exljbris.com/fontinsans.html",
+  "checked_at": "2026-03-09T01:55:07.713812+00:00",
+  "candidates": [
+    {
+      "date": "2008-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.exljbris.com/fontinsans.html",
+      "snippet": " download link, only to this page. By downloading this font, you agree to the font license agreement for free fonts. Â© 2008-2021, exljbris Font Foundry | EULA | Extended licensing | contact"
+    },
+    {
+      "date": "2009-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.exljbris.com/fontinsans.html",
+      "snippet": "ree thanks to the kind Jovanny Lemonad who received a diploma for excellence in the type design contest Modern Cyrillic 2009 . Free download Fontin Sans (OpenType) Download . Please do not refer to this download link, on"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.exljbris.com/fontinsans.html",
+      "snippet": "load link, only to this page. By downloading this font, you agree to the font license agreement for free fonts. Â© 2008-2021, exljbris Font Foundry | EULA | Extended licensing | contact"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.exljbris.com/fontinsans.html",
+      "snippet": "Mon, 28 Jun 2021 12:47:41 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.exljbris.com/fontinsans.html",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.exljbris.com/fontinsans.html",
+    "last_modified": "Mon, 28 Jun 2021 12:47:41 GMT"
+  }
+}

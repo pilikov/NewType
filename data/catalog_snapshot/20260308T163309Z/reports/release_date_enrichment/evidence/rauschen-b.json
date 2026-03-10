@@ -1,0 +1,27 @@
+{
+  "record_id": "rauschen-b",
+  "source_url": "https://www.outofthedark.swiss/rauschen-b",
+  "checked_at": "2026-03-09T01:59:47.908057+00:00",
+  "candidates": [
+    {
+      "date": "2011-09-14",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.outofthedark.swiss/rauschen-b",
+      "snippet": "Out of the Dark - Rauschen B <link rel=\"stylesheet\" type=\"text/css\" href=\"fonts/font.css?022426093027\"> Chadabe, Joel (14 September 2011). “The Electronic Century Part I: Beginnings”. Electronic Musician. Archived from t"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.outofthedark.swiss/rauschen-b",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.outofthedark.swiss/rauschen-b",
+    "last_modified": null
+  }
+}

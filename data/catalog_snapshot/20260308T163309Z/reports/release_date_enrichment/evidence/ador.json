@@ -1,0 +1,62 @@
+{
+  "record_id": "ador",
+  "source_url": "https://fontador.de/typefaces/ador",
+  "checked_at": "2026-03-09T01:37:56.672829+00:00",
+  "candidates": [
+    {
+      "date": "2024-08-21",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.fontador.de/fonts-shop/ador/",
+      "snippet": "2024-08-21T15:55:23+02:00"
+    },
+    {
+      "date": "2024-08-21",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://www.fontador.de/fonts-shop/ador/",
+      "snippet": "2024-08-21T15:55:23+02:00"
+    },
+    {
+      "date": "2025-11-25",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.fontador.de/fonts-shop/ador/",
+      "snippet": "2025-11-25T09:42:21+01:00"
+    },
+    {
+      "date": "2025-11-25",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.fontador.de/fonts-shop/ador/",
+      "snippet": "2025-11-25T09:42:21+01:00"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.fontador.de/fonts-shop/ador/",
+      "snippet": ". Save 40% in our shop → Shop Ador: → Type specimen (PDF) → Download Free Font Kontakt Datenschutz/Impressum © Fontador 2024 EULA Terms & Conditions Privacy Policy Follow Follow"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.fontador.de/fonts-shop/ador/",
+      "snippet": "Mon, 09 Mar 2026 02:38:01 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fontador.de/typefaces/ador",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.fontador.de/fonts-shop/ador/",
+    "last_modified": "Mon, 09 Mar 2026 02:38:01 GMT"
+  }
+}

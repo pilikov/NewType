@@ -1,0 +1,41 @@
+{
+  "record_id": "grotzec",
+  "source_url": "https://felicianotype.com/typefaces/grotzec",
+  "checked_at": "2026-03-09T01:48:20.504152+00:00",
+  "candidates": [
+    {
+      "date": "2004-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://felicianotype.com/typefaces/grotzec/",
+      "snippet": "otzec Poster designed for really big sizes with four widths also in the black weight. Trial fonts Specimens Grotzec pdf 2004 23 styles Grotzec  Collection           — 23 styles, €500,00 BUY Grotzec  Condensed Family     "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://felicianotype.com/typefaces/grotzec/",
+      "snippet": "ons Punctuation / Symbols Italic Uppercase / Lowercase Accented Characters Numerals / Fractions Punctuation / Symbols © 2026 Feliciano Type. All rights reserved. Acceptera Cockpit Correct Crisol Eudald Flama Garda Grosa "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://felicianotype.com/typefaces/grotzec/",
+      "snippet": "Mon, 09 Mar 2026 01:48:21 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://felicianotype.com/typefaces/grotzec",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://felicianotype.com/typefaces/grotzec/",
+    "last_modified": "Mon, 09 Mar 2026 01:48:21 GMT"
+  }
+}

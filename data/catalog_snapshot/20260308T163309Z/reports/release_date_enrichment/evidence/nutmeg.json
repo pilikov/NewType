@@ -1,0 +1,48 @@
+{
+  "record_id": "nutmeg",
+  "source_url": "https://wtypefoundry.com/typefaces/nutmeg",
+  "checked_at": "2026-03-09T01:51:41.198875+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://wtypefoundry.com/typefaces/nutmeg",
+      "snippet": "by\n                                                            Salvador Rodriguez 36 styles / 2 subfamilies Released on 2017 Nutmeg Thin Thin Italic Ultralight Ultralight Italic Light Light Italic Book Book Italic Regula"
+    },
+    {
+      "date": "2024-01-16",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://wtypefoundry.com/typefaces/nutmeg",
+      "snippet": "2024-01-16"
+    },
+    {
+      "date": "1999-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://wtypefoundry.com/typefaces/nutmeg",
+      "snippet": "and 138 the answer is 56... No? Let me tell you what I believe.... The war that devastated the Real World.... OPEN RAVE 1999 - [Parque O’Higgins]... Sin mi Olguita Marina, nada tiene senti... La legal, yo no soy na' cual"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://wtypefoundry.com/typefaces/nutmeg",
+      "snippet": "/ Software License eBook / ePub Corporate Server Instagram Subscribe hola@wtypefoundry.com BACK TO TOP © W Type Foundry 2026"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://wtypefoundry.com/typefaces/nutmeg",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://wtypefoundry.com/typefaces/nutmeg",
+    "last_modified": null
+  }
+}

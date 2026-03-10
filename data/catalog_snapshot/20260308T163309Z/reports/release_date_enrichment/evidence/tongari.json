@@ -1,0 +1,20 @@
+{
+  "record_id": "tongari",
+  "source_url": "https://aisforfonts.com/typefaces/tongari",
+  "checked_at": "2026-03-09T02:03:59.277655+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://aisforfonts.com/typefaces/tongari",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://aisforfonts.com/tongari/",
+    "last_modified": null
+  }
+}

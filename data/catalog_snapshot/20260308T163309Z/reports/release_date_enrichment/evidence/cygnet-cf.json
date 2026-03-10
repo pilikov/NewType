@@ -1,0 +1,19 @@
+{
+  "record_id": "cygnet-cf",
+  "source_url": "https://connary.com/typefaces/cygnet-cf",
+  "checked_at": "2026-03-09T01:38:04.868890+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://connary.com/typefaces/cygnet-cf",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "404 Client Error: Not Found for url: https://connary.com/typefaces/cygnet-cf"
+  }
+}

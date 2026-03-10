@@ -1,0 +1,20 @@
+{
+  "record_id": "large",
+  "source_url": "https://alex-creq.com/typefaces/large",
+  "checked_at": "2026-03-09T01:52:05.621139+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://alex-creq.com/typefaces/large",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://alex-creq.com/typefaces/large",
+    "last_modified": null
+  }
+}

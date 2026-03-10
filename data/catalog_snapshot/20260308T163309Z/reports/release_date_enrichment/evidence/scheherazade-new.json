@@ -1,0 +1,97 @@
+{
+  "record_id": "scheherazade-new",
+  "source_url": "https://software.sil.org/scheherazade",
+  "checked_at": "2026-03-09T01:53:21.743600+00:00",
+  "candidates": [
+    {
+      "date": "2014-10-02",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://software.sil.org/scheherazade/",
+      "snippet": "2014-10-02T09:52:47+00:00"
+    },
+    {
+      "date": "2014-10-02",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://software.sil.org/scheherazade/",
+      "snippet": "2014-10-02T09:52:47+00:00"
+    },
+    {
+      "date": "2021-07-15",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/scheherazade/",
+      "snippet": "0 11 August 2025 Release 4.300 21 October 2024 Release 4.000 14 April 2023 Release 3.300 22 November 2021 Release 3.200 15 July 2021 This font software is free to use, modify and redistribute according to the terms of th"
+    },
+    {
+      "date": "2021-11-22",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/scheherazade/",
+      "snippet": "s Scheherazade New Release 4.400 11 August 2025 Release 4.300 21 October 2024 Release 4.000 14 April 2023 Release 3.300 22 November 2021 Release 3.200 15 July 2021 This font software is free to use, modify and redistribu"
+    },
+    {
+      "date": "2023-04-14",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/scheherazade/",
+      "snippet": "e New - FAQ list. Recent news Scheherazade New Release 4.400 11 August 2025 Release 4.300 21 October 2024 Release 4.000 14 April 2023 Release 3.300 22 November 2021 Release 3.200 15 July 2021 This font software is free t"
+    },
+    {
+      "date": "2024-10-21",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/scheherazade/",
+      "snippet": "ally. See complete Scheherazade New - FAQ list. Recent news Scheherazade New Release 4.400 11 August 2025 Release 4.300 21 October 2024 Release 4.000 14 April 2023 Release 3.300 22 November 2021 Release 3.200 15 July 202"
+    },
+    {
+      "date": "2025-08-11",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/scheherazade/",
+      "snippet": "e of the heavier weights manually. See complete Scheherazade New - FAQ list. Recent news Scheherazade New Release 4.400 11 August 2025 Release 4.300 21 October 2024 Release 4.000 14 April 2023 Release 3.300 22 November 2"
+    },
+    {
+      "date": "2024-10-21",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://software.sil.org/scheherazade/",
+      "snippet": "2024-10-21T14:45:53+00:00"
+    },
+    {
+      "date": "2024-10-21",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://software.sil.org/scheherazade/",
+      "snippet": "2024-10-21T14:45:53+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/scheherazade/",
+      "snippet": "Font License Writing Systems Technology Technical Resources Contact & Support Contact Support Community FAQ Copyright © 2026 SIL Global Terms of Use Privacy Policy"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://software.sil.org/scheherazade/",
+      "snippet": "Mon, 09 Mar 2026 01:16:48 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://software.sil.org/scheherazade",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://software.sil.org/scheherazade/",
+    "last_modified": "Mon, 09 Mar 2026 01:16:48 GMT"
+  }
+}

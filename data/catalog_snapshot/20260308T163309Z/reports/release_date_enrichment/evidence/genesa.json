@@ -1,0 +1,41 @@
+{
+  "record_id": "genesa",
+  "source_url": "https://typogama.com/fonts/genesa",
+  "checked_at": "2026-03-09T01:59:30.372122+00:00",
+  "candidates": [
+    {
+      "date": "2014-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typogama.com/fonts/genesa",
+      "snippet": "OGAMA c/o Parson Research\n6 Rue de Fribourg\n1201 Geneva, Switzerland info@typogama.com +41 (0)79 476 22 75 CONTACT US © 2014 - 2026 by Typogama/Parson Research Geneva, Switzerland. All rights reserved TYPOGAMA Subscribe "
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typogama.com/fonts/genesa",
+      "snippet": "egular, Italic, Bold, Bold Italic, Black, Black Italic FORMATS OTF, WOFF2 Designed by Michael Parson , released in June 2018 LANGUAGE SUPPORT ISO Latin-1 Afrikaans , Albanian , Breton , Catalan , Danish , English , Faroe"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typogama.com/fonts/genesa",
+      "snippet": "/o Parson Research\n6 Rue de Fribourg\n1201 Geneva, Switzerland info@typogama.com +41 (0)79 476 22 75 CONTACT US © 2014 - 2026 by Typogama/Parson Research Geneva, Switzerland. All rights reserved TYPOGAMA Subscribe to our "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typogama.com/fonts/genesa",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typogama.com/fonts/genesa",
+    "last_modified": null
+  }
+}

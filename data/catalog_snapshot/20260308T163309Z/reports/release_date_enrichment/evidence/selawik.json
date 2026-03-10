@@ -1,0 +1,34 @@
+{
+  "record_id": "selawik",
+  "source_url": "https://www.sajatypeworks.com/typefaces/selawik",
+  "checked_at": "2026-03-09T01:56:42.115949+00:00",
+  "candidates": [
+    {
+      "date": "2011-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.sajatypeworks.com/typefaces/selawik",
+      "snippet": "ron Bell and based in Seattle, Washington Aaron Bell received a MA in Typeface Design from the University of Reading in 2011. He has since worked on the Microsoft Typography Team for 5.5 years, learning the ins and outs "
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.sajatypeworks.com/typefaces/selawik",
+      "snippet": " a valid email It looks like Javascript is turned off. Thanks! We will contact you soon. Typeset in Selawik Copyright © 2017 âÂ Aaron Bell"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.sajatypeworks.com/typefaces/selawik",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.sajatypeworks.com/typefaces/selawik",
+    "last_modified": null
+  }
+}

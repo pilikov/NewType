@@ -1,0 +1,55 @@
+{
+  "record_id": "tonka",
+  "source_url": "https://celine-hurka.com/typefaces/tonka",
+  "checked_at": "2026-03-09T01:59:07.110581+00:00",
+  "candidates": [
+    {
+      "date": "2023-02-14",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://celine-hurka.com/tonka/",
+      "snippet": "2023-02-14T13:12:21+00:00"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://celine-hurka.com/tonka/",
+      "snippet": "ve character set. Furthermore, we are in the process of implementing the slant-axis, which we expect to release by late 2023. Tonka is inspired by the memories of that summer. At the beach, in the midst of another lockdo"
+    },
+    {
+      "date": "2023-02-14",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://celine-hurka.com/tonka/",
+      "snippet": "2023-02-14T13:12:21+00:00"
+    },
+    {
+      "date": "2025-05-18",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://celine-hurka.com/tonka/",
+      "snippet": "2025-05-18T02:10:23+00:00"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://celine-hurka.com/tonka/",
+      "snippet": "with the wish to digitally digitize and replicate that effect without the design becoming sloppy or cheesy. One day, in 2019, I opened a book from my collection and found the soft geometric typeface that seemingly encaps"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://celine-hurka.com/typefaces/tonka",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://celine-hurka.com/tonka/",
+    "last_modified": null
+  }
+}

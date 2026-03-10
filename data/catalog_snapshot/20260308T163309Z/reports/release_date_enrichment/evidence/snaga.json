@@ -1,0 +1,27 @@
+{
+  "record_id": "snaga",
+  "source_url": "https://www.lettersoup.de/typefaces/snaga",
+  "checked_at": "2026-03-09T01:58:45.084911+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.lettersoup.de/product-category/snaga/",
+      "snippet": "omali, Spanish, Swahili, Swedish, Swiss German, Taita, Teso, Turkish, Ukrainian, Vunjo, Walser, Welsh, Zulu. × Glyphs © 2026 by Lettersoup Type Foundry and respective designers Imprint , Privacy Policy"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.lettersoup.de/typefaces/snaga",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.lettersoup.de/product-category/snaga/",
+    "last_modified": null
+  }
+}

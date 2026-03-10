@@ -1,0 +1,27 @@
+{
+  "record_id": "mokka",
+  "source_url": "https://www.ludwigtype.de/fonts/mokka/overview",
+  "checked_at": "2026-03-09T01:59:58.842690+00:00",
+  "candidates": [
+    {
+      "date": "2008-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ludwigtype.de/fonts/mokka/overview",
+      "snippet": "r languages which use the Latin alphabet. Mokka has been selected by Typographica to be among Our Favorite Typefaces of 2008 . Get a free trial version Single Font € 39.00 Entire Family (6 Fonts) € 149.00 Show prices for"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.ludwigtype.de/fonts/mokka/overview",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ludwigtype.de/fonts/mokka/overview",
+    "last_modified": null
+  }
+}

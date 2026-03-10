@@ -1,0 +1,41 @@
+{
+  "record_id": "statius",
+  "source_url": "https://felicianotype.com/typefaces/statius",
+  "checked_at": "2026-03-09T01:57:04.141514+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://felicianotype.com/typefaces/statius/",
+      "snippet": "s. Statius comes in six weights with matching italics and a large character set. Trial fonts Specimens Statius Specimen 2025 12 styles Statius  Statius family           — 12 styles, €400,00 BUY Statius Light, €50,00 BUY "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://felicianotype.com/typefaces/statius/",
+      "snippet": "lack, €50,00 BUY He was able to compose in Statius Black Italic, €50,00 BUY Statius maintained his Open Type features © 2026 Feliciano Type. All rights reserved. Acceptera Cockpit Correct Crisol Eudald Flama Garda Grosa "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://felicianotype.com/typefaces/statius/",
+      "snippet": "Mon, 09 Mar 2026 01:36:31 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://felicianotype.com/typefaces/statius",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://felicianotype.com/typefaces/statius/",
+    "last_modified": "Mon, 09 Mar 2026 01:36:31 GMT"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "record_id": "akrobat",
+  "source_url": "https://fontfabric.com/typefaces/akrobat",
+  "checked_at": "2026-03-09T01:48:00.257562+00:00",
+  "candidates": [
+    {
+      "date": "2016-07-05",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.fontfabric.com/fonts/akrobat/",
+      "snippet": "2016-07-05T12:00:19+00:00"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/akrobat/",
+      "snippet": "out About Akrobat is a modern geometric sans-serif typeface designed by Plamen Motev and released by Fontfabric in July 2016 . With its condensed structure and strong vertical rhythm, it’s tailored for bold headlines and"
+    },
+    {
+      "date": "2016-07-05",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/akrobat/",
+      "snippet": "ded Latin and Cyrillic alphabets, ligatures, stylistic alternates, case-sensitive forms, localized forms Release date - July 5, 2016 Explore: Sans Serif Fonts Credits: Plamen Motev Similar fonts Solomon 14 font styles fr"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.fontfabric.com/fonts/akrobat/",
+      "snippet": "2026-02-18T13:55:14+00:00"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.fontfabric.com/fonts/akrobat/",
+      "snippet": "2026-02-18T13:55:14+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/akrobat/",
+      "snippet": "pt fonts Font sale Free fonts Fonts in use Font collections Legal Infringements About Help Blog Partnerships Contact us 2026 © Fontfabric llc. Privacy Notice Manage Cookies"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.fontfabric.com/fonts/akrobat/",
+      "snippet": "Sun, 08 Mar 2026 22:12:46 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fontfabric.com/typefaces/akrobat",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.fontfabric.com/fonts/akrobat/",
+    "last_modified": "Sun, 08 Mar 2026 22:12:46 GMT"
+  }
+}

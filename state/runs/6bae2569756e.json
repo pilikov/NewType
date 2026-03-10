@@ -1,0 +1,26 @@
+{
+  "context": {
+    "run_id": "6bae2569756e",
+    "started_at": "2026-03-09T11:56:13.802035+00:00",
+    "source_filter": [
+      "type_today"
+    ],
+    "timeout_seconds": 30
+  },
+  "summary": {
+    "run_id": "6bae2569756e",
+    "started_at": "2026-03-09T11:56:13.802035+00:00",
+    "finished_at": "2026-03-09T12:09:07.307559Z",
+    "sources": [
+      {
+        "source_id": "type_today",
+        "status": "success",
+        "total_releases": 272,
+        "new_releases": 270,
+        "duration_seconds": 772.981,
+        "output_dir": "/Users/pda/Desktop/Type Parser/data/type_today/2026-03-09",
+        "error": null
+      }
+    ]
+  }
+}

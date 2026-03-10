@@ -1,0 +1,41 @@
+{
+  "record_id": "trilogy-egyptian",
+  "source_url": "https://typography.net/fonts/trilogy-egyptian",
+  "checked_at": "2026-03-09T02:04:10.314751+00:00",
+  "candidates": [
+    {
+      "date": "2017-02-12",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typography.net/fonts/trilogy-egyptian",
+      "snippet": "2017-02-12T20:15:00+00:00"
+    },
+    {
+      "date": "2022-08-09",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typography.net/fonts/trilogy-egyptian",
+      "snippet": "2022-08-09T15:12:20+01:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typography.net/fonts/trilogy-egyptian",
+      "snippet": "n Trilogy Specimen Font Info Footnote 11 Read the design notes at StudioType.com Cookie policy Privacy policy Sitemap © 2026 Jeremy Tankard Typography Ltd"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typography.net/fonts/trilogy-egyptian",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typography.net/fonts/trilogy-egyptian",
+    "last_modified": null
+  }
+}

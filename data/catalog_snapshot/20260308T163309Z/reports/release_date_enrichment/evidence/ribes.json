@@ -1,0 +1,55 @@
+{
+  "record_id": "ribes",
+  "source_url": "https://collletttivo.it/typefaces/ribes",
+  "checked_at": "2026-03-09T01:49:22.009101+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-18",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://www.collletttivo.it/typefaces/ribes",
+      "snippet": "2018-01-18T00:00:00.000Z"
+    },
+    {
+      "date": "2018-01-18",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.collletttivo.it/typefaces/ribes",
+      "snippet": "ns). Details Designed by Luigi Gorlero 1 Family , 3 Styles Supports Latin Licensed under SIL Open Font License Released January 18, 2018 Last updated October 6, 2023 Version 2.100 Download Donate to support our Open Sour"
+    },
+    {
+      "date": "2023-10-06",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.collletttivo.it/typefaces/ribes",
+      "snippet": " Gorlero 1 Family , 3 Styles Supports Latin Licensed under SIL Open Font License Released January 18, 2018 Last updated October 6, 2023 Version 2.100 Download Donate to support our Open Source font catalogue Collletttivo"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.collletttivo.it/typefaces/ribes",
+      "snippet": "ead and agree to the Privacy Policy submit email instagram github twitter Licensing Privacy Policy Newsletter Archive © 2026 Collletttivo Designed by Collletttivo. Developed by Luigi Gorlero ."
+    },
+    {
+      "date": "2023-10-06",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.collletttivo.it/typefaces/ribes",
+      "snippet": "2023-10-06T00:00:00.000Z"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://collletttivo.it/typefaces/ribes",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.collletttivo.it/typefaces/ribes",
+    "last_modified": null
+  }
+}

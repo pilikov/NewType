@@ -1,0 +1,41 @@
+{
+  "record_id": "bianzhidai",
+  "source_url": "https://notyourtype.nl/typefaces/bianzhidai",
+  "checked_at": "2026-03-09T02:02:06.672108+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.notyourtype.nl/typefaces/bianzhidai",
+      "snippet": " you believe that you are experiencing a bug? Please tell us everything ! Make sure to add as much detail as you can :) 2021 - 2026, notyourtypefoundry All Rights Reserved. Updating cart... Your cart Your cart is empty. "
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.notyourtype.nl/typefaces/bianzhidai",
+      "snippet": "ypefoundry notyourtypefoundry cart ( 0 ) Typefaces Discoveries Tools Licenses Info Typefaces BIANZHIDAI By Xiaoyuan Gao 2023 3 subfamilies   \n              \n            (Standard, COLR, noBG) 27 styles bianzhidai is a ty"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.notyourtype.nl/typefaces/bianzhidai",
+      "snippet": "lieve that you are experiencing a bug? Please tell us everything ! Make sure to add as much detail as you can :) 2021 - 2026, notyourtypefoundry All Rights Reserved. Updating cart... Your cart Your cart is empty. This we"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://notyourtype.nl/typefaces/bianzhidai",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.notyourtype.nl/typefaces/bianzhidai",
+    "last_modified": null
+  }
+}

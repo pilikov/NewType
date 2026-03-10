@@ -1,0 +1,69 @@
+{
+  "record_id": "foundry-context",
+  "source_url": "https://www.thefoundrytypes.com/typefaces/foundry-context",
+  "checked_at": "2026-03-09T01:59:20.284122+00:00",
+  "candidates": [
+    {
+      "date": "2020-07-29",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-context/",
+      "snippet": "2020-07-29T16:51:55+00:00"
+    },
+    {
+      "date": "2023-08-24",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-context/",
+      "snippet": "2023-08-24T11:01:20+00:00"
+    },
+    {
+      "date": "2023-08-24",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-context/",
+      "snippet": "2023-08-24T11:01:20+00:00"
+    },
+    {
+      "date": "2006-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-context/",
+      "snippet": " and proportionally spaced numerals, fractions, and more to suit a wide range of uses. Foundry Context, Grafik 145, Oct 2006, p.82. Foundry Context flyer front. Foundry Context flyer reverse text. Foundry Context Grafik "
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-context/",
+      "snippet": "ds. Foundry Context, Grafik 145, Oct 2006, p.82. In use Now or Never: The Global Forecaster UK Strategic Defence Review 2020, © Apollo Analysis Ltd. Designed by Peter Dawson at Grade Design. Now or Never: The Global Fore"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-context/",
+      "snippet": "AQs Font licensing Privacy policy Account My account Orders Downloads Website by Studio Playne © The Foundry Types 1989–2026 Back to top"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-context/",
+      "snippet": "Tue, 03 Mar 2026 14:40:21 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.thefoundrytypes.com/typefaces/foundry-context",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.thefoundrytypes.com/fonts/foundry-context/",
+    "last_modified": "Tue, 03 Mar 2026 14:40:21 GMT"
+  }
+}

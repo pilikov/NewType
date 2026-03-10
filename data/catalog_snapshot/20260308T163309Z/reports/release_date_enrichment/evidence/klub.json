@@ -1,0 +1,55 @@
+{
+  "record_id": "klub",
+  "source_url": "https://www.typeby.com/fonts/klub",
+  "checked_at": "2026-03-09T01:54:21.881255+00:00",
+  "candidates": [
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/klub",
+      "snippet": "rre Pané-Farré. Klub stems from Pierre’s graduation project at the Hochschule für Grafik und Buchkunst, Leipzig back in 2012. One of the graduation project’s elements were a range of self-made, also referred to as „proto"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/klub",
+      "snippet": "l, and impactful typography - be those apps, posters, books, or packaging design. Klub’s first public appearance was in 2014, being featured as the prime typeface of the exhibition catalogue “Vom Buch auf die Straße” at "
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/klub",
+      "snippet": "om Buch auf die Straße” at the Museum of Printing in Leipzig . Klub’s final version was publicly shown in the summer of 2015, in Fred Smeijers’ public lecture in Paris, for Type@Paris . The Klub superfamily spans across "
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/klub",
+      "snippet": "bout the same time, Pierre went on to deepen his interest in the 19th century early poster type and colour printing. In 2017 his research blossomed into “Soiree Fantastique” an award-winning publication , that brought to"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/klub",
+      "snippet": "mo Remo Stencil Rosalinde Subtil Grotesk Edward Lirico Eva Meran Stan Standing Type Couteau Greco Klub Orly Copyright © 2026 Type By. All Rights Reserved. Information About Licenses Help Terms & conditions of sale Terms "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.typeby.com/fonts/klub",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typeby.com/fonts/klub",
+    "last_modified": null
+  }
+}

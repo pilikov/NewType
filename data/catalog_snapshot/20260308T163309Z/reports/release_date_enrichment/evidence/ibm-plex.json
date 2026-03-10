@@ -1,0 +1,48 @@
+{
+  "record_id": "ibm-plex",
+  "source_url": "https://boldmonday.com/custom/ibm/",
+  "checked_at": "2026-03-09T02:00:49.930649+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/custom/ibm/",
+      "snippet": "te The IBM type family has received a Judge’s Choice Type Directors Club Certificate of Typographic Excellence in 2018. 2016–2023 Client IBM Corporation, Armonk In collaboration with Mike Abbink, New York/Austin Bold Mon"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/custom/ibm/",
+      "snippet": " website The IBM type family has received a Judge’s Choice Type Directors Club Certificate of Typographic Excellence in 2018. 2016–2023 Client IBM Corporation, Armonk In collaboration with Mike Abbink, New York/Austin Bo"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/custom/ibm/",
+      "snippet": "e IBM type family has received a Judge’s Choice Type Directors Club Certificate of Typographic Excellence in 2018. 2016–2023 Client IBM Corporation, Armonk In collaboration with Mike Abbink, New York/Austin Bold Monday t"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/custom/ibm/",
+      "snippet": "ent discounts Privacy policy Return policy Disclaimer Subscribe to News & Updates Twitter | Facebook | Mail Copyright © 2026 Bold Monday – all rights reserved Made by Unwind"
+    },
+    {
+      "date": "2026-02-24",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://boldmonday.com/custom/ibm/",
+      "snippet": "2026-02-24"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://boldmonday.com/custom/ibm/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "record_id": "foundry-monoline",
+  "source_url": "https://www.thefoundrytypes.com/typefaces/foundry-monoline",
+  "checked_at": "2026-03-09T01:42:30.143988+00:00",
+  "candidates": [
+    {
+      "date": "2020-08-13",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-monoline/",
+      "snippet": "2020-08-13T14:49:45+00:00"
+    },
+    {
+      "date": "2025-12-03",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-monoline/",
+      "snippet": "2025-12-03T07:33:35+00:00"
+    },
+    {
+      "date": "2025-12-03",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-monoline/",
+      "snippet": "2025-12-03T07:33:35+00:00"
+    },
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-monoline/",
+      "snippet": " single-thickness stroke, producing a superbly crafted and workable typeface. Foundry Monoline’s concept all started In 2000 when David lived for one year in Wiesbaden, Germany. Every day he would stroll through the town"
+    },
+    {
+      "date": "2003-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-monoline/",
+      "snippet": "ing coffee on a terrace one sunny Spring morning – Monoline was born. Foundry Monoline, Graphics International 104, Apr 2003, p.15. Foundry Monoline Ultra Light lowercase ‘a’ rough sketch. Foundry Monoline, Graphics Inte"
+    },
+    {
+      "date": "2007-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-monoline/",
+      "snippet": "Apr 2003, p.15. A selection of Foundry Monoline Bold characters artworked in pencil. Foundry Monoline, Grafik 153, July 2007, p.7. Foundry Monoline Bold lowercase ‘o’ artworked. Foundry Monoline flyer front. Foundry Mono"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-monoline/",
+      "snippet": "AQs Font licensing Privacy policy Account My account Orders Downloads Website by Studio Playne © The Foundry Types 1989–2026 Back to top"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-monoline/",
+      "snippet": "Tue, 03 Mar 2026 14:26:01 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.thefoundrytypes.com/typefaces/foundry-monoline",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.thefoundrytypes.com/fonts/foundry-monoline/",
+    "last_modified": "Tue, 03 Mar 2026 14:26:01 GMT"
+  }
+}

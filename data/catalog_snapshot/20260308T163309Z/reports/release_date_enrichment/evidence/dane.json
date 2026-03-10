@@ -1,0 +1,55 @@
+{
+  "record_id": "dane",
+  "source_url": "https://a2-type.co.uk/dane",
+  "checked_at": "2026-03-09T01:54:36.023600+00:00",
+  "candidates": [
+    {
+      "date": "2002-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/dane",
+      "snippet": "nctive lowercase double storey ‘g’ to add personality across all six weights. The first version of Dane was designed in 2002. It was expanded in 2008 and updated with more weights in 2012 and 2017. Dane Light Dane Regula"
+    },
+    {
+      "date": "2008-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/dane",
+      "snippet": "torey ‘g’ to add personality across all six weights. The first version of Dane was designed in 2002. It was expanded in 2008 and updated with more weights in 2012 and 2017. Dane Light Dane Regular Dane Medium Dane Semibo"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/dane",
+      "snippet": "l six weights. The first version of Dane was designed in 2002. It was expanded in 2008 and updated with more weights in 2012 and 2017. Dane Light Dane Regular Dane Medium Dane Semibold Dane Bold Dane Extrabold px Hello! "
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/dane",
+      "snippet": " Sorbian, Vunjo, Walloon, Welsh, Western Frisian, Wolof, Xhosa, Zulu Manufacturer: A2-TYPE Designer: Henrik Kubel Year: 2015 Copyright: © A2-TYPE Trademark: Dane is a trademark of A2-TYPE Licence: Terms and conditions Gl"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/dane",
+      "snippet": "ghts. The first version of Dane was designed in 2002. It was expanded in 2008 and updated with more weights in 2012 and 2017. Dane Light Dane Regular Dane Medium Dane Semibold Dane Bold Dane Extrabold px Hello! — Please "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://a2-type.co.uk/dane",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://a2-type.co.uk/dane",
+    "last_modified": null
+  }
+}

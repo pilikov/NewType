@@ -1,0 +1,19 @@
+{
+  "record_id": "hyla",
+  "source_url": "https://fonts.adobe.com/fonts/hyla",
+  "checked_at": "2026-03-09T02:01:41.043242+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-13",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fonts.adobe.com/fonts/hyla",
+      "snippet": "2026-02-13"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "404 Client Error: Not Found for url: https://fonts.adobe.com/fonts/hyla"
+  }
+}

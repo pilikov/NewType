@@ -1,0 +1,48 @@
+{
+  "record_id": "aw-inuit",
+  "source_url": "https://typography.net/fonts/aw-inuit",
+  "checked_at": "2026-03-09T02:02:01.231617+00:00",
+  "candidates": [
+    {
+      "date": "2022-11-01",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typography.net/fonts/aw-inuit",
+      "snippet": "2022-11-01T09:30:00+00:00"
+    },
+    {
+      "date": "2025-08-13",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typography.net/fonts/aw-inuit",
+      "snippet": "2025-08-13T08:29:48+01:00"
+    },
+    {
+      "date": "2006-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typography.net/fonts/aw-inuit",
+      "snippet": " . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . About Developed in 2006 to mark the introduction of a premium range of uncoated white papers named Inuit. The display t"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typography.net/fonts/aw-inuit",
+      "snippet": "mation Font info Footnote 41 Footnote 05 Read the design notes at StudioType.com Cookie policy Privacy policy Sitemap © 2026 Jeremy Tankard Typography Ltd"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typography.net/fonts/aw-inuit",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typography.net/fonts/aw-inuit",
+    "last_modified": null
+  }
+}

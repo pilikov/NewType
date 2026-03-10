@@ -1,0 +1,27 @@
+{
+  "record_id": "sato",
+  "source_url": "https://www.suvatypefoundry.ee/sato/",
+  "checked_at": "2026-03-09T01:54:20.721911+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/sato/",
+      "snippet": "OUNDRY PREVIOUS FONT SATO NEXT FONT I A E N DOWNLOAD R J H Q P Y X C B S K V Z D W U M L F T G O SATO  by Pavel Salmin (2019) The font represents a fictional character named Sato. He is a toymaker, who is forced to serve"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/sato/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/sato/",
+    "last_modified": null
+  }
+}

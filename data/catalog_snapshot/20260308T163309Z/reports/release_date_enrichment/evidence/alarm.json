@@ -1,0 +1,62 @@
+{
+  "record_id": "alarm",
+  "source_url": "https://astype.de/font_d_alarm.php",
+  "checked_at": "2026-03-09T01:50:54.715255+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_d_alarm.php",
+      "snippet": "heim's Fanfare, which was published by H. Berthold AG in 1927. The Alarm typeface did not enter the digital realm until 2017.\r\nAndreas Seidel digitized the typeface for Fust & Friends, referring several type specimens of"
+    },
+    {
+      "date": "2003-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_d_alarm.php",
+      "snippet": "as B Stencil Ornaments A Thanksgiving Wine Grape A Free Fonts: DIN Type A - Basic Presto Nepos Fonts Wood Poster Eight ©2003 – 2026 by Andreas Seidel | astype fonts RSS Feed Imprint"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_d_alarm.php",
+      "snippet": "p travel the land, and encounter the most fantastic opportunities by not looking for them — just staying alert.\r\nAround 2012, one of Berlin’s Typostammtisch nights had the form of a book market. At the only professional "
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_d_alarm.php",
+      "snippet": "iends, referring several type specimens of the original metal and wood type versions as well as the result of a special 2016 printing session with 72pt Alarm foundry type. After Jan Middendorp closed the micro foundry Fu"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_d_alarm.php",
+      "snippet": " printing session with 72pt Alarm foundry type. After Jan Middendorp closed the micro foundry Fust & Friends in October 2021, this font can still be licensed via astype fonts. The Story of Alarms Digital Rebirth The word"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.astype.de/font_d_alarm.php",
+      "snippet": "encil Ornaments A Thanksgiving Wine Grape A Free Fonts: DIN Type A - Basic Presto Nepos Fonts Wood Poster Eight ©2003 – 2026 by Andreas Seidel | astype fonts RSS Feed Imprint"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://astype.de/font_d_alarm.php",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.astype.de/font_d_alarm.php",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "ritmo",
+  "source_url": "https://www.r41.it/ritmo",
+  "checked_at": "2026-03-09T01:47:24.098939+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.r41.it/ritmo",
+      "snippet": "Cookie Policy Follow Sign up to get the latest news on our product. Email Subscribe Thanks for subscribing! Copyright @ 2024 Reber srlsu. All right reserved Foto e testi sono tutelati dalla normativa sul diritto d’autore"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.r41.it/ritmo",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.r41.it/ritmo",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "record_id": "ingeo",
+  "source_url": "https://www.blancoletters.com/typefaces/ingeo",
+  "checked_at": "2026-03-09T02:04:07.692407+00:00",
+  "candidates": [
+    {
+      "date": "2021-04-21",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.blancoletters.com/typefaces/ingeo/",
+      "snippet": "2021-04-21T17:38:04+02:00"
+    },
+    {
+      "date": "2021-04-21",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://www.blancoletters.com/typefaces/ingeo/",
+      "snippet": "2021-04-21T17:38:04+02:00"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.blancoletters.com/typefaces/ingeo/",
+      "snippet": "randing. 33 Functional Icons: Includes 19 science-related symbols and 7 unique ampersands. First released on 29th April 2021 Ingeo: styles Roman | Italic Italic | Roman Ingeo: character set Ingeo comes with 695 glyphs an"
+    },
+    {
+      "date": "2026-03-06",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.blancoletters.com/typefaces/ingeo/",
+      "snippet": "2026-03-06T12:01:44+01:00"
+    },
+    {
+      "date": "2026-03-06",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.blancoletters.com/typefaces/ingeo/",
+      "snippet": "2026-03-06T12:01:44+01:00"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.blancoletters.com/typefaces/ingeo/",
+      "snippet": "h Info Contact FAQ Licence (EULA) Legal Legal Notice Privacy Policy Cookie Policy Terms & Conditions © Juan Luis Blanco 2015-2025 Manage Consent We use cookies to improve your experience and to analyze site usage. You ca"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.blancoletters.com/typefaces/ingeo/",
+      "snippet": "o Contact FAQ Licence (EULA) Legal Legal Notice Privacy Policy Cookie Policy Terms & Conditions © Juan Luis Blanco 2015-2025 Manage Consent We use cookies to improve your experience and to analyze site usage. You can acc"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.blancoletters.com/typefaces/ingeo/",
+      "snippet": "Fri, 06 Mar 2026 19:37:45 GMT"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.blancoletters.com/typefaces/ingeo",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.blancoletters.com/typefaces/ingeo/",
+    "last_modified": "Fri, 06 Mar 2026 19:37:45 GMT"
+  }
+}

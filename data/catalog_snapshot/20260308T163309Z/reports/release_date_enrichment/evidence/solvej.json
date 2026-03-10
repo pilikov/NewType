@@ -1,0 +1,90 @@
+{
+  "record_id": "solvej",
+  "source_url": "https://new-letters.de/typefaces/solvej",
+  "checked_at": "2026-03-09T01:49:19.409897+00:00",
+  "candidates": [
+    {
+      "date": "2015-05-12",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://www.new-letters.de/font/solvej/",
+      "snippet": "2015-05-12T23:47:38+00:00"
+    },
+    {
+      "date": "2024-02-10",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.new-letters.de/font/solvej/",
+      "snippet": "2024-02-10T13:47:53+00:00"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.new-letters.de/font/solvej/",
+      "snippet": "ear: 2018 Styles: 9 cuts, 4 weights Designer: Armin, Markus Year: 2015 Styles: 11 cuts, 6 weights Designer: Armin Year: 2014 Styles: Serif, Italic Designer: Armin, Markus Year: 2017 Styles: 6 cuts, 3 weights Designer: Ar"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.new-letters.de/font/solvej/",
+      "snippet": "9 Styles: 15 cuts, 7 weights Designer: Armin, Markus Year: 2018 Styles: 9 cuts, 4 weights Designer: Armin, Markus Year: 2015 Styles: 11 cuts, 6 weights Designer: Armin Year: 2014 Styles: Serif, Italic Designer: Armin, Ma"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.new-letters.de/font/solvej/",
+      "snippet": "us Year: 2015 Styles: 11 cuts, 6 weights Designer: Armin Year: 2014 Styles: Serif, Italic Designer: Armin, Markus Year: 2017 Styles: 6 cuts, 3 weights Designer: Armin, Markus Year: 2015 Styles: 12 cuts, 4 weights Designe"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.new-letters.de/font/solvej/",
+      "snippet": "r: 2021 Styles: Truth, Fear Designer: Armin, Markus Year: 2019 Styles: 15 cuts, 7 weights Designer: Armin, Markus Year: 2018 Styles: 9 cuts, 4 weights Designer: Armin, Markus Year: 2015 Styles: 11 cuts, 6 weights Designe"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.new-letters.de/font/solvej/",
+      "snippet": " 2021 Styles: Ultra Heavy & Italic Designer: Armin, Markus Year: 2021 Styles: Truth, Fear Designer: Armin, Markus Year: 2019 Styles: 15 cuts, 7 weights Designer: Armin, Markus Year: 2018 Styles: 9 cuts, 4 weights Designe"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.new-letters.de/font/solvej/",
+      "snippet": "traight/Angled + Italics Designer: Armin, Markus Year: 2022 Styles: 35, 7 Weights, 5 Widths Designer: Thomas John Year: 2021 Styles: Ultra Heavy & Italic Designer: Armin, Markus Year: 2021 Styles: Truth, Fear Designer: A"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.new-letters.de/font/solvej/",
+      "snippet": " Solvej Designer: Thomas John Year: 2024 Styles: 28, 7 Weights, Straight/Angled + Italics Designer: Armin, Markus Year: 2022 Styles: 35, 7 Weights, 5 Widths Designer: Thomas John Year: 2021 Styles: Ultra Heavy & Italic D"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.new-letters.de/font/solvej/",
+      "snippet": "Typefaces Goods Gazet Laif Hanje Kjell Anaïs Rois Mériva Voltaire Freya Tilde Rasmus Solvej Designer: Thomas John Year: 2024 Styles: 28, 7 Weights, Straight/Angled + Italics Designer: Armin, Markus Year: 2022 Styles: 35,"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://new-letters.de/typefaces/solvej",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.new-letters.de/font/solvej/",
+    "last_modified": null
+  }
+}

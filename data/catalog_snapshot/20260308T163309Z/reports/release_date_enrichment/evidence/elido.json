@@ -1,0 +1,48 @@
+{
+  "record_id": "elido",
+  "source_url": "https://www.kontour.com/typefaces/elido",
+  "checked_at": "2026-03-09T01:51:12.836444+00:00",
+  "candidates": [
+    {
+      "date": "2010-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://kontour.com/typefaces/elido",
+      "snippet": "lic Elido Ornaments abcdefghijkl Related Collection Odile About Elido Designer Sibylle Hagmann Version 2 Year published 2010 Pricing $400.00, starting at $50.00 Formats .otf, .ttf, .woff Elido (Odile in reverse) is the s"
+    },
+    {
+      "date": "2025-02-23",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://kontour.com/typefaces/elido",
+      "snippet": "2025-02-23"
+    },
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kontour.com/typefaces/elido",
+      "snippet": "ial Fonts Fonts In use Activate on Adobe Fonts Test with Fontstand Type Network ALL RIGHTS RESERVED Kontour Type, LLC © 2000 – 2026 FAQ Licenses Terms & Conditions Contact About + Recognition Social"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kontour.com/typefaces/elido",
+      "snippet": "ts Fonts In use Activate on Adobe Fonts Test with Fontstand Type Network ALL RIGHTS RESERVED Kontour Type, LLC © 2000 – 2026 FAQ Licenses Terms & Conditions Contact About + Recognition Social"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.kontour.com/typefaces/elido",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://kontour.com/typefaces/elido",
+    "last_modified": null
+  }
+}

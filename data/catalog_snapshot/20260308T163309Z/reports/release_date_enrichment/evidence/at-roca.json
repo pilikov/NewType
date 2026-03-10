@@ -1,0 +1,48 @@
+{
+  "record_id": "at-roca",
+  "source_url": "https://arillatype.studio/font/at-roca",
+  "checked_at": "2026-03-09T01:40:24.621646+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://arillatype.studio/font/at-roca",
+      "snippet": "l indicator. Human information Designer Pedro Arilla Visuals Alonso & Moutas Technical information Release date October 2023 Current version 1.000 (July 2023) Styles in the family 1 Glyphs per style 395 Character set Lat"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://arillatype.studio/font/at-roca",
+      "snippet": " Altolaguirre 29, Bajo 1 29720 La Cala del Moral, Málaga, Spain [email protected] Website set in At Haüss . Copyright © 2021—2026. All rights reserved."
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://arillatype.studio/font/at-roca",
+      "snippet": "laguirre 29, Bajo 1 29720 La Cala del Moral, Málaga, Spain [email protected] Website set in At Haüss . Copyright © 2021—2026. All rights reserved."
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://arillatype.studio/font/at-roca",
+      "snippet": "Tue, 24 Feb 2026 09:56:30 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://arillatype.studio/font/at-roca",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://arillatype.studio/font/at-roca",
+    "last_modified": "Tue, 24 Feb 2026 09:56:30 GMT"
+  }
+}

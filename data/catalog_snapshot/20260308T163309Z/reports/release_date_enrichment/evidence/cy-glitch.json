@@ -1,0 +1,34 @@
+{
+  "record_id": "cy-glitch",
+  "source_url": "https://supertype.de/fonts/cy-glitch",
+  "checked_at": "2026-03-09T01:46:20.743673+00:00",
+  "candidates": [
+    {
+      "date": "2005-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://supertype.de/fonts/cy-glitch",
+      "snippet": "fonts/LemonSerif/LemonSerif-Bold.woff2?2006') format('woff2'),\nurl('/assets/retailfonts/LemonSerif/LemonSerif-Bold.woff?2005') format('woff');\nfont-weight: 700;\nfont-style: normal;\n} Lemon Serif @font-face {\nfont-family:"
+    },
+    {
+      "date": "2006-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://supertype.de/fonts/cy-glitch",
+      "snippet": "\n} Ode @font-face {\nfont-family: 'Lemon Serif Bold 402';\nsrc: url('/assets/retailfonts/LemonSerif/LemonSerif-Bold.woff2?2006') format('woff2'),\nurl('/assets/retailfonts/LemonSerif/LemonSerif-Bold.woff?2005') format('woff"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://supertype.de/fonts/cy-glitch",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://supertype.de/fonts/cy-glitch",
+    "last_modified": null
+  }
+}

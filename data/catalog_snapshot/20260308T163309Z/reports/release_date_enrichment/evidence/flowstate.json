@@ -1,0 +1,27 @@
+{
+  "record_id": "flowstate",
+  "source_url": "https://www.suvatypefoundry.ee/flowstate/",
+  "checked_at": "2026-03-09T01:52:05.120806+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/flowstate/",
+      "snippet": "REVIOUS FONT FLOWSTATE NEXT FONT L Y G Q J M O S DOWNLOAD F U N B E P V I K A X C T R Z D W H FLOWSTATE by Kertu Kibal (2020) In positive psychology, a flow state, also known as colloquially as being in the zone, is the "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/flowstate/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/flowstate/",
+    "last_modified": null
+  }
+}

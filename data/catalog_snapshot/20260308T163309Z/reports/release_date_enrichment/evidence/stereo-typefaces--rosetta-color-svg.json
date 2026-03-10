@@ -1,0 +1,34 @@
+{
+  "record_id": "stereo-typefaces--rosetta-color-svg",
+  "source_url": "https://www.stereo-type.fr/fonts/rosetta-color-svg/",
+  "checked_at": "2026-03-08T16:58:35.370412+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.stereo-type.fr/fonts/rosetta-color-svg/",
+      "snippet": " Extended License Standard License Unlimited License Rosetta is my first SVG Color font. It requires at least Photoshop 2017 or Illustrator 2018, but the solid version can be used with any program. Licensing information."
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.stereo-type.fr/fonts/rosetta-color-svg/",
+      "snippet": "andard License Unlimited License Rosetta is my first SVG Color font. It requires at least Photoshop 2017 or Illustrator 2018, but the solid version can be used with any program. Licensing information. Rosetta Color SVG €"
+    },
+    {
+      "date": "2026-03-07",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.stereo-type.fr/fonts/rosetta-color-svg/",
+      "snippet": "2026-03-07"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.stereo-type.fr/fonts/rosetta-color-svg/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "record_id": "abitare-sans",
+  "source_url": "https://fsd.it/typefaces/abitare-sans",
+  "checked_at": "2026-03-09T01:36:34.679879+00:00",
+  "candidates": [
+    {
+      "date": "2015-12-03",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://fsd.it/shop/fonts/abitare-sans/",
+      "snippet": "2015-12-03T14:21:51+00:00"
+    },
+    {
+      "date": "2023-08-20",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fsd.it/shop/fonts/abitare-sans/",
+      "snippet": "s that static fonts cannot offer. Add to your cart All package if you want the variable fonts. Rated 5 out of 5 virna – 2023-08-20 I love this font Add a review Add a review Cancel reply Your email address will not be pu"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fsd.it/shop/fonts/abitare-sans/",
+      "snippet": "ign will looks better with a “resilient” typeface like this. Above all at very low sizes! Variable font available Since 2025, Abitare Sans is available as a variable font, delivering unprecedented typographic flexibility"
+    },
+    {
+      "date": "2023-08-20",
+      "score": 0.7,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://fsd.it/shop/fonts/abitare-sans/",
+      "snippet": "2023-08-20T16:55:22+02:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://fsd.it/shop/fonts/abitare-sans/",
+      "snippet": "2026-02-25T16:59:11+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://fsd.it/shop/fonts/abitare-sans/",
+      "snippet": "2026-02-25T16:59:11+00:00"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fsd.it/shop/fonts/abitare-sans/",
+      "snippet": "e Abitare magazine custom font Abitare Sans was originally commissioned by the group RCS Rizzoli Corriere della Sera in 2013. It’s a typeface of 30 weights designed to be used in Abitare magazine. The request of the pres"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fsd.it/shop/fonts/abitare-sans/",
+      "snippet": "39 Contact Terms and Conditions Privacy and Cookies Shipping policy Refund policy How to protecting the webfont files © 2026 Fabrizio Schiavi. All rights reserved We use cookies on our website to give you the most releva"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://fsd.it/shop/fonts/abitare-sans/",
+      "snippet": "Sun, 08 Mar 2026 23:14:36 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fsd.it/typefaces/abitare-sans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fsd.it/shop/fonts/abitare-sans/",
+    "last_modified": "Sun, 08 Mar 2026 23:14:36 GMT"
+  }
+}

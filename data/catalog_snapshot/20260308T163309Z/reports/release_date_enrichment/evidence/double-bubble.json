@@ -1,0 +1,27 @@
+{
+  "record_id": "double-bubble",
+  "source_url": "https://www.suvatypefoundry.ee/double-bubble/",
+  "checked_at": "2026-03-09T01:46:04.460022+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/double-bubble/",
+      "snippet": "DOUBLE BUBBLE NEXT FONT DOWNLOAD E O T Y H X K F M Z A P W U C D G R I N V Q B S L J DOUBLE BUBBLE  by Aaro Veiderpass (2019) A variable typeface inspired by a sticky situation. Supervised by Jungmyung Lee and Josse Pyl "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/double-bubble/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/double-bubble/",
+    "last_modified": null
+  }
+}

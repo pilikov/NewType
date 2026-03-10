@@ -1,0 +1,20 @@
+{
+  "record_id": "packer",
+  "source_url": "https://ma-ma-type.com/fonts/packer",
+  "checked_at": "2026-03-09T01:46:36.120299+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ma-ma-type.com/fonts/packer",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ma-ma-type.com/fonts/packer/regular",
+    "last_modified": null
+  }
+}

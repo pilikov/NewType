@@ -1,0 +1,34 @@
+{
+  "record_id": "injurial",
+  "source_url": "https://www.205.tf/injurial",
+  "checked_at": "2026-03-09T02:03:18.207875+00:00",
+  "candidates": [
+    {
+      "date": "2014-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/injurial",
+      "snippet": "19 Fonts In Use Specimen Injurial was designed during the editorial design of a novel by Boll, published by Tripode, in 2014. This humorous thriller features many mediums, and specifically some pretty aggressive graffiti"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/injurial",
+      "snippet": "e to our newsletter: ▶︎ Follow Us Facebook Instagram LinkedIn Bluesky Typeface Injurial Designer Sandrine Nugue Release 2019 Fonts In Use Specimen Injurial was designed during the editorial design of a novel by Boll, pub"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.205.tf/injurial",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.205.tf/injurial",
+    "last_modified": null
+  }
+}

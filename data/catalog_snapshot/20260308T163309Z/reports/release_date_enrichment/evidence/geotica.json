@@ -1,0 +1,41 @@
+{
+  "record_id": "geotica",
+  "source_url": "https://www.exljbris.com/geotica.html",
+  "checked_at": "2026-03-09T01:55:48.305120+00:00",
+  "candidates": [
+    {
+      "date": "2008-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.exljbris.com/geotica.html",
+      "snippet": "ntShop exljbris webfonts are available from: Typekit , Fontspring App Licenses can be purchased through : Fontspring Â© 2008-2021, exljbris Font Foundry | EULA | Extended licensing | contact"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.exljbris.com/geotica.html",
+      "snippet": "p exljbris webfonts are available from: Typekit , Fontspring App Licenses can be purchased through : Fontspring Â© 2008-2021, exljbris Font Foundry | EULA | Extended licensing | contact"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.exljbris.com/geotica.html",
+      "snippet": "Mon, 28 Jun 2021 12:47:42 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.exljbris.com/geotica.html",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.exljbris.com/geotica.html",
+    "last_modified": "Mon, 28 Jun 2021 12:47:42 GMT"
+  }
+}

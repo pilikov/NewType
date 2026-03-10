@@ -1,0 +1,55 @@
+{
+  "record_id": "ottessa",
+  "source_url": "https://typemates.com/fonts/ottessa",
+  "checked_at": "2026-03-09T01:46:26.936931+00:00",
+  "candidates": [
+    {
+      "date": "2022-12-01",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typemates.com/fonts/ottessa",
+      "snippet": "2022-12-01T00:00:00+01:00"
+    },
+    {
+      "date": "2022-12-02",
+      "score": 0.95,
+      "source_type": "jsonld:dateCreated",
+      "source_url": "https://www.typemates.com/fonts/ottessa",
+      "snippet": "2022-12-02T07:42:24+01:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typemates.com/fonts/ottessa",
+      "snippet": "2026-03-05T11:55:26+01:00"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/ottessa",
+      "snippet": "tessa’s glyph count: they enrich its \ntypographic toolbox for every imaginable terrain. Designed by Philipp Neumeyer in 2022 Consulting & Help Daria Cohen , Ilya Ruderman & Yury Ostromentsky Granshan Award Special mentio"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/ottessa",
+      "snippet": " Daria Cohen , Ilya Ruderman & Yury Ostromentsky Granshan Award Special mention in the multiscript award competition of 2024 for unusual but confidently handled stylistic choices. Specs 10 styles containing 5 weights plu"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typemates.com/fonts/ottessa",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typemates.com/fonts/ottessa",
+    "last_modified": null
+  }
+}

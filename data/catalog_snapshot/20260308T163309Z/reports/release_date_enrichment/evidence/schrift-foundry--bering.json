@@ -1,0 +1,55 @@
+{
+  "record_id": "schrift-foundry--bering",
+  "source_url": "https://www.schriftfoundry.com/collection/bering-stencil",
+  "checked_at": "2026-03-09T01:36:02.155477+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.schriftfoundry.com/collection/bering-stencil",
+      "snippet": "type design experiment setting up a digital type family. Design Dmitry Pilikov Eugene Yukechev Family 12 styles Release 2024 »Zur Kogge«, an old restaurant est. in 1856, is located in the heart of the Hanseatic city of R"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.schriftfoundry.com/collection/bering-stencil",
+      "snippet": "e can feel the spirit of maritime odysseys and grand adventures within the walls of this bar. Photo by Eugene Yukechev, 2018. Styles Condensed Thin Light Regular Bold Narrow Thin Light Regular Bold Regular Thin Light Reg"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.schriftfoundry.com/collection/bering-stencil",
+      "snippet": "sh town of Skärhamn grew out of an old fishing village and continues its measured life today. Photo by Eugene Yukechev, 2023. A brutal materiality of fishing village artifacts. Iconic northern landscapes are easy to pict"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.schriftfoundry.com/collection/bering-stencil",
+      "snippet": " info@schriftfoundry.com Sign up for updates Your submission has been received! Something went wrong. Try again later © 2025 Schrift Publishers, Inc. Back to Top ↑ Sign up for updates Your submission has been received! S"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.schriftfoundry.com/collection/bering-stencil",
+      "snippet": "Sat, 28 Feb 2026 16:54:26 GMT"
+    },
+    {
+      "date": "2026-03-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.schriftfoundry.com/collection/bering-stencil",
+      "snippet": "2026-03-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.schriftfoundry.com/collection/bering-stencil",
+    "last_modified": "Sat, 28 Feb 2026 16:54:26 GMT"
+  }
+}

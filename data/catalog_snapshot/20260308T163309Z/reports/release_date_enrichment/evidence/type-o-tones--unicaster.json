@@ -1,0 +1,27 @@
+{
+  "record_id": "type-o-tones--unicaster",
+  "source_url": "https://type-o-tones.com/fonts/unicaster",
+  "checked_at": "2026-03-09T02:03:59.743421+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/unicaster",
+      "snippet": " 247.50 € Add to cart Thin, Thin Slanted, Regular, Regular Slanted, Bold, Bold Slanted Author José Manuel Urós Creation 2024 Actual version 1 Styles 6 Character sets Basic Latin Latin-1 Supplement Latin-2 Central Europea"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://type-o-tones.com/fonts/unicaster",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://type-o-tones.com/fonts/unicaster",
+    "last_modified": null
+  }
+}

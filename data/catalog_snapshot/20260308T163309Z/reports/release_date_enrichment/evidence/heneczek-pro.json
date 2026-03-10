@@ -1,0 +1,55 @@
+{
+  "record_id": "heneczek-pro",
+  "source_url": "https://threedotstype.com/typefaces/heneczek-pro",
+  "checked_at": "2026-03-09T02:04:11.336495+00:00",
+  "candidates": [
+    {
+      "date": "2018-10-28",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://threedotstype.com/product/heneczek-pro/",
+      "snippet": "2018-10-28T17:44:44+00:00"
+    },
+    {
+      "date": "2025-04-16",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://threedotstype.com/product/heneczek-pro/",
+      "snippet": "2025-04-16T12:42:52+00:00"
+    },
+    {
+      "date": "2025-04-16",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://threedotstype.com/product/heneczek-pro/",
+      "snippet": "2025-04-16T12:42:52+00:00"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://threedotstype.com/product/heneczek-pro/",
+      "snippet": "hes for Heneczek Pro. Teodor Heneczek’s printing house in Piekary Śląskie, beginning of XX century. < Previous Next > © 2017—2025 Fonts Extract Semislab Extract Grotesk Tor grotesk Mix Rubin Sans Radius Janus Heneczek Pr"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://threedotstype.com/product/heneczek-pro/",
+      "snippet": "or Heneczek Pro. Teodor Heneczek’s printing house in Piekary Śląskie, beginning of XX century. < Previous Next > © 2017—2025 Fonts Extract Semislab Extract Grotesk Tor grotesk Mix Rubin Sans Radius Janus Heneczek Pro Di "
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://threedotstype.com/typefaces/heneczek-pro",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://threedotstype.com/product/heneczek-pro/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "studio-feixen-sans",
+  "source_url": "https://fonts.studiofeixen.ch/",
+  "checked_at": "2026-03-09T01:49:23.159791+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fonts.studiofeixen.ch/",
+      "snippet": "clicking this button you agree to not distribute, reproduce, or use these files for any commercial purpose. Copyright © 2025 Studio Feixen Typeface designed by: Felix Pfäffli and Robin Eberwein Code/Production: Felix Pfä"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fonts.studiofeixen.ch/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fonts.studiofeixen.ch/",
+    "last_modified": null
+  }
+}

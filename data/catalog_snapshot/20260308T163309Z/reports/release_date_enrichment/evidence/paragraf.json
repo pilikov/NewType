@@ -1,0 +1,19 @@
+{
+  "record_id": "paragraf",
+  "source_url": "https://typeji.com/typefaces/paragraf",
+  "checked_at": "2026-03-09T01:56:37.541540+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typeji.com/typefaces/paragraf",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "403 Client Error: Forbidden for url: https://typeji.com/typefaces/paragraf"
+  }
+}

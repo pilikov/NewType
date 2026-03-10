@@ -1,0 +1,34 @@
+{
+  "record_id": "gosha-sans",
+  "source_url": "https://pangrampangram.com/products/gosha-sans",
+  "checked_at": "2026-03-09T01:46:23.568165+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://pangrampangram.com/products/gosha-sans",
+      "snippet": "erif Variable Styles 8 Styles 8 Styles with 475 Glyphs each Including Cyrillic Support Version 1.20 Latest update: June 2018 Available formats OTF, TTF, WOFF, WOFF2 Language Support Afrikaans, Basque, Breton, Catalan, Cr"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://pangrampangram.com/products/gosha-sans",
+      "snippet": "nt Cart 0 Français Don't miss a beat Subscribe to our newsletter to stay in touch with the latest. → Copyright © 2018 – 2026. All rights reserved. ↑ Back to top Pangram Pangram® Foundry Created by Mat Desjardins and the "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://pangrampangram.com/products/gosha-sans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://pangrampangram.com/products/gosha-sans",
+    "last_modified": null
+  }
+}

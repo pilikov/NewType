@@ -1,0 +1,27 @@
+{
+  "record_id": "kario",
+  "source_url": "https://showmefonts.com/typefaces/kario",
+  "checked_at": "2026-03-09T01:58:51.897345+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://showmefonts.com/typefaces/kario",
+      "snippet": "ount Account Cart Kario Purchase Kario Design Bernd Volmer Spotlight Visit Microsite Specimen Download PDF Release date 2025 About Kario Meet Kario, the variable duplex/uniwidth type family that takes stretching to the e"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://showmefonts.com/typefaces/kario",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://showmefonts.com/typefaces/kario",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "tanger-serif-wide",
+  "source_url": "https://www.typolar.com/family/index.php?id=7",
+  "checked_at": "2026-03-09T01:50:51.585892+00:00",
+  "candidates": [
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typolar.com/family/index.php?id=7",
+      "snippet": "vy Tanger Serif Wide Heavy Italic i 16 px i x 1.4 ≤ | ≥ x Longer-term influences on the rapid rise of Street Art around 2000 include the move of the now grown-up taggers and style writers (often active since the mid-1980"
+    },
+    {
+      "date": "2008-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typolar.com/family/index.php?id=7",
+      "snippet": "ions, which results an extremely easy flowing texture in text. Designers Tanger Serif is Designed by Jarno Lukkarila in 2008. Technical All our fonts are optimised for smooth on screen appearance on different resolutions"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typolar.com/family/index.php?id=7",
+      "snippet": "ng and you can cancel it any time. CONTACT US c +358 50 339 1487 a info(at)typolar.com b Facebook b Twitter b Bēhance ©2025 Typolar Ltd. All Rights Reserved. Typolar holds rights to all material at this website unless s"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.typolar.com/family/index.php?id=7",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typolar.com/family/index.php?id=7",
+    "last_modified": null
+  }
+}

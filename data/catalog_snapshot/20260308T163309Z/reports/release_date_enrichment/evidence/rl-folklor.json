@@ -1,0 +1,41 @@
+{
+  "record_id": "rl-folklor",
+  "source_url": "https://www.radluka.com/rl-folklor",
+  "checked_at": "2026-03-09T01:51:40.434558+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.radluka.com/rl-folklor",
+      "snippet": "ng typographic impressions, excelling in large sizes, as well as in densely set display paragraphs. ‍ Publication year: 2025 Styles RL Folklor is a single-style typeface: Black IT’S NOT JUST ABOUT THE SAME OLD STORIES It"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.radluka.com/rl-folklor",
+      "snippet": "ut ‍ License Agreement ‍ Free Trials Privacy Policy ‍ Terms & Conditions radeklukasiewicz@gmail.com Instagram LinkedIn ©2026 Radek Łukasiewicz. All rights reserved."
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.radluka.com/rl-folklor",
+      "snippet": "Wed, 18 Feb 2026 09:01:41 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.radluka.com/rl-folklor",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.radluka.com/rl-folklor",
+    "last_modified": "Wed, 18 Feb 2026 09:01:41 GMT"
+  }
+}

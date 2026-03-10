@@ -1,0 +1,62 @@
+{
+  "record_id": "graviola-soft",
+  "source_url": "https://www.harbortype.com/typefaces/graviola-soft",
+  "checked_at": "2026-03-09T01:37:47.454689+00:00",
+  "candidates": [
+    {
+      "date": "2016-03-09",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.harbortype.com/fonts/graviola-soft/",
+      "snippet": "2016-03-09T12:26:18+00:00"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.harbortype.com/fonts/graviola-soft/",
+      "snippet": "otypes and headlines , but I’m eager to see what else you can do with it. Designed by Henrique Beier Release date March 2016 Related fonts Graviola Awards 12th Biennial of Brazilian Graphic Design Graviola Soft Thin Grav"
+    },
+    {
+      "date": "2025-07-07",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.harbortype.com/fonts/graviola-soft/",
+      "snippet": "2025-07-07T16:05:49+00:00"
+    },
+    {
+      "date": "2025-07-07",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.harbortype.com/fonts/graviola-soft/",
+      "snippet": "2025-07-07T16:05:49+00:00"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.harbortype.com/fonts/graviola-soft/",
+      "snippet": "our download. Harbor Type is an independent type foundry based in Porto Alegre, Brazil. Versão em português Copyright © 2014–2026 Harbor Type. All rights reserved. Fonts Bork Densia Sans Dona Garibaldi Graviola Graviola "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.harbortype.com/fonts/graviola-soft/",
+      "snippet": "ownload. Harbor Type is an independent type foundry based in Porto Alegre, Brazil. Versão em português Copyright © 2014–2026 Harbor Type. All rights reserved. Fonts Bork Densia Sans Dona Garibaldi Graviola Graviola Soft "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.harbortype.com/typefaces/graviola-soft",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.harbortype.com/fonts/graviola-soft/",
+    "last_modified": null
+  }
+}

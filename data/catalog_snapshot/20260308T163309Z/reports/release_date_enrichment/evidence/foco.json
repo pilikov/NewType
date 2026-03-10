@@ -1,0 +1,27 @@
+{
+  "record_id": "foco",
+  "source_url": "https://www.daltonmaag.com/library/foco",
+  "checked_at": "2026-03-09T01:38:03.296389+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/foco.html",
+      "snippet": "spired details of the design make it easily recognizable, and a good choice for branding. Designed and developed\n2007â2023 Designers Fabio Haag Writing Systems Cyrillic, Greek, Latin, Latin Extended Supporting over 900"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.daltonmaag.com/library/foco",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.daltonmaag.com/font-library/foco.html",
+    "last_modified": null
+  }
+}

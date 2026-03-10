@@ -1,0 +1,48 @@
+{
+  "record_id": "valnera",
+  "source_url": "https://www.c-a-s-t.com/typefaces/valnera",
+  "checked_at": "2026-03-09T01:49:55.587833+00:00",
+  "candidates": [
+    {
+      "date": "1991-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/valnera/",
+      "snippet": "ntemporary way that kind of 1970s photocomposition feeling typical of two iconic faces: Cartier (1967) and ITC Mendoza (1991). First designed in 2010-2011, Valnera was reviewed, updated and completed in collaboration wit"
+    },
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/valnera/",
+      "snippet": "of 1970s photocomposition feeling typical of two iconic faces: Cartier (1967) and ITC Mendoza (1991). First designed in 2010-2011, Valnera was reviewed, updated and completed in collaboration with CAST. A random version,"
+    },
+    {
+      "date": "2011-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/valnera/",
+      "snippet": "70s photocomposition feeling typical of two iconic faces: Cartier (1967) and ITC Mendoza (1991). First designed in 2010-2011, Valnera was reviewed, updated and completed in collaboration with CAST. A random version, Valn"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/valnera/",
+      "snippet": " Taita, Teso, Turkish, Upper Sorbian, Uzbek (Latin), Volapük, Vunjo, Welsh, Western Frisian, Zulu Production years 2010-2019 Styles ExtraLight, ExtraLight Italic, Light, Light Italic, Regular, Regular Italic, Medium, Med"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.c-a-s-t.com/typefaces/valnera",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.c-a-s-t.com/typefaces/valnera/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "rl-horizon",
+  "source_url": "https://www.radluka.com/rl-horizon",
+  "checked_at": "2026-03-09T01:54:00.712445+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.radluka.com/rl-horizon",
+      "snippet": " yet are strong enough to stand alone as an autonomous typeface. Illustrations by Marta Przeciszewska Publication year: 2025 RL Horizon received theÂ Communication Arts Award ofÂ Excellence inÂ Typography 2026. Styles RL"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.radluka.com/rl-horizon",
+      "snippet": "ta Przeciszewska Publication year: 2025 RL Horizon received theÂ Communication Arts Award ofÂ Excellence inÂ Typography 2026. Styles RLÂ Horizon has 12 styles + variable fonts: Regular, Italic Medium, Medium Italic Semi,"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.radluka.com/rl-horizon",
+      "snippet": "Tue, 20 Jan 2026 09:35:04 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.radluka.com/rl-horizon",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.radluka.com/rl-horizon",
+    "last_modified": "Tue, 20 Jan 2026 09:35:04 GMT"
+  }
+}

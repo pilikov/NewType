@@ -1,0 +1,34 @@
+{
+  "record_id": "faxi",
+  "source_url": "https://goodtypefoundry.com/typefaces/faxi",
+  "checked_at": "2026-03-09T01:39:36.232482+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://goodtypefoundry.com/faxi/",
+      "snippet": "dry. Originally called Donadoni and made for the Stockholm based interior firm Maldini Studios. The typeface has during 2020 been refined and further developed and is now finally available for licensing! 1 weight / 1 sty"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://goodtypefoundry.com/faxi/",
+      "snippet": "Career (0) Trial Fonts Good Type Foundry AS, Rettedalsbakkane 9, 4110 Forsand, Norway © Copyright – all rights reserved 2025 Typeface in use: GTF Good Sans"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://goodtypefoundry.com/typefaces/faxi",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://goodtypefoundry.com/faxi/",
+    "last_modified": null
+  }
+}

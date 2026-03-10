@@ -1,0 +1,34 @@
+{
+  "record_id": "edward",
+  "source_url": "https://www.typeby.com/fonts/edward",
+  "checked_at": "2026-03-09T01:46:30.526640+00:00",
+  "candidates": [
+    {
+      "date": "2008-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/edward",
+      "snippet": "s designed by Hendrik Weber. Edward is Weber’s second published typeface, joining the award-winning Lirico, released in 2008. Edward is named in honour of Edward Johnston, calligrapher, teacher, and author of Writing & I"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/edward",
+      "snippet": "mo Remo Stencil Rosalinde Subtil Grotesk Edward Lirico Eva Meran Stan Standing Type Couteau Greco Klub Orly Copyright © 2026 Type By. All Rights Reserved. Information About Licenses Help Terms & conditions of sale Terms "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.typeby.com/fonts/edward",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typeby.com/fonts/edward",
+    "last_modified": null
+  }
+}

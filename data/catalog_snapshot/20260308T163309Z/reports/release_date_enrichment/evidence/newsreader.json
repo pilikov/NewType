@@ -1,0 +1,19 @@
+{
+  "record_id": "newsreader",
+  "source_url": "https://www.productiontype.com/font/newsreader",
+  "checked_at": "2026-03-09T01:45:00.783687+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.productiontype.com/font/newsreader",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='www.productiontype.com', port=443): Max retries exceeded with url: /font/newsreader (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "rupert",
+  "source_url": "https://www.tandemtype.co/rupert",
+  "checked_at": "2026-03-09T01:43:02.776581+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.tandemtype.co/rupert",
+      "snippet": "rt - I Love Typography ...and get free light weight! Contact Us Follow hello@tandemtype.co Twitter Instagram Linkedin © 2023 Tandem Type, All rights reserved. bottom of page"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.tandemtype.co/rupert",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.tandemtype.co/rupert",
+    "last_modified": null
+  }
+}

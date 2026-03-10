@@ -1,0 +1,41 @@
+{
+  "record_id": "berghall",
+  "source_url": "https://www.typolar.com/family/index.php?id=16",
+  "checked_at": "2026-03-09T02:01:42.389653+00:00",
+  "candidates": [
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typolar.com/family/index.php?id=16",
+      "snippet": "a Bold Berghall Extra Bold Italic i 32 px i x 1.4 ≤ | ≥ x Longer-term influences on the rapid rise of Street Art around 2000 include the move of the now grown-up taggers and style writers (often active since the mid-1980"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typolar.com/family/index.php?id=16",
+      "snippet": "Bold Berghall Bold Italic Berghall Extra Bold Berghall Extra Bold Italic i 38 px i x 1.2 ≤ | ≥ x Christy Thurson on her 2021 Spring collection for Niggli Berghall Medium h Altis Alku Handwriting Model Neuvos Neuvos Conde"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typolar.com/family/index.php?id=16",
+      "snippet": "ng and you can cancel it any time. CONTACT US c +358 50 339 1487 a info(at)typolar.com b Facebook b Twitter b Bēhance ©2025 Typolar Ltd. All Rights Reserved. Typolar holds rights to all material at this website unless s"
+    },
+    {
+      "date": "2026-02-13",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.typolar.com/family/index.php?id=16",
+      "snippet": "2026-02-13"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typolar.com/family/index.php?id=16",
+    "last_modified": null
+  }
+}

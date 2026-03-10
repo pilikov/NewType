@@ -1,0 +1,34 @@
+{
+  "record_id": "letters-from-sweden--blakulla",
+  "source_url": "https://lettersfromsweden.se/font/blakulla",
+  "checked_at": "2026-03-09T01:53:14.940809+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://lettersfromsweden.se/font/blakulla/",
+      "snippet": "es a link between typography and architecture, with echoes of unknown lives lived behind those countless curtains. Year 2018 Designed by My Longley Script(s) latin Specimen Download Blåkulla PDF Blåkulla Adelia BAZAAR Bl"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://lettersfromsweden.se/font/blakulla/",
+      "snippet": "Mon, 09 Mar 2026 01:53:15 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://lettersfromsweden.se/font/blakulla",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://lettersfromsweden.se/font/blakulla/",
+    "last_modified": "Mon, 09 Mar 2026 01:53:15 GMT"
+  }
+}

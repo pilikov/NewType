@@ -1,0 +1,41 @@
+{
+  "record_id": "comma-base",
+  "source_url": "https://www.martinmajoor.com/6_comma.html",
+  "checked_at": "2026-03-09T01:58:26.554788+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.martinmajoor.com/6_comma.html",
+      "snippet": "Info Buying options My philosophy Lectures Type\n            blog About Contact/info Â Â Â Â Â Comma\n              BASE (2021) h as\n          half the features of a sans (no serifs) and half the features of a\r          se"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.martinmajoor.com/6_comma.html",
+      "snippet": " also proven itself as a serious text typeface, primarily\r          because it has a âserif-likeâ feel. Comma SANS (2025) is a\r          space-saving typeface based on Comma Base. It has a humanist\r          characte"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.martinmajoor.com/6_comma.html",
+      "snippet": "Tue, 22 Apr 2025 11:30:34 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.martinmajoor.com/6_comma.html",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.martinmajoor.com/6_comma.html",
+    "last_modified": "Tue, 22 Apr 2025 11:30:34 GMT"
+  }
+}

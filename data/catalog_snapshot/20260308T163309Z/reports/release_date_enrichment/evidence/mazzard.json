@@ -1,0 +1,27 @@
+{
+  "record_id": "mazzard",
+  "source_url": "https://minttype.com/superfamilies/mazzard",
+  "checked_at": "2026-03-09T01:40:52.936566+00:00",
+  "candidates": [
+    {
+      "date": "2019-04-18",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://minttype.com/superfamilies/mazzard",
+      "snippet": "ing Cyrillic, and offers a wide variety of alternate forms to choose from. Designed by Oleh Lishchuk First published on Apr 18, 2019 3 typefaces €224.10 Add to Cart Buying options Font names Pangrams: Basic Latin Pangram"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://minttype.com/superfamilies/mazzard",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://minttype.com/superfamilies/mazzard",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "my-maps-sans-robinson",
+  "source_url": "https://www.suvatypefoundry.ee/my-maps-sans-robinson/",
+  "checked_at": "2026-03-09T01:50:45.386983+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/my-maps-sans-robinson/",
+      "snippet": "Y MAPS SANS ROBINSON NEXT FONT N X R V M W G J K U S C T L B Y Z A D F I P CONTACT O Q E H MY MAPS SANS by Andree Paat (2016) For my BA final project I experimented with different virtual tools that have a drawing functi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/my-maps-sans-robinson/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/my-maps-sans-robinson/",
+    "last_modified": null
+  }
+}

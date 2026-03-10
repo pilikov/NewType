@@ -1,0 +1,41 @@
+{
+  "record_id": "proto",
+  "source_url": "https://www.productiontype.com/font/proto",
+  "checked_at": "2026-03-09T01:51:08.141000+00:00",
+  "candidates": [
+    {
+      "date": "2014-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://productiontype.com/font/proto",
+      "snippet": "s Club New York Certificate of excellence 2015 Type Directors Club Tokyo Selection 2015 Hiii Typography Merit Award 优异奖 2014 Typecache best of 2014 Typo365 best of 2014 Typographica's favourite of 2014 Typefacts Best of "
+    },
+    {
+      "date": "2014-07-15",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://productiontype.com/font/proto",
+      "snippet": " Add font to playlist Proto Grotesk Regular Endless Shout Load more Information Design Jean-Baptiste Levée Release Date 2014-07-15 Team Ilya Ruderman Yury Ostromentsky Emilios Theofanous Yoann Minet Hugues Gentile Awards"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://productiontype.com/font/proto",
+      "snippet": "lios Theofanous Yoann Minet Hugues Gentile Awards & distinctions Type Directors Club New York Certificate of excellence 2015 Type Directors Club Tokyo Selection 2015 Hiii Typography Merit Award 优异奖 2014 Typecache best of"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.productiontype.com/font/proto",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://productiontype.com/font/proto",
+    "last_modified": null
+  }
+}

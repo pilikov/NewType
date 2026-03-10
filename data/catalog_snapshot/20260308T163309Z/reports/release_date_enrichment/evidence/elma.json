@@ -1,0 +1,62 @@
+{
+  "record_id": "elma",
+  "source_url": "https://typemates.com/fonts/elma",
+  "checked_at": "2026-03-09T01:38:59.802031+00:00",
+  "candidates": [
+    {
+      "date": "2022-12-01",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typemates.com/fonts/elma",
+      "snippet": "2022-12-01T00:00:00+01:00"
+    },
+    {
+      "date": "2022-12-02",
+      "score": 0.95,
+      "source_type": "jsonld:dateCreated",
+      "source_url": "https://www.typemates.com/fonts/elma",
+      "snippet": "2022-12-02T07:41:25+01:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typemates.com/fonts/elma",
+      "snippet": "2026-03-05T12:05:10+01:00"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/elma",
+      "snippet": "tical contextual\n alternates to make it an instrumental tool for all typographic needs. Designed by Philipp Neumeyer in 2022 Consulting & Help Daria Cohen , Anya Danilova , Jovana Jocic , Ilya Ruderman & Yury Ostromentsk"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/elma",
+      "snippet": "ilova , Jovana Jocic , Ilya Ruderman & Yury Ostromentsky Granshan Award 1st price for the most outstanding Cyrillics of 2023/2024 in the multiscript award competition. Specs 15 styles per family, containing each 5 weight"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/elma",
+      "snippet": " , Jovana Jocic , Ilya Ruderman & Yury Ostromentsky Granshan Award 1st price for the most outstanding Cyrillics of 2023/2024 in the multiscript award competition. Specs 15 styles per family, containing each 5 weights plu"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typemates.com/fonts/elma",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typemates.com/fonts/elma",
+    "last_modified": null
+  }
+}

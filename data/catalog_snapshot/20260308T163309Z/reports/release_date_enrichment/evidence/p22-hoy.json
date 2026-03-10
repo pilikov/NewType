@@ -1,0 +1,27 @@
+{
+  "record_id": "p22-hoy",
+  "source_url": "https://p22.com/fonts/hoy/",
+  "checked_at": "2026-03-09T01:57:58.420099+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/hoy/",
+      "snippet": "J K L M N P R U V W X Y Ì Í Î Ï Ð Ñ Ù Ú Û Ü Ď Đ Ĥ Ħ Ķ Ĺ Ļ Ľ Ł Ń Ņ Ň Ŕ Ŗ Ř Ū Ŭ Ů Ű Ų Fractions 1/2 1/4 1⁄2 1⁄4 3/4 3⁄4 © 2026 The Type Founders, LLC Fonts Designers About Privacy & Cookies Terms of Service Licensing Servi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://p22.com/fonts/hoy/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://p22.com/fonts/hoy/",
+    "last_modified": null
+  }
+}

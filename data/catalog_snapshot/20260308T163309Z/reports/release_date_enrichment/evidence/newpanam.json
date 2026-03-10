@@ -1,0 +1,55 @@
+{
+  "record_id": "newpanam",
+  "source_url": "https://www.swisstypefaces.com/fonts/newpanam",
+  "checked_at": "2026-03-09T01:55:26.055429+00:00",
+  "candidates": [
+    {
+      "date": "2015-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.swisstypefaces.com/fonts/newpanam/",
+      "snippet": " fonts cover a specific language? Consult this page ↦ Download specimen NewPanam in use Selected projects Rurhtriennale 2015 Base Design NewPanam Skyline AFLAM – Rencontres internationales des cinémas arabes 2017 Nicolas"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.swisstypefaces.com/fonts/newpanam/",
+      "snippet": "Selected projects Rurhtriennale 2015 Base Design NewPanam Skyline AFLAM – Rencontres internationales des cinémas arabes 2017 Nicolas Aubert NewPanam Skyline A Shape that Stands Up Designer Unknown NewPanam Skyline, SangB"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.swisstypefaces.com/fonts/newpanam/",
+      "snippet": "nam Alternates A new start Initially part of the NewParis typeface, NewPanam Skyline is taking a little independence in 2019. Instead of complementing a family, it's taking its unique style outside his last collection to"
+    },
+    {
+      "date": "2006-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.swisstypefaces.com/fonts/newpanam/",
+      "snippet": "ndled via credit card Mastercard, VISA, American Express, Discover Network Follow Us Facebook Twitter Instagram In Use ©2006–2026 Swiss Typefaces All rights reserved"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.swisstypefaces.com/fonts/newpanam/",
+      "snippet": " via credit card Mastercard, VISA, American Express, Discover Network Follow Us Facebook Twitter Instagram In Use ©2006–2026 Swiss Typefaces All rights reserved"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.swisstypefaces.com/fonts/newpanam",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.swisstypefaces.com/fonts/newpanam/",
+    "last_modified": null
+  }
+}

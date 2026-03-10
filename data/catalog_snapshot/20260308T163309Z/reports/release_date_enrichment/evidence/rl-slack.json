@@ -1,0 +1,83 @@
+{
+  "record_id": "rl-slack",
+  "source_url": "https://www.regularlines.com/typefaces/rl-slack",
+  "checked_at": "2026-03-09T01:43:42.165767+00:00",
+  "candidates": [
+    {
+      "date": "1994-12-03",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.regularlines.com/rl-slack/",
+      "snippet": "ME PSX) IS A HOME VIDEO GAME CONSOLE DEVELOPED AND MARKETED BY SONY COMPUTER ENTERTAINMENT. IT WAS RELEASED IN JAPAN ON 3 DECEMBER 1994, IN NORTH AMERICA ON 9 SEPTEMBER 1995, IN EUROPE ON 29 SEPTEMBER 1995, AND IN AUSTRA"
+    },
+    {
+      "date": "1995-09-09",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.regularlines.com/rl-slack/",
+      "snippet": "DEVELOPED AND MARKETED BY SONY COMPUTER ENTERTAINMENT. IT WAS RELEASED IN JAPAN ON 3 DECEMBER 1994, IN NORTH AMERICA ON 9 SEPTEMBER 1995, IN EUROPE ON 29 SEPTEMBER 1995, AND IN AUSTRALIA ON 15 NOVEMBER 1995. AS A FIFTH-G"
+    },
+    {
+      "date": "1995-09-29",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.regularlines.com/rl-slack/",
+      "snippet": "COMPUTER ENTERTAINMENT. IT WAS RELEASED IN JAPAN ON 3 DECEMBER 1994, IN NORTH AMERICA ON 9 SEPTEMBER 1995, IN EUROPE ON 29 SEPTEMBER 1995, AND IN AUSTRALIA ON 15 NOVEMBER 1995. AS A FIFTH-GENERATION CONSOLE, THE PLAYSTAT"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.regularlines.com/rl-slack/",
+      "snippet": "ation. Credits Design: Jozef Ondrik Mastering: Matej Vojtuš Classification: Monospace Release: 2024 Latest Update: June 2023 Version: 1.00 Available Formats: OTF, TTF, WOFF, WOFF2 Supported Languages Abenaki, Afaan Oromo"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.regularlines.com/rl-slack/",
+      "snippet": "xel art and digital innovation. Credits Design: Jozef Ondrik Mastering: Matej Vojtuš Classification: Monospace Release: 2024 Latest Update: June 2023 Version: 1.00 Available Formats: OTF, TTF, WOFF, WOFF2 Supported Langu"
+    },
+    {
+      "date": "1995-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.regularlines.com/rl-slack/",
+      "snippet": "e up those stones considered in danger of collapse (Source: BBC) Wip3out typeface designed by The Designers Republic in 1995 Info Crafted using a block-like construction kit, it seamlessly blends classic and modern aesth"
+    },
+    {
+      "date": "1995-11-15",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.regularlines.com/rl-slack/",
+      "snippet": " IN JAPAN ON 3 DECEMBER 1994, IN NORTH AMERICA ON 9 SEPTEMBER 1995, IN EUROPE ON 29 SEPTEMBER 1995, AND IN AUSTRALIA ON 15 NOVEMBER 1995. AS A FIFTH-GENERATION CONSOLE, THE PLAYSTATION PRIMARILY COMPETED WITH THE NINTEND"
+    },
+    {
+      "date": "1996-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.regularlines.com/rl-slack/",
+      "snippet": " from London, all the way to south Wales, stretching across the west of the UK. It opened in 1961, and was completed in 1996. BIM Doing the Math : Analysis of Forces & Other Structures Blocks come in modular sizes, with "
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.regularlines.com/rl-slack/",
+      "snippet": "Mon, 18 Aug 2025 11:27:31 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.regularlines.com/typefaces/rl-slack",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.regularlines.com/rl-slack/",
+    "last_modified": "Mon, 18 Aug 2025 11:27:31 GMT"
+  }
+}

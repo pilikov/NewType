@@ -1,0 +1,41 @@
+{
+  "record_id": "clans",
+  "source_url": "https://typogama.com/fonts/clans",
+  "checked_at": "2026-03-09T01:58:14.024812+00:00",
+  "candidates": [
+    {
+      "date": "2007-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typogama.com/fonts/clans",
+      "snippet": "26.com Download PDF specimen STYLES Regular, Italic FORMATS OTF, WOFF2 Designed by Michael Parson , released in January 2007 LANGUAGE SUPPORT ISO Latin-1 Afrikaans , Albanian , Breton , Catalan , Danish , English , Faroe"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typogama.com/fonts/clans",
+      "snippet": "OGAMA c/o Parson Research\n6 Rue de Fribourg\n1201 Geneva, Switzerland info@typogama.com +41 (0)79 476 22 75 CONTACT US © 2014 - 2026 by Typogama/Parson Research Geneva, Switzerland. All rights reserved TYPOGAMA Subscribe "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typogama.com/fonts/clans",
+      "snippet": "/o Parson Research\n6 Rue de Fribourg\n1201 Geneva, Switzerland info@typogama.com +41 (0)79 476 22 75 CONTACT US © 2014 - 2026 by Typogama/Parson Research Geneva, Switzerland. All rights reserved TYPOGAMA Subscribe to our "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typogama.com/fonts/clans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typogama.com/fonts/clans",
+    "last_modified": null
+  }
+}

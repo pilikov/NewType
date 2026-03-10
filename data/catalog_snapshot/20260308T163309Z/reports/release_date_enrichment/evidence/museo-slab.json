@@ -1,0 +1,48 @@
+{
+  "record_id": "museo-slab",
+  "source_url": "https://www.exljbris.com/museoslab.html",
+  "checked_at": "2026-03-09T01:54:15.545187+00:00",
+  "candidates": [
+    {
+      "date": "2008-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.exljbris.com/museoslab.html",
+      "snippet": " : Fontspring Related links MyFonts Top 10 fonts of 2010 â Museo  Slab got featured MyFonts' Top 10 fonts of 2010. Â© 2008-2021, exljbris Font Foundry | EULA | Extended licensing | contact"
+    },
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.exljbris.com/museoslab.html",
+      "snippet": "ble from: Typekit , Fontspring App Licenses can be purchased through : Fontspring Related links MyFonts Top 10 fonts of 2010 â Museo  Slab got featured MyFonts' Top 10 fonts of 2010. Â© 2008-2021, exljbris Font Foundry"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.exljbris.com/museoslab.html",
+      "snippet": "ntspring Related links MyFonts Top 10 fonts of 2010 â Museo  Slab got featured MyFonts' Top 10 fonts of 2010. Â© 2008-2021, exljbris Font Foundry | EULA | Extended licensing | contact"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.exljbris.com/museoslab.html",
+      "snippet": "Mon, 28 Jun 2021 12:49:48 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.exljbris.com/museoslab.html",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.exljbris.com/museoslab.html",
+    "last_modified": "Mon, 28 Jun 2021 12:49:48 GMT"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "faune",
+  "source_url": "https://frenchtype.com/faune",
+  "checked_at": "2026-03-09T01:45:32.890467+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://frenchtype.com/faune",
+      "snippet": "lice Savoie Font mastering Roxane Gataud Illustrations Marine Rivoal Minisite Yannick Mathey & Julien Barré Released in 2018 Next project ︎ © Alice Savoie 2025 alice@frenchtype.com"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://frenchtype.com/faune",
+      "snippet": "taud Illustrations Marine Rivoal Minisite Yannick Mathey & Julien Barré Released in 2018 Next project ︎ © Alice Savoie 2025 alice@frenchtype.com"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://frenchtype.com/faune",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://frenchtype.com/faune",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "record_id": "filter",
+  "source_url": "https://www.paavolatype.com/typefaces/filter",
+  "checked_at": "2026-03-09T01:45:44.105247+00:00",
+  "candidates": [
+    {
+      "date": "2024-07-15",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.paavolatype.com/filter/",
+      "snippet": "2024-07-15T10:06:52+00:00"
+    },
+    {
+      "date": "2024-07-15",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://www.paavolatype.com/filter/",
+      "snippet": "2024-07-15T10:06:52+00:00"
+    },
+    {
+      "date": "2025-08-18",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.paavolatype.com/filter/",
+      "snippet": "2025-08-18T15:27:56+00:00"
+    },
+    {
+      "date": "2025-08-18",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.paavolatype.com/filter/",
+      "snippet": "2025-08-18T15:27:56+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.paavolatype.com/filter/",
+      "snippet": " and function. Type Testers Character Viewer Licenses Test fonts Privacy Policy Cookie Policy EULA Terms & conditions © 2026 Paavola Type Studio Manage Cookie Consent We use cookies to optimize our website and our servic"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.paavolatype.com/typefaces/filter",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.paavolatype.com/filter/",
+    "last_modified": null
+  }
+}

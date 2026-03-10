@@ -1,0 +1,20 @@
+{
+  "record_id": "geometer",
+  "source_url": "https://metis-foundry.com/typefaces/geometer",
+  "checked_at": "2026-03-09T01:49:43.950336+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://metis-foundry.com/typefaces/geometer",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://metis-foundry.com/geometer/",
+    "last_modified": null
+  }
+}

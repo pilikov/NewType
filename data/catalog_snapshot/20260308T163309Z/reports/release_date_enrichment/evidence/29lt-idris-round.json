@@ -1,0 +1,69 @@
+{
+  "record_id": "29lt-idris-round",
+  "source_url": "https://www.29lt.com/product/29lt-idris-round/",
+  "checked_at": "2026-03-09T01:37:03.174598+00:00",
+  "candidates": [
+    {
+      "date": "2025-10-06",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.29lt.com/product/29lt-idris-round/",
+      "snippet": "2025-10-06T10:30:17+00:00"
+    },
+    {
+      "date": "2000-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.29lt.com/product/29lt-idris-round/",
+      "snippet": "al Zoghbi (Arabic) Linda Hintz (Latin) Krista Radoeva (Latin) Name Meaning Studious / Smart / To Learn Number of Glyphs 2000+ Year Published 2025 Languages Middle Eastern and North African languages written in the Arabic"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.29lt.com/product/29lt-idris-round/",
+      "snippet": "og.29LT.com Contact Us info [at] 29lt [dot] com Social Media Instagram YouTube Facebook X 29Letters Type Foundry S.L. © 2012 – 2026 / All rights\r\n\t\t\t\t\treserved. Partner at Fontstand Available at Type Network"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.29lt.com/product/29lt-idris-round/",
+      "snippet": "nda Hintz (Latin) Krista Radoeva (Latin) Name Meaning Studious / Smart / To Learn Number of Glyphs 2000+ Year Published 2025 Languages Middle Eastern and North African languages written in the Arabic script. Eastern Euro"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.29lt.com/product/29lt-idris-round/",
+      "snippet": ".com Contact Us info [at] 29lt [dot] com Social Media Instagram YouTube Facebook X 29Letters Type Foundry S.L. © 2012 – 2026 / All rights\r\n\t\t\t\t\treserved. Partner at Fontstand Available at Type Network"
+    },
+    {
+      "date": "2025-10-15",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.29lt.com/product/29lt-idris-round/",
+      "snippet": "2025-10-15T13:25:48+00:00"
+    },
+    {
+      "date": "2025-10-15",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.29lt.com/product/29lt-idris-round/",
+      "snippet": "2025-10-15T13:25:48+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.29lt.com/product/29lt-idris-round/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.29lt.com/product/29lt-idris-round/",
+    "last_modified": null
+  }
+}

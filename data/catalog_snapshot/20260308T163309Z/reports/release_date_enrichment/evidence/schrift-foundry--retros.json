@@ -1,0 +1,48 @@
+{
+  "record_id": "schrift-foundry--retros",
+  "source_url": "https://www.schriftfoundry.com/collection/retros",
+  "checked_at": "2026-03-09T01:36:02.279014+00:00",
+  "candidates": [
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.schriftfoundry.com/collection/retros",
+      "snippet": "ersatility to its design. ← A tombstones near Karl Marx’s grave in Highgate Cemetery, London. Photo by Rustam Gabbasov, 2012. AT Ә Ð Ұ ф ў fj g æ ø z ӂ Æ H Ђ УТ ⅞ ③ ⁂ § Uppercase Standard  Latin ABCDEFGHIJKLMNOPQRSTUVWXY"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.schriftfoundry.com/collection/retros",
+      "snippet": "face exclusively for your project. Just drop us a line: info@schriftfoundry.com Francotypographie poster by Max Ilinov, 2023 Brodsky by Kirill Gluschenko, 2012 Struve A true realist in face of typographic anxiety 1 Famil"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.schriftfoundry.com/collection/retros",
+      "snippet": " info@schriftfoundry.com Sign up for updates Your submission has been received! Something went wrong. Try again later © 2025 Schrift Publishers, Inc. Back to Top ↑ Sign up for updates Your submission has been received! S"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.schriftfoundry.com/collection/retros",
+      "snippet": "Fri, 06 Mar 2026 06:44:50 GMT"
+    },
+    {
+      "date": "2026-03-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.schriftfoundry.com/collection/retros",
+      "snippet": "2026-03-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.schriftfoundry.com/collection/retros",
+    "last_modified": "Fri, 06 Mar 2026 06:44:50 GMT"
+  }
+}

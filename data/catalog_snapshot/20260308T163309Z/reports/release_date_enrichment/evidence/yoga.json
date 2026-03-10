@@ -1,0 +1,27 @@
+{
+  "record_id": "yoga",
+  "source_url": "https://www.suvatypefoundry.ee/yoga/",
+  "checked_at": "2026-03-09T01:51:29.336661+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/yoga/",
+      "snippet": "NDRY PREVIOUS FONT YOGA NEXT FONT P W I X S Z V L H U D Y R J E K B M C DOWNLOAD N T A O G F Q YOGA by Elisabeth Juusu (2018) Once when I traveled I stayed in a yoga centre. Inspired by that I made a font out of twisted "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/yoga/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/yoga/",
+    "last_modified": null
+  }
+}

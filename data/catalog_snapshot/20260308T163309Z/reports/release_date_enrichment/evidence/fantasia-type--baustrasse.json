@@ -1,0 +1,27 @@
+{
+  "record_id": "fantasia-type--baustrasse",
+  "source_url": "https://www.fantasia-type.com/",
+  "checked_at": "2026-03-09T02:01:25.049178+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.fantasia-type.com/",
+      "snippet": "pe Size Specimen Try/Buy Fantasia Type is a design/research duo founded by Franziska Weitgruber and Michele Galluzzo in 2020 and based between Milan and Laces (South Tyrol). © 2020 Fantasia Type Instagram Code by: Ilaria"
+    },
+    {
+      "date": "2026-02-15",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.fantasia-type.com/",
+      "snippet": "2026-02-15"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.fantasia-type.com/",
+    "last_modified": null
+  }
+}

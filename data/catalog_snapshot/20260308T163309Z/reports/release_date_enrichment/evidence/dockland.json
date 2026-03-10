@@ -1,0 +1,48 @@
+{
+  "record_id": "dockland",
+  "source_url": "https://typemates.com/fonts/dockland",
+  "checked_at": "2026-03-09T01:38:31.591082+00:00",
+  "candidates": [
+    {
+      "date": "2023-06-28",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typemates.com/fonts/dockland",
+      "snippet": "2023-06-28T16:07:00+02:00"
+    },
+    {
+      "date": "2023-06-28",
+      "score": 0.95,
+      "source_type": "jsonld:dateCreated",
+      "source_url": "https://www.typemates.com/fonts/dockland",
+      "snippet": "2023-06-28T16:06:48+02:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typemates.com/fonts/dockland",
+      "snippet": "2026-03-05T11:57:49+01:00"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/dockland",
+      "snippet": " broad Latin language support, fractions, old style and decimal figures, as well as arrows. Designed by Tom Holloway in 2023 Specs Providing 550 glyphs, 14 styles and 7 weights Format OTF and TTF for desktop and apps, pl"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typemates.com/fonts/dockland",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typemates.com/fonts/dockland",
+    "last_modified": null
+  }
+}

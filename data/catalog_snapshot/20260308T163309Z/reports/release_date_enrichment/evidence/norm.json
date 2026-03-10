@@ -1,0 +1,34 @@
+{
+  "record_id": "norm",
+  "source_url": "https://detail.tf/pages/norm",
+  "checked_at": "2026-03-09T02:00:00.151042+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://detail.tf/pages/norm",
+      "snippet": "P) 私たちについて 新着情報 ご購入方法 お問合せ Legal (JP) ライセンス サービス利用規約 プライバシーポリシー 特定商取引法に基づく表記 Facebook Twitter Instagram Kamimura & Co. ©2021 Kamimura & Co. Inc. Norm Collection A collection of visual studies on the modern grotesque. The"
+    },
+    {
+      "date": "2024-07-29",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://detail.tf/pages/norm",
+      "snippet": "Zabcdefghijklmnopqrstuvwxyz1234567890&!?,.:; View more Developing Norm Norms are subjective, neither stable nor static. July 29, 2024, \n                  \n                    \n                      \n                    \n"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://detail.tf/pages/norm",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://detail.tf/pages/norm",
+    "last_modified": null
+  }
+}

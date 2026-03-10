@@ -1,0 +1,41 @@
+{
+  "record_id": "trim-poster",
+  "source_url": "https://lettersfromsweden.se/font/trim-poster",
+  "checked_at": "2026-03-09T02:02:32.424512+00:00",
+  "candidates": [
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://lettersfromsweden.se/font/trim-poster/",
+      "snippet": " and we’ll send you the old version for free. A Variable version is included when you license the Complete family. Year 2012 Designed by Göran Söderström Script(s) latin Specimen Download Trim Poster PDF Trim Poster Adel"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://lettersfromsweden.se/font/trim-poster/",
+      "snippet": " you can make that headline fit exactly as you want, whether you’re a Swede or not. Trim Poster was updated in December 2016 to include lowercase glyphs and more styles. We renamed the styles in order to reflect this upd"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://lettersfromsweden.se/font/trim-poster/",
+      "snippet": "Mon, 09 Mar 2026 02:02:33 GMT"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://lettersfromsweden.se/font/trim-poster",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://lettersfromsweden.se/font/trim-poster/",
+    "last_modified": "Mon, 09 Mar 2026 02:02:33 GMT"
+  }
+}

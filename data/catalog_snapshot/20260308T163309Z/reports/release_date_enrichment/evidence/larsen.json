@@ -1,0 +1,41 @@
+{
+  "record_id": "larsen",
+  "source_url": "https://domicilefoundry.com/typefaces/larsen",
+  "checked_at": "2026-03-09T01:59:06.143723+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://domicilefoundry.com/typefaces/larsen",
+      "snippet": "che Rondeau Licensing FAQ About Larsen Larsen family 4 styles Bold Condensed Bold Narrow Bold Bold Extended Year 2019â2022 Designer Joona Louhi Pricing Single styles from 54â¬ Family from 108â¬ Licensing â Specimen"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://domicilefoundry.com/typefaces/larsen",
+      "snippet": "EFACES Beltram Beltram Mono Chauffeur Dolph Larsen Louche Rondeau CONTACT Email Instagram Domicile Foundry Copyright Â© 2025"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://domicilefoundry.com/typefaces/larsen",
+      "snippet": "Tue, 02 Dec 2025 08:28:00 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://domicilefoundry.com/typefaces/larsen",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://domicilefoundry.com/typefaces/larsen",
+    "last_modified": "Tue, 02 Dec 2025 08:28:00 GMT"
+  }
+}

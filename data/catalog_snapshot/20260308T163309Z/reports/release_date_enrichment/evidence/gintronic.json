@@ -1,0 +1,41 @@
+{
+  "record_id": "gintronic",
+  "source_url": "https://markfromberg.com/projects/gintronic",
+  "checked_at": "2026-03-09T01:49:48.889889+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://markfromberg.com/projects/gintronic",
+      "snippet": " in - Mono Is The new Black (niggli, Robert Steinmüller). - Yearbook of Type 3 (niggli / slanted) p 144/145 . - Page 03 2020 as the chapter opener about UI and coding fonts. - IdN v26n3 Typeface Design Issue. Download PD"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://markfromberg.com/projects/gintronic",
+      "snippet": "cision makers during the whole design process. Features Gintronic was selected for Typographica’s Favorite Typefaces of 2016 Gintronic can be used as the coding font on CodePen . You need to have an account in order to c"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://markfromberg.com/projects/gintronic",
+      "snippet": "y proceeding you agree to the EULA Related projects: Say Hello: Name * Email * Subject * Message * Send Message    © 2026 by Mark Frömberg “Mark2Mark” Imprint Data Protection"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://markfromberg.com/projects/gintronic",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://markfromberg.com/projects/gintronic",
+    "last_modified": null
+  }
+}

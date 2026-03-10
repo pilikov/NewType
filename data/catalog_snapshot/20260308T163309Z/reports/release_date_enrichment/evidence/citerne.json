@@ -1,0 +1,41 @@
+{
+  "record_id": "citerne",
+  "source_url": "https://feedtype.ca/typefaces/citerne",
+  "checked_at": "2026-03-09T01:43:19.578407+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://feedtype.ca/en/typefaces/citerne/",
+      "snippet": "bruary 2021 Available licenses Desktop, Web, App PDF specimen About Citerne A first version of Citerne was conceived in 2017 as part of the new visual identity for Reservoir, a gourmet brew pub on Montréal’s Duluth Stree"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://feedtype.ca/en/typefaces/citerne/",
+      "snippet": "s From $ 25 Citerne Black Italic Buy Citerne Info Designer Feed Developer Feed Publisher Feedtype Release date February 2021 Available licenses Desktop, Web, App PDF specimen About Citerne A first version of Citerne was "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://feedtype.ca/en/typefaces/citerne/",
+      "snippet": "tesque E/8888 №001 Citerne Hochelaga Guillon Wigrum Vells Mono More Gothic Custom Atelier Mono Ottomono Uno Copyright © 2026, studio Feed inc.\n            All rights reserved Newsletter Feedtype 312-5333 Casgrain AVE Mon"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://feedtype.ca/typefaces/citerne",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://feedtype.ca/en/typefaces/citerne/",
+    "last_modified": null
+  }
+}

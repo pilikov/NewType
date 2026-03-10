@@ -1,0 +1,19 @@
+{
+  "record_id": "housearama",
+  "source_url": "https://housefonts.com/hi/housearama",
+  "checked_at": "2026-03-09T02:02:22.270646+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://housefonts.com/hi/housearama",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "403 Client Error: Forbidden for url: https://housefonts.com/hi/housearama"
+  }
+}

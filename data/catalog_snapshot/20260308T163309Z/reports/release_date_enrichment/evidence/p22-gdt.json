@@ -1,0 +1,41 @@
+{
+  "record_id": "p22-gdt",
+  "source_url": "https://p22.com/fonts/gdt/",
+  "checked_at": "2026-03-09T01:52:59.226410+00:00",
+  "candidates": [
+    {
+      "date": "1994-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/gdt/",
+      "snippet": "de the CAD environment. Included is a chart featuring character names and keyboard placement. Complies with ASME Y14.5M-1994. Updated to include 2009 addition of ‘unilateral’ symbol. Designed by Michael Want Ornament Lan"
+    },
+    {
+      "date": "2009-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/gdt/",
+      "snippet": "ncluded is a chart featuring character names and keyboard placement. Complies with ASME Y14.5M-1994. Updated to include 2009 addition of ‘unilateral’ symbol. Designed by Michael Want Ornament Language Support English Fil"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/gdt/",
+      "snippet": "en Punctuation ( [ { Currency Symbol ¢ $ £ Modifier Symbol ` ^ Math Symbol ∂ + ± ÷ < = > | ~ ∞ ≈ ≥ Other Symbol © ® ™ © 2026 The Type Founders, LLC Fonts Designers About Privacy & Cookies Terms of Service Licensing Servi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://p22.com/fonts/gdt/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://p22.com/fonts/gdt/",
+    "last_modified": null
+  }
+}

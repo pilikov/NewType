@@ -1,0 +1,85 @@
+[
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "source_url": "https://type.today/ru/gregory_text",
+    "name": "Gregory Text",
+    "styles": [
+      "Thin",
+      "Thin Italic",
+      "xLight",
+      "xLight Italic",
+      "Light",
+      "Light Italic",
+      "Regular",
+      "Regular Italic",
+      "Medium",
+      "Medium Italic",
+      "Bold",
+      "Bold Italic",
+      "xBold",
+      "xBold Italic",
+      "Variable",
+      "Variable Italic"
+    ],
+    "authors": [
+      "Серёжа Рассказов",
+      "Георг Триандефиллакас",
+      "TypeMates",
+      "Якоб Рунге"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-03-04",
+    "image_url": "https://cdn-gc.type.today/storage/font/2/281/share_image_ru-FIQuISeYZ1ZPnOf0n2bXlVIV3Q_LFzuyAQ.jpg",
+    "woff_url": "https://cdn-gc.type.today/storage/font_style/3/5/3593/public_file_without_encoding-mPHZVLeQHQdsYepZG4pZSsDPYZYb8cWsYg/GregoryText-Thin-Web.ttf.subset.woff",
+    "specimen_pdf_url": "https://cdn-gc.type.today/storage/font/2/281/specimen-tUL_gFfK5sNwXGpEErSujYmaHmC0Szapew/tt_Gregory.pdf",
+    "discovered_at": "2026-03-07T12:48:28.717346+00:00",
+    "raw": {
+      "journal_post_url": "https://type.today/ru/journal/gregory-text",
+      "journal_post_title": "Новый шрифт: Gregory Text",
+      "journal_post_date": "2026-03-04",
+      "journal_post_slug": "gregory-text",
+      "journal_link_url": "https://type.today/ru/gregory_text"
+    },
+    "release_id": "9fe22cdfde3d03ff"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "source_url": "https://type.today/ru/zhivov",
+    "name": "Zhivov",
+    "styles": [
+      "Super Condensed",
+      "Condensed",
+      "Regular",
+      "Bold",
+      "Black",
+      "Variable"
+    ],
+    "authors": [
+      "Никита Канарёв",
+      "CSTM Fonts",
+      "Юрий Остроменцкий"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "release_date": "2026-01-29",
+    "image_url": "https://cdn-gc.type.today/storage/font/2/267/share_image_ru-Rm041LR59sz5Ag7n9IFkJbFVWyJp8EVyWQ.jpg",
+    "woff_url": "https://cdn-gc.type.today/storage/font_style/3/4/3447/public_file_without_encoding-_dUhki_XCKkNLzO_sO7JIL1107XvojQIQg/Zhivov-SuperCond-Web.ttf.subset.woff",
+    "specimen_pdf_url": "https://cdn-gc.type.today/storage/font/2/267/specimen-VgwbCSQZHEy6LbSJ9nvoEdfiI0SZwOSg6A/tt_Zhivov.pdf",
+    "discovered_at": "2026-03-07T12:48:31.314166+00:00",
+    "raw": {
+      "journal_post_url": "https://type.today/ru/journal/zhivov",
+      "journal_post_title": "Новый шрифт: Zhivov",
+      "journal_post_date": "2026-01-29",
+      "journal_post_slug": "zhivov",
+      "journal_link_url": "https://type.today/ru/zhivov"
+    },
+    "release_id": "19d97c233bfefef0"
+  }
+]

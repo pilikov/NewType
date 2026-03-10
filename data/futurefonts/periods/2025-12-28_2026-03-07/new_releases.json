@@ -1,0 +1,234 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/linda-hintz/sled",
+    "name": "Sled",
+    "styles": [],
+    "authors": [
+      "Linda Hintz"
+    ],
+    "scripts": [],
+    "release_date": "2026-01-27",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/slide/image/37851/medium_Slideshow_Sled_V0.1_.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T12:53:25.409730+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:18338",
+      "activity_id": 18338,
+      "activity_key": "typeface.new_release",
+      "activity_type": "new_release",
+      "activity_type_label": "New Release",
+      "release_kind": "new_release",
+      "is_new_version": false,
+      "version": null,
+      "trackable_type": "Typeface",
+      "trackable_id": 2530
+    },
+    "release_id": "a3342f3e4622b968"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/loveletters/stupid-sans",
+    "name": "Stupid Sans",
+    "styles": [],
+    "authors": [
+      "Love Letters"
+    ],
+    "scripts": [],
+    "release_date": "2026-01-13",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/slide/image/37714/medium_Stupid-Tiles6.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T12:53:25.595615+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:17943",
+      "activity_id": 17943,
+      "activity_key": "typeface.new_release",
+      "activity_type": "new_release",
+      "activity_type_label": "New Release",
+      "release_kind": "new_release",
+      "is_new_version": false,
+      "version": null,
+      "trackable_type": "Typeface",
+      "trackable_id": 2497
+    },
+    "release_id": "2a44571735819c2d"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/loveletters/shoplift-gothic",
+    "name": "Shoplift Gothic",
+    "styles": [],
+    "authors": [
+      "Love Letters"
+    ],
+    "scripts": [],
+    "release_date": "2026-01-13",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/slide/image/37726/medium_Shoplift-V1-Tiles3.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-07T12:53:25.785990+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:17942",
+      "activity_id": 17942,
+      "activity_key": "typeface.new_release",
+      "activity_type": "new_release",
+      "activity_type_label": "New Release",
+      "release_kind": "new_release",
+      "is_new_version": false,
+      "version": null,
+      "trackable_type": "Typeface",
+      "trackable_id": 2464
+    },
+    "release_id": "25f9f40f957d1e7a"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/cstm/zhivov?v=1.0",
+    "name": "Zhivov",
+    "styles": [],
+    "authors": [
+      "CSTM Fonts"
+    ],
+    "scripts": [],
+    "release_date": "2026-01-29",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/61/medium_cover.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/8241/specimenZhivov_v6Finale.pdf",
+    "discovered_at": "2026-03-07T12:53:29.043497+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:18371",
+      "activity_id": 18371,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "1.0",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 8241
+    },
+    "release_id": "44e167713da80d76"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/dualtype/raketa?v=0.8",
+    "name": "Raketa",
+    "styles": [],
+    "authors": [
+      "DualType"
+    ],
+    "scripts": [],
+    "release_date": "2026-01-26",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/428/medium_dualtype-header-100.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/8209/Raketa-v08-Specimen-FutureFonts.pdf",
+    "discovered_at": "2026-03-07T12:53:29.233476+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:18272",
+      "activity_id": 18272,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.8",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 8209
+    },
+    "release_id": "a9247ad7cdbe3fea"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/duong-tran/lavishe?v=0.4",
+    "name": "Lavishe",
+    "styles": [],
+    "authors": [
+      "Dương Trần"
+    ],
+    "scripts": [],
+    "release_date": "2026-01-23",
+    "image_url": "https://assets.futurefonts.com/images/FutureFonts-meta.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/8175/Lavishe_Type-Specimen-0.4.pdf",
+    "discovered_at": "2026-03-07T12:53:29.429884+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:18239",
+      "activity_id": 18239,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.4",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 8175
+    },
+    "release_id": "c689acc5e2794a89"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/overlaptype/boiga?v=0.2",
+    "name": "Boiga",
+    "styles": [],
+    "authors": [
+      "Overlap Type"
+    ],
+    "scripts": [],
+    "release_date": "2026-01-20",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/250/medium_Futurefonts_overlap_header_long.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/8142/Boiga_Specimen_V2.pdf",
+    "discovered_at": "2026-03-07T12:53:29.617557+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:18141",
+      "activity_id": 18141,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.2",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 8142
+    },
+    "release_id": "ff8312919bb21668"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/approximate-type/realm?v=0.8",
+    "name": "Realm",
+    "styles": [],
+    "authors": [
+      "Approximate Type"
+    ],
+    "scripts": [],
+    "release_date": "2026-01-15",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/294/medium_TDAF.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/8109/Realm_Specimen.pdf",
+    "discovered_at": "2026-03-07T12:53:29.799942+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:18041",
+      "activity_id": 18041,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.8",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 8109
+    },
+    "release_id": "63604a8c4a4a3921"
+  }
+]

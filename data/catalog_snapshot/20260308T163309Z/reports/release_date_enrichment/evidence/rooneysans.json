@@ -1,0 +1,27 @@
+{
+  "record_id": "rooneysans",
+  "source_url": "https://janfromm.de/typefaces/rooneysans",
+  "checked_at": "2026-03-09T01:59:04.270300+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://janfromm.de/typefaces/rooneysans/",
+      "snippet": "aces Trial Fonts FAQ Licensing Terms and Contitions Privacy Policy Imprint Contact info(at)thisdomain(.)de Light Dark © 2026 Jan Fromm Only essential cookies are set on my website. During checkout, Stripe may also set co"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://janfromm.de/typefaces/rooneysans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://janfromm.de/typefaces/rooneysans/",
+    "last_modified": null
+  }
+}

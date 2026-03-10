@@ -1,0 +1,41 @@
+{
+  "record_id": "kass",
+  "source_url": "https://cinketype.com/typefaces/kass",
+  "checked_at": "2026-03-09T01:58:06.954249+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cinketype.com/typefaces/kass",
+      "snippet": "ordinary connections between characters. designer Tibor Szikora Tibor Szikora styles 12 Styles glyphs 320 latest update 2024 June version 0.3 letâs create something beautiful together Learn About The Process Get In Tou"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cinketype.com/typefaces/kass",
+      "snippet": " 112 glyphs starts from $79 All rights reserved. designed by cinketype cinketype is a hungarian type design company. Â© 2025 trial fonts custom work Buy me a coffee privacy policy eula pricing model All rights reserved. "
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.cinketype.com/typefaces/kass",
+      "snippet": "Mon, 24 Nov 2025 19:58:20 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://cinketype.com/typefaces/kass",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.cinketype.com/typefaces/kass",
+    "last_modified": "Mon, 24 Nov 2025 19:58:20 GMT"
+  }
+}

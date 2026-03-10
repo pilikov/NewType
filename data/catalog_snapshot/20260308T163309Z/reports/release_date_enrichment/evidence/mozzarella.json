@@ -1,0 +1,27 @@
+{
+  "record_id": "mozzarella",
+  "source_url": "https://www.suvatypefoundry.ee/mozzarella/",
+  "checked_at": "2026-03-09T01:50:20.092830+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/mozzarella/",
+      "snippet": "VIOUS FONT MOZZARELLA NEXT FONT Y J DOWNLOAD Z F S I G C A V W T M X P Q E B N R O U L K H D MOZZARELLA by Stenly Poks (2018) A hommage to the genius who invented cheese. Supervised by Ott Metusala DOWNLOAD When using fo"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/mozzarella/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/mozzarella/",
+    "last_modified": null
+  }
+}

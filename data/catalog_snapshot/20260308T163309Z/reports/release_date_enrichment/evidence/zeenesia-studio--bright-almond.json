@@ -1,0 +1,48 @@
+{
+  "record_id": "zeenesia-studio--bright-almond",
+  "source_url": "https://zeenesia.com/product/bright-almond/",
+  "checked_at": "2026-03-09T01:36:22.095962+00:00",
+  "candidates": [
+    {
+      "date": "2023-09-17",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://zeenesia.com/product/bright-almond/",
+      "snippet": "2023-09-17T09:16:06+00:00"
+    },
+    {
+      "date": "2025-05-25",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://zeenesia.com/product/bright-almond/",
+      "snippet": "2025-05-25T00:01:42+00:00"
+    },
+    {
+      "date": "2025-05-25",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://zeenesia.com/product/bright-almond/",
+      "snippet": "2025-05-25T00:01:42+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://zeenesia.com/product/bright-almond/",
+      "snippet": "ear Bright Almond quantity Add to cart Related products $ 16 Breather $ 16 Caorgen $ 16 Nebulen $ 16 Selaris Copyright ©2025 Zeenesia Studio All Right Reserved Menu Home Shop Serif Fonts Sans Serif Fonts Script Fonts Dis"
+    },
+    {
+      "date": "2026-02-26",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://zeenesia.com/product/bright-almond/",
+      "snippet": "2026-02-26"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://zeenesia.com/product/bright-almond/",
+    "last_modified": null
+  }
+}

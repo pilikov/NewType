@@ -1,0 +1,69 @@
+{
+  "record_id": "jl-limpet-granite",
+  "source_url": "https://j-ltf.com/typeface/jl-limpet-granite",
+  "checked_at": "2026-03-09T01:58:40.430878+00:00",
+  "candidates": [
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://j-ltf.com/shop/",
+      "snippet": "elli Bold € 90 Pirelli Bold quantity Pirelli Bold Italic € 90 Pirelli Bold Italic quantity JL Impact Nieuw Impact Nieuw 2012 € 895 JL Impact Nieuw quantity Impact Nieuw 2012 € 90 Impact Nieuw 2012 quantity Impact Nieuw 2"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://j-ltf.com/shop/",
+      "snippet": "Nieuw 2012 € 90 Impact Nieuw 2012 quantity Impact Nieuw 2012 Italic € 90 Impact Nieuw 2012 Italic quantity Impact Nieuw 2016 € 90 Impact Nieuw 2016 quantity Impact Nieuw 2016 Italic € 90 Impact Nieuw 2016 Italic quantity"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://j-ltf.com/shop/",
+      "snippet": "t Nieuw 2024 Buoyant Italic Impact Nieuw 2024 Buoyant Italic € 90 Impact Nieuw 2024 Buoyant Italic quantity JL Joseleen 2018 Joseleen 2018 Reg € 180 JL Joseleen 2018 quantity Joseleen 2018 Reg € 90 Joseleen 2018 Reg quan"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://j-ltf.com/shop/",
+      "snippet": "Nieuw 2016 € 90 Impact Nieuw 2016 quantity Impact Nieuw 2016 Italic € 90 Impact Nieuw 2016 Italic quantity Impact Nieuw 2019 € 90 Impact Nieuw 2019 quantity Impact Nieuw 2019 Italic € 90 Impact Nieuw 2019 Italic quantity"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://j-ltf.com/shop/",
+      "snippet": "Nieuw 2019 € 90 Impact Nieuw 2019 quantity Impact Nieuw 2019 Italic € 90 Impact Nieuw 2019 Italic quantity Impact Nieuw 2020 € 90 Impact Nieuw 2020 quantity Impact Nieuw 2020 Italic € 90 Impact Nieuw 2020 Italic quantity"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://j-ltf.com/shop/",
+      "snippet": "Nieuw 2020 € 90 Impact Nieuw 2020 quantity Impact Nieuw 2020 Italic € 90 Impact Nieuw 2020 Italic quantity Impact Nieuw 2022 Silver Lining € 180 Impact Nieuw 2022 Silver Lining quantity Impact Nieuw 2024 Buoyant Impact N"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://j-ltf.com/shop/",
+      "snippet": " Nieuw 2020 Italic quantity Impact Nieuw 2022 Silver Lining € 180 Impact Nieuw 2022 Silver Lining quantity Impact Nieuw 2024 Buoyant Impact Nieuw 2024 Buoyant € 90 Impact Nieuw 2024 Buoyant quantity Impact Nieuw 2024 Buo"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://j-ltf.com/typeface/jl-limpet-granite",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://j-ltf.com/shop/",
+    "last_modified": null
+  }
+}

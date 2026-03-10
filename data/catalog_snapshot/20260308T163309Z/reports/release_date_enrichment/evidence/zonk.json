@@ -1,0 +1,41 @@
+{
+  "record_id": "zonk",
+  "source_url": "https://www.centraltype.com/zonk",
+  "checked_at": "2026-03-09T02:00:30.919450+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.centraltype.com/zonk",
+      "snippet": " Type fonts, Zonk is packed with a robust set of diacritics and special characters for thorough language support. YEAR: 2022 DESIGNER: Mark Butchko Styles: 2 Regular, 2 Cond. version: 1.0 SAMPLES Copyright © 2023 Central"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.centraltype.com/zonk",
+      "snippet": "horough language support. YEAR: 2022 DESIGNER: Mark Butchko Styles: 2 Regular, 2 Cond. version: 1.0 SAMPLES Copyright © 2023 Central Type. All rights reserved. Licensing Information"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.centraltype.com/zonk",
+      "snippet": "Thu, 19 Feb 2026 20:28:24 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.centraltype.com/zonk",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.centraltype.com/zonk",
+    "last_modified": "Thu, 19 Feb 2026 20:28:24 GMT"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "eksell-display",
+  "source_url": "https://lettersfromsweden.se/font/eksell-display",
+  "checked_at": "2026-03-09T01:41:18.543653+00:00",
+  "candidates": [
+    {
+      "date": "2007-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://lettersfromsweden.se/font/eksell-display/",
+      "snippet": "ontact us . Eksell Display is a unique typeface from 1962, designed by the legendary swedish designer Olle Eksell (1918–2007). Olle was a prolific artist who couldn’t resist sketching out whatever ideas came to mind. His"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://lettersfromsweden.se/font/eksell-display/",
+      "snippet": "s and developed a family of four optical styles, including a stencil version. Have fun with it, we think Olle did. Year 2015 Designed by Olle Eksell Göran Söderström Krista Radoeva\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t(Cyrillic) George "
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://lettersfromsweden.se/font/eksell-display/",
+      "snippet": "etters look like the work of a graphic designer (without any deep skill in lettering), not a type designer.” Paul Shaw, 2016 Eksell Display Adelia BAZAAR Blåkulla Capitaine Eklips Eksell Display Eksell Sans Ferry Funkis "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://lettersfromsweden.se/font/eksell-display/",
+      "snippet": "Mon, 09 Mar 2026 01:41:20 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://lettersfromsweden.se/font/eksell-display",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://lettersfromsweden.se/font/eksell-display/",
+    "last_modified": "Mon, 09 Mar 2026 01:41:20 GMT"
+  }
+}

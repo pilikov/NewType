@@ -1,0 +1,62 @@
+{
+  "record_id": "spike",
+  "source_url": "https://www.vocaltype.co/history-of/spike",
+  "checked_at": "2026-03-09T01:49:20.965867+00:00",
+  "candidates": [
+    {
+      "date": "2021-11-15",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.vocaltype.co/history-of/spike",
+      "snippet": "2021-11-15T12:11:06-0500"
+    },
+    {
+      "date": "2021-11-15",
+      "score": 0.9,
+      "source_type": "meta:datePublished",
+      "source_url": "https://www.vocaltype.co/history-of/spike",
+      "snippet": "2021-11-15T12:11:06-0500"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.vocaltype.co/history-of/spike",
+      "snippet": "or the book SPIKE by Spike Lee. Aside from the type, I also designed the entire book. In tandem with the release (11.17.2021), I designed VTC Spike, a family with 3 styles. The resulting family is based on the primary he"
+    },
+    {
+      "date": "2023-06-04",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.vocaltype.co/history-of/spike",
+      "snippet": "2023-06-04T20:03:35-0400"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.vocaltype.co/history-of/spike",
+      "snippet": "efaces Custom Design History Progress Information Reach Sign In My Account VTC SPIKE Tre Seals · November 15, 2021 From 2020-2021, I had the honor of designing 5 custom typefaces for the book SPIKE by Spike Lee. Aside fr"
+    },
+    {
+      "date": "2021-11-15",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.vocaltype.co/history-of/spike",
+      "snippet": " Sign In My Account Typefaces Custom Design History Progress Information Reach Sign In My Account VTC SPIKE Tre Seals · November 15, 2021 From 2020-2021, I had the honor of designing 5 custom typefaces for the book SPIKE"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.vocaltype.co/history-of/spike",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.vocaltype.co/history-of/spike",
+    "last_modified": null
+  }
+}

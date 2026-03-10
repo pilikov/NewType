@@ -1,0 +1,34 @@
+{
+  "record_id": "bradley-djr-outline",
+  "source_url": "https://djr.com/notes/bradley-djr-outline-font-of-the-month",
+  "checked_at": "2026-03-09T01:52:45.098485+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/bradley-djr-outline-font-of-the-month",
+      "snippet": "e all posts December 2, 2025 # David Jonathan Ross November’s Font of the Month: Bradley DJR Outline Font of the Month, 2025/11 PDF Try Buy $24 For November, I’m sending you Bradley DJR Outline , a continuation of my Bra"
+    },
+    {
+      "date": "2025-12-02",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/bradley-djr-outline-font-of-the-month",
+      "snippet": "wog Rhody Rustique Slight Chance Tortellini Zenith DJR Club Typeset Glyphs Notes About Sign in Cart Notes See all posts December 2, 2025 # David Jonathan Ross November’s Font of the Month: Bradley DJR Outline Font of the"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://djr.com/notes/bradley-djr-outline-font-of-the-month",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://djr.com/notes/bradley-djr-outline-font-of-the-month",
+    "last_modified": null
+  }
+}

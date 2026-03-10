@@ -1,0 +1,20 @@
+{
+  "record_id": "hermes",
+  "source_url": "https://optimo.ch/typefaces/hermes",
+  "checked_at": "2026-03-09T02:03:00.140483+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://optimo.ch/typefaces/hermes",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://optimo.ch/typefaces/hermes",
+    "last_modified": null
+  }
+}

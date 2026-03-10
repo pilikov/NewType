@@ -1,0 +1,20 @@
+{
+  "record_id": "ott-ornamental-title-type--neuf",
+  "source_url": "https://ott-foundry.com/typefaces/neuf",
+  "checked_at": "2026-03-09T02:01:11.878269+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ott-foundry.com/typefaces/neuf",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ott-foundry.com/typefaces/neuf",
+    "last_modified": null
+  }
+}

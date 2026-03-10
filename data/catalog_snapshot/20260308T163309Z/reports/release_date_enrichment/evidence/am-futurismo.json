@@ -1,0 +1,27 @@
+{
+  "record_id": "am-futurismo",
+  "source_url": "https://www.c-a-s-t.com/typefaces/futurismo/",
+  "checked_at": "2026-03-09T01:39:18.067563+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/am-futurismo/",
+      "snippet": " Swiss German, Taita, Teso, Upper Sorbian, Uzbek (Latin), Volapük, Vunjo, Welsh, Western Frisian, Zulu Production years 2025 Additional info The original Futurismo was released around 1930 by Xilografia Ruggero Zuliani o"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.c-a-s-t.com/typefaces/futurismo/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.c-a-s-t.com/typefaces/am-futurismo/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "record_id": "pragmatapro-fraktur",
+  "source_url": "https://fsd.it/typefaces/pragmatapro-fraktur",
+  "checked_at": "2026-03-09T01:49:32.866307+00:00",
+  "candidates": [
+    {
+      "date": "2023-05-15",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://fsd.it/shop/fonts/pragmatapro-fraktur/",
+      "snippet": "2023-05-15T15:51:08+00:00"
+    },
+    {
+      "date": "2025-04-11",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://fsd.it/shop/fonts/pragmatapro-fraktur/",
+      "snippet": "2025-04-11T08:43:18+00:00"
+    },
+    {
+      "date": "2025-04-11",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://fsd.it/shop/fonts/pragmatapro-fraktur/",
+      "snippet": "2025-04-11T08:43:18+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fsd.it/shop/fonts/pragmatapro-fraktur/",
+      "snippet": "39 Contact Terms and Conditions Privacy and Cookies Shipping policy Refund policy How to protecting the webfont files © 2026 Fabrizio Schiavi. All rights reserved We use cookies on our website to give you the most releva"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://fsd.it/shop/fonts/pragmatapro-fraktur/",
+      "snippet": "Sun, 08 Mar 2026 23:12:38 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fsd.it/typefaces/pragmatapro-fraktur",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fsd.it/shop/fonts/pragmatapro-fraktur/",
+    "last_modified": "Sun, 08 Mar 2026 23:12:38 GMT"
+  }
+}

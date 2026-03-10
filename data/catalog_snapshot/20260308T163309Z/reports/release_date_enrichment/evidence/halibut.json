@@ -1,0 +1,55 @@
+{
+  "record_id": "halibut",
+  "source_url": "https://collletttivo.it/typefaces/halibut",
+  "checked_at": "2026-03-09T01:38:32.230366+00:00",
+  "candidates": [
+    {
+      "date": "2018-11-05",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://www.collletttivo.it/typefaces/halibut",
+      "snippet": "2018-11-05T00:00:00.000Z"
+    },
+    {
+      "date": "2018-11-05",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.collletttivo.it/typefaces/halibut",
+      "snippet": "rves. Details Designed by Matteo Maggi 1 Family , 6 Styles Supports Latin Licensed under SIL Open Font License Released November 5, 2018 Last updated September 26, 2022 Version 3.081 Download Donate to support our Open S"
+    },
+    {
+      "date": "2022-09-26",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.collletttivo.it/typefaces/halibut",
+      "snippet": "eo Maggi 1 Family , 6 Styles Supports Latin Licensed under SIL Open Font License Released November 5, 2018 Last updated September 26, 2022 Version 3.081 Download Donate to support our Open Source font catalogue Colllettt"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.collletttivo.it/typefaces/halibut",
+      "snippet": "ead and agree to the Privacy Policy submit email instagram github twitter Licensing Privacy Policy Newsletter Archive © 2026 Collletttivo Designed by Collletttivo. Developed by Luigi Gorlero ."
+    },
+    {
+      "date": "2022-09-26",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.collletttivo.it/typefaces/halibut",
+      "snippet": "2022-09-26T00:00:00.000Z"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://collletttivo.it/typefaces/halibut",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.collletttivo.it/typefaces/halibut",
+    "last_modified": null
+  }
+}

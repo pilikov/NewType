@@ -1,0 +1,41 @@
+{
+  "record_id": "riant-display",
+  "source_url": "https://www.kontour.com/typefaces/riant-display",
+  "checked_at": "2026-03-09T01:57:52.237377+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://kontour.com/typefaces/riant-display",
+      "snippet": " Styles Light Regular Medium Semibold Bold Inline About Riant Display Designer Sibylle Hagmann Version 1 Year published 2026 Pricing $200.00, starting at $50.00 Formats .otf, .ttf, .woff, variable Riant Display takes cue"
+    },
+    {
+      "date": "2026-02-23",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://kontour.com/typefaces/riant-display",
+      "snippet": "2026-02-23"
+    },
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kontour.com/typefaces/riant-display",
+      "snippet": "ial Fonts Fonts In use Activate on Adobe Fonts Test with Fontstand Type Network ALL RIGHTS RESERVED Kontour Type, LLC © 2000 – 2026 FAQ Licenses Terms & Conditions Contact About + Recognition Social"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.kontour.com/typefaces/riant-display",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://kontour.com/typefaces/riant-display",
+    "last_modified": null
+  }
+}

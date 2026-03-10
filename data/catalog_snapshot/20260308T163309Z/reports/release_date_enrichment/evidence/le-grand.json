@@ -1,0 +1,83 @@
+{
+  "record_id": "le-grand",
+  "source_url": "https://newglyph.com/typefaces/le-grand",
+  "checked_at": "2026-03-09T02:00:11.776590+00:00",
+  "candidates": [
+    {
+      "date": "2025-06-02",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://newglyph.com/typeface/le-grand/",
+      "snippet": "2025-06-02T10:39:57+00:00"
+    },
+    {
+      "date": "2004-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://newglyph.com/typeface/le-grand/",
+      "snippet": "r’s project was a contemporary interpretation of the Romain du Roi, setting the stage for a career-long exploration. In 2004, Ian co-founded B&P Typefoundry, which later evolved into Swiss Typefaces in 2013. Here, he rel"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://newglyph.com/typeface/le-grand/",
+      "snippet": "age for a career-long exploration. In 2004, Ian co-founded B&P Typefoundry, which later evolved into Swiss Typefaces in 2013. Here, he released the initial versions of Romain BP and SangBleu BP (a lighter version of Roma"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://newglyph.com/typeface/le-grand/",
+      "snippet": "c, Versailles, and Sunrise—each reflecting different facets of typographic expression. After selling Swiss Typefaces in 2019, Ian established Newglyph, a new venture allowing him to delve deeper into his typographic purs"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://newglyph.com/typeface/le-grand/",
+      "snippet": "arty Website Art Direction by Dennis Moya Razafimandimby Experience design by Kilian Amendola Web development by Horde ©2026 newglyph"
+    },
+    {
+      "date": "2025-06-04",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://newglyph.com/typeface/le-grand/",
+      "snippet": "2025-06-04T09:05:03+00:00"
+    },
+    {
+      "date": "2025-06-04",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://newglyph.com/typeface/le-grand/",
+      "snippet": "2025-06-04T09:05:03+00:00"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://newglyph.com/typeface/le-grand/",
+      "snippet": "lighter version of Romain BP), a typeface family that drew inspiration from the Romain du Roi’s structural elegance. By 2017, Ian had expanded SangBleu into a comprehensive collection—Empire, Kingdom, Republic, Versaille"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://newglyph.com/typeface/le-grand/",
+      "snippet": "Sun, 08 Mar 2026 19:30:48 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://newglyph.com/typefaces/le-grand",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://newglyph.com/typeface/le-grand/",
+    "last_modified": "Sun, 08 Mar 2026 19:30:48 GMT"
+  }
+}

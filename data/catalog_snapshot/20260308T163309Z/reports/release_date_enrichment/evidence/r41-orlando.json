@@ -1,0 +1,19 @@
+{
+  "record_id": "r41-orlando",
+  "source_url": "https://www.r41.it/en/product-page/orlando",
+  "checked_at": "2026-03-09T01:52:19.633988+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.r41.it/en/product-page/orlando",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "404 Client Error: Not Found for url: https://www.r41.it/en/product-page/orlando"
+  }
+}

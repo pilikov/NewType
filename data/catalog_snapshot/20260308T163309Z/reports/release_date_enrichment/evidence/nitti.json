@@ -1,0 +1,41 @@
+{
+  "record_id": "nitti",
+  "source_url": "https://boldmonday.com/typeface/nitti/",
+  "checked_at": "2026-03-09T01:50:04.830658+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/nitti/",
+      "snippet": "ent discounts Privacy policy Return policy Disclaimer Subscribe to News & Updates Twitter | Facebook | Mail Copyright © 2026 Bold Monday – all rights reserved Made by Unwind"
+    },
+    {
+      "date": "2007-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/nitti/",
+      "snippet": "ean languages and Asian languages that use the Cyrillic script, plus Hebrew. Designers Pieter van Rosmalen Yanek Iontef 2007–2016 Nitti supports the following languages Afrikaans, Albanian, Asu, Azerbaijani, Basque, Bela"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://boldmonday.com/typeface/nitti/",
+      "snippet": "anguages and Asian languages that use the Cyrillic script, plus Hebrew. Designers Pieter van Rosmalen Yanek Iontef 2007–2016 Nitti supports the following languages Afrikaans, Albanian, Asu, Azerbaijani, Basque, Belarusia"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://boldmonday.com/typeface/nitti/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://boldmonday.com/typeface/nitti/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "record_id": "monument-grotesk",
+  "source_url": "https://abcdinamo.com/typefaces/monument-grotesk",
+  "checked_at": "2026-03-09T01:45:20.186742+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://abcdinamo.com/typefaces/monument-grotesk",
+      "snippet": "ver since, the design has served as the studio’s house typeface, and it’s been available to the public via Dinamo since 2018. Featuring honest, unrefined, and idiosyncratic shapes, ABC Monument Grotesk is a distinctively"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://abcdinamo.com/typefaces/monument-grotesk",
+      "snippet": "by Ollie Schaich Studio Dazed magazine, issues #268 and #269. Design by Jamie Reid, Eva Nazarova Buy Monument Grotesk © 2013–2026 Dinamo Typefaces. All rights reserved FAQ Contact Licensing Terms Hardware Terms Privacy &"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://abcdinamo.com/typefaces/monument-grotesk",
+      "snippet": "ληνικά Greek Features Single Story a, 2015 r K a spe r Copy CSS Code .my-text { font-feature-settings: \"ss01\", \"ss02\";} 2014 r Flo r io Copy CSS Code .my-text { font-feature-settings: \"ss03\";} Display Punctuation Heavy “"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://abcdinamo.com/typefaces/monument-grotesk",
+      "snippet": "ry Monument Grotesk Global Monument Grotesk Кириллица Cyrillic Monument Grotesk Ελληνικά Greek Features Single Story a, 2015 r K a spe r Copy CSS Code .my-text { font-feature-settings: \"ss01\", \"ss02\";} 2014 r Flo r io Co"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://abcdinamo.com/typefaces/monument-grotesk",
+      "snippet": "lie Schaich Studio Dazed magazine, issues #268 and #269. Design by Jamie Reid, Eva Nazarova Buy Monument Grotesk © 2013–2026 Dinamo Typefaces. All rights reserved FAQ Contact Licensing Terms Hardware Terms Privacy & Cook"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://abcdinamo.com/typefaces/monument-grotesk",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://abcdinamo.com/typefaces/monument-grotesk",
+    "last_modified": null
+  }
+}

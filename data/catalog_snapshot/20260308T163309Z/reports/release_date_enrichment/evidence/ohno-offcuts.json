@@ -1,0 +1,41 @@
+{
+  "record_id": "ohno-offcuts",
+  "source_url": "https://ohnotype.co/drawer",
+  "checked_at": "2026-03-09T01:50:15.230689+00:00",
+  "candidates": [
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ohnotype.co/drawer",
+      "snippet": "sers 56–85 users 86–125 users 126–175 users 176–275 users 276–400 users 401–550 users 551–725 users 726–1000 users 1001–2000 users 2001–5000 users Add to Cart Ohno Offcuts OH no Standard Extended Latin (All-Caps) × 6 $19"
+    },
+    {
+      "date": "2001-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ohnotype.co/drawer",
+      "snippet": "users 86–125 users 126–175 users 176–275 users 276–400 users 401–550 users 551–725 users 726–1000 users 1001–2000 users 2001–5000 users Add to Cart Ohno Offcuts OH no Standard Extended Latin (All-Caps) × 6 $19 × Twelve O"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ohnotype.co/drawer",
+      "snippet": "tie Polymath Regrets Retail Swear Viktor Script Vulf Yumex Everything Else Instagram Twitter Merch In Use Type School © 2026 OH no Type Company Covik Sans Bold Covik Sans Regular Italic Ohno Blazeface 18 Point Covik Sans"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ohnotype.co/drawer",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ohnotype.co/drawer",
+    "last_modified": null
+  }
+}

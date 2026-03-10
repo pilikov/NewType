@@ -1,0 +1,20 @@
+{
+  "record_id": "scorpione",
+  "source_url": "https://www.futurefonts.com/spaghetype/scorpione",
+  "checked_at": "2026-03-09T01:49:08.055332+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.futurefonts.com/spaghetype/scorpione",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.futurefonts.com/spaghetype/scorpione",
+    "last_modified": null
+  }
+}

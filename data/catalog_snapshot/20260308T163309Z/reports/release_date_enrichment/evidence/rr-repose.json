@@ -1,0 +1,41 @@
+{
+  "record_id": "rr-repose",
+  "source_url": "https://www.contemporarytype.com/fonts/rr-repose",
+  "checked_at": "2026-03-09T02:01:23.207578+00:00",
+  "candidates": [
+    {
+      "date": "2025-02-24",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.contemporarytype.com/fonts/rr-repose",
+      "snippet": "e Prop C RR Repose Quad A RR Repose Quad B RR Repose Quad C arrowLeft arrowRight Item 1 of 5 Foundry: Rüdiger Released: February 24, 2025 Styles: 6 Category: sans-serif Tone: casual Use size: large Width: normal Weight: "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.contemporarytype.com/fonts/rr-repose",
+      "snippet": "me licenses and styles All Fonts Foundries About FAQ Newsletter Terms and Conditions Instagram Privacy Notice Contact © 2026 Contemporary Type LLC We’d appreciate your consent to use statistics cookies to improve this pr"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.contemporarytype.com/fonts/rr-repose",
+      "snippet": "Mon, 09 Mar 2026 02:01:24 GMT"
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.contemporarytype.com/fonts/rr-repose",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.contemporarytype.com/fonts/rr-repose",
+    "last_modified": "Mon, 09 Mar 2026 02:01:24 GMT"
+  }
+}

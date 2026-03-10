@@ -1,0 +1,27 @@
+{
+  "record_id": "x-cicero--antique-serie",
+  "source_url": "https://xcicero.esad-gv.net/page/antiqueserie/",
+  "checked_at": "2026-03-09T01:41:01.539725+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://xcicero.esad-gv.net/page/antiqueserie/",
+      "snippet": "Série, dessiné par Coline Houot et Romain Laurent, à partir d’un caractère de la maison Jacoby & Fils. Version 1.0 (mai 2023) Télécharger la fonte"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://xcicero.esad-gv.net/page/antiqueserie/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://xcicero.esad-gv.net/page/antiqueserie/",
+    "last_modified": null
+  }
+}

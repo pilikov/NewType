@@ -1,0 +1,27 @@
+{
+  "record_id": "bastiro",
+  "source_url": "https://peterroeleveld.com/Bastiro",
+  "checked_at": "2026-03-09T02:01:12.739863+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://peterroeleveld.com/Bastiro",
+      "snippet": "ades, its sharp forms and aggressive posture make it feel fast even at rest . Bastiro Regular & Italic: 362 characters ©2025, Peter Roeleveld, Bastiro End-User License Agreement This an End-User License Agreement (EULA) "
+    },
+    {
+      "date": "2026-02-18",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://peterroeleveld.com/Bastiro",
+      "snippet": "2026-02-18"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://peterroeleveld.com/Bastiro",
+    "last_modified": null
+  }
+}

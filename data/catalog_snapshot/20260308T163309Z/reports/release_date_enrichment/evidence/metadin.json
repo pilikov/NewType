@@ -1,0 +1,48 @@
+{
+  "record_id": "metadin",
+  "source_url": "http://osp.kitchen/foundry/metadin/",
+  "checked_at": "2026-03-09T02:00:19.608285+00:00",
+  "candidates": [
+    {
+      "date": "2013-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/metadin/",
+      "snippet": " 21st April 2013 - 10:21 Pierre Huyghebaert confessed — add some just before to leave the mlp office Sunday, 21st April 2013 - 10:42 Pierre Huyghebaert argued — some leftovers Sunday, 21st April 2013 - 11:17 colm tattled"
+    },
+    {
+      "date": "2007-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/metadin/",
+      "snippet": "ream README.txt text/plain Log Ludi divulged — adding archive pictures from Pierre and Harri adventures in Berlin DIN - 2007 Tuesday, 12th March 2013 - 16:04 Stéphanie Vilayphiou cried — README file: now, let's really be"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/metadin/",
+      "snippet": ". Tuesday, 17th December 2013 - 12:57 colm divulged — CNAP funding showcase and motivation statment. Monday, 17th March 2014 - 10:42 Eric Schrijver interpreted — Starting to add images for dossier CNAP Sunday, 16th March"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/metadin/",
+      "snippet": "014 - 22:46 Stéphanie Vilayphiou unwrapped — changé la manière d'affecter les variables dans grid.mp Friday, 22nd April 2016 - 15:43 Ludi told — worksession at Atelier Bek Sunday, 24th April 2016 - 23:18 Ludi brought out"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://osp.kitchen/foundry/metadin/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "http://osp.kitchen/foundry/metadin/",
+    "last_modified": null
+  }
+}

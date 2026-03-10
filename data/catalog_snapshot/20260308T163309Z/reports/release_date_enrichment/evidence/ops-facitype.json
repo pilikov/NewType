@@ -1,0 +1,55 @@
+{
+  "record_id": "ops-facitype",
+  "source_url": "http://ourpolitesocietytype.net/typefaces/ops-facitype",
+  "checked_at": "2026-03-09T01:56:47.281603+00:00",
+  "candidates": [
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ops-type.com/typefaces/ops-facitype/Text",
+      "snippet": "53. 2. María Ramos Silva, “Type Design for Typewriters: Olivetti”. Dissertation, University of Reading, United Kingdom, 2015. 3. Sue Walker, “Modernity, Method and Minimal Means: Typewriters, Typing Manuals and Document "
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ops-type.com/typefaces/ops-facitype/Text",
+      "snippet": "Typewriters, Typing Manuals and Document Design”. Journal of Design History, Issue 31 (Oxford: Oxford University Press, 2018), pp. 138–153. 2. María Ramos Silva, “Type Design for Typewriters: Olivetti”. Dissertation, Uni"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ops-type.com/typefaces/ops-facitype/Text",
+      "snippet": "nt for insertion into the machine.” ⁹ [...] For the full text, see: Our Polite Society: The FACIT Model (Spector Books, 2019). 1. With few exceptions, such as The American Institute of Physics (AIP) which changed from Mo"
+    },
+    {
+      "date": "2019-03-14",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ops-type.com/typefaces/ops-facitype/Text",
+      "snippet": "ps://typographica.org/on-typography/typewriter-typeface-the-legacy-of-the-writing-machine-in-type-design (last visited: 14 March 2019). 6. Alistair McIntosh, quoted in Sue Walker, “Modernity, Method and Minimal Means: Ty"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ops-type.com/typefaces/ops-facitype/Text",
+      "snippet": "en #4, “90 Keyboards for 102 Countries”. Facit, 1958, pp. 28–29. 8. Ibid. 9. Ibid. text specimen writer Buy Copyright © 2026 OPS Type. All rights reserved."
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://ourpolitesocietytype.net/typefaces/ops-facitype",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ops-type.com/typefaces/ops-facitype/Text",
+    "last_modified": null
+  }
+}

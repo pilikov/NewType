@@ -1,0 +1,20 @@
+{
+  "record_id": "twotone",
+  "source_url": "https://muirmcneil.com/typefaces/twotone",
+  "checked_at": "2026-03-09T02:03:48.026387+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://muirmcneil.com/typefaces/twotone",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://muirmcneil.com/downloads/twotone/",
+    "last_modified": null
+  }
+}

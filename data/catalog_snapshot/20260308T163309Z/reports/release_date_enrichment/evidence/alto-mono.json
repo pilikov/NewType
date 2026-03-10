@@ -1,0 +1,48 @@
+{
+  "record_id": "alto-mono",
+  "source_url": "https://www.typeby.com/fonts/alto-mono",
+  "checked_at": "2026-03-09T01:48:20.431256+00:00",
+  "candidates": [
+    {
+      "date": "2005-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/alto-mono",
+      "snippet": " Information Alto is a sanserif superfamily designed by Thomas Thiemich, commercially released in 2008. Sketched out in 2005, Alto was first used for the design of the 2006-7 semester planner for the Hochschule für Grafi"
+    },
+    {
+      "date": "2006-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/alto-mono",
+      "snippet": "gned by Thomas Thiemich, commercially released in 2008. Sketched out in 2005, Alto was first used for the design of the 2006-7 semester planner for the Hochschule für Grafik und Buchkunst in Leipzig, proving itself as an"
+    },
+    {
+      "date": "2008-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/alto-mono",
+      "snippet": "lyphs Alto Mono Design Information Alto is a sanserif superfamily designed by Thomas Thiemich, commercially released in 2008. Sketched out in 2005, Alto was first used for the design of the 2006-7 semester planner for th"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/alto-mono",
+      "snippet": "mo Remo Stencil Rosalinde Subtil Grotesk Edward Lirico Eva Meran Stan Standing Type Couteau Greco Klub Orly Copyright © 2026 Type By. All Rights Reserved. Information About Licenses Help Terms & conditions of sale Terms "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.typeby.com/fonts/alto-mono",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typeby.com/fonts/alto-mono",
+    "last_modified": null
+  }
+}

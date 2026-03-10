@@ -1,0 +1,27 @@
+{
+  "record_id": "ki",
+  "source_url": "https://minttype.com/ki",
+  "checked_at": "2026-03-09T01:43:53.760071+00:00",
+  "candidates": [
+    {
+      "date": "2020-05-17",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://minttype.com/ki",
+      "snippet": "extensive language support with over 500 glyphs, including Cyrillic. Designed by Andriy Konstantynov First published on May 17, 2020 14 styles 2 free styles €107.10 Add to Cart Buying options Font names Pangrams: Basic L"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://minttype.com/ki",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://minttype.com/ki",
+    "last_modified": null
+  }
+}

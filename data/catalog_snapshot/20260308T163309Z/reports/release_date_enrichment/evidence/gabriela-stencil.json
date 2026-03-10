@@ -1,0 +1,27 @@
+{
+  "record_id": "gabriela-stencil",
+  "source_url": "https://fonts.antoniolechuga.com/typefaces/gabriela-stencil",
+  "checked_at": "2026-03-09T01:46:05.634490+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fonts.antoniolechuga.com/gabriela-stencil/",
+      "snippet": "blishing projects. The family comes in 7 weights, plus a matching italic, and supports 94 different languages. Buy it © 2026 Antonio Mejía Lechuga All Rights Reserved Consulta nuestro aviso de privacidad. EULA – End User"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fonts.antoniolechuga.com/typefaces/gabriela-stencil",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fonts.antoniolechuga.com/gabriela-stencil/",
+    "last_modified": null
+  }
+}

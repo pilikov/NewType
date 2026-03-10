@@ -1,0 +1,20 @@
+{
+  "record_id": "taurus-grotesk",
+  "source_url": "https://www.fostertype.com/retail-type/taurus-grotesk",
+  "checked_at": "2026-03-09T02:01:28.128871+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-15",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.fostertype.com/retail-type/taurus-grotesk",
+      "snippet": "2026-02-15"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.fostertype.com/retail-type/taurus-grotesk",
+    "last_modified": null
+  }
+}

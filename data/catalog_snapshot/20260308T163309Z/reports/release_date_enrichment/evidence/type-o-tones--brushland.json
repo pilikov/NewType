@@ -1,0 +1,27 @@
+{
+  "record_id": "type-o-tones--brushland",
+  "source_url": "https://type-o-tones.com/fonts/brushland",
+  "checked_at": "2026-03-09T01:42:17.952827+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/brushland",
+      "snippet": "onantia, there live the blind texts. by Laura Meseguer Brushland: Special Buying options Author Laura Meseguer Creation 2018 Actual version 2.0 Styles 1 Character sets Basic Latin Latin-1 Supplement License Types Desktop"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://type-o-tones.com/fonts/brushland",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://type-o-tones.com/fonts/brushland",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "outward",
+  "source_url": "https://velvetyne.fr/fonts/outward/",
+  "checked_at": "2026-03-09T02:00:17.401801+00:00",
+  "candidates": [
+    {
+      "date": "2021-03-03",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://velvetyne.fr/fonts/outward/",
+      "snippet": "metric Sans Serif Brutalist Writing systems Latin Cyrillic License SIL Open Font License, Version 1.1 Date Published on March 3, 2021 Outward is a display font family coming in three cuts: Block (regular), Round (italic)"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://velvetyne.fr/fonts/outward/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://velvetyne.fr/fonts/outward/",
+    "last_modified": null
+  }
+}

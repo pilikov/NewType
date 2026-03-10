@@ -1,0 +1,27 @@
+{
+  "record_id": "205tf--le-francois",
+  "source_url": "https://www.205.tf/le-francois",
+  "checked_at": "2026-03-09T01:42:04.765603+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/le-francois",
+      "snippet": "o our newsletter: ▶︎ Follow Us Facebook Instagram LinkedIn Bluesky Typeface Le François Designer Damien Gautier Release 2018 Fonts In Use Specimen Le François is a unique typeface for several reasons. Firstly, it only co"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.205.tf/le-francois",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.205.tf/le-francois",
+    "last_modified": null
+  }
+}

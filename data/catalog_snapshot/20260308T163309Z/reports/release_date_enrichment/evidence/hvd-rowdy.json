@@ -1,0 +1,19 @@
+{
+  "record_id": "hvd-rowdy",
+  "source_url": "https://www.hvdfonts.com/fonts/hvd-rowdy",
+  "checked_at": "2026-03-09T02:01:43.879791+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-10",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.hvdfonts.com/fonts/hvd-rowdy",
+      "snippet": "2026-02-10"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "403 Client Error: Forbidden for url: https://www.hvdfonts.com/fonts/hvd-rowdy"
+  }
+}

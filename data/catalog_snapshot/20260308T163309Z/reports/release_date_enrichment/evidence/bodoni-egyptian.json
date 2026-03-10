@@ -1,0 +1,20 @@
+{
+  "record_id": "bodoni-egyptian",
+  "source_url": "https://shinntype.com/bodoni-egyptian",
+  "checked_at": "2026-03-09T01:52:31.807761+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://shinntype.com/bodoni-egyptian",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://shinntype.com/bodoni-egyptian/",
+    "last_modified": null
+  }
+}

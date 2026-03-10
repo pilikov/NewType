@@ -1,0 +1,34 @@
+{
+  "record_id": "kinetic",
+  "source_url": "https://www.nmtype.com/kinetic/",
+  "checked_at": "2026-03-09T01:47:32.569341+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.nmtype.com/kinetic/",
+      "snippet": "nge of applications which include advertising, editorial design, and any corporate or art project. Script Latin Release 2017 Type design Noel Pretorius & MarÃ­a Ramos Specimen â Download PDF Photo by Carl Kleiner Bookl"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.nmtype.com/kinetic/",
+      "snippet": "Tue, 10 Feb 2026 11:01:24 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.nmtype.com/kinetic/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.nmtype.com/kinetic/",
+    "last_modified": "Tue, 10 Feb 2026 11:01:24 GMT"
+  }
+}

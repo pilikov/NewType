@@ -1,0 +1,27 @@
+{
+  "record_id": "darkmode-mono",
+  "source_url": "https://www.daltonmaag.com/library/darkmode-mono",
+  "checked_at": "2026-03-09T01:43:48.258017+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/darkmode-mono.html",
+      "snippet": "iation Illusion, ensuring consistency regardless of contrast between text and background. Designed and developed\n2022â2024 Designers Eduardo RennÃ³, Matt Burvill, Maria Fontenelle, Diogo Rapazote, Deiverson Ribeiro Wri"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.daltonmaag.com/library/darkmode-mono",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.daltonmaag.com/font-library/darkmode-mono.html",
+    "last_modified": null
+  }
+}

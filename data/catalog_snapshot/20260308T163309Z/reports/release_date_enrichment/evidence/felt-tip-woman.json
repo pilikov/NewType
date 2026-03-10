@@ -1,0 +1,34 @@
+{
+  "record_id": "felt-tip-woman",
+  "source_url": "https://www.marksimonson.com/fonts/view/felt-tip-woman",
+  "checked_at": "2026-03-09T01:55:24.234820+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.marksimonson.com/fonts/view/felt-tip-woman/",
+      "snippet": "turn Policy Connect Contact Me Email Newsletter Instagram X (Twitter) Mastodon Notebook RSS Feed Mark Simonson Studio © 2026 The Type Founders, LLC"
+    },
+    {
+      "date": "2003-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.marksimonson.com/fonts/view/felt-tip-woman/",
+      "snippet": "man | Fonts by Mark Simonson Fonts Notebook Services About Cart Felt Tip Woman Fonts Buy Felt Tip Woman Felt Tip Woman (2003) is based on the handwriting of graphic designer Pat Thompson. The name was inspired by a misun"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.marksimonson.com/fonts/view/felt-tip-woman",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.marksimonson.com/fonts/view/felt-tip-woman/",
+    "last_modified": null
+  }
+}

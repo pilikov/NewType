@@ -1,0 +1,48 @@
+{
+  "record_id": "weymann-serif",
+  "source_url": "https://typemates.com/fonts/weymann-serif",
+  "checked_at": "2026-03-09T01:53:29.605485+00:00",
+  "candidates": [
+    {
+      "date": "2025-11-05",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typemates.com/fonts/weymann-serif",
+      "snippet": "2025-11-05T19:41:00+01:00"
+    },
+    {
+      "date": "2025-11-05",
+      "score": 0.95,
+      "source_type": "jsonld:dateCreated",
+      "source_url": "https://www.typemates.com/fonts/weymann-serif",
+      "snippet": "2025-11-05T19:39:23+01:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typemates.com/fonts/weymann-serif",
+      "snippet": "2026-03-05T11:59:22+01:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/weymann-serif",
+      "snippet": "ctuation, and subscript figures and letters are a natural part of its typographic tool set. Designed by Marc Weymann in 2025 Specs 6 upright, 6 italic, more than 850 glyphs per font Formats otf and ttf for desktop and ap"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typemates.com/fonts/weymann-serif",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typemates.com/fonts/weymann-serif",
+    "last_modified": null
+  }
+}

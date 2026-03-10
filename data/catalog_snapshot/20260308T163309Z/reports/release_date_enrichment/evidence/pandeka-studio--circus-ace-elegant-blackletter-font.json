@@ -1,0 +1,27 @@
+{
+  "record_id": "pandeka-studio--circus-ace-elegant-blackletter-font",
+  "source_url": "https://pandekafoundry.com/product/circus-ace-elegant-blackletter-font/",
+  "checked_at": "2026-03-09T01:36:17.740870+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://pandekafoundry.com/product/circus-ace-elegant-blackletter-font/",
+      "snippet": "and Conditions FAQ Privacy Policy Terms and Conditions Stay up to date with our new fonts! first_name email Subscribe © 2026  Pandeka Studio Add to cart Circus Ace – Elegant Blackletter Font $ 17 × License Type Choose an"
+    },
+    {
+      "date": "2026-02-28",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://pandekafoundry.com/product/circus-ace-elegant-blackletter-font/",
+      "snippet": "2026-02-28"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://pandekafoundry.com/product/circus-ace-elegant-blackletter-font/",
+    "last_modified": null
+  }
+}

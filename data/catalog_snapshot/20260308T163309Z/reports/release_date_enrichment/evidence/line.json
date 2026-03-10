@@ -1,0 +1,41 @@
+{
+  "record_id": "line",
+  "source_url": "https://lettersfromsweden.se/font/line",
+  "checked_at": "2026-03-09T01:48:11.890535+00:00",
+  "candidates": [
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://lettersfromsweden.se/font/line/",
+      "snippet": " views or a custom license? Contact us . Line was originally designed for Swedish fashion and culture magazine Rodeo in 2012 before it was released for commercial use at the end of 2013. Line is designed with Stefania Ma"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://lettersfromsweden.se/font/line/",
+      "snippet": "designed for Swedish fashion and culture magazine Rodeo in 2012 before it was released for commercial use at the end of 2013. Line is designed with Stefania Malmsten and comes in 5 super thin styles. They can be used ind"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://lettersfromsweden.se/font/line/",
+      "snippet": "Mon, 09 Mar 2026 01:48:12 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://lettersfromsweden.se/font/line",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://lettersfromsweden.se/font/line/",
+    "last_modified": "Mon, 09 Mar 2026 01:48:12 GMT"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "record_id": "kante",
+  "source_url": "https://type.design/fonts/kante",
+  "checked_at": "2026-03-09T01:43:45.223888+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://type.design/fonts/kante",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://type.design/fonts/kante",
+    "last_modified": null
+  }
+}

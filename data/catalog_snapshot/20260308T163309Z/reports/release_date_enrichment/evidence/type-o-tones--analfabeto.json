@@ -1,0 +1,34 @@
+{
+  "record_id": "type-o-tones--analfabeto",
+  "source_url": "https://type-o-tones.com/fonts/analfabeto",
+  "checked_at": "2026-03-09T01:52:43.927860+00:00",
+  "candidates": [
+    {
+      "date": "1999-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/analfabeto",
+      "snippet": " options Analfabeto Family Pack 2 Fonts 70 € 56 € Add to cart Regular, Pics Author Flavio Morais , Joan Barjau Creation 1999 Actual version 2 (2007) Styles 2 Character sets Basic Latin Latin-1 Supplement Custom Dingbats "
+    },
+    {
+      "date": "2007-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/analfabeto",
+      "snippet": "ily Pack 2 Fonts 70 € 56 € Add to cart Regular, Pics Author Flavio Morais , Joan Barjau Creation 1999 Actual version 2 (2007) Styles 2 Character sets Basic Latin Latin-1 Supplement Custom Dingbats License Types Desktop, "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://type-o-tones.com/fonts/analfabeto",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://type-o-tones.com/fonts/analfabeto",
+    "last_modified": null
+  }
+}

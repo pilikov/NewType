@@ -1,0 +1,34 @@
+{
+  "record_id": "liebelotte-swell",
+  "source_url": "https://liebefonts.com/fonts/liebelotte-swell",
+  "checked_at": "2026-03-09T01:58:02.731419+00:00",
+  "candidates": [
+    {
+      "date": "2009-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://liebefonts.com/fonts/liebelotte-swell",
+      "snippet": "t’s in the stars! Elegant Music Your Wanderlust bores me LiebeLotte Swell in use: Instagram Impressum Privacy Contact © 2009–2026 Ulrike Rausch & LiebeFonts®"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://liebefonts.com/fonts/liebelotte-swell",
+      "snippet": "n the stars! Elegant Music Your Wanderlust bores me LiebeLotte Swell in use: Instagram Impressum Privacy Contact © 2009–2026 Ulrike Rausch & LiebeFonts®"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://liebefonts.com/fonts/liebelotte-swell",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://liebefonts.com/fonts/liebelotte-swell",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "bf-buffalo",
+  "source_url": "https://brodyfonts.typenetwork.com/typefaces/bf-buffalo",
+  "checked_at": "2026-03-09T02:02:24.305520+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typenetwork.com/type-foundries/brody-fonts",
+      "snippet": ". Facebook Icon Twitter Instagram LinkedIn Fonts Foundries Designers Stories Services About Contact Help People Legal © 2026 Type Network LLC. All rights reserved. Fonts used: Momentum Sans and Quiosco Brody Fonts · Type"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://brodyfonts.typenetwork.com/typefaces/bf-buffalo",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typenetwork.com/type-foundries/brody-fonts",
+    "last_modified": null
+  }
+}

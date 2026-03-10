@@ -1,0 +1,41 @@
+{
+  "record_id": "indoor-kid",
+  "source_url": "https://djr.com/indoor-kid",
+  "checked_at": "2026-03-09T02:04:02.820134+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/indoor-kid-font-of-the-month",
+      "snippet": "r, an advertising and publication designer, and a longtime Font of the Month Club member. He approached me initially in 2020 to see if I could help him develop a font inspired by the comics lettering of his childhood. My"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/indoor-kid-font-of-the-month",
+      "snippet": " Cart Notes See all posts March 31, 2024 # David Jonathan Ross March’s font of the Month: Indoor Kid Font of the Month, 2024/03 PDF Try Comic books were not a big part of my childhood, but they certainly were for Ellis B"
+    },
+    {
+      "date": "2024-03-31",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/indoor-kid-font-of-the-month",
+      "snippet": "wog Rhody Rustique Slight Chance Tortellini Zenith DJR Club Typeset Glyphs Notes About Sign in Cart Notes See all posts March 31, 2024 # David Jonathan Ross March’s font of the Month: Indoor Kid Font of the Month, 2024/0"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://djr.com/indoor-kid",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://djr.com/notes/indoor-kid-font-of-the-month",
+    "last_modified": null
+  }
+}

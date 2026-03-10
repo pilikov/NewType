@@ -1,0 +1,76 @@
+{
+  "record_id": "foundry-journal",
+  "source_url": "https://www.thefoundrytypes.com/typefaces/foundry-journal",
+  "checked_at": "2026-03-09T01:45:53.807723+00:00",
+  "candidates": [
+    {
+      "date": "2020-08-13",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-journal/",
+      "snippet": "2020-08-13T16:07:42+00:00"
+    },
+    {
+      "date": "1995-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-journal/",
+      "snippet": " the use of space. A very readable face made up of deceptively simple forms and legible letters. Originally released in 1995, Foundry Journal was formulated as a reworking of ITC Quay Sans designed earlier for ITC by Dav"
+    },
+    {
+      "date": "2023-08-23",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-journal/",
+      "snippet": "2023-08-23T17:37:54+00:00"
+    },
+    {
+      "date": "2023-08-23",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-journal/",
+      "snippet": "2023-08-23T17:37:54+00:00"
+    },
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-journal/",
+      "snippet": "y Journal Eye and Grafik Ads. Foundry Journal flyer front. In use Zuschnitt – Architecture and timber building magazine 2000. Designed by Atelier Andrea Gassner, using Foundry Journal. Zuschnitt – Architecture and timber"
+    },
+    {
+      "date": "2007-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-journal/",
+      "snippet": "epeats countless near mono-weight stroked letters throughout a large body of the text. Foundry Journal, Grafik 156, Oct 2007, p.78. Foundry Journal flyer front. Foundry Journal flyer back. Foundry Journal flyer front. Fo"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-journal/",
+      "snippet": "AQs Font licensing Privacy policy Account My account Orders Downloads Website by Studio Playne © The Foundry Types 1989–2026 Back to top"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-journal/",
+      "snippet": "Wed, 04 Mar 2026 00:58:11 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.thefoundrytypes.com/typefaces/foundry-journal",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.thefoundrytypes.com/fonts/foundry-journal/",
+    "last_modified": "Wed, 04 Mar 2026 00:58:11 GMT"
+  }
+}

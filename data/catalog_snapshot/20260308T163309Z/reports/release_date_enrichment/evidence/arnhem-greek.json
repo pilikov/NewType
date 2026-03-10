@@ -1,0 +1,34 @@
+{
+  "record_id": "arnhem-greek",
+  "source_url": "https://www.typeby.com/fonts/arnhem-greek",
+  "checked_at": "2026-03-09T01:55:15.980590+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/arnhem-greek",
+      "snippet": "ied as a real Light and is meant to be used in circumstances where a strong colour is not really wanted or required. In 2020 Arnhem text designs were expanded to support Greek and Cyrillic scripts. Arnhem text faces are "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typeby.com/fonts/arnhem-greek",
+      "snippet": "mo Remo Stencil Rosalinde Subtil Grotesk Edward Lirico Eva Meran Stan Standing Type Couteau Greco Klub Orly Copyright © 2026 Type By. All Rights Reserved. Information About Licenses Help Terms & conditions of sale Terms "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.typeby.com/fonts/arnhem-greek",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typeby.com/fonts/arnhem-greek",
+    "last_modified": null
+  }
+}

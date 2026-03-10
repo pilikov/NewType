@@ -1,0 +1,27 @@
+{
+  "record_id": "p22-mayflower-smooth",
+  "source_url": "https://p22.com/fonts/mayflower-smooth/",
+  "checked_at": "2026-03-09T01:51:26.068491+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/mayflower-smooth/",
+      "snippet": "h Ye as is ll s sb sh si sk sl sp ss ssi ssl st ye Stylistic Alternates G H K L N O R X h k v y Swashes a d e m n r t © 2026 The Type Founders, LLC Fonts Designers About Privacy & Cookies Terms of Service Licensing Servi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://p22.com/fonts/mayflower-smooth/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://p22.com/fonts/mayflower-smooth/",
+    "last_modified": null
+  }
+}

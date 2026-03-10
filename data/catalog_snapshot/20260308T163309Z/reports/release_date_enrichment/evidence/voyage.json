@@ -1,0 +1,41 @@
+{
+  "record_id": "voyage",
+  "source_url": "https://vj-type.com/6-voyage",
+  "checked_at": "2026-03-09T01:48:34.105476+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://vj-type.com/6-voyage",
+      "snippet": "B Cyrène Display —\n                                                                    5 weights Bold & Regular Release 2020 new weights 2024 Designer Jérémy Schneider Version 1.0 Specimen PDF License PDF In 2024, we hav"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://vj-type.com/6-voyage",
+      "snippet": "—\n                                                                    5 weights Bold & Regular Release 2020 new weights 2024 Designer Jérémy Schneider Version 1.0 Specimen PDF License PDF In 2024, we have added 3 new wei"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://vj-type.com/6-voyage",
+      "snippet": "efunds Delivery Infos About Prints Contact Font Licences Font Radar Privacy Legals Terms of Use Terms of Sales To top © 2026 VJ TYPE, all rights reserved Site by Troa"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://vj-type.com/6-voyage",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://vj-type.com/6-voyage",
+    "last_modified": null
+  }
+}

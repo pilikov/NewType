@@ -1,0 +1,27 @@
+{
+  "record_id": "kelvin",
+  "source_url": "https://www.205.tf/kelvin",
+  "checked_at": "2026-03-09T01:47:29.286329+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/kelvin",
+      "snippet": "be to our newsletter: ▶︎ Follow Us Facebook Instagram LinkedIn Bluesky Typeface Kelvin Designer Thomas Bouville Release 2019 Fonts In Use Specimen The Kelvin typeface is the culmination of a sensitive thinking around a m"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.205.tf/kelvin",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.205.tf/kelvin",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "plaax",
+  "source_url": "https://www.205.tf/plaax",
+  "checked_at": "2026-03-09T01:51:40.233660+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/plaax",
+      "snippet": "ribe to our newsletter: ▶︎ Follow Us Facebook Instagram LinkedIn Bluesky Typeface Plaax Designer Damien Gautier Release 2019 Fonts In Use Article Specimen Plaax (with an x) is an extension of the typeface Plaak (with a k"
+    },
+    {
+      "date": "2008-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/plaax",
+      "snippet": "1865. Puis, une première vue de Portland s’offre au regard : des champs de canne à sucre d’un vert […] (le Monde, 01/05/2008) En Jamaïque, loin des clubs de vacances, la route « nationale » A4 traverse petits villages et"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.205.tf/plaax",
+      "snippet": "i 20 août les images de vidéosurveillance montrant le moment précis où le pont Morandi s’est […] (Ouest France, 21 août 2018) Effondrement du viaduc à Gênes. Le 14 août, le pont Morandi s’est effondré à Gênes, dans le no"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.205.tf/plaax",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.205.tf/plaax",
+    "last_modified": null
+  }
+}

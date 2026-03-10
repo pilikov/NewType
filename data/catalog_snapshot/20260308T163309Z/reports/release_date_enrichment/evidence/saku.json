@@ -1,0 +1,27 @@
+{
+  "record_id": "saku",
+  "source_url": "https://peterroeleveld.com/saku-2",
+  "checked_at": "2026-03-09T01:53:13.610603+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://peterroeleveld.com/saku-2",
+      "snippet": "(Latin), Volapük, Vunjo, Walser, Western Frisian, Zulu 4 stylistic set 6 ligatures 430 characters Available in 1 style ©2022, Peter Roeleveld, Saku End-User License Agreement This an End-User License Agreement (EULA) bet"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://peterroeleveld.com/saku-2",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://peterroeleveld.com/saku-2",
+    "last_modified": null
+  }
+}

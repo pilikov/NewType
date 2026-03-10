@@ -1,0 +1,34 @@
+{
+  "record_id": "ca-cula-superfat",
+  "source_url": "https://www.cape-arcona.com/typefaces/cula/",
+  "checked_at": "2026-03-09T01:57:38.745748+00:00",
+  "candidates": [
+    {
+      "date": "2002-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.cape-arcona.com/typefaces/cula/",
+      "snippet": "in the font Download PDF Classification Sans Serif Contact / Imprint Order information EULA Newsletter Privacy Policy © 2002 – 2026 by Cape Arcona Type Foundry"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.cape-arcona.com/typefaces/cula/",
+      "snippet": "font Download PDF Classification Sans Serif Contact / Imprint Order information EULA Newsletter Privacy Policy © 2002 – 2026 by Cape Arcona Type Foundry"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.cape-arcona.com/typefaces/cula/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.cape-arcona.com/typefaces/cula/",
+    "last_modified": null
+  }
+}

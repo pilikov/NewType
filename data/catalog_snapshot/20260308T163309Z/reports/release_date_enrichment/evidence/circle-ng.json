@@ -1,0 +1,19 @@
+{
+  "record_id": "circle-ng",
+  "source_url": "contemporarytype.com/fonts/circle-ng",
+  "checked_at": "2026-03-09T01:36:03.076161+00:00",
+  "candidates": [
+    {
+      "date": "2026-03-02",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "contemporarytype.com/fonts/circle-ng",
+      "snippet": "2026-03-02"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "Invalid URL 'contemporarytype.com/fonts/circle-ng': No scheme supplied. Perhaps you meant https://contemporarytype.com/fonts/circle-ng?"
+  }
+}

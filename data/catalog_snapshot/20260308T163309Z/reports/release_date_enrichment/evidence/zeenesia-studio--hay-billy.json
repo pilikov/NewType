@@ -1,0 +1,48 @@
+{
+  "record_id": "zeenesia-studio--hay-billy",
+  "source_url": "https://zeenesia.com/product/hay-billy/",
+  "checked_at": "2026-03-09T01:36:27.255635+00:00",
+  "candidates": [
+    {
+      "date": "2023-07-27",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://zeenesia.com/product/hay-billy/",
+      "snippet": "2023-07-27T02:41:35+00:00"
+    },
+    {
+      "date": "2023-09-17",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://zeenesia.com/product/hay-billy/",
+      "snippet": "2023-09-17T07:29:57+00:00"
+    },
+    {
+      "date": "2023-09-17",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://zeenesia.com/product/hay-billy/",
+      "snippet": "2023-09-17T07:29:57+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://zeenesia.com/product/hay-billy/",
+      "snippet": "tity Add to cart Related products $ 15 Battle Bingo $ 15 Fresh Pineapple $ 16 Metch Bright $ 15 Farm Bluster Copyright ©2025 Zeenesia Studio All Right Reserved Menu Home Shop Serif Fonts Sans Serif Fonts Script Fonts Dis"
+    },
+    {
+      "date": "2026-02-26",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://zeenesia.com/product/hay-billy/",
+      "snippet": "2026-02-26"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://zeenesia.com/product/hay-billy/",
+    "last_modified": null
+  }
+}

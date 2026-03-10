@@ -1,0 +1,55 @@
+{
+  "record_id": "colorful",
+  "source_url": "https://www.vocaltype.co/history-of/colorful",
+  "checked_at": "2026-03-09T01:52:28.781287+00:00",
+  "candidates": [
+    {
+      "date": "2023-03-27",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.vocaltype.co/history-of/colorful",
+      "snippet": "2023-03-27T05:50:41-0400"
+    },
+    {
+      "date": "2023-03-27",
+      "score": 0.9,
+      "source_type": "meta:datePublished",
+      "source_url": "https://www.vocaltype.co/history-of/colorful",
+      "snippet": "2023-03-27T05:50:41-0400"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.vocaltype.co/history-of/colorful",
+      "snippet": "nt Typefaces Custom Design History Progress Information Reach Sign In My Account COLORFUL Tre Seals · March 27, 2023 In 2021, acclaimed designer and artist Rich Tu partnered with The One Club for Creativity , launched CO"
+    },
+    {
+      "date": "2023-03-27",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.vocaltype.co/history-of/colorful",
+      "snippet": "e Sign In My Account Typefaces Custom Design History Progress Information Reach Sign In My Account COLORFUL Tre Seals · March 27, 2023 In 2021, acclaimed designer and artist Rich Tu partnered with The One Club for Creati"
+    },
+    {
+      "date": "2023-06-04",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.vocaltype.co/history-of/colorful",
+      "snippet": "2023-06-04T20:11:36-0400"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.vocaltype.co/history-of/colorful",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.vocaltype.co/history-of/colorful",
+    "last_modified": null
+  }
+}

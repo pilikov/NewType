@@ -1,0 +1,48 @@
+{
+  "record_id": "dunk",
+  "source_url": "https://sportsfonts.com/fonts/dunk",
+  "checked_at": "2026-03-09T01:57:18.464273+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://sportsfonts.com/fonts/dunk",
+      "snippet": "and extended with different weights and styles. Available soon. Information Designer Christoph Koeberlin Styles 20 Year 2025 License Work in progress. Preview fonts and licensing upon request . Tags Work in progress Nume"
+    },
+    {
+      "date": "2025-04-22",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://sportsfonts.com/fonts/dunk",
+      "snippet": "2025-04-22"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sportsfonts.com/fonts/dunk",
+      "snippet": "rts, from no-budget to high-profile. Browse our retail fonts , or get in touch for modifications or custom solutions. © 2016–2026 Sportsfonts / Christoph Koeberlin . Website by Andreas Nymark . No cookies, no tracking, n"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://sportsfonts.com/fonts/dunk",
+      "snippet": "from no-budget to high-profile. Browse our retail fonts , or get in touch for modifications or custom solutions. © 2016–2026 Sportsfonts / Christoph Koeberlin . Website by Andreas Nymark . No cookies, no tracking, no shi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://sportsfonts.com/fonts/dunk",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sportsfonts.com/fonts/dunk",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "writer",
+  "source_url": "https://pangrampangram.com/products/writer",
+  "checked_at": "2026-03-09T01:53:52.681777+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://pangrampangram.com/products/writer",
+      "snippet": "e account Cart 0 Français Don't miss a beat Subscribe to our newsletter to stay in touch with the latest. → Copyright © 2018 – 2026. All rights reserved. ↑ Back to top Pangram Pangram® Foundry Created by Mat Desjardins a"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://pangrampangram.com/products/writer",
+      "snippet": "0 Styles with 744 Glyphs each Including Italic & Text Cuts With Cyrillic Support Version 1.000 Latest update: September 2022 Available formats OTF, TTF, WOFF, WOFF2 Language Support Afrikaans, Basque, Breton, Bulgarian, "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://pangrampangram.com/products/writer",
+      "snippet": "nt Cart 0 Français Don't miss a beat Subscribe to our newsletter to stay in touch with the latest. → Copyright © 2018 – 2026. All rights reserved. ↑ Back to top Pangram Pangram® Foundry Created by Mat Desjardins and the "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://pangrampangram.com/products/writer",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://pangrampangram.com/products/writer",
+    "last_modified": null
+  }
+}

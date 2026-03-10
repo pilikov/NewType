@@ -1,0 +1,62 @@
+{
+  "record_id": "rocher-color",
+  "source_url": "https://www.harbortype.com/typeface/rocher-color",
+  "checked_at": "2026-03-09T01:50:08.742332+00:00",
+  "candidates": [
+    {
+      "date": "2018-09-12",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.harbortype.com/fonts/rocher-color/",
+      "snippet": "2018-09-12T14:04:57+00:00"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.harbortype.com/fonts/rocher-color/",
+      "snippet": "font designed by David Jonathan Ross. Support for COLR/CPAL fonts has grown significantly since it was released back in 2018. Today, Rocher Color works in all modern browsers including Chrome, Firefox, Safari, and Edge, "
+    },
+    {
+      "date": "2025-08-28",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.harbortype.com/fonts/rocher-color/",
+      "snippet": "2025-08-28T01:25:43+00:00"
+    },
+    {
+      "date": "2025-08-28",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.harbortype.com/fonts/rocher-color/",
+      "snippet": "2025-08-28T01:25:43+00:00"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.harbortype.com/fonts/rocher-color/",
+      "snippet": "our download. Harbor Type is an independent type foundry based in Porto Alegre, Brazil. Versão em português Copyright © 2014–2026 Harbor Type. All rights reserved. Fonts Bork Densia Sans Dona Garibaldi Graviola Graviola "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.harbortype.com/fonts/rocher-color/",
+      "snippet": "ownload. Harbor Type is an independent type foundry based in Porto Alegre, Brazil. Versão em português Copyright © 2014–2026 Harbor Type. All rights reserved. Fonts Bork Densia Sans Dona Garibaldi Graviola Graviola Soft "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.harbortype.com/typeface/rocher-color",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.harbortype.com/fonts/rocher-color/",
+    "last_modified": null
+  }
+}

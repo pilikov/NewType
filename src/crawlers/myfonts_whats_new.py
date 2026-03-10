@@ -40,7 +40,8 @@ class MyFontsWhatsNewCrawler:
 
         releases: list[FontRelease] = []
         seen_urls: set[str] = set()
-        seen_source_urls: set[str] = set()  # по collection_url или product url, чтобы не дублировать семью и пакет
+        seen_source_urls: set[str] = set()  # по collection_url или product url
+        seen_family_keys: set[str] = set()  # когда collection не найден — дедуп по нормализованному имени семьи
 
         for page in range(1, max_pages + 1):
             page_url = f"{base_url}/collections/whats-new?page={page}"
@@ -76,6 +77,13 @@ class MyFontsWhatsNewCrawler:
                 source_url = detail.get("source_url") or font_url
                 if source_url in seen_source_urls:
                     continue
+                # Если collection не нашли, один пакет + несколько стилей дают один релиз на семью
+                if not detail.get("collection_url"):
+                    family_key = self._family_key_from_name(detail.get("name") or self._name_from_url(font_url))
+                    if family_key and family_key in seen_family_keys:
+                        continue
+                    if family_key:
+                        seen_family_keys.add(family_key)
                 seen_source_urls.add(source_url)
 
                 raw_payload = {
@@ -132,6 +140,34 @@ class MyFontsWhatsNewCrawler:
             uniq.append(url.rstrip("/"))
         return uniq
 
+    def _family_key_from_name(self, name: str) -> str:
+        """Нормализуем название в ключ семьи для дедупа, когда collection_url не найден."""
+        if not name or not name.strip():
+            return ""
+        key = name.strip().lower()
+        for suffix in (
+            " complete family",
+            " family package",
+            " package",
+            " bundle",
+            " one",
+            " two",
+            " three",
+            " four",
+            " five",
+            " six",
+            " flaca",
+            " fina",
+            " thin",
+            " light",
+            " regular",
+            " bold",
+            " black",
+        ):
+            if key.endswith(suffix):
+                key = key[: -len(suffix)].strip()
+        return key or ""
+
     def _is_package_product(self, font_url: str, name: str) -> bool:
         url_lower = font_url.lower()
         name_lower = (name or "").lower()
@@ -142,9 +178,20 @@ class MyFontsWhatsNewCrawler:
         return False
 
     def _extract_collection_url(self, soup: BeautifulSoup, base_url: str) -> str | None:
+        # Сначала ищем явную ссылку «Back To Family Page» на коллекцию семьи (не foundry)
+        for a in soup.select("a[href]"):
+            href = (a.get("href") or "").strip().strip("'")
+            if not href or "whats-new" in href:
+                continue
+            text = (a.get_text() or "").strip().lower()
+            if "family page" not in text and "back to family" not in text:
+                continue
+            if "/collections/" in href and "foundry" not in href.lower():
+                return urljoin(base_url, href)
+        # Обычные ссылки на /collections/: семья обычно ...-font-...; исключаем foundry
         for a in soup.select("a[href*='/collections/']"):
             href = (a.get("href") or "").strip().strip("'")
-            if "/collections/" not in href or "-font-" not in href:
+            if "/collections/" not in href or "whats-new" in href or "foundry" in href.lower():
                 continue
             return urljoin(base_url, href)
         return None

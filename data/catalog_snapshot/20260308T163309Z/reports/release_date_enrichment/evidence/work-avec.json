@@ -1,0 +1,34 @@
+{
+  "record_id": "work-avec",
+  "source_url": "http://osp.kitchen/foundry/work-avec/",
+  "checked_at": "2026-03-09T01:51:40.300607+00:00",
+  "candidates": [
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/work-avec/",
+      "snippet": "n README.html text/html Log Pierre Huyghebaert sang — Initialisation, readme, sources et fontes Thursday, 19th November 2015 - 13:11 Colm expressed — move folder to UFR structure Friday, 20th October 2017 - 16:33 These p"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/work-avec/",
+      "snippet": "urces et fontes Thursday, 19th November 2015 - 13:11 Colm expressed — move folder to UFR structure Friday, 20th October 2017 - 16:33 These project views are all based on VisualCulture . We welcome you to study these, imp"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://osp.kitchen/foundry/work-avec/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "http://osp.kitchen/foundry/work-avec/",
+    "last_modified": null
+  }
+}

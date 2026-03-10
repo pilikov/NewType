@@ -1,0 +1,19 @@
+{
+  "record_id": "primissima",
+  "source_url": "https://www.muccatypo.com/fonts/primissima",
+  "checked_at": "2026-03-09T01:51:56.535909+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.muccatypo.com/fonts/primissima",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": 500,
+    "error": "HTTP 500"
+  }
+}

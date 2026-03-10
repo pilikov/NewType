@@ -1,0 +1,76 @@
+{
+  "record_id": "colroy-slab-serif",
+  "source_url": "https://nouvellenoire.ch/typefaces/colroy-slab-serif",
+  "checked_at": "2026-03-09T01:36:57.060807+00:00",
+  "candidates": [
+    {
+      "date": "2022-06-02",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://nouvellenoire.ch/product/colroy-slab-serif-typeface/",
+      "snippet": "2022-06-02T07:40:12+00:00"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://nouvellenoire.ch/product/colroy-slab-serif-typeface/",
+      "snippet": "lling. We keep you covered with news of projects and just-released products direct to your inbox. © Nouvelle Noire GmbH 2012–2026 We use cookies on our website to give you the most relevant experience by remembering your"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://nouvellenoire.ch/product/colroy-slab-serif-typeface/",
+      "snippet": "uring the CAS Typedesign at the Zurich University of the Arts, ZHdK and was completed as a font family with six cuts in 2014. In 2022 Colroy was re-released with four new weights and a variable font. To celebrate this jo"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://nouvellenoire.ch/product/colroy-slab-serif-typeface/",
+      "snippet": " &\r\n(Ää Éé Øø) {@©®} [!?“”«»*] ← Colroy Thin Italic Add this weight to Cart Get Trial Font Designer: Marc Droz Release: 2022 Version: 2.0 Microsite: colroy.ch/ Awards: European Design ’15, Bronze Essence’15, Shortlist Sp"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://nouvellenoire.ch/product/colroy-slab-serif-typeface/",
+      "snippet": ". We keep you covered with news of projects and just-released products direct to your inbox. © Nouvelle Noire GmbH 2012–2026 We use cookies on our website to give you the most relevant experience by remembering your pref"
+    },
+    {
+      "date": "2025-11-11",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://nouvellenoire.ch/product/colroy-slab-serif-typeface/",
+      "snippet": "2025-11-11T14:49:03+00:00"
+    },
+    {
+      "date": "2025-11-11",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://nouvellenoire.ch/product/colroy-slab-serif-typeface/",
+      "snippet": "2025-11-11T14:49:03+00:00"
+    },
+    {
+      "date": "2009-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://nouvellenoire.ch/product/colroy-slab-serif-typeface/",
+      "snippet": "erif which stands in the Swiss tradition of strong and somehow understated typefaces. The creation of Colroy started in 2009 during the CAS Typedesign at the Zurich University of the Arts, ZHdK and was completed as a fon"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://nouvellenoire.ch/typefaces/colroy-slab-serif",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://nouvellenoire.ch/product/colroy-slab-serif-typeface/",
+    "last_modified": null
+  }
+}

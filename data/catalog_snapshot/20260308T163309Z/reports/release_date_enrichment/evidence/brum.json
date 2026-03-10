@@ -1,0 +1,41 @@
+{
+  "record_id": "brum",
+  "source_url": "https://hottype.co/fonts/brum",
+  "checked_at": "2026-03-09T01:47:53.563007+00:00",
+  "candidates": [
+    {
+      "date": "2025-02-02",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://hottype.co/fonts/brum",
+      "snippet": "2025-02-02"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://hottype.co/fonts/brum",
+      "snippet": " WIP Test Fonts Projects About Account Brum Buy\n                                    Now Designer: Marko Hrastovec Year: 2025 Update: 01/2025 Styles: 1 Condition: Basic character set A love letter to informal, handwritten"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://hottype.co/fonts/brum",
+      "snippet": "-cuff look. Conceived as a headline typeface, Brum thrives the most when it’s set in a grand and bold format. Buy Now © 2026 HotType Support Crafted by Fran , Zoran & FoundryCore Back to top ↑"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://hottype.co/fonts/brum",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hottype.co/fonts/brum",
+    "last_modified": null
+  }
+}

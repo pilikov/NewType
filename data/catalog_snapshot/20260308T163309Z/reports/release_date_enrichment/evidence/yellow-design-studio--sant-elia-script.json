@@ -1,0 +1,19 @@
+{
+  "record_id": "yellow-design-studio--sant-elia-script",
+  "source_url": "https://yellowdesignstudio.com/typefaces/sant-elia-script",
+  "checked_at": "2026-03-09T01:51:10.034406+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://yellowdesignstudio.com/typefaces/sant-elia-script",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "404 Client Error: Not Found for url: https://yellowdesignstudio.com/typefaces/sant-elia-script"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "dunhill-script",
+  "source_url": "https://liptonletterdesign.com/typefaces/dunhill-script",
+  "checked_at": "2026-03-09T01:47:03.163396+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://liptonletterdesign.com/typefaces/dunhill-script",
+      "snippet": ". Not seeing a license that fits your needs? Curious about custom options?\n      Send an email to [email protected] . © 2026 The Type Founders, LLC Site design by Elliot Jay Stocks Site development by Ian Callaghan Fonts"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://liptonletterdesign.com/typefaces/dunhill-script",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://liptonletterdesign.com/typefaces/dunhill-script",
+    "last_modified": null
+  }
+}

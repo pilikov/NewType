@@ -1,0 +1,27 @@
+{
+  "record_id": "safaritraveller",
+  "source_url": "https://www.suvatypefoundry.ee/safaritraveller/",
+  "checked_at": "2026-03-09T01:59:58.028752+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/safaritraveller/",
+      "snippet": "AFARITRAVELLER NEXT FONT U X E B I D F H O A Y DOWNLOAD J R K T Z C S P W L Q V N M G SAFARITRAVELLER  by Mirjam Varik (2019) The font is inspired by desert, Africa, and traveling around there. Supervised by Jungmyung Le"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/safaritraveller/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/safaritraveller/",
+    "last_modified": null
+  }
+}

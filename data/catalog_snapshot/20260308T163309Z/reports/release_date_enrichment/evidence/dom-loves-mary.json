@@ -1,0 +1,19 @@
+{
+  "record_id": "dom-loves-mary",
+  "source_url": "https://debisementelli.com/typeface/dom-loves-mary",
+  "checked_at": "2026-03-09T01:38:31.618765+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://debisementelli.com/typeface/dom-loves-mary",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='debisementelli.com', port=443): Read timed out. (read timeout=12)"
+  }
+}

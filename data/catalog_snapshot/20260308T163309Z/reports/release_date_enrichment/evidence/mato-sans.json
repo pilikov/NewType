@@ -1,0 +1,27 @@
+{
+  "record_id": "mato-sans",
+  "source_url": "https://capitalics.wtf/font/mato-sans",
+  "checked_at": "2026-03-09T01:51:11.065847+00:00",
+  "candidates": [
+    {
+      "date": "2001-04-02",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://capitalics.wtf/en/font/mato-sans",
+      "snippet": "te something... Mato Sans A quick brown fox jumps over the lazy dog. adhesion Sweet Pomelo qui voluptatibus accusantium 2001-04-02 23:08:58 Solna 71, 42-007 Ilkowice Ryszard Szczepański Style Font Size Tracking styles Th"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://capitalics.wtf/font/mato-sans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://capitalics.wtf/en/font/mato-sans",
+    "last_modified": null
+  }
+}

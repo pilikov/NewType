@@ -1,0 +1,48 @@
+{
+  "record_id": "gt-haptik",
+  "source_url": "https://www.grillitype.com/typefaces/gt-haptik",
+  "checked_at": "2026-03-09T01:54:31.845844+00:00",
+  "candidates": [
+    {
+      "date": "2010-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.grillitype.com/typeface/gt-haptik",
+      "snippet": "lternate characters as well as proportional and tabular figures. Designed by Reto Moser, Tobias Rechsteiner Released in 2010/2014 Available in 21 styles GT Haptik is available for customization and language extensions Do"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.grillitype.com/typeface/gt-haptik",
+      "snippet": "ate characters as well as proportional and tabular figures. Designed by Reto Moser, Tobias Rechsteiner Released in 2010/2014 Available in 21 styles GT Haptik is available for customization and language extensions Downloa"
+    },
+    {
+      "date": "2000-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.grillitype.com/typeface/gt-haptik",
+      "snippet": "GT Haptik’s fonts: SS02 Stylistic alternates C, G CHAGALL SS03 Stylistic alternate R Rembrandt SS04 Alternate zero Year 2000 TNUM Tabular figures 0123456789 Typeface Minisite Visit the GT Haptik minisite to discover more"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.grillitype.com/typeface/gt-haptik",
+      "snippet": "nd design concept. GT Haptik in use Children’s Zine by Kukiyo GT Haptik in use Human Forest GT Haptik in use Typojanchi 2017 GT Haptik in use Kitchen Budapest GT Haptik in use Information About us Custom fonts Retail fon"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.grillitype.com/typefaces/gt-haptik",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.grillitype.com/typeface/gt-haptik",
+    "last_modified": null
+  }
+}

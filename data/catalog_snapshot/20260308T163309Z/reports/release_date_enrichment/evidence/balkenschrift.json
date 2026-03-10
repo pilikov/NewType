@@ -1,0 +1,27 @@
+{
+  "record_id": "balkenschrift",
+  "source_url": "https://nicetotype.jp/typeface/balkenschrift",
+  "checked_at": "2026-03-09T02:02:11.778207+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://nicetotype.jp/",
+      "snippet": "f Service Return Policy Privacy Policy Licence Agreement Site Notice Cookie-Settings Follow nice to type on Instagram © 2026 nice to type – Gabriel Richter"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://nicetotype.jp/typeface/balkenschrift",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://nicetotype.jp/",
+    "last_modified": null
+  }
+}

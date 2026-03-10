@@ -1,0 +1,83 @@
+{
+  "record_id": "bebas-neue",
+  "source_url": "https://fontfabric.com/typefaces/bebas-neue",
+  "checked_at": "2026-03-09T02:02:17.091317+00:00",
+  "candidates": [
+    {
+      "date": "2014-01-14",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.fontfabric.com/fonts/bebas-neue/",
+      "snippet": "2014-01-14T12:00:41+00:00"
+    },
+    {
+      "date": "2005-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/bebas-neue/",
+      "snippet": "opping cart. You can proceed with checkout or pick more fonts and licenses to buy. Checkout About Bebas Neue started in 2005 when Ryoichi Tsunekawa released Bebas as a personal font project. It evolved into Bebas Neue in"
+    },
+    {
+      "date": "2010-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/bebas-neue/",
+      "snippet": "as Neue started in 2005 when Ryoichi Tsunekawa released Bebas as a personal font project. It evolved into Bebas Neue in 2010—a refined all-caps display typeface inspired by 1920s geometric sans-serifs like Futura. In 201"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/bebas-neue/",
+      "snippet": "dy to handle professional typography demands with ease. Release date - Original release 2010; expanded by Fontfabric in 2014; open‑source v2.0 published in 2018 Explore: Sans Serif Fonts , Display Fonts Credits: Ryoichi "
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/bebas-neue/",
+      "snippet": " demands with ease. Release date - Original release 2010; expanded by Fontfabric in 2014; open‑source v2.0 published in 2018 Explore: Sans Serif Fonts , Display Fonts Credits: Ryoichi Tsunekawa Similar fonts Ways 21 font"
+    },
+    {
+      "date": "2025-10-20",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.fontfabric.com/fonts/bebas-neue/",
+      "snippet": "2025-10-20T11:17:00+00:00"
+    },
+    {
+      "date": "2025-10-20",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.fontfabric.com/fonts/bebas-neue/",
+      "snippet": "2025-10-20T11:17:00+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.fontfabric.com/fonts/bebas-neue/",
+      "snippet": "pt fonts Font sale Free fonts Fonts in use Font collections Legal Infringements About Help Blog Partnerships Contact us 2026 © Fontfabric llc. Privacy Notice Manage Cookies"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.fontfabric.com/fonts/bebas-neue/",
+      "snippet": "Mon, 09 Mar 2026 01:15:47 GMT"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fontfabric.com/typefaces/bebas-neue",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.fontfabric.com/fonts/bebas-neue/",
+    "last_modified": "Mon, 09 Mar 2026 01:15:47 GMT"
+  }
+}

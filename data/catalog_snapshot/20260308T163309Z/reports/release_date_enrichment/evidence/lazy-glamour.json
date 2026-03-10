@@ -1,0 +1,27 @@
+{
+  "record_id": "lazy-glamour",
+  "source_url": "https://www.suvatypefoundry.ee/lazy-glamour/",
+  "checked_at": "2026-03-09T01:57:48.129806+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/lazy-glamour/",
+      "snippet": "US FONT LAZY GLAMOUR NEXT FONT D P G K X F S C Z W L E N R H Y V A O DOWNLOAD M Q U B J I T LAZY GLAMOUR by Nora Pelšs (2020) A glamorous font that’s essence is to look a little bit out of place and wonky. Supervised by "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/lazy-glamour/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/lazy-glamour/",
+    "last_modified": null
+  }
+}

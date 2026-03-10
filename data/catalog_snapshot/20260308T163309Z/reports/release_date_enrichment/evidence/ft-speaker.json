@@ -1,0 +1,27 @@
+{
+  "record_id": "ft-speaker",
+  "source_url": "https://formulatype.com/ft-speaker",
+  "checked_at": "2026-03-09T01:39:37.859999+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://formulatype.com/ft-speaker",
+      "snippet": "ht, a Mono Regular version and a Mono Screen, which is built on a 7 x 7 dot grid. Information ⮝ Version: 1.000\nYear(s): 2025\nDesigner: Piero Di Biase\nSpacing and kerning: Alberto Malossi\nMastering: Alberto Malossi\nGlyphs"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://formulatype.com/ft-speaker",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://formulatype.com/ft-speaker",
+    "last_modified": null
+  }
+}

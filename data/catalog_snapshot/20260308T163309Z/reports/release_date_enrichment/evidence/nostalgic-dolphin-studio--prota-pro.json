@@ -1,0 +1,55 @@
+{
+  "record_id": "nostalgic-dolphin-studio--prota-pro",
+  "source_url": "https://nostalgicdolphin.com/font-prota-pro/",
+  "checked_at": "2026-03-09T01:36:16.300435+00:00",
+  "candidates": [
+    {
+      "date": "2024-02-27",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://nostalgicdolphin.com/font-prota-pro/",
+      "snippet": "2024-02-27T12:06:20+00:00"
+    },
+    {
+      "date": "2024-02-27",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://nostalgicdolphin.com/font-prota-pro/",
+      "snippet": "2024-02-27T12:06:20+00:00"
+    },
+    {
+      "date": "2025-10-30",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://nostalgicdolphin.com/font-prota-pro/",
+      "snippet": "2025-10-30T18:40:24+00:00"
+    },
+    {
+      "date": "2025-10-30",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://nostalgicdolphin.com/font-prota-pro/",
+      "snippet": "2025-10-30T18:40:24+00:00"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://nostalgicdolphin.com/font-prota-pro/",
+      "snippet": "se enable JavaScript in your browser to complete this form. Email * SUBSCRIBE FONT LICENSING PRIVACY POLICY Copyright © 2024 Nostalgic Dolphin. All rights reserved."
+    },
+    {
+      "date": "2026-03-01",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://nostalgicdolphin.com/font-prota-pro/",
+      "snippet": "2026-03-01"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://nostalgicdolphin.com/font-prota-pro/",
+    "last_modified": null
+  }
+}

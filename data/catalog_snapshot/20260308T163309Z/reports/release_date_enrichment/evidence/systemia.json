@@ -1,0 +1,27 @@
+{
+  "record_id": "systemia",
+  "source_url": "https://peregrinstudio.com/typefaces/systemia",
+  "checked_at": "2026-03-09T01:47:59.911864+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://peregrinstudio.com/work/systemia",
+      "snippet": "ography & design. Typefaces Denton Systemia﻿ Information Trial Fonts Licenses Privacy Policy﻿ About Social Instagram ©  2026"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://peregrinstudio.com/typefaces/systemia",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://peregrinstudio.com/work/systemia",
+    "last_modified": null
+  }
+}

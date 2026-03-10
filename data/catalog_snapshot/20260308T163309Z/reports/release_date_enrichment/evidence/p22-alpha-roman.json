@@ -1,0 +1,27 @@
+{
+  "record_id": "p22-alpha-roman",
+  "source_url": "https://p22.com/fonts/alpha-roman/",
+  "checked_at": "2026-03-09T01:46:29.246347+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://p22.com/fonts/alpha-roman/",
+      "snippet": "Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö Ø Ù Ú Û Ü Ý Þ Ā Ă Ą Ć Ĉ Ċ Č Ď Đ Ē Ĕ Ė Ę Ě Ĝ Ğ Ġ Ģ Ĥ Ħ Ĩ Ī Į İ Ĳ Ĵ Ķ Ĺ Ļ Ľ Ŀ Ł Ń Ņ Ň Ŋ Ō Ŏ Ő © 2026 The Type Founders, LLC Fonts Designers About Privacy & Cookies Terms of Service Licensing Servi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://p22.com/fonts/alpha-roman/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://p22.com/fonts/alpha-roman/",
+    "last_modified": null
+  }
+}

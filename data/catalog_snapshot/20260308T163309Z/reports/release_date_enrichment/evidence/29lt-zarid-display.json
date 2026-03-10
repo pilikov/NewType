@@ -1,0 +1,69 @@
+{
+  "record_id": "29lt-zarid-display",
+  "source_url": "https://www.29lt.com/product/29lt-zarid-display/",
+  "checked_at": "2026-03-09T01:37:48.956952+00:00",
+  "candidates": [
+    {
+      "date": "2019-11-20",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-display/",
+      "snippet": "2019-11-20T16:19:37+00:00"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-display/",
+      "snippet": "og.29LT.com Contact Us info [at] 29lt [dot] com Social Media Instagram YouTube Facebook X 29Letters Type Foundry S.L. © 2012 – 2026 / All rights\r\n\t\t\t\t\treserved. Partner at Fontstand Available at Type Network"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-display/",
+      "snippet": "amiro Espinoza (Latin) Pascal Zoghbi (Arabic) Name Meaning Strong / Robust / Bold Number of Glyphs 1800+ Year Published 2019 Awards 11th GRANSHAN Type Design Competition 2019 / 2nd Prize 23rd TDC Typeface Design Competit"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-display/",
+      "snippet": " Year Published 2019 Awards 11th GRANSHAN Type Design Competition 2019 / 2nd Prize 23rd TDC Typeface Design Competition 2020 Typographic Excellence Languages Middle Eastern and North African languages written in the Arab"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-display/",
+      "snippet": ".com Contact Us info [at] 29lt [dot] com Social Media Instagram YouTube Facebook X 29Letters Type Foundry S.L. © 2012 – 2026 / All rights\r\n\t\t\t\t\treserved. Partner at Fontstand Available at Type Network"
+    },
+    {
+      "date": "2025-10-20",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-display/",
+      "snippet": "2025-10-20T11:09:10+00:00"
+    },
+    {
+      "date": "2025-10-20",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-display/",
+      "snippet": "2025-10-20T11:09:10+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-display/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.29lt.com/product/29lt-zarid-display/",
+    "last_modified": null
+  }
+}

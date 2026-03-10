@@ -1,0 +1,41 @@
+{
+  "record_id": "pouf",
+  "source_url": "https://www.lindahintz.com/pouf",
+  "checked_at": "2026-03-09T01:43:42.680048+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.lindahintz.com/pouf",
+      "snippet": "tarted somewhere in the Bermuda Triangle of Erwin Wurm’s Fat cars , old woodtype specimen, and the then – we’re talking 2017, it has been some time – brand new possibility of animating variable fonts. It's named after an"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.lindahintz.com/pouf",
+      "snippet": "ureFonts , the most awesome platform and team for this kind of endeavour. Pouf Retail typeface on FutureFonts Published 2022 / Updates ongoing ← →"
+    },
+    {
+      "date": "2026-01-26",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://www.lindahintz.com/pouf",
+      "snippet": "2026-01-26"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.lindahintz.com/pouf",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.lindahintz.com/pouf",
+    "last_modified": null
+  }
+}

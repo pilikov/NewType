@@ -1,0 +1,48 @@
+{
+  "record_id": "kaito-sans",
+  "source_url": "https://kobufoundry.com/typefaces/kaito-sans",
+  "checked_at": "2026-03-09T01:44:20.820626+00:00",
+  "candidates": [
+    {
+      "date": "2019-11-25",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.kobufoundry.com/fonts/kaito-sans/",
+      "snippet": "2019-11-25T12:51:38+00:00"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.kobufoundry.com/fonts/kaito-sans/",
+      "snippet": "ons Create tales to spur imagination with typefaces that tell stories. Enjoy! Designer: Brígida Guerreiro Release Date: 2019 buying options Kaito ® Sans Kaito® Sans is a typographic family which includes three different "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.kobufoundry.com/fonts/kaito-sans/",
+      "snippet": " article Account Log In Register Help Contact FAQ Font Licenses Terms & Conditions Privacy Policy join our newsletter © 2026. All rights reserved kobu.agency"
+    },
+    {
+      "date": "2020-08-26",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.kobufoundry.com/fonts/kaito-sans/",
+      "snippet": "2020-08-26T09:31:41+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://kobufoundry.com/typefaces/kaito-sans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.kobufoundry.com/fonts/kaito-sans/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "colossus",
+  "source_url": "https://fonts.antoniolechuga.com/typefaces/colossus",
+  "checked_at": "2026-03-09T01:50:06.672688+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fonts.antoniolechuga.com/colossus/",
+      "snippet": " the right visual texture for different parts of the design, whether you’re working on headlines or body text. Buy it © 2026 Antonio Mejía Lechuga All Rights Reserved Consulta nuestro aviso de privacidad. EULA – End User"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fonts.antoniolechuga.com/typefaces/colossus",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fonts.antoniolechuga.com/colossus/",
+    "last_modified": null
+  }
+}

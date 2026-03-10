@@ -1,0 +1,48 @@
+{
+  "record_id": "eskander",
+  "source_url": "https://protype.studio/eskander",
+  "checked_at": "2026-03-09T01:55:58.141903+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://protype.studio/eskander",
+      "snippet": "s, supported languages (Arabic, Persian and Urdu). Eskander is a trademark of Protype Foundry Ltd. â Eskander Release 2021 Weights 7 Weights (Light, Regular, Medium, Semi-Bold, Bold, Extra-Bold, Heavy) Supported Langua"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://protype.studio/eskander",
+      "snippet": "PEFACES KHAREEF ZAEL SIWA ESKANDER LAVAH PRO CUSTOM LICENSES ABOUT CONTACT Store Eskander the first version designed at 2018, and re-designed at 2021. Eskander typeface family comprises 7 weights, ranging from Light to H"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://protype.studio/eskander",
+      "snippet": " Siwa 9 Weights FEATURED TYPEFACES Check out more typefaces. Khareef Zael 9 Weights 1 Style Siwa 9 Weights Copyright Â© 2023 â Protype Foundry. TYPEFACES INFO Get In Touch Bespoke Zael Eskander Siwa WW3 Arabic Sary App"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://protype.studio/eskander",
+      "snippet": "Mon, 19 Jan 2026 22:44:46 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://protype.studio/eskander",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://protype.studio/eskander",
+    "last_modified": "Mon, 19 Jan 2026 22:44:46 GMT"
+  }
+}

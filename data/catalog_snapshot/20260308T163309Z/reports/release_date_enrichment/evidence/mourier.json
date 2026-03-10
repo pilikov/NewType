@@ -1,0 +1,55 @@
+{
+  "record_id": "mourier",
+  "source_url": "https://velvetyne.fr/fonts/mourier/",
+  "checked_at": "2026-03-09T01:57:32.565009+00:00",
+  "candidates": [
+    {
+      "date": "2011-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://velvetyne.fr/fonts/mourier/",
+      "snippet": "s original designer (thanks to him), which was afterwards published as part of the Velvetyne Type Foundry collection in 2011. Then, in 2020, Ukraininan designer Alex Ash (Alexander Kondratenko) proposed a Cyrillic alphab"
+    },
+    {
+      "date": "2017-09-25",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://velvetyne.fr/fonts/mourier/",
+      "snippet": "onospace Brutalist Writing systems Latin Cyrillic License SIL Open Font License, Version 1.1 Date Initialy published on September 25, 2017 and updated on August 23, 2020 Mourier is a geometric alphabet designed by Eric M"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://velvetyne.fr/fonts/mourier/",
+      "snippet": "gner (thanks to him), which was afterwards published as part of the Velvetyne Type Foundry collection in 2011. Then, in 2020, Ukraininan designer Alex Ash (Alexander Kondratenko) proposed a Cyrillic alphabet expansion of"
+    },
+    {
+      "date": "2020-08-23",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://velvetyne.fr/fonts/mourier/",
+      "snippet": " Latin Cyrillic License SIL Open Font License, Version 1.1 Date Initialy published on September 25, 2017 and updated on August 23, 2020 Mourier is a geometric alphabet designed by Eric Mourier in 1971 following a strict "
+    },
+    {
+      "date": "2002-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://velvetyne.fr/fonts/mourier/",
+      "snippet": " font was on the booklet \"The Myth about Bird B\", a leporello design by Mourier and written by Knud Holten (a poet). In 2002, Sébastien Hayez adapted the typeface as a digital font, with the approval of its original desi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://velvetyne.fr/fonts/mourier/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://velvetyne.fr/fonts/mourier/",
+    "last_modified": null
+  }
+}

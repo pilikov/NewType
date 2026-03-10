@@ -1,0 +1,48 @@
+{
+  "record_id": "cyreal--podkova",
+  "source_url": "https://www.cyreal.org/fonts/podkova",
+  "checked_at": "2026-03-09T01:36:04.488118+00:00",
+  "candidates": [
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/podkova/",
+      "snippet": "usual letterforms provide enough character to be useful for display typography too. Initially designed by Ilya Yudin in 2010, it was carefully refined and expanded by Alexei Vanyashin into a wider range of weights (that "
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/podkova/",
+      "snippet": "d and expanded by Alexei Vanyashin into a wider range of weights (that made the bold style a little lighter) in January 2017. In September 2019, the family is now a variable font. To contribute, see github.com/cyrealtype"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/podkova/",
+      "snippet": "lexei Vanyashin into a wider range of weights (that made the bold style a little lighter) in January 2017. In September 2019, the family is now a variable font. To contribute, see github.com/cyrealtype/Podkova. Podkova P"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/podkova/",
+      "snippet": "2 Variable 1 font TTF, woff2 Download Donate Source Files Authors: Ilya Yudin Tags: Slab Scripts: Latin Cyrillic © 2010–2026 Cyreal and respective authors. All rights reserved. This site uses cookies (including Google An"
+    },
+    {
+      "date": "2026-03-02",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.cyreal.org/fonts/podkova",
+      "snippet": "2026-03-02"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.cyreal.org/fonts/podkova/",
+    "last_modified": null
+  }
+}

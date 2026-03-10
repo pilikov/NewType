@@ -1,0 +1,19 @@
+{
+  "record_id": "dtl-documenta-sans",
+  "source_url": "https://www.dutchtypelibrary.nl/DTLDocumenta.html",
+  "checked_at": "2026-03-09T01:37:21.178086+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.dutchtypelibrary.nl/DTLDocumenta.html",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='www.dutchtypelibrary.nl', port=443): Max retries exceeded with url: /DTLDocumenta.html (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)')))"
+  }
+}

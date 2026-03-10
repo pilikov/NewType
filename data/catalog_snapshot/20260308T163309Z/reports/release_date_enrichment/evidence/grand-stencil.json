@@ -1,0 +1,27 @@
+{
+  "record_id": "grand-stencil",
+  "source_url": "https://a2-type.co.uk/grand",
+  "checked_at": "2026-03-09T01:52:08.377967+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/grand",
+      "snippet": "en, Upper Sorbian, Vunjo, Walloon, Walser, Welsh, Wolof, Xhosa, Zulu Manufacturer: A2-TYPE Designer: Henrik Kubel Year: 2016 Copyright: © A2-TYPE Trademark: Grand Stencil is a trademark of A2-TYPE Licence: Terms and cond"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://a2-type.co.uk/grand",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://a2-type.co.uk/grand",
+    "last_modified": null
+  }
+}

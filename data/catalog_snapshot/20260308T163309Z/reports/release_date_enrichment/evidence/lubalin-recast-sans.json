@@ -1,0 +1,27 @@
+{
+  "record_id": "lubalin-recast-sans",
+  "source_url": "https://www.daltonmaag.com/library/lubalin-recast-sans",
+  "checked_at": "2026-03-09T01:52:05.650879+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/lubalin-recast-sans.html",
+      "snippet": " features an extensive Weight axis and restores the designâs unusual ligatures and alternates. Designed and developed\n2024 Designers Yingtong Tan, Angel Kwong Writing Systems Latin Supporting over 800\nLanguages Aari (L"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.daltonmaag.com/library/lubalin-recast-sans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.daltonmaag.com/font-library/lubalin-recast-sans.html",
+    "last_modified": null
+  }
+}

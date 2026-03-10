@@ -1,0 +1,34 @@
+{
+  "record_id": "experimo",
+  "source_url": "https://r9typedesign.com/experimo",
+  "checked_at": "2026-03-09T01:53:55.488524+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://r9typedesign.com/experimo-features-specimen",
+      "snippet": "arn more about Experimo™ Love this! Let's buy Experimo™ FAQ Licensing Terms (EULA) Get Free Demo Fonts Contact dulgen © 2016-2025 Tana Kosiyabong & R9 Type+Design"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://r9typedesign.com/experimo-features-specimen",
+      "snippet": "ore about Experimo™ Love this! Let's buy Experimo™ FAQ Licensing Terms (EULA) Get Free Demo Fonts Contact dulgen © 2016-2025 Tana Kosiyabong & R9 Type+Design"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://r9typedesign.com/experimo",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://r9typedesign.com/experimo-features-specimen",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "ivar-script",
+  "source_url": "https://lettersfromsweden.se/font/ivar-script",
+  "checked_at": "2026-03-09T01:40:23.270222+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://lettersfromsweden.se/font/ivar-script/",
+      "snippet": "rol, simply disable the OpenType features. Ivar Script is offered as a package containing all three optical sizes. Year 2025 Designed by Göran Söderström Léo Guibert\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t(Production) Script(s) latin New!"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://lettersfromsweden.se/font/ivar-script/",
+      "snippet": "f the italics in Ivar , mixing the elegance of a serif italic with the fluidity of a script. Originally commissioned in 2024 for Sotheby’s Magazine by Magnus Berger and Henrik Zachrisson , it comes in three optical sizes"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://lettersfromsweden.se/font/ivar-script/",
+      "snippet": "Mon, 09 Mar 2026 01:40:24 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://lettersfromsweden.se/font/ivar-script",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://lettersfromsweden.se/font/ivar-script/",
+    "last_modified": "Mon, 09 Mar 2026 01:40:24 GMT"
+  }
+}

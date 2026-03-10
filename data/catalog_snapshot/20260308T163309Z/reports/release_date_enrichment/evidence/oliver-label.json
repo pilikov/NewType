@@ -1,0 +1,41 @@
+{
+  "record_id": "oliver-label",
+  "source_url": "https://jenwagner.co/products/oliver-label",
+  "checked_at": "2026-03-09T01:52:03.900869+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://jenwagner.co/products/oliver-label-a-pencil-svg-font/",
+      "snippet": "uotes, blog posts, and more without having to do it themselves. With this new SVG font (and Photoshop or Illustrator CC 2017+), you can easily add handwritten notes to your images in minutes! Take it for a spin Size Lett"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://jenwagner.co/products/oliver-label-a-pencil-svg-font/",
+      "snippet": "nt. Use this version to create lettering with an authentic pencil texture! Requires Photoshop CC 2017 or Illustrator CC 2018 (or newer) to use. Oliver Label Regular: A textured vector version of the SVG font that works w"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://jenwagner.co/products/oliver-label-a-pencil-svg-font/",
+      "snippet": "free demos before they're released!). Privacy Policy | Terms & Conditions | Shipping & Return Policy | © Jen Wagner Co. 2025 | Fonts used: JWType Sans | Shop development by Penguin Designing Resources typefaces Licensing"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://jenwagner.co/products/oliver-label",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://jenwagner.co/products/oliver-label-a-pencil-svg-font/",
+    "last_modified": null
+  }
+}

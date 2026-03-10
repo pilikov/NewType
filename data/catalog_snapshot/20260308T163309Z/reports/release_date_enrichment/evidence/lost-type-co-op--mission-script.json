@@ -1,0 +1,27 @@
+{
+  "record_id": "lost-type-co-op--mission-script",
+  "source_url": "http://www.losttype.com/font/?name=mission_script",
+  "checked_at": "2026-03-08T16:58:43.249584+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://www.losttype.com/font/?name=mission_script",
+      "snippet": "mercial License ($384.00) Amount ($5, $10, $20, $40, $100): asdasda Questions? Send us a Message » Copyright Lost Type™ 2019 Brought to you by Riley Cran and Friends . Fonts > Mission Script by James T. Edmondson Fonts S"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://www.losttype.com/font/?name=mission_script",
+      "snippet": "2026-03-05"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "http://www.losttype.com/font/?name=mission_script",
+    "last_modified": null
+  }
+}

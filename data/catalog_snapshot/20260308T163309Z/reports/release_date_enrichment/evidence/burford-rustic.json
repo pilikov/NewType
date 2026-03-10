@@ -1,0 +1,19 @@
+{
+  "record_id": "burford-rustic",
+  "source_url": "https://kimmydesign.com/typeface/burford-rustic",
+  "checked_at": "2026-03-09T01:42:08.750339+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://kimmydesign.com/typeface/burford-rustic",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "403 Client Error: Forbidden for url: https://kimmydesign.com/typeface/burford-rustic"
+  }
+}

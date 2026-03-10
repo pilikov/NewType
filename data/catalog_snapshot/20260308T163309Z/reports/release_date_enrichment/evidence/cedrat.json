@@ -1,0 +1,41 @@
+{
+  "record_id": "cedrat",
+  "source_url": "https://formagari.com/typefaces/cedrat",
+  "checked_at": "2026-03-09T01:42:50.226509+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://formagari.com/typefaces/cedrat",
+      "snippet": "h lacked true cursive characteristics. Photography © Pierre Girardin Designer Emmanuel Besse Team Fanny Hamelin Release 2024 Glyphs 1030 Single weight From 75,00 € Family From 450,00 € Cedrat Display Cedrat Standard Cedr"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://formagari.com/typefaces/cedrat",
+      "snippet": "lient Work Business Inquiries Info About Mail EULA Privacy Social Mastodon Instagram LinkedIn Fonts In Use Newsletter © 2026 Formagari. aLL riGhTs rEsErVeD. Trial Fonts Select typefaces Maxisud Insitu Sancy Kernevel Yet "
+    },
+    {
+      "date": "1993-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://formagari.com/typefaces/cedrat",
+      "snippet": "in a three channel video and a series of drawings and photographs, for which Barney was awarded the Aperto Prize in the 1993 Venice Biennale. Cedrat Text Medium OpenType ▼ ▲ ☐ ☑ Ligatures (liga) ☐ ☑ Old Style Figures (on"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://formagari.com/typefaces/cedrat",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://formagari.com/typefaces/cedrat",
+    "last_modified": null
+  }
+}

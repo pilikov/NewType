@@ -1,0 +1,76 @@
+{
+  "record_id": "nure",
+  "source_url": "https://fsd.it/typefaces/nure",
+  "checked_at": "2026-03-09T01:42:03.050259+00:00",
+  "candidates": [
+    {
+      "date": "2022-11-15",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://fsd.it/2022/11/15/nure-variable-font-included-in-adi-design-index-2022/",
+      "snippet": "2022-11-15T13:59:50+00:00"
+    },
+    {
+      "date": "2022-11-15",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://fsd.it/2022/11/15/nure-variable-font-included-in-adi-design-index-2022/",
+      "snippet": "2022-11-15T13:59:50+00:00"
+    },
+    {
+      "date": "2022-11-15",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://fsd.it/2022/11/15/nure-variable-font-included-in-adi-design-index-2022/",
+      "snippet": "2022-11-15T14:03:05+00:00"
+    },
+    {
+      "date": "2022-11-15",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://fsd.it/2022/11/15/nure-variable-font-included-in-adi-design-index-2022/",
+      "snippet": "2022-11-15T14:03:05+00:00"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fsd.it/2022/11/15/nure-variable-font-included-in-adi-design-index-2022/",
+      "snippet": "Nure variable font included in ADI Design Index 2022! - Fabrizio Schiavi Design Fonts Custom brand fonts Graphics Shop Blog About Login 0 Clear press Enter to search Search"
+    },
+    {
+      "date": "2022-11-15",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fsd.it/2022/11/15/nure-variable-font-included-in-adi-design-index-2022/",
+      "snippet": " search Search results: No products found. Nure variable font included in ADI Design Index 2022! By Fabrizio Schiavi on 2022-11-15 The Italian association for the industrial design — A DI — included my Nure variable font"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fsd.it/2022/11/15/nure-variable-font-included-in-adi-design-index-2022/",
+      "snippet": "39 Contact Terms and Conditions Privacy and Cookies Shipping policy Refund policy How to protecting the webfont files © 2026 Fabrizio Schiavi. All rights reserved We use cookies on our website to give you the most releva"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://fsd.it/2022/11/15/nure-variable-font-included-in-adi-design-index-2022/",
+      "snippet": "Sun, 08 Mar 2026 23:10:26 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fsd.it/typefaces/nure",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fsd.it/2022/11/15/nure-variable-font-included-in-adi-design-index-2022/",
+    "last_modified": "Sun, 08 Mar 2026 23:10:26 GMT"
+  }
+}

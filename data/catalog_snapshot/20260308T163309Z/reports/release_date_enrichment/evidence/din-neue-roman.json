@@ -1,0 +1,48 @@
+{
+  "record_id": "din-neue-roman",
+  "source_url": "https://www.vibrant-types.com/typefaces/din-neue-roman",
+  "checked_at": "2026-03-09T01:44:18.465772+00:00",
+  "candidates": [
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.vibrant-types.com/produkt/din-neue-roman/",
+      "snippet": "is at HAW Hamburg with big thanks to Prof. Jovica Veljovic. The typeface family’s first commercial release was in early 2018. Styles Weights Characters Features Alternates Ligatures Small Caps Case Sensitive Forms Additi"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.vibrant-types.com/produkt/din-neue-roman/",
+      "snippet": "y this DIN Neue Roman cleverly defies typographic conventions, but keeps its legibility. DIN Neue Roman was designed in 2015 as part of Philip Lammert’s master thesis at HAW Hamburg with big thanks to Prof. Jovica Veljov"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.vibrant-types.com/produkt/din-neue-roman/",
+      "snippet": "tagram Behance Über uns Kontakt Lizenzvereinbarungen (EULAs) AGB Widerrufsbelehrung Datenschutzbestimmungen Impressum © 2023 Philip Lammert. All rights reserved."
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.vibrant-types.com/produkt/din-neue-roman/",
+      "snippet": "Sun, 08 Mar 2026 16:48:34 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.vibrant-types.com/typefaces/din-neue-roman",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.vibrant-types.com/produkt/din-neue-roman/",
+    "last_modified": "Sun, 08 Mar 2026 16:48:34 GMT"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "topoline",
+  "source_url": "https://www.thatthattype.com/fonts/topoline-super-family",
+  "checked_at": "2026-03-09T02:01:28.262630+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thatthattype.com/fonts/topoline-super-family",
+      "snippet": " Log in Topoline Variable Font\n\n            Collection Topoline Negative Light Empty Bold Full Topoline variable font © 2026 That That Type"
+    },
+    {
+      "date": "2026-02-15",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.thatthattype.com/fonts/topoline-super-family",
+      "snippet": "2026-02-15"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.thatthattype.com/fonts/topoline-super-family",
+    "last_modified": null
+  }
+}

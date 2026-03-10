@@ -1,0 +1,27 @@
+{
+  "record_id": "lost-type-co-op--dude",
+  "source_url": "http://www.losttype.com/font/?name=dude",
+  "checked_at": "2026-03-08T16:58:43.186372+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://www.losttype.com/font/?name=dude",
+      "snippet": "onsectetur adipisicing elit sit amet, consectetur adipisicing elit. Questions? Send us a Message » Copyright Lost Type™ 2019 Brought to you by Riley Cran and Friends . Fonts > Dude by Dan Gneiding Fonts Store Blog Contac"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://www.losttype.com/font/?name=dude",
+      "snippet": "2026-03-05"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "http://www.losttype.com/font/?name=dude",
+    "last_modified": null
+  }
+}

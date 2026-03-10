@@ -1,0 +1,41 @@
+{
+  "record_id": "reform",
+  "source_url": "https://www.sourcetype.com/typefaces/2793/reform",
+  "checked_at": "2026-03-09T01:46:36.863572+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.sourcetype.com/typefaces/2793/reform",
+      "snippet": "ered in Agloe, New York (2023) 10/11 Screw head varieties 11/11 Largest pumpkin growin in the US weighing 2,365 pounds (2021) 11 Type Specimen W3siaWQiOiIxMDk5NiIsInR5cGUiOiJzYW1wbGUiLCJ3aWR0aCI6InhsYXJnZSIsImRpc3BsYXlvb"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.sourcetype.com/typefaces/2793/reform",
+      "snippet": "goes to Cowboy Tuff Chex with horns measuring 262.5 cm from tip to tip. 9/11 Crop circle discovered in Agloe, New York (2023) 10/11 Screw head varieties 11/11 Largest pumpkin growin in the US weighing 2,365 pounds (2021)"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.sourcetype.com/typefaces/2793/reform",
+      "snippet": "Type Home → Typefaces About Reform Laurenz Brunner first encountered a Reform Muli tractor in the Swiss mountainside in 2019. Affixed to the front of the vehicle was the company’s striking R logo, an alien looking charac"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.sourcetype.com/typefaces/2793/reform",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.sourcetype.com/typefaces/2793/reform",
+    "last_modified": null
+  }
+}

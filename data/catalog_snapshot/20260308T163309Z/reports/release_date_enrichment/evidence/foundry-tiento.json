@@ -1,0 +1,62 @@
+{
+  "record_id": "foundry-tiento",
+  "source_url": "https://www.thefoundrytypes.com/typefaces/foundry-tiento",
+  "checked_at": "2026-03-09T01:45:55.474778+00:00",
+  "candidates": [
+    {
+      "date": "2020-07-29",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-tiento-neo-classical-editorial/",
+      "snippet": "2020-07-29T17:46:29+00:00"
+    },
+    {
+      "date": "2024-07-30",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-tiento-neo-classical-editorial/",
+      "snippet": "2024-07-30T15:28:17+00:00"
+    },
+    {
+      "date": "2024-07-30",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-tiento-neo-classical-editorial/",
+      "snippet": "2024-07-30T15:28:17+00:00"
+    },
+    {
+      "date": "2008-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-tiento-neo-classical-editorial/",
+      "snippet": "he first concept sketches of Foundry Tiento started 12 years ago during David’s time teaching at the Idep, Barcelona in 2008. Surrounded by stunning Spanish architecture, art, and musical forms, exploring the permutation"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-tiento-neo-classical-editorial/",
+      "snippet": "AQs Font licensing Privacy policy Account My account Orders Downloads Website by Studio Playne © The Foundry Types 1989–2026 Back to top"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-tiento-neo-classical-editorial/",
+      "snippet": "Tue, 03 Mar 2026 14:40:30 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.thefoundrytypes.com/typefaces/foundry-tiento",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.thefoundrytypes.com/fonts/foundry-tiento-neo-classical-editorial/",
+    "last_modified": "Tue, 03 Mar 2026 14:40:30 GMT"
+  }
+}

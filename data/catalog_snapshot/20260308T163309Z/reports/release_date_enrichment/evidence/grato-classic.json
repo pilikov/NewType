@@ -1,0 +1,48 @@
+{
+  "record_id": "grato-classic",
+  "source_url": "https://typemates.com/fonts/grato-classic",
+  "checked_at": "2026-03-09T01:51:43.902024+00:00",
+  "candidates": [
+    {
+      "date": "2021-06-08",
+      "score": 0.95,
+      "source_type": "jsonld:dateCreated",
+      "source_url": "https://www.typemates.com/fonts/grato-classic",
+      "snippet": "2021-06-08T08:19:56+02:00"
+    },
+    {
+      "date": "2021-06-16",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typemates.com/fonts/grato-classic",
+      "snippet": "2021-06-16T05:00:00+02:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typemates.com/fonts/grato-classic",
+      "snippet": "2026-03-05T12:00:57+01:00"
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/grato-classic",
+      "snippet": "s geometry and more legibility, Gratimo Classic is fine-tuned for text and interface design. Designed by Jakob Runge in 2021 Contributions Mona Franz Consulting & Help Irene Vlachou , Ilya Ruderman & Yury Ostromentsky , "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typemates.com/fonts/grato-classic",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typemates.com/fonts/grato-classic",
+    "last_modified": null
+  }
+}

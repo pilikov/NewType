@@ -1,0 +1,41 @@
+{
+  "record_id": "arzachel",
+  "source_url": "https://www.c-a-s-t.com/typefaces/arzachel",
+  "checked_at": "2026-03-09T01:40:19.795924+00:00",
+  "candidates": [
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/arzachel/",
+      "snippet": "der development, Arzachel was used in several printed projects including James Clough’s Signs of Italy (Lazy Dog Press, 2015). Since summer 2017 it has been used in ‘Pulp’ – produced by Eye magazine for Fedrigoni. Design"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/arzachel/",
+      "snippet": "achel was used in several printed projects including James Clough’s Signs of Italy (Lazy Dog Press, 2015). Since summer 2017 it has been used in ‘Pulp’ – produced by Eye magazine for Fedrigoni. Designer Riccardo Olocco S"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/arzachel/",
+      "snippet": ", Taita, Teso, Upper Sorbian, Uzbek (Latin), Volapük, Vunjo, Walser, Welsh, Western Frisian, Zulu Production years 2017-2018 Styles Regular, Regular Italic, Medium, Medium Italic, Bold, Bold Italic, Black, Black Italic O"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.c-a-s-t.com/typefaces/arzachel",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.c-a-s-t.com/typefaces/arzachel/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "record_id": "foundry-sans",
+  "source_url": "https://www.thefoundrytypes.com/typefaces/foundry-sans",
+  "checked_at": "2026-03-09T01:45:54.228693+00:00",
+  "candidates": [
+    {
+      "date": "2020-08-11",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-sans/",
+      "snippet": "2020-08-11T09:44:31+00:00"
+    },
+    {
+      "date": "1990-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-sans/",
+      "snippet": "rcher Street, Soho, London. Foundry Sans now in its 30th year, and the second typeface to be released by The Foundry in 1990. Originally conceived as a family of four weights, Book, Medium, Demi and Bold with a correspon"
+    },
+    {
+      "date": "1996-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-sans/",
+      "snippet": "‘sho’ pencil sketches. Foundry Sans flyer reverse text. Magnified Foundry Sans flyer text. Foundry Sans, Eye 23, Winter 1996, p.22. Licence Foundry Sans through Monotype The original Foundry font collection is currently "
+    },
+    {
+      "date": "2020-09-22",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-sans/",
+      "snippet": "2020-09-22T18:23:16+00:00"
+    },
+    {
+      "date": "2020-09-22",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-sans/",
+      "snippet": "2020-09-22T18:23:16+00:00"
+    },
+    {
+      "date": "2001-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-sans/",
+      "snippet": "tional Medium and Demi Italics added complete the nine weight font family. Foundry Sans, Graphics International 89, Oct 2001, p.39 and sketches. Foundry Sans ‘Ham’ pencil sketches. Foundry Sans flyer front. Foundry Sans "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-sans/",
+      "snippet": "AQs Font licensing Privacy policy Account My account Orders Downloads Website by Studio Playne © The Foundry Types 1989–2026 Back to top"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-sans/",
+      "snippet": "Tue, 03 Mar 2026 14:30:10 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.thefoundrytypes.com/typefaces/foundry-sans",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.thefoundrytypes.com/fonts/foundry-sans/",
+    "last_modified": "Tue, 03 Mar 2026 14:30:10 GMT"
+  }
+}

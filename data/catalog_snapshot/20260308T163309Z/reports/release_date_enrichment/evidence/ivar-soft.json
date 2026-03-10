@@ -1,0 +1,41 @@
+{
+  "record_id": "ivar-soft",
+  "source_url": "https://lettersfromsweden.se/font/ivar-soft",
+  "checked_at": "2026-03-09T01:39:41.297142+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://lettersfromsweden.se/font/ivar-soft/",
+      "snippet": "Ivar – a high contrast version we call Ivar Fine . See also Ivar Display Condensed , Ivar Nostalgi and Ivar Soft . Year 2019 Designed by Göran Söderström Panos Haratzopoulos\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t(Greek) Script(s) latin g"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://lettersfromsweden.se/font/ivar-soft/",
+      "snippet": "nd Display —suggest how they should be applied, yet we encourage users to practice typography as they see fit. In March 2020 we added the fourth optical size to Ivar – a high contrast version we call Ivar Fine . See also"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://lettersfromsweden.se/font/ivar-soft/",
+      "snippet": "Mon, 09 Mar 2026 01:39:42 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://lettersfromsweden.se/font/ivar-soft",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://lettersfromsweden.se/font/ivar-soft/",
+    "last_modified": "Mon, 09 Mar 2026 01:39:42 GMT"
+  }
+}

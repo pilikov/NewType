@@ -1,0 +1,125 @@
+{
+  "record_id": "annapurna-sil",
+  "source_url": "https://software.sil.org/annapurna/",
+  "checked_at": "2026-03-09T01:39:50.781463+00:00",
+  "candidates": [
+    {
+      "date": "2014-10-02",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://software.sil.org/annapurna/",
+      "snippet": "2014-10-02T09:52:47+00:00"
+    },
+    {
+      "date": "2014-10-02",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://software.sil.org/annapurna/",
+      "snippet": "2014-10-02T09:52:47+00:00"
+    },
+    {
+      "date": "2010-12-31",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/annapurna/",
+      "snippet": "15 Release 1.200 31 March 2015 Release 1.100 25 October 2012 Maintenance release 1.001 12 July 2011 Initial release 1.0 31 December 2010 This font software is free to use, modify and redistribute according to the terms o"
+    },
+    {
+      "date": "2011-07-12",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/annapurna/",
+      "snippet": "ews announcements list 12 June 2015 Release 1.200 31 March 2015 Release 1.100 25 October 2012 Maintenance release 1.001 12 July 2011 Initial release 1.0 31 December 2010 This font software is free to use, modify and redi"
+    },
+    {
+      "date": "2012-10-25",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/annapurna/",
+      "snippet": "ease 1.202 10 February 2017 New SIL Font News announcements list 12 June 2015 Release 1.200 31 March 2015 Release 1.100 25 October 2012 Maintenance release 1.001 12 July 2011 Initial release 1.0 31 December 2010 This fon"
+    },
+    {
+      "date": "2015-03-31",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/annapurna/",
+      "snippet": "se 1.203 9 December 2017 Release 1.202 10 February 2017 New SIL Font News announcements list 12 June 2015 Release 1.200 31 March 2015 Release 1.100 25 October 2012 Maintenance release 1.001 12 July 2011 Initial release 1"
+    },
+    {
+      "date": "2015-06-12",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/annapurna/",
+      "snippet": ".204 22 February 2019 Release 1.203 9 December 2017 Release 1.202 10 February 2017 New SIL Font News announcements list 12 June 2015 Release 1.200 31 March 2015 Release 1.100 25 October 2012 Maintenance release 1.001 12 "
+    },
+    {
+      "date": "2017-02-10",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/annapurna/",
+      "snippet": " Annapurna SIL Release 2.000 8 November 2023 Release 1.204 22 February 2019 Release 1.203 9 December 2017 Release 1.202 10 February 2017 New SIL Font News announcements list 12 June 2015 Release 1.200 31 March 2015 Relea"
+    },
+    {
+      "date": "2017-12-09",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/annapurna/",
+      "snippet": "SIL Release 2.100 11 June 2024 Annapurna SIL Release 2.000 8 November 2023 Release 1.204 22 February 2019 Release 1.203 9 December 2017 Release 1.202 10 February 2017 New SIL Font News announcements list 12 June 2015 Rel"
+    },
+    {
+      "date": "2019-02-22",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/annapurna/",
+      "snippet": "list News & Releases Annapurna SIL Release 2.100 11 June 2024 Annapurna SIL Release 2.000 8 November 2023 Release 1.204 22 February 2019 Release 1.203 9 December 2017 Release 1.202 10 February 2017 New SIL Font News anno"
+    },
+    {
+      "date": "2023-11-08",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/annapurna/",
+      "snippet": "ts on web pages. See full FAQ list News & Releases Annapurna SIL Release 2.100 11 June 2024 Annapurna SIL Release 2.000 8 November 2023 Release 1.204 22 February 2019 Release 1.203 9 December 2017 Release 1.202 10 Februa"
+    },
+    {
+      "date": "2024-06-11",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/annapurna/",
+      "snippet": "n Web Pages for instructions on using fonts on web pages. See full FAQ list News & Releases Annapurna SIL Release 2.100 11 June 2024 Annapurna SIL Release 2.000 8 November 2023 Release 1.204 22 February 2019 Release 1.20"
+    },
+    {
+      "date": "2024-12-09",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://software.sil.org/annapurna/",
+      "snippet": "2024-12-09T16:34:43+00:00"
+    },
+    {
+      "date": "2024-12-09",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://software.sil.org/annapurna/",
+      "snippet": "2024-12-09T16:34:43+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://software.sil.org/annapurna/",
+      "snippet": "Font License Writing Systems Technology Technical Resources Contact & Support Contact Support Community FAQ Copyright © 2026 SIL Global Terms of Use Privacy Policy"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://software.sil.org/annapurna/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://software.sil.org/annapurna/",
+    "last_modified": null
+  }
+}

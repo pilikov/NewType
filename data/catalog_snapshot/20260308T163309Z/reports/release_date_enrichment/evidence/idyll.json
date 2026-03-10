@@ -1,0 +1,48 @@
+{
+  "record_id": "idyll",
+  "source_url": "https://celine-hurka.com/typefaces/idyll",
+  "checked_at": "2026-03-09T01:40:04.363299+00:00",
+  "candidates": [
+    {
+      "date": "2025-01-04",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://celine-hurka.com/idyll/",
+      "snippet": "2025-01-04T12:15:07+00:00"
+    },
+    {
+      "date": "2025-01-04",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://celine-hurka.com/idyll/",
+      "snippet": "2025-01-04T12:15:07+00:00"
+    },
+    {
+      "date": "2025-05-17",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://celine-hurka.com/idyll/",
+      "snippet": "2025-05-17T23:00:17+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://celine-hurka.com/idyll/",
+      "snippet": "S VERSION GARDEN OF AETHER REVIVING TYPE Writing In Use Information Licensing Trial fonts Cart Céline Hurka TYPEFACES / 2025 / IDYLL TEST Last March, C woke me up early. “I want to show you something,” she said. I follow"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://celine-hurka.com/typefaces/idyll",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://celine-hurka.com/idyll/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "vena-amoris",
+  "source_url": "https://delvefonts.com/fonts/vena-amoris",
+  "checked_at": "2026-03-09T01:52:15.386672+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://delvefonts.com/fonts/vena-amoris/",
+      "snippet": "ny and calligraphic beauty to your layout. Features Discretionary Ligatures and with and with Smart Roman Numerals 1964-2019 1964-2019 Oldstyle Figures 0123456789 0123456789 Swash Alternates d g j p t y & d g j p t y & A"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://delvefonts.com/fonts/vena-amoris",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://delvefonts.com/fonts/vena-amoris/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "record_id": "arek-latin",
+  "source_url": "https://rosettatype.com/ArekLatin",
+  "checked_at": "2026-03-09T01:36:36.190657+00:00",
+  "candidates": [
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://rosettatype.com/ArekLatin",
+      "snippet": " branding corporate editorial design digital publishing on-screen reading packaging workhorse headline Released 11. 12. 2012 Credits Leads Khajag Apelian Design Khajag Apelian is a lettering artist, type and graphic desi"
+    },
+    {
+      "date": "2011-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://rosettatype.com/ArekLatin",
+      "snippet": "                      8+2\n                        \n                        fonts from 199 € Awards ATypI Letter.2 award 2011 Typographica’s Best of 2013 Elsewhere Behance Keywords casual friendly angular expressive crisp"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://rosettatype.com/ArekLatin",
+      "snippet": "                      \n                        fonts from 199 € Awards ATypI Letter.2 award 2011 Typographica’s Best of 2013 Elsewhere Behance Keywords casual friendly angular expressive crisp text display serif readable"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://rosettatype.com/ArekLatin",
+      "snippet": "ime. Social media Mastodon LinkedIn Type rocks! Copyright © Rosetta Type Foundry, s.r.o. and respective designers, 2011–2026. This website does not track you. Mains Fonts Services Research Puddings About us Articles Font"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://rosettatype.com/ArekLatin",
+      "snippet": "Mon, 02 Mar 2026 19:12:15 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://rosettatype.com/ArekLatin",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://rosettatype.com/ArekLatin",
+    "last_modified": "Mon, 02 Mar 2026 19:12:15 GMT"
+  }
+}

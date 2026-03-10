@@ -1,0 +1,20 @@
+{
+  "record_id": "roubaix-industrielle",
+  "source_url": "https://www.tunera.xyz/fonts/roubaix-industrielle",
+  "checked_at": "2026-03-09T01:41:35.649740+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.tunera.xyz/fonts/roubaix-industrielle",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.tunera.xyz/fonts/roubaix-industrielle/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "record_id": "29lt-zarid-sans-lc",
+  "source_url": "https://www.29lt.com/product/29lt-zarid-sans-lc/",
+  "checked_at": "2026-03-09T01:37:04.639042+00:00",
+  "candidates": [
+    {
+      "date": "2020-07-13",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-sans-lc/",
+      "snippet": "2020-07-13T21:15:25+00:00"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-sans-lc/",
+      "snippet": "og.29LT.com Contact Us info [at] 29lt [dot] com Social Media Instagram YouTube Facebook X 29Letters Type Foundry S.L. © 2012 – 2026 / All rights\r\n\t\t\t\t\treserved. Partner at Fontstand Available at Type Network"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-sans-lc/",
+      "snippet": "rs Krista Radoeva (Cyrillic) Jan Fromm (Latin) Name Meaning Strong / Robust / Bold Number of Glyphs 695+ Year Published 2020 Awards Modern Cyrillic 2021 Type Journal: Top 10 Cyrillic typefaces of 2020 12th GRANSHAN Type "
+    },
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-sans-lc/",
+      "snippet": " Jan Fromm (Latin) Name Meaning Strong / Robust / Bold Number of Glyphs 695+ Year Published 2020 Awards Modern Cyrillic 2021 Type Journal: Top 10 Cyrillic typefaces of 2020 12th GRANSHAN Type Design Competition 2021–22 /"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-sans-lc/",
+      "snippet": ".com Contact Us info [at] 29lt [dot] com Social Media Instagram YouTube Facebook X 29Letters Type Foundry S.L. © 2012 – 2026 / All rights\r\n\t\t\t\t\treserved. Partner at Fontstand Available at Type Network"
+    },
+    {
+      "date": "2025-04-22",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-sans-lc/",
+      "snippet": "2025-04-22T09:24:53+00:00"
+    },
+    {
+      "date": "2025-04-22",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-sans-lc/",
+      "snippet": "2025-04-22T09:24:53+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-sans-lc/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.29lt.com/product/29lt-zarid-sans-lc/",
+    "last_modified": null
+  }
+}

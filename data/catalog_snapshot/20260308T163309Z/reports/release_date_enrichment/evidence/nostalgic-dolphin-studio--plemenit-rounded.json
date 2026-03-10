@@ -1,0 +1,55 @@
+{
+  "record_id": "nostalgic-dolphin-studio--plemenit-rounded",
+  "source_url": "https://nostalgicdolphin.com/font-plemenit-rounded/",
+  "checked_at": "2026-03-09T01:36:16.477547+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-17",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://nostalgicdolphin.com/font-plemenit-rounded/",
+      "snippet": "2026-02-17T15:37:23+00:00"
+    },
+    {
+      "date": "2026-02-17",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://nostalgicdolphin.com/font-plemenit-rounded/",
+      "snippet": "2026-02-17T15:37:23+00:00"
+    },
+    {
+      "date": "2026-03-07",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://nostalgicdolphin.com/font-plemenit-rounded/",
+      "snippet": "2026-03-07T23:01:08+00:00"
+    },
+    {
+      "date": "2026-03-07",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://nostalgicdolphin.com/font-plemenit-rounded/",
+      "snippet": "2026-03-07T23:01:08+00:00"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://nostalgicdolphin.com/font-plemenit-rounded/",
+      "snippet": "se enable JavaScript in your browser to complete this form. Email * SUBSCRIBE FONT LICENSING PRIVACY POLICY Copyright © 2024 Nostalgic Dolphin. All rights reserved."
+    },
+    {
+      "date": "2026-03-01",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://nostalgicdolphin.com/font-plemenit-rounded/",
+      "snippet": "2026-03-01"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://nostalgicdolphin.com/font-plemenit-rounded/",
+    "last_modified": null
+  }
+}

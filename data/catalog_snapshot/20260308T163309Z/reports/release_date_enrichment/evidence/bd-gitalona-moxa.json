@@ -1,0 +1,62 @@
+{
+  "record_id": "bd-gitalona-moxa",
+  "source_url": "https://balibillydesign.com/typefaces/bd-gitalona-moxa",
+  "checked_at": "2026-03-09T02:02:51.806212+00:00",
+  "candidates": [
+    {
+      "date": "2022-08-03",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://balibillydesign.com/presentation/bd-gitalona-moxa/",
+      "snippet": "2022-08-03T07:21:13+00:00"
+    },
+    {
+      "date": "2022-08-03",
+      "score": 0.7,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://balibillydesign.com/presentation/bd-gitalona-moxa/",
+      "snippet": "2022-08-03T07:21:13+00:00"
+    },
+    {
+      "date": "2022-10-26",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://balibillydesign.com/presentation/bd-gitalona-moxa/",
+      "snippet": "2022-10-26T08:58:55+00:00"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://balibillydesign.com/presentation/bd-gitalona-moxa/",
+      "snippet": "ct has multiple variants. The options may be chosen on the product page Denominary® Becoming 50 Sides of Grotesk since ©2023 & Repeatedly Move. Denominary $ 10.00 – $ 450.00 Price range: $10.00 through $450.00 Select opt"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://balibillydesign.com/presentation/bd-gitalona-moxa/",
+      "snippet": "FAQs Connect Instagram Behance Dribbble Pinterest Connect Facebook Youtube LinkedIn Twitter ©Copyright Balibilly Design 2024 All rights reserved"
+    },
+    {
+      "date": "2022-10-26",
+      "score": 0.44999999999999996,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://balibillydesign.com/presentation/bd-gitalona-moxa/",
+      "snippet": "2022-10-26T08:58:55+00:00"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://balibillydesign.com/typefaces/bd-gitalona-moxa",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://balibillydesign.com/presentation/bd-gitalona-moxa/",
+    "last_modified": null
+  }
+}

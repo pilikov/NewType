@@ -1,0 +1,48 @@
+{
+  "record_id": "stamps",
+  "source_url": "https://parachutefonts.com/typeface/stamps",
+  "checked_at": "2026-03-09T01:56:46.950508+00:00",
+  "candidates": [
+    {
+      "date": "2002-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/stamps",
+      "snippet": "y, this series supports more than hundred languages which are based on the Latin, Greek or Cyrillic scripts. Published: 2002/2006 Designer: Panos Vassiliou, George Lygas FORMAT Desktop (otf) Web (woff/woff2) Digital Ad ("
+    },
+    {
+      "date": "2003-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/stamps",
+      "snippet": "simulate this type of lettering. Two other styles, Metal and Flex, have been very popular since its original release in 2003. The first one was developed from a metallic stamp imprint, whereas the second one with its sli"
+    },
+    {
+      "date": "2006-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/stamps",
+      "snippet": "is series supports more than hundred languages which are based on the Latin, Greek or Cyrillic scripts. Published: 2002/2006 Designer: Panos Vassiliou, George Lygas FORMAT Desktop (otf) Web (woff/woff2) Digital Ad (woff/"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://parachutefonts.com/typeface/stamps",
+      "snippet": "abled styles are only available when you purchase the entire family. ADD STYLE Close Newsletter / Follow us      © 2026 Parachute® Typefoundry. All Rights Reserved COOKIES NOTICE This Site uses cookies, including th"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://parachutefonts.com/typeface/stamps",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://parachutefonts.com/typeface/stamps",
+    "last_modified": null
+  }
+}

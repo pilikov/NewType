@@ -1,0 +1,19 @@
+{
+  "record_id": "balcon",
+  "source_url": "https://tourdefonts.com/?product=balcon",
+  "checked_at": "2026-03-09T02:02:20.987880+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://tourdefonts.com/?product=balcon",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='tourdefonts.com', port=443): Read timed out. (read timeout=12)"
+  }
+}

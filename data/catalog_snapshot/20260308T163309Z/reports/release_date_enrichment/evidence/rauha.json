@@ -1,0 +1,48 @@
+{
+  "record_id": "rauha",
+  "source_url": "https://typeoffeeling.com/typefaces/rauha",
+  "checked_at": "2026-03-09T01:56:09.093387+00:00",
+  "candidates": [
+    {
+      "date": "2025-07-16",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typeoffeeling.com/products/rauha/",
+      "snippet": "2025-07-16T19:05:20+00:00"
+    },
+    {
+      "date": "2025-07-16",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typeoffeeling.com/products/rauha/",
+      "snippet": "2025-07-16T21:35:10+00:00"
+    },
+    {
+      "date": "2025-07-16",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://typeoffeeling.com/products/rauha/",
+      "snippet": "2025-07-16T21:35:10+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typeoffeeling.com/products/rauha/",
+      "snippet": "ices that are inspired by a range of feelings. Email Instagram FAQs EULA & Licenses Privacy Policy © Type of Feeling \t\t\t2026 Do you really want to remove? Yes Yes No No Product added to cart View cart View cart Close Clo"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typeoffeeling.com/typefaces/rauha",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typeoffeeling.com/products/rauha/",
+    "last_modified": null
+  }
+}

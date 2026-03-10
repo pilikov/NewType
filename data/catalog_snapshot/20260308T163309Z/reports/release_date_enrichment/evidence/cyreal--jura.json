@@ -1,0 +1,41 @@
+{
+  "record_id": "cyreal--jura",
+  "source_url": "https://www.cyreal.org/fonts/jura",
+  "checked_at": "2026-03-09T01:36:05.924157+00:00",
+  "candidates": [
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/jura/",
+      "snippet": "Files Authors: Alexei Vanyashin Daniel Johnson Guldana Tauasar Irene Vlachou Tags: Sans Serif Scripts: Latin Cyrillic © 2010–2026 Cyreal and respective authors. All rights reserved. This site uses cookies (including Goog"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/jura/",
+      "snippet": "tunate name clash with Ed Merritt’s Jura serif font. To contribute, see github.com/ossobuffo/jura. Cyrillic designed in 2024 by Guldana Tauasar, art-director Alexei Vanyashin Jura Jura Light Jura Regular Jura Medium Jura"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.cyreal.org/fonts/jura/",
+      "snippet": " Authors: Alexei Vanyashin Daniel Johnson Guldana Tauasar Irene Vlachou Tags: Sans Serif Scripts: Latin Cyrillic © 2010–2026 Cyreal and respective authors. All rights reserved. This site uses cookies (including Google An"
+    },
+    {
+      "date": "2026-03-02",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.cyreal.org/fonts/jura",
+      "snippet": "2026-03-02"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.cyreal.org/fonts/jura/",
+    "last_modified": null
+  }
+}

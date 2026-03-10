@@ -1,0 +1,27 @@
+{
+  "record_id": "seweryn",
+  "source_url": "https://capitalics.wtf/font/seweryn",
+  "checked_at": "2026-03-09T01:52:12.978787+00:00",
+  "candidates": [
+    {
+      "date": "2005-11-04",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://capitalics.wtf/en/font/seweryn",
+      "snippet": " Login Register Seweryn Specimen Styles About Buy this font Seweryn Specimen Write something... Seweryn et explicabo ut 2005-11-04 16:42:25 5120 Norbert Manors\nNicoshire, ME 74605-0961 Mr. Marlon Hegmann Style Font Size "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://capitalics.wtf/font/seweryn",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://capitalics.wtf/en/font/seweryn",
+    "last_modified": null
+  }
+}

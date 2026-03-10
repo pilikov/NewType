@@ -1,0 +1,48 @@
+{
+  "record_id": "serebryakov-type-foundry--founder-rounder",
+  "source_url": "https://serebryakov.com/fonts/founderrounded",
+  "checked_at": "2026-03-08T16:58:44.658484+00:00",
+  "candidates": [
+    {
+      "date": "2024-07-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/founderrounded",
+      "snippet": " 5 styles Scripts Latin, Cyrillic Features Stylistic alternates Case-sensitive forms Designer Denis Serebryakov Release Jul 1, 2024 Founder Rounder is the rounded version of the Founder typeface. The rounded terminals ar"
+    },
+    {
+      "date": "2006-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/founderrounded",
+      "snippet": "warmer and more approachable. It’s well-suited for tasks that call for a friendly tone, from interfaces to packaging. © 2006– 2026 Instagram BELARUS, 220021, MINSK, NEZAVISIMOSTI AVE., 95A, OFFICE 37, REG. BY THE MINSK C"
+    },
+    {
+      "date": "2014-02-11",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/founderrounded",
+      "snippet": "026 Instagram BELARUS, 220021, MINSK, NEZAVISIMOSTI AVE., 95A, OFFICE 37, REG. BY THE MINSK CITY EXECUTIVE COMMITTEE ON FEB 11, 2014. TAX ID 290447975, IE DENIS RODIONOVICH SEREBRYAKOV"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://serebryakov.com/fonts/founderrounded",
+      "snippet": " and more approachable. It’s well-suited for tasks that call for a friendly tone, from interfaces to packaging. © 2006– 2026 Instagram BELARUS, 220021, MINSK, NEZAVISIMOSTI AVE., 95A, OFFICE 37, REG. BY THE MINSK CITY EX"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://serebryakov.com/fonts/founderrounded",
+      "snippet": "2026-03-05"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://serebryakov.com/fonts/founderrounded",
+    "last_modified": null
+  }
+}

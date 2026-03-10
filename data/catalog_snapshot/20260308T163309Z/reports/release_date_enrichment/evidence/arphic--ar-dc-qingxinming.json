@@ -1,0 +1,34 @@
+{
+  "record_id": "arphic--ar-dc-qingxinming",
+  "source_url": "https://www.arphic.com.tw/en/portfolio/ardcqingxinming/",
+  "checked_at": "2026-03-09T01:36:02.978922+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.arphic.com.tw/en/portfolio/ardcqingxinming/",
+      "snippet": "u Condesed keeps its steadiness, simplicity and clearness to condensed Read more Arphic will give a talk in Typo Berlin 2017 Category： News Category： News Typo Berlin 2017 will be held from April 6 to 8 in Belin. Read mo"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.arphic.com.tw/en/portfolio/ardcqingxinming/",
+      "snippet": "Mon, 15 Sep 2025 21:21:20 GMT"
+    },
+    {
+      "date": "2026-03-02",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.arphic.com.tw/en/portfolio/ardcqingxinming/",
+      "snippet": "2026-03-02"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.arphic.com.tw/en/portfolio/ardcqingxinming/",
+    "last_modified": "Mon, 15 Sep 2025 21:21:20 GMT"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "verveine",
+  "source_url": "https://www.daltonmaag.com/library/verveine",
+  "checked_at": "2026-03-09T01:55:14.003552+00:00",
+  "candidates": [
+    {
+      "date": "2023-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/verveine.html",
+      "snippet": "nt Trashhand, with a completely new lowercase design and enhanced writing system support. Designed and developed\n2009â2023 Designers Luce AvÃ©rous Writing Systems Cyrillic, Greek, Latin, Latin Extended Supporting over "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.daltonmaag.com/library/verveine",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.daltonmaag.com/font-library/verveine.html",
+    "last_modified": null
+  }
+}

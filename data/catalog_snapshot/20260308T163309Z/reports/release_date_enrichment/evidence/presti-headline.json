@@ -1,0 +1,27 @@
+{
+  "record_id": "presti-headline",
+  "source_url": "https://typetr.typenetwork.com/typefaces/presti-headline",
+  "checked_at": "2026-03-09T01:48:17.255136+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typenetwork.com/type-foundries/typetr",
+      "snippet": ". Facebook Icon Twitter Instagram LinkedIn Fonts Foundries Designers Stories Services About Contact Help People Legal © 2026 Type Network LLC. All rights reserved. Fonts used: Momentum Sans and Quiosco TYPETR · Type Netw"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typetr.typenetwork.com/typefaces/presti-headline",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typenetwork.com/type-foundries/typetr",
+    "last_modified": null
+  }
+}

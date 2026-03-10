@@ -1,0 +1,19 @@
+{
+  "record_id": "novo-bila",
+  "source_url": "https://www.fonthaus.com/fonts/novotypo/novo/NT10128",
+  "checked_at": "2026-03-09T01:51:34.811477+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.fonthaus.com/fonts/novotypo/novo/NT10128",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='www.fonthaus.com', port=443): Max retries exceeded with url: /fonts/novotypo/novo/NT10128 (Caused by SSLError(CertificateError(\"hostname 'www.fonthaus.com' doesn't match 'fonthaus.com'\")))"
+  }
+}

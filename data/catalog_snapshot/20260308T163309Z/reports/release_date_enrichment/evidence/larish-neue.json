@@ -1,0 +1,48 @@
+{
+  "record_id": "larish-neue",
+  "source_url": "https://radimpesko.com/fonts/larish-neue",
+  "checked_at": "2026-03-09T01:37:39.005664+00:00",
+  "candidates": [
+    {
+      "date": "2001-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://radimpesko.com/fonts/larish-neue",
+      "snippet": "eadlines from Pitchfork . Jens Haaning: Nichts Neues Larish Neue Sample PDF 753.4 KB RP Digital Type Foundry Specimen © 2001–2026 RP Digital Type Foundry , Lÿno © 2009–2026 KN & RP. All rights reserved, including the rig"
+    },
+    {
+      "date": "2009-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://radimpesko.com/fonts/larish-neue",
+      "snippet": "hts Neues Larish Neue Sample PDF 753.4 KB RP Digital Type Foundry Specimen © 2001–2026 RP Digital Type Foundry , Lÿno © 2009–2026 KN & RP. All rights reserved, including the right of reproduction in whole or in part in a"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://radimpesko.com/fonts/larish-neue",
+      "snippet": "form. All typefaces designed by RP between 2001 and 2026. Lÿno designed by Karl Nawrot and Radim Peško between 2009 and 2012. Please do not distribute fonts illegally. Terms of Service"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://radimpesko.com/fonts/larish-neue",
+      "snippet": "nes from Pitchfork . Jens Haaning: Nichts Neues Larish Neue Sample PDF 753.4 KB RP Digital Type Foundry Specimen © 2001–2026 RP Digital Type Foundry , Lÿno © 2009–2026 KN & RP. All rights reserved, including the right of"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://radimpesko.com/fonts/larish-neue",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://radimpesko.com/fonts/larish-neue",
+    "last_modified": null
+  }
+}

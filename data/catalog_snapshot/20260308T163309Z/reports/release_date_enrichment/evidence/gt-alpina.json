@@ -1,0 +1,27 @@
+{
+  "record_id": "gt-alpina",
+  "source_url": "https://www.grillitype.com/typefaces/gt-alpina",
+  "checked_at": "2026-03-09T01:55:18.908503+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.grillitype.com/typeface/gt-alpina",
+      "snippet": "ing in a meticulous family melding these distinct shapes with a pragmatic execution. Designed by Reto Moser Released in 2020 Available in 70 styles GT Alpina is available for customization and language extensions Downloa"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.grillitype.com/typefaces/gt-alpina",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.grillitype.com/typeface/gt-alpina",
+    "last_modified": null
+  }
+}

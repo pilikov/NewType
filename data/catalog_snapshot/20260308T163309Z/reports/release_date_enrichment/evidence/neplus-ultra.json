@@ -1,0 +1,27 @@
+{
+  "record_id": "neplus-ultra",
+  "source_url": "https://pstypelab.com/neplus-ultra",
+  "checked_at": "2026-03-09T01:59:52.756906+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://pstypelab.com/neplus-ultra",
+      "snippet": "Kye Station Hoss Extra Campaign Sans Lettering Typespotting Info Goods A ll Content Created + Produced by Mark Caneso - 2026\nAll Types Welcome"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://pstypelab.com/neplus-ultra",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://pstypelab.com/neplus-ultra",
+    "last_modified": null
+  }
+}

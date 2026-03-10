@@ -1,0 +1,55 @@
+{
+  "record_id": "slag",
+  "source_url": "https://typeandroll.eu/typefaces/slag",
+  "checked_at": "2026-03-09T01:53:39.295319+00:00",
+  "candidates": [
+    {
+      "date": "2022-05-26",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://typeandroll.eu/slag/",
+      "snippet": "2022-05-26T10:13:08+02:00"
+    },
+    {
+      "date": "2022-05-26",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://typeandroll.eu/slag/",
+      "snippet": "2022-05-26T10:13:08+02:00"
+    },
+    {
+      "date": "2022-06-16",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://typeandroll.eu/slag/",
+      "snippet": "2022-06-16T09:40:20+02:00"
+    },
+    {
+      "date": "2022-06-16",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://typeandroll.eu/slag/",
+      "snippet": "2022-06-16T09:40:20+02:00"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://typeandroll.eu/slag/",
+      "snippet": "obert Jarzec Robert Jarzec Get in touch with us! hello@typeandroll.eu Facebook Instagram Privacy policy Type and Roll © 2022 Manage Cookie Consent To provide the best experiences, we use technologies like cookies to stor"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typeandroll.eu/typefaces/slag",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typeandroll.eu/slag/",
+    "last_modified": null
+  }
+}

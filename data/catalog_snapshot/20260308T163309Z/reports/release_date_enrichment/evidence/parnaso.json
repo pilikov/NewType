@@ -1,0 +1,55 @@
+{
+  "record_id": "parnaso",
+  "source_url": "https://felicianotype.com/typefaces/parnaso",
+  "checked_at": "2026-03-09T01:49:14.676458+00:00",
+  "candidates": [
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://felicianotype.com/typefaces/parnaso/",
+      "snippet": "rows and ornaments. The Italic style also features an extra set of titling swash capitals. Designed by Mário Feliciano, 2015 — 2019 OpenType Features: Case-Sensitive Forms Standard Ligatures Proportional Lining Figures P"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://felicianotype.com/typefaces/parnaso/",
+      "snippet": "sharp details, Parnaso shines as a display typeface in editorial or advertising work. Trial fonts Specimens Parnaso pdf 2017 Hairline: 12 styles Display:  12 styles Standard:12 styles Small: 12 styles Petit: 12 styles Mo"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://felicianotype.com/typefaces/parnaso/",
+      "snippet": "d ornaments. The Italic style also features an extra set of titling swash capitals. Designed by Mário Feliciano, 2015 — 2019 OpenType Features: Case-Sensitive Forms Standard Ligatures Proportional Lining Figures Proporti"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://felicianotype.com/typefaces/parnaso/",
+      "snippet": "c Uppercase / Lowercase Accented Characters Swash / Alternates / Ligatures Numerals / Fractions Punctuation / Symbols © 2026 Feliciano Type. All rights reserved. Acceptera Cockpit Correct Crisol Eudald Flama Garda Grosa "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://felicianotype.com/typefaces/parnaso/",
+      "snippet": "Mon, 09 Mar 2026 01:49:15 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://felicianotype.com/typefaces/parnaso",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://felicianotype.com/typefaces/parnaso/",
+    "last_modified": "Mon, 09 Mar 2026 01:49:15 GMT"
+  }
+}

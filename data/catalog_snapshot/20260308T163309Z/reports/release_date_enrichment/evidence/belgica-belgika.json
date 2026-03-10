@@ -1,0 +1,104 @@
+{
+  "record_id": "belgica-belgika",
+  "source_url": "http://osp.kitchen/foundry/belgica-belgika/",
+  "checked_at": "2026-03-09T02:01:44.746661+00:00",
+  "candidates": [
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/belgica-belgika/",
+      "snippet": "he stroke from the plates of the old Belgian road signage. With no constrast and strict geometry. Published by steps in 2012 and 2014. http://ospublish.constantvzw.org/foundry/alfphabet/ Vernacular lettering by ingeneers"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/belgica-belgika/",
+      "snippet": " from the plates of the old Belgian road signage. With no constrast and strict geometry. Published by steps in 2012 and 2014. http://ospublish.constantvzw.org/foundry/alfphabet/ Vernacular lettering by ingeneers with qui"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/belgica-belgika/",
+      "snippet": "age Thursday, 30th April 2015 - 14:44 Pierre Huyghebaert argued — Added lettering in action venice Thursday, 30th April 2015 - 14:48 Pierre Huyghebaert published — Added close up Thursday, 30th April 2015 - 14:59 Pierre "
+    },
+    {
+      "date": "2015-01-02",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/belgica-belgika/",
+      "snippet": "h.constantvzw.org/foundry/belgica-belgika ChangeLog (This should list both major and minor changes, most recent first.) 2 January 2015 - Version 1.0 Initial release of shapes \"Belgica\" and fonts \"Belgika\" (4 weights) by "
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/belgica-belgika/",
+      "snippet": "ay, 11th October 2018 - 07:59 pierreh told — =Some cleanup in the images directory to flatten it Thursday, 11th October 2018 - 08:02 pierreh blabbed — Upload New File Friday, 6th November 2020 - 10:57 pierreh let the cat"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/belgica-belgika/",
+      "snippet": "ages directory to flatten it Thursday, 11th October 2018 - 08:02 pierreh blabbed — Upload New File Friday, 6th November 2020 - 10:57 pierreh let the cat out of the bag — Upload New File Friday, 6th November 2020 - 10:59 "
+    },
+    {
+      "date": "2008-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/belgica-belgika/",
+      "snippet": ". http://ospublish.constantvzw.org/foundry/w-droge/ After some research on the DIN schriften at the Institute itself in 2008, some versions are redrawn from 1932 plates as fonts with a modularity by blocks, grid based. T"
+    },
+    {
+      "date": "2009-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/belgica-belgika/",
+      "snippet": "road signage W drogę is drawn collectively based on photos collected on the way to Libre Graphics Meeting in Wrocław in 2009. Three tactics are compared : by autotracing, by drawing the contour, and by geometrically draw"
+    },
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/belgica-belgika/",
+      "snippet": "ased. The centerline version is still to investigate. http://ospublish.constantvzw.org/foundry/osp-din/ Starting around 2010, some refurbished Roland plotter are used to draw strokes using various pens. Ideally, text cou"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/belgica-belgika/",
+      "snippet": "g/wiki/Hershey_font The Metafont format designed for TeX tend to describes characters by mathematical relationships. In 2013, OSP begins with Metadin to test out the modularity \"by relationships\" to design a revamped DIN"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/belgica-belgika/",
+      "snippet": "pril 2015 - 22:35 Pierre Huyghebaert brought out — Changed name to try to put another image as cover Sunday, 24th April 2016 - 23:45 Pierre Huyghebaert peached — Added a picture of lettering in the iceberg Thursday, 23rd"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "http://osp.kitchen/foundry/belgica-belgika/",
+      "snippet": "aphe Belgika pour le MAD 3 versions possibles il manques certains glyphs(?) rajouter les 'primitifs' Tuesday, 4th April 2017 - 12:52 gab divulged — Rajout du lien vers la fonte Tuesday, 4th April 2017 - 18:27 Stéphanie V"
+    },
+    {
+      "date": "2026-02-10",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://osp.kitchen/foundry/belgica-belgika/",
+      "snippet": "2026-02-10"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "http://osp.kitchen/foundry/belgica-belgika/",
+    "last_modified": null
+  }
+}

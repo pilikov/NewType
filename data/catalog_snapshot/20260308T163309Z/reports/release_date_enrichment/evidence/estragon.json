@@ -1,0 +1,41 @@
+{
+  "record_id": "estragon",
+  "source_url": "https://abcdinamo.com/typefaces/estragon",
+  "checked_at": "2026-03-09T01:37:54.006215+00:00",
+  "candidates": [
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://abcdinamo.com/typefaces/estragon",
+      "snippet": "thern Sami, Serbian (Latin), Slovak, Slovenian, Spanish, Swahili, Swedish, Turkish, Welsh and more Character Overview © 2013–2026 Dinamo Typefaces. All rights reserved FAQ Contact Licensing Terms Hardware Terms Privacy &"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://abcdinamo.com/typefaces/estragon",
+      "snippet": " late 19th century would often offer to clients as an additional freebie. We redrew the design for contemporary eyes in 2017, adding three distinctive styles—Wildstyle, Arrow, and Bubble—that can be freely combined at th"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://abcdinamo.com/typefaces/estragon",
+      "snippet": " Sami, Serbian (Latin), Slovak, Slovenian, Spanish, Swahili, Swedish, Turkish, Welsh and more Character Overview © 2013–2026 Dinamo Typefaces. All rights reserved FAQ Contact Licensing Terms Hardware Terms Privacy & Cook"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://abcdinamo.com/typefaces/estragon",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://abcdinamo.com/typefaces/estragon",
+    "last_modified": null
+  }
+}

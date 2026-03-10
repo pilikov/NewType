@@ -1,0 +1,27 @@
+{
+  "record_id": "colvert",
+  "source_url": "https://typographies.fr/N/colvert/colvert.html",
+  "checked_at": "2026-03-09T01:43:16.436757+00:00",
+  "candidates": [
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://typographies.fr/N/colvert/colvert.html",
+      "snippet": "f the French National Center for Visual Arts (CNAP). Colvert typeface was selected for Typographica Favourite Typefaces 2012. Colvert Arabic is no longer for sale from our distributor. NEWSLETTER MASTODON CONTACT Jonatha"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typographies.fr/N/colvert/colvert.html",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://typographies.fr/N/colvert/colvert.html",
+    "last_modified": null
+  }
+}

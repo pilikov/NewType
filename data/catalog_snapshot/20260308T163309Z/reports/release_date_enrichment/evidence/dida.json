@@ -1,0 +1,34 @@
+{
+  "record_id": "dida",
+  "source_url": "https://vj-type.com/10-dida",
+  "checked_at": "2026-03-09T01:44:15.306845+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://vj-type.com/10-dida",
+      "snippet": "A68E00 quicksand Display —\n                                                                    1 weight Regular Release 2016 Designer Jérémy Schneider Version 1.0 Specimen PDF Dida is a display typeface full of surprises"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://vj-type.com/10-dida",
+      "snippet": "efunds Delivery Infos About Prints Contact Font Licences Font Radar Privacy Legals Terms of Use Terms of Sales To top © 2026 VJ TYPE, all rights reserved Site by Troa"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://vj-type.com/10-dida",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://vj-type.com/10-dida",
+    "last_modified": null
+  }
+}

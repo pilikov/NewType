@@ -1,0 +1,27 @@
+{
+  "record_id": "malebolge",
+  "source_url": "https://www.tunera.xyz/fonts/malebolge/",
+  "checked_at": "2026-03-09T01:42:14.589556+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.tunera.xyz/fonts/malebolge/",
+      "snippet": "rs, and which is divided in ditches (a bit like the edges of these letters). Malebolge is inspired by the dark times of 2020 - global pandemics, despotism, poverty and inequality rising. Ariel Martín Pérez Paris, FR Supp"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.tunera.xyz/fonts/malebolge/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.tunera.xyz/fonts/malebolge/",
+    "last_modified": null
+  }
+}

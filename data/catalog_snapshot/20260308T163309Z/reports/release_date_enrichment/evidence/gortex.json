@@ -1,0 +1,34 @@
+{
+  "record_id": "gortex",
+  "source_url": "https://www.apextypefoundry.com/categorie-produit/gortex/",
+  "checked_at": "2026-03-09T01:39:50.390974+00:00",
+  "candidates": [
+    {
+      "date": "2014-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.apextypefoundry.com/categorie-produit/gortex/",
+      "snippet": "art Gortex 1 Micro Medium 80 € Add to cart Gortex 1 Micro Small 60 € Add to cart Gortex 1 Micro Solo 40 € Add to cart © 2014-2024 – Apex Type Foundry Instagram Newsletter Login × product(s) added to cart → × Login Sign U"
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.apextypefoundry.com/categorie-produit/gortex/",
+      "snippet": "ortex 1 Micro Medium 80 € Add to cart Gortex 1 Micro Small 60 € Add to cart Gortex 1 Micro Solo 40 € Add to cart © 2014-2024 – Apex Type Foundry Instagram Newsletter Login × product(s) added to cart → × Login Sign Up Rem"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.apextypefoundry.com/categorie-produit/gortex/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.apextypefoundry.com/categorie-produit/gortex/",
+    "last_modified": null
+  }
+}

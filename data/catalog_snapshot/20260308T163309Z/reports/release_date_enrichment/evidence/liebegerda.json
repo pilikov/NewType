@@ -1,0 +1,34 @@
+{
+  "record_id": "liebegerda",
+  "source_url": "https://liebefonts.com/fonts/liebegerda",
+  "checked_at": "2026-03-09T01:53:24.288464+00:00",
+  "candidates": [
+    {
+      "date": "2009-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://liebefonts.com/fonts/liebegerda",
+      "snippet": "pe from everyday life Nachbars Lumpi Yes, handmade! Run faster LiebeGerda in use: Instagram Impressum Privacy Contact © 2009–2026 Ulrike Rausch & LiebeFonts®"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://liebefonts.com/fonts/liebegerda",
+      "snippet": "om everyday life Nachbars Lumpi Yes, handmade! Run faster LiebeGerda in use: Instagram Impressum Privacy Contact © 2009–2026 Ulrike Rausch & LiebeFonts®"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://liebefonts.com/fonts/liebegerda",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://liebefonts.com/fonts/liebegerda",
+    "last_modified": null
+  }
+}

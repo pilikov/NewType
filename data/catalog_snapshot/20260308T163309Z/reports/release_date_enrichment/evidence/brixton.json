@@ -1,0 +1,27 @@
+{
+  "record_id": "brixton",
+  "source_url": "https://ellenlufftype.com/typefaces/brixton",
+  "checked_at": "2026-03-09T01:41:53.970651+00:00",
+  "candidates": [
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ellenlufftype.com/typefaces/brixton",
+      "snippet": "yle From $24.99 ↑ Back to Top About Fonts Services Licensing TTF Foundries Privacy & Cookies Terms Of Service Contact © 2026 The Type Founders, LLC"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ellenlufftype.com/typefaces/brixton",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ellenlufftype.com/typefaces/brixton",
+    "last_modified": null
+  }
+}

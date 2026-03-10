@@ -1,0 +1,48 @@
+{
+  "record_id": "zeenesia-studio--grosia",
+  "source_url": "https://zeenesia.com/product/grosia/",
+  "checked_at": "2026-03-09T01:36:22.504763+00:00",
+  "candidates": [
+    {
+      "date": "2025-03-02",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://zeenesia.com/product/grosia/",
+      "snippet": "2025-03-02T00:44:25+00:00"
+    },
+    {
+      "date": "2025-04-28",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://zeenesia.com/product/grosia/",
+      "snippet": "2025-04-28T05:47:39+00:00"
+    },
+    {
+      "date": "2025-04-28",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://zeenesia.com/product/grosia/",
+      "snippet": "2025-04-28T05:47:39+00:00"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://zeenesia.com/product/grosia/",
+      "snippet": "a quantity Add to cart Related products $ 16 Mighty Courage $ 16 Magic Prince $ 17 Broman $ 18 Magic Romance Copyright ©2025 Zeenesia Studio All Right Reserved Menu Home Shop Serif Fonts Sans Serif Fonts Script Fonts Dis"
+    },
+    {
+      "date": "2026-02-26",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://zeenesia.com/product/grosia/",
+      "snippet": "2026-02-26"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://zeenesia.com/product/grosia/",
+    "last_modified": null
+  }
+}

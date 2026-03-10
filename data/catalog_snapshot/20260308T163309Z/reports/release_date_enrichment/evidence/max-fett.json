@@ -1,0 +1,62 @@
+{
+  "record_id": "max-fett",
+  "source_url": "https://ecal-typefaces.ch/typeface/max-fett",
+  "checked_at": "2026-03-09T01:58:51.374008+00:00",
+  "candidates": [
+    {
+      "date": "2020-03-17",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://ecal-typefaces.ch/typeface/maxfett/",
+      "snippet": "2020-03-17T07:39:31+00:00"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://ecal-typefaces.ch/typeface/maxfett/",
+      "snippet": "2026-02-03T14:31:14+00:00"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://ecal-typefaces.ch/typeface/maxfett/",
+      "snippet": "2026-02-03T14:31:14+00:00"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ecal-typefaces.ch/typeface/maxfett/",
+      "snippet": "& Schmidt from 1881 is taking a contemporary approach on heavy squarish grotesks. Max Fett was designed by Weichi He in 2020. close AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDÐĎĐEÉĚÊËĖÈĒĘFGĞĠHĦIÍÎÏİÌĪJKLĽŁMNŃŇŊÑOÓÔÖÒŐŌØÕŒPÞQRŘSŚŠŞTŤUÚÛÜÙŰŪŮVWẂŴẄ"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://ecal-typefaces.ch/typeface/maxfett/",
+      "snippet": "to use in their school projects. Read more in our EULA if you're unsure which license you need. ©Students, ECAL\n        2026.\n        All rights reserved. This site uses cookies to provide you an optimal browsing experie"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://ecal-typefaces.ch/typeface/maxfett/",
+      "snippet": "Sun, 08 Mar 2026 18:45:14 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://ecal-typefaces.ch/typeface/max-fett",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ecal-typefaces.ch/typeface/maxfett/",
+    "last_modified": "Sun, 08 Mar 2026 18:45:14 GMT"
+  }
+}

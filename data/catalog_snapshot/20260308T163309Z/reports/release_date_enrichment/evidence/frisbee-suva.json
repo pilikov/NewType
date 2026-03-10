@@ -1,0 +1,27 @@
+{
+  "record_id": "frisbee-suva",
+  "source_url": "https://www.suvatypefoundry.ee/frisbee/",
+  "checked_at": "2026-03-09T01:46:01.942669+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/frisbee/",
+      "snippet": "VIOUS FONT FRISBEE NEXT FONT Q L C D K J G X V W M S E U O DOWNLOAD T B I F Y N A R P Z H FRISBEE by Fiona Helen Arenz (2020) Did you Frisbee today? Inspired by the dynamic movements of the 70’s Ultimate Frisbee players,"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/frisbee/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/frisbee/",
+    "last_modified": null
+  }
+}

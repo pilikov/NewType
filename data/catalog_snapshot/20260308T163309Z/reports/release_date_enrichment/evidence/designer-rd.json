@@ -1,0 +1,27 @@
+{
+  "record_id": "designer-rd",
+  "source_url": "http://beta.kostictype.com/fonts/designer-rd",
+  "checked_at": "2026-03-09T01:37:41.850379+00:00",
+  "candidates": [
+    {
+      "date": "1999-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://kostictype.com/fonts/designer-rd/",
+      "snippet": "Kostic Type Foundry DESIGNER RD Ultra Thin Ultra Light Thin Light Regular Designer RD was created in 1999, at the same time as Just Square and Why Square typefaces, and envisioned to be their rounded alternative. Zoran b"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://beta.kostictype.com/fonts/designer-rd",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://kostictype.com/fonts/designer-rd/",
+    "last_modified": null
+  }
+}

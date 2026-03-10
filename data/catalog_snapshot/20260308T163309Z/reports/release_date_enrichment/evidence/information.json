@@ -1,0 +1,20 @@
+{
+  "record_id": "information",
+  "source_url": "https://forgotten-shapes.com/typefaces/information",
+  "checked_at": "2026-03-09T02:03:29.967065+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://forgotten-shapes.com/typefaces/information",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://forgotten-shapes.com",
+    "last_modified": null
+  }
+}

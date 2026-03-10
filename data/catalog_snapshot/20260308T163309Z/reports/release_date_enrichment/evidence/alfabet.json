@@ -1,0 +1,20 @@
+{
+  "record_id": "alfabet",
+  "source_url": "https://capitalics.wtf/font/alfabet",
+  "checked_at": "2026-03-09T01:50:08.501497+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://capitalics.wtf/font/alfabet",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://capitalics.wtf/en/font/alfabet",
+    "last_modified": null
+  }
+}

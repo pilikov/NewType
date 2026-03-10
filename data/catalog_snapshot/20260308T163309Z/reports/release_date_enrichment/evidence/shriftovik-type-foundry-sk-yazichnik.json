@@ -1,0 +1,41 @@
+{
+  "record_id": "shriftovik-type-foundry-sk-yazichnik",
+  "source_url": "https://shriftovik.com/sk_yazichnik",
+  "checked_at": "2026-03-09T01:36:20.035909+00:00",
+  "candidates": [
+    {
+      "date": "2024-04-12",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://shriftovik.com/sk_yazichnik",
+      "snippet": " Taita, Teso, Turkish, Upper Sorbian, Uzbek (Latin), Volapük, Vunjo, Walser, Welsh, Western Frisian, Zulu. Release date April 12, 2024 Autor Anna Dokalina More EULA Specimen Presentation Free Trial Basic latin Basic cyri"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://shriftovik.com/sk_yazichnik",
+      "snippet": "ocessing of personal data and agree to privacy policy . shriftovik xyz@shriftovik.com about catalog portfolio license © 2025 telegram vk youtube behance instagram contacts faq policy cookie? cookie! Оплатить Your name E-"
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://shriftovik.com/sk_yazichnik",
+      "snippet": "Thu, 24 Apr 2025 16:54:07 GMT"
+    },
+    {
+      "date": "2026-02-27",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://shriftovik.com/sk_yazichnik",
+      "snippet": "2026-02-27"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://shriftovik.com/sk_yazichnik",
+    "last_modified": "Thu, 24 Apr 2025 16:54:07 GMT"
+  }
+}

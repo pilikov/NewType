@@ -1,0 +1,34 @@
+{
+  "record_id": "nt-bau-mono",
+  "source_url": "https://nodotypefoundry.com/typefaces/nt-bau-mono",
+  "checked_at": "2026-03-09T01:49:00.159636+00:00",
+  "candidates": [
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://nodotypefoundry.com/typefaces/nt-bau-mono/",
+      "snippet": "ur trials.\n\t\t\t\tHi! click here and download our trials. Light Regular Medium Bold Black Reset Hello! NT Bau Mono Release 2020 Styles 5 Glyphs 423 Monospaced typographies inherit much of the Industrial Revolution’s raw qua"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://nodotypefoundry.com/typefaces/nt-bau-mono/",
+      "snippet": "eu NT Bau NT Ciceron NT Dapper NT Umami NT Stardust NT Voluma Sitemap Fonts in use Custom Market About FAQs © Copyright 2026 Nodo™ Type Foundry text@nodotypefoundry.com"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://nodotypefoundry.com/typefaces/nt-bau-mono",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://nodotypefoundry.com/typefaces/nt-bau-mono/",
+    "last_modified": null
+  }
+}

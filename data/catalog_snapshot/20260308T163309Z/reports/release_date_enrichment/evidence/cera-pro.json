@@ -1,0 +1,55 @@
+{
+  "record_id": "cera-pro",
+  "source_url": "https://typemates.com/fonts/cera-pro",
+  "checked_at": "2026-03-09T01:45:08.500220+00:00",
+  "candidates": [
+    {
+      "date": "2016-07-10",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.typemates.com/fonts/cera-pro",
+      "snippet": "2016-07-10T17:28:00+02:00"
+    },
+    {
+      "date": "2016-07-10",
+      "score": 0.95,
+      "source_type": "jsonld:dateCreated",
+      "source_url": "https://www.typemates.com/fonts/cera-pro",
+      "snippet": "2016-07-10T17:28:13+02:00"
+    },
+    {
+      "date": "2026-03-05",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.typemates.com/fonts/cera-pro",
+      "snippet": "2026-03-05T11:59:27+01:00"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/cera-pro",
+      "snippet": ", a truly hand-crafted display Cera Brush and soft, machine milling inspired Cera Round . Designed by Jakob Runge in in 2015, 2018 Contributions Lisa Fischbach Consulting & Help Irene Vlachou , Ilya Ruderman & Yury Ostro"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.typemates.com/fonts/cera-pro",
+      "snippet": "uly hand-crafted display Cera Brush and soft, machine milling inspired Cera Round . Designed by Jakob Runge in in 2015, 2018 Contributions Lisa Fischbach Consulting & Help Irene Vlachou , Ilya Ruderman & Yury Ostromentsk"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://typemates.com/fonts/cera-pro",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.typemates.com/fonts/cera-pro",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "record_id": "foundry-sterling",
+  "source_url": "https://www.thefoundrytypes.com/typeface/foundry-sterling",
+  "checked_at": "2026-03-09T01:40:25.357755+00:00",
+  "candidates": [
+    {
+      "date": "2020-07-29",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-sterling-font-british-sans/",
+      "snippet": "2020-07-29T16:50:28+00:00"
+    },
+    {
+      "date": "2025-07-28",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-sterling-font-british-sans/",
+      "snippet": "2025-07-28T14:25:07+00:00"
+    },
+    {
+      "date": "2025-07-28",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-sterling-font-british-sans/",
+      "snippet": "2025-07-28T14:25:07+00:00"
+    },
+    {
+      "date": "1999-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-sterling-font-british-sans/",
+      "snippet": "for Foundry Sterling came off the back of the corporate typeface project ‘Brunel’ for Railtrack and ‘BG’ British Gas in 1999. Around this time Stuart de Rozario joined the company as an assistant to aid in the design and"
+    },
+    {
+      "date": "2002-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-sterling-font-british-sans/",
+      "snippet": " weights: Light, Book, Book Italic, Medium, Demi, Bold, and Extra Bold. Foundry Sterling Graphics International 94, Apr 2002, p.37. Foundry Sterling initial pencil sketches. Foundry Sterling Graphics International 94, Ap"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-sterling-font-british-sans/",
+      "snippet": "AQs Font licensing Privacy policy Account My account Orders Downloads Website by Studio Playne © The Foundry Types 1989–2026 Back to top"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.thefoundrytypes.com/fonts/foundry-sterling-font-british-sans/",
+      "snippet": "Tue, 03 Mar 2026 14:39:35 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.thefoundrytypes.com/typeface/foundry-sterling",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.thefoundrytypes.com/fonts/foundry-sterling-font-british-sans/",
+    "last_modified": "Tue, 03 Mar 2026 14:39:35 GMT"
+  }
+}

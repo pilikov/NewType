@@ -1,0 +1,19 @@
+{
+  "record_id": "uni-grotesk",
+  "source_url": "https://www.typotheque.com/fonts/uni-grotesk",
+  "checked_at": "2026-03-09T02:03:33.230673+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.typotheque.com/fonts/uni-grotesk",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "403 Client Error: Forbidden for url: https://www.typotheque.com/fonts/uni-grotesk"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "testtype",
+  "source_url": "https://notyourtype.nl/typefaces/testtype",
+  "checked_at": "2026-03-09T02:03:29.166968+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.notyourtype.nl/typefaces/testtype",
+      "snippet": " you believe that you are experiencing a bug? Please tell us everything ! Make sure to add as much detail as you can :) 2021 - 2026, notyourtypefoundry All Rights Reserved. Updating cart... Your cart Your cart is empty. "
+    },
+    {
+      "date": "2024-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.notyourtype.nl/typefaces/testtype",
+      "snippet": "rtypefoundry notyourtypefoundry cart ( 0 ) Typefaces Discoveries Tools Licenses Info Typefaces testType By Xiaoyuan Gao 2024 7 styles testType is a group of typefaces made in super short amount of time or with very ineff"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.notyourtype.nl/typefaces/testtype",
+      "snippet": "lieve that you are experiencing a bug? Please tell us everything ! Make sure to add as much detail as you can :) 2021 - 2026, notyourtypefoundry All Rights Reserved. Updating cart... Your cart Your cart is empty. This we"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://notyourtype.nl/typefaces/testtype",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.notyourtype.nl/typefaces/testtype",
+    "last_modified": null
+  }
+}

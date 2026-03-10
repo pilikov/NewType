@@ -1,0 +1,48 @@
+{
+  "record_id": "fk-raster-grotesk",
+  "source_url": "https://fonts.floriankarsten.com/fk-raster-grotesk",
+  "checked_at": "2026-03-09T01:48:27.627663+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fonts.floriankarsten.com/fk-raster-grotesk",
+      "snippet": "aster Grotesk Specimen PDF (153 KB) Designer Květoslav Bartoš Publisher Florian Karsten Typefaces Release date December 2019 Version 1.0.2 (June 2020) Formats Static (OTF, TTF, WOFF, WOFF2), Variable (TTF, WOFF, WOFF2) G"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fonts.floriankarsten.com/fk-raster-grotesk",
+      "snippet": "F (153 KB) Designer Květoslav Bartoš Publisher Florian Karsten Typefaces Release date December 2019 Version 1.0.2 (June 2020) Formats Static (OTF, TTF, WOFF, WOFF2), Variable (TTF, WOFF, WOFF2) Glyphs 471 OpenType featur"
+    },
+    {
+      "date": "2010-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fonts.floriankarsten.com/fk-raster-grotesk",
+      "snippet": " de dados sobre os gigantes gasosos do sistema solar, dos quais pouco era conhecido anteriormente. Em 13 de dezembro de 2010, depois de meses à espera da confirmação dos dados, a NASA anunciou que a Voyager 1, viajando a"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fonts.floriankarsten.com/fk-raster-grotesk",
+      "snippet": "a de heliopausa, tornando-se o primeiro artefato humano a chegar à fronteira do Sistema Solar. No dia 12 de Setembro de 2013 a NASA confirmou que a Voyager 1 deixou portanto o Sistema Solar. O programa Viking consistiu d"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fonts.floriankarsten.com/fk-raster-grotesk",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fonts.floriankarsten.com/fk-raster-grotesk",
+    "last_modified": null
+  }
+}

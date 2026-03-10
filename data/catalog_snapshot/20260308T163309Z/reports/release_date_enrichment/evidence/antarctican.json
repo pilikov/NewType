@@ -1,0 +1,20 @@
+{
+  "record_id": "antarctican",
+  "source_url": "https://dunwichtype.com/typefaces/antarctican",
+  "checked_at": "2026-03-09T01:39:52.909172+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://dunwichtype.com/typefaces/antarctican",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://dunwichtype.com/fonts/antarctican/",
+    "last_modified": null
+  }
+}

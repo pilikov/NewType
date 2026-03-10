@@ -1,0 +1,27 @@
+{
+  "record_id": "my-maps-sans-polyconic",
+  "source_url": "https://www.suvatypefoundry.ee/my-maps-sans-polyconic/",
+  "checked_at": "2026-03-09T01:43:48.284809+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.suvatypefoundry.ee/my-maps-sans-polyconic/",
+      "snippet": " MAPS SANS POLYCONIC NEXT FONT E L Q M CONTACT J D V S N R F K H B W U X I P C T O Y G Z A MY MAPS SANS by Andree Paat (2016) For my BA final project I experimented with different virtual tools that have a drawing functi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.suvatypefoundry.ee/my-maps-sans-polyconic/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.suvatypefoundry.ee/my-maps-sans-polyconic/",
+    "last_modified": null
+  }
+}

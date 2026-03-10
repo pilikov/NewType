@@ -1,0 +1,20 @@
+{
+  "record_id": "u-type",
+  "source_url": "https://muirmcneil.com/typefaces/u-type",
+  "checked_at": "2026-03-09T02:03:55.141978+00:00",
+  "candidates": [
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://muirmcneil.com/typefaces/u-type",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://muirmcneil.com/downloads/mmcn-modular-type-collection/",
+    "last_modified": null
+  }
+}

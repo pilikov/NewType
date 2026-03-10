@@ -1,0 +1,48 @@
+{
+  "record_id": "bingo",
+  "source_url": "https://abcdinamo.com/typefaces/bingo",
+  "checked_at": "2026-03-09T01:37:20.092154+00:00",
+  "candidates": [
+    {
+      "date": "2011-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://abcdinamo.com/typefaces/bingo",
+      "snippet": "s edgy exterior contrasts with its sympathetic, rounded inner-contours. The typeface was Johannes Breyer’s first hit in 2011, released while he was still an intern at NORM via a purposefully-developed website. It’s based"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://abcdinamo.com/typefaces/bingo",
+      "snippet": "ars smooth at small scale and brutal when large. A second set of monolinear, thin punctuation was added to ABC Bingo in 2012. Credits Original Design: Rob Roy Kelly Interpretation: Dinamo (Johannes Breyer) Production: Di"
+    },
+    {
+      "date": "2013-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://abcdinamo.com/typefaces/bingo",
+      "snippet": ", Serbian (Latin), Slovak, Slovenian, Spanish, Swahili, Swedish, Turkish, Welsh and more Character Overview Buy BINGO © 2013–2026 Dinamo Typefaces. All rights reserved FAQ Contact Licensing Terms Hardware Terms Privacy &"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://abcdinamo.com/typefaces/bingo",
+      "snippet": "bian (Latin), Slovak, Slovenian, Spanish, Swahili, Swedish, Turkish, Welsh and more Character Overview Buy BINGO © 2013–2026 Dinamo Typefaces. All rights reserved FAQ Contact Licensing Terms Hardware Terms Privacy & Cook"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://abcdinamo.com/typefaces/bingo",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://abcdinamo.com/typefaces/bingo",
+    "last_modified": null
+  }
+}

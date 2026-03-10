@@ -1,0 +1,48 @@
+{
+  "record_id": "itf-devanagari",
+  "source_url": "https://www.indiantypefoundry.com/fonts/itf-devanagari",
+  "checked_at": "2026-03-09T01:52:54.320127+00:00",
+  "candidates": [
+    {
+      "date": "2011-09-05",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.indiantypefoundry.com/fonts/itf-devanagari",
+      "snippet": " High-Contrast Headlines Invitation Humanist Hindi Family Name ITF Devanagari Designer(s) Satya Rajpurohit Release Date September 5, 2011 Available Style Light, Book, Demi, Medium, Bold Classification Serif Supported Lan"
+    },
+    {
+      "date": "2017-02-07",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.indiantypefoundry.com/fonts/itf-devanagari",
+      "snippet": "ફો More info about this font More info about this font Family Name ITF Gujarati Designer(s) Parimal Parmar Release Date February 7, 2017 Available Style Light, Regular, Medium, Semibold, Bold Classification Serif Support"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.indiantypefoundry.com/fonts/itf-devanagari",
+      "snippet": "ndiantypefoundry.com Back to top Design Plasticbionic - Code Dansuncoinsidense - Backend SLONLine Indian Type Foundry © 2016 - 2026"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.indiantypefoundry.com/fonts/itf-devanagari",
+      "snippet": "pefoundry.com Back to top Design Plasticbionic - Code Dansuncoinsidense - Backend SLONLine Indian Type Foundry © 2016 - 2026"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.indiantypefoundry.com/fonts/itf-devanagari",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.indiantypefoundry.com/fonts/itf-devanagari",
+    "last_modified": null
+  }
+}

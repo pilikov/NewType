@@ -1,0 +1,62 @@
+{
+  "record_id": "de-archie-display",
+  "source_url": "https://playtype.com/typefaces/de-archie-display",
+  "checked_at": "2026-03-09T01:38:09.362092+00:00",
+  "candidates": [
+    {
+      "date": "2018-12-29",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://playtype.com/typefaces/de-archie-display/",
+      "snippet": "2018-12-29T22:40:29+00:00"
+    },
+    {
+      "date": "2003-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://playtype.com/typefaces/de-archie-display/",
+      "snippet": "evious Font Next Font Buy from 50€ Regular Bold De Archie Display Buy from 50€ Styles 2 Designer Jonas Hecksher Release 2003 The hairlines becomes thinner and adds a more delicate didot feel to the design, with the contr"
+    },
+    {
+      "date": "2025-06-26",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://playtype.com/typefaces/de-archie-display/",
+      "snippet": "2025-06-26T09:06:43+00:00"
+    },
+    {
+      "date": "2025-06-26",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://playtype.com/typefaces/de-archie-display/",
+      "snippet": "2025-06-26T09:06:43+00:00"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://playtype.com/typefaces/de-archie-display/",
+      "snippet": "rty of their respective owners and no endorsement or derogation is intended or inferred. All other content, copyright © 2026 Playtype. All rights reserved."
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://playtype.com/typefaces/de-archie-display/",
+      "snippet": "Fri, 06 Mar 2026 21:17:38 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://playtype.com/typefaces/de-archie-display",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://playtype.com/typefaces/de-archie-display/",
+    "last_modified": "Fri, 06 Mar 2026 21:17:38 GMT"
+  }
+}

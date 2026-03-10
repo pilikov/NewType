@@ -1,0 +1,48 @@
+{
+  "record_id": "ops-placard",
+  "source_url": "http://ourpolitesocietytype.net/typefaces/ops-placard",
+  "checked_at": "2026-03-09T01:55:04.173199+00:00",
+  "candidates": [
+    {
+      "date": "1996-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://ops-type.com/typefaces/ops-placard/Text",
+      "snippet": "The FACIT Model (Spector Books, 2019). 1. Beatriz Colomina, Sexuality & Space (New York: Princeton Architectural Press, 1996), p. 2. 2. Danielle Levitt, Female Archetypes: On Fashion Storytelling and the Collective Uncon"
+    },
+    {
+      "date": "2014-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://ops-type.com/typefaces/ops-placard/Text",
+      "snippet": " Danielle Levitt, Female Archetypes: On Fashion Storytelling and the Collective Unconscious (Issue 4). Vestoj On Power, 2014, p. 83. 3. Robert Blake et al, The Secretary Grid (New York: Amacom Books, 1983), pp. 4–5, emph"
+    },
+    {
+      "date": "2019-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://ops-type.com/typefaces/ops-placard/Text",
+      "snippet": "d indicate gendered spatial dynamics. [...] For the full text, see: Our Polite Society: The FACIT Model (Spector Books, 2019). 1. Beatriz Colomina, Sexuality & Space (New York: Princeton Architectural Press, 1996), p. 2."
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://ops-type.com/typefaces/ops-placard/Text",
+      "snippet": " The Secretary Grid (New York: Amacom Books, 1983), pp. 4–5, emphasis in original. text specimen writer Buy Copyright © 2026 OPS Type. All rights reserved."
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "http://ourpolitesocietytype.net/typefaces/ops-placard",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ops-type.com/typefaces/ops-placard/Text",
+    "last_modified": null
+  }
+}

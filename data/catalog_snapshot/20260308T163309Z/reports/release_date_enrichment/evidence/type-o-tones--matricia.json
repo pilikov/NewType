@@ -1,0 +1,34 @@
+{
+  "record_id": "type-o-tones--matricia",
+  "source_url": "https://type-o-tones.com/fonts/matricia",
+  "checked_at": "2026-03-09T01:58:49.319323+00:00",
+  "candidates": [
+    {
+      "date": "1998-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/matricia",
+      "snippet": "ricia Family Pack 3 Fonts 105 € 84 € Add to cart Uno, Uno Extended, Dos Author José Manuel Urós , Pera Ribalta Creation 1998 Actual version 2 (2007) Styles 3 Character sets Basic Latin Latin-1 Supplement License Types De"
+    },
+    {
+      "date": "2007-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://type-o-tones.com/fonts/matricia",
+      "snippet": "ts 105 € 84 € Add to cart Uno, Uno Extended, Dos Author José Manuel Urós , Pera Ribalta Creation 1998 Actual version 2 (2007) Styles 3 Character sets Basic Latin Latin-1 Supplement License Types Desktop, Webfont, ePub, A"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://type-o-tones.com/fonts/matricia",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://type-o-tones.com/fonts/matricia",
+    "last_modified": null
+  }
+}

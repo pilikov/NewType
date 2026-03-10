@@ -1,0 +1,28 @@
+{
+  "record_id": "harunami",
+  "source_url": "https://www.psyops.com/typeface/harunami",
+  "checked_at": "2026-03-09T02:02:50.984457+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://www.psyops.com/wp-content/uploads/2013/06/HARUNAMI.png",
+      "snippet": "Mon, 09 May 2016 23:29:04 GMT"
+    },
+    {
+      "date": "2026-02-04",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.psyops.com/typeface/harunami",
+      "snippet": "2026-02-04"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": 200,
+    "error": "unsupported content-type: image/png",
+    "final_url": "https://www.psyops.com/wp-content/uploads/2013/06/HARUNAMI.png",
+    "last_modified": "Mon, 09 May 2016 23:29:04 GMT"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "record_id": "eidetic-modern",
+  "source_url": "https://www.psyops.com/typefaces/eidetic-modern",
+  "checked_at": "2026-03-09T01:57:22.167078+00:00",
+  "candidates": [
+    {
+      "date": "2012-09-07",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.psyops.com/product/eidetic-modern-bold/",
+      "snippet": "2012-09-07T22:44:42+00:00"
+    },
+    {
+      "date": "1997-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.psyops.com/product/eidetic-modern-bold/",
+      "snippet": "rt to Eidetic Neo. Both families were developed in tandem, however the Modern was the first to be published by PSY/OPS [1997]. Eidetic Modern’s features — gently tapered stems, buffed corners and junctures, vertical stre"
+    },
+    {
+      "date": "2018-06-29",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.psyops.com/product/eidetic-modern-bold/",
+      "snippet": "2018-06-29T21:26:32+00:00"
+    },
+    {
+      "date": "2018-06-29",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.psyops.com/product/eidetic-modern-bold/",
+      "snippet": "2018-06-29T21:26:32+00:00"
+    },
+    {
+      "date": "1995-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.psyops.com/product/eidetic-modern-bold/",
+      "snippet": "Modern Italic COMPANY ABOUT US PRIVACY LEARN MORE DESIGN LICENSING CONNECT WITH US CONTACT FORM JOIN OUR MAILING LIST © 1995–2025 PSY/OPS Type Foundry. All Rights Reserved. Page load link 0 Added to cart Close cart Your "
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.psyops.com/product/eidetic-modern-bold/",
+      "snippet": "n Italic COMPANY ABOUT US PRIVACY LEARN MORE DESIGN LICENSING CONNECT WITH US CONTACT FORM JOIN OUR MAILING LIST © 1995–2025 PSY/OPS Type Foundry. All Rights Reserved. Page load link 0 Added to cart Close cart Your Cart "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.psyops.com/typefaces/eidetic-modern",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.psyops.com/product/eidetic-modern-bold/",
+    "last_modified": null
+  }
+}

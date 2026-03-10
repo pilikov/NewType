@@ -1,0 +1,27 @@
+{
+  "record_id": "fixo",
+  "source_url": "https://www.dstype.com/article/fixo",
+  "checked_at": "2026-03-09T01:45:47.662776+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.dstype.com/article/fixo",
+      "snippet": "al and corporate projects. Discover Fixo Discover Fixo Pro Discover Fixo Arabic Asset 4 DSType Unipessoal Lda Copyright 2017 All right reserved Best Sellers Help Contact Ordering Font Licensing Cookies settings Newslette"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.dstype.com/article/fixo",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.dstype.com/article/fixo",
+    "last_modified": null
+  }
+}

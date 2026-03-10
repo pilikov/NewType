@@ -1,0 +1,19 @@
+{
+  "record_id": "kuusi-sans",
+  "source_url": "https://3type.cn/fonts/kuusi_sans/index.html",
+  "checked_at": "2026-03-09T01:36:12.642452+00:00",
+  "candidates": [
+    {
+      "date": "2026-03-02",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://3type.cn/fonts/kuusi_sans/index.html",
+      "snippet": "2026-03-02"
+    }
+  ],
+  "request": {
+    "ok": false,
+    "status": null,
+    "error": "HTTPSConnectionPool(host='3type.cn', port=443): Max retries exceeded with url: /fonts/kuusi_sans/index.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)')))"
+  }
+}

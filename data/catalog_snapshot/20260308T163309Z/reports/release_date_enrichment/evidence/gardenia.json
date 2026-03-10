@@ -1,0 +1,55 @@
+{
+  "record_id": "gardenia",
+  "source_url": "https://wtypefoundry.com/typefaces/gardenia",
+  "checked_at": "2026-03-09T01:46:09.200390+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-16",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://wtypefoundry.com/typefaces/gardenia",
+      "snippet": "2024-01-16"
+    },
+    {
+      "date": "1999-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://wtypefoundry.com/typefaces/gardenia",
+      "snippet": "stion, get a silly answe... If you add 429 and 138 the answer is 56... No? Let me tell you what I believe.... OPEN RAVE 1999 - [Parque O’Higgins]... Sin mi Olguita Marina, nada tiene senti... La legal, yo no soy na' cual"
+    },
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://wtypefoundry.com/typefaces/gardenia",
+      "snippet": "Gardenia is a grotesk sans-serif. It comes in 9 weights with matching italics. It was designed by Salvador Rodríguez in 2015/2016. It is characterized by legibility in the medium sizes, black and thin weights are great p"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://wtypefoundry.com/typefaces/gardenia",
+      "snippet": "nia is a grotesk sans-serif. It comes in 9 weights with matching italics. It was designed by Salvador Rodríguez in 2015/2016. It is characterized by legibility in the medium sizes, black and thin weights are great perfor"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://wtypefoundry.com/typefaces/gardenia",
+      "snippet": "/ Software License eBook / ePub Corporate Server Instagram Subscribe hola@wtypefoundry.com BACK TO TOP © W Type Foundry 2026"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://wtypefoundry.com/typefaces/gardenia",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://wtypefoundry.com/typefaces/gardenia",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "record_id": "typewriter-contrast",
+  "source_url": "https://a2-type.co.uk/typewriter-contrast",
+  "checked_at": "2026-03-09T01:52:33.672010+00:00",
+  "candidates": [
+    {
+      "date": "2019-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://a2-type.co.uk/typewriter-contrast",
+      "snippet": " Sorbian, Vunjo, Walloon, Welsh, Western Frisian, Wolof, Xhosa, Zulu Manufacturer: A2-TYPE Designer: Henrik Kubel Year: 2019 Copyright: © A2-TYPE Trademark: Typewriter Contrast is a trademark of A2-TYPE Licence: Terms an"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://a2-type.co.uk/typewriter-contrast",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://a2-type.co.uk/typewriter-contrast",
+    "last_modified": null
+  }
+}

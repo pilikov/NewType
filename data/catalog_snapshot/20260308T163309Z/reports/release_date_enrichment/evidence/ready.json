@@ -1,0 +1,34 @@
+{
+  "record_id": "ready",
+  "source_url": "https://plain-form.com/typefaces/ready",
+  "checked_at": "2026-03-09T01:56:21.032425+00:00",
+  "candidates": [
+    {
+      "date": "2022-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://plain-form.com/typefaces/ready",
+      "snippet": ", only sprinkled with a few hints of our long-established and codified writing system. Try Family 9 styles Release year 2022 → Mini-site → Notes on design → Lo-fi track → PDF Specimen PDF Specimen [↘] → Type tester → Inf"
+    },
+    {
+      "date": "2023-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://plain-form.com/typefaces/ready",
+      "snippet": " the PDF specimen . In use Mitski – The Land Is Inhospitable and So Are We Hihats In Trees – Artefacts Le Ciel, Sep–Dec 2023 Raise Your Voice zine Dragon poster KINDHEIT(EN) exhibition Mater exhibition Daisy short film O"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://plain-form.com/typefaces/ready",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://plain-form.com/typefaces/ready",
+    "last_modified": null
+  }
+}

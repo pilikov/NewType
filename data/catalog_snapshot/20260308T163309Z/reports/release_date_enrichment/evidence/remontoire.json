@@ -1,0 +1,41 @@
+{
+  "record_id": "remontoire",
+  "source_url": "https://macrhino.com/typefaces/remontoire",
+  "checked_at": "2026-03-09T01:59:42.419604+00:00",
+  "candidates": [
+    {
+      "date": "1998-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://macrhino.com/project/remontoire",
+      "snippet": "ervices Custom Type Commercial Type Other Work About & Services Custom Type Commercial Type Other Work Date of release: 1998 2 weights/4 styles DOWNLOAD PDF Desktop €69,00 EUR Webfont €69,00 EUR Combined €104,00 EUR Size"
+    },
+    {
+      "date": "2004-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://macrhino.com/project/remontoire",
+      "snippet": "D PDF Desktop €69,00 EUR Webfont €69,00 EUR Combined €104,00 EUR Size Line height Letter spacing Try typeface here... © 2004–2020 Stefan Hattenbach/MRF.  Site design: Jonas Hellström D+AD ."
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://macrhino.com/project/remontoire",
+      "snippet": " Desktop €69,00 EUR Webfont €69,00 EUR Combined €104,00 EUR Size Line height Letter spacing Try typeface here... © 2004–2020 Stefan Hattenbach/MRF.  Site design: Jonas Hellström D+AD ."
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://macrhino.com/typefaces/remontoire",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://macrhino.com/project/remontoire",
+    "last_modified": null
+  }
+}

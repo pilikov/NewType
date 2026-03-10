@@ -1,0 +1,69 @@
+{
+  "record_id": "29lt-zarid-serif",
+  "source_url": "https://www.29lt.com/product/29lt-zarid-serif/",
+  "checked_at": "2026-03-09T01:37:04.743155+00:00",
+  "candidates": [
+    {
+      "date": "2019-11-20",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-serif/",
+      "snippet": "2019-11-20T17:45:45+00:00"
+    },
+    {
+      "date": "2012-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-serif/",
+      "snippet": "og.29LT.com Contact Us info [at] 29lt [dot] com Social Media Instagram YouTube Facebook X 29Letters Type Foundry S.L. © 2012 – 2026 / All rights\r\n\t\t\t\t\treserved. Partner at Fontstand Available at Type Network"
+    },
+    {
+      "date": "2016-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-serif/",
+      "snippet": "amiro Espinoza (Latin) Pascal Zoghbi (Arabic) Name Meaning Strong / Robust / Bold Number of Glyphs 1545+ Year Published 2016 (Initial Release) 2018 (Updated Release) Languages Middle Eastern and North African languages w"
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-serif/",
+      "snippet": "Pascal Zoghbi (Arabic) Name Meaning Strong / Robust / Bold Number of Glyphs 1545+ Year Published 2016 (Initial Release) 2018 (Updated Release) Languages Middle Eastern and North African languages written in the Arabic sc"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-serif/",
+      "snippet": ".com Contact Us info [at] 29lt [dot] com Social Media Instagram YouTube Facebook X 29Letters Type Foundry S.L. © 2012 – 2026 / All rights\r\n\t\t\t\t\treserved. Partner at Fontstand Available at Type Network"
+    },
+    {
+      "date": "2025-10-20",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-serif/",
+      "snippet": "2025-10-20T15:44:26+00:00"
+    },
+    {
+      "date": "2025-10-20",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-serif/",
+      "snippet": "2025-10-20T15:44:26+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.29lt.com/product/29lt-zarid-serif/",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.29lt.com/product/29lt-zarid-serif/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "record_id": "montagu-slab",
+  "source_url": "https://fonts.floriankarsten.com/montagu-slab",
+  "checked_at": "2026-03-09T01:50:25.451799+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://fonts.floriankarsten.com/montagu-slab",
+      "snippet": "Montagu Slab Specimen PDF (228 KB) Designer Květoslav Bartoš Publisher Florian Karsten Typefaces Release date September 2021 Version 1.0.0 Formats OTF, TTF (variable), WOFF2 Glyphs 687 OpenType features Standard Ligature"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fonts.floriankarsten.com/montagu-slab",
+      "snippet": "e foundry publishing high quality retail and custom typefaces. All typefaces are sold exclusively through this website. 2026 © Květoslav Bartoš & Florian Karsten Typefaces . Design & Code: Florian Karsten Studio . Made w"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fonts.floriankarsten.com/montagu-slab",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fonts.floriankarsten.com/montagu-slab",
+    "last_modified": null
+  }
+}

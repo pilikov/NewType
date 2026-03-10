@@ -1,0 +1,34 @@
+{
+  "record_id": "eternal-collection",
+  "source_url": "https://blazetype.eu/typefaces/eternal-collection",
+  "checked_at": "2026-03-09T01:56:05.137288+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://blazetype.eu/typefaces/eternal-collection",
+      "snippet": "on of flexibility for dynamic, forward-leaning typography. Designed by Matthieu Salvaggio, Malo Haffreingue Released in 2024 Export .OTF .WOFF .WOFF2 .TTF (Variable) Developed for Latin European Languages Afrikaans, Alba"
+    },
+    {
+      "date": "2024-11-29",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://blazetype.eu/typefaces/eternal-collection",
+      "snippet": "2024-11-29"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://blazetype.eu/typefaces/eternal-collection",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://blazetype.eu/typefaces/eternal-collection",
+    "last_modified": null
+  }
+}

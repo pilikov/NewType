@@ -1,0 +1,27 @@
+{
+  "record_id": "shader",
+  "source_url": "https://www.daltonmaag.com/library/shader",
+  "checked_at": "2026-03-09T01:38:25.694911+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.daltonmaag.com/font-library/shader.html",
+      "snippet": "n display settings. Shaderâs Solid and Inline variable fonts feature an extensive Weight axis. Designed and developed\n2021 Designers Rafael Saraiva Writing Systems Latin Supporting over 800\nLanguages Aari (Latin Script"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.daltonmaag.com/library/shader",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.daltonmaag.com/font-library/shader.html",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "herokid",
+  "source_url": "https://wtypefoundry.com/typefaces/herokid",
+  "checked_at": "2026-03-09T02:03:28.325306+00:00",
+  "candidates": [
+    {
+      "date": "2024-01-16",
+      "score": 0.75,
+      "source_type": "meta:date",
+      "source_url": "https://wtypefoundry.com/typefaces/herokid",
+      "snippet": "2024-01-16"
+    },
+    {
+      "date": "1999-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://wtypefoundry.com/typefaces/herokid",
+      "snippet": "and 138 the answer is 56... No? Let me tell you what I believe.... The war that devastated the Real World.... OPEN RAVE 1999 - [Parque O’Higgins]... Sin mi Olguita Marina, nada tiene senti... La legal, yo no soy na' cual"
+    },
+    {
+      "date": "2022-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://wtypefoundry.com/typefaces/herokid",
+      "snippet": "d Italic:i4 Herokid Italic:i6 Herokid Italic:i6 Herokid Italic:i1 Herokid:n1 Herokid Italic Heavy Expanded HI World 404 2022 A1 Gaspar Select Style Herokid Herokid Thin Ultracondensed Herokid Extralight Ultracondensed He"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://wtypefoundry.com/typefaces/herokid",
+      "snippet": "/ Software License eBook / ePub Corporate Server Instagram Subscribe hola@wtypefoundry.com BACK TO TOP © W Type Foundry 2026"
+    },
+    {
+      "date": "2026-02-03",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://wtypefoundry.com/typefaces/herokid",
+      "snippet": "2026-02-03"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://wtypefoundry.com/typefaces/herokid",
+    "last_modified": null
+  }
+}

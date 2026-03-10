@@ -1,0 +1,48 @@
+{
+  "record_id": "nan-hyena-sunset",
+  "source_url": "https://www.nan.xyz/typefaces/nan-hyena-sunset",
+  "checked_at": "2026-03-09T01:58:05.102658+00:00",
+  "candidates": [
+    {
+      "date": "2016-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.nan.xyz/fonts/",
+      "snippet": "protein NaN Serf 2 flavours, 3 optical sizes, 8 weights, italics, LAT NaN Serf A Display Kerala State Television Awards 2016 NaN Serf A Headline Bleep Mix #232 – Nik Colk Void NaN Serf A Text Siddhartha: Eine Indische Di"
+    },
+    {
+      "date": "2022-04-06",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.nan.xyz/fonts/",
+      "snippet": " Metrify Latin Ultrawide Übergröße Präzisionsm NaN Tresor 3 optical sizes, 5 weights, LAT+PANAF NaN Tresor L 12:27 PM · Apr 6, 2022 · TweetDeck NaN Tresor M Demateriology and its consequences NaN Tresor S Mikhail Gorbach"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.nan.xyz/fonts/",
+      "snippet": "e Outernet Virgin Money Walkie Talkie Warhammer Wise Instagram Bluesky Mastodon Twitter Github Email Studio live feed © 2026 NaN All Rights Reserved |\\| △ |\\| undefined type undefined Close “Usability is a quality attrib"
+    },
+    {
+      "date": "2026-06-19",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.nan.xyz/fonts/",
+      "snippet": " Sunrise †Lower Ye Expectations Ye Who Seecks† NaN Hyena Noon Were you really thinking that you could? NaN Hyena Sunset 2026-06-19: Aircraft Mega-Deals NaN Tragedy 2 optical sizes, mono, italics, LAT NaN Tragedy Display "
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.nan.xyz/typefaces/nan-hyena-sunset",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.nan.xyz/fonts/",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "record_id": "crayonette-djr",
+  "source_url": "https://djr.com/notes/crayonette-djr-font-of-the-month",
+  "checked_at": "2026-03-09T01:43:31.021775+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/crayonette-djr-font-of-the-month",
+      "snippet": "tes About Sign in Cart Notes See all posts August 31, 2017 # David Jonathan Ross Reviving Crayonette Font of the Month, 2017/08 PDF Try Buy $24 Crayonette , was designed by Henry Brehmer in 1889 and first issued by Phila"
+    },
+    {
+      "date": "2017-08-02",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/crayonette-djr-font-of-the-month",
+      "snippet": "(1886) outdates Henry Brehmer’s «Crayonette» by four years — pic.twitter.com/8krKdluX0r — Ellmer Stefan (@ellmerstefan) August 2, 2017 And thanks to research by Indra Kupferschmid , I also found out that Crayonette came "
+    },
+    {
+      "date": "2017-08-31",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/notes/crayonette-djr-font-of-the-month",
+      "snippet": "wog Rhody Rustique Slight Chance Tortellini Zenith DJR Club Typeset Glyphs Notes About Sign in Cart Notes See all posts August 31, 2017 # David Jonathan Ross Reviving Crayonette Font of the Month, 2017/08 PDF Try Buy $24"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://djr.com/notes/crayonette-djr-font-of-the-month",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://djr.com/notes/crayonette-djr-font-of-the-month",
+    "last_modified": null
+  }
+}

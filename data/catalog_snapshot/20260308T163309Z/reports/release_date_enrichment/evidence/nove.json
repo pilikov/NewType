@@ -1,0 +1,62 @@
+{
+  "record_id": "nove",
+  "source_url": "https://fsd.it/typefaces/nove",
+  "checked_at": "2026-03-09T01:37:06.277003+00:00",
+  "candidates": [
+    {
+      "date": "2015-12-03",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://fsd.it/shop/fonts/nove/",
+      "snippet": "2015-12-03T12:02:37+00:00"
+    },
+    {
+      "date": "2025-07-30",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://fsd.it/shop/fonts/nove/",
+      "snippet": "2025-07-30T15:17:17+00:00"
+    },
+    {
+      "date": "2025-07-30",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://fsd.it/shop/fonts/nove/",
+      "snippet": "2025-07-30T15:17:17+00:00"
+    },
+    {
+      "date": "2011-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fsd.it/shop/fonts/nove/",
+      "snippet": " employees Clear Quantity Qty Add to cart Description Reviews 0 Custom font for Nike Designed for Milano Kalibro Kobe a 2011 Nike advertising campaign I designed a geometric font inspired by b-movie typography The glyphs"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://fsd.it/shop/fonts/nove/",
+      "snippet": "39 Contact Terms and Conditions Privacy and Cookies Shipping policy Refund policy How to protecting the webfont files © 2026 Fabrizio Schiavi. All rights reserved We use cookies on our website to give you the most releva"
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.45,
+      "source_type": "http:last-modified",
+      "source_url": "https://fsd.it/shop/fonts/nove/",
+      "snippet": "Sun, 08 Mar 2026 23:13:48 GMT"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://fsd.it/typefaces/nove",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://fsd.it/shop/fonts/nove/",
+    "last_modified": "Sun, 08 Mar 2026 23:13:48 GMT"
+  }
+}

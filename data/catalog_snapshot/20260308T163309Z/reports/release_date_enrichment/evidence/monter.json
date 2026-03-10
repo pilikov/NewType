@@ -1,0 +1,41 @@
+{
+  "record_id": "monter",
+  "source_url": "https://laic.pl/typefaces/monter",
+  "checked_at": "2026-03-09T01:58:00.668284+00:00",
+  "candidates": [
+    {
+      "date": "2021-08-27",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://laic.pl/product/typefaces/monter/",
+      "snippet": "2021-08-27T06:50:44+00:00"
+    },
+    {
+      "date": "2026-02-17",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://laic.pl/product/typefaces/monter/",
+      "snippet": "2026-02-17T15:07:33+00:00"
+    },
+    {
+      "date": "2026-02-17",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://laic.pl/product/typefaces/monter/",
+      "snippet": "2026-02-17T15:07:33+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://laic.pl/typefaces/monter",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://laic.pl/product/typefaces/monter/",
+    "last_modified": null
+  }
+}

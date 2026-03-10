@@ -1,0 +1,27 @@
+{
+  "record_id": "gil-modern",
+  "source_url": "https://www.c-a-s-t.com/typefaces/gil-modern",
+  "checked_at": "2026-03-09T01:46:13.593905+00:00",
+  "candidates": [
+    {
+      "date": "2021-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://www.c-a-s-t.com/typefaces/gil-modern/",
+      "snippet": "ita, Teso, Turkish, Upper Sorbian, Uzbek (Latin), Volapük, Vunjo, Walser, Welsh, Western Frisian, Zulu Production years 2021 Additional info Gil Modern pays homage to the ‘Modernisme català’ Gil Modern is named after Pau"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://www.c-a-s-t.com/typefaces/gil-modern",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.c-a-s-t.com/typefaces/gil-modern/",
+    "last_modified": null
+  }
+}

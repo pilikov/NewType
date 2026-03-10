@@ -1,0 +1,41 @@
+{
+  "record_id": "adieu",
+  "source_url": "https://goodtypefoundry.com/typefaces/adieu",
+  "checked_at": "2026-03-09T01:37:57.106958+00:00",
+  "candidates": [
+    {
+      "date": "2017-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://goodtypefoundry.com/adieu/",
+      "snippet": "od examples of chunky text set in it as well. 4 weights / 12 styles Alternates European + Basic Cyrillic (BETA) Release 2017 Buy Adieu Good Times AaBbCcDdEe VISUELT 2018 Uppercase (26 glyphs) A B C D E F G H I J K L M N "
+    },
+    {
+      "date": "2018-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://goodtypefoundry.com/adieu/",
+      "snippet": " 4 weights / 12 styles Alternates European + Basic Cyrillic (BETA) Release 2017 Buy Adieu Good Times AaBbCcDdEe VISUELT 2018 Uppercase (26 glyphs) A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Accents (172 glyphs) "
+    },
+    {
+      "date": "2025-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://goodtypefoundry.com/adieu/",
+      "snippet": "Career (0) Trial Fonts Good Type Foundry AS, Rettedalsbakkane 9, 4110 Forsand, Norway © Copyright – all rights reserved 2025 Typeface in use: GTF Good Sans"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://goodtypefoundry.com/typefaces/adieu",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://goodtypefoundry.com/adieu/",
+    "last_modified": null
+  }
+}

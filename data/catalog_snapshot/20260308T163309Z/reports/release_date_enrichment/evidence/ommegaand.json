@@ -1,0 +1,41 @@
+{
+  "record_id": "ommegaand",
+  "source_url": "https://macrhino.com/typefaces/ommegaand",
+  "checked_at": "2026-03-09T01:36:39.233772+00:00",
+  "candidates": [
+    {
+      "date": "2007-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://macrhino.com/project/ommegaand",
+      "snippet": "ervices Custom Type Commercial Type Other Work About & Services Custom Type Commercial Type Other Work Date of release: 2007 2 weights/5 styles DOWNLOAD PDF Desktop €89,00 EUR Webfont €89,00 EUR Combined €134,00 EUR Size"
+    },
+    {
+      "date": "2004-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://macrhino.com/project/ommegaand",
+      "snippet": "D PDF Desktop €89,00 EUR Webfont €89,00 EUR Combined €134,00 EUR Size Line height Letter spacing Try typeface here... © 2004–2020 Stefan Hattenbach/MRF.  Site design: Jonas Hellström D+AD ."
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://macrhino.com/project/ommegaand",
+      "snippet": " Desktop €89,00 EUR Webfont €89,00 EUR Combined €134,00 EUR Size Line height Letter spacing Try typeface here... © 2004–2020 Stefan Hattenbach/MRF.  Site design: Jonas Hellström D+AD ."
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://macrhino.com/typefaces/ommegaand",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://macrhino.com/project/ommegaand",
+    "last_modified": null
+  }
+}

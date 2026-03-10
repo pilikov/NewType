@@ -1,0 +1,41 @@
+{
+  "record_id": "roslindale-compressed",
+  "source_url": "https://djr.com/roslindale",
+  "checked_at": "2026-03-09T01:49:04.944145+00:00",
+  "candidates": [
+    {
+      "date": "2015-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/roslindale",
+      "snippet": "e decorative. Image: Paula Zargaj-Reynolds Image: Letterform Archive I first became interested in the De Vinne style in 2015, when Indra Kupferschmid invited me to tag along on a visit to the workshop of Patrick Goossens"
+    },
+    {
+      "date": "2017-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/roslindale",
+      "snippet": "alight Family. Roslindale Roslindale started as a single Condensed Bold weight sent out to my Font of the Month Club in 2017. Since then, it has grown organically over the years, with Text , Italic , Ultra , Deck , and D"
+    },
+    {
+      "date": "2020-01-01",
+      "score": 0.55,
+      "source_type": "text",
+      "source_url": "https://djr.com/roslindale",
+      "snippet": "site, Fonts in Use . La Rústica La Rústica Felt The Politician Omelet Omelet Haus Trucks and Taps Hellas Banknotes 1822–2020 Styx Pillar The Walcott Collection at Medulla Art Gallery Peter Demulsant Peter Demulsant Shopi"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://djr.com/roslindale",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://djr.com/roslindale",
+    "last_modified": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "record_id": "ortica",
+  "source_url": "https://collletttivo.it/typefaces/ortica",
+  "checked_at": "2026-03-09T01:52:16.270221+00:00",
+  "candidates": [
+    {
+      "date": "2019-02-13",
+      "score": 0.92,
+      "source_type": "meta:article:published_time",
+      "source_url": "https://www.collletttivo.it/typefaces/ortica",
+      "snippet": "2019-02-13T00:00:00.000Z"
+    },
+    {
+      "date": "2019-02-13",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.collletttivo.it/typefaces/ortica",
+      "snippet": "lity. Details Designed by Ben Bovani 2 Families , 4 Styles Supports Latin Licensed under SIL Open Font License Released February 13, 2019 Last updated March 13, 2023 Version 2.000 Download Donate to support our Open Sour"
+    },
+    {
+      "date": "2023-03-13",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.collletttivo.it/typefaces/ortica",
+      "snippet": "ovani 2 Families , 4 Styles Supports Latin Licensed under SIL Open Font License Released February 13, 2019 Last updated March 13, 2023 Version 2.000 Download Donate to support our Open Source font catalogue Collletttivo "
+    },
+    {
+      "date": "2026-01-01",
+      "score": 0.78,
+      "source_type": "text",
+      "source_url": "https://www.collletttivo.it/typefaces/ortica",
+      "snippet": "ead and agree to the Privacy Policy submit email instagram github twitter Licensing Privacy Policy Newsletter Archive © 2026 Collletttivo Designed by Collletttivo. Developed by Luigi Gorlero ."
+    },
+    {
+      "date": "2023-03-13",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://www.collletttivo.it/typefaces/ortica",
+      "snippet": "2023-03-13T00:00:00.000Z"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://collletttivo.it/typefaces/ortica",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.collletttivo.it/typefaces/ortica",
+    "last_modified": null
+  }
+}

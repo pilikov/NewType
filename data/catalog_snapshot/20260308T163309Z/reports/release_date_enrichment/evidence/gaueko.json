@@ -1,0 +1,41 @@
+{
+  "record_id": "gaueko",
+  "source_url": "https://raoulgottschling.de/typefaces/gaueko",
+  "checked_at": "2026-03-09T01:47:18.399055+00:00",
+  "candidates": [
+    {
+      "date": "2024-04-02",
+      "score": 0.95,
+      "source_type": "jsonld:datePublished",
+      "source_url": "https://raoulgottschling.de/gaueko/",
+      "snippet": "2024-04-02T14:20:30+00:00"
+    },
+    {
+      "date": "2024-04-23",
+      "score": 0.7,
+      "source_type": "jsonld:dateModified",
+      "source_url": "https://raoulgottschling.de/gaueko/",
+      "snippet": "2024-04-23T14:33:28+00:00"
+    },
+    {
+      "date": "2024-04-23",
+      "score": 0.6,
+      "source_type": "meta:article:modified_time",
+      "source_url": "https://raoulgottschling.de/gaueko/",
+      "snippet": "2024-04-23T14:33:28+00:00"
+    },
+    {
+      "date": "2026-02-25",
+      "score": 0.35,
+      "source_type": "existing",
+      "source_url": "https://raoulgottschling.de/typefaces/gaueko",
+      "snippet": "2026-02-25"
+    }
+  ],
+  "request": {
+    "ok": true,
+    "status": 200,
+    "final_url": "https://raoulgottschling.de/gaueko/",
+    "last_modified": null
+  }
+}

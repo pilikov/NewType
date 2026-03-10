@@ -1,0 +1,27 @@
+{
+  "run_id": "20260308T163309Z",
+  "status": "completed",
+  "created_at": "2026-03-08T16:33:09.289167+00:00",
+  "output_dir": "data/catalog_snapshot/20260308T163309Z",
+  "tables": {
+    "foundries": {
+      "next_offset": 1194,
+      "total_count": 1194,
+      "completed": true,
+      "pages_written": 2
+    },
+    "typefaces": {
+      "next_offset": 14854,
+      "total_count": 14854,
+      "completed": true,
+      "pages_written": 15
+    },
+    "designers": {
+      "next_offset": 1972,
+      "total_count": 1972,
+      "completed": true,
+      "pages_written": 2
+    }
+  },
+  "completed_at": "2026-03-08T16:33:25.576413+00:00"
+}
