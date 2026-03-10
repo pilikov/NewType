@@ -67,3 +67,12 @@ body {
     radial-gradient(circle at 100% 100%, rgba(14, 116, 144, 0.15), transparent 45%);
   background-attachment: fixed;
 }
+
+/* Horizontal scroll without visible scrollbar (filters bar) */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}

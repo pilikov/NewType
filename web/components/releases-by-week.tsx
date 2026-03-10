@@ -171,7 +171,7 @@ export function ReleasesByWeek({ weekGroups }: ReleasesByWeekProps) {
   return (
     <section className="space-y-6">
       <div className="z-20" style={{ position: "sticky", top: 0 }}>
-        <div className="overflow-x-auto">
+        <div className="scrollbar-hide overflow-x-auto">
           <ButtonGroup className="min-w-max">
             {filterOptions.map((item) => {
               const isActive = item.id === activeFilter?.id;
