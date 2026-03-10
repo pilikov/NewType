@@ -55,7 +55,7 @@ function hasRemoteImage(url: string | null): boolean {
 }
 
 function formatReleaseDate(value: string | null): string {
-  if (!value) return "n/a";
+  if (!value) return "—";
 
   const normalized = /^\d{4}-\d{2}-\d{2}$/.test(value) ? `${value}T00:00:00Z` : value;
   const dt = new Date(normalized);
@@ -85,10 +85,9 @@ export function ReleaseCard({ release }: ReleaseCardProps) {
         ? "New Release"
         : null
     : null;
-  const hasCyrillic = scripts.some((script) => script.trim().toLowerCase().includes("cyrillic"));
 
   return (
-    <Card className="overflow-hidden bg-white/90 backdrop-blur-sm">
+    <Card className="overflow-hidden rounded-[var(--radius)] bg-white/90 pt-0 pb-6 backdrop-blur-sm">
       {hasImage ? (
         <img
           src={release.image_url ?? undefined}
@@ -101,14 +100,14 @@ export function ReleaseCard({ release }: ReleaseCardProps) {
         <div className="h-44 w-full bg-gradient-to-br from-slate-200 to-slate-100" />
       )}
 
-      <CardHeader>
-        <CardTitle className="text-xl">{release.name}</CardTitle>
-        <CardDescription className="flex items-center gap-2">
+      <CardHeader className="px-6 pt-6">
+        <CardTitle className="text-[1.125rem] font-semibold leading-tight">{release.name}</CardTitle>
+        <CardDescription className="flex flex-wrap items-center gap-2 text-base">
           {displayEntityFavicon ? (
             <img
               src={displayEntityFavicon}
               alt={displayEntityName}
-              className="h-4 w-4 rounded-sm"
+              className="h-4 w-4 shrink-0 rounded-sm"
               loading="lazy"
             />
           ) : null}
@@ -127,28 +126,21 @@ export function ReleaseCard({ release }: ReleaseCardProps) {
         </CardDescription>
       </CardHeader>
 
-      <CardContent className="space-y-1 text-sm text-slate-600">
-        <p>Release date: {formatReleaseDate(release.release_date)}</p>
-        <p>Authors: {release.authors.length ? release.authors.join(", ") : "—"}</p>
-        <p>Scripts: {scripts.length ? scripts.join(", ") : "—"}</p>
-        {hasCyrillic ? (
-          <p>
-            <span className="inline-flex rounded-full bg-slate-200 px-2 py-0.5 text-xs font-medium text-slate-700">
-              Cyrillic
-            </span>
-          </p>
-        ) : null}
+      <CardContent className="space-y-1 px-6 text-base text-slate-600">
+        <p>{formatReleaseDate(release.release_date)}</p>
+        <p>{release.authors.length ? release.authors.join(", ") : "—"}</p>
+        <p>{scripts.length ? scripts.join(", ") : "—"}</p>
       </CardContent>
 
-      <CardFooter>
+      <CardFooter className="px-6 pb-6">
         {displayEntityUrl ? (
           <a
             href={displayEntityUrl}
             target="_blank"
             rel="noreferrer"
-            className="inline-flex items-center gap-2 rounded-md bg-[#F8F8F8] px-3 py-2 text-sm transition hover:bg-slate-100"
+            className="inline-flex min-h-11 items-center gap-2 rounded-[var(--radius)] bg-[#E9F1FA] px-5 py-2.5 text-base font-medium text-slate-800 transition hover:bg-[#dce8f4]"
           >
-            Open source <ExternalLink className="h-4 w-4" />
+            Open source <ExternalLink className="h-5 w-5" />
           </a>
         ) : null}
       </CardFooter>

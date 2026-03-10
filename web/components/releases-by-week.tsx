@@ -43,6 +43,10 @@ function sortReleasesDesc(items: ReleaseItem[]): ReleaseItem[] {
   return [...items].sort((a, b) => (b.release_date ?? "").localeCompare(a.release_date ?? ""));
 }
 
+const filterButtonClass =
+  "rounded-[var(--radius)] border-0 min-h-11 px-5 py-2.5 text-base";
+const filterButtonInactiveClass = `${filterButtonClass} bg-[#F8F8F8] hover:bg-[#EFEFED]`;
+
 export function ReleasesByWeek({ weekGroups }: ReleasesByWeekProps) {
   const filterOptions = useMemo<FilterOption[]>(() => {
     const nowYear = new Date().getFullYear();
@@ -118,7 +122,6 @@ export function ReleasesByWeek({ weekGroups }: ReleasesByWeekProps) {
   }, [weekGroups]);
 
   const [activeFilterId, setActiveFilterId] = useState<string>(filterOptions[0]?.id ?? "");
-  const [onlyCyrillic, setOnlyCyrillic] = useState(false);
 
   useEffect(() => {
     if (!filterOptions.length) {
@@ -135,23 +138,11 @@ export function ReleasesByWeek({ weekGroups }: ReleasesByWeekProps) {
     [activeFilterId, filterOptions]
   );
 
-  function releaseHasCyrillic(release: ReleaseItem): boolean {
-    const scripts = Array.isArray(release.scripts)
-      ? release.scripts
-      : Array.isArray((release.raw as { scripts?: unknown } | undefined)?.scripts)
-        ? ((release.raw as { scripts?: unknown[] }).scripts ?? []).map((v) => String(v))
-        : [];
-    return scripts.some((script) => script.trim().toLowerCase().includes("cyrillic"));
-  }
-
-  const visibleReleases = useMemo(
-    () => (onlyCyrillic ? (activeFilter?.releases ?? []).filter(releaseHasCyrillic) : activeFilter?.releases ?? []),
-    [activeFilter?.releases, onlyCyrillic]
-  );
+  const visibleReleases = activeFilter?.releases ?? [];
 
   if (!filterOptions.length) {
     return (
-        <section className="rounded-xl border border-dashed border-slate-300 bg-white/70 p-10 text-center text-slate-600">
+      <section className="rounded-[var(--radius)] border border-dashed border-slate-300 bg-white/70 p-10 text-center text-base text-slate-600">
         No releases to display.
       </section>
     );
@@ -192,7 +183,7 @@ export function ReleasesByWeek({ weekGroups }: ReleasesByWeekProps) {
                 <Button
                   key={item.id}
                   variant={isActive ? "default" : "secondary"}
-                  className={isActive ? "rounded-md border-0" : "rounded-md border-0 bg-[#F8F8F8] hover:bg-[#EFEFED]"}
+                  className={isActive ? `${filterButtonClass} border-0` : filterButtonInactiveClass}
                   onClick={() => setActiveFilterId(item.id)}
                 >
                   {item.label}
@@ -203,30 +194,22 @@ export function ReleasesByWeek({ weekGroups }: ReleasesByWeekProps) {
         </div>
       </div>
 
-      <div className="flex items-center justify-between gap-3 text-sm text-slate-600">
-        <div className="flex flex-wrap items-center gap-3">
-          <span>{formatReleaseCount(visibleReleases.length)}</span>
-          {sourceStats.map((stat) => (
-            <span key={stat.sourceName} className="inline-flex items-center gap-1.5">
-              {stat.faviconUrl ? (
-                <img src={stat.faviconUrl} alt={stat.sourceName} className="h-4 w-4 rounded-sm" loading="lazy" />
-              ) : null}
-              <span>{stat.count}</span>
-            </span>
-          ))}
-        </div>
-
-        <Button
-          variant={onlyCyrillic ? "default" : "secondary"}
-          className={onlyCyrillic ? "rounded-md border-0" : "rounded-md border-0 bg-[#F8F8F8] hover:bg-[#EFEFED]"}
-          onClick={() => setOnlyCyrillic((v) => !v)}
-        >
-          Cyrillic
-        </Button>
+      <div className="flex flex-wrap items-center gap-3 text-base text-slate-600">
+        <span>{formatReleaseCount(visibleReleases.length)}</span>
+        {sourceStats.map((stat) => (
+          <span key={stat.sourceName} className="inline-flex items-center gap-1.5">
+            {stat.faviconUrl ? (
+              <img src={stat.faviconUrl} alt={stat.sourceName} className="h-4 w-4 rounded-sm" loading="lazy" />
+            ) : null}
+            <span>{stat.count}</span>
+          </span>
+        ))}
       </div>
 
       <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 xl:grid-cols-3">
-        {visibleReleases.map((release) => <ReleaseCard key={release.release_id} release={release} />)}
+        {visibleReleases.map((release) => (
+          <ReleaseCard key={release.release_id} release={release} />
+        ))}
       </div>
     </section>
   );
