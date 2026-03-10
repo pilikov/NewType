@@ -159,6 +159,7 @@ def run(
     myfonts_start_date: str | None = None,
     myfonts_end_date: str | None = None,
     myfonts_fresh_run: bool = False,
+    myfonts_start_page: int | None = None,
     history_weeks: int | None = None,
     history_end_date: str | None = None,
 ) -> None:
@@ -177,6 +178,7 @@ def run(
             myfonts_start_date=myfonts_start_date,
             myfonts_end_date=myfonts_end_date,
             myfonts_fresh_run=myfonts_fresh_run,
+            myfonts_start_page=myfonts_start_page,
             history_weeks=history_weeks,
             history_end_date=history_end_date,
         ),
@@ -351,6 +353,12 @@ def parse_args() -> argparse.Namespace:
         help="Ignore MyFonts resume checkpoint and start crawl from page 1",
     )
     parser.add_argument(
+        "--myfonts-start-page",
+        type=int,
+        default=0,
+        help="Optional MyFonts page number to start from for this run",
+    )
+    parser.add_argument(
         "--history-weeks",
         type=int,
         default=0,
@@ -375,6 +383,7 @@ def main() -> None:
         myfonts_start_date=args.myfonts_start_date.strip() or None,
         myfonts_end_date=args.myfonts_end_date.strip() or None,
         myfonts_fresh_run=bool(args.myfonts_fresh_run),
+        myfonts_start_page=args.myfonts_start_page if args.myfonts_start_page > 0 else None,
         history_weeks=args.history_weeks if args.history_weeks > 0 else None,
         history_end_date=args.history_end_date.strip() or None,
     )

@@ -6,8 +6,8 @@ export async function SourceLinks() {
   if (!sources.length) return null;
 
   return (
-    <div className="flex items-center justify-end gap-3 text-base text-slate-600">
-      <div className="flex flex-wrap items-center gap-2">
+    <div className="flex items-center justify-center gap-3 text-base text-slate-600">
+      <div className="flex flex-wrap items-center justify-center gap-2">
         {sources.map((source) => {
           const href = source.baseUrl || "#";
           const faviconUrl = sourceFaviconUiUrl(source);

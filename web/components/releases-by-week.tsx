@@ -47,6 +47,64 @@ const filterButtonClass =
   "rounded-[var(--radius)] border-0 min-h-11 px-5 py-2.5 text-base";
 const filterButtonInactiveClass = `${filterButtonClass} bg-[#F8F8F8] hover:bg-[#EFEFED]`;
 
+/** Порядок и набор письменностей совпадает с src/crawlers/myfonts_api._SCRIPT_ORDER */
+const SCRIPT_TYPES = [
+  "Latin",
+  "Cyrillic",
+  "Greek",
+  "Arabic",
+  "Hebrew",
+  "Devanagari",
+  "Thai",
+  "Japanese",
+  "Korean",
+  "Chinese"
+] as const;
+
+function normalizeScriptToken(s: string): string {
+  return s.trim().toLowerCase();
+}
+
+/** Hangul в данных часто идёт как отдельный тег — для фильтра Korean учитываем оба */
+function releaseScriptLabels(release: ReleaseItem): string[] {
+  const fromScripts = Array.isArray(release.scripts)
+    ? release.scripts.map((v) => String(v).trim()).filter(Boolean)
+    : [];
+  const raw = release.raw as { scripts?: unknown } | undefined;
+  const rawScripts = raw?.scripts;
+  const fromRaw = Array.isArray(rawScripts)
+    ? rawScripts.map((v) => String(v).trim()).filter(Boolean)
+    : typeof rawScripts === "string"
+      ? rawScripts.split(",").map((v) => v.trim()).filter(Boolean)
+      : [];
+  const merged = [...fromScripts, ...fromRaw];
+  const seen = new Set<string>();
+  const out: string[] = [];
+  for (const label of merged) {
+    const key = normalizeScriptToken(label);
+    if (!key || seen.has(key)) continue;
+    seen.add(key);
+    out.push(label);
+  }
+  return out;
+}
+
+function releaseMatchesScript(release: ReleaseItem, scriptType: string): boolean {
+  const labels = releaseScriptLabels(release);
+  const normalized = normalizeScriptToken(scriptType);
+  for (const label of labels) {
+    if (normalizeScriptToken(label) === normalized) return true;
+  }
+  // Korean ↔ Hangul
+  if (normalized === "korean") {
+    return labels.some((l) => normalizeScriptToken(l) === "hangul");
+  }
+  if (normalized === "hangul") {
+    return labels.some((l) => normalizeScriptToken(l) === "korean");
+  }
+  return false;
+}
+
 export function ReleasesByWeek({ weekGroups }: ReleasesByWeekProps) {
   const filterOptions = useMemo<FilterOption[]>(() => {
     const nowYear = new Date().getFullYear();
@@ -133,12 +191,34 @@ export function ReleasesByWeek({ weekGroups }: ReleasesByWeekProps) {
     }
   }, [filterOptions, activeFilterId]);
 
+  const [activeScript, setActiveScript] = useState<string | null>(null);
+  // При смене периода сбрасываем фильтр по письменности
+  useEffect(() => {
+    setActiveScript(null);
+  }, [activeFilterId]);
+
   const activeFilter = useMemo(
     () => filterOptions.find((item) => item.id === activeFilterId) ?? filterOptions[0],
     [activeFilterId, filterOptions]
   );
 
-  const visibleReleases = activeFilter?.releases ?? [];
+  const baseReleases = activeFilter?.releases ?? [];
+
+  const visibleReleases = useMemo(() => {
+    if (!activeScript) return baseReleases;
+    return baseReleases.filter((r) => releaseMatchesScript(r, activeScript));
+  }, [baseReleases, activeScript]);
+
+  // Только письменности, которые реально есть в релизах выбранного периода
+  const scriptTypesInPeriod = useMemo(() => {
+    return SCRIPT_TYPES.filter((t) => baseReleases.some((r) => releaseMatchesScript(r, t)));
+  }, [baseReleases]);
+
+  useEffect(() => {
+    if (activeScript && !scriptTypesInPeriod.some((t) => t === activeScript)) {
+      setActiveScript(null);
+    }
+  }, [activeScript, scriptTypesInPeriod]);
 
   if (!filterOptions.length) {
     return (
@@ -148,9 +228,10 @@ export function ReleasesByWeek({ weekGroups }: ReleasesByWeekProps) {
     );
   }
 
+  // Счётчики по текущему периоду до фильтра по письменности (как «всего по источникам»)
   const sourceStats = (() => {
     const map = new Map<string, { sourceName: string; faviconUrl: string | null; count: number }>();
-    for (const release of visibleReleases) {
+    for (const release of baseReleases) {
       const key = release.studio_id || release.source_id;
       const label = release.studio_name || release.source_name;
       const favicon = release.studio_favicon_url || release.source_favicon_url || null;
@@ -190,15 +271,51 @@ export function ReleasesByWeek({ weekGroups }: ReleasesByWeekProps) {
         </div>
       </div>
 
-      <div className="flex flex-wrap items-center gap-3 text-base text-slate-600">
-        {sourceStats.map((stat) => (
-          <span key={stat.sourceName} className="inline-flex items-center gap-1.5">
-            {stat.faviconUrl ? (
-              <img src={stat.faviconUrl} alt={stat.sourceName} className="h-4 w-4 rounded-sm" loading="lazy" />
-            ) : null}
-            <span>{stat.count}</span>
-          </span>
-        ))}
+      <div className="flex flex-wrap items-center justify-between gap-3 text-base text-slate-600">
+        <div className="flex flex-wrap items-center gap-3">
+          {sourceStats.map((stat) => (
+            <span key={stat.sourceName} className="inline-flex items-center gap-1.5">
+              {stat.faviconUrl ? (
+                <img src={stat.faviconUrl} alt={stat.sourceName} className="h-4 w-4 rounded-sm" loading="lazy" />
+              ) : null}
+              <span>{stat.count}</span>
+            </span>
+          ))}
+        </div>
+        {scriptTypesInPeriod.length > 0 ? (
+          <div className="scrollbar-hide flex max-w-full flex-1 justify-end overflow-x-auto">
+            <ButtonGroup className="min-w-max shrink-0">
+              <Button
+                variant={activeScript === null ? "default" : "secondary"}
+                className={
+                  activeScript === null
+                    ? `${filterButtonClass} min-h-9 border-0 px-3 py-2 text-sm`
+                    : `${filterButtonInactiveClass} min-h-9 px-3 py-2 text-sm`
+                }
+                onClick={() => setActiveScript(null)}
+              >
+                All scripts
+              </Button>
+              {scriptTypesInPeriod.map((scriptType) => {
+                const isActive = activeScript === scriptType;
+                return (
+                  <Button
+                    key={scriptType}
+                    variant={isActive ? "default" : "secondary"}
+                    className={
+                      isActive
+                        ? `${filterButtonClass} min-h-9 border-0 px-3 py-2 text-sm`
+                        : `${filterButtonInactiveClass} min-h-9 px-3 py-2 text-sm`
+                    }
+                    onClick={() => setActiveScript(isActive ? null : scriptType)}
+                  >
+                    {scriptType}
+                  </Button>
+                );
+              })}
+            </ButtonGroup>
+          </div>
+        ) : null}
       </div>
 
       <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 xl:grid-cols-3">

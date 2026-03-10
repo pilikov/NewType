@@ -220,6 +220,7 @@ class MyFontsApiCrawler:
         browser_headless = bool(crawl_cfg.get("browser_headless", True))
         browser_storage_state_path = str(crawl_cfg.get("browser_storage_state_path", "")).strip() or None
         force_fresh_run = bool(crawl_cfg.get("force_fresh_run", False))
+        start_page_override = int(crawl_cfg.get("start_page_override", 0) or 0)
         language_script_signal_mode = str(crawl_cfg.get("language_script_signal_mode", "balanced")).strip().lower()
         if language_script_signal_mode not in {"balanced", "strong"}:
             language_script_signal_mode = "balanced"
@@ -251,6 +252,8 @@ class MyFontsApiCrawler:
             force_fresh_run=force_fresh_run,
         )
         start_page = int(checkpoint.get("next_page") or 1)
+        if start_page_override > 1:
+            start_page = start_page_override
         if start_page < 1:
             start_page = 1
         self._log(f"=== MyFonts crawl start source={source_id} ===")

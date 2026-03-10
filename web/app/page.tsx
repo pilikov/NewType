@@ -439,13 +439,28 @@ export default async function HomePage() {
   const weekGroups = buildWeekGroups(releases, effectiveWeeks);
 
   return (
-    <main className="mx-auto w-full max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
-      <header className="mb-8 flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
-        <h1 className="text-4xl font-semibold tracking-tight sm:text-5xl">Font Releases</h1>
-        <SourceLinks />
+    <main className="mx-auto w-full max-w-7xl">
+      <header className="mb-8 w-full pt-0">
+        {/* Логотип на всю ширину рабочей области (main), без отступа сверху */}
+        <div className="flex w-full justify-center">
+          <img
+            src="/Logo.svg"
+            alt="Logo"
+            className="block h-auto w-full max-w-none"
+            width={994}
+            height={119}
+            decoding="async"
+          />
+        </div>
+        {/* Иконки источников по центру под логотипом */}
+        <div className="mt-4 flex w-full justify-center px-4 sm:px-6 lg:px-8">
+          <SourceLinks />
+        </div>
       </header>
 
-      <ReleasesByWeek weekGroups={weekGroups} />
+      <div className="px-4 pb-10 pt-0 sm:px-6 lg:px-8">
+        <ReleasesByWeek weekGroups={weekGroups} />
+      </div>
     </main>
   );
 }

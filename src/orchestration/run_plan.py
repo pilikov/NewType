@@ -12,6 +12,7 @@ class RunOptions:
     myfonts_start_date: str | None = None
     myfonts_end_date: str | None = None
     myfonts_fresh_run: bool = False
+    myfonts_start_page: int | None = None
     history_weeks: int | None = None
     history_end_date: str | None = None
 
@@ -49,6 +50,7 @@ def build_run_plan(
             myfonts_start_date=options.myfonts_start_date,
             myfonts_end_date=options.myfonts_end_date,
             myfonts_fresh_run=options.myfonts_fresh_run,
+            myfonts_start_page=options.myfonts_start_page,
             history_start=history_start,
             history_end=history_end,
         )
@@ -69,6 +71,7 @@ def _apply_source_overrides(
     myfonts_start_date: str | None,
     myfonts_end_date: str | None,
     myfonts_fresh_run: bool,
+    myfonts_start_page: int | None,
     history_start: str | None,
     history_end: str | None,
 ) -> dict[str, Any]:
@@ -90,6 +93,11 @@ def _apply_source_overrides(
         updated = dict(updated)
         updated["crawl"] = dict(updated.get("crawl", {}))
         updated["crawl"]["force_fresh_run"] = True
+
+    if source_id == "myfonts" and myfonts_start_page and myfonts_start_page > 1:
+        updated = dict(updated)
+        updated["crawl"] = dict(updated.get("crawl", {}))
+        updated["crawl"]["start_page_override"] = int(myfonts_start_page)
 
     if history_start and history_end:
         updated = dict(updated)
