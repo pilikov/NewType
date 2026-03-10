@@ -6,8 +6,7 @@ export async function SourceLinks() {
   if (!sources.length) return null;
 
   return (
-    <div className="flex items-center justify-end gap-3 text-sm text-slate-600">
-      <span className="font-medium text-slate-700">Sources:</span>
+    <div className="flex items-center justify-end gap-3 text-base text-slate-600">
       <div className="flex flex-wrap items-center gap-2">
         {sources.map((source) => {
           const href = source.baseUrl || "#";

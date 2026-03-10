@@ -148,10 +148,6 @@ export function ReleasesByWeek({ weekGroups }: ReleasesByWeekProps) {
     );
   }
 
-  function formatReleaseCount(value: number): string {
-    return `${value} ${value === 1 ? "release" : "releases"}`;
-  }
-
   const sourceStats = (() => {
     const map = new Map<string, { sourceName: string; faviconUrl: string | null; count: number }>();
     for (const release of visibleReleases) {
@@ -195,7 +191,6 @@ export function ReleasesByWeek({ weekGroups }: ReleasesByWeekProps) {
       </div>
 
       <div className="flex flex-wrap items-center gap-3 text-base text-slate-600">
-        <span>{formatReleaseCount(visibleReleases.length)}</span>
         {sourceStats.map((stat) => (
           <span key={stat.sourceName} className="inline-flex items-center gap-1.5">
             {stat.faviconUrl ? (
