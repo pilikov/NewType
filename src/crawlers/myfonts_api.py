@@ -443,6 +443,7 @@ class MyFontsApiCrawler:
                             "updated_at": product.get("updated_at"),
                             "product_url": source_url,
                             "collection_url": collection_url,
+                            "is_package_product": self._is_package_product(product),
                             "myfonts_debut_date": debut_date_iso,
                             "tech_specs_scripts": tech_specs_scripts,
                             "tech_specs_supported_languages": tech_specs_supported_languages,

@@ -9,7 +9,8 @@
       "Fontop"
     ],
     "scripts": [],
-    "release_date": "2026-02-22T06:04:42-05:00",
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-02-22",
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
@@ -24,7 +25,9 @@
       "product_url": "https://www.myfonts.com/products/essential-starter-bundle-package-1040197",
       "collection_url": null,
       "myfonts_debut_date": null,
-      "tech_specs_scripts": []
+      "tech_specs_scripts": [],
+      "is_package_product": true,
+      "is_package_without_metadata": true
     },
     "release_id": "c82f00d316d282c9"
   },
@@ -38,7 +41,8 @@
       "Fontop"
     ],
     "scripts": [],
-    "release_date": "2026-02-22T06:04:41-05:00",
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-02-22",
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
@@ -53,7 +57,9 @@
       "product_url": "https://www.myfonts.com/products/editorial-and-publishing-bundle-package-1037430",
       "collection_url": null,
       "myfonts_debut_date": null,
-      "tech_specs_scripts": []
+      "tech_specs_scripts": [],
+      "is_package_product": true,
+      "is_package_without_metadata": true
     },
     "release_id": "787d951888fa48c7"
   },
@@ -67,7 +73,8 @@
       "Fontop"
     ],
     "scripts": [],
-    "release_date": "2026-02-22T06:04:39-05:00",
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-02-22",
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
@@ -82,7 +89,9 @@
       "product_url": "https://www.myfonts.com/products/all-purpose-sans-pack-package-1054028",
       "collection_url": null,
       "myfonts_debut_date": null,
-      "tech_specs_scripts": []
+      "tech_specs_scripts": [],
+      "is_package_product": true,
+      "is_package_without_metadata": true
     },
     "release_id": "b950954e12169abd"
   },
@@ -96,7 +105,8 @@
       "Fontop"
     ],
     "scripts": [],
-    "release_date": "2026-02-22T06:04:37-05:00",
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-02-22",
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
@@ -111,7 +121,9 @@
       "product_url": "https://www.myfonts.com/products/modern-sans-serif-font-bundle-package-1041587",
       "collection_url": null,
       "myfonts_debut_date": null,
-      "tech_specs_scripts": []
+      "tech_specs_scripts": [],
+      "is_package_product": true,
+      "is_package_without_metadata": true
     },
     "release_id": "80b88bd42d8a4247"
   },
@@ -125,7 +137,8 @@
       "sportsfonts"
     ],
     "scripts": [],
-    "release_date": "2026-02-22T06:04:26-05:00",
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-02-22",
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
@@ -140,7 +153,9 @@
       "product_url": "https://www.myfonts.com/products/mega-winner-280-package-1112584",
       "collection_url": null,
       "myfonts_debut_date": null,
-      "tech_specs_scripts": []
+      "tech_specs_scripts": [],
+      "is_package_product": true,
+      "is_package_without_metadata": true
     },
     "release_id": "671d5ff3ed46763d"
   },
@@ -148,7 +163,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/slopdogz-font-mans-greback/",
-    "name": "Slopdogz",
+    "name": "Slopdogz Complete Family",
     "styles": [],
     "authors": [
       "Mans Greback"
@@ -156,6 +171,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-22",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10193/f0nawyUB5wIEPdqqCs3lSlsm_76ba1d931d5ee68bd356096821d13663.png",
     "woff_url": null,
@@ -337,7 +353,9 @@
         "Soga",
         "Yangben",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "55d217563a6d9a19"
   },
@@ -351,7 +369,8 @@
       "Beary"
     ],
     "scripts": [],
-    "release_date": "2026-02-21T21:55:47-05:00",
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-02-21",
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
@@ -366,7 +385,9 @@
       "product_url": "https://www.myfonts.com/products/the-complete-135-font-collection-package-1112511",
       "collection_url": null,
       "myfonts_debut_date": null,
-      "tech_specs_scripts": []
+      "tech_specs_scripts": [],
+      "is_package_product": true,
+      "is_package_without_metadata": true
     },
     "release_id": "ac01a8f4f9b211d3"
   },
@@ -374,7 +395,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/forzon-font-vermilione/",
-    "name": "Forzon",
+    "name": "Forzon Complete Family",
     "styles": [],
     "authors": [
       "Say Studio"
@@ -382,6 +403,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-18",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10198/OhwPhtAqF6xNuIbA7USnid1C_4d376a566b5d35858c73b88582cdef32.png",
     "woff_url": null,
@@ -502,7 +524,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "bd7507df3ef77a1c"
   },
@@ -518,6 +542,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-19",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10199/bGv6P6onvfiLha8JfBnwzgry_6d0d5e65251aea53be0c42800052a34d.jpg",
     "woff_url": null,
@@ -631,7 +656,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "3efd1b9ec4cb54f4"
   },
@@ -647,6 +674,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-18",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10199/mjhLYeZyEBLqUOFzMSMTJqFW_cf0fed7c6582940a5107b977f71c87fa.png",
     "woff_url": null,
@@ -790,7 +818,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "4f6d39d96abff161"
   }

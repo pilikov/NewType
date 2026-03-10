@@ -79,6 +79,7 @@ class IncrementalSourceWriter:
         source_id: str,
         seen_ids: set[str],
         period_label: str | None = None,
+        seed_output_dir: Path | None = None,
         flush_every: int = 25,
     ) -> None:
         self.source_id = source_id
@@ -86,8 +87,9 @@ class IncrementalSourceWriter:
         self.period_label = period_label
         self.flush_every = max(1, flush_every)
         self.output_dir = STORAGE.source_output_dir(source_id=source_id, period_label=period_label)
-        self.all_releases: list[FontRelease] = STORAGE.load_releases(self.output_dir / "all_releases.json")
-        self.new_releases: list[FontRelease] = STORAGE.load_releases(self.output_dir / "new_releases.json")
+        base_dir = seed_output_dir or self.output_dir
+        self.all_releases: list[FontRelease] = STORAGE.load_releases(base_dir / "all_releases.json")
+        self.new_releases: list[FontRelease] = STORAGE.load_releases(base_dir / "new_releases.json")
         self.current_ids: set[str] = {r.release_id for r in self.all_releases}
         self._counter = 0
         ensure_dir(self.output_dir)
@@ -207,10 +209,25 @@ def run(
             incremental_writer: IncrementalSourceWriter | None = None
             flush_every = int(source_cfg.get("crawl", {}).get("incremental_flush_every", 25))
             if hasattr(crawler, "set_release_callback"):
+                seed_output_dir = None
+                if _should_seed_from_previous_snapshot(
+                    source_id=source_id,
+                    source_cfg=source_cfg,
+                    period_label=run_plan.period_label,
+                ):
+                    current_output_dir = STORAGE.source_output_dir(
+                        source_id=source_id,
+                        period_label=run_plan.period_label,
+                    )
+                    seed_output_dir = STORAGE.latest_day_snapshot_dir(
+                        source_id,
+                        exclude_dir=current_output_dir,
+                    )
                 incremental_writer = IncrementalSourceWriter(
                     source_id=source_id,
                     seen_ids=seen_ids,
                     period_label=run_plan.period_label,
+                    seed_output_dir=seed_output_dir,
                     flush_every=flush_every,
                 )
                 crawler.set_release_callback(
@@ -416,6 +433,28 @@ def _week_bounds(day: date) -> tuple[date, date]:
     start = day - timedelta(days=day.weekday())
     end = start + timedelta(days=6)
     return start, end
+
+
+def _should_seed_from_previous_snapshot(
+    *,
+    source_id: str,
+    source_cfg: dict,
+    period_label: str | None,
+) -> bool:
+    if source_id != "myfonts" or period_label:
+        return False
+    crawl_cfg = source_cfg.get("crawl", {}) if isinstance(source_cfg, dict) else {}
+    if int(crawl_cfg.get("start_page_override", 0) or 0) > 1:
+        return True
+    checkpoint_path = ROOT / "state" / "myfonts_crawl_checkpoint.json"
+    payload = load_json(checkpoint_path, default={})
+    if not isinstance(payload, dict):
+        return False
+    return (
+        payload.get("source_id") == "myfonts"
+        and payload.get("status") in {"in_progress", "capped"}
+        and int(payload.get("next_page", 1) or 1) > 1
+    )
 
 
 def write_data_coverage(sources: list[dict] | None = None) -> None:

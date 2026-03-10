@@ -22,6 +22,29 @@ class JsonStorageAdapter:
             out_dir = self.data_dir / source_id / "periods" / period_label
         return out_dir
 
+    def latest_day_snapshot_dir(
+        self,
+        source_id: str,
+        *,
+        exclude_dir: Path | None = None,
+    ) -> Path | None:
+        root = self.data_dir / source_id
+        if not root.exists():
+            return None
+        candidates: list[Path] = []
+        for child in root.iterdir():
+            if not child.is_dir():
+                continue
+            if child.name == "periods" or child.name.startswith("_"):
+                continue
+            if exclude_dir and child.resolve() == exclude_dir.resolve():
+                continue
+            if (child / "all_releases.json").exists():
+                candidates.append(child)
+        if not candidates:
+            return None
+        return sorted(candidates)[-1]
+
     def load_releases(self, path: Path) -> list[FontRelease]:
         rows = load_json(path, default=[])
         if not isinstance(rows, list):
@@ -40,6 +63,7 @@ class JsonStorageAdapter:
                         styles=list(row.get("styles") or []),
                         authors=list(row.get("authors") or []),
                         scripts=list(row.get("scripts") or []),
+                        script_status=row.get("script_status"),
                         release_date=row.get("release_date"),
                         image_url=row.get("image_url"),
                         woff_url=row.get("woff_url"),

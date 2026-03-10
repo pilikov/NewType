@@ -11,6 +11,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-08",
     "image_url": "https://cdn.shopify.com/s/files/1/0568/7164/9450/files/MyFonts_Logo.png?v=1717746124",
     "woff_url": null,
@@ -161,7 +162,9 @@
         "Soga",
         "Yoruba",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "10eb8ed378ee1879"
   },
@@ -179,6 +182,7 @@
       "Cyrillic",
       "Greek"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-11",
     "image_url": "https://cdn.shopify.com/s/files/1/0568/7164/9450/files/MyFonts_Logo.png?v=1717746124",
     "woff_url": null,
@@ -338,7 +342,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "854ff347c1ff297c"
   }

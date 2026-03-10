@@ -3,7 +3,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/all-about-me-font-hanoded/",
-    "name": "All About Me",
+    "name": "All About Me Complete Family",
     "styles": [],
     "authors": [
       "Hanoded"
@@ -11,6 +11,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-26",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10202/GgrUwFLofsvnEJQQX0MvO0X9_982ad52d65e78c489c9390b3ae706a8f.png",
     "woff_url": null,
@@ -178,7 +179,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "a3e6f1cc02bc2f20"
   },
@@ -194,6 +197,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-24",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10200/zoRC0dv5asFYrWGkMkUNLWuD_966be6da92a24e402c68ee776d50f700.jpg",
     "woff_url": null,
@@ -343,7 +347,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "a7bc30a65fc9e3ab"
   },
@@ -359,6 +365,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10203/Wl3mLku30kwXRgPYRUqwDfBZ_9be3d185c547f79443562c34717728e7.png",
     "woff_url": null,
@@ -510,7 +517,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "71ed74414b300511"
   },
@@ -527,6 +536,7 @@
       "Latin",
       "Arabic"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-27",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10202/Vy0HxK3PeQGrMzAaTRRZG9TG_39a7cba2d1b0df7c4be859486fe2b155.png",
     "woff_url": null,
@@ -709,7 +719,9 @@
         "Punjabi",
         "Southern Kurdish",
         "Urdu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "45cff631e1dcaada"
   },
@@ -727,6 +739,7 @@
       "Cyrillic",
       "Greek"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-27",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10202/wqY3jD721tnOySmAGQr5Sc5F_6d3f8d2674c84d1157967b7c6435ba54.png",
     "woff_url": null,
@@ -916,7 +929,9 @@
         "Yangben",
         "Yoruba",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "6e08bef8d90cc004"
   },
@@ -932,6 +947,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-26",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10202/umhPUG0krAVKq1jixFPEyTpf_6a6d676d6b0a7d63c8e8eac92db60b19.png",
     "woff_url": null,
@@ -1048,7 +1064,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "cee9f5bea6306d84"
   },
@@ -1064,6 +1082,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10201/Ipv1ynOh3r4j0Tu8qYLet09x_23edffa14bc608d31f76fa97f0612b5c.png",
     "woff_url": null,
@@ -1217,7 +1236,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "2effb372f706b23a"
   },
@@ -1233,6 +1254,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-26",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10202/ELebpGo5npWIfggl6kgk2cHD_f285fbd9900b14914dafb81f9085e412.png",
     "woff_url": null,
@@ -1374,7 +1396,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "1b7b1aad10ed17ab"
   },
@@ -1390,6 +1414,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10201/MkAq9EkxwnUd7XzrsyuEo5qp_0423f21b53f9e0172ad12baad109db5a.png",
     "woff_url": null,
@@ -1543,7 +1568,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "febc8377a579fb31"
   },
@@ -1559,6 +1586,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-26",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10202/CBsqf38NFjY5LtNIOTuuFLRV_7e4037870b5715645670b937d4ae4d86.png",
     "woff_url": null,
@@ -1682,7 +1710,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "de4085f15a4beece"
   },
@@ -1698,6 +1728,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10201/b6yZ2KhkoHpQxL5rcerGkacd_b1cd884283148d69196fe3aa1269bf6c.png",
     "woff_url": null,
@@ -1814,7 +1845,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "4b2eb0078a9de5cf"
   },
@@ -1830,6 +1863,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-26",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10202/Ho5pwhBEKu1G61S4esRbGhe9_84d9bfabbfb38be3e5186f6c8295c667.png",
     "woff_url": null,
@@ -1974,7 +2008,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "dbba94b9b2f26e3f"
   },
@@ -1990,6 +2026,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10201/wlSXDgcRoMLIeltdLjwgPpBL_cbf8fdaf4aba8ecddede13f99b41590d.png",
     "woff_url": null,
@@ -2125,7 +2162,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "9995be5d271b8842"
   },
@@ -2143,6 +2182,7 @@
       "Cyrillic",
       "Greek"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10201/BI8GaV3YcZpWvSB2CbY1zP8V_f053ec876a3b7a0852d7ba060e0e9942.jpg",
     "woff_url": null,
@@ -2335,7 +2375,9 @@
         "Yangben",
         "Yoruba",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "74970c440a96076a"
   },
@@ -2351,6 +2393,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10200/fR85gfGFOF1cn2roiveaqvRW_1769d5d68e3e52e51167251599e2e9b1.png",
     "woff_url": null,
@@ -2466,7 +2509,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "5a373a982f80237c"
   },
@@ -2482,6 +2527,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10200/aRA6N61zi16XJyfze7Itzr1p_2812b1df0455b2cfc5b20f1e29170ebb.png",
     "woff_url": null,
@@ -2608,7 +2654,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "be790cea67a0038d"
   },
@@ -2625,6 +2673,7 @@
       "Latin",
       "Cyrillic"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-01",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10187/TZOpIHhkhv8goGsQ6QseClVG_8b2c0ce7799fc8c560df66e1078ad414.png",
     "woff_url": null,
@@ -2850,7 +2899,9 @@
         "Yangben",
         "Yoruba",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "d5de402bff918006"
   },
@@ -2866,6 +2917,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-27",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10202/rWBAsuxwOPslumwZH24KmFzP_3af682a08b3d446a4d132f8eac1cb1df.png",
     "woff_url": null,
@@ -3017,7 +3069,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "802a92b653037fe6"
   },
@@ -3033,6 +3087,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10201/5sgtAZDl7SzLYKXktnfToHuK_9cb7878e00f57c2dcb4915bcacb910a3.jpg",
     "woff_url": null,
@@ -3181,7 +3236,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "bb700604e3a8ab52"
   },
@@ -3197,6 +3254,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10200/C6sBtdvXzh2rwxx6A6CxADmA_559ab89d561872ebf5d3e2245fdfb8cf.png",
     "woff_url": null,
@@ -3341,7 +3399,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "608dc0ed29f8234c"
   },
@@ -3357,6 +3417,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10201/VC54Icrn2p8mHUQloUZOJNwp_47de87553a9f6607d4dac09049106c58.jpg",
     "woff_url": null,
@@ -3469,7 +3530,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "a489928f73a64658"
   },
@@ -3485,6 +3548,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-23",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10200/YMqkYkpDQpX4ZcHWWirEyYkz_220adac321c5027c4cb3eca7aeb947c1.png",
     "woff_url": null,
@@ -3629,7 +3693,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "e9a944a971492579"
   },
@@ -3645,6 +3711,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10201/IST9PGWxtVV6wKK6ekPVRj69_afcc7d9e2d9d6fa7e5b7512e9757f667.png",
     "woff_url": null,
@@ -3795,7 +3862,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "84dc5e998d3f2bf7"
   },
@@ -3811,6 +3880,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-27",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10202/psCCF6N2KlN4qlUtZBdvqlwz_ddad04243bff50b83afe5a2ee58959fe.png",
     "woff_url": null,
@@ -3928,7 +3998,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "00357e7572fd254f"
   },
@@ -3944,6 +4016,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-23",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10200/uwpbUisPAXznQvLXq3AEIgXF_16a0575d417943328d0534298a350a90.png",
     "woff_url": null,
@@ -4085,7 +4158,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "6c70d46c9955cc65"
   },
@@ -4101,6 +4176,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10201/ttOg8X2Wqnp1DCy0zqVO9cYd_6a61bd7621b6e6123f0b13140fc78858.png",
     "woff_url": null,
@@ -4225,7 +4301,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "f18ae064ab9b71d9"
   },
@@ -4241,6 +4319,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10200/yQ6ofdwe6C3jT39qWi5c7VEX_147f09bd400ff4567a9f63f02b60e63b.jpg",
     "woff_url": null,
@@ -4355,7 +4434,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "61d277345dce78f5"
   },
@@ -4371,6 +4452,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-23",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10200/5eRiThZDA6wTt7fbF28YMVbW_dd374dff38bfa1f4eee8439a4381c15c.png",
     "woff_url": null,
@@ -4499,7 +4581,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "64e7c5c9ce5b6230"
   },
@@ -4515,6 +4599,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10201/Q1XrVCmLwLyEX0CresIOz2D4_1b34a334c5ba40e0edaa5d05c487d401.png",
     "woff_url": null,
@@ -4591,7 +4676,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "62896e76fbd2a2e9"
   },
@@ -4607,6 +4694,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-23",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10200/HptAyQ8xf63dKMndhoHDXzZb_8ef62df0769c48fccb9aa26f06d595a7.png",
     "woff_url": null,
@@ -4721,7 +4809,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "981fa0f395c91659"
   },
@@ -4737,6 +4827,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10202/ruSNfraNGaVklAzgNJEZhTRO_a7bc523409d0cd674c5a6e1e732ffeef.jpg",
     "woff_url": null,
@@ -4891,7 +4982,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "a23c3221f7f35b8e"
   },
@@ -4908,6 +5001,7 @@
       "Latin",
       "Greek"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-01",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10187/afjTHziaahqJUdOwekKt7veS_c7c8b52a9f7d418698043a2498b3dbf5.png",
     "woff_url": null,
@@ -5119,7 +5213,9 @@
         "Yangben",
         "Yoruba",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "e0b2b2c56122d702"
   },
@@ -5135,6 +5231,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10201/HwnRrypUCd6Y29pj5b59hoou_c4c50be0dc3ef523a807206ee8fea414.png",
     "woff_url": null,
@@ -5281,7 +5378,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "8e2679d79f1383f5"
   },
@@ -5297,6 +5396,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10200/KVrRlJeGpWRZyIFVhOGxOlOO_431f661ccfedea43f56108f8d5ea68cb.png",
     "woff_url": null,
@@ -5416,7 +5516,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "5b3ae7103cd79f0d"
   },
@@ -5432,6 +5534,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-23",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10200/OOf5SZEx8Q3QrWXAs2Cwrlm0_84744bd24da9713b8853f10541c88c06.png",
     "woff_url": null,
@@ -5560,7 +5663,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "88758e2b94f973d2"
   },
@@ -5576,6 +5681,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-27",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10202/tx1oOQ7oEmerAbQzLOqaH9Cj_250407d85881946e19a29f4be53f6c69.png",
     "woff_url": null,
@@ -5693,7 +5799,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "0b36a115ac15eb81"
   },
@@ -5709,6 +5817,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-23",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10200/6CJejlCfQL3j8BssEP87eaqc_b69582b72c0a37a87a0b27a008b0cc93.jpg",
     "woff_url": null,
@@ -5824,7 +5933,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "8817549b61032025"
   },
@@ -5840,6 +5951,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-26",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10202/NMPtnYzwAgzKQHmHgpgn935z_5a0e3254d5936f3685fe8419d5d984f2.png",
     "woff_url": null,
@@ -5968,7 +6080,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "604473b64683ed9b"
   },
@@ -5985,6 +6099,7 @@
       "Latin",
       "Cyrillic"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10200/uE5XIiETLMSoBb1wgTnMHz32_8af78459da1481a3617c757ede0835b0.png",
     "woff_url": null,
@@ -6156,7 +6271,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "4e2dd4c917926034"
   },
@@ -6172,6 +6289,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10202/ai1TETHsyv3q1ULENaXEImgf_0ab30fd80775736d2d93ff709f7129ee.png",
     "woff_url": null,
@@ -6312,7 +6430,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "73372e2081578212"
   },
@@ -6328,6 +6448,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-23",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10200/m6be0OPFpspdOu2FO1DaUhwt_08ac835b1e8dd1c295974ed44dae6906.jpg",
     "woff_url": null,
@@ -6447,7 +6568,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "d6ca5d4217c6f2eb"
   },
@@ -6463,6 +6586,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-26",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10202/ghLW8MmbcVffkO9lWSqbZRCA_8d65802b51fc0a8e85e980192e31ef45.png",
     "woff_url": null,
@@ -6623,7 +6747,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "5050456e1448ed6e"
   },
@@ -6639,6 +6765,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10202/l9nOxVSBV26sG4YdyCTcJIsN_b23c8b18f34d11199198dc8314c5b250.png",
     "woff_url": null,
@@ -6793,7 +6920,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "946ea332fbe9e7d9"
   },
@@ -6809,6 +6938,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-23",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10200/4s7OdAwcoGdsUDxiwOrfkrMx_1515ac6fb40f05df89af5845b5946e54.png",
     "woff_url": null,
@@ -6926,7 +7056,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "70ddc417d9805d42"
   },
@@ -6942,6 +7074,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10201/afZvSEIFmXG59yINCPZ11qwv_dee6f2aca1fdf85449b4be6c9a9e2387.jpg",
     "woff_url": null,
@@ -7058,7 +7191,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "7c00ead35b82b979"
   },
@@ -7074,6 +7209,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10201/hkOWm0GgBMrQhEAn9ezTTazY_acf3fb340ae7baab6e766ca2ea051545.png",
     "woff_url": null,
@@ -7187,7 +7323,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "a292829a94342e91"
   },
@@ -7203,6 +7341,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10201/gORWnvsJm7Zw4boK8j8DE2Pb_9615adcb05f6586aee3ea35ccd37d0e2.jpg",
     "woff_url": null,
@@ -7365,7 +7504,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "eef0de4bac5da0b8"
   },
@@ -7381,6 +7522,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-27",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10202/zsTopkicQBEWDhcQQfjXusO3_3b7ce59f7ea4d3ab631264f302fb1d9e.png",
     "woff_url": null,
@@ -7501,7 +7643,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "e59819c276199f58"
   },
@@ -7517,6 +7661,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10201/DPO7cckdz2WLh6XiYwKwKF2K_212b493717f5aa45bb48bf2f52af8d31.png",
     "woff_url": null,
@@ -7635,7 +7780,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "026dad14f05d62aa"
   },
@@ -7651,6 +7798,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-23",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10200/yILoxRFVBLXMMTbJlgm3UiqK_f5ab616119f4117e51564b8ff46beca0.png",
     "woff_url": null,
@@ -7775,7 +7923,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "6bffe2718f750be2"
   },
@@ -7791,6 +7941,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10201/I98RIbcfLkNfiEnxwRaEhOgh_a940e1fa241891a8712ffc4e7903ec27.png",
     "woff_url": null,
@@ -7936,7 +8087,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "da3f7d3c08d5abc8"
   },
@@ -7952,6 +8105,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-23",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10200/t3vkkqL6Y4MASbo0ZUNxeyBt_ab1d52dbb0f351f2450933ec68797b56.png",
     "woff_url": null,
@@ -8104,7 +8258,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "efcfb321e653498a"
   },
@@ -8120,6 +8276,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-24",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=150,height=150,fit=contain,format=auto/images/pim/10073/B7kCH3M7HmhoGvTKaImS4gJj_be7c111292fb2c88685785ac135c6ec7.png",
     "woff_url": null,
@@ -8267,7 +8424,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "810157ed572f1ecb"
   },
@@ -8283,6 +8442,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-27",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10202/fMMsCYrEHCRIcoFiJTkpj5WD_3049109e74098030a9b06a1a39470fde.png",
     "woff_url": null,
@@ -8427,7 +8587,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "98ae7f213a3d455c"
   },
@@ -8443,6 +8605,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10201/TFUU5WcHab8jbdMr3RbtvPZB_4b4992168859ef7fde403a225a5d0ebd.png",
     "woff_url": null,
@@ -8591,7 +8754,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "ed4abf3a17b0cfc0"
   },
@@ -8607,6 +8772,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-23",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10200/MvVWBTuUP72mkhTkxqY48kO9_4f414b08c44e009f07f2096dc06f1660.png",
     "woff_url": null,
@@ -8749,7 +8915,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "12b7cbe25ca89415"
   },
@@ -8765,6 +8933,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-23",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10200/01vEXJuAfwB5vmrOYYCzDMa0_097eed2380959c2240a29d72fae7b17a.jpg",
     "woff_url": null,
@@ -8909,7 +9078,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "ec92321ffec347e5"
   },
@@ -8925,6 +9096,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-26",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10202/7HmquIoXZAEDcbIdDVKQaaBo_c9076c15ae2b5a5b776d18d160d7a102.jpg",
     "woff_url": null,
@@ -9042,7 +9214,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "70bf1bdc47941de9"
   },
@@ -9058,6 +9232,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-25",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10201/SQlsylreV9tRT2SPKf1RB9bk_89bcec9029e275e142b16a319a2ad571.png",
     "woff_url": null,
@@ -9176,7 +9351,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "61279d64972af721"
   },
@@ -9192,6 +9369,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-26",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10202/VXmoe9qfJpNM3F6YEYQSgU1i_56d89d57d861595286902ba0175dbab9.jpg",
     "woff_url": null,
@@ -9346,7 +9524,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "a9eaeceebe98f9b7"
   },
@@ -9354,7 +9534,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/mizhon-sans-font-skinny-type/",
-    "name": "Mizhon Sans",
+    "name": "Mizhon Sans Complete Family",
     "styles": [],
     "authors": [
       "Skinny Type"
@@ -9362,6 +9542,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/H0zFJeX7P8MPhUNz4YNfSJ21_7935f68ddabaa872c5a88ac9d94cfbe2.png",
     "woff_url": null,
@@ -9505,7 +9686,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "041c207788962281"
   },
@@ -9513,7 +9696,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/the-musa-editorial-font-romie-creative/",
-    "name": "The Musa Editorial",
+    "name": "The Musa Editorial Complete Family",
     "styles": [],
     "authors": [
       "Romie Creative"
@@ -9521,6 +9704,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/caot0kZTTyMpTV7Tv3nLIEqO_b647884cdd83958faf7972105cc62e46.png",
     "woff_url": null,
@@ -9664,7 +9848,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "2885eaeac1e68408"
   },
@@ -9672,7 +9858,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/quenova-font-kaidosan/",
-    "name": "Quenova",
+    "name": "Quenova Complete Family",
     "styles": [],
     "authors": [
       "Kaidosan"
@@ -9680,6 +9866,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/Ucycdxk7xt418NvOkxZVg2xh_998fb3e0b0078f7284891bb65d8f5add.jpg",
     "woff_url": null,
@@ -9801,7 +9988,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "8176773f0aa45cac"
   },
@@ -9809,7 +9998,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/bonarchi-font-rastype-studio/",
-    "name": "Bonarchi",
+    "name": "Semi Expanded",
     "styles": [],
     "authors": [
       "Rastype Studio"
@@ -9817,6 +10006,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-05",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10204/FKC9AoeRMYEijC7pmyqYjRGI_67d06bdada9158d0c83c40d2880fd5e6.png",
     "woff_url": null,
@@ -9935,7 +10125,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "d9894f75c187dc71"
   },
@@ -9943,7 +10135,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/master-righinta-font-tm-type/",
-    "name": "Master Righinta",
+    "name": "Master Righinta Complete Family",
     "styles": [],
     "authors": [
       "TM Type"
@@ -9951,6 +10143,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/etUfDxcemisvebUxub9ZcDK5_35157b56fcf174f64236bf43e46cadb2.png",
     "woff_url": null,
@@ -10066,7 +10259,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "52c611f85f087de6"
   },
@@ -10074,7 +10269,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/sefalio-font-snapedsgn/",
-    "name": "Sefalio",
+    "name": "Sefalio Complete Family",
     "styles": [],
     "authors": [
       "snapedsgn"
@@ -10082,6 +10277,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/usIJFgNPmYjy7KsrvpaeY1Rr_a67803149a568a16efd92d771331da1b.jpg",
     "woff_url": null,
@@ -10199,7 +10395,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "777d840a66428b6c"
   },
@@ -10207,7 +10405,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/alesteny-pojharu-font-stylishtype-studio/",
-    "name": "Alesteny Pojharu",
+    "name": "Alesteny Pojharu Complete Family",
     "styles": [],
     "authors": [
       "Stylishtype Studio"
@@ -10215,6 +10413,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/DqSpwrWOcORgtCLB7MuFTb7P_5703587c8237e9567d1216a00db97e9e.png",
     "woff_url": null,
@@ -10361,7 +10560,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "c42fad3c4a3b11b5"
   },
@@ -10369,7 +10570,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/mizhon-flare-font-skinny-type/",
-    "name": "Mizhon Flare",
+    "name": "Upright",
     "styles": [],
     "authors": [
       "Skinny Type"
@@ -10377,6 +10578,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/HTe8GeHRg01F0oxV3Njj7lor_87d3c14716f768f714b2d9e7ab7d4bce.png",
     "woff_url": null,
@@ -10520,7 +10722,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "15e342d6c3b17f6a"
   },
@@ -10528,7 +10732,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/foliant-serif-font-moritz-kleinsorge/",
-    "name": "Foliant Serif",
+    "name": "Foliant Serif Complete Family",
     "styles": [],
     "authors": [
       "Identity Letters"
@@ -10536,6 +10740,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/8zSyj6H8AjxaXgerzvq0gw0C_eff11360ae6b0fc95fbab3f1f6a228b4.jpg",
     "woff_url": null,
@@ -10700,7 +10905,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "c0e8bd28950be6fe"
   },
@@ -10708,7 +10915,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/crone-font-artiveko/",
-    "name": "Crone",
+    "name": "Crone Complete Family",
     "styles": [],
     "authors": [
       "Artiveko"
@@ -10716,6 +10923,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/5XGKt6TNmDyzCIyrJ9JjpaM2_bf78f04bf69bc2954a2db675bbd8a379.jpg",
     "woff_url": null,
@@ -10817,7 +11025,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "a9305b3083034d2e"
   },
@@ -10825,7 +11035,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/bolera-font-piscotype/",
-    "name": "Bolera",
+    "name": "Bolera Complete Family",
     "styles": [],
     "authors": [
       "Piscotype"
@@ -10833,6 +11043,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/3V3Wt3IYWm9zRYfbZPUTPj2a_bf28f0e81dd3a20235066f0a3c40cc43.jpg",
     "woff_url": null,
@@ -10986,7 +11197,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "2bedf061d366b1de"
   },
@@ -10994,7 +11207,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/west-wasteland-font-vyantype-studio/",
-    "name": "West Wasteland",
+    "name": "West Wasteland Complete Family",
     "styles": [],
     "authors": [
       "Vyantype Studio"
@@ -11002,6 +11215,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/lUPFufiFeQ599hSWbf3DtO8T_01714eeca9af6425af1aaeae73ffb3da.jpg",
     "woff_url": null,
@@ -11119,7 +11333,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "610634d09a9a1d37"
   },
@@ -11135,6 +11351,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/0YDS0USHlVUg29ViV8sVnya1_30aa34f87d251ba8850892b42212c25e.png",
     "woff_url": null,
@@ -11263,7 +11480,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "a079ca847a5683da"
   },
@@ -11271,7 +11490,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/space-town-font-bale-type/",
-    "name": "Space Town",
+    "name": "Space Town Complete Family",
     "styles": [],
     "authors": [
       "Bale Type"
@@ -11279,6 +11498,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/n3IHVWMhGwSSaRqYR7AfTtfa_1f8b4d23be2e258b6ab70e21c9f5862e.png",
     "woff_url": null,
@@ -11393,7 +11613,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "15a1e60db1cac746"
   },
@@ -11401,7 +11623,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/monobran-font-snapedsgn/",
-    "name": "Monobran",
+    "name": "Monobran Complete Family",
     "styles": [],
     "authors": [
       "snapedsgn"
@@ -11409,6 +11631,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/DXxOVua8EPURPGRxvUow7tZu_9e2d5df73334a5f153c26607d4da564f.jpg",
     "woff_url": null,
@@ -11525,7 +11748,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "5443988fa2e1cf55"
   },
@@ -11533,7 +11758,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/khaos-font-fontbilisi/",
-    "name": "Khaos",
+    "name": "Khaos Complete Family",
     "styles": [],
     "authors": [
       "Fontbilisi"
@@ -11542,6 +11767,7 @@
       "Latin",
       "Cyrillic"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/RNtrj3pQnLQSXwuHKOTqNud1_ef00ff8957ec1ec4fc36f6f3794401a0.png",
     "woff_url": null,
@@ -11747,7 +11973,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "47546f91261e97ed"
   },
@@ -11755,7 +11983,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/delice-pro-font-typostudio-pro/",
-    "name": "Delice Pro",
+    "name": "Delice Pro Complete Family",
     "styles": [],
     "authors": [
       "TypoStudio Pro"
@@ -11763,6 +11991,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/u2R9UeXj4MHuR3xifxZCPGlZ_3165fc8a3ad46c1e777e0f3e60fbcebe.jpg",
     "woff_url": null,
@@ -11900,7 +12129,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "0e8919cff7a80853"
   },
@@ -11908,7 +12139,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/westkind-font-timelesstype-studio/",
-    "name": "Westkind",
+    "name": "Westkind Complete Family",
     "styles": [],
     "authors": [
       "Timelesstype Studio"
@@ -11916,6 +12147,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/Z7oASWKkXIsUHu02dqa8OXU2_ca54c51fbcc3d2c08af59cd057282ce7.png",
     "woff_url": null,
@@ -12054,7 +12286,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "c9e3fe2c5ed5df06"
   },
@@ -12062,7 +12296,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/tbj-margin-condensed-font-taboja-studio/",
-    "name": "TBJ Margin Condensed",
+    "name": "TBJ Margin Condensed Complete Family",
     "styles": [],
     "authors": [
       "Taboja Studio"
@@ -12070,6 +12304,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/Wo4FcbawrY2QjMr2wjaekRLB_6cc1186a4ddcae0988307f18b10ecd0d.png",
     "woff_url": null,
@@ -12186,7 +12421,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "2e9b2cefc2e93b67"
   },
@@ -12194,7 +12431,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/ariex-nue-font-webhance/",
-    "name": "Ariex Nue",
+    "name": "Ariex Nue Complete Family",
     "styles": [],
     "authors": [
       "Webhance"
@@ -12202,6 +12439,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/lkpyFCUJp23I8PcdM5IOLmo2_df201223a1b7d9df1906d7e6a31a0828.png",
     "woff_url": null,
@@ -12319,7 +12557,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "5d5f8483143f82da"
   },
@@ -12327,7 +12567,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/evahgelina-font-made-deduk/",
-    "name": "Evahgelina",
+    "name": "Evahgelina Complete Family",
     "styles": [],
     "authors": [
       "madeDeduk"
@@ -12335,6 +12575,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/m0AKtXbi1ii1PTgywR1Mz2Dh_155e6e3513b8d77428e58a81465a7d27.png",
     "woff_url": null,
@@ -12479,7 +12720,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "9c36398abfcf90fd"
   },
@@ -12487,7 +12730,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/trup-and-tomp-font-angga-mahardika/",
-    "name": "Trup & Tomp",
+    "name": "Trup & Tomp Complete Family",
     "styles": [],
     "authors": [
       "Angga Mahardika"
@@ -12495,6 +12738,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/wUcSgwnPhoDUfDoqzAHLQn8Z_8d75a61b75181e5abc9359b7eda927e2.jpg",
     "woff_url": null,
@@ -12618,7 +12862,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "528fb23f2916905c"
   },
@@ -12626,7 +12872,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/mc-segalecy-font-maulana-creative/",
-    "name": "Mc Segalecy",
+    "name": "MC Segalecy Complete Family",
     "styles": [],
     "authors": [
       "Maulana Creative"
@@ -12634,6 +12880,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/2Llhy7X51AmcsVVbdlFTjPEW_6ef93becffd7bda870b17201c14dd193.jpg",
     "woff_url": null,
@@ -12739,7 +12986,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "1c5a19c7826dd75a"
   },
@@ -12747,7 +12996,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/flova-font-slex-studio/",
-    "name": "Flova",
+    "name": "Extended",
     "styles": [],
     "authors": [
       "Slex Studio"
@@ -12755,6 +13004,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/kOAG9wInfEtu4lFT61YEi52v_2d051b1e494eec0d4aa8ca25a191d786.png",
     "woff_url": null,
@@ -12898,7 +13148,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "174538703bf29b36"
   },
@@ -12914,6 +13166,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/26i5WG9Ozv9DYwjzGUDadk5P_10abca21744086c7cea00543c79d1adf.png",
     "woff_url": null,
@@ -13030,7 +13283,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "b27ca33ac2dab39f"
   },
@@ -13038,7 +13293,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/gumybops-font-snapedsgn/",
-    "name": "Gumybops",
+    "name": "Gumybops Complete Family",
     "styles": [],
     "authors": [
       "snapedsgn"
@@ -13046,6 +13301,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/HEjcLEetxkyPzrXxUXYD31vV_3d88d664f90684b3743777fe2ef20f2f.jpg",
     "woff_url": null,
@@ -13170,7 +13426,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "f3f299ab6d15b201"
   },
@@ -13178,7 +13436,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/rustvale-font-letterhend/",
-    "name": "Rustvale",
+    "name": "Rustvale Complete Family",
     "styles": [],
     "authors": [
       "Letterhend"
@@ -13186,6 +13444,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/vvLTEgXHqbYhASoKOMX5Qvbe_919eebea7c4bc060e3ad124bf7d72be8.png",
     "woff_url": null,
@@ -13301,7 +13560,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "5cf1f2f684375614"
   },
@@ -13309,7 +13570,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/aseno-modern-font-nirmana-visual/",
-    "name": "Aseno Modern",
+    "name": "Aseno Modern Complete Family",
     "styles": [],
     "authors": [
       "Nirmana Visual"
@@ -13317,6 +13578,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/zbWIAwMNPRO5mxYSK3voaabq_67b2dd0a8db695304c7fcacfa7f9edd3.png",
     "woff_url": null,
@@ -13463,7 +13725,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "c1c961756aa5330e"
   },
@@ -13471,7 +13735,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/mojian-font-wildan-carfont/",
-    "name": "Mojian",
+    "name": "Mojian Complete Family",
     "styles": [],
     "authors": [
       "Wildan Type"
@@ -13479,6 +13743,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/IsRzv8FiCTcXKoaJze4LfqAD_c5a123f834691cc513b47fc6a7bf7322.png",
     "woff_url": null,
@@ -13598,7 +13863,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "ff5b54d52bacc617"
   },
@@ -13606,7 +13873,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/reyda-font-ragamkata/",
-    "name": "Reyda",
+    "name": "Reyda Complete Family",
     "styles": [],
     "authors": [
       "RagamKata"
@@ -13614,6 +13881,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/MK4cHgtQyJw6JxvFqqZT4C2C_b6be8648a7911564195aef842305be0c.png",
     "woff_url": null,
@@ -13730,7 +13998,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "f4be326c6ae47198"
   },
@@ -13738,7 +14008,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/rucent-font-vermilione/",
-    "name": "Rucent",
+    "name": "Rucent Complete Family",
     "styles": [],
     "authors": [
       "Say Studio"
@@ -13746,6 +14016,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/ELoBOrGHqCPIWYKbtkpl1p7O_154109a93f77089266d75918a4ef29ee.png",
     "woff_url": null,
@@ -13864,7 +14135,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "3e54d737b73c35f7"
   },
@@ -13872,7 +14145,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/brokewall-font-valorix-studio/",
-    "name": "Brokewall",
+    "name": "Brokewall Complete Family",
     "styles": [],
     "authors": [
       "Valorix Studio"
@@ -13880,6 +14153,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/90zyKoHCO6kMALajiml7EmfY_25472d913540139fcfac35a908f08748.png",
     "woff_url": null,
@@ -13995,7 +14269,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "7d26f4c14d186319"
   },
@@ -14003,7 +14279,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/fox-nibble-font-fox7/",
-    "name": "Fox Nibble",
+    "name": "Fox Nibble Complete Family",
     "styles": [],
     "authors": [
       "Fox7"
@@ -14011,6 +14287,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/IzABfQOwpJP2vcbnbYhTU6Ha_6ec116a9efea3fa582b6f9ace008c797.png",
     "woff_url": null,
@@ -14128,7 +14405,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "66601942bbc4e5ac"
   },
@@ -14136,7 +14415,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/mizhon-serif-font-skinny-type/",
-    "name": "Mizhon Serif",
+    "name": "Upright",
     "styles": [],
     "authors": [
       "Skinny Type"
@@ -14144,6 +14423,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/WqQ1Eu85DXYGptLjBqOSGqqC_f7944823c8e4c137cd6e1433c31a0eea.png",
     "woff_url": null,
@@ -14287,7 +14567,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "fc31f73a94680190"
   },
@@ -14295,7 +14577,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/harney-font-letterhend/",
-    "name": "Harney",
+    "name": "Harney Complete Family",
     "styles": [],
     "authors": [
       "Letterhend"
@@ -14303,6 +14585,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/yuUYTFyINi8SczxdZ5GiU0Kw_a3479be70c186e33ed3e0fb2e08c88f3.png",
     "woff_url": null,
@@ -14416,7 +14699,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "b0d4ccc2ca90d43e"
   },
@@ -14424,7 +14709,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/readant-font-rastype-studio/",
-    "name": "Readant",
+    "name": "Hard",
     "styles": [],
     "authors": [
       "Rastype Studio"
@@ -14432,6 +14717,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-05",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10204/ZYgY8lQhMuCqA6Y5Cjx2JKnq_9f23d35461560a47457664175a0b1bd6.png",
     "woff_url": null,
@@ -14574,7 +14860,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "92ed35cc6f27cebf"
   },
@@ -14582,7 +14870,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/blime-blackletter-font-nirmana-visual/",
-    "name": "Blime Blackletter",
+    "name": "Blime Blackletter Complete Family",
     "styles": [],
     "authors": [
       "Nirmana Visual"
@@ -14590,6 +14878,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/LavxcIwWBQYQB8bGlX6Ibgdp_129a90c5f74b0bff535a85f739409dd6.png",
     "woff_url": null,
@@ -14735,7 +15024,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "1cf7785448d31fe3"
   },
@@ -14743,7 +15034,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/freedom-paradise-font-stylishtype-studio/",
-    "name": "Freedom Paradise",
+    "name": "Freedom Paradise Complete Family",
     "styles": [],
     "authors": [
       "Stylishtype Studio"
@@ -14751,6 +15042,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/PXQjRRhcIfHGSWR4pXhDUnXT_9f6cfbabfbaf1653201ff49c38035fc4.png",
     "woff_url": null,
@@ -14895,7 +15187,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "d94c345c014ccf96"
   },
@@ -14903,7 +15197,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/rusty-court-font-letterhend/",
-    "name": "Rusty Court",
+    "name": "Rusty Court Complete Family",
     "styles": [],
     "authors": [
       "Letterhend"
@@ -14911,6 +15205,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/U0uExjqRHSWZueBEoveVaMd4_662815432aa3657ae85fc0eebb9e140a.png",
     "woff_url": null,
@@ -15027,7 +15322,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "3f64501baa6a8a44"
   },
@@ -15035,7 +15332,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/nailong-lifemore-font-anaya-studio/",
-    "name": "Nailong Lifemore",
+    "name": "Nailong Lifemore Complete Family",
     "styles": [],
     "authors": [
       "Anaya Studio"
@@ -15043,6 +15340,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/2gUL6kJQMYufauCMwAd8yTkO_fb783efb7dc38d6c1f61571bee9d6637.png",
     "woff_url": null,
@@ -15155,7 +15453,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "ea69a40f90288d21"
   },
@@ -15163,7 +15463,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/monarch-heritage-font-typoraith-co/",
-    "name": "Monarch Heritage",
+    "name": "Monarch Heritage Complete Family",
     "styles": [],
     "authors": [
       "Typoraith Co"
@@ -15171,6 +15471,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/8HVXBOUkD1yRecz9uumwQUzp_fbf40f94e830aa4971d014937fc50b78.jpg",
     "woff_url": null,
@@ -15292,7 +15593,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "db5ff3065533809d"
   },
@@ -15300,7 +15603,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/shansio-font-graphicxell/",
-    "name": "Shansio",
+    "name": "Shansio Complete Family",
     "styles": [],
     "authors": [
       "Graphicxell"
@@ -15308,6 +15611,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/x7TqnxdBK5M6hYRPhmUYDRPV_807078c80612dc5f725626d4e3d76c8e.png",
     "woff_url": null,
@@ -15420,7 +15724,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "c58b022cf41b8a8b"
   },
@@ -15428,7 +15734,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/restless-dynasty-font-naufal-paramata/",
-    "name": "Restless Dynasty",
+    "name": "Restless Dynasty Complete Family",
     "styles": [],
     "authors": [
       "Youngtype"
@@ -15436,6 +15742,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/Rw3yINng0lPoBoC3t6kkeV92_648e9de87928bea12e50486f977b8f29.png",
     "woff_url": null,
@@ -15553,7 +15860,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "57b812459f082866"
   },
@@ -15561,7 +15870,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/it-malstryne-font-creatifont-studio/",
-    "name": "It Malstryne",
+    "name": "IT Malstryne Complete Family",
     "styles": [],
     "authors": [
       "Indotype"
@@ -15569,6 +15878,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/NKYySokJTTYg0zsw63iSyJiX_75497a6378a1b284c9704d5f918e17af.png",
     "woff_url": null,
@@ -15683,7 +15993,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "13e499e3712c8b01"
   },
@@ -15691,7 +16003,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/felvice-font-snapedsgn/",
-    "name": "Felvice",
+    "name": "Felvice Complete Family",
     "styles": [],
     "authors": [
       "snapedsgn"
@@ -15699,6 +16011,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/MLsiNRCCcRSowNUL5hZXZZPN_d0a945ebef3b41cd51363cfa1ea10de2.png",
     "woff_url": null,
@@ -15818,7 +16131,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "1804b6c34fb0daae"
   },
@@ -15826,7 +16141,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/scramble-font-agny-hasya-studio/",
-    "name": "Scramble",
+    "name": "Scramble Complete Family",
     "styles": [],
     "authors": [
       "Agny Hasya Studio"
@@ -15834,6 +16149,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/yB0as8pwFP9fYlLAeBsTNQVK_a1d582d9eef219989efd287d778f26c7.png",
     "woff_url": null,
@@ -15949,7 +16265,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "d2b9fafaea758f8a"
   },
@@ -15957,7 +16275,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/gothig-round-font-studio-jaso/",
-    "name": "Gothig Round",
+    "name": "Starter Pack",
     "styles": [],
     "authors": [
       "StudioJASO"
@@ -15966,6 +16284,7 @@
       "Latin",
       "Korean"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-05",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10204/wanZpqkQCrWJg5zakYoPaOmT_31d0a76610cb42cc14681ec4ab4c60f3.png",
     "woff_url": null,
@@ -16118,7 +16437,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "6cbc45050ef0d0ca"
   },
@@ -16126,7 +16447,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/noverion-slab-font-typehill-studio/",
-    "name": "Noverion Slab",
+    "name": "Noverion Slab Complete Family",
     "styles": [],
     "authors": [
       "Typehill Studio"
@@ -16134,6 +16455,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/bIiFSbpE7r7fJgvFaINszg6z_bccb17dccade45bc48ef3286a2664300.png",
     "woff_url": null,
@@ -16277,7 +16599,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "86a347f40e8a48a4"
   },
@@ -16285,7 +16609,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/foermality-sans-variable-font-laroyba-type/",
-    "name": "Foermality Sans Variable",
+    "name": "Foermality Sans Variable Complete Family",
     "styles": [],
     "authors": [
       "Laroyba Type"
@@ -16293,6 +16617,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/N7lc7nGG2QektvDiXZGKrCKp_9239daa2913f3e70be107fc59070f93f.png",
     "woff_url": null,
@@ -16437,7 +16762,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "dde28ab9277af886"
   },
@@ -16445,7 +16772,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/bozeek-istory-font-stylishtype-studio/",
-    "name": "Bozeek Istory",
+    "name": "Bozeek Istory Complete Family",
     "styles": [],
     "authors": [
       "Stylishtype Studio"
@@ -16453,6 +16780,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/D01GfGuMo8BpPHja6vzffuKx_1eaa49140ea468d4066536081f9ba3c0.png",
     "woff_url": null,
@@ -16599,7 +16927,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "096db46214640d0a"
   },
@@ -16607,13 +16937,14 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/products/calavera-complete-family-package-1118786",
-    "name": "Calavera",
+    "name": "Calavera Complete Family",
     "styles": [],
     "authors": [
       "Cocijotype"
     ],
     "scripts": [],
-    "release_date": "2026-03-07T06:52:45-05:00",
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-03-07",
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
@@ -16636,7 +16967,9 @@
       "updated_at": "2026-03-07T10:17:37-05:00",
       "product_url": "https://www.myfonts.com/products/calavera-complete-family-package-1118786",
       "collection_url": null,
-      "myfonts_debut_date": null
+      "myfonts_debut_date": null,
+      "is_package_product": true,
+      "is_package_without_metadata": true
     },
     "release_id": "4f8c3912a44719d5"
   },
@@ -16644,7 +16977,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/pace-form-font-initiatype/",
-    "name": "Pace Form",
+    "name": "Pace Form Complete Family",
     "styles": [],
     "authors": [
       "Initiatype"
@@ -16652,6 +16985,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/wK1FQ4HvPgmk9RFPflwMYS39_37751e0fc21b642b600f6f9bb50b60de.png",
     "woff_url": null,
@@ -16794,7 +17128,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "359b6bf9c6c75a9d"
   },
@@ -16802,7 +17138,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/stone-capital-font-lemonthe/",
-    "name": "Stone Capital",
+    "name": "Stone Capital Complete Family",
     "styles": [],
     "authors": [
       "Lemonthe"
@@ -16810,6 +17146,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/QvqHpTKT9pYpJWZ9nRh47ztZ_418b108aac79ce8fc8298f12a13d6252.png",
     "woff_url": null,
@@ -16927,7 +17264,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "2a636098fe71fca7"
   },
@@ -16935,7 +17274,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/hidden-route-font-letterhend/",
-    "name": "Hidden Route",
+    "name": "Hidden Route Complete Family",
     "styles": [],
     "authors": [
       "Letterhend"
@@ -16943,6 +17282,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/AzkF5ANKubL0AMOxcZABEu02_d873550d882200b337a03705ad6e5ab2.png",
     "woff_url": null,
@@ -17055,7 +17395,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "0fce27e2edfceb58"
   },
@@ -17063,7 +17405,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/meat-glone-font-pandeka-studio/",
-    "name": "Meat Glone",
+    "name": "Meat Glone Complete Family",
     "styles": [],
     "authors": [
       "Pandeka Studio"
@@ -17071,6 +17413,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/Dpc1TetJa9gKmFQIGwpI8aUL_5bef024ccc5e411c0fdbb9ad4c640373.png",
     "woff_url": null,
@@ -17188,7 +17531,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "72678be1d2545717"
   },
@@ -17196,7 +17541,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/anglica-font-pista-mova/",
-    "name": "Anglica",
+    "name": "Anglica Complete Family",
     "styles": [],
     "authors": [
       "Pista Mova"
@@ -17204,6 +17549,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/hulpzR4GAJqnhSheKVD7jyRd_6764afd71f0383e0ff53bc0739d80cf9.png",
     "woff_url": null,
@@ -17349,7 +17695,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "155f70aaea8a6fa4"
   },
@@ -17357,7 +17705,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/bencord-font-graphicfresh/",
-    "name": "Bencord",
+    "name": "Bencord Complete Family",
     "styles": [],
     "authors": [
       "Graphicfresh"
@@ -17365,6 +17713,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/owaoT7835TKhIjbmXUKLJi2i_b02fa96a44f07d338f35e8eb29f56aa0.png",
     "woff_url": null,
@@ -17491,7 +17840,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "4cf3a1f2090b202b"
   },
@@ -17499,7 +17850,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/business-serif-font-pizzatypefaces/",
-    "name": "Business Serif",
+    "name": "Business Serif Complete Family",
     "styles": [],
     "authors": [
       "Pizzatypefaces"
@@ -17507,6 +17858,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/hhFOfN2XlyEwQRhAbn2GTcZa_90f85009d1bea592a5d9a02ad3863f15.jpg",
     "woff_url": null,
@@ -17658,7 +18010,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "fe4df74c54d69652"
   },
@@ -17666,7 +18020,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/autheka-font-shapespired-design/",
-    "name": "Autheka",
+    "name": "Autheka Complete Family",
     "styles": [],
     "authors": [
       "Shapespired Design"
@@ -17674,6 +18028,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/T31p7SqQBJ5T6ravQlRVwtLE_18ed27f67145ebf82478c29fe1f28070.png",
     "woff_url": null,
@@ -17795,7 +18150,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "146d79aa19f43440"
   },
@@ -17803,7 +18160,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/scarletis-font-stylishtype-studio/",
-    "name": "Scarletis",
+    "name": "Scarletis Complete Family",
     "styles": [],
     "authors": [
       "Stylishtype Studio"
@@ -17811,6 +18168,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/KxssVGwVG92jyNGdnhIden0F_f23455a2ed1f1d1d9b2e98b15289d318.png",
     "woff_url": null,
@@ -17952,7 +18310,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "ac954e7cead4d2a3"
   },
@@ -17960,7 +18320,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/coulder-font-artiveko/",
-    "name": "Coulder",
+    "name": "Coulder Complete Family",
     "styles": [],
     "authors": [
       "Artiveko"
@@ -17968,6 +18328,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/RAbLIWjZDlyQoVE4rqSLaDQa_36e6737ae1962851013096b315c836d7.jpg",
     "woff_url": null,
@@ -18077,7 +18438,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "c2439e2c9484060c"
   },
@@ -18093,6 +18456,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/3vY0m71tPIIdbcKGpY83tpzQ_11e73e73c1cbd0e314343db70e71980e.png",
     "woff_url": null,
@@ -18211,7 +18575,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "1c6191c8f8a94bad"
   },
@@ -18225,7 +18591,8 @@
       "Cocijotype"
     ],
     "scripts": [],
-    "release_date": "2026-03-07T06:50:32-05:00",
+    "script_status": "unknown",
+    "release_date": "2026-03-07",
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
@@ -18247,7 +18614,9 @@
       "updated_at": "2026-03-07T10:17:37-05:00",
       "product_url": "https://www.myfonts.com/products/four-calavera-1118793",
       "collection_url": null,
-      "myfonts_debut_date": null
+      "myfonts_debut_date": null,
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "7f478612bce2f11d"
   },
@@ -18264,6 +18633,7 @@
       "Latin",
       "Cyrillic"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/SabFCNTg40yVOKnslSIbegNI_ab3a06a4852589746d1e9cc5f4eca563.png",
     "woff_url": null,
@@ -18393,7 +18763,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "ec0286f786111df3"
   },
@@ -18407,7 +18779,8 @@
       "Cocijotype"
     ],
     "scripts": [],
-    "release_date": "2026-03-07T06:50:02-05:00",
+    "script_status": "unknown",
+    "release_date": "2026-03-07",
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
@@ -18427,7 +18800,9 @@
       "updated_at": "2026-03-07T10:17:37-05:00",
       "product_url": "https://www.myfonts.com/products/flaca-calavera-1118795",
       "collection_url": null,
-      "myfonts_debut_date": null
+      "myfonts_debut_date": null,
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "bed6c866a2de22de"
   },
@@ -18443,6 +18818,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/Osxuy1WQIsnana6KSrwZOM0m_75bd5ba10f4678364b8f6adc64f6714f.jpg",
     "woff_url": null,
@@ -18568,7 +18944,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "0f8813fa1755c503"
   },
@@ -18582,7 +18960,8 @@
       "Cocijotype"
     ],
     "scripts": [],
-    "release_date": "2026-03-07T06:50:02-05:00",
+    "script_status": "unknown",
+    "release_date": "2026-03-07",
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
@@ -18604,7 +18983,9 @@
       "updated_at": "2026-03-07T10:17:37-05:00",
       "product_url": "https://www.myfonts.com/products/fina-calavera-1118796",
       "collection_url": null,
-      "myfonts_debut_date": null
+      "myfonts_debut_date": null,
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "6bc9437b6fc2bc7f"
   },
@@ -18620,6 +19001,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/8IkxMmzyD1tnywx0KPmcqw8Y_d34f21edc036029d69ce93b61c4fd53b.jpg",
     "woff_url": null,
@@ -18732,7 +19114,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "404bfe6018d33698"
   },
@@ -18748,6 +19132,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-05",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10204/itRLn8yMADuH5of2Jk9UJZYf_bc885ca0157424a23ed2445d98e2c7d6.png",
     "woff_url": null,
@@ -18861,7 +19246,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "2b9476043d0738ee"
   },
@@ -18877,6 +19264,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/jKJHcfXna7bGCBOEkvj0CbtW_ee470373675a6c64fe5fb29168fb3c10.jpg",
     "woff_url": null,
@@ -18998,7 +19386,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "3e248f2af748610f"
   },
@@ -19014,6 +19404,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/5Ff1lT4piDhxVuLdWR3bzba4_6119dd72750cf4a4273d52e8d1444c46.jpg",
     "woff_url": null,
@@ -19135,7 +19526,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "c26baa0011a53950"
   },
@@ -19151,6 +19544,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/51lJuAkSYWzojQ1i3ATuJLPN_d5b13f1f9fb1a36b53798fc059571887.jpg",
     "woff_url": null,
@@ -19276,7 +19670,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "44b3d59d412ce7b7"
   },
@@ -19292,6 +19688,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/9RITWGsxclaK9jinM7wZcCUV_d5ecb860a3fbc3a7c66cf4a5928e3d20.png",
     "woff_url": null,
@@ -19437,7 +19834,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "320d96758a4007c5"
   },
@@ -19453,6 +19852,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/dfECsUFjV66usAK8bcC4kqZl_e24508d039ea8471f3820d0d71ea5e15.png",
     "woff_url": null,
@@ -19611,7 +20011,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "d059de7ccdd04624"
   },
@@ -19627,6 +20029,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/hgC33EWz2U9BK1X9flF5vZ7x_d9be21e199ff13cf2e3d144fc85d2a00.png",
     "woff_url": null,
@@ -19768,7 +20171,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "7914c4679c60e4c3"
   },
@@ -19784,6 +20189,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/Pvk8uZGtJj3GO14utZixOdQW_5aa9630418cef4c443693892384df7cc.png",
     "woff_url": null,
@@ -19927,7 +20333,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "0b0bdc8360803621"
   },
@@ -19943,6 +20351,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/ITjewbO4V7tRDqSRjl818gpD_9eafa3d4186d5fd73bcc2ddea8707656.jpeg",
     "woff_url": null,
@@ -20024,7 +20433,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "12dbd21d38d9aab5"
   },
@@ -20040,6 +20451,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-05",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10204/2UtYbduXHxWrrJvcqaMrfu3h_9c84381fdd73c7525c328068a6fba9c0.png",
     "woff_url": null,
@@ -20162,7 +20574,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "ab4393e2c0d0102e"
   },
@@ -20178,6 +20592,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/rLmyw9UAxajGPCG0LNKXm1a8_d70b23c316252b91c458182b0592d97f.png",
     "woff_url": null,
@@ -20294,7 +20709,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "5049c00d374a67d1"
   },
@@ -20310,6 +20727,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/cwkFpTHbx1b9FJeZd1jNek1J_a1265b8d74ba8e1fed9f946e2a4b6570.png",
     "woff_url": null,
@@ -20429,7 +20847,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "2a419d004f3d8607"
   },
@@ -20445,6 +20865,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/808QkLoy7ScPLojXBdgcVTKj_a47a2df9b1cc0da4ce715a520a6c1366.png",
     "woff_url": null,
@@ -20562,7 +20983,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "357be265aeafc438"
   },
@@ -20578,6 +21001,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/YNbY1YxjHHmoorqqRlvujCRD_c908e648f1db70c16f88d09e12d32b88.jpg",
     "woff_url": null,
@@ -20690,7 +21114,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "804dd73c05533d73"
   },
@@ -20706,6 +21132,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/jm0YRiHzsXT6hr2yGf9OTzuv_2397267474a78e9cb33e9d5e6263235d.png",
     "woff_url": null,
@@ -20822,7 +21249,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "763d8d503d9cb8fb"
   },
@@ -20838,6 +21267,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/SH13ciCyoP71p77sKkNywFgf_7662af2f8e3633c0d4d748994fd152fa.jpg",
     "woff_url": null,
@@ -20953,7 +21383,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "fed8e75b8cf7ee6f"
   },
@@ -20969,6 +21401,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/lqkI2fF1nCaf11yyylXrH9v6_f69a09e10dd07b7fdee1740d51bbb530.jpg",
     "woff_url": null,
@@ -21081,7 +21514,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "51c2c28afbd5ed54"
   },
@@ -21097,6 +21532,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/DruI6mk7CbNOvaslyrPM8GOt_52ed57f31a9c1e252319a3cf846147be.png",
     "woff_url": null,
@@ -21223,7 +21659,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "be3af1e4839b8194"
   },
@@ -21239,6 +21677,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/C2LMVv4cjzBJcxsra2IRGoBn_7bcffd02f60ba7ed891a8bb799ed00c4.png",
     "woff_url": null,
@@ -21355,7 +21794,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "7280ef2c2835e2d3"
   },
@@ -21369,7 +21810,8 @@
       "Cocijotype"
     ],
     "scripts": [],
-    "release_date": "2026-03-07T06:48:15-05:00",
+    "script_status": "unknown",
+    "release_date": "2026-03-07",
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
@@ -21391,7 +21833,9 @@
       "updated_at": "2026-03-07T10:25:28-05:00",
       "product_url": "https://www.myfonts.com/products/three-calavera-1118791",
       "collection_url": null,
-      "myfonts_debut_date": null
+      "myfonts_debut_date": null,
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "90b07b9b3fbafaf7"
   },
@@ -21407,6 +21851,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/77TwPo5DW2EAaZdLA9zxK0gX_59a64e32b2a62e86230944542230db2b.png",
     "woff_url": null,
@@ -21519,7 +21964,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "99c868cb836355d3"
   },
@@ -21535,6 +21982,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-05",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10204/UAqDi86CjIIq1PJ2lZv3Rkx4_91573b73d3312ab368a82734772394a1.png",
     "woff_url": null,
@@ -21650,7 +22098,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "015587bfa2f5d9c2"
   },
@@ -21666,6 +22116,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/OhJLAtHJhVNingayJmbfXZLG_a4d10799ba8bf3dba96ef14be872fc4f.png",
     "woff_url": null,
@@ -21790,7 +22241,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "f8a9ea1cc9fcb2ba"
   },
@@ -21806,6 +22259,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/nmwgMgnZWP5LayIBtgMbfLcg_0c6392e7880a16b28b6c5a457ff35485.png",
     "woff_url": null,
@@ -21924,7 +22378,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "2823601487e4812c"
   },
@@ -21940,6 +22396,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/QAj9kEJxyd72raLL2HGCDTTK_64833f0aff5481a24b2887511e41d38a.png",
     "woff_url": null,
@@ -22067,7 +22524,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "62244166a8b20db3"
   },
@@ -22083,6 +22542,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/0CpX4POJRqPRkdSiETrGTjZk_c37607c9fa1c034d7c86ed407b69bb60.png",
     "woff_url": null,
@@ -22194,7 +22654,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "1757c3875450d3a0"
   },
@@ -22208,7 +22670,8 @@
       "Cocijotype"
     ],
     "scripts": [],
-    "release_date": "2026-03-07T06:46:57-05:00",
+    "script_status": "unknown",
+    "release_date": "2026-03-07",
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
@@ -22231,7 +22694,9 @@
       "updated_at": "2026-03-07T10:25:51-05:00",
       "product_url": "https://www.myfonts.com/products/five-calavera-1118794",
       "collection_url": null,
-      "myfonts_debut_date": null
+      "myfonts_debut_date": null,
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "d8b8bf9795e58f92"
   },
@@ -22247,6 +22712,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/g3LwUgHjIKP0E8XmeHXRGjnN_6b5eab4d5c2d133a4650fc716a1ab657.png",
     "woff_url": null,
@@ -22438,7 +22904,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "9dbbdd7061a47c53"
   },
@@ -22452,7 +22920,8 @@
       "Cocijotype"
     ],
     "scripts": [],
-    "release_date": "2026-03-07T06:46:38-05:00",
+    "script_status": "unknown",
+    "release_date": "2026-03-07",
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
@@ -22475,7 +22944,9 @@
       "updated_at": "2026-03-07T10:26:02-05:00",
       "product_url": "https://www.myfonts.com/products/two-calavera-1118789",
       "collection_url": null,
-      "myfonts_debut_date": null
+      "myfonts_debut_date": null,
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "9342f7de1e43489f"
   },
@@ -22489,7 +22960,8 @@
       "Cocijotype"
     ],
     "scripts": [],
-    "release_date": "2026-03-07T06:46:35-05:00",
+    "script_status": "unknown",
+    "release_date": "2026-03-07",
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
@@ -22512,7 +22984,9 @@
       "updated_at": "2026-03-07T10:26:02-05:00",
       "product_url": "https://www.myfonts.com/products/one-calavera-1118787",
       "collection_url": null,
-      "myfonts_debut_date": null
+      "myfonts_debut_date": null,
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "adc7b280672340f7"
   },
@@ -22528,6 +23002,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-02-26",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10202/lhkUKcE95ayMkjocE85kBbWZ_e67f27e277b3ba54248d7fe17a64d2f7.png",
     "woff_url": null,
@@ -22678,7 +23153,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "ee80c0cd0a528573"
   },
@@ -22694,6 +23171,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/EaQZ8FHL23RBTsBLnqXMAMNr_8c400566d834e1b5da50c19b37cf8ed6.png",
     "woff_url": null,
@@ -22822,7 +23300,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "bb0d18e0a482d913"
   },
@@ -22838,6 +23318,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/aL9O88spN9ZLW1y4EsUwitGa_d5d386771db4619f67c854f2b53fa747.jpg",
     "woff_url": null,
@@ -22980,7 +23461,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "0fdd5473e40edf12"
   },
@@ -22996,6 +23479,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/3FdtBtnD4EcLBf02TpmTij7w_8688d549edb45d8aac50f89a68bdcfa4.png",
     "woff_url": null,
@@ -23114,7 +23598,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "fe74f257c8bbee02"
   },
@@ -23130,6 +23616,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/O9NstaIKtH5thZg7SlPNmk6U_2c58fb0c7bc815297fb03bf41a6493f5.png",
     "woff_url": null,
@@ -23273,7 +23760,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "730704bb56114eb5"
   },
@@ -23289,6 +23778,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/ZEVjRKJQOikcEMIgjQdTIOvv_a06a99273366c9e016b67943aecb181c.png",
     "woff_url": null,
@@ -23414,7 +23904,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "14765af6415ae7d5"
   },
@@ -23430,6 +23922,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-06",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10205/AAPF3xKuMKMwd1CdNG7glRMW_0b27c9c715eb0eaf1ba70c79a24339e2.jpg",
     "woff_url": null,
@@ -23552,7 +24045,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "b7cd6270003cafe9"
   },
@@ -23568,6 +24063,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-05",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10204/TXyc1mHameKkOCL9R9L5qlLQ_daf4de56f4c3202c2ee6e85c793a34e0.png",
     "woff_url": null,
@@ -23686,7 +24182,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": false,
+      "is_package_without_metadata": false
     },
     "release_id": "936deaddf12d73bc"
   },
@@ -23700,7 +24198,8 @@
       "Fat Hamster"
     ],
     "scripts": [],
-    "release_date": "2026-03-06T06:24:13-05:00",
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-03-06",
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
@@ -23714,7 +24213,9 @@
       "updated_at": "2026-03-07T10:10:17-05:00",
       "product_url": "https://www.myfonts.com/products/family-time-bundle-package-993097",
       "collection_url": null,
-      "myfonts_debut_date": null
+      "myfonts_debut_date": null,
+      "is_package_product": true,
+      "is_package_without_metadata": true
     },
     "release_id": "43cd71099236bf86"
   },
@@ -23722,7 +24223,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/monevilcy-font-typeclassheroes/",
-    "name": "Monevilcy",
+    "name": "Monevilcy Complete Family",
     "styles": [],
     "authors": [
       "TypeClassHeroes"
@@ -23730,6 +24231,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-05",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10204/kqUrS1vcNYKcutGm9kysfF1L_89e76af8cef5c84482470ec0f413f0dd.png",
     "woff_url": null,
@@ -23876,7 +24378,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "2bdb1491df6fe285"
   },
@@ -23884,7 +24388,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/hekgest-font-timelesstype-studio/",
-    "name": "Hekgest",
+    "name": "Hekgest Complete Family",
     "styles": [],
     "authors": [
       "Timelesstype Studio"
@@ -23892,6 +24396,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-05",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10204/1LC5C9F502hTnAwupHQcOm1B_dae62a95752e87b0792d7bed8b97f7a3.png",
     "woff_url": null,
@@ -24035,7 +24540,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "3c8495b1f68c3d3c"
   },
@@ -24043,7 +24550,7 @@
     "source_id": "myfonts",
     "source_name": "MyFonts",
     "source_url": "https://www.myfonts.com/collections/glemy-botra-font-pandeka-studio/",
-    "name": "Glemy Botra",
+    "name": "Glemy Botra Complete Family",
     "styles": [],
     "authors": [
       "Pandeka Studio"
@@ -24051,6 +24558,7 @@
     "scripts": [
       "Latin"
     ],
+    "script_status": "ok",
     "release_date": "2026-03-05",
     "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10204/qaSnsF1bnilYkCTeT9R7ZmuH_6e1ca636d6cb565c97606f0a841badd4.png",
     "woff_url": null,
@@ -24170,7 +24678,9 @@
         "Xhosa",
         "Soga",
         "Zulu"
-      ]
+      ],
+      "is_package_product": true,
+      "is_package_without_metadata": false
     },
     "release_id": "466afabb935dee6c"
   }

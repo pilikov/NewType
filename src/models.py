@@ -15,6 +15,7 @@ class FontRelease:
     styles: list[str] = field(default_factory=list)
     authors: list[str] = field(default_factory=list)
     scripts: list[str] = field(default_factory=list)
+    script_status: str | None = None
     release_date: str | None = None
     image_url: str | None = None
     woff_url: str | None = None

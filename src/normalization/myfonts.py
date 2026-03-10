@@ -27,6 +27,26 @@ def normalize_myfonts_release(release: FontRelease, source_cfg: dict[str, Any]) 
         # Prefer deterministic re-derivation from stored language signals + explicit tag hints.
         release.scripts = _ordered_unique_scripts([*tag_scripts, *inferred_scripts])
 
+    is_package_product = bool(raw.get("is_package_product"))
+    if not is_package_product:
+        is_package_product = _looks_like_package(
+            str(raw.get("handle") or ""),
+            str(release.name or ""),
+            str(raw.get("product_url") or release.source_url or ""),
+        )
+        raw["is_package_product"] = is_package_product
+
+    has_script_metadata = bool(raw.get("tech_specs_scripts") or raw.get("tech_specs_supported_languages"))
+    has_collection_url = bool(raw.get("collection_url"))
+    raw["is_package_without_metadata"] = bool(is_package_product and not has_script_metadata and not has_collection_url)
+
+    if release.scripts:
+        release.script_status = "ok"
+    elif raw["is_package_without_metadata"]:
+        release.script_status = "unknown_package_no_metadata"
+    else:
+        release.script_status = "unknown"
+
     release.raw = raw
     return release
 
@@ -39,3 +59,14 @@ def _extract_tag_scripts(tags: Any) -> list[str]:
         if needle in normalized:
             scripts.append(label)
     return _ordered_unique_scripts(scripts)
+
+
+def _looks_like_package(handle: str, name: str, url: str) -> bool:
+    lowered = " ".join([handle, name, url]).lower()
+    return (
+        "-package-" in lowered
+        or " package " in f" {lowered} "
+        or " bundle" in lowered
+        or "collection-package" in lowered
+        or "family-package" in lowered
+    )
