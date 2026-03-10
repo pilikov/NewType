@@ -40,6 +40,7 @@ class MyFontsWhatsNewCrawler:
 
         releases: list[FontRelease] = []
         seen_urls: set[str] = set()
+        seen_source_urls: set[str] = set()  # по collection_url или product url, чтобы не дублировать семью и пакет
 
         for page in range(1, max_pages + 1):
             page_url = f"{base_url}/collections/whats-new?page={page}"
@@ -58,7 +59,7 @@ class MyFontsWhatsNewCrawler:
                     continue
                 seen_urls.add(font_url)
 
-                detail = self._fetch_font_detail(session, font_url, timeout)
+                detail = self._fetch_font_detail(session, font_url, base_url, timeout)
                 if not detail:
                     continue
 
@@ -72,10 +73,22 @@ class MyFontsWhatsNewCrawler:
                 if debut > end_date:
                     continue
 
+                source_url = detail.get("source_url") or font_url
+                if source_url in seen_source_urls:
+                    continue
+                seen_source_urls.add(source_url)
+
+                raw_payload = {
+                    "myfonts_debut_raw": detail.get("debut_raw"),
+                    "myfonts_debut_date": debut.isoformat(),  # для сайта: группировка по неделям по raw.myfonts_debut_date
+                    "product_url": font_url,
+                    "collection_url": detail.get("collection_url"),
+                    "is_package_product": detail.get("is_package_product", False),
+                }
                 release = FontRelease(
                     source_id=source_id,
                     source_name=source_name,
-                    source_url=font_url,
+                    source_url=source_url,
                     name=detail.get("name") or self._name_from_url(font_url),
                     styles=[],
                     authors=detail.get("authors") or [],
@@ -84,9 +97,7 @@ class MyFontsWhatsNewCrawler:
                     image_url=detail.get("image_url"),
                     woff_url=detail.get("woff_url"),
                     specimen_pdf_url=detail.get("specimen_pdf_url"),
-                    raw={
-                        "myfonts_debut_raw": detail.get("debut_raw"),
-                    },
+                    raw=raw_payload,
                 )
                 releases.append(release)
                 if self.release_callback:
@@ -121,7 +132,63 @@ class MyFontsWhatsNewCrawler:
             uniq.append(url.rstrip("/"))
         return uniq
 
-    def _fetch_font_detail(self, session: requests.Session, font_url: str, timeout: int) -> dict[str, Any] | None:
+    def _is_package_product(self, font_url: str, name: str) -> bool:
+        url_lower = font_url.lower()
+        name_lower = (name or "").lower()
+        if "-package-" in url_lower or "bundle" in url_lower:
+            return True
+        if "package" in name_lower or "bundle" in name_lower:
+            return True
+        return False
+
+    def _extract_collection_url(self, soup: BeautifulSoup, base_url: str) -> str | None:
+        for a in soup.select("a[href*='/collections/']"):
+            href = (a.get("href") or "").strip().strip("'")
+            if "/collections/" not in href or "-font-" not in href:
+                continue
+            return urljoin(base_url, href)
+        return None
+
+    def _fetch_collection_debut(
+        self, session: requests.Session, collection_url: str, base_url: str, timeout: int
+    ) -> tuple[date | None, str | None, str | None]:
+        """Возвращает (debut_date, image_url, name) со страницы семьи (collection)."""
+        try:
+            response = session.get(collection_url, timeout=timeout)
+            if response.status_code == 429:
+                return None, None, None
+            response.raise_for_status()
+        except requests.RequestException:
+            return None, None, None
+        html = response.text
+        soup = BeautifulSoup(html, "html.parser")
+        text = soup.get_text(" ", strip=True)
+        match = re.search(
+            r"MyFonts\s+debut\s*:\s*([A-Za-z]{3}\s+\d{1,2},\s+\d{4})",
+            text,
+            flags=re.IGNORECASE,
+        )
+        if not match:
+            match = re.search(
+                r"MyFonts(?:\s|&nbsp;)+debut\s*:\s*([A-Za-z]{3}\s+\d{1,2},\s+\d{4})",
+                html,
+                re.IGNORECASE,
+            )
+        debut_date = parse_mon_dd_yyyy(match.group(1)) if match else None
+        image_url = None
+        og = soup.select_one("meta[property='og:image']")
+        if og and og.get("content"):
+            image_url = og.get("content").strip()
+        name = None
+        og_title = soup.select_one("meta[property='og:title']")
+        if og_title and og_title.get("content"):
+            raw = (og_title.get("content") or "").strip()
+            name = re.sub(r"\s*-\s*Font from.*$", "", raw).strip()
+        return debut_date, image_url, name
+
+    def _fetch_font_detail(
+        self, session: requests.Session, font_url: str, base_url: str, timeout: int
+    ) -> dict[str, Any] | None:
         try:
             response = session.get(font_url, timeout=timeout)
             if response.status_code == 429:
@@ -138,14 +205,13 @@ class MyFontsWhatsNewCrawler:
             text,
             flags=re.IGNORECASE,
         )
-        debut_date = parse_mon_dd_yyyy(debut_match.group(1)) if debut_match else None
+        product_debut = parse_mon_dd_yyyy(debut_match.group(1)) if debut_match else None
 
         name = None
         og_title = soup.select_one("meta[property='og:title']")
         if og_title and og_title.get("content"):
             raw = og_title.get("content").strip()
             name = re.sub(r"\s*-\s*Font from.*$", "", raw).strip()
-
         if not name:
             h1 = soup.select_one("h1")
             if h1:
@@ -185,6 +251,23 @@ class MyFontsWhatsNewCrawler:
             if not woff_url and (low.endswith(".woff") or low.endswith(".woff2")):
                 woff_url = href
 
+        collection_url = self._extract_collection_url(soup, base_url)
+        debut_date = product_debut
+        source_url = font_url
+        is_package = self._is_package_product(font_url, name or "")
+
+        if collection_url:
+            family_debut, family_image, family_name = self._fetch_collection_debut(
+                session, collection_url, base_url, timeout
+            )
+            if family_debut is not None:
+                debut_date = family_debut
+                source_url = collection_url
+                if family_image:
+                    image_url = family_image
+                if family_name:
+                    name = family_name
+
         return {
             "name": name,
             "authors": unique_strings(authors),
@@ -194,6 +277,9 @@ class MyFontsWhatsNewCrawler:
             "image_url": image_url,
             "specimen_pdf_url": specimen_pdf_url,
             "woff_url": woff_url,
+            "source_url": source_url,
+            "collection_url": collection_url,
+            "is_package_product": is_package,
         }
 
     def _name_from_url(self, url: str) -> str:

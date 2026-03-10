@@ -267,9 +267,8 @@ function normalizeDate(value: string | null | undefined): string | null {
 function releaseWeekDate(release: ReleaseItem): string | null {
   if (release.source_id === "myfonts") {
     const raw = release.raw as { myfonts_debut_date?: string | null } | undefined;
-    const debutDay = normalizeDate(raw?.myfonts_debut_date ?? null);
-    if (debutDay) return debutDay;
-    return null;
+    const debutDay = normalizeDate(raw?.myfonts_debut_date ?? null) ?? normalizeDate(release.release_date ?? null);
+    return debutDay;
   }
   return normalizeDate(release.release_date);
 }

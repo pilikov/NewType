@@ -44,12 +44,21 @@ python3 -m src.main --sources myfonts --myfonts-start-date 2026-01-01 --myfonts-
 python3 -m src.main --history-weeks 10
 ```
 
+Ежедневный (инкрементальный) прогон — лёгкие парсеры, окно дат по watermark:
+
+```bash
+python3 -m src.main --daily
+```
+
+См. [docs/DAILY.md](DAILY.md): какие источники в daily используют другой режим (whats-new, journal) и как хранятся watermarks.
+
 ## Где смотреть результат
 
 - Релизы: `data/<source>/<date>/all_releases.json`
 - Новые релизы: `data/<source>/<date>/new_releases.json`
 - Периодный бэкфилл: `data/<source>/periods/<start>_<end>/...`
 - State: `state/seen_ids.json`
+- Daily watermarks: `state/daily_watermarks.json`
 - MyFonts resume checkpoint: `state/myfonts_crawl_checkpoint.json`
 - Coverage для UI: `state/data_coverage.json`
 - Run metadata: `state/runs/<run_id>.json`

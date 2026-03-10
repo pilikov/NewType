@@ -1,0 +1,102 @@
+# Ежедневный прогон daily-парсеров. Результаты пушатся в ветку crawl/daily (не в main).
+# После прогона на email уходит отчёт и ссылка «Слить на бой»; по переходу выполняется merge в main.
+name: Daily crawl
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+env:
+  REPORT_EMAIL: pilikoff@gmail.com
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run daily parsers
+        run: python -m src.main --daily
+
+      - name: Push to branch crawl/daily (no merge to main)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f data/ state/ 2>/dev/null || true
+          git diff --staged --quiet && echo "No changes" && exit 0
+          git commit -m "chore(data): daily crawl $(date -u +%Y-%m-%d)"
+          git push origin HEAD:crawl/daily
+
+      - name: Build report from latest run
+        id: report
+        env:
+          PUBLISH_LINK: ${{ secrets.PUBLISH_LINK }}
+        run: |
+          LATEST=$(ls -t state/runs/*.json 2>/dev/null | head -1)
+          TOTAL_NEW=0
+          LINES=""
+          if [ -n "$LATEST" ]; then
+            while IFS= read -r line; do
+              source_id=$(echo "$line" | jq -r '.source_id')
+              status=$(echo "$line" | jq -r '.status')
+              total=$(echo "$line" | jq -r '.total_releases // 0')
+              new=$(echo "$line" | jq -r '.new_releases // 0')
+              TOTAL_NEW=$((TOTAL_NEW + new))
+              LINES="${LINES}${source_id}: total=${total} new=${new} (${status})"$'\n'
+            done < <(jq -c '.summary.sources[]?' "$LATEST" 2>/dev/null)
+          fi
+          echo "total_new=$TOTAL_NEW" >> $GITHUB_OUTPUT
+          {
+            echo "body<<REPORTEOF"
+            echo "Daily crawl report $(date -u +%Y-%m-%d)"
+            echo ""
+            echo "Per source:"
+            echo -n "$LINES"
+            echo ""
+            echo "Total new: $TOTAL_NEW"
+            echo ""
+            echo "To publish to production (merge data to main), open:"
+            echo "$PUBLISH_LINK"
+            echo "REPORTEOF"
+          } >> $GITHUB_OUTPUT
+
+      - name: Send report email (Resend)
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          REPORT_BODY: ${{ steps.report.outputs.body }}
+          REPORT_TOTAL: ${{ steps.report.outputs.total_new }}
+          PUBLISH_LINK: ${{ secrets.PUBLISH_LINK }}
+        run: |
+          if [ -z "$RESEND_API_KEY" ]; then
+            echo "RESEND_API_KEY not set, skip email"
+            exit 0
+          fi
+          SUBJECT="Type Parser daily: ${REPORT_TOTAL:-0} new releases"
+          BODY="${REPORT_BODY:-Daily crawl finished. No summary.}"
+          ESCAPED_BODY=$(echo "$BODY" | sed 's/&/\&amp;/g;s/</\&lt;/g;s/>/\&gt;/g')
+          LINK="${PUBLISH_LINK:-}"
+          HTML="<pre>${ESCAPED_BODY}</pre><p><a href=\"${LINK}\">Publish to production (merge to main)</a></p>"
+          PAYLOAD=$(jq -n \
+            --arg from "Type Parser <onboarding@resend.dev>" \
+            --arg to "$REPORT_EMAIL" \
+            --arg subj "$SUBJECT" \
+            --arg html "$HTML" \
+            '{from:$from,to:[$to],subject:$subj,html:$html}')
+          curl -sS -X POST "https://api.resend.com/emails" \
+            -H "Authorization: Bearer $RESEND_API_KEY" \
+            -H "Content-Type: application/json" \
+            -H "User-Agent: Type-Parser-Daily/1.0" \
+            -d "$PAYLOAD"

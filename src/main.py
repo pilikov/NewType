@@ -17,6 +17,11 @@ from src.normalization import build_default_normalizer_registry
 from src.orchestration.registry import build_default_crawler_registry
 from src.orchestration.run_plan import RunOptions, build_run_plan
 from src.reports.type_today_ops import build_type_today_ops_reports
+from src.state.daily_watermarks import (
+    load_daily_watermarks,
+    save_daily_watermarks,
+    update_source_watermark,
+)
 from src.state.factory import create_state_adapter
 from src.storage.factory import create_storage_adapter
 from src.utils import download_file, dump_json, ensure_dir, load_json, sanitize_filename
@@ -154,6 +159,9 @@ def maybe_download_assets(source_cfg: dict, output_dir: Path, releases: list[Fon
             processed += 1
 
 
+STATE_DIR = ROOT / "state"
+
+
 def run(
     source_filter: set[str] | None = None,
     timeout: int = 20,
@@ -164,6 +172,7 @@ def run(
     myfonts_start_page: int | None = None,
     history_weeks: int | None = None,
     history_end_date: str | None = None,
+    daily: bool = False,
 ) -> None:
     run_ctx = RunContext(
         source_filter=sorted(source_filter) if source_filter else [],
@@ -172,6 +181,11 @@ def run(
     source_results: list[SourceRunSummary] = []
     sources = load_sources()
     seen_state = load_seen_ids()
+
+    daily_watermarks = None
+    if daily:
+        daily_watermarks = load_daily_watermarks(STATE_DIR)
+
     run_plan = build_run_plan(
         sources=sources,
         options=RunOptions(
@@ -183,6 +197,8 @@ def run(
             myfonts_start_page=myfonts_start_page,
             history_weeks=history_weeks,
             history_end_date=history_end_date,
+            daily=daily,
+            daily_watermarks=daily_watermarks,
         ),
     )
 
@@ -203,6 +219,13 @@ def run(
             source_id = plan_item.source_id
             source_cfg = plan_item.source_cfg
             source_started = datetime.utcnow()
+
+            if daily and source_id == "myfonts":
+                crawl_cfg = source_cfg.get("crawl") or {}
+                print(
+                    f"[{source_id}] daily window start_date={crawl_cfg.get('start_date')} "
+                    f"end_date={crawl_cfg.get('end_date')} max_pages={crawl_cfg.get('max_pages')}"
+                )
 
             crawler = build_crawler(source_cfg)
             seen_ids = set(seen_state.get(source_id, []))
@@ -263,6 +286,15 @@ def run(
                     period_label=run_plan.period_label,
                 )
 
+            if daily and source_id == "myfonts":
+                raw_new_count = len(new_releases)
+                new_releases, validation_msg = _validate_myfonts_daily_vs_previous_snapshot(
+                    output_dir, releases, new_releases
+                )
+                print(
+                    f"[myfonts] daily validation: raw_new={raw_new_count} -> vs_previous_snapshot={len(new_releases)} ({validation_msg})"
+                )
+
             if source_id == "type_today":
                 enrich_summary = enrich_type_today_release_dates(
                     source_cfg=source_cfg,
@@ -298,6 +330,10 @@ def run(
 
             seen_ids.update(r.release_id for r in releases)
             seen_state[source_id] = sorted(seen_ids)
+
+            if daily and daily_watermarks is not None:
+                update_source_watermark(daily_watermarks, source_id)
+                save_daily_watermarks(STATE_DIR, daily_watermarks)
 
             print(
                 f"[{source_id}] total={len(releases)} new={len(new_releases)} output={output_dir}"
@@ -387,6 +423,11 @@ def parse_args() -> argparse.Namespace:
         default="",
         help="Optional YYYY-MM-DD end date for --history-weeks (defaults to today)",
     )
+    parser.add_argument(
+        "--daily",
+        action="store_true",
+        help="Daily (incremental) run: light parsers + date window from watermarks",
+    )
     return parser.parse_args()
 
 
@@ -403,6 +444,7 @@ def main() -> None:
         myfonts_start_page=args.myfonts_start_page if args.myfonts_start_page > 0 else None,
         history_weeks=args.history_weeks if args.history_weeks > 0 else None,
         history_end_date=args.history_end_date.strip() or None,
+        daily=bool(args.daily),
     )
 
 
@@ -433,6 +475,25 @@ def _week_bounds(day: date) -> tuple[date, date]:
     start = day - timedelta(days=day.weekday())
     end = start + timedelta(days=6)
     return start, end
+
+
+def _validate_myfonts_daily_vs_previous_snapshot(
+    output_dir: Path,
+    releases: list[FontRelease],
+    new_releases: list[FontRelease],
+) -> tuple[list[FontRelease], str]:
+    """
+    Для daily MyFonts: переопределить new_releases как дифф с вчерашним снимком.
+    Так валидируем результат — «новые» только те, кого не было в предыдущем прогоне.
+    """
+    prev_dir = STORAGE.latest_day_snapshot_dir("myfonts", exclude_dir=output_dir)
+    if not prev_dir or not (prev_dir / "all_releases.json").exists():
+        return new_releases, "no previous snapshot, kept raw new"
+    prev_releases = STORAGE.load_releases(prev_dir / "all_releases.json")
+    prev_ids = {r.release_id for r in prev_releases}
+    validated = [r for r in releases if r.release_id not in prev_ids]
+    STORAGE.write_releases(output_dir / "new_releases.json", validated)
+    return validated, f"validated vs {prev_dir.name} (prev had {len(prev_ids)} releases)"
 
 
 def _should_seed_from_previous_snapshot(
