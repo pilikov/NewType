@@ -1,0 +1,26 @@
+{
+  "context": {
+    "run_id": "9e2bf20d0f4f",
+    "started_at": "2026-03-09T08:31:08.420428+00:00",
+    "source_filter": [
+      "futurefonts"
+    ],
+    "timeout_seconds": 25
+  },
+  "summary": {
+    "run_id": "9e2bf20d0f4f",
+    "started_at": "2026-03-09T08:31:08.420428+00:00",
+    "finished_at": "2026-03-09T08:51:18.311098Z",
+    "sources": [
+      {
+        "source_id": "futurefonts",
+        "status": "success",
+        "total_releases": 1070,
+        "new_releases": 0,
+        "duration_seconds": 1209.67,
+        "output_dir": "/Users/pda/Desktop/Type Parser/data/futurefonts/periods/1926-07-13_2026-03-09",
+        "error": null
+      }
+    ]
+  }
+}
