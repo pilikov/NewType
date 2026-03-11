@@ -121,8 +121,8 @@ def _apply_daily_overrides(
         crawl["start_date"] = start_str
         crawl["end_date"] = end_str
         crawl["max_pages_per_type"] = 5
-        crawl["detail_fetch_limit"] = 0
-        crawl["typeface_fetch_limit"] = 0
+        crawl["detail_fetch_limit"] = 20
+        crawl["typeface_fetch_limit"] = 50
         crawl["lookback_days"] = 7
     elif source_id == "typenetwork":
         crawl["start_date"] = start_str
