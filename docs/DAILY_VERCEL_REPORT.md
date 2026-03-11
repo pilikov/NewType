@@ -9,7 +9,7 @@
 | Secret | Описание |
 |--------|----------|
 | `RESEND_API_KEY` | Ключ API [Resend](https://resend.com) (отправка писем). Без него шаг отправки пропускается. |
-| `PUBLISH_LINK` | Полная ссылка для «слить на бой», например: `https://ВАШ-САЙТ.vercel.app/api/publish-to-production?token=ВАШ_СЕКРЕТ`. |
+| `PUBLISH_LINK` | Полная ссылка для «слить на бой», например: `https://ВАШ-САЙТ.vercel.app/api/publish-to-production?token=ВАШ_СЕКРЕТ`. Без неё в письме будет текст без кликабельной ссылки. |
 | `PUBLISH_SECRET` | Тот же токен, что в `PUBLISH_LINK` (см. ниже). |
 
 ### 2. Vercel Environment Variables (проект → Settings → Environment Variables)

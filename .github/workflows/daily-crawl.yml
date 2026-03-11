@@ -61,6 +61,13 @@ jobs:
             done < <(jq -c '.summary.sources[]?' "$LATEST" 2>/dev/null)
           fi
           echo "total_new=$TOTAL_NEW" >> $GITHUB_OUTPUT
+          if [ -z "$PUBLISH_LINK" ]; then
+            echo "publish_link=" >> $GITHUB_OUTPUT
+            PUBLISH_LINE="(PUBLISH_LINK secret not set — add it in repo Settings → Secrets)"
+          else
+            echo "publish_link=$PUBLISH_LINK" >> $GITHUB_OUTPUT
+            PUBLISH_LINE="$PUBLISH_LINK"
+          fi
           {
             echo "body<<REPORTEOF"
             echo "Daily crawl report $(date -u +%Y-%m-%d)"
@@ -71,7 +78,7 @@ jobs:
             echo "Total new: $TOTAL_NEW"
             echo ""
             echo "To publish to production (merge data to main), open:"
-            echo "$PUBLISH_LINK"
+            echo "$PUBLISH_LINE"
             echo "REPORTEOF"
           } >> $GITHUB_OUTPUT
 
@@ -80,7 +87,7 @@ jobs:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           REPORT_BODY: ${{ steps.report.outputs.body }}
           REPORT_TOTAL: ${{ steps.report.outputs.total_new }}
-          PUBLISH_LINK: ${{ secrets.PUBLISH_LINK }}
+          PUBLISH_LINK: ${{ steps.report.outputs.publish_link }}
         run: |
           if [ -z "$RESEND_API_KEY" ]; then
             echo "::warning::RESEND_API_KEY not set in repo Secrets — email not sent. Add it in Settings → Secrets and variables → Actions."
@@ -90,7 +97,12 @@ jobs:
           BODY="${REPORT_BODY:-Daily crawl finished. No summary.}"
           ESCAPED_BODY=$(echo "$BODY" | sed 's/&/\&amp;/g;s/</\&lt;/g;s/>/\&gt;/g')
           LINK="${PUBLISH_LINK:-}"
-          HTML="<pre>${ESCAPED_BODY}</pre><p><a href=\"${LINK}\">Publish to production (merge to main)</a></p>"
+          if [ -n "$LINK" ] && [ "${LINK#http}" != "$LINK" ]; then
+            LINK_HTML="<p><a href=\"${LINK}\">Publish to production (merge to main)</a></p>"
+          else
+            LINK_HTML="<p><em>Publish link not configured. Add PUBLISH_LINK secret (full URL with ?token=...).</em></p>"
+          fi
+          HTML="<pre>${ESCAPED_BODY}</pre>${LINK_HTML}"
           PAYLOAD=$(jq -n \
             --arg from "Type Parser <onboarding@resend.dev>" \
             --arg to "$REPORT_EMAIL" \
