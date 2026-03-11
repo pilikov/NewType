@@ -25,27 +25,18 @@ async function exists(p) {
   }
 }
 
-async function cleanDir(dirPath) {
-  await mkdir(dirPath, { recursive: true });
-  const entries = await readdir(dirPath, { withFileTypes: true });
-  for (const entry of entries) {
-    const abs = path.join(dirPath, entry.name);
-    let attempts = 0;
-    while (attempts < 3) {
-      try {
-        await rm(abs, { recursive: true, force: true });
-        break;
-      } catch (error) {
-        attempts += 1;
-        if (attempts >= 3) throw error;
-      }
-    }
+async function removeDirRecursive(dirPath) {
+  try {
+    await rm(dirPath, { recursive: true, force: true, maxRetries: 3 });
+  } catch (err) {
+    if (err.code !== "ENOENT") throw err;
   }
 }
 
 async function sync() {
   if (await exists(sourceDataDir)) {
-    await cleanDir(targetDataDir);
+    await removeDirRecursive(targetDataDir);
+    await mkdir(targetDataDir, { recursive: true });
     await cp(sourceDataDir, targetDataDir, { recursive: true });
     console.log("Synced data/ from repo root to web/data.");
   } else {

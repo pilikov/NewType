@@ -159,6 +159,41 @@
         "download_specimen_pdf": false,
         "max_downloads_per_run": 0
       }
+    },
+    {
+      "id": "fontstand",
+      "name": "Fontstand",
+      "enabled": true,
+      "base_url": "https://fontstand.com",
+      "meta": {
+        "favicon_url": "https://fontstand.com/favicon.ico"
+      },
+      "crawl": {
+        "mode": "fontstand_catalog",
+        "filteredfonts_url": "https://fontstand.com/fonts/filteredfonts",
+        "page_size": 64,
+        "request_delay_seconds": 0.5,
+        "enable_new_releases_enrichment": true,
+        "new_releases_rss_url": "https://fontstand.com/news/new-releases/rss",
+        "new_releases_loadmore_url": "https://fontstand.com/news/new-releases/loadMore",
+        "enable_scripts_enrichment": true,
+        "enable_scripts_via_languages": true,
+        "enable_category_enrichment": true,
+        "enable_features_enrichment": true,
+        "max_scripts_filters": 20,
+        "max_category_filters": 0,
+        "max_features_filters": 30,
+        "enable_detail_enrichment": true,
+        "detail_fetch_limit": 500,
+        "detail_delay_seconds": 0.6,
+        "incremental_flush_every": 100
+      },
+      "assets": {
+        "download_image": false,
+        "download_woff": false,
+        "download_specimen_pdf": false,
+        "max_downloads_per_run": 0
+      }
     }
   ]
 }
