@@ -1,0 +1,448 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/fantasia-type/dote",
+    "name": "Dote",
+    "styles": [],
+    "authors": [
+      "FANTASIA Type"
+    ],
+    "scripts": [
+      "basic-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-02-25",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/slide/image/38412/medium_Dote_Slides_v0.1_01.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-10T12:55:11.658780+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:18899",
+      "activity_id": 18899,
+      "activity_key": "typeface.new_release",
+      "activity_type": "new_release",
+      "activity_type_label": "New Release",
+      "release_kind": "new_release",
+      "is_new_version": false,
+      "version": null,
+      "trackable_type": "Typeface",
+      "trackable_id": 2596,
+      "resolved_typeface_id": 2596,
+      "typeface_language": "basic-latin"
+    },
+    "release_id": "5eaf3979689ede5d"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/chaos-type/awke",
+    "name": "Awke",
+    "styles": [],
+    "authors": [
+      "Chaos Type"
+    ],
+    "scripts": [
+      "basic-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-02-19",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/slide/image/38053/medium_Artboard_1_copy_16.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-10T12:55:12.406794+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:18768",
+      "activity_id": 18768,
+      "activity_key": "typeface.new_release",
+      "activity_type": "new_release",
+      "activity_type_label": "New Release",
+      "release_kind": "new_release",
+      "is_new_version": false,
+      "version": null,
+      "trackable_type": "Typeface",
+      "trackable_id": 2563,
+      "resolved_typeface_id": 2563,
+      "typeface_language": "basic-latin"
+    },
+    "release_id": "1408d431ef74c5ed"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/element-type/zerk?v=0.2",
+    "name": "Zerk",
+    "styles": [],
+    "authors": [
+      "Element Type"
+    ],
+    "scripts": [
+      "basic-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-05",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/395/medium_header.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/8637/220226-zerk-specimen3-v02.pdf",
+    "discovered_at": "2026-03-10T12:55:14.890567+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:19163",
+      "activity_id": 19163,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.2",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 8637,
+      "resolved_typeface_id": 2398,
+      "typeface_language": "basic-latin"
+    },
+    "release_id": "6e79306170243f9e"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/masahiro-naruse/mn-octic?v=0.2",
+    "name": "MN™ Octic",
+    "styles": [],
+    "authors": [
+      "Masahiro Naruse"
+    ],
+    "scripts": [
+      "basic-latin",
+      "extended-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-04",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/173/medium_Artboard2.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/8439/MN_Octic_v2_Specimen.pdf",
+    "discovered_at": "2026-03-10T12:55:15.778081+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:19131",
+      "activity_id": 19131,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.2",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 8439,
+      "resolved_typeface_id": 413,
+      "typeface_language": "basic-latin,extended-latin"
+    },
+    "release_id": "984dd824a485f9f2"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/masahiro-naruse/mn-garfield?v=0.2",
+    "name": "MN™ Garfield",
+    "styles": [],
+    "authors": [
+      "Masahiro Naruse"
+    ],
+    "scripts": [
+      "basic-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-04",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/173/medium_Artboard2.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/8406/MN_Garfield_v2_Specimen.pdf",
+    "discovered_at": "2026-03-10T12:55:18.127257+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:19130",
+      "activity_id": 19130,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.2",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 8406,
+      "resolved_typeface_id": 414,
+      "typeface_language": "basic-latin"
+    },
+    "release_id": "1d9335ebfaa66d36"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/dualtype/padova?v=0.2",
+    "name": "Padova",
+    "styles": [],
+    "authors": [
+      "DualType"
+    ],
+    "scripts": [
+      "basic-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-03",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/428/medium_dualtype-header-100.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-10T12:55:19.150042+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:19064",
+      "activity_id": 19064,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.2",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 8703,
+      "resolved_typeface_id": 1903,
+      "typeface_language": "basic-latin"
+    },
+    "release_id": "cc2bcf11aa2a150e"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/manic-type/palmetto?v=0.6",
+    "name": "Palmetto",
+    "styles": [],
+    "authors": [
+      "Manic Type"
+    ],
+    "scripts": [
+      "extended-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-02-26",
+    "image_url": "https://assets.futurefonts.com/images/FutureFonts-meta.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-10T12:55:20.207664+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:18998",
+      "activity_id": 18998,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.6",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 8670,
+      "resolved_typeface_id": 350,
+      "typeface_language": "extended-latin"
+    },
+    "release_id": "0f3de4a7064ad04a"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/leinster-type/bite?v=0.2",
+    "name": "Bite",
+    "styles": [],
+    "authors": [
+      "Leinster Type"
+    ],
+    "scripts": [
+      "extended-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-02-24",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/824/medium_FutureFontsBanner.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/8472/Bite_How_to_use.pdf",
+    "discovered_at": "2026-03-10T12:55:20.896024+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:18866",
+      "activity_id": 18866,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.2",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 8472,
+      "resolved_typeface_id": 2200,
+      "typeface_language": "extended-latin"
+    },
+    "release_id": "460bacb77dd27cd8"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/muk-monsalve/arrabal_lc?v=0.2",
+    "name": "Arrabal_LC",
+    "styles": [],
+    "authors": [
+      "Muk Monsalve"
+    ],
+    "scripts": [
+      "extended-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-02-20",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/161/medium_Relaxxx.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/8571/Specimen-ARRABAL_LC-v02-Condensed-Muk-Monsalve-FutureFonts.pdf",
+    "discovered_at": "2026-03-10T12:55:21.656036+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:18800",
+      "activity_id": 18800,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.2",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 8571,
+      "resolved_typeface_id": 2365,
+      "typeface_language": "extended-latin"
+    },
+    "release_id": "c74268f250f91e2a"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/dualtype/fetza?v=0.3",
+    "name": "Fetza",
+    "styles": [],
+    "authors": [
+      "DualType"
+    ],
+    "scripts": [
+      "basic-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-02-18",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/428/medium_dualtype-header-100.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/8538/Fetza-v03-Specimen-FutureFonts.pdf",
+    "discovered_at": "2026-03-10T12:55:22.361699+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:18734",
+      "activity_id": 18734,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.3",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 8538,
+      "resolved_typeface_id": 1474,
+      "typeface_language": "basic-latin"
+    },
+    "release_id": "20532df2ba64059b"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/east-of-rome/based?v=1.0",
+    "name": "Based",
+    "styles": [],
+    "authors": [
+      "East of Rome"
+    ],
+    "scripts": [
+      "cyrillic",
+      "extended-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-02-17",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/210/medium_Tekst-overlay-1.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/8539/Based-Spec-FF-v1.0.pdf",
+    "discovered_at": "2026-03-10T12:55:23.009371+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:18669",
+      "activity_id": 18669,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "1.0",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 8539,
+      "resolved_typeface_id": 401,
+      "typeface_language": "cyrillic,extended-latin"
+    },
+    "release_id": "21a7ea84768027bf"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/very-cool-studio/gosh?v=0.3",
+    "name": "Gosh",
+    "styles": [],
+    "authors": [
+      "Very Cool Studio"
+    ],
+    "scripts": [
+      "basic-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-02-11",
+    "image_url": "https://assets.futurefonts.com/images/FutureFonts-meta.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-10T12:55:23.708083+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:18635",
+      "activity_id": 18635,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.3",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 3159,
+      "resolved_typeface_id": 365,
+      "typeface_language": "basic-latin"
+    },
+    "release_id": "d20dd17fb3198643"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/arrowtype/name-sans?v=1.2",
+    "name": "Name Sans",
+    "styles": [],
+    "authors": [
+      "ArrowType"
+    ],
+    "scripts": [
+      "basic-latin",
+      "extended-latin",
+      "vietnamese"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-02-10",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/166/medium_arrowtype-banner_3x-2.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/8373/AT_Name_Sans_-_Specimen.pdf",
+    "discovered_at": "2026-03-10T12:55:24.429281+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:18569",
+      "activity_id": 18569,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "1.2",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 8373,
+      "resolved_typeface_id": 199,
+      "typeface_language": "basic-latin,extended-latin,vietnamese"
+    },
+    "release_id": "0d5e891794d38797"
+  }
+]
