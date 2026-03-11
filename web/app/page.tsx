@@ -172,13 +172,12 @@ async function withLocalImages(baseDir: string, sourceRelPrefix: string, release
   return out;
 }
 
-async function findLatestPeriodDir(sourceId: string): Promise<string | null> {
+async function findAllPeriodDirs(sourceId: string): Promise<string[]> {
   const root = await resolveProjectRoot();
   const periodsDir = path.join(root, "data", sourceId, "periods");
-
   try {
     const entries = await fs.readdir(periodsDir, { withFileTypes: true });
-    const periodDirs = entries
+    return entries
       .filter((entry) => entry.isDirectory() && /^\d{4}-\d{2}-\d{2}_\d{4}-\d{2}-\d{2}$/.test(entry.name))
       .map((entry) => entry.name)
       .sort((a, b) => {
@@ -188,11 +187,14 @@ async function findLatestPeriodDir(sourceId: string): Promise<string | null> {
         if (aStart !== bStart) return aStart.localeCompare(bStart);
         return b.localeCompare(a);
       });
-
-    return periodDirs[0] ?? null;
   } catch {
-    return null;
+    return [];
   }
+}
+
+async function findLatestPeriodDir(sourceId: string): Promise<string | null> {
+  const dirs = await findAllPeriodDirs(sourceId);
+  return dirs[0] ?? null;
 }
 
 async function findLatestDayDir(sourceId: string): Promise<string | null> {
@@ -212,6 +214,74 @@ async function findLatestDayDir(sourceId: string): Promise<string | null> {
   }
 }
 
+const MYFONTS_NAME_SUFFIXES =
+  "complete family|family package|package|bundle|one|two|three|four|five|six|flaca|fina|variable|light|regular|bold|italic|slanted|medium|heavy|thin|black|rough italic|liner|chalk|chalky|semibold|extralight|condensed|extended|narrow|wide|rounded|stencil|display|text|caption|upright";
+
+function myfontsFamilyKey(r: ReleaseItem): string {
+  const raw = r.raw as { collection_url?: string } | undefined;
+  const c = raw?.collection_url;
+  if (c && typeof c === "string" && c.startsWith("http"))
+    return c.toLowerCase().replace(/\/$/, "").split("?")[0];
+  const url = (r.source_url ?? "").toLowerCase();
+  if (url.includes("/collections/")) return url.replace(/\/$/, "").split("?")[0];
+  const name = (r.name ?? "").toLowerCase();
+  let trimmed = name;
+  const re = new RegExp(`\\s+(${MYFONTS_NAME_SUFFIXES})\\s*$`, "i");
+  for (let i = 0; i < 20; i++) {
+    const next = trimmed.replace(re, "").trim();
+    if (next === trimmed) break;
+    trimmed = next;
+  }
+  return trimmed || url || asString(r.release_id) || "";
+}
+
+function isMyfontsBundle(r: ReleaseItem): boolean {
+  const raw = r.raw as { is_package_product?: boolean } | undefined;
+  if (raw?.is_package_product) return true;
+  const n = (r.name ?? "").toLowerCase();
+  return /\b(package|bundle|complete family)\b/.test(n);
+}
+
+/** Есть ли у релиза ссылка на семью: collection_url или сам source_url — страница коллекции */
+function hasMyfontsFamilyLink(r: ReleaseItem): boolean {
+  const raw = r.raw as { collection_url?: string } | undefined;
+  const c = raw?.collection_url;
+  if (c && typeof c === "string" && c.startsWith("http")) return true;
+  const url = (r.source_url ?? "").toLowerCase();
+  return url.includes("/collections/") && !url.includes("whats-new");
+}
+
+function preferMyfontsRelease(a: ReleaseItem, b: ReleaseItem): ReleaseItem {
+  const aCol = (a.raw as { collection_url?: string } | undefined)?.collection_url;
+  const bCol = (b.raw as { collection_url?: string } | undefined)?.collection_url;
+  const aHas = !!(aCol && String(aCol).startsWith("http"));
+  const bHas = !!(bCol && String(bCol).startsWith("http"));
+  if (aHas && !bHas) return a;
+  if (bHas && !aHas) return b;
+  if (isMyfontsBundle(a) && !isMyfontsBundle(b)) return b;
+  if (isMyfontsBundle(b) && !isMyfontsBundle(a)) return a;
+  return a;
+}
+
+function mergeMyfontsByFamily(dayReleases: ReleaseItem[], periodReleases: ReleaseItem[]): ReleaseItem[] {
+  const byFamily = new Map<string, ReleaseItem>();
+  for (const r of dayReleases) {
+    const k = myfontsFamilyKey(r);
+    if (!k) continue;
+    const existing = byFamily.get(k);
+    byFamily.set(k, existing ? preferMyfontsRelease(existing, r) : r);
+  }
+  for (const r of periodReleases) {
+    const k = myfontsFamilyKey(r);
+    if (!k) continue;
+    const existing = byFamily.get(k);
+    byFamily.set(k, existing ? preferMyfontsRelease(existing, r) : r);
+  }
+  const merged = Array.from(byFamily.values());
+  // Исключаем только тех, у кого нет ссылки на семью (product/bundle без collection_url теряем)
+  return merged.filter((r) => hasMyfontsFamilyLink(r));
+}
+
 async function loadSourceReleases(sourceId: string): Promise<ReleaseItem[]> {
   const root = await resolveProjectRoot();
   const sourceDir = path.join(root, "data", sourceId);
@@ -226,11 +296,35 @@ async function loadSourceReleases(sourceId: string): Promise<ReleaseItem[]> {
     chunks.push(await withLocalImages(dayBaseDir, path.join(sourceId, latestDay), dayReleases));
   }
 
+  if (sourceId === "myfonts") {
+    // MyFonts: загружаем все периоды и объединяем с day по ключу семьи (приоритет у day), чтобы не терять январь и др.
+    const allPeriodDirs = await findAllPeriodDirs(sourceId);
+    let merged = (chunks[0] as ReleaseItem[]) ?? [];
+    for (const periodName of allPeriodDirs) {
+      const periodBaseDir = path.join(sourceDir, "periods", periodName);
+      const periodPath = path.join(periodBaseDir, "all_releases.json");
+      const periodReleases = await readJsonArray<ReleaseItem>(periodPath);
+      if (periodReleases.length === 0) continue;
+      const periodChunk = await withLocalImages(
+        periodBaseDir,
+        path.join(sourceId, "periods", periodName),
+        periodReleases
+      );
+      merged = mergeMyfontsByFamily(merged, periodChunk);
+    }
+    if (merged.length > 0) return merged;
+  }
+
   if (latestPeriod) {
     const periodBaseDir = path.join(sourceDir, "periods", latestPeriod);
     const periodPath = path.join(periodBaseDir, "all_releases.json");
-    const releases = await readJsonArray<ReleaseItem>(periodPath);
-    chunks.push(await withLocalImages(periodBaseDir, path.join(sourceId, "periods", latestPeriod), releases));
+    const periodReleases = await readJsonArray<ReleaseItem>(periodPath);
+    const periodChunk = await withLocalImages(
+      periodBaseDir,
+      path.join(sourceId, "periods", latestPeriod),
+      periodReleases
+    );
+    chunks.push(periodChunk);
   }
 
   if (chunks.length > 0) {

@@ -40,8 +40,7 @@ class MyFontsWhatsNewCrawler:
 
         releases: list[FontRelease] = []
         seen_urls: set[str] = set()
-        seen_source_urls: set[str] = set()  # по collection_url или product url
-        seen_family_keys: set[str] = set()  # когда collection не найден — дедуп по нормализованному имени семьи
+        seen_family_keys: set[str] = set()  # один релиз на семью: по collection_url (норм.) или family_key из имени/slug
 
         for page in range(1, max_pages + 1):
             page_url = f"{base_url}/collections/whats-new?page={page}"
@@ -74,18 +73,34 @@ class MyFontsWhatsNewCrawler:
                 if debut > end_date:
                     continue
 
-                source_url = detail.get("source_url") or font_url
-                if source_url in seen_source_urls:
+                # Исключаем: bundles; products без ссылки на семью; product с семьёй, но релиз семьи в другую дату
+                if detail.get("is_package_product"):
                     continue
-                # Если collection не нашли, один пакет + несколько стилей дают один релиз на семью
-                if not detail.get("collection_url"):
-                    family_key = self._family_key_from_name(detail.get("name") or self._name_from_url(font_url))
-                    if family_key and family_key in seen_family_keys:
-                        continue
-                    if family_key:
-                        seen_family_keys.add(family_key)
-                seen_source_urls.add(source_url)
+                is_product_page = "/products/" in font_url.lower()
+                if is_product_page and not detail.get("collection_url"):
+                    continue
+                family_debut = detail.get("family_debut")
+                product_debut = detail.get("product_debut")
+                if (
+                    is_product_page
+                    and detail.get("collection_url")
+                    and family_debut is not None
+                    and product_debut is not None
+                    and product_debut != family_debut
+                ):
+                    continue
 
+                family_key = self._canonical_family_key(
+                    collection_url=detail.get("collection_url"),
+                    product_url=font_url,
+                    name=detail.get("name") or self._name_from_url(font_url),
+                    base_url=base_url,
+                )
+                if not family_key or family_key in seen_family_keys:
+                    continue
+                seen_family_keys.add(family_key)
+
+                source_url = detail.get("source_url") or font_url
                 raw_payload = {
                     "myfonts_debut_raw": detail.get("debut_raw"),
                     "myfonts_debut_date": debut.isoformat(),  # для сайта: группировка по неделям по raw.myfonts_debut_date
@@ -125,6 +140,11 @@ class MyFontsWhatsNewCrawler:
             if not href:
                 continue
             urls.append(urljoin(base_url, href))
+        for a in soup.select("a[href*='/products/']"):
+            href = (a.get("href") or "").strip().strip("'")
+            if not href or "whats-new" in href.lower():
+                continue
+            urls.append(urljoin(base_url, href))
 
         # Fallback for escaped URLs inside inline JS payloads.
         for path in re.findall(r"/collections/[a-z0-9\-]+-font-[a-z0-9\-]+", html, flags=re.IGNORECASE):
@@ -140,11 +160,75 @@ class MyFontsWhatsNewCrawler:
             uniq.append(url.rstrip("/"))
         return uniq
 
+    def _normalize_collection_url(self, url: str) -> str:
+        """Один ключ на коллекцию: без trailing slash, lowercase path."""
+        if not url or not url.strip():
+            return ""
+        try:
+            from urllib.parse import urlparse
+            parsed = urlparse(url.strip())
+            path = (parsed.path or "").rstrip("/").lower()
+            return f"{parsed.scheme or 'https'}://{parsed.netloc or ''}{path}" if path else ""
+        except Exception:
+            return url.strip().lower().rstrip("/").split("?")[0].rstrip("/")
+
+    def _canonical_family_key(
+        self,
+        collection_url: str | None,
+        product_url: str,
+        name: str,
+        base_url: str,
+    ) -> str | None:
+        """Ключ семьи для дедупа: один релиз на семью. collection_url (норм.) или имя/slug."""
+        if collection_url:
+            norm = self._normalize_collection_url(collection_url)
+            if norm:
+                return f"url:{norm}"
+        key_from_name = self._family_key_from_name(name)
+        if key_from_name:
+            return f"name:{key_from_name}"
+        key_from_slug = self._family_key_from_product_slug(product_url)
+        if key_from_slug:
+            return f"name:{key_from_slug}"
+        return None
+
+    def _family_key_from_product_slug(self, product_url: str) -> str:
+        """Из slug продукта (calavera-complete-family-package-1118786) вытащить базовое имя семьи."""
+        if not product_url or "/products/" not in product_url:
+            return ""
+        try:
+            parts = product_url.rstrip("/").split("/products/")
+            if len(parts) < 2:
+                return ""
+            slug = parts[-1].split("?")[0].lower()
+            for suffix in ("-package", "-bundle", "-family"):
+                if slug.endswith(suffix):
+                    slug = slug[: -len(suffix)].strip("-")
+            id_match = re.search(r"-(\d+)$", slug)
+            if id_match:
+                slug = slug[: id_match.start()].strip("-")
+            if not slug:
+                return ""
+            words = slug.replace("-", " ").split()
+            seen: set[str] = set()
+            out: list[str] = []
+            for w in words:
+                if w in seen:
+                    break
+                seen.add(w)
+                out.append(w)
+            base = " ".join(out).strip() if out else ""
+            return self._family_key_from_name(base) if base else ""
+        except Exception:
+            return ""
+
     def _family_key_from_name(self, name: str) -> str:
         """Нормализуем название в ключ семьи для дедупа, когда collection_url не найден."""
         if not name or not name.strip():
             return ""
         key = name.strip().lower()
+        if " + " in key:
+            key = key.split(" + ")[0].strip()
         for suffix in (
             " complete family",
             " family package",
@@ -163,6 +247,22 @@ class MyFontsWhatsNewCrawler:
             " regular",
             " bold",
             " black",
+            " rough italic",
+            " liner",
+            " chalk",
+            " chalky",
+            " italic",
+            " semibold",
+            " extralight",
+            " condensed",
+            " extended",
+            " narrow",
+            " wide",
+            " rounded",
+            " stencil",
+            " display",
+            " text",
+            " caption",
         ):
             if key.endswith(suffix):
                 key = key[: -len(suffix)].strip()
@@ -177,24 +277,50 @@ class MyFontsWhatsNewCrawler:
             return True
         return False
 
+    def _is_subcollection_url(self, url: str) -> bool:
+        """URL коллекции — под-набор (Upright, Slanted, Pack), не основная семья."""
+        u = (url or "").lower()
+        return any(x in u for x in ("/upright", "upright-", "/slanted", "slanted-", "pack-of-", "-pack-"))
+
+    def _is_subcollection_link(self, href: str, link_text: str) -> bool:
+        """Ссылка на под-набор (Upright, Slanted, Pack of N fonts), не на основную семью."""
+        href_lower = href.lower()
+        text_lower = (link_text or "").lower()
+        if "upright" in href_lower or "upright" in text_lower:
+            return True
+        if "slanted" in href_lower or "slanted" in text_lower:
+            return True
+        if "pack-of" in href_lower or "pack of" in text_lower:
+            return True
+        if re.search(r"\b\d+\s*fonts?\b", text_lower):
+            return True
+        return False
+
     def _extract_collection_url(self, soup: BeautifulSoup, base_url: str) -> str | None:
-        # Сначала ищем явную ссылку «Back To Family Page» на коллекцию семьи (не foundry)
+        # 1) Явная ссылка «Back To Family Page» — только если href валидный (/collections/...)
         for a in soup.select("a[href]"):
             href = (a.get("href") or "").strip().strip("'")
-            if not href or "whats-new" in href:
+            if not href or "whats-new" in href or "foundry" in href.lower():
                 continue
             text = (a.get_text() or "").strip().lower()
             if "family page" not in text and "back to family" not in text:
                 continue
-            if "/collections/" in href and "foundry" not in href.lower():
+            if "/collections/" in href:
                 return urljoin(base_url, href)
-        # Обычные ссылки на /collections/: семья обычно ...-font-...; исключаем foundry
+        # 2) Любая /collections/ с -font- в path, кроме под-наборов (не угадываем URL — страница может быть «no longer available»)
+        main_family_url: str | None = None
         for a in soup.select("a[href*='/collections/']"):
             href = (a.get("href") or "").strip().strip("'")
             if "/collections/" not in href or "whats-new" in href or "foundry" in href.lower():
                 continue
-            return urljoin(base_url, href)
-        return None
+            if "-font-" not in href:
+                continue
+            if self._is_subcollection_link(href, a.get_text() or ""):
+                continue
+            full = urljoin(base_url, href)
+            if main_family_url is None:
+                main_family_url = full
+        return main_family_url
 
     def _fetch_collection_debut(
         self, session: requests.Session, collection_url: str, base_url: str, timeout: int
@@ -298,22 +424,38 @@ class MyFontsWhatsNewCrawler:
             if not woff_url and (low.endswith(".woff") or low.endswith(".woff2")):
                 woff_url = href
 
-        collection_url = self._extract_collection_url(soup, base_url)
-        debut_date = product_debut
-        source_url = font_url
-        is_package = self._is_package_product(font_url, name or "")
+        url_lower = font_url.lower()
+        is_collection_page = (
+            "/collections/" in url_lower and "-font-" in url_lower and "whats-new" not in url_lower
+        )
+        is_subcollection = self._is_subcollection_url(font_url)
 
+        if is_collection_page and not is_subcollection:
+            collection_url = urljoin(base_url, font_url.rstrip("/"))
+            debut_date = product_debut
+            source_url = font_url
+        else:
+            collection_url = self._extract_collection_url(soup, base_url)
+            if is_collection_page and not collection_url:
+                collection_url = urljoin(base_url, font_url.rstrip("/"))
+            debut_date = product_debut
+            source_url = font_url
+        family_debut: date | None = None
         if collection_url:
-            family_debut, family_image, family_name = self._fetch_collection_debut(
-                session, collection_url, base_url, timeout
-            )
-            if family_debut is not None:
-                debut_date = family_debut
-                source_url = collection_url
-                if family_image:
-                    image_url = family_image
-                if family_name:
-                    name = family_name
+            current_norm = self._normalize_collection_url(font_url)
+            target_norm = self._normalize_collection_url(collection_url)
+            if current_norm != target_norm:
+                family_debut, family_image, family_name = self._fetch_collection_debut(
+                    session, collection_url, base_url, timeout
+                )
+                if family_debut is not None:
+                    debut_date = family_debut
+                    source_url = collection_url
+                    if family_image:
+                        image_url = family_image
+                    if family_name:
+                        name = family_name
+        is_package = self._is_package_product(font_url, name or "")
 
         return {
             "name": name,
@@ -321,6 +463,8 @@ class MyFontsWhatsNewCrawler:
             "scripts": unique_strings(scripts),
             "debut_raw": debut_match.group(1) if debut_match else None,
             "debut_date": debut_date,
+            "product_debut": product_debut,
+            "family_debut": family_debut,
             "image_url": image_url,
             "specimen_pdf_url": specimen_pdf_url,
             "woff_url": woff_url,
