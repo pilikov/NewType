@@ -238,8 +238,17 @@ def run(
             flush_every = int(source_cfg.get("crawl", {}).get("incremental_flush_every", 25))
             if hasattr(crawler, "set_release_callback"):
                 seed_output_dir = None
-                start_empty = daily and source_id == "myfonts"
-                if not start_empty and _should_seed_from_previous_snapshot(
+                start_empty = False
+                if daily and source_id == "myfonts":
+                    current_output_dir = STORAGE.source_output_dir(
+                        source_id=source_id,
+                        period_label=run_plan.period_label,
+                    )
+                    seed_output_dir = STORAGE.latest_day_snapshot_dir(
+                        source_id,
+                        exclude_dir=current_output_dir,
+                    )
+                elif _should_seed_from_previous_snapshot(
                     source_id=source_id,
                     source_cfg=source_cfg,
                     period_label=run_plan.period_label,

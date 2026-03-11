@@ -297,9 +297,21 @@ async function loadSourceReleases(sourceId: string): Promise<ReleaseItem[]> {
   }
 
   if (sourceId === "myfonts") {
-    // MyFonts: загружаем все периоды и объединяем с day по ключу семьи (приоритет у day), чтобы не терять январь и др.
+    // MyFonts: period — основной источник; из daily берём только релизы ПОСЛЕ последнего периода.
     const allPeriodDirs = await findAllPeriodDirs(sourceId);
-    let merged = (chunks[0] as ReleaseItem[]) ?? [];
+    let latestPeriodEnd = "";
+    for (const pName of allPeriodDirs) {
+      const endDate = pName.split("_")[1] ?? "";
+      if (endDate > latestPeriodEnd) latestPeriodEnd = endDate;
+    }
+    const dayRaw = (chunks[0] as ReleaseItem[]) ?? [];
+    const daySupplement = latestPeriodEnd
+      ? dayRaw.filter((r) => {
+          const d = (r.raw as { myfonts_debut_date?: string } | undefined)?.myfonts_debut_date ?? r.release_date ?? "";
+          return d > latestPeriodEnd;
+        })
+      : dayRaw;
+    let merged = daySupplement;
     for (const periodName of allPeriodDirs) {
       const periodBaseDir = path.join(sourceDir, "periods", periodName);
       const periodPath = path.join(periodBaseDir, "all_releases.json");
