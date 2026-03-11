@@ -1,0 +1,26 @@
+{
+  "context": {
+    "run_id": "ef3c246479f1",
+    "started_at": "2026-03-09T07:28:32.614757+00:00",
+    "source_filter": [
+      "contemporarytype"
+    ],
+    "timeout_seconds": 40
+  },
+  "summary": {
+    "run_id": "ef3c246479f1",
+    "started_at": "2026-03-09T07:28:32.614757+00:00",
+    "finished_at": "2026-03-09T07:29:31.829116Z",
+    "sources": [
+      {
+        "source_id": "contemporarytype",
+        "status": "success",
+        "total_releases": 49,
+        "new_releases": 49,
+        "duration_seconds": 59.059,
+        "output_dir": "/Users/pda/Desktop/Type Parser/data/contemporarytype/2026-03-09",
+        "error": null
+      }
+    ]
+  }
+}

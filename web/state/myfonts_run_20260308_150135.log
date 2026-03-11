@@ -1,0 +1,2 @@
+[2026-03-08T15:01:35Z] === MyFonts crawl start source=myfonts ===
+[2026-03-08T15:01:35Z] config max_pages=6 page_size=250 start_date=None end_date=None api_delay=0.25s detail_delay=0.2s

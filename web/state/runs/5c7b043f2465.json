@@ -1,0 +1,26 @@
+{
+  "context": {
+    "run_id": "5c7b043f2465",
+    "started_at": "2026-03-10T09:29:42.807644+00:00",
+    "source_filter": [
+      "fontstand"
+    ],
+    "timeout_seconds": 25
+  },
+  "summary": {
+    "run_id": "5c7b043f2465",
+    "started_at": "2026-03-10T09:29:42.807644+00:00",
+    "finished_at": "2026-03-10T09:32:03.129700Z",
+    "sources": [
+      {
+        "source_id": "fontstand",
+        "status": "success",
+        "total_releases": 2431,
+        "new_releases": 2431,
+        "duration_seconds": 138.546,
+        "output_dir": "/Users/pda/Desktop/Type Parser/data/fontstand/2026-03-10",
+        "error": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "context": {
+    "run_id": "660641bbbb74",
+    "started_at": "2026-03-09T08:24:23.787959+00:00",
+    "source_filter": [
+      "futurefonts"
+    ],
+    "timeout_seconds": 25
+  },
+  "summary": {
+    "run_id": "660641bbbb74",
+    "started_at": "2026-03-09T08:24:23.787959+00:00",
+    "finished_at": "2026-03-09T08:29:46.211748Z",
+    "sources": [
+      {
+        "source_id": "futurefonts",
+        "status": "failed",
+        "total_releases": 0,
+        "new_releases": 0,
+        "duration_seconds": 322.285,
+        "output_dir": null,
+        "error": "Failed to fetch FutureFonts activity page=16 type=typeface.new_release"
+      }
+    ]
+  }
+}

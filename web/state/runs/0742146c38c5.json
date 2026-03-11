@@ -1,0 +1,26 @@
+{
+  "context": {
+    "run_id": "0742146c38c5",
+    "started_at": "2026-03-08T15:10:17.511344+00:00",
+    "source_filter": [
+      "myfonts"
+    ],
+    "timeout_seconds": 20
+  },
+  "summary": {
+    "run_id": "0742146c38c5",
+    "started_at": "2026-03-08T15:10:17.511344+00:00",
+    "finished_at": "2026-03-08T15:11:18.901433Z",
+    "sources": [
+      {
+        "source_id": "myfonts",
+        "status": "failed",
+        "total_releases": 0,
+        "new_releases": 0,
+        "duration_seconds": 61.328,
+        "output_dir": null,
+        "error": "MyFonts API unavailable (rate-limited or blocked) on first page"
+      }
+    ]
+  }
+}

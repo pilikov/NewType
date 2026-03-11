@@ -48,10 +48,10 @@
     ],
     "script_status": "ok",
     "release_date": "2026-02-18",
-    "image_url": "https://backend.contemporarytype.com/files/images/sharf-ct-362826.jpg",
+    "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Sharf-specimen-04.pdf",
-    "discovered_at": "2026-03-11T02:42:41.707978+00:00",
+    "discovered_at": "2026-03-11T08:36:20.158272+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:149",
       "product": {
@@ -136,8 +136,7 @@
       "variant_count": 34,
       "license_count": 3,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -184,10 +183,10 @@
     ],
     "script_status": "ok",
     "release_date": "2026-02-18",
-    "image_url": "https://backend.contemporarytype.com/files/images/blast-bizzarri-spreads-instafo77804.jpg",
+    "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Bizzarri - Specimen-1.pdf",
-    "discovered_at": "2026-03-11T02:42:42.301463+00:00",
+    "discovered_at": "2026-03-11T08:36:20.158345+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:147",
       "product": {
@@ -276,8 +275,7 @@
       "variant_count": 26,
       "license_count": 3,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -312,10 +310,10 @@
     ],
     "script_status": "ok",
     "release_date": "2026-02-18",
-    "image_url": "https://backend.contemporarytype.com/files/images/silverspoon-banners-668609.jpg",
+    "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Silverspoon - Specimen-1.pdf",
-    "discovered_at": "2026-03-11T02:42:42.687306+00:00",
+    "discovered_at": "2026-03-11T08:36:20.158376+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:146",
       "product": {
@@ -400,8 +398,7 @@
       "variant_count": 14,
       "license_count": 3,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -431,10 +428,10 @@
     ],
     "script_status": "ok",
     "release_date": "2026-01-19",
-    "image_url": "https://backend.contemporarytype.com/files/images/vanillamono-ct-747983.jpg",
+    "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Vanilla Mono Specimen.pdf",
-    "discovered_at": "2026-03-11T02:42:43.101844+00:00",
+    "discovered_at": "2026-03-11T08:36:20.158403+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:144",
       "product": {
@@ -521,8 +518,7 @@
       "variant_count": 9,
       "license_count": 3,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -557,10 +553,10 @@
     ],
     "script_status": "ok",
     "release_date": "2026-01-22",
-    "image_url": "https://backend.contemporarytype.com/files/images/method-174833.jpg",
+    "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Method_V1000-1.pdf",
-    "discovered_at": "2026-03-11T02:42:43.431032+00:00",
+    "discovered_at": "2026-03-11T08:36:20.158431+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:143",
       "product": {
@@ -652,8 +648,7 @@
       "variant_count": 14,
       "license_count": 4,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -689,7 +684,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/MinSansStencil_V1.pdf",
-    "discovered_at": "2026-03-11T02:42:43.780416+00:00",
+    "discovered_at": "2026-03-11T08:36:20.158458+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:142",
       "product": {
@@ -772,8 +767,7 @@
       "variant_count": 12,
       "license_count": 4,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -811,7 +805,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Paragraf_Specimen-1.pdf",
-    "discovered_at": "2026-03-11T02:42:44.238417+00:00",
+    "discovered_at": "2026-03-11T08:36:20.158531+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:141",
       "product": {
@@ -897,8 +891,7 @@
       "variant_count": 14,
       "license_count": 4,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -927,10 +920,10 @@
     ],
     "script_status": "ok",
     "release_date": "2026-01-20",
-    "image_url": "https://backend.contemporarytype.com/files/images/dolph-152408.jpg",
+    "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/DMCLE_Dolph_v1-00_specimen.pdf",
-    "discovered_at": "2026-03-11T02:42:44.581703+00:00",
+    "discovered_at": "2026-03-11T08:36:20.158568+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:140",
       "product": {
@@ -1015,8 +1008,7 @@
       "variant_count": 8,
       "license_count": 3,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -1048,10 +1040,10 @@
     ],
     "script_status": "ok",
     "release_date": "2026-01-20",
-    "image_url": "https://backend.contemporarytype.com/files/images/chauffeur-171022.jpg",
+    "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/DMCLE_Chauffeur_v1-00_specimen-1.pdf",
-    "discovered_at": "2026-03-11T02:42:45.145710+00:00",
+    "discovered_at": "2026-03-11T08:36:20.158596+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:139",
       "product": {
@@ -1137,8 +1129,7 @@
       "variant_count": 11,
       "license_count": 3,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -1173,10 +1164,10 @@
     ],
     "script_status": "ok",
     "release_date": "2026-01-20",
-    "image_url": "https://backend.contemporarytype.com/files/images/rondeau-131746.jpg",
+    "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/DMCLE_Rondeau_v1-00_specimen.pdf",
-    "discovered_at": "2026-03-11T02:42:45.805816+00:00",
+    "discovered_at": "2026-03-11T08:36:20.158620+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:138",
       "product": {
@@ -1260,8 +1251,7 @@
       "variant_count": 14,
       "license_count": 3,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -1291,10 +1281,10 @@
     ],
     "script_status": "ok",
     "release_date": "2026-01-19",
-    "image_url": "https://backend.contemporarytype.com/files/images/blastfoundry-vanillax-0121476.jpg",
+    "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Vanilla X Specimen-1.pdf",
-    "discovered_at": "2026-03-11T02:42:46.288738+00:00",
+    "discovered_at": "2026-03-11T08:36:20.161234+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:135",
       "product": {
@@ -1381,8 +1371,7 @@
       "variant_count": 9,
       "license_count": 3,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -1404,10 +1393,10 @@
     ],
     "script_status": "ok",
     "release_date": "2025-11-10",
-    "image_url": "https://backend.contemporarytype.com/files/images/ft-together-233102.jpg",
+    "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/FT-Together-Specimen-25.pdf",
-    "discovered_at": "2026-03-11T02:42:46.486341+00:00",
+    "discovered_at": "2026-03-11T08:36:20.161267+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:134",
       "product": {
@@ -1478,8 +1467,7 @@
       "variant_count": 1,
       "license_count": 1,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -1507,7 +1495,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-03-11T02:42:46.785105+00:00",
+    "discovered_at": "2026-03-11T08:36:20.161288+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:133",
       "product": {
@@ -1588,8 +1576,7 @@
       "variant_count": 4,
       "license_count": 1,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -1628,10 +1615,10 @@
     ],
     "script_status": "ok",
     "release_date": "2025-10-11",
-    "image_url": "https://backend.contemporarytype.com/files/images/softcore-19-193014.jpg",
+    "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-03-11T02:42:47.812976+00:00",
+    "discovered_at": "2026-03-11T08:36:20.161313+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:132",
       "product": {
@@ -1717,8 +1704,7 @@
       "variant_count": 18,
       "license_count": 1,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -1761,7 +1747,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-03-11T02:42:48.450067+00:00",
+    "discovered_at": "2026-03-11T08:36:20.161339+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:131",
       "product": {
@@ -1836,8 +1822,7 @@
       "variant_count": 19,
       "license_count": 3,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -1862,7 +1847,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/at-stick-specimen-1.pdf",
-    "discovered_at": "2026-03-11T02:42:48.646217+00:00",
+    "discovered_at": "2026-03-11T08:36:20.161357+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:130",
       "product": {
@@ -1927,8 +1912,7 @@
       "variant_count": 1,
       "license_count": 3,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -2154,7 +2138,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-03-11T02:42:53.007490+00:00",
+    "discovered_at": "2026-03-11T08:36:20.161438+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:126",
       "product": {
@@ -2234,8 +2218,7 @@
       "variant_count": 202,
       "license_count": 3,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -2375,7 +2358,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-03-11T02:42:56.012565+00:00",
+    "discovered_at": "2026-03-11T08:36:20.161511+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:125",
       "product": {
@@ -2458,8 +2441,7 @@
       "variant_count": 116,
       "license_count": 3,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -2579,7 +2561,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-03-11T02:42:57.483158+00:00",
+    "discovered_at": "2026-03-11T08:36:20.161561+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:121",
       "product": {
@@ -2654,8 +2636,7 @@
       "variant_count": 96,
       "license_count": 3,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -2682,7 +2663,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-03-11T02:42:57.701602+00:00",
+    "discovered_at": "2026-03-11T08:36:20.161580+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:120",
       "product": {
@@ -2746,8 +2727,7 @@
       "variant_count": 3,
       "license_count": 3,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -2790,7 +2770,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-03-11T02:42:58.083483+00:00",
+    "discovered_at": "2026-03-11T08:36:20.166692+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:119",
       "product": {
@@ -2864,8 +2844,7 @@
       "variant_count": 19,
       "license_count": 3,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -2982,7 +2961,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-03-11T02:42:58.753553+00:00",
+    "discovered_at": "2026-03-11T08:36:20.166775+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:118",
       "product": {
@@ -3057,8 +3036,7 @@
       "variant_count": 93,
       "license_count": 3,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -3096,7 +3074,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-03-11T02:42:59.054725+00:00",
+    "discovered_at": "2026-03-11T08:36:20.166816+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:117",
       "product": {
@@ -3166,8 +3144,7 @@
       "variant_count": 14,
       "license_count": 3,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -3330,7 +3307,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-03-11T02:43:00.652451+00:00",
+    "discovered_at": "2026-03-11T08:36:20.166888+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:116",
       "product": {
@@ -3410,8 +3387,7 @@
       "variant_count": 139,
       "license_count": 3,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -3574,7 +3550,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-03-11T02:43:03.265376+00:00",
+    "discovered_at": "2026-03-11T08:36:20.166947+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:112",
       "product": {
@@ -3651,8 +3627,7 @@
       "variant_count": 139,
       "license_count": 3,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -3692,7 +3667,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Fig_Grotesk_V1000.pdf",
-    "discovered_at": "2026-03-11T02:43:03.861223+00:00",
+    "discovered_at": "2026-03-11T08:36:20.166971+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:110",
       "product": {
@@ -3769,8 +3744,7 @@
       "variant_count": 16,
       "license_count": 4,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -3806,7 +3780,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/MinSans_V1102.pdf",
-    "discovered_at": "2026-03-11T02:43:04.112221+00:00",
+    "discovered_at": "2026-03-11T08:36:20.166992+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:109",
       "product": {
@@ -3889,8 +3863,7 @@
       "variant_count": 12,
       "license_count": 4,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -3924,7 +3897,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Looklyn_Specimen.pdf",
-    "discovered_at": "2026-03-11T02:43:04.340949+00:00",
+    "discovered_at": "2026-03-11T08:36:20.167012+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:108",
       "product": {
@@ -4001,8 +3974,7 @@
       "variant_count": 10,
       "license_count": 4,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -4030,7 +4002,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Waverse_V1000-1.pdf",
-    "discovered_at": "2026-03-11T02:43:04.563253+00:00",
+    "discovered_at": "2026-03-11T08:36:20.167030+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:107",
       "product": {
@@ -4107,8 +4079,7 @@
       "variant_count": 4,
       "license_count": 4,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -4179,7 +4150,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-03-11T02:43:05.395111+00:00",
+    "discovered_at": "2026-03-11T08:36:20.167063+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:106",
       "product": {
@@ -4268,8 +4239,7 @@
       "variant_count": 49,
       "license_count": 1,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -4388,7 +4358,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-03-11T02:43:07.229682+00:00",
+    "discovered_at": "2026-03-11T08:36:20.174771+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:104",
       "product": {
@@ -4484,8 +4454,7 @@
       "variant_count": 97,
       "license_count": 1,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -4520,7 +4489,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-03-11T02:43:07.817383+00:00",
+    "discovered_at": "2026-03-11T08:36:20.174813+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:103",
       "product": {
@@ -4605,8 +4574,7 @@
       "variant_count": 13,
       "license_count": 1,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -4687,10 +4655,10 @@
     "scripts": [],
     "script_status": "unknown",
     "release_date": "2025-02-15",
-    "image_url": "https://backend.contemporarytype.com/files/images/specimen-frame-003853837.jpg",
+    "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-03-11T02:43:08.356381+00:00",
+    "discovered_at": "2026-03-11T08:36:20.174870+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:72",
       "product": {
@@ -4764,8 +4732,7 @@
       "variant_count": 62,
       "license_count": 2,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -4793,10 +4760,10 @@
     ],
     "script_status": "ok",
     "release_date": "2025-02-12",
-    "image_url": "https://backend.contemporarytype.com/files/images/ct-brass-slides27189.png",
+    "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/BRASS_specimen.pdf",
-    "discovered_at": "2026-03-11T02:43:08.695880+00:00",
+    "discovered_at": "2026-03-11T08:36:20.174895+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:70",
       "product": {
@@ -4862,8 +4829,7 @@
       "variant_count": 7,
       "license_count": 2,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -4901,10 +4867,10 @@
     ],
     "script_status": "ok",
     "release_date": "2025-02-24",
-    "image_url": "https://backend.contemporarytype.com/files/images/onlysans-0063884.png",
+    "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Onlysans specimen.pdf",
-    "discovered_at": "2026-03-11T02:43:09.047887+00:00",
+    "discovered_at": "2026-03-11T08:36:20.174923+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:69",
       "product": {
@@ -4982,8 +4948,7 @@
       "variant_count": 17,
       "license_count": 4,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -5025,10 +4990,10 @@
     ],
     "script_status": "ok",
     "release_date": "2025-02-24",
-    "image_url": "https://backend.contemporarytype.com/files/images/opague-gt-small48557.jpg",
+    "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/RR-Opague-Spaceman-2502.pdf",
-    "discovered_at": "2026-03-11T02:43:09.518350+00:00",
+    "discovered_at": "2026-03-11T08:36:20.174960+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:68",
       "product": {
@@ -5134,8 +5099,7 @@
       "variant_count": 19,
       "license_count": 4,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -5163,10 +5127,10 @@
     ],
     "script_status": "ok",
     "release_date": "2025-02-24",
-    "image_url": "https://backend.contemporarytype.com/files/images/repose-gt-small86885.jpg",
+    "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/RR-Repose-Spaceman-2502-1.pdf",
-    "discovered_at": "2026-03-11T02:43:09.758670+00:00",
+    "discovered_at": "2026-03-11T08:36:20.174985+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:67",
       "product": {
@@ -5259,8 +5223,7 @@
       "variant_count": 6,
       "license_count": 4,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -5359,7 +5322,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/AT Name Sans - Specimen-1.pdf",
-    "discovered_at": "2026-03-11T02:43:11.090533+00:00",
+    "discovered_at": "2026-03-11T08:36:20.175033+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:65",
       "product": {
@@ -5464,8 +5427,7 @@
       "variant_count": 75,
       "license_count": 1,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -5494,7 +5456,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/PlainForm-Keyframe-specimen-1.pdf",
-    "discovered_at": "2026-03-11T02:43:11.325686+00:00",
+    "discovered_at": "2026-03-11T08:36:20.175055+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:64",
       "product": {
@@ -5572,8 +5534,7 @@
       "variant_count": 5,
       "license_count": 1,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -5625,7 +5586,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/2022-PlainForm-PetitFrere-specimen.pdf",
-    "discovered_at": "2026-03-11T02:43:11.712276+00:00",
+    "discovered_at": "2026-03-11T08:36:20.175084+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:63",
       "product": {
@@ -5716,8 +5677,7 @@
       "variant_count": 28,
       "license_count": 1,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -5745,10 +5705,10 @@
     ],
     "script_status": "ok",
     "release_date": "2025-01-30",
-    "image_url": "https://backend.contemporarytype.com/files/images/plain-form-paraiso-in-use87321.jpg",
+    "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/PlainForm-Paraiso-specimen.pdf",
-    "discovered_at": "2026-03-11T02:43:12.072238+00:00",
+    "discovered_at": "2026-03-11T08:36:20.185202+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:62",
       "product": {
@@ -5835,8 +5795,7 @@
       "variant_count": 7,
       "license_count": 1,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -5866,10 +5825,10 @@
     ],
     "script_status": "ok",
     "release_date": "2025-01-30",
-    "image_url": "https://backend.contemporarytype.com/files/images/plain-form-ready-in-use8057.jpg",
+    "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/PlainForm-Ready-specimen-1.pdf",
-    "discovered_at": "2026-03-11T02:43:12.634554+00:00",
+    "discovered_at": "2026-03-11T08:36:20.185240+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:61",
       "product": {
@@ -5944,8 +5903,7 @@
       "variant_count": 9,
       "license_count": 1,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -5975,10 +5933,10 @@
     ],
     "script_status": "ok",
     "release_date": "2025-01-30",
-    "image_url": "https://backend.contemporarytype.com/files/images/288286.jpg",
+    "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-03-11T02:43:13.062169+00:00",
+    "discovered_at": "2026-03-11T08:36:20.185267+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:60",
       "product": {
@@ -6062,8 +6020,7 @@
       "variant_count": 9,
       "license_count": 2,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -6094,10 +6051,10 @@
     ],
     "script_status": "ok",
     "release_date": "2025-07-08",
-    "image_url": "https://backend.contemporarytype.com/files/images/plain-form-grandmaster-in-use7137.jpg",
+    "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/PlainForm-Grandmaster-specimen.pdf",
-    "discovered_at": "2026-03-11T02:43:13.411717+00:00",
+    "discovered_at": "2026-03-11T08:36:20.185304+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:59",
       "product": {
@@ -6183,8 +6140,7 @@
       "variant_count": 10,
       "license_count": 1,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -6208,10 +6164,10 @@
     ],
     "script_status": "ok",
     "release_date": "2025-03-07",
-    "image_url": "https://backend.contemporarytype.com/files/images/plain-form-contemporary-type-i67387.jpg",
+    "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/PlainForm-Michaux-specimen.pdf",
-    "discovered_at": "2026-03-11T02:43:13.612862+00:00",
+    "discovered_at": "2026-03-11T08:36:20.185330+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:58",
       "product": {
@@ -6286,8 +6242,7 @@
       "variant_count": 3,
       "license_count": 1,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -6312,10 +6267,10 @@
     ],
     "script_status": "ok",
     "release_date": "2025-01-30",
-    "image_url": "https://backend.contemporarytype.com/files/images/plain-form-nostra-in-use17496.jpg",
+    "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/PlainForm-Nostra-specimen.pdf",
-    "discovered_at": "2026-03-11T02:43:13.813405+00:00",
+    "discovered_at": "2026-03-11T08:36:20.185352+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:57",
       "product": {
@@ -6393,8 +6348,7 @@
       "variant_count": 2,
       "license_count": 1,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -6427,10 +6381,10 @@
     ],
     "script_status": "ok",
     "release_date": "2024-12-10",
-    "image_url": "https://backend.contemporarytype.com/files/images/extras-0-25285.jpg",
+    "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-03-11T02:43:14.063665+00:00",
+    "discovered_at": "2026-03-11T08:36:20.185379+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:53",
       "product": {
@@ -6504,8 +6458,7 @@
       "variant_count": 12,
       "license_count": 2,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -6701,7 +6654,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-03-11T02:43:15.316927+00:00",
+    "discovered_at": "2026-03-11T08:36:20.185469+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:52",
       "product": {
@@ -6796,8 +6749,7 @@
       "variant_count": 172,
       "license_count": 2,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },
@@ -6991,7 +6943,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-03-11T02:43:16.796114+00:00",
+    "discovered_at": "2026-03-11T08:36:20.185556+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:50",
       "product": {
@@ -7081,8 +7033,7 @@
       "variant_count": 172,
       "license_count": 2,
       "detail_enrichment": {
-        "used": true,
-        "ok": true
+        "used": false
       },
       "api_source": "https://backend.contemporarytype.com/api_front/products"
     },

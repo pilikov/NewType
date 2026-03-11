@@ -1,0 +1,34 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/james-plattner/motley",
+    "name": "Motley",
+    "styles": [],
+    "authors": [
+      "James Plattner"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-03-10",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/slide/image/38775/large_Antique_Humanist-08.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-11T08:36:13.657795+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:19262",
+      "activity_id": 19262,
+      "activity_key": "typeface.new_release",
+      "activity_type": "new_release",
+      "activity_type_label": "New Release",
+      "release_kind": "new_release",
+      "is_new_version": false,
+      "version": null,
+      "trackable_type": "Typeface",
+      "trackable_id": 2662,
+      "resolved_typeface_id": 2662,
+      "typeface_language": null
+    },
+    "release_id": "5514ba59aec9e6ab"
+  }
+]

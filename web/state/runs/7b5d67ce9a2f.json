@@ -1,0 +1,26 @@
+{
+  "context": {
+    "run_id": "7b5d67ce9a2f",
+    "started_at": "2026-03-08T16:14:23.318180+00:00",
+    "source_filter": [
+      "myfonts"
+    ],
+    "timeout_seconds": 20
+  },
+  "summary": {
+    "run_id": "7b5d67ce9a2f",
+    "started_at": "2026-03-08T16:14:23.318180+00:00",
+    "finished_at": "2026-03-08T16:14:24.628833Z",
+    "sources": [
+      {
+        "source_id": "myfonts",
+        "status": "failed",
+        "total_releases": 0,
+        "new_releases": 0,
+        "duration_seconds": 1.224,
+        "output_dir": null,
+        "error": "HTTPSConnectionPool(host='www.myfonts.com', port=443): Max retries exceeded with url: /products.json?limit=100&page=1 (Caused by NameResolutionError(\"HTTPSConnection(host='www.myfonts.com', port=443): Failed to resolve 'www.myfonts.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      }
+    ]
+  }
+}
