@@ -29,10 +29,11 @@
 ## Поведение
 
 1. **По расписанию** (ежедневно в 06:00 UTC) или по кнопке **Run workflow** выполняется прогон `python -m src.main --daily`.
-2. Результаты коммитятся и **пушатся только в ветку `crawl/daily`**; в `main` ничего не попадает.
-3. Из последнего `state/runs/*.json` собирается отчёт (по каждому источнику: total, new, status).
-4. Если задан `RESEND_API_KEY`, на **pilikoff@gmail.com** уходит письмо с этим отчётом и ссылкой из `PUBLISH_LINK`.
-5. Переход по ссылке открывает `GET /api/publish-to-production?token=...`. При верном `token` (равном `PUBLISH_SECRET`) выполняется **merge crawl/daily → main**. После пуша в main Vercel деплоит — на бое появляются новые данные.
+2. Краулер пишет в **`data/`** и **`state/`** в корне репо. Перед коммитом workflow копирует их в **`web/data/`** и **`web/state/`**, потому что сайт на Vercel читает данные только из `web/data` и `web/state`.
+3. Результаты (и корневые `data/`, `state/`, и `web/data/`, `web/state/`) коммитятся и **пушатся только в ветку `crawl/daily`**; в `main` ничего не попадает.
+4. Из последнего `state/runs/*.json` собирается отчёт (по каждому источнику: total, new, status).
+5. Если задан `RESEND_API_KEY`, на **pilikoff@gmail.com** уходит письмо с этим отчётом и ссылкой из `PUBLISH_LINK`.
+6. Переход по ссылке открывает `GET /api/publish-to-production?token=...`. При верном `token` (равном `PUBLISH_SECRET`) выполняется **merge crawl/daily → main**. В main попадают в том числе обновлённые `web/data/` и `web/state/`. После пуша Vercel деплоит — на бое появляются новые данные (в т.ч. новые релизы Future Fonts и др.).
 
 ## Безопасность
 

@@ -33,11 +33,20 @@ jobs:
       - name: Run daily parsers
         run: python -m src.main --daily
 
+      - name: Mirror data and state into web/ for site
+        run: |
+          # Сайт на Vercel читает из web/data и web/state; краулер пишет в data/ и state/.
+          # Копируем в web/, чтобы после мержа на main сайт видел новые релизы.
+          rm -rf web/data web/state
+          cp -r data web/data
+          cp -r state web/state
+          echo "Mirrored data/ → web/data, state/ → web/state"
+
       - name: Push to branch crawl/daily (no merge to main)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -f data/ state/ 2>/dev/null || true
+          git add -f data/ state/ web/data/ web/state/ 2>/dev/null || true
           git diff --staged --quiet && echo "No changes" && exit 0
           git commit -m "chore(data): daily crawl $(date -u +%Y-%m-%d)"
           git push --force origin HEAD:crawl/daily
