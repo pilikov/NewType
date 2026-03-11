@@ -86,16 +86,21 @@ class IncrementalSourceWriter:
         period_label: str | None = None,
         seed_output_dir: Path | None = None,
         flush_every: int = 25,
+        start_empty: bool = False,
     ) -> None:
         self.source_id = source_id
         self.seen_ids = seen_ids
         self.period_label = period_label
         self.flush_every = max(1, flush_every)
         self.output_dir = STORAGE.source_output_dir(source_id=source_id, period_label=period_label)
-        base_dir = seed_output_dir or self.output_dir
-        self.all_releases: list[FontRelease] = STORAGE.load_releases(base_dir / "all_releases.json")
-        self.new_releases: list[FontRelease] = STORAGE.load_releases(base_dir / "new_releases.json")
-        self.current_ids: set[str] = {r.release_id for r in self.all_releases}
+        if start_empty:
+            self.all_releases = []
+            self.new_releases = []
+        else:
+            base_dir = seed_output_dir or self.output_dir
+            self.all_releases = STORAGE.load_releases(base_dir / "all_releases.json")
+            self.new_releases = STORAGE.load_releases(base_dir / "new_releases.json")
+        self.current_ids = {r.release_id for r in self.all_releases}
         self._counter = 0
         ensure_dir(self.output_dir)
 
@@ -233,7 +238,8 @@ def run(
             flush_every = int(source_cfg.get("crawl", {}).get("incremental_flush_every", 25))
             if hasattr(crawler, "set_release_callback"):
                 seed_output_dir = None
-                if _should_seed_from_previous_snapshot(
+                start_empty = daily and source_id == "myfonts"
+                if not start_empty and _should_seed_from_previous_snapshot(
                     source_id=source_id,
                     source_cfg=source_cfg,
                     period_label=run_plan.period_label,
@@ -252,6 +258,7 @@ def run(
                     period_label=run_plan.period_label,
                     seed_output_dir=seed_output_dir,
                     flush_every=flush_every,
+                    start_empty=start_empty,
                 )
                 crawler.set_release_callback(
                     lambda release, _writer=incremental_writer, _cfg=source_cfg: _writer.on_release(

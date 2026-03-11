@@ -5,6 +5,7 @@ from typing import Any
 
 from src.crawlers.base import Crawler
 from src.crawlers.contemporarytype_products import ContemporaryTypeProductsCrawler
+from src.crawlers.fontstand_catalog import FontstandCatalogCrawler
 from src.crawlers.futurefonts_activity import FutureFontsActivityCrawler
 from src.crawlers.futurefonts_sitemap import FutureFontsSitemapCrawler
 from src.crawlers.html_list import HtmlListCrawler
@@ -47,4 +48,5 @@ def build_default_crawler_registry() -> CrawlerRegistry:
     registry.register("futurefonts_activity", FutureFontsActivityCrawler)
     registry.register("typenetwork_public_families", TypeNetworkPublicFamiliesCrawler)
     registry.register("contemporarytype_products", ContemporaryTypeProductsCrawler)
+    registry.register("fontstand_catalog", FontstandCatalogCrawler)
     return registry

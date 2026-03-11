@@ -18,12 +18,12 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         # При "Re-run" используется тот же ref, что и при первом запуске. Чтобы получить
         # последний код (например после fix в main), запустите "Run workflow" → ветка main.
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.11"
 
