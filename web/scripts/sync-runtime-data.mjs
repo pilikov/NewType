@@ -34,7 +34,12 @@ async function removeDirRecursive(dirPath) {
 }
 
 async function sync() {
-  if (await exists(sourceDataDir)) {
+  const isVercel = process.env.VERCEL === "1";
+  if (isVercel) {
+    // On Vercel, use committed web/data only. Build cache may contain stale ../data
+    // which would overwrite correct web/data from git.
+    console.log("Vercel build: keeping committed web/data (no sync from repo root).");
+  } else if (await exists(sourceDataDir)) {
     await removeDirRecursive(targetDataDir);
     await mkdir(targetDataDir, { recursive: true });
     await cp(sourceDataDir, targetDataDir, { recursive: true });
@@ -43,25 +48,27 @@ async function sync() {
     console.log("Source data/ not found in repo root. Keeping existing web/data as-is.");
   }
 
-  await mkdir(targetStateDir, { recursive: true });
-  if (await exists(sourceCoverageFile)) {
-    await cp(sourceCoverageFile, targetCoverageFile);
-    console.log("Synced state/data_coverage.json from repo root.");
-  } else if (!(await exists(targetCoverageFile))) {
-    await writeFile(targetCoverageFile, JSON.stringify({ generated_at: null, sources: {} }), "utf8");
-    console.log("Root coverage file missing. Wrote empty fallback in web/state.");
-  } else {
-    console.log("Root coverage file missing. Keeping existing web/state/data_coverage.json.");
-  }
+  if (!isVercel) {
+    await mkdir(targetStateDir, { recursive: true });
+    if (await exists(sourceCoverageFile)) {
+      await cp(sourceCoverageFile, targetCoverageFile);
+      console.log("Synced state/data_coverage.json from repo root.");
+    } else if (!(await exists(targetCoverageFile))) {
+      await writeFile(targetCoverageFile, JSON.stringify({ generated_at: null, sources: {} }), "utf8");
+      console.log("Root coverage file missing. Wrote empty fallback in web/state.");
+    } else {
+      console.log("Root coverage file missing. Keeping existing web/state/data_coverage.json.");
+    }
 
-  await mkdir(targetConfigDir, { recursive: true });
-  if (await exists(sourceConfigFile)) {
-    await cp(sourceConfigFile, targetConfigFile);
-    console.log("Synced config/sources.json from repo root.");
-  } else if (await exists(targetConfigFile)) {
-    console.log("Root config/sources.json missing. Keeping existing web/config/sources.json.");
-  } else {
-    console.log("Root config/sources.json missing and no local fallback in web/config.");
+    await mkdir(targetConfigDir, { recursive: true });
+    if (await exists(sourceConfigFile)) {
+      await cp(sourceConfigFile, targetConfigFile);
+      console.log("Synced config/sources.json from repo root.");
+    } else if (await exists(targetConfigFile)) {
+      console.log("Root config/sources.json missing. Keeping existing web/config/sources.json.");
+    } else {
+      console.log("Root config/sources.json missing and no local fallback in web/config.");
+    }
   }
 
   console.log("Synced runtime data for Next.js build.");
