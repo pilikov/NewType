@@ -5,14 +5,24 @@ import { NextRequest, NextResponse } from "next/server";
  * (слив данных на бой). Нужны env: PUBLISH_SECRET, PUBLISH_GITHUB_TOKEN, GITHUB_REPO (owner/repo).
  */
 export async function GET(request: NextRequest) {
-  const token = request.nextUrl.searchParams.get("token");
-  const secret = process.env.PUBLISH_SECRET;
+  const token = request.nextUrl.searchParams.get("token")?.trim() ?? "";
+  const secret = (process.env.PUBLISH_SECRET ?? "").trim();
+
+  if (!secret) {
+    return NextResponse.json(
+      { error: "PUBLISH_SECRET not set in Vercel. Add it in Project → Settings → Environment Variables and redeploy." },
+      { status: 500 }
+    );
+  }
+  if (token !== secret) {
+    return NextResponse.json(
+      { error: "Forbidden", hint: "Token does not match PUBLISH_SECRET. Check the URL token and Vercel env (no extra spaces)." },
+      { status: 403 }
+    );
+  }
+
   const ghToken = process.env.PUBLISH_GITHUB_TOKEN;
   const repo = process.env.GITHUB_REPO;
-
-  if (!secret || token !== secret) {
-    return NextResponse.json({ error: "Forbidden" }, { status: 403 });
-  }
   if (!ghToken || !repo) {
     return NextResponse.json(
       { error: "Server misconfiguration: PUBLISH_GITHUB_TOKEN or GITHUB_REPO missing" },
