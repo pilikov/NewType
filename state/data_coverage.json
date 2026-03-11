@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T09:32:03.125251Z",
+  "generated_at": "2026-03-11T08:36:20.620650Z",
   "sources": {
     "catalog_snapshot": {
       "source_id": "catalog_snapshot",
@@ -101,13 +101,7 @@
     },
     "fontstand": {
       "source_id": "fontstand",
-      "meta": {
-        "name": "Fontstand",
-        "base_url": "https://fontstand.com",
-        "favicon_url": "https://fontstand.com/favicon.ico",
-        "favicon_local_path": "_meta/favicons/fontstand.ico",
-        "favicon_resolved_from": "configured"
-      },
+      "meta": {},
       "has_data": true,
       "min_date": "2021-06-30",
       "max_date": "2025-12-08",
@@ -720,7 +714,7 @@
       },
       "has_data": true,
       "min_date": "2018-01-01",
-      "max_date": "2026-03-05",
+      "max_date": "2026-03-10",
       "weeks": [
         {
           "week_start": "2018-01-01",
@@ -2656,6 +2650,11 @@
           "week_start": "2026-03-02",
           "week_end": "2026-03-08",
           "label": "2026-03-02..2026-03-08"
+        },
+        {
+          "week_start": "2026-03-09",
+          "week_end": "2026-03-15",
+          "label": "2026-03-09..2026-03-15"
         }
       ]
     },
