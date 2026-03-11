@@ -40,7 +40,7 @@ jobs:
           git add -f data/ state/ 2>/dev/null || true
           git diff --staged --quiet && echo "No changes" && exit 0
           git commit -m "chore(data): daily crawl $(date -u +%Y-%m-%d)"
-          git push origin HEAD:crawl/daily
+          git push --force origin HEAD:crawl/daily
 
       - name: Build report from latest run
         id: report
@@ -83,7 +83,7 @@ jobs:
           PUBLISH_LINK: ${{ secrets.PUBLISH_LINK }}
         run: |
           if [ -z "$RESEND_API_KEY" ]; then
-            echo "RESEND_API_KEY not set, skip email"
+            echo "::warning::RESEND_API_KEY not set in repo Secrets — email not sent. Add it in Settings → Secrets and variables → Actions."
             exit 0
           fi
           SUBJECT="Type Parser daily: ${REPORT_TOTAL:-0} new releases"
@@ -97,8 +97,17 @@ jobs:
             --arg subj "$SUBJECT" \
             --arg html "$HTML" \
             '{from:$from,to:[$to],subject:$subj,html:$html}')
-          curl -sS -X POST "https://api.resend.com/emails" \
+          echo "Sending email to $REPORT_EMAIL..."
+          RESPONSE=$(curl -sS -w "\n%{http_code}" -X POST "https://api.resend.com/emails" \
             -H "Authorization: Bearer $RESEND_API_KEY" \
             -H "Content-Type: application/json" \
             -H "User-Agent: Type-Parser-Daily/1.0" \
-            -d "$PAYLOAD"
+            -d "$PAYLOAD")
+          HTTP_CODE=$(echo "$RESPONSE" | tail -n1)
+          BODY=$(echo "$RESPONSE" | sed '$d')
+          if [ "$HTTP_CODE" -ge 200 ] && [ "$HTTP_CODE" -lt 300 ]; then
+            echo "Email sent successfully (HTTP $HTTP_CODE)"
+          else
+            echo "::error::Resend API returned HTTP $HTTP_CODE: $BODY"
+            exit 1
+          fi
