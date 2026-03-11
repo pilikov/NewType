@@ -130,7 +130,7 @@ def _apply_daily_overrides(
         crawl["disable_date_cutoff"] = False
         crawl["lookback_days"] = 7
     elif source_id == "contemporarytype":
-        crawl["detail_fetch_limit"] = 0
+        crawl["detail_fetch_limit"] = 20
     else:
         crawl["start_date"] = start_str
         crawl["end_date"] = end_str
