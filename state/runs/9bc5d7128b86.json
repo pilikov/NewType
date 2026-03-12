@@ -1,0 +1,60 @@
+{
+  "context": {
+    "run_id": "9bc5d7128b86",
+    "started_at": "2026-03-12T07:25:56.837047+00:00",
+    "source_filter": [],
+    "timeout_seconds": 20
+  },
+  "summary": {
+    "run_id": "9bc5d7128b86",
+    "started_at": "2026-03-12T07:25:56.837047+00:00",
+    "finished_at": "2026-03-12T07:26:48.228079Z",
+    "sources": [
+      {
+        "source_id": "myfonts",
+        "status": "success",
+        "total_releases": 2338,
+        "new_releases": 0,
+        "duration_seconds": 12.099,
+        "output_dir": "/home/runner/work/NewType/NewType/data/myfonts/2026-03-12",
+        "error": null
+      },
+      {
+        "source_id": "type_today",
+        "status": "success",
+        "total_releases": 5,
+        "new_releases": 2,
+        "duration_seconds": 34.336,
+        "output_dir": "/home/runner/work/NewType/NewType/data/type_today/2026-03-12",
+        "error": null
+      },
+      {
+        "source_id": "futurefonts",
+        "status": "success",
+        "total_releases": 1,
+        "new_releases": 1,
+        "duration_seconds": 1.469,
+        "output_dir": "/home/runner/work/NewType/NewType/data/futurefonts/2026-03-12",
+        "error": null
+      },
+      {
+        "source_id": "typenetwork",
+        "status": "success",
+        "total_releases": 0,
+        "new_releases": 0,
+        "duration_seconds": 0.439,
+        "output_dir": "/home/runner/work/NewType/NewType/data/typenetwork/2026-03-12",
+        "error": null
+      },
+      {
+        "source_id": "contemporarytype",
+        "status": "success",
+        "total_releases": 49,
+        "new_releases": 0,
+        "duration_seconds": 2.539,
+        "output_dir": "/home/runner/work/NewType/NewType/data/contemporarytype/2026-03-12",
+        "error": null
+      }
+    ]
+  }
+}

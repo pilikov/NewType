@@ -1,6 +1,37 @@
 {
-  "generated_at": "2026-03-11T09:39:29.142978+00:00",
+  "generated_at": "2026-03-12T07:26:43.285770+00:00",
   "source_id": "type_today",
-  "count": 0,
-  "items": {}
+  "count": 5,
+  "items": {
+    "975acb866fd39167": {
+      "slug": "",
+      "name": "Nekst Rounded",
+      "source_url": "https://type.today/ru/nekst-rounded",
+      "fingerprint": "980bbf5593bb385afc4400fd"
+    },
+    "aaa7d2a4f27bcc02": {
+      "slug": "",
+      "name": "Nekst",
+      "source_url": "https://type.today/ru/nekst",
+      "fingerprint": "5b08db585a80a583093e24b5"
+    },
+    "b9d8cf585ea36613": {
+      "slug": "",
+      "name": "Displace 2.0",
+      "source_url": "https://type.today/ru/displace2",
+      "fingerprint": "42dc88016eae9a25ccecf4db"
+    },
+    "80e0fd10a3b20c91": {
+      "slug": "",
+      "name": "Taler",
+      "source_url": "https://type.today/ru/taler",
+      "fingerprint": "f02978f04ef125779d511e91"
+    },
+    "2185ee72b95b592c": {
+      "slug": "",
+      "name": "Gik",
+      "source_url": "https://tomorrow.type.today/ru/gik",
+      "fingerprint": "4878094b86114aa21b7ffbd2"
+    }
+  }
 }
