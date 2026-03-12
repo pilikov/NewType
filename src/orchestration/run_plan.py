@@ -50,6 +50,8 @@ def build_run_plan(
         source_id = raw_source_cfg["id"]
         if options.source_filter and source_id not in options.source_filter:
             continue
+        if use_daily and source_id == "fontstand":
+            continue  # Fontstand: full catalog only, no incremental mode — skip in daily
         if use_daily:
             source_cfg = _apply_daily_overrides(
                 raw_source_cfg=raw_source_cfg,
