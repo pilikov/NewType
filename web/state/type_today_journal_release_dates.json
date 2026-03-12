@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T09:39:29.134665+00:00",
+  "generated_at": "2026-03-12T07:26:38.084626+00:00",
   "journal_url": "https://type.today/ru/journal",
   "posts_api_url": "https://type.today/api/v1/posts",
   "processed_posts": {
@@ -4480,6 +4480,14 @@
         "prepis"
       ],
       "updated_at": "2026-03-09T12:06:16.539279+00:00"
+    },
+    "nekst-rounded": {
+      "font_url": "https://type.today/ru/nekst-rounded",
+      "journal_post_slugs": [
+        "nekst-rounded",
+        "fontsandshoes"
+      ],
+      "updated_at": "2026-03-12T07:26:38.084543+00:00"
     }
   }
 }

@@ -1,0 +1,36 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/luis-gomes/subito?v=0.4",
+    "name": "Subito",
+    "styles": [],
+    "authors": [
+      "Luis Bandovas"
+    ],
+    "scripts": [
+      "extended-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-11",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/163/medium_header_FF.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-12T07:26:44.363545+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:19295",
+      "activity_id": 19295,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.4",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 8274,
+      "resolved_typeface_id": 416,
+      "typeface_language": "extended-latin"
+    },
+    "release_id": "bed4e9671c247a38"
+  }
+]
