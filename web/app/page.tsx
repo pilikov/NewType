@@ -296,6 +296,22 @@ async function loadSourceReleases(sourceId: string): Promise<ReleaseItem[]> {
     chunks.push(await withLocalImages(dayBaseDir, path.join(sourceId, latestDay), dayReleases));
   }
 
+  if (sourceId === "fontstand" && latestPeriod && latestDay) {
+    // Fontstand: period (full) приоритетнее day (incremental) — в period есть scripts/category.
+    const periodBaseDir = path.join(sourceDir, "periods", latestPeriod);
+    const periodPath = path.join(periodBaseDir, "all_releases.json");
+    const periodReleases = await readJsonArray<ReleaseItem>(periodPath);
+    const periodChunk = await withLocalImages(
+      periodBaseDir,
+      path.join(sourceId, "periods", latestPeriod),
+      periodReleases
+    );
+    const dayChunk = chunks[0] as ReleaseItem[];
+    const periodIds = new Set(periodChunk.map((r) => r.release_id));
+    const dayOnly = dayChunk.filter((r) => !periodIds.has(r.release_id ?? ""));
+    return [...periodChunk, ...dayOnly];
+  }
+
   if (sourceId === "myfonts") {
     // MyFonts: period — основной источник; из daily берём только релизы ПОСЛЕ последнего периода.
     const allPeriodDirs = await findAllPeriodDirs(sourceId);

@@ -18,9 +18,10 @@
 |------------------|----------------------------|----------------------------|
 | **myfonts**      | `myfonts_api` (полный API)  | `myfonts_whats_new`, окно по датам, до 15 страниц |
 | **type_today**   | `type_today_api` (полный API) | `type_today_journal`, окно по датам постов |
-| **futurefonts**  | `futurefonts_activity`      | Тот же режим; окно по датам, 5 стр. activity, без detail/typeface fetch |
+| **futurefonts**  | `futurefonts_activity`      | Тот же режим; окно по датам, 5 стр. activity, detail_fetch_limit=20, typeface_fetch_limit=50 |
+| **fontstand**    | `fontstand_catalog` (полный каталог) | `fontstand_new_releases` — только New Releases (RSS + loadMore) за окно дат, матч по filteredfonts (первые 5 стр. с sort=release-date) |
 | **typenetwork**  | `typenetwork_public_families` | Тот же режим; `lookback_days=7`, включён date cutoff |
-| **contemporarytype** | `contemporarytype_products` | Тот же режим; `detail_fetch_limit=0` |
+| **contemporarytype** | `contemporarytype_products` | Тот же режим; `detail_fetch_limit=20` |
 
 ## Запуск
 

@@ -63,10 +63,14 @@ def _fetch_filteredfonts_page(
     start: int,
     timeout: int,
     referer: str = "https://fontstand.com/fonts/",
+    extra_params: dict[str, str] | None = None,
 ) -> dict[str, Any] | None:
+    params: dict[str, str | int] = {"start": start}
+    if extra_params:
+        params.update(extra_params)
     resp = session.get(
         url,
-        params={"start": start},
+        params=params,
         headers={
             "Referer": referer,
             "X-Requested-With": "XMLHttpRequest",

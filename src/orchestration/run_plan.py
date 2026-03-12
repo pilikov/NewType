@@ -50,8 +50,6 @@ def build_run_plan(
         source_id = raw_source_cfg["id"]
         if options.source_filter and source_id not in options.source_filter:
             continue
-        if use_daily and source_id == "fontstand":
-            continue  # Fontstand: full catalog only, no incremental mode — skip in daily
         if use_daily:
             source_cfg = _apply_daily_overrides(
                 raw_source_cfg=raw_source_cfg,
@@ -126,6 +124,11 @@ def _apply_daily_overrides(
         crawl["detail_fetch_limit"] = 20
         crawl["typeface_fetch_limit"] = 50
         crawl["lookback_days"] = 7
+    elif source_id == "fontstand":
+        crawl["mode"] = "fontstand_new_releases"
+        crawl["start_date"] = start_str
+        crawl["end_date"] = end_str
+        crawl["max_catalog_pages"] = 5
     elif source_id == "typenetwork":
         crawl["start_date"] = start_str
         crawl["end_date"] = end_str
@@ -195,6 +198,9 @@ def _apply_source_overrides(
                 delta_days,
             )
         if source_id == "typenetwork":
+            updated["crawl"]["start_date"] = history_start
+            updated["crawl"]["end_date"] = history_end
+        if source_id == "fontstand" and updated["crawl"].get("mode") == "fontstand_new_releases":
             updated["crawl"]["start_date"] = history_start
             updated["crawl"]["end_date"] = history_end
 
