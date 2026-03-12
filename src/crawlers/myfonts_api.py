@@ -399,6 +399,25 @@ class MyFontsApiCrawler:
                             detail_request_delay=detail_request_delay,
                             fetch_tech_specs_scripts=allow_tech_specs_fetch,
                         )
+                        if collection_url is None:
+                            collection_url = self._derive_collection_url_from_product(
+                                product, base_url
+                            )
+                            if collection_url:
+                                (
+                                    _,
+                                    debut_date_iso,
+                                    promo_image_url,
+                                    tech_specs_scripts,
+                                    tech_specs_supported_languages,
+                                ) = self._extract_debut_from_collection_url(
+                                    session=session,
+                                    collection_url=collection_url,
+                                    base_url=base_url,
+                                    timeout=timeout,
+                                    detail_request_delay=detail_request_delay,
+                                    fetch_tech_specs_scripts=allow_tech_specs_fetch,
+                                )
                         debut_checks_done += 1
                         if allow_tech_specs_fetch:
                             tech_specs_checks_done += 1
@@ -563,6 +582,33 @@ class MyFontsApiCrawler:
             return True
         return False
 
+    def _derive_collection_url_from_product(
+        self, product: dict[str, Any], base_url: str
+    ) -> str | None:
+        """Fallback: derive collection URL from handle+vendor when page fetch fails."""
+        handle = str(product.get("handle") or "").strip().lower()
+        vendor = str(product.get("vendor") or "").strip()
+        if not handle or not vendor:
+            return None
+        # handle: munch-platter-complete-family-package-1119071 -> family slug: munch-platter
+        family_slug = re.sub(
+            r"-(?:complete-?family|family-?package|package|bundle)(?:-\d+)?$",
+            "",
+            handle,
+            flags=re.IGNORECASE,
+        ).strip("-")
+        # MyFonts collection URLs используют только имя семьи, без -complete
+        if family_slug.endswith("-complete"):
+            family_slug = family_slug[:-9]
+        if not family_slug:
+            return None
+        vendor_slug = re.sub(r"[^\w\s-]", "", vendor.lower()).strip()
+        vendor_slug = re.sub(r"\s+", "-", vendor_slug).strip("-")
+        if not vendor_slug:
+            return None
+        path = f"/collections/{family_slug}-font-{vendor_slug}"
+        return urljoin(base_url, path)
+
     def _extract_debut_from_product_page(
         self,
         session: requests.Session,
@@ -599,6 +645,26 @@ class MyFontsApiCrawler:
         if not collection_url:
             return None, None, None, [], []
 
+        _, debut_iso, promo_img, scripts_list, langs = self._extract_debut_from_collection_url(
+            session=session,
+            collection_url=collection_url,
+            base_url=base_url,
+            timeout=timeout,
+            detail_request_delay=detail_request_delay,
+            fetch_tech_specs_scripts=fetch_tech_specs_scripts,
+        )
+        return collection_url, debut_iso, promo_img, scripts_list, langs
+
+    def _extract_debut_from_collection_url(
+        self,
+        session: requests.Session,
+        collection_url: str,
+        base_url: str,
+        timeout: int,
+        detail_request_delay: float,
+        fetch_tech_specs_scripts: bool = False,
+    ) -> tuple[str | None, str | None, str | None, list[str], list[str]]:
+        """Fetch collection page and extract debut date, image, scripts. Returns (collection_url, debut_iso, promo_image_url, tech_specs_scripts, tech_specs_supported_languages)."""
         try:
             collection_page = self._get_with_backoff(
                 session=session,
@@ -626,7 +692,6 @@ class MyFontsApiCrawler:
         text = collection_soup.get_text(" ", strip=True)
         match = re.search(r"MyFonts\s+debut\s*:\s*([A-Za-z]{3}\s+\d{1,2},\s+\d{4})", text, re.IGNORECASE)
         if not match:
-            # Fallback for cases where the label is present in scripts/HTML but not in plain extracted text.
             match = re.search(
                 r"MyFonts(?:\s|&nbsp;)+debut\s*:\s*([A-Za-z]{3}\s+\d{1,2},\s+\d{4})",
                 collection_html,

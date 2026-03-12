@@ -302,6 +302,13 @@ def run(
                     period_label=run_plan.period_label,
                 )
 
+            if source_id == "myfonts":
+                releases, new_releases = _myfonts_upgrade_releases_with_collection(
+                    releases, new_releases
+                )
+                STORAGE.write_releases(output_dir / "all_releases.json", releases)
+                STORAGE.write_releases(output_dir / "new_releases.json", new_releases)
+
             if daily and source_id == "myfonts":
                 raw_new_count = len(new_releases)
                 new_releases, validation_msg = _validate_myfonts_daily_vs_previous_snapshot(
@@ -491,6 +498,37 @@ def _week_bounds(day: date) -> tuple[date, date]:
     start = day - timedelta(days=day.weekday())
     end = start + timedelta(days=6)
     return start, end
+
+
+def _myfonts_upgrade_releases_with_collection(
+    releases: list[FontRelease],
+    new_releases: list[FontRelease],
+) -> tuple[list[FontRelease], list[FontRelease]]:
+    """
+    Если у релиза с collection_url=None в следующих прогонах появилась семья
+    (есть релиз с collection_url для того же product_url), удаляем старый product-only релиз.
+    """
+    product_urls_with_family: set[str] = set()
+    for r in releases:
+        c = (r.raw or {}).get("collection_url")
+        if c:
+            pu = (r.raw or {}).get("product_url")
+            if pu:
+                product_urls_with_family.add(pu.rstrip("/"))
+
+    def _product_url(r: FontRelease) -> str | None:
+        pu = (r.raw or {}).get("product_url")
+        return (pu or r.source_url or "").rstrip("/") or None
+
+    def _should_remove(r: FontRelease) -> bool:
+        if (r.raw or {}).get("collection_url"):
+            return False
+        pu = _product_url(r)
+        return pu is not None and pu in product_urls_with_family
+
+    upgraded = [r for r in releases if not _should_remove(r)]
+    upgraded_new = [r for r in new_releases if not _should_remove(r)]
+    return upgraded, upgraded_new
 
 
 def _validate_myfonts_daily_vs_previous_snapshot(

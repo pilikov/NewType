@@ -90,15 +90,17 @@ def _apply_daily_overrides(
     """
     Build source_cfg for a daily (incremental) run. Does not modify main crawlers:
     - Switches to light mode where one exists (myfonts_whats_new, type_today_journal).
-    - Окно дат: из watermark (last_date → today). Для MyFonts при --daily можно задать
-      даты вручную (--myfonts-start-date / --myfonts-end-date) для backfill при пропущенных прогонах.
+    - Окно дат: [дата последнего запуска, сегодня]. Включаем все релизы за день последнего
+      запуска и до сегодня; дубли отсекаются через _validate_myfonts_daily_vs_previous_snapshot.
+    - Для MyFonts при --daily можно задать даты вручную (--myfonts-start-date / --myfonts-end-date).
     """
     if source_id == "myfonts" and myfonts_start_date and myfonts_end_date:
         start_date = _parse_ymd(myfonts_start_date) or date.today()
         end_date = _parse_ymd(myfonts_end_date) or date.today()
     else:
-        # MyFonts без watermark: только "сегодня". Остальные: вчера–сегодня.
-        fallback_days = 0 if source_id == "myfonts" else 1
+        # Парсим с запасом: день запуска + все дни до предыдущего запуска (вкл. день предыдущего).
+        # fallback_days_back=1: при отсутствии watermark берём [вчера, сегодня].
+        fallback_days = 1
         start_date, end_date = daily_start_end_dates(
             watermarks, source_id, fallback_days_back=fallback_days
         )
