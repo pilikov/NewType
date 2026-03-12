@@ -1,41 +1,17 @@
 {
   "generated_at": "2026-03-12T07:26:43.285916+00:00",
   "source_id": "type_today",
-  "total_releases": 5,
+  "total_releases": 1,
   "baseline_count": 0,
-  "new_release_count": 5,
+  "new_release_count": 1,
   "removed_release_count": 0,
   "changed_release_count": 0,
   "new_release_examples": [
     {
       "slug": "",
-      "name": "Gik",
-      "source_url": "https://tomorrow.type.today/ru/gik",
-      "fingerprint": "4878094b86114aa21b7ffbd2"
-    },
-    {
-      "slug": "",
-      "name": "Taler",
-      "source_url": "https://type.today/ru/taler",
-      "fingerprint": "f02978f04ef125779d511e91"
-    },
-    {
-      "slug": "",
       "name": "Nekst Rounded",
       "source_url": "https://type.today/ru/nekst-rounded",
       "fingerprint": "980bbf5593bb385afc4400fd"
-    },
-    {
-      "slug": "",
-      "name": "Nekst",
-      "source_url": "https://type.today/ru/nekst",
-      "fingerprint": "5b08db585a80a583093e24b5"
-    },
-    {
-      "slug": "",
-      "name": "Displace 2.0",
-      "source_url": "https://type.today/ru/displace2",
-      "fingerprint": "42dc88016eae9a25ccecf4db"
     }
   ],
   "removed_release_examples": [],

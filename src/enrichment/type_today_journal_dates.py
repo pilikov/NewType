@@ -169,7 +169,9 @@ def enrich_type_today_release_dates(
         title = _normalize_space(str((attrs or {}).get("title") or meta_title))
         date = str((attrs or {}).get("date") or meta_date).strip()
         body_html = str((attrs or {}).get("body") or "")
-        font_slugs = _extract_font_slugs_from_html(body_html, base_url)
+        # Для постов «Новый шрифт» slug поста = slug шрифта (например nekst-rounded)
+        is_new = title.lower().startswith(new_post_prefix)
+        font_slugs = [post_slug] if is_new else _extract_font_slugs_from_html(body_html, base_url)
         item = {
             "signature": f"{date}|{title}",
             "title": title,

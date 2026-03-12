@@ -61,71 +61,45 @@ class TypeTodayJournalCrawler:
                 continue
 
             post_slug = (attrs.get("slug") or post_id or "").strip()
+            if not post_slug:
+                continue
             post_url = urljoin(base_url, f"/ru/journal/{post_slug}")
-            post_detail_attrs = self._fetch_post_attributes(session, post_url, timeout) or {}
-            post_body_html = post_detail_attrs.get("body") or ""
-            if not post_body_html:
+            # Для постов «Новый шрифт» slug поста = slug шрифта (API)
+            font_url = urljoin(base_url, f"/ru/{post_slug}")
+            detail = self._fetch_font_detail(session, font_url, timeout)
+            if not detail:
                 continue
 
-            font_urls = _extract_font_links_from_html(post_body_html)
-            title_font_name = _extract_font_name_from_new_post_title(title, new_prefix)
-            matched_url = _pick_font_url_matching_title(font_urls, title_font_name) if title_font_name else None
-            urls_to_process = [matched_url] if matched_url else []
+            source_url = detail["source_url"]
+            if source_url in seen_sources:
+                continue
+            seen_sources.add(source_url)
 
-            for font_url in urls_to_process:
-                detail = self._fetch_font_detail(session, font_url, timeout)
-                if not detail:
-                    continue
-
-                source_url = detail["source_url"]
-                if source_url in seen_sources:
-                    continue
-                seen_sources.add(source_url)
-
-                release = FontRelease(
-                    source_id=source_id,
-                    source_name=source_name,
-                    source_url=source_url,
-                    name=detail["name"],
-                    styles=detail["styles"],
-                    authors=detail["authors"],
-                    scripts=detail["scripts"],
-                    release_date=post_date,
-                    image_url=detail["image_url"],
-                    woff_url=detail["woff_url"],
-                    specimen_pdf_url=detail["specimen_pdf_url"],
-                    raw={
-                        "journal_post_url": post_url,
-                        "journal_post_title": title,
-                        "journal_post_date": post_date,
-                        "journal_post_slug": post_slug,
-                        "journal_link_url": font_url,
-                    },
-                )
-                releases.append(release)
-                if self.release_callback:
-                    self.release_callback(release)
+            release = FontRelease(
+                source_id=source_id,
+                source_name=source_name,
+                source_url=source_url,
+                name=detail["name"],
+                styles=detail["styles"],
+                authors=detail["authors"],
+                scripts=detail["scripts"],
+                release_date=post_date,
+                image_url=detail["image_url"],
+                woff_url=detail["woff_url"],
+                specimen_pdf_url=detail["specimen_pdf_url"],
+                raw={
+                    "journal_post_url": post_url,
+                    "journal_post_title": title,
+                    "journal_post_date": post_date,
+                    "journal_post_slug": post_slug,
+                    "journal_link_url": font_url,
+                },
+            )
+            releases.append(release)
+            if self.release_callback:
+                self.release_callback(release)
 
         return releases
-
-    def _fetch_post_attributes(
-        self,
-        session: requests.Session,
-        post_url: str,
-        timeout: int,
-    ) -> dict[str, Any] | None:
-        try:
-            r = session.get(post_url, timeout=timeout)
-            r.raise_for_status()
-        except requests.RequestException:
-            return None
-
-        state = extract_next_initial_state(r.text)
-        post_models = state.get("posts", {}).get("models", {})
-        if not post_models:
-            return None
-        key = next(iter(post_models.keys()))
-        return (post_models.get(key) or {}).get("attributes") or None
 
     def _fetch_font_detail(
         self,
@@ -185,87 +159,6 @@ def _extract_typeface_slug_from_url(font_url: str) -> str:
     if len(parts) >= 2:
         return parts[1]
     return ""
-
-
-def _extract_font_name_from_new_post_title(title: str, new_prefix: str) -> str | None:
-    """Extract font name from title like 'Новый шрифт: Nekst Rounded' or 'Новый шрифт Tomorrow: Gik'."""
-    if not title or not new_prefix:
-        return None
-    prefix_lower = new_prefix.strip().lower()
-    title_norm = normalize_spaces(title).lower()
-    if not title_norm.startswith(prefix_lower):
-        return None
-    after_colon = title.split(":")[-1].strip() if ":" in title else ""
-    return normalize_spaces(after_colon) if after_colon else None
-
-
-def _title_to_slug_candidates(name: str) -> list[str]:
-    """Generate possible slugs from font name for matching."""
-    if not name:
-        return []
-    n = normalize_spaces(name).lower()
-    candidates = [n.replace(" ", "-"), n.replace(" ", ""), n.replace(" ", "_")]
-    if "." in n:
-        compact = re.sub(r"[.\s]+", "", n)
-        if compact:
-            candidates.append(compact)
-        parts = n.split()
-        if len(parts) >= 2 and re.match(r"^\d+(\.\d+)?$", parts[-1]):
-            base = "".join(parts[:-1])
-            ver = parts[-1].split(".")[0]
-            candidates.append(base + ver)
-    return unique_strings(c for c in candidates if c)
-
-
-def _pick_font_url_matching_title(font_urls: list[str], title_font_name: str) -> str | None:
-    """Pick the font URL whose slug matches the font name from the post title."""
-    candidates = _title_to_slug_candidates(title_font_name)
-    if not candidates:
-        return None
-    title_slug = title_font_name.lower().replace(" ", "-").replace("_", "-")
-    for url in font_urls:
-        slug = _extract_typeface_slug_from_url(url)
-        if not slug:
-            continue
-        slug_norm = slug.replace("_", "-")
-        if slug_norm in candidates or slug in candidates:
-            return url
-        if slug_norm == title_slug:
-            return url
-        if slug.replace("-", " ") == title_font_name.lower().replace("-", " "):
-            return url
-    return None
-
-
-def _extract_font_links_from_html(html: str) -> list[str]:
-    links = re.findall(r'href="([^"]+)"', html)
-    out: list[str] = []
-
-    for link in links:
-        if not (link.startswith("https://type.today/") or link.startswith("https://tomorrow.type.today/")):
-            continue
-        parsed = urlparse(link)
-        parts = [p for p in parsed.path.split("/") if p]
-        if len(parts) != 2:
-            continue
-        if parts[0] not in {"ru", "en"}:
-            continue
-        if parts[1] in {
-            "journal",
-            "about",
-            "license",
-            "faq",
-            "rules",
-            "cart",
-            "collection",
-            "designer",
-        }:
-            continue
-        if "/journal/" in link or "/collection/" in link or "/designer/" in link:
-            continue
-        out.append(link.rstrip("/"))
-
-    return unique_strings(out)
 
 
 def _extract_styles(model: dict[str, Any]) -> list[str]:
