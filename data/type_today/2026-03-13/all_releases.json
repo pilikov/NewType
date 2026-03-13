@@ -1,0 +1,39 @@
+[
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "source_url": "https://type.today/ru/nekst-rounded",
+    "name": "Nekst Rounded",
+    "styles": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black",
+      "Variable"
+    ],
+    "authors": [
+      "Денис Серебряков"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-12",
+    "image_url": "https://cdn-gc.type.today/storage/font/2/282/share_image_ru-tL0lcDPdNbgBZqEcTTW7eSWSFAoXei9Y_g.jpg",
+    "woff_url": "https://cdn-gc.type.today/storage/font_style/3/6/3611/public_file_without_encoding-KRJaHDfvs0ceSAhJDbQQ8hpHfkZJXLCI8w/NekstRounded-Thin-Web.ttf.subset.woff",
+    "specimen_pdf_url": "https://cdn-gc.type.today/storage/font/2/282/specimen-rTLrZjITthJ5i2BEysx1grwRKK4_c4j8dg/tt_Nekst.pdf",
+    "discovered_at": "2026-03-13T07:06:22.371518+00:00",
+    "raw": {
+      "journal_post_url": "https://type.today/ru/journal/nekst-rounded",
+      "journal_post_title": "Новый шрифт: Nekst Rounded",
+      "journal_post_date": "2026-03-12",
+      "journal_post_slug": "nekst-rounded",
+      "journal_link_url": "https://type.today/ru/nekst-rounded"
+    },
+    "release_id": "975acb866fd39167"
+  }
+]

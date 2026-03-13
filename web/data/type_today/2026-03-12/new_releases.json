@@ -35,5 +35,35 @@
       "journal_link_url": "https://type.today/ru/nekst-rounded"
     },
     "release_id": "975acb866fd39167"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "source_url": "https://tomorrow.type.today/ru/gik",
+    "name": "Gik",
+    "styles": [
+      "Brutal",
+      "Fine",
+      "Medium"
+    ],
+    "authors": [],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-12",
+    "image_url": "https://cdn-gc.type.today/storage/font/2/237/share_image_ru-yZ-n-ziporPiG75GrOMza6sTiw41LCwoxg.jpg",
+    "woff_url": "https://cdn-gc.type.today/storage/font_style/3/0/3049/public_file_without_encoding-Cp-G5Un9TiADoG08SgOWSFBWPnrHuGCd1A/Gik-Brutal-Web.ttf.subset.woff",
+    "specimen_pdf_url": "https://cdn-gc.type.today/storage/font/2/237/specimen-W2A1bgPByC_bH6ytz1fd3oEGH-Q8CB8zcQ/tt_Gik.pdf",
+    "discovered_at": "2026-03-12T07:26:34.646923+00:00",
+    "raw": {
+      "journal_post_url": "https://type.today/ru/journal/nekst-rounded",
+      "journal_post_title": "Новый шрифт: Nekst Rounded",
+      "journal_post_date": "2026-03-12",
+      "journal_post_slug": "nekst-rounded",
+      "journal_link_url": "https://tomorrow.type.today/ru/gik"
+    },
+    "release_id": "2185ee72b95b592c"
   }
 ]
