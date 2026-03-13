@@ -1,22 +1,26 @@
 {
   "myfonts": {
-    "last_run_utc": "2026-03-12T07:26:08.950420Z",
-    "last_date": "2026-03-12"
+    "last_run_utc": "2026-03-13T07:06:18.578845Z",
+    "last_date": "2026-03-13"
   },
   "type_today": {
-    "last_run_utc": "2026-03-12T07:26:43.286119Z",
-    "last_date": "2026-03-12"
+    "last_run_utc": "2026-03-13T07:06:24.092935Z",
+    "last_date": "2026-03-13"
   },
   "futurefonts": {
-    "last_run_utc": "2026-03-12T07:26:44.754633Z",
-    "last_date": "2026-03-12"
+    "last_run_utc": "2026-03-13T07:06:25.498406Z",
+    "last_date": "2026-03-13"
   },
   "typenetwork": {
-    "last_run_utc": "2026-03-12T07:26:45.193574Z",
-    "last_date": "2026-03-12"
+    "last_run_utc": "2026-03-13T07:06:29.019197Z",
+    "last_date": "2026-03-13"
   },
   "contemporarytype": {
-    "last_run_utc": "2026-03-12T07:26:47.732516Z",
-    "last_date": "2026-03-12"
+    "last_run_utc": "2026-03-13T07:06:32.096979Z",
+    "last_date": "2026-03-13"
+  },
+  "fontstand": {
+    "last_run_utc": "2026-03-13T07:06:50.150685Z",
+    "last_date": "2026-03-13"
   }
 }
