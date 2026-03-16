@@ -88,10 +88,10 @@ def _apply_daily_overrides(
     myfonts_end_date: str | None = None,
 ) -> dict[str, Any]:
     """
-    Build source_cfg for a daily (incremental) run. Does not modify main crawlers:
-    - Switches to light mode where one exists (myfonts_whats_new, type_today_journal).
-    - Окно дат: [дата последнего запуска, сегодня]. Включаем все релизы за день последнего
-      запуска и до сегодня; дубли отсекаются через _validate_myfonts_daily_vs_previous_snapshot.
+    Build source_cfg for a daily (incremental) run:
+    - MyFonts: products.json API (whats-new — SPA, не работает с requests).
+    - Окно дат: [дата последнего запуска, сегодня]. Дубли отсекаются через
+      _validate_myfonts_daily_vs_previous_snapshot.
     - Для MyFonts при --daily можно задать даты вручную (--myfonts-start-date / --myfonts-end-date).
     """
     if source_id == "myfonts" and myfonts_start_date and myfonts_end_date:
@@ -111,10 +111,12 @@ def _apply_daily_overrides(
     crawl = dict(updated.get("crawl") or {})
 
     if source_id == "myfonts":
-        crawl["mode"] = "myfonts_whats_new"
+        crawl["mode"] = "myfonts_api"
         crawl["start_date"] = start_str
         crawl["end_date"] = end_str
-        # max_pages не ограничиваем: остановка по датам (debut < start_date в краулере)
+        # Daily: ограничиваем объём, чтобы прогон укладывался в разумное время
+        crawl["max_pages"] = min(int(crawl.get("max_pages", 250)), 25)
+        crawl["max_debut_checks"] = min(int(crawl.get("max_debut_checks", 5000)), 1500)
     elif source_id == "type_today":
         crawl["mode"] = "type_today_journal"
         crawl["start_date"] = start_str
