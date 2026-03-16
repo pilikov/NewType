@@ -49,7 +49,29 @@ def is_package_name(name: str) -> bool:
     return False
 
 
-def fetch_collection_enrichment(url: str, session: requests.Session, timeout: int = 15) -> dict:
+def _extract_promo_image_url(soup: BeautifulSoup, base_url: str) -> str | None:
+    """Промо-постер шрифта (cdn.myfonts.net/images/pim/), не логотип MyFonts."""
+    def pick_from_srcset(srcset: str | None) -> str | None:
+        if not srcset:
+            return None
+        for chunk in srcset.split(","):
+            candidate = chunk.strip().split(" ", 1)[0].strip()
+            if "/images/pim/" in candidate:
+                return urljoin(base_url, candidate)
+        return None
+
+    for node in soup.select("img[src],img[data-src],img[srcset],source[srcset]"):
+        src = (node.get("src") or "").strip() or (node.get("data-src") or "").strip()
+        if "/images/pim/" in src:
+            return urljoin(base_url, src)
+        for attr in ("srcset", "data-srcset"):
+            val = pick_from_srcset((node.get(attr) or "").strip())
+            if val:
+                return val
+    return None
+
+
+def fetch_collection_enrichment(url: str, session: requests.Session, base_url: str = BASE_URL, timeout: int = 15) -> dict:
     """Fetch collection page, extract name, image, authors."""
     try:
         r = session.get(url, timeout=timeout)
@@ -67,10 +89,8 @@ def fetch_collection_enrichment(url: str, session: requests.Session, timeout: in
         name = re.sub(r"\s*\|\s*.*$", "", name).strip()
         if name:
             out["name"] = name
-    # og:image
-    og_img = soup.select_one("meta[property='og:image']")
-    if og_img and og_img.get("content"):
-        out["image_url"] = (og_img.get("content") or "").strip()
+    # Промо-изображение: ищем img с /images/pim/ (постер шрифта), НЕ og:image (часто MyFonts Logo)
+    out["image_url"] = _extract_promo_image_url(soup, base_url)
     # Publisher: Monovo
     pub = re.search(r"Publisher\s*:\s*([^\n]+?)\s+(?:Foundry|Design Owner|MyFonts debut)", text)
     if pub:
