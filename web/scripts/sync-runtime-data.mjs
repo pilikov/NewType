@@ -10,6 +10,7 @@ const repoRoot = path.resolve(webRoot, "..");
 const sourceDataDir = path.join(repoRoot, "data");
 const sourceCoverageFile = path.join(repoRoot, "state", "data_coverage.json");
 const sourceConfigFile = path.join(repoRoot, "config", "sources.json");
+const newsConfigFile = path.join(repoRoot, "config", "news_sources.json");
 const targetDataDir = path.join(webRoot, "data");
 const targetStateDir = path.join(webRoot, "state");
 const targetCoverageFile = path.join(targetStateDir, "data_coverage.json");
@@ -35,6 +36,20 @@ async function removeDirRecursive(dirPath) {
 
 async function sync() {
   const isVercel = process.env.VERCEL === "1";
+  if (!isVercel) {
+    try {
+      const { spawn } = await import("node:child_process");
+      const downloadScript = path.join(repoRoot, "scripts", "download-news-favicons.mjs");
+      if (await exists(downloadScript)) {
+        await new Promise((resolve) => {
+          const child = spawn("node", [downloadScript], { cwd: repoRoot, stdio: "inherit" });
+          child.on("close", () => resolve());
+        });
+      }
+    } catch (err) {
+      console.warn("News favicon download skipped:", err.message);
+    }
+  }
   if (isVercel) {
     // On Vercel, use committed web/data only. Build cache may contain stale ../data
     // which would overwrite correct web/data from git.
@@ -68,6 +83,11 @@ async function sync() {
       console.log("Root config/sources.json missing. Keeping existing web/config/sources.json.");
     } else {
       console.log("Root config/sources.json missing and no local fallback in web/config.");
+    }
+    const targetNewsConfigFile = path.join(targetConfigDir, "news_sources.json");
+    if (await exists(newsConfigFile)) {
+      await cp(newsConfigFile, targetNewsConfigFile);
+      console.log("Synced config/news_sources.json from repo root.");
     }
   }
 
