@@ -391,6 +391,7 @@ class MyFontsApiCrawler:
                             promo_image_url,
                             tech_specs_scripts,
                             tech_specs_supported_languages,
+                            tried_collection_url,
                         ) = self._extract_debut_from_product_page(
                             session=session,
                             product_url=source_url,
@@ -403,7 +404,13 @@ class MyFontsApiCrawler:
                             derived_url = self._derive_collection_url_from_product(
                                 product, base_url
                             )
-                            if derived_url:
+                            # Не перезапрашивать тот же URL, что уже пробовали
+                            def _url_eq(a: str | None, b: str | None) -> bool:
+                                if not a or not b:
+                                    return False
+                                return a.rstrip("/").lower() == b.rstrip("/").lower()
+
+                            if derived_url and not _url_eq(derived_url, tried_collection_url):
                                 (
                                     coll_url,
                                     debut_date_iso,
@@ -426,7 +433,7 @@ class MyFontsApiCrawler:
                         if promo_image_url:
                             image_url = promo_image_url
                         scripts = self._merge_script_labels(scripts, tech_specs_scripts)
-                        if family_id and collection_url is not None:
+                        if family_id:
                             family_enrichment_cache[family_id] = (
                                 collection_url,
                                 debut_date_iso,
@@ -621,7 +628,7 @@ class MyFontsApiCrawler:
         timeout: int,
         detail_request_delay: float,
         fetch_tech_specs_scripts: bool = False,
-    ) -> tuple[str | None, str | None, str | None, list[str], list[str]]:
+    ) -> tuple[str | None, str | None, str | None, list[str], list[str], str | None]:
         try:
             page = self._get_with_backoff(
                 session=session,
@@ -630,9 +637,9 @@ class MyFontsApiCrawler:
                 delay_seconds=detail_request_delay,
             )
             if page is None:
-                return None, None, None, [], []
+                return None, None, None, [], [], None
         except requests.RequestException:
-            return None, None, None, [], []
+            return None, None, None, [], [], None
 
         soup = BeautifulSoup(page.text, "html.parser")
 
@@ -651,7 +658,7 @@ class MyFontsApiCrawler:
             break
 
         if not collection_url:
-            return None, None, None, [], []
+            return None, None, None, [], [], None
 
         collection_url_out, debut_iso, promo_img, scripts_list, langs = self._extract_debut_from_collection_url(
             session=session,
@@ -665,7 +672,9 @@ class MyFontsApiCrawler:
         out_url = None
         if collection_url_out is not None and (debut_iso is not None or promo_img is not None):
             out_url = collection_url_out
-        return out_url, debut_iso, promo_img, scripts_list, langs
+        # tried_url: при неудаче передаём, чтобы не перезапрашивать тот же URL в derive
+        tried_url = collection_url if out_url is None else None
+        return out_url, debut_iso, promo_img, scripts_list, langs, tried_url
 
     def _extract_debut_from_collection_url(
         self,
