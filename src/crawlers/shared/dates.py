@@ -37,3 +37,16 @@ def parse_mon_dd_yyyy(value: str | None) -> date | None:
         return datetime.strptime(value, "%b %d, %Y").date()
     except ValueError:
         return None
+
+
+def parse_dd_dot_mon_yyyy(value: str | None) -> date | None:
+    """Parse '11. Mar 2026' (Grilli Type format)."""
+    if not value:
+        return None
+    s = (value or "").strip()
+    if not s:
+        return None
+    try:
+        return datetime.strptime(s, "%d. %b %Y").date()
+    except ValueError:
+        return None

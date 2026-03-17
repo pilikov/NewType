@@ -451,11 +451,38 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Daily (incremental) run: light parsers + date window from watermarks",
     )
+    parser.add_argument(
+        "--news",
+        action="store_true",
+        help="Run news crawlers only",
+    )
+    parser.add_argument(
+        "--news-daily",
+        action="store_true",
+        help="News daily mode: date window from watermarks, merge on save",
+    )
+    parser.add_argument(
+        "--news-sources",
+        type=str,
+        default="",
+        help="Comma-separated news source ids (e.g. type_today,futurefonts)",
+    )
     return parser.parse_args()
 
 
 def main() -> None:
     args = parse_args()
+    if args.news:
+        from src.news_run import run_news
+
+        news_filter = {s.strip() for s in args.news_sources.split(",") if s.strip()} or None
+        run_news(
+            source_filter=news_filter,
+            timeout=args.timeout,
+            daily=bool(args.news_daily),
+        )
+        return
+
     source_filter = {s.strip() for s in args.sources.split(",") if s.strip()} or None
     run(
         source_filter=source_filter,

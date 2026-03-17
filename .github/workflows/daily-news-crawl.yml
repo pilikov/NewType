@@ -1,0 +1,54 @@
+# Ежедневный прогон новостей (второй запуск в день). 18:00 UTC.
+# Результаты мержатся в crawl/daily поверх данных от 06:00.
+name: Daily news crawl
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          ref: main
+
+      - name: Fetch and checkout crawl/daily if exists
+        run: |
+          git fetch origin crawl/daily 2>/dev/null || true
+          if git show-ref --verify --quiet refs/remotes/origin/crawl/daily; then
+            git checkout -B crawl/daily origin/crawl/daily
+          fi
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run news parsers (daily mode)
+        run: python -m src.main --news --news-daily
+
+      - name: Mirror data and state into web/ for site
+        run: |
+          rm -rf web/data web/state
+          cp -r data web/data
+          cp -r state web/state
+          echo "Mirrored data/ → web/data, state/ → web/state"
+
+      - name: Push to branch crawl/daily
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f data/ state/ web/data/ web/state/ 2>/dev/null || true
+          git diff --staged --quiet && echo "No changes" && exit 0
+          git commit -m "chore(data): daily news crawl $(date -u +%Y-%m-%d)"
+          git push --force origin HEAD:crawl/daily

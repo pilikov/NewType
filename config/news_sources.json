@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": "type_today",
+      "name": "type.today",
+      "enabled": true,
+      "base_url": "https://type.today",
+      "meta": { "favicon_url": "https://type.today/favicon/favicon-32x32.png" },
+      "news_url": "https://type.today/en/journal",
+      "crawl": {
+        "mode": "type_today_news",
+        "posts_endpoint": "/api/v1/posts",
+        "journal_path": "/en/journal",
+        "page_size": 100,
+        "lookback_days": 60
+      }
+    },
+    {
+      "id": "futurefonts",
+      "name": "Future Fonts",
+      "enabled": true,
+      "base_url": "https://www.futurefonts.com",
+      "meta": { "favicon_url": "https://www.futurefonts.com/favicon.ico" },
+      "news_url": "https://www.futurefonts.com/blog",
+      "crawl": {
+        "mode": "futurefonts_news",
+        "blog_url": "/blog",
+        "journal_posts_url": "/journal-posts"
+      }
+    },
+    {
+      "id": "adobe_fonts",
+      "name": "Adobe Fonts",
+      "enabled": true,
+      "base_url": "https://blog.adobe.com",
+      "meta": { "favicon_url": "https://blog.adobe.com/favicon.ico" },
+      "news_url": "https://blog.adobe.com/?ch_Products=Adobe%2520Fonts",
+      "crawl": {
+        "mode": "adobe_news",
+        "sitemap_url": "https://blog.adobe.com/en/sitemap.xml",
+        "lookback_days": 365,
+        "font_only": true
+      }
+    },
+    {
+      "id": "typotheque",
+      "name": "Typotheque",
+      "enabled": true,
+      "base_url": "https://www.typotheque.com",
+      "meta": { "favicon_url": "https://www.typotheque.com/favicon.ico" },
+      "news_url": "https://www.typotheque.com/blog",
+      "crawl": {
+        "mode": "typotheque_news",
+        "rss_url": "https://www.typotheque.com/blog/feed"
+      }
+    },
+    {
+      "id": "fontfabric",
+      "name": "Fontfabric",
+      "enabled": true,
+      "base_url": "https://www.fontfabric.com",
+      "meta": { "favicon_url": "https://www.fontfabric.com/favicon.ico" },
+      "news_url": "https://www.fontfabric.com/blog",
+      "crawl": {
+        "mode": "fontfabric_news",
+        "rss_url": "https://www.fontfabric.com/blog/feed/"
+      }
+    },
+    {
+      "id": "monotype",
+      "name": "Monotype",
+      "enabled": true,
+      "base_url": "https://www.monotype.com",
+      "meta": { "favicon_url": "https://www.monotype.com/sites/default/files/favicon.png" },
+      "news_url": "https://www.monotype.com/company/news-press",
+      "crawl": {
+        "mode": "monotype_news"
+      }
+    },
+    {
+      "id": "fontstand",
+      "name": "Fontstand",
+      "enabled": true,
+      "base_url": "https://fontstand.com",
+      "meta": { "favicon_url": "https://fontstand.com/favicon.ico" },
+      "news_url": "https://fontstand.com/news",
+      "crawl": {
+        "mode": "fontstand_news"
+      }
+    },
+    {
+      "id": "typenetwork",
+      "name": "Type Network",
+      "enabled": true,
+      "base_url": "https://typenetwork.com",
+      "meta": { "favicon_url": "https://store.typenetwork.com/icons/favicon-32x32.png" },
+      "news_url": "https://typenetwork.com/articles",
+      "crawl": {
+        "mode": "typenetwork_news"
+      }
+    },
+    {
+      "id": "losttype",
+      "name": "Lost Type",
+      "enabled": true,
+      "base_url": "https://www.losttype.com",
+      "meta": { "favicon_url": "https://www.losttype.com/favicon.ico" },
+      "news_url": "https://www.losttype.com/news",
+      "crawl": {
+        "mode": "losttype_news"
+      }
+    },
+    {
+      "id": "boldmonday",
+      "name": "Bold Monday",
+      "enabled": true,
+      "base_url": "https://boldmonday.com",
+      "meta": { "favicon_url": "https://boldmonday.com/favicon.ico" },
+      "news_url": "https://boldmonday.com/news",
+      "crawl": {
+        "mode": "boldmonday_news"
+      }
+    },
+    {
+      "id": "daltonmaag",
+      "name": "Dalton Maag",
+      "enabled": true,
+      "base_url": "https://www.daltonmaag.com",
+      "meta": { "favicon_url": "https://www.daltonmaag.com/favicon.ico" },
+      "news_url": "https://www.daltonmaag.com/resources/blog/index.html",
+      "crawl": {
+        "mode": "daltonmaag_news"
+      }
+    },
+    {
+      "id": "emigre",
+      "name": "Emigre",
+      "enabled": true,
+      "base_url": "https://www.emigre.com",
+      "meta": { "favicon_url": "https://www.emigre.com/favicon.ico" },
+      "news_url": "https://www.emigre.com/News",
+      "crawl": {
+        "mode": "emigre_news"
+      }
+    },
+    {
+      "id": "commercialtype",
+      "name": "Commercial Type",
+      "enabled": true,
+      "base_url": "https://commercialtype.com",
+      "meta": { "favicon_url": "https://commercialtype.com/favicon.ico" },
+      "news_url": "https://commercialtype.com/news",
+      "crawl": {
+        "mode": "commercialtype_news",
+        "max_items": 25,
+        "discover_more": true
+      }
+    },
+    {
+      "id": "grillitype",
+      "name": "Grilli Type",
+      "enabled": true,
+      "base_url": "https://www.grillitype.com",
+      "meta": { "favicon_url": "https://www.grillitype.com/icons/apple-icon-57x57.png" },
+      "news_url": "https://www.grillitype.com/blog",
+      "crawl": {
+        "mode": "grillitype_news",
+        "posts_endpoint": "/api/v1/blog/posts",
+        "max_items": 50,
+        "fetch_dates_for": 50
+      }
+    }
+  ]
+}

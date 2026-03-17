@@ -33,6 +33,9 @@ jobs:
       - name: Run daily parsers
         run: python -m src.main --daily
 
+      - name: Run news parsers (daily mode)
+        run: python -m src.main --news --news-daily
+
       - name: Mirror data and state into web/ for site
         run: |
           # Сайт на Vercel читает из web/data и web/state; краулер пишет в data/ и state/.
