@@ -199,20 +199,6 @@ export default async function NewsPage() {
         <div className="mt-4 flex w-full justify-center px-4 sm:px-6 lg:px-8">
           <SourceLinks />
         </div>
-        <nav className="mt-4 flex w-full justify-center gap-4">
-          <Link
-            href="/"
-            className="text-base font-medium text-slate-500 hover:text-slate-800"
-          >
-            Releases
-          </Link>
-          <Link
-            href="/news"
-            className="text-base font-semibold text-slate-900"
-          >
-            News
-          </Link>
-        </nav>
       </header>
 
       <div className="min-h-[60vh] w-full px-4 py-8 sm:px-6 lg:px-8">
