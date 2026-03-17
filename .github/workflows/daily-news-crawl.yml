@@ -39,10 +39,16 @@ jobs:
 
       - name: Mirror data and state into web/ for site
         run: |
-          rm -rf web/data web/state
-          cp -r data web/data
-          cp -r state web/state
-          echo "Mirrored data/ → web/data, state/ → web/state"
+          # Merge: копируем data/* в web/data/* БЕЗ удаления — сохраняем periods, старые дни.
+          mkdir -p web/data
+          for dir in data/*/; do
+            [ -d "$dir" ] || continue
+            src=$(basename "$dir")
+            mkdir -p "web/data/$src"
+            cp -r "$dir"/* "web/data/$src/" 2>/dev/null || true
+          done
+          rm -rf web/state && cp -r state web/state
+          echo "Mirrored data/ → web/data (merge), state/ → web/state"
 
       - name: Push to branch crawl/daily
         run: |

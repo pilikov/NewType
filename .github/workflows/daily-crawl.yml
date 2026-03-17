@@ -39,13 +39,17 @@ jobs:
       - name: Mirror data and state into web/ for site
         run: |
           # Сайт на Vercel читает из web/data и web/state; краулер пишет в data/ и state/.
-          # Копируем в web/, чтобы после мержа на main сайт видел новые релизы.
-          rm -rf web/data web/state
-          cp -r data web/data
-          cp -r state web/state
-          # Favicons получены один раз и закоммичены; восстанавливаем после перезаписи
+          # Merge: копируем data/* в web/data/* БЕЗ удаления — сохраняем periods, старые дни.
+          mkdir -p web/data
+          for dir in data/*/; do
+            [ -d "$dir" ] || continue
+            src=$(basename "$dir")
+            mkdir -p "web/data/$src"
+            cp -r "$dir"/* "web/data/$src/" 2>/dev/null || true
+          done
+          rm -rf web/state && cp -r state web/state
           git checkout HEAD -- web/data/_meta/favicons/ 2>/dev/null || true
-          echo "Mirrored data/ → web/data, state/ → web/state"
+          echo "Mirrored data/ → web/data (merge), state/ → web/state"
 
       - name: Push to branch crawl/daily (no merge to main)
         run: |
