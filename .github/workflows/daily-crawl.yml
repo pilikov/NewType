@@ -27,11 +27,6 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Set up Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-
       - name: Install dependencies
         run: pip install -r requirements.txt
 
@@ -41,9 +36,6 @@ jobs:
       - name: Run news parsers (daily mode)
         run: python -m src.main --news --news-daily
 
-      - name: Download news source favicons
-        run: node scripts/download-news-favicons.mjs
-
       - name: Mirror data and state into web/ for site
         run: |
           # Сайт на Vercel читает из web/data и web/state; краулер пишет в data/ и state/.
@@ -51,6 +43,8 @@ jobs:
           rm -rf web/data web/state
           cp -r data web/data
           cp -r state web/state
+          # Favicons получены один раз и закоммичены; восстанавливаем после перезаписи
+          git checkout HEAD -- web/data/_meta/favicons/ 2>/dev/null || true
           echo "Mirrored data/ → web/data, state/ → web/state"
 
       - name: Push to branch crawl/daily (no merge to main)
