@@ -182,8 +182,8 @@ export default async function NewsPage() {
   }
 
   return (
-    <main className="w-full">
-      <header className="mx-auto mb-8 w-full max-w-7xl pt-0">
+    <main className="mx-auto w-full max-w-7xl">
+      <header className="mb-8 w-full pt-0">
         <div className="flex w-full justify-center">
           <Link href="/">
             <img
@@ -215,7 +215,7 @@ export default async function NewsPage() {
         </nav>
       </header>
 
-      <div className="min-h-[60vh] w-full px-4 py-8 sm:px-6 lg:px-8">
+      <div className="min-h-[60vh] w-full px-4 pb-10 pt-0 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-4xl px-2 py-4 sm:px-4">
           {news.length === 0 ? (
             <p className="text-center text-slate-500">Новостей пока нет.</p>
