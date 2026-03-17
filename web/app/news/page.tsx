@@ -20,9 +20,13 @@ type NewsItem = {
 
 async function resolveProjectRoot(): Promise<string> {
   const cwd = process.cwd();
-  const candidates = [cwd, path.resolve(cwd, "..")];
-  for (const candidate of candidates) {
-    const newsDir = path.join(candidate, "data", "news");
+  // Try multiple locations: cwd/data/news (Vercel Root=web), cwd/web/data/news (Root=repo)
+  const newsDirCandidates = [
+    path.join(cwd, "data", "news"),
+    path.join(cwd, "web", "data", "news"),
+  ];
+
+  for (const newsDir of newsDirCandidates) {
     try {
       const st = await fs.stat(newsDir);
       if (!st.isDirectory()) continue;
@@ -30,7 +34,7 @@ async function resolveProjectRoot(): Promise<string> {
       const hasSources = sources.some(
         (s) => s.isDirectory() && !s.name.startsWith(".") && !/^\d{4}-\d{2}-\d{2}$/.test(s.name)
       );
-      if (hasSources) return candidate;
+      if (hasSources) return path.dirname(path.dirname(newsDir));
     } catch {
       continue;
     }
