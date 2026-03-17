@@ -114,9 +114,14 @@ def _apply_daily_overrides(
         crawl["mode"] = "myfonts_api"
         crawl["start_date"] = start_str
         crawl["end_date"] = end_str
-        # Daily: ограничиваем объём, чтобы прогон укладывался в разумное время
+        # Daily: жёсткие лимиты — прогон ~1–2 мин (было 1500 checks × 0.35s × 2 req ≈ 17 мин)
         crawl["max_pages"] = min(int(crawl.get("max_pages", 250)), 25)
-        crawl["max_debut_checks"] = min(int(crawl.get("max_debut_checks", 5000)), 1500)
+        crawl["max_debut_checks"] = min(int(crawl.get("max_debut_checks", 5000)), 80)
+        crawl["max_tech_specs_checks"] = min(int(crawl.get("max_tech_specs_checks", 5000)), 40)
+        crawl["detail_request_delay_seconds"] = min(
+            float(crawl.get("detail_request_delay_seconds", 0.35)), 0.2
+        )
+        crawl["reuse_last_success_profile"] = False  # не переопределять лимиты из полного прогона
     elif source_id == "type_today":
         crawl["mode"] = "type_today_journal"
         crawl["start_date"] = start_str
