@@ -185,7 +185,7 @@ export default async function NewsPage() {
     <main className="mx-auto w-full max-w-7xl">
       <header className="mb-8 w-full pt-0">
         <div className="flex w-full justify-center">
-          <Link href="/">
+          <Link href="/" className="block w-full">
             <img
               src="/Logo.svg"
               alt="Logo"
@@ -216,7 +216,7 @@ export default async function NewsPage() {
       </header>
 
       <div className="min-h-[60vh] w-full px-4 pb-10 pt-0 sm:px-6 lg:px-8">
-        <div className="mx-auto max-w-4xl px-2 py-4 sm:px-4">
+        <div className="mx-auto w-full max-w-[800px]">
           {news.length === 0 ? (
             <p className="text-center text-slate-500">Новостей пока нет.</p>
           ) : (
@@ -236,12 +236,12 @@ export default async function NewsPage() {
                     <h3 className="text-lg font-semibold text-slate-900">
                       {item.title}
                     </h3>
-                    <p className="mt-2 flex items-center gap-2 text-sm text-slate-500">
+                    <p className="mt-2 flex items-center gap-2 text-base text-slate-500">
                       {faviconUrl ? (
                         <img
                           src={faviconUrl}
                           alt=""
-                          className="h-4 w-4 shrink-0 rounded"
+                          className="h-4 w-4 shrink-0 rounded-sm object-contain"
                           width={16}
                           height={16}
                         />
