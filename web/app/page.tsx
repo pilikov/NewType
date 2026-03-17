@@ -1,6 +1,8 @@
 import { promises as fs } from "node:fs";
 import path from "node:path";
 
+import Link from "next/link";
+
 import { ReleasesByWeek, type WeekGroup } from "@/components/releases-by-week";
 import type { ReleaseItem } from "@/components/release-card";
 import { SourceLinks } from "@/app/source-links";
@@ -577,6 +579,20 @@ export default async function HomePage() {
         <div className="mt-4 flex w-full justify-center px-4 sm:px-6 lg:px-8">
           <SourceLinks />
         </div>
+        <nav className="mt-4 flex w-full justify-center gap-4">
+          <Link
+            href="/"
+            className="text-base font-semibold text-slate-900"
+          >
+            Releases
+          </Link>
+          <Link
+            href="/news"
+            className="text-base font-medium text-slate-500 hover:text-slate-800"
+          >
+            News
+          </Link>
+        </nav>
       </header>
 
       <div className="px-4 pb-10 pt-0 sm:px-6 lg:px-8">
