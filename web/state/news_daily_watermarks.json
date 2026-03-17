@@ -1,0 +1,58 @@
+{
+  "type_today": {
+    "last_run_utc": "2026-03-17T08:16:29.233513Z",
+    "last_date": "2026-03-17"
+  },
+  "futurefonts": {
+    "last_run_utc": "2026-03-17T08:16:29.525191Z",
+    "last_date": "2026-03-17"
+  },
+  "adobe_fonts": {
+    "last_run_utc": "2026-03-17T08:16:29.788001Z",
+    "last_date": "2026-03-17"
+  },
+  "typotheque": {
+    "last_run_utc": "2026-03-17T08:16:30.046646Z",
+    "last_date": "2026-03-17"
+  },
+  "fontfabric": {
+    "last_run_utc": "2026-03-17T08:16:31.453875Z",
+    "last_date": "2026-03-17"
+  },
+  "monotype": {
+    "last_run_utc": "2026-03-17T08:16:31.970281Z",
+    "last_date": "2026-03-17"
+  },
+  "fontstand": {
+    "last_run_utc": "2026-03-17T08:16:41.928892Z",
+    "last_date": "2026-03-17"
+  },
+  "typenetwork": {
+    "last_run_utc": "2026-03-17T08:16:43.634829Z",
+    "last_date": "2026-03-17"
+  },
+  "losttype": {
+    "last_run_utc": "2026-03-17T08:16:43.696478Z",
+    "last_date": "2026-03-17"
+  },
+  "boldmonday": {
+    "last_run_utc": "2026-03-17T08:16:49.608713Z",
+    "last_date": "2026-03-17"
+  },
+  "daltonmaag": {
+    "last_run_utc": "2026-03-17T08:16:49.987840Z",
+    "last_date": "2026-03-17"
+  },
+  "emigre": {
+    "last_run_utc": "2026-03-17T08:16:50.340806Z",
+    "last_date": "2026-03-17"
+  },
+  "commercialtype": {
+    "last_run_utc": "2026-03-17T08:16:54.690714Z",
+    "last_date": "2026-03-17"
+  },
+  "grillitype": {
+    "last_run_utc": "2026-03-17T08:17:27.645905Z",
+    "last_date": "2026-03-17"
+  }
+}
