@@ -244,6 +244,7 @@ export default async function NewsPage() {
                           className="h-4 w-4 shrink-0 rounded-sm object-contain"
                           width={16}
                           height={16}
+                          referrerPolicy="no-referrer"
                         />
                       ) : null}
                       <span>{formatTimestamp(item, dateFormatted)}</span>

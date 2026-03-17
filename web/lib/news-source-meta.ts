@@ -1,5 +1,8 @@
 import { promises as fs } from "node:fs";
 import path from "node:path";
+import { fileURLToPath } from "node:url";
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 type NewsConfigSource = {
   id?: string;
@@ -40,11 +43,16 @@ export function newsSourceFaviconUiUrl(meta: NewsSourceUiMeta | undefined): stri
 
 async function resolveProjectRoot(): Promise<string> {
   const cwd = process.cwd();
-  const candidates = [cwd, path.resolve(cwd, "..")];
-  for (const candidate of candidates) {
+  const configPaths = [
+    path.join(cwd, "config", "news_sources.json"),
+    path.join(cwd, "web", "config", "news_sources.json"),
+    path.resolve(cwd, "..", "config", "news_sources.json"),
+    path.resolve(__dirname, "..", "config", "news_sources.json")
+  ];
+  for (const configPath of configPaths) {
     try {
-      const st = await fs.stat(path.join(candidate, "config", "news_sources.json"));
-      if (st.isFile()) return candidate;
+      const st = await fs.stat(configPath);
+      if (st.isFile()) return path.dirname(path.dirname(configPath));
     } catch {
       continue;
     }
@@ -74,8 +82,8 @@ export async function loadNewsSourceMetaMap(): Promise<Record<string, NewsSource
   const dataDir = await dataDirFromRoot(root);
   const result: Record<string, NewsSourceUiMeta> = {};
 
+  const configPath = path.join(root, "config", "news_sources.json");
   try {
-    const configPath = path.join(root, "config", "news_sources.json");
     const configRaw = await fs.readFile(configPath, "utf8");
     const cfg = JSON.parse(configRaw) as NewsConfigPayload;
 
