@@ -400,24 +400,25 @@ class MyFontsApiCrawler:
                             fetch_tech_specs_scripts=allow_tech_specs_fetch,
                         )
                         if collection_url is None:
-                            collection_url = self._derive_collection_url_from_product(
+                            derived_url = self._derive_collection_url_from_product(
                                 product, base_url
                             )
-                            if collection_url:
+                            if derived_url:
                                 (
-                                    _,
+                                    coll_url,
                                     debut_date_iso,
                                     promo_image_url,
                                     tech_specs_scripts,
                                     tech_specs_supported_languages,
                                 ) = self._extract_debut_from_collection_url(
                                     session=session,
-                                    collection_url=collection_url,
+                                    collection_url=derived_url,
                                     base_url=base_url,
                                     timeout=timeout,
                                     detail_request_delay=detail_request_delay,
                                     fetch_tech_specs_scripts=allow_tech_specs_fetch,
                                 )
+                                collection_url = coll_url
                         debut_checks_done += 1
                         if allow_tech_specs_fetch:
                             tech_specs_checks_done += 1
@@ -425,7 +426,7 @@ class MyFontsApiCrawler:
                         if promo_image_url:
                             image_url = promo_image_url
                         scripts = self._merge_script_labels(scripts, tech_specs_scripts)
-                        if family_id:
+                        if family_id and collection_url is not None:
                             family_enrichment_cache[family_id] = (
                                 collection_url,
                                 debut_date_iso,
@@ -607,6 +608,9 @@ class MyFontsApiCrawler:
         if not vendor_slug:
             return None
         path = f"/collections/{family_slug}-font-{vendor_slug}"
+        # Исключаем foundry-страницы (second-circle-font-foundry)
+        if path.rstrip("/").lower().endswith("-font-foundry"):
+            return None
         return urljoin(base_url, path)
 
     def _extract_debut_from_product_page(
@@ -639,13 +643,17 @@ class MyFontsApiCrawler:
                 continue
             if "-font-" not in href:
                 continue
+            # Исключаем foundry-страницы (second-circle-font-foundry и т.п.)
+            slug = href.split("/collections/")[-1].split("?")[0].rstrip("/").lower()
+            if slug.endswith("-font-foundry"):
+                continue
             collection_url = urljoin(base_url, href)
             break
 
         if not collection_url:
             return None, None, None, [], []
 
-        _, debut_iso, promo_img, scripts_list, langs = self._extract_debut_from_collection_url(
+        collection_url_out, debut_iso, promo_img, scripts_list, langs = self._extract_debut_from_collection_url(
             session=session,
             collection_url=collection_url,
             base_url=base_url,
@@ -653,7 +661,11 @@ class MyFontsApiCrawler:
             detail_request_delay=detail_request_delay,
             fetch_tech_specs_scripts=fetch_tech_specs_scripts,
         )
-        return collection_url, debut_iso, promo_img, scripts_list, langs
+        # 404 или невалидная страница (foundry): debut=None и promo=None → не используем
+        out_url = None
+        if collection_url_out is not None and (debut_iso is not None or promo_img is not None):
+            out_url = collection_url_out
+        return out_url, debut_iso, promo_img, scripts_list, langs
 
     def _extract_debut_from_collection_url(
         self,
@@ -673,9 +685,9 @@ class MyFontsApiCrawler:
                 delay_seconds=detail_request_delay,
             )
             if collection_page is None:
-                return collection_url, None, None, [], []
+                return None, None, None, [], []
         except requests.RequestException:
-            return collection_url, None, None, [], []
+            return None, None, None, [], []
 
         collection_html = collection_page.text
         collection_soup = BeautifulSoup(collection_html, "html.parser")
@@ -710,7 +722,10 @@ class MyFontsApiCrawler:
             if not promo_image_url and retry_image:
                 promo_image_url = retry_image
         if not match:
-            return collection_url, None, promo_image_url, tech_specs_scripts, tech_specs_supported_languages
+            # Нет MyFonts debut — возможно foundry или битая страница
+            return (None, None, None, [], []) if not promo_image_url else (
+                collection_url, None, promo_image_url, tech_specs_scripts, tech_specs_supported_languages
+            )
 
         parsed = parse_mon_dd_yyyy(match.group(1))
         return collection_url, parsed.isoformat() if parsed else None, promo_image_url, tech_specs_scripts, tech_specs_supported_languages
