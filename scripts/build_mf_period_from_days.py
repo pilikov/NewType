@@ -1,50 +1,18 @@
 #!/usr/bin/env python3
 """
 Собрать период 2026-03-08_2026-03-15 из day data (all_releases.json по дням).
-Быстрый путь без парсинга API — используем уже собранные данные.
-Derive collection_url из handle+authors для релизов без него.
+Только релизы с проверенным collection_url (без derive — даёт 404).
 """
 
 from __future__ import annotations
 
 import json
-import re
 from pathlib import Path
-from urllib.parse import urljoin
 
 ROOT = Path(__file__).resolve().parent.parent
 MF_BASE = ROOT / "web" / "data" / "myfonts"
 OUTPUT_DIR = MF_BASE / "periods" / "2026-03-08_2026-03-15"
 DAYS = ["2026-03-08", "2026-03-09", "2026-03-10", "2026-03-11", "2026-03-12", "2026-03-13", "2026-03-14", "2026-03-15", "2026-03-16", "2026-03-17"]
-
-
-def derive_collection_url(r: dict) -> str | None:
-    raw = r.get("raw") or {}
-    if raw.get("collection_url"):
-        return raw.get("collection_url")
-    handle = str(raw.get("handle") or "").strip().lower()
-    vendor = (r.get("authors") or [""])[0] if r.get("authors") else ""
-    vendor = str(vendor or "").strip()
-    if not handle or not vendor:
-        return None
-    family_slug = re.sub(
-        r"-(?:complete-?family|family-?package|package|bundle)(?:-\d+)?$",
-        "",
-        handle,
-        flags=re.IGNORECASE,
-    ).strip("-")
-    if family_slug.endswith("-complete"):
-        family_slug = family_slug[:-9]
-    if not family_slug:
-        return None
-    vendor_slug = re.sub(r"[^\w\s-]", "", vendor.lower()).strip()
-    vendor_slug = re.sub(r"\s+", "-", vendor_slug).strip("-")
-    if not vendor_slug:
-        return None
-    path = f"/collections/{family_slug}-font-{vendor_slug}"
-    if path.rstrip("/").lower().endswith("-font-foundry"):
-        return None
-    return urljoin("https://www.myfonts.com", path)
 
 
 def main() -> None:
@@ -59,12 +27,7 @@ def main() -> None:
                 continue
             raw = r.get("raw") or {}
             c = raw.get("collection_url") or r.get("source_url") or ""
-            if not c or "/collections/" not in c:
-                c = derive_collection_url(r)
-                if c:
-                    if raw.get("collection_url") is None:
-                        raw["collection_url"] = c
-                    r["source_url"] = c
+            # Не используем derive — даёт 404. Только проверенные collection_url.
             if not c or "/collections/" not in c:
                 continue
             debut = (raw.get("myfonts_debut_date") or r.get("release_date") or "")[:10]

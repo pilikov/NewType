@@ -304,7 +304,7 @@ def run(
                 )
 
             if source_id == "myfonts":
-                filled = _myfonts_fill_derived_collection_urls(releases)
+                filled = _myfonts_fill_derived_collection_urls(releases, session=session, validate=True)
                 if filled:
                     print(f"[myfonts] filled collection_url for {filled} releases (derive from handle)")
                 releases, new_releases = _myfonts_upgrade_releases_with_collection(
@@ -561,14 +561,28 @@ def _derive_myfonts_collection_url(release: FontRelease) -> str | None:
     return urljoin("https://www.myfonts.com", path)
 
 
-def _myfonts_fill_derived_collection_urls(releases: list[FontRelease]) -> int:
-    """Fill collection_url for releases that have handle+authors but no collection_url (daily cap)."""
+def _validate_collection_url_exists(url: str, session: requests.Session, timeout: int = 8) -> bool:
+    """HEAD request to verify collection URL returns 200 (not 404)."""
+    try:
+        r = session.head(url, timeout=timeout, allow_redirects=True)
+        return 200 <= r.status_code < 400
+    except Exception:
+        return False
+
+
+def _myfonts_fill_derived_collection_urls(
+    releases: list[FontRelease],
+    session: requests.Session,
+    validate: bool = True,
+) -> int:
+    """Fill collection_url for releases that have handle+authors but no collection_url (daily cap).
+    Only uses derived URL if validate=True and HEAD returns 200 (avoids 404 links)."""
     filled = 0
     for r in releases:
         if (r.raw or {}).get("collection_url"):
             continue
         url = _derive_myfonts_collection_url(r)
-        if url:
+        if url and (not validate or _validate_collection_url_exists(url, session)):
             if r.raw is None:
                 r.raw = {}
             r.raw["collection_url"] = url

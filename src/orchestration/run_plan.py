@@ -116,8 +116,8 @@ def _apply_daily_overrides(
         crawl["end_date"] = end_str
         # Daily: жёсткие лимиты — прогон ~1–2 мин (было 1500 checks × 0.35s × 2 req ≈ 17 мин)
         crawl["max_pages"] = min(int(crawl.get("max_pages", 250)), 25)
-        crawl["max_debut_checks"] = min(int(crawl.get("max_debut_checks", 5000)), 80)
-        crawl["max_tech_specs_checks"] = min(int(crawl.get("max_tech_specs_checks", 5000)), 40)
+        crawl["max_debut_checks"] = min(int(crawl.get("max_debut_checks", 5000)), 400)
+        crawl["max_tech_specs_checks"] = min(int(crawl.get("max_tech_specs_checks", 5000)), 200)
         crawl["detail_request_delay_seconds"] = min(
             float(crawl.get("detail_request_delay_seconds", 0.35)), 0.2
         )

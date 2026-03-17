@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Применить derive collection_url к существующим MF данным (day + periods).
-Заполняет collection_url из handle+authors для релизов без него.
+DEPRECATED: derive даёт 404 — не использовать без валидации.
+См. remove_invalid_mf_collection_urls.py для очистки.
 """
 
 from __future__ import annotations
