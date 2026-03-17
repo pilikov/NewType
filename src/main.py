@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import argparse
 import mimetypes
+import re
 from collections.abc import Iterable
 from datetime import date, datetime, timedelta
 from pathlib import Path
@@ -303,6 +304,9 @@ def run(
                 )
 
             if source_id == "myfonts":
+                filled = _myfonts_fill_derived_collection_urls(releases)
+                if filled:
+                    print(f"[myfonts] filled collection_url for {filled} releases (derive from handle)")
                 releases, new_releases = _myfonts_upgrade_releases_with_collection(
                     releases, new_releases
                 )
@@ -525,6 +529,52 @@ def _week_bounds(day: date) -> tuple[date, date]:
     start = day - timedelta(days=day.weekday())
     end = start + timedelta(days=6)
     return start, end
+
+
+def _derive_myfonts_collection_url(release: FontRelease) -> str | None:
+    """Derive collection URL from handle+vendor when fetch was skipped (daily cap)."""
+    raw = release.raw or {}
+    if raw.get("collection_url"):
+        return None
+    handle = str(raw.get("handle") or "").strip().lower()
+    vendor = (release.authors or [""])[0] if release.authors else ""
+    vendor = str(vendor or "").strip()
+    if not handle or not vendor:
+        return None
+    family_slug = re.sub(
+        r"-(?:complete-?family|family-?package|package|bundle)(?:-\d+)?$",
+        "",
+        handle,
+        flags=re.IGNORECASE,
+    ).strip("-")
+    if family_slug.endswith("-complete"):
+        family_slug = family_slug[:-9]
+    if not family_slug:
+        return None
+    vendor_slug = re.sub(r"[^\w\s-]", "", vendor.lower()).strip()
+    vendor_slug = re.sub(r"\s+", "-", vendor_slug).strip("-")
+    if not vendor_slug:
+        return None
+    path = f"/collections/{family_slug}-font-{vendor_slug}"
+    if path.rstrip("/").lower().endswith("-font-foundry"):
+        return None
+    return urljoin("https://www.myfonts.com", path)
+
+
+def _myfonts_fill_derived_collection_urls(releases: list[FontRelease]) -> int:
+    """Fill collection_url for releases that have handle+authors but no collection_url (daily cap)."""
+    filled = 0
+    for r in releases:
+        if (r.raw or {}).get("collection_url"):
+            continue
+        url = _derive_myfonts_collection_url(r)
+        if url:
+            if r.raw is None:
+                r.raw = {}
+            r.raw["collection_url"] = url
+            r.source_url = url
+            filled += 1
+    return filled
 
 
 def _myfonts_upgrade_releases_with_collection(
