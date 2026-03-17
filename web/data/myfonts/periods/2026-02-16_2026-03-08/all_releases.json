@@ -17088,7 +17088,7 @@
   {
     "source_id": "myfonts",
     "source_name": "MyFonts",
-    "source_url": "https://www.myfonts.com/products/vergils-archive-complete-family-package-1117627",
+    "source_url": "https://www.myfonts.com/collections/second-circle-font-foundry/",
     "name": "Vergils Archive Complete Family",
     "styles": [],
     "authors": [
@@ -17122,7 +17122,7 @@
       ],
       "updated_at": "2026-03-08T12:25:06-04:00",
       "product_url": "https://www.myfonts.com/products/vergils-archive-complete-family-package-1117627",
-      "collection_url": null,
+      "collection_url": "https://www.myfonts.com/collections/second-circle-font-foundry/",
       "myfonts_debut_date": null,
       "tech_specs_scripts": [
         "Arabic",
@@ -43404,7 +43404,7 @@
   {
     "source_id": "myfonts",
     "source_name": "MyFonts",
-    "source_url": "https://www.myfonts.com/products/regular-arveus-1115727",
+    "source_url": "https://www.myfonts.com/collections/drizy-font-foundry/",
     "name": "Arveus",
     "styles": [],
     "authors": [
@@ -43430,7 +43430,7 @@
       ],
       "updated_at": "2026-03-08T12:38:33-04:00",
       "product_url": "https://www.myfonts.com/products/regular-arveus-1115727",
-      "collection_url": null,
+      "collection_url": "https://www.myfonts.com/collections/drizy-font-foundry/",
       "myfonts_debut_date": null,
       "tech_specs_scripts": [],
       "is_package_product": false,
