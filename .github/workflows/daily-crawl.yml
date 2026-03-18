@@ -30,6 +30,15 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Restore accumulated data from crawl/daily
+        run: |
+          # Подтягиваем данные из crawl/daily (если ветка есть), чтобы не терять промежуточные дни.
+          # Без этого шага каждый запуск стартует из main и теряет накопленное между публикациями.
+          git fetch origin crawl/daily 2>/dev/null || echo "crawl/daily not found yet, skipping"
+          git checkout origin/crawl/daily -- data/ state/ web/data/ web/state/ 2>/dev/null \
+            && echo "Restored data from crawl/daily" \
+            || echo "No crawl/daily data to restore, starting fresh from main"
+
       - name: Run daily parsers
         run: python -m src.main --daily
 

@@ -1,0 +1,702 @@
+[
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "République Studio",
+    "url": "https://www.grillitype.com/blog/studio-portrait/republique-studio-interview",
+    "published_at": "2026-03-11",
+    "discovered_at": "2026-03-18T07:45:46.163273+00:00",
+    "raw": {
+      "category": "studio-portrait",
+      "typeface": "",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/69b/1f7/028/69b1f7028d50f796941540.png"
+    },
+    "news_id": "252e22ebcb045110"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Schema by Figma",
+    "url": "https://www.grillitype.com/blog/in-use/schema-figma-typeface",
+    "published_at": "2026-03-05",
+    "discovered_at": "2026-03-18T07:45:46.648987+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/69a/8da/4d5/69a8da4d5814c019542940.jpg"
+    },
+    "news_id": "aac9faa8e81498ae"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Magical Athlete",
+    "url": "https://www.grillitype.com/blog/in-use/magical-athlete-game-design",
+    "published_at": "2026-03-05",
+    "discovered_at": "2026-03-18T07:45:47.071464+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Flaire",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/69a/8f3/f47/69a8f3f47789c012710051.jpg"
+    },
+    "news_id": "4eae237752063fb6"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Tsukiyo",
+    "url": "https://www.grillitype.com/blog/in-use/tsukiyo-restaurant-sydney",
+    "published_at": "2026-03-05",
+    "discovered_at": "2026-03-18T07:45:47.504588+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Maru",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/69a/8e8/988/69a8e89889977790706972.jpg"
+    },
+    "news_id": "5830153b7fa67233"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Radical Utopias",
+    "url": "https://www.grillitype.com/blog/in-use/radical-utopias-posters",
+    "published_at": "2026-03-05",
+    "discovered_at": "2026-03-18T07:45:47.907359+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Alpina",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/69a/8ed/396/69a8ed3960671790745934.jpg"
+    },
+    "news_id": "4e97801ca0f150a3"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "The Old Man",
+    "url": "https://www.grillitype.com/blog/in-use/old-man-bar-hongkong",
+    "published_at": "2026-01-31",
+    "discovered_at": "2026-03-18T07:45:48.316399+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Alpina",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/697/e6a/aec/697e6aaec53c1179987400.jpg"
+    },
+    "news_id": "79b6a43b70d64ad0"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Transit Filmfest 2025",
+    "url": "https://www.grillitype.com/blog/in-use/transit-filmfest-2025-design",
+    "published_at": "2026-01-31",
+    "discovered_at": "2026-03-18T07:45:48.734678+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Super",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/697/e6d/118/697e6d1182d06007144865.jpg"
+    },
+    "news_id": "75ef9f488ab0e5a0"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "BIXI Montréal",
+    "url": "https://www.grillitype.com/blog/in-use/bixi-montreal-Bike-Rental",
+    "published_at": "2026-01-31",
+    "discovered_at": "2026-03-18T07:45:49.132902+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Maru",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/697/e71/796/697e71796e5be226731272.jpg"
+    },
+    "news_id": "abfdd2f49ae428d1"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Underbug",
+    "url": "https://www.grillitype.com/blog/in-use/underbug-design-identity",
+    "published_at": "2026-01-31",
+    "discovered_at": "2026-03-18T07:45:49.550616+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Pressura",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/697/e75/638/697e756380d01233267770.jpg"
+    },
+    "news_id": "d9abb361e80c1b65"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Pop Dogs",
+    "url": "https://www.grillitype.com/blog/in-use/pop-dogs-cuts-luzern",
+    "published_at": "2026-01-05",
+    "discovered_at": "2026-03-18T07:45:49.937132+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Maru",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/695/b1a/6bb/695b1a6bb1cc8333698876.jpg"
+    },
+    "news_id": "17f17acee6396a06"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "iessi",
+    "url": "https://www.grillitype.com/blog/in-use/iessi-aperitif-brand-design",
+    "published_at": "2026-01-05",
+    "discovered_at": "2026-03-18T07:45:50.349509+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Pressura",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/695/b1d/5f3/695b1d5f3a615278957475.jpg"
+    },
+    "news_id": "a6ff7ed41168dcf2"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Museu Terra",
+    "url": "https://www.grillitype.com/blog/in-use/museu-terra-design",
+    "published_at": "2026-01-05",
+    "discovered_at": "2026-03-18T07:45:50.741879+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Alpina",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/695/b22/1f2/695b221f26157951615651.jpg"
+    },
+    "news_id": "290a5946f8056644"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Regma",
+    "url": "https://www.grillitype.com/blog/in-use/regma-ice-cream-design",
+    "published_at": "2026-01-05",
+    "discovered_at": "2026-03-18T07:45:51.219689+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Ultra",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/695/b23/194/695b231944974238404042.jpg"
+    },
+    "news_id": "bbc071cb5547bfec"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Fuse: 30yrs of making noise",
+    "url": "https://www.grillitype.com/blog/in-use/30-years-fuse-book-compilation",
+    "published_at": "2025-11-27",
+    "discovered_at": "2026-03-18T07:45:51.597083+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Walsheim",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/692/798/da5/692798da57d65853506861.jpg"
+    },
+    "news_id": "25de580f6a581f85"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Barr Gazetas",
+    "url": "https://www.grillitype.com/blog/in-use/barr-gazetas-london-design",
+    "published_at": "2025-11-27",
+    "discovered_at": "2026-03-18T07:45:52.006309+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT America",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/692/79b/803/69279b803b5ea507002942.jpg"
+    },
+    "news_id": "2289fe256036b345"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Das Narr magazine",
+    "url": "https://www.grillitype.com/blog/in-use/das-narr-magazine-43",
+    "published_at": "2025-11-26",
+    "discovered_at": "2026-03-18T07:45:52.403402+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Alpina",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/692/793/f43/692793f433c93187258251.jpg"
+    },
+    "news_id": "2b326ba3af894512"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "St John’s College",
+    "url": "https://www.grillitype.com/blog/in-use/st-johns-college-brand-identity",
+    "published_at": "2025-11-26",
+    "discovered_at": "2026-03-18T07:45:52.832516+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Ultra",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/692/796/798/692796798cb65607623684.jpg"
+    },
+    "news_id": "dae959ec4aeb3757"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Ediciones Inauditas",
+    "url": "https://www.grillitype.com/blog/in-use/ediciones-inauditas-vinyl-records",
+    "published_at": "2025-09-29",
+    "discovered_at": "2026-03-18T07:45:53.230426+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Alpina",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/68d/b1b/249/68db1b2496e51284020404.jpg"
+    },
+    "news_id": "b90030dd04fbf29e"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "San Diego Zoo Wildlife Alliance",
+    "url": "https://www.grillitype.com/blog/in-use/san-diego-zoo-rebrand",
+    "published_at": "2025-09-24",
+    "discovered_at": "2026-03-18T07:45:53.623405+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Ultra",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/68d/34b/ea9/68d34bea9545e316824686.jpg"
+    },
+    "news_id": "a08b63961f707470"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Outside The Frame",
+    "url": "https://www.grillitype.com/blog/in-use/outside-frame-book",
+    "published_at": "2025-09-24",
+    "discovered_at": "2026-03-18T07:45:54.007390+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Cinetype",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/68d/34e/d3c/68d34ed3cdb8c100895012.jpg"
+    },
+    "news_id": "9af7b3fbdd02605c"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Metric Coffee",
+    "url": "https://www.grillitype.com/blog/in-use/metric-coffee-design",
+    "published_at": "2025-09-24",
+    "discovered_at": "2026-03-18T07:45:54.391594+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT America",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/68d/352/8a5/68d3528a56cc6893916282.jpg"
+    },
+    "news_id": "a8295743609d0823"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Smith & Diction",
+    "url": "https://www.grillitype.com/blog/studio-portrait/smith-diction",
+    "published_at": "2025-06-19",
+    "discovered_at": "2026-03-18T07:45:54.783913+00:00",
+    "raw": {
+      "category": "studio-portrait",
+      "typeface": "",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/685/370/1c6/6853701c66ff5805598061.png"
+    },
+    "news_id": "ebd96c0110bbc653"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Rik Bracho",
+    "url": "https://www.grillitype.com/blog/studio-portrait/rik-bracho",
+    "published_at": "2025-04-10",
+    "discovered_at": "2026-03-18T07:45:55.212851+00:00",
+    "raw": {
+      "category": "studio-portrait",
+      "typeface": "",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/680/a44/252/680a442527ea3526297530.png"
+    },
+    "news_id": "21f4db2aca94cfca"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Sight Lines",
+    "url": "https://www.grillitype.com/blog/in-use/sight-lines",
+    "published_at": "2025-03-20",
+    "discovered_at": "2026-03-18T07:45:55.638367+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT America",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/67d/c1e/f66/67dc1ef66728f790766120.jpg"
+    },
+    "news_id": "0fa8eea7bae985f6"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Liceo Alfa",
+    "url": "https://www.grillitype.com/blog/in-use/liceo-alfa",
+    "published_at": "2025-03-20",
+    "discovered_at": "2026-03-18T07:45:56.084714+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Planar",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/67d/c1f/d89/67dc1fd8933f0164319916.jpg"
+    },
+    "news_id": "e2de34e2796b7b08"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Item Amsterdam",
+    "url": "https://www.grillitype.com/blog/in-use/item-amsterdam",
+    "published_at": "2025-03-20",
+    "discovered_at": "2026-03-18T07:45:56.614988+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Pressura",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/67d/c21/aec/67dc21aec0cae137953495.jpg"
+    },
+    "news_id": "2d60110d7f84d864"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Ästhetik der Technik",
+    "url": "https://www.grillitype.com/blog/in-use/asthetik-der-technik",
+    "published_at": "2025-03-20",
+    "discovered_at": "2026-03-18T07:45:57.028070+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Cinetype",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/67d/c27/cfe/67dc27cfe668f761926447.jpg"
+    },
+    "news_id": "7d1fbfc6c967f0b5"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Dinette Market",
+    "url": "https://www.grillitype.com/blog/in-use/dinette-market",
+    "published_at": "2025-03-20",
+    "discovered_at": "2026-03-18T07:45:57.453207+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Maru",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/67d/c28/2a4/67dc282a4b3eb411826302.jpg"
+    },
+    "news_id": "558c82e75b4b4e1a"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Works",
+    "url": "https://www.grillitype.com/blog/studio-portrait/works-works",
+    "published_at": "2025-02-24",
+    "discovered_at": "2026-03-18T07:45:57.832030+00:00",
+    "raw": {
+      "category": "studio-portrait",
+      "typeface": "",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/680/949/77b/68094977bb9ed113462774.png"
+    },
+    "news_id": "21d20a7c75b7c0d3"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Studio Brillante Website",
+    "url": "https://www.grillitype.com/blog/in-use/studio-brillante",
+    "published_at": "2025-01-16",
+    "discovered_at": "2026-03-18T07:45:58.208559+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT America",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/678/874/305/6788743058946967551505.jpg"
+    },
+    "news_id": "4dee5d33e7782cba"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Momiji Perfumes by Momiji Beauty",
+    "url": "https://www.grillitype.com/blog/in-use/momiji-perfumes",
+    "published_at": "2025-01-16",
+    "discovered_at": "2026-03-18T07:45:58.596455+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/678/875/942/67887594200fa230823620.jpg"
+    },
+    "news_id": "189d92c735490134"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "El gh’è pù el gran Milan",
+    "url": "https://www.grillitype.com/blog/in-use/el-ghe-pu-el-gran-milan",
+    "published_at": "2025-01-16",
+    "discovered_at": "2026-03-18T07:45:58.979933+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Cinetype",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/678/877/0dd/6788770dde8dd148483379.jpg"
+    },
+    "news_id": "d84261a320e30f23"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Festival Atlantide",
+    "url": "https://www.grillitype.com/blog/in-use/festival-atlantide",
+    "published_at": "2025-01-16",
+    "discovered_at": "2026-03-18T07:45:59.417396+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Alpina",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/678/878/d98/678878d98aba9730260719.jpg"
+    },
+    "news_id": "059cd43f32670252"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Mameita Korea",
+    "url": "https://www.grillitype.com/blog/in-use/mameita-korea",
+    "published_at": "2025-01-16",
+    "discovered_at": "2026-03-18T07:45:59.820598+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Maru",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/678/87a/ed5/67887aed5893a985296985.jpg"
+    },
+    "news_id": "f401ce2f0d5076dd"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "The Three Faces of Pantheon",
+    "url": "https://www.grillitype.com/blog/typeface-stories/gt-pantheon-type-story",
+    "published_at": "2024-11-21",
+    "discovered_at": "2026-03-18T07:46:00.199948+00:00",
+    "raw": {
+      "category": "typeface-stories",
+      "typeface": "GT Pantheon",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/674/48a/a82/67448aa82a792076066757.png"
+    },
+    "news_id": "de238783f42d201f"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Józef Hałas",
+    "url": "https://www.grillitype.com/blog/in-use/jozef-halas",
+    "published_at": "2024-11-14",
+    "discovered_at": "2026-03-18T07:46:00.666786+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Planar",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/673/553/fd4/673553fd4e347179764501.jpg"
+    },
+    "news_id": "becf08c028e540d7"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Page des Libraires",
+    "url": "https://www.grillitype.com/blog/in-use/page-des-libraires",
+    "published_at": "2024-11-14",
+    "discovered_at": "2026-03-18T07:46:01.115832+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Alpina",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/673/556/024/673556024e122192796858.jpg"
+    },
+    "news_id": "efccb9e36a705f67"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "The Wexford Festival Opera",
+    "url": "https://www.grillitype.com/blog/in-use/wexford-festival-opera",
+    "published_at": "2024-11-14",
+    "discovered_at": "2026-03-18T07:46:01.534194+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Pressura",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/673/557/475/6735574758a2a822940767.jpg"
+    },
+    "news_id": "f389a75c1bd679c6"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Children’s Zine by Kukiyo",
+    "url": "https://www.grillitype.com/blog/in-use/childrens-zine-kukiyo",
+    "published_at": "2024-11-14",
+    "discovered_at": "2026-03-18T07:46:01.933807+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Haptik",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/673/558/5c3/6735585c3bc87740128284.jpg"
+    },
+    "news_id": "43d38f706e5a5f1a"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Bauerbe Lustenauer Stickerhaeuser",
+    "url": "https://www.grillitype.com/blog/in-use/bauerbe-stickerhaeuser",
+    "published_at": "2024-11-14",
+    "discovered_at": "2026-03-18T07:46:02.366300+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Sectra",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/673/559/5d7/6735595d783fc538370094.jpg"
+    },
+    "news_id": "49e36f1372e105a0"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Lloyds Bank",
+    "url": "https://www.grillitype.com/blog/in-use/lloyds-bank",
+    "published_at": "2024-11-14",
+    "discovered_at": "2026-03-18T07:46:02.812154+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Ultra",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/673/55b/293/67355b293e374679308982.jpg"
+    },
+    "news_id": "41bf25e57a4c3d82"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Deux Huit Huit",
+    "url": "https://www.grillitype.com/blog/studio-portrait/deux-huit-huit",
+    "published_at": "2024-11-14",
+    "discovered_at": "2026-03-18T07:46:03.197640+00:00",
+    "raw": {
+      "category": "studio-portrait",
+      "typeface": "",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/673/cd6/4f0/673cd64f092ac891540654.jpg"
+    },
+    "news_id": "9d1a574f6d6d00e4"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "The Cleveland Orchestra",
+    "url": "https://www.grillitype.com/blog/in-use/cleveland-orchestra",
+    "published_at": "2024-09-12",
+    "discovered_at": "2026-03-18T07:46:03.604208+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Ultra",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/66e/240/c83/66e240c839e90174533529.jpg"
+    },
+    "news_id": "f7bd25f1c2652575"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Frans Hals at the Gemäldegalerie",
+    "url": "https://www.grillitype.com/blog/in-use/frans-hals-gemaldegalerie",
+    "published_at": "2024-09-12",
+    "discovered_at": "2026-03-18T07:46:04.008228+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Flexa",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/66e/243/25a/66e24325a9776149749939.jpg"
+    },
+    "news_id": "30a22d8a7aabf5c3"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Vibram",
+    "url": "https://www.grillitype.com/blog/in-use/vibram",
+    "published_at": "2024-09-12",
+    "discovered_at": "2026-03-18T07:46:04.400664+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Sectra",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/66e/245/52d/66e24552db97e065952961.jpg"
+    },
+    "news_id": "da248595624026e1"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Brutal Minimal 2015-2017",
+    "url": "https://www.grillitype.com/blog/in-use/brutal-minimal-2015-2017",
+    "published_at": "2024-09-12",
+    "discovered_at": "2026-03-18T07:46:04.785522+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Alpina",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/66e/246/78b/66e24678bf259381909313.jpg"
+    },
+    "news_id": "c5783b0342cdc489"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Romaeuropa Festival 2024",
+    "url": "https://www.grillitype.com/blog/in-use/romaeuropa-festival-2024",
+    "published_at": "2024-07-31",
+    "discovered_at": "2026-03-18T07:46:05.173268+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Pressura",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/66a/a5c/f45/66aa5cf454f26630024032.jpg"
+    },
+    "news_id": "07412d1d7fe04320"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "La rue des enfants, le rêve des adultes",
+    "url": "https://www.grillitype.com/blog/in-use/la-rue-des-enfants-le-reve-des-adultes",
+    "published_at": "2024-07-31",
+    "discovered_at": "2026-03-18T07:46:05.566988+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Ultra",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/66a/a60/86d/66aa6086da6fc709673986.jpg"
+    },
+    "news_id": "c357dda2b9a6ddc7"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Kindred Black",
+    "url": "https://www.grillitype.com/blog/in-use/kindred-black",
+    "published_at": "2024-07-31",
+    "discovered_at": "2026-03-18T07:46:05.962224+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Alpina",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/66a/a65/a00/66aa65a009452014857225.jpg"
+    },
+    "news_id": "c28fa97641263ec8"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Superficies",
+    "url": "https://www.grillitype.com/blog/in-use/superficies",
+    "published_at": "2024-07-31",
+    "discovered_at": "2026-03-18T07:46:06.362266+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Super",
+      "image": "https://www.grillitype.com/api/storage/app/uploads/public/66a/a67/a85/66aa67a85971d706943795.jpg"
+    },
+    "news_id": "71f1cfe2b092155b"
+  }
+]
