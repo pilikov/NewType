@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "source_id": "adobe_fonts",
+    "source_name": "Adobe Fonts",
+    "title": "More Than 1500 New Fonts Including All Time Favorites Come To Adobe Fonts",
+    "url": "https://blog.adobe.com/en/publish/2025/04/08/more-than-1500-new-fonts-including-all-time-favorites-come-to-adobe-fonts",
+    "published_at": "2025-04-08",
+    "discovered_at": "2026-03-18T07:44:40.353721+00:00",
+    "raw": {
+      "sitemap_lastmod": "2026-02-26"
+    },
+    "news_id": "2d842e04bdd0e65f"
+  },
+  {
+    "source_id": "adobe_fonts",
+    "source_name": "Adobe Fonts",
+    "title": "How To Shape Future With Type Tech Creative Thinking",
+    "url": "https://blog.adobe.com/en/publish/2025/09/24/how-to-shape-future-with-type-tech-creative-thinking",
+    "published_at": "2025-09-24",
+    "discovered_at": "2026-03-18T07:44:40.354050+00:00",
+    "raw": {
+      "sitemap_lastmod": "2026-02-26"
+    },
+    "news_id": "fd694f89a7f7b59b"
+  }
+]
