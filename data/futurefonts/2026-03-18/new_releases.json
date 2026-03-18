@@ -1,0 +1,37 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/cstm/diplosopher",
+    "name": "Diplosopher",
+    "styles": [],
+    "authors": [
+      "CSTM Fonts"
+    ],
+    "scripts": [
+      "basic-latin",
+      "extended-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-17",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/slide/image/38907/medium_diplosopher_1.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-18T07:31:54.362657+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:19361",
+      "activity_id": 19361,
+      "activity_key": "typeface.new_release",
+      "activity_type": "new_release",
+      "activity_type_label": "New Release",
+      "release_kind": "new_release",
+      "is_new_version": false,
+      "version": null,
+      "trackable_type": "Typeface",
+      "trackable_id": 2728,
+      "resolved_typeface_id": 2728,
+      "typeface_language": "basic-latin,extended-latin"
+    },
+    "release_id": "ad0314cf99cc2131"
+  }
+]
