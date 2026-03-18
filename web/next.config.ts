@@ -8,7 +8,13 @@ const nextConfig: NextConfig = {
     ]
   },
   outputFileTracingIncludes: {
-    "/*": ["./data/**/all_releases.json", "./state/data_coverage.json", "./config/sources.json"]
+    "/*": [
+      "./data/**/all_releases.json",
+      "./data/news/**/all_news.json",
+      "./state/data_coverage.json",
+      "./config/sources.json",
+      "./config/news_sources.json"
+    ]
   },
   outputFileTracingExcludes: {
     // Exclude large data/state from api/assets bundle (Vercel 300MB limit)
