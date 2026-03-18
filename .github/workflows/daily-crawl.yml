@@ -32,12 +32,24 @@ jobs:
 
       - name: Restore accumulated data from crawl/daily
         run: |
-          # Подтягиваем данные из crawl/daily (если ветка есть), чтобы не терять промежуточные дни.
-          # Без этого шага каждый запуск стартует из main и теряет накопленное между публикациями.
+          # Подтягиваем web/data и state из crawl/daily, чтобы не терять накопленное между публикациями.
+          # data/ — gitignored, поэтому восстанавливаем только web/data и state.
           git fetch origin crawl/daily 2>/dev/null || echo "crawl/daily not found yet, skipping"
-          git checkout origin/crawl/daily -- data/ state/ web/data/ web/state/ 2>/dev/null \
-            && echo "Restored data from crawl/daily" \
+          git checkout origin/crawl/daily -- web/data/ web/state/ state/ 2>/dev/null \
+            && echo "Restored web/data + state from crawl/daily" \
             || echo "No crawl/daily data to restore, starting fresh from main"
+          # Восстанавливаем data/news/ из web/data/news/ — краулер пишет в data/, а не web/data/.
+          # Это позволяет дейли-краулеру накапливать новости поверх уже собранных.
+          if [ -d "web/data/news" ]; then
+            mkdir -p data/news
+            for src_dir in web/data/news/*/; do
+              [ -d "$src_dir" ] || continue
+              src_name=$(basename "$src_dir")
+              mkdir -p "data/news/$src_name"
+              cp -r "$src_dir"* "data/news/$src_name/" 2>/dev/null || true
+            done
+            echo "Restored data/news/ from web/data/news/"
+          fi
 
       - name: Run daily parsers
         run: python -m src.main --daily

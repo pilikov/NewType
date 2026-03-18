@@ -54,6 +54,21 @@ async function loadAllNews(): Promise<NewsItem[]> {
       // Skip date folders at wrong level (e.g. news/2026-03-17 instead of news/monotype/2026-03-17)
       if (/^\d{4}-\d{2}-\d{2}$/.test(source.name)) continue;
       const sourcePath = path.join(newsDir, source.name);
+
+      // New format: single accumulating all_news.json directly in source dir
+      const singleFilePath = path.join(sourcePath, "all_news.json");
+      try {
+        const raw = await fs.readFile(singleFilePath, "utf8");
+        const items = JSON.parse(raw) as NewsItem[];
+        if (Array.isArray(items) && items.length > 0) {
+          all.push(...items);
+          continue;
+        }
+      } catch {
+        // fall through to legacy format
+      }
+
+      // Legacy format: date subdirectories (backward compat)
       let dateDirs: { name: string }[];
       try {
         dateDirs = (await fs.readdir(sourcePath, { withFileTypes: true }))
@@ -66,7 +81,7 @@ async function loadAllNews(): Promise<NewsItem[]> {
         .map((d) => d.name)
         .sort((a, b) => b.localeCompare(a));
 
-      for (const dateDir of sortedDates.slice(0, 7)) {
+      for (const dateDir of sortedDates.slice(0, 30)) {
         const filePath = path.join(sourcePath, dateDir, "all_news.json");
         try {
           const raw = await fs.readFile(filePath, "utf8");
@@ -99,9 +114,7 @@ async function loadAllNews(): Promise<NewsItem[]> {
       acc[i.source_id] = (acc[i.source_id] ?? 0) + 1;
       return acc;
     }, {});
-    if (process.env.NODE_ENV === "development") {
-      console.log("[news] loaded:", result.length, "items, by source:", bySource);
-    }
+    console.log("[news] loaded:", result.length, "items, by source:", bySource);
     return result;
   } catch (err) {
     console.error("[news] loadAllNews error:", err);

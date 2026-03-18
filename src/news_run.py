@@ -2,13 +2,11 @@
 
 from __future__ import annotations
 
-from datetime import date, datetime
 from pathlib import Path
 from typing import Any
 
 import requests
 
-from src.models import FontNewsItem
 from src.orchestration.news_registry import build_news_crawler_registry
 from src.state.news_daily_watermarks import (
     load_news_daily_watermarks,
@@ -49,12 +47,12 @@ def _apply_news_daily_overrides(
     updated = dict(source_cfg)
     crawl = dict(updated.get("crawl") or {})
     start_date, end_date = news_daily_start_end_dates(
-        watermarks, source_id, fallback_days_back=1
+        watermarks, source_id, fallback_days_back=7
     )
     crawl["start_date"] = start_date.isoformat()
     crawl["end_date"] = end_date.isoformat()
     days = (end_date - start_date).days + 1
-    crawl["lookback_days"] = max(1, days)
+    crawl["lookback_days"] = max(7, days)
     updated["crawl"] = crawl
     return updated
 
@@ -72,12 +70,29 @@ def _load_existing_news(out_path: Path) -> dict[str, dict[str, Any]]:
         return {}
 
 
+def _load_existing_from_date_dirs(source_dir: Path) -> dict[str, dict[str, Any]]:
+    """Migrate: load items from old per-date directories into a single dict."""
+    existing: dict[str, dict[str, Any]] = {}
+    if not source_dir.is_dir():
+        return existing
+    for date_dir in sorted(source_dir.iterdir()):
+        if not date_dir.is_dir():
+            continue
+        # Only pick up date-formatted directories (YYYY-MM-DD)
+        import re
+        if not re.match(r"^\d{4}-\d{2}-\d{2}$", date_dir.name):
+            continue
+        f = date_dir / "all_news.json"
+        items = _load_existing_news(f)
+        existing.update(items)
+    return existing
+
+
 def run_news(
     source_filter: set[str] | None = None,
     timeout: int = 20,
     daily: bool = False,
 ) -> None:
-    today = date.today().isoformat()
     sources = load_news_sources()
     seen_state = load_news_seen_ids()
     watermarks = load_news_daily_watermarks(STATE_DIR) if daily else {}
@@ -115,25 +130,29 @@ def run_news(
                 print(f"[news:{source_id}] crawl failed: {e}")
                 continue
 
-            seen_ids = set(seen_state.get(source_id, []))
-            for item in items:
-                seen_ids.add(item.news_id)
-            seen_state[source_id] = sorted(seen_ids)
-
-            out_dir = NEWS_DATA_DIR / source_id / today
+            # Single accumulating file per source — never per-date
+            out_dir = NEWS_DATA_DIR / source_id
             ensure_dir(out_dir)
             out_path = out_dir / "all_news.json"
 
-            if daily:
-                existing = _load_existing_news(out_path)
-                for item in items:
-                    existing[item.news_id] = item.to_dict()
-                to_save = list(existing.values())
-            else:
-                to_save = [item.to_dict() for item in items]
+            # Load accumulated history; fall back to migrating old date-dirs
+            existing = _load_existing_news(out_path)
+            if not existing:
+                existing = _load_existing_from_date_dirs(out_dir)
 
+            # Add only items not yet accumulated
+            new_count = 0
+            for item in items:
+                if item.news_id not in existing:
+                    existing[item.news_id] = item.to_dict()
+                    new_count += 1
+
+            # seen_ids mirrors the full accumulated set
+            seen_state[source_id] = sorted(existing.keys())
+
+            to_save = list(existing.values())
             dump_json(out_path, to_save)
-            print(f"[news:{source_id}] items={len(to_save)} output={out_dir}")
+            print(f"[news:{source_id}] total={len(to_save)} new={new_count} output={out_dir}")
 
             if daily:
                 update_news_source_watermark(watermarks, source_id)
