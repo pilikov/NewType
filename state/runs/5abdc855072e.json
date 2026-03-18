@@ -1,0 +1,69 @@
+{
+  "context": {
+    "run_id": "5abdc855072e",
+    "started_at": "2026-03-18T07:14:08.260256+00:00",
+    "source_filter": [],
+    "timeout_seconds": 20
+  },
+  "summary": {
+    "run_id": "5abdc855072e",
+    "started_at": "2026-03-18T07:14:08.260256+00:00",
+    "finished_at": "2026-03-18T07:32:27.145011Z",
+    "sources": [
+      {
+        "source_id": "myfonts",
+        "status": "failed",
+        "total_releases": 0,
+        "new_releases": 0,
+        "duration_seconds": 1060.132,
+        "output_dir": null,
+        "error": "503 Server Error: Service Unavailable for url: https://www.myfonts.com/products.json?limit=100&page=8"
+      },
+      {
+        "source_id": "type_today",
+        "status": "success",
+        "total_releases": 0,
+        "new_releases": 0,
+        "duration_seconds": 5.051,
+        "output_dir": "/home/runner/work/NewType/NewType/data/type_today/2026-03-18",
+        "error": null
+      },
+      {
+        "source_id": "futurefonts",
+        "status": "success",
+        "total_releases": 1,
+        "new_releases": 1,
+        "duration_seconds": 1.75,
+        "output_dir": "/home/runner/work/NewType/NewType/data/futurefonts/2026-03-18",
+        "error": null
+      },
+      {
+        "source_id": "typenetwork",
+        "status": "success",
+        "total_releases": 0,
+        "new_releases": 0,
+        "duration_seconds": 3.797,
+        "output_dir": "/home/runner/work/NewType/NewType/data/typenetwork/2026-03-18",
+        "error": null
+      },
+      {
+        "source_id": "contemporarytype",
+        "status": "success",
+        "total_releases": 50,
+        "new_releases": 0,
+        "duration_seconds": 3.548,
+        "output_dir": "/home/runner/work/NewType/NewType/data/contemporarytype/2026-03-18",
+        "error": null
+      },
+      {
+        "source_id": "fontstand",
+        "status": "success",
+        "total_releases": 0,
+        "new_releases": 0,
+        "duration_seconds": 23.846,
+        "output_dir": "/home/runner/work/NewType/NewType/data/fontstand/2026-03-18",
+        "error": null
+      }
+    ]
+  }
+}

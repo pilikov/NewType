@@ -6,7 +6,9 @@
   "adobe_fonts": [],
   "typotheque": [],
   "fontfabric": [],
-  "monotype": [],
+  "monotype": [
+    "043fda950ed714d4"
+  ],
   "fontstand": [
     "0d06472c41fb11d7",
     "173eecce709087d7",
