@@ -5387,7 +5387,7 @@
   {
     "source_id": "myfonts",
     "source_name": "MyFonts",
-    "source_url": "https://www.myfonts.com/collections/cirque-de-la-lune-2026-font-dawnland/",
+    "source_url": "https://www.myfonts.com/products/cirque-de-la-lune-burlesque-cirque-de-la-lune-2026-1113130",
     "name": "Cirque De La Lune 2026",
     "styles": [],
     "authors": [
@@ -5419,7 +5419,7 @@
       ],
       "updated_at": "2026-03-07T10:19:16-05:00",
       "product_url": "https://www.myfonts.com/products/cirque-de-la-lune-burlesque-cirque-de-la-lune-2026-1113130",
-      "collection_url": "https://www.myfonts.com/collections/cirque-de-la-lune-2026-font-dawnland/",
+      "collection_url": null,
       "myfonts_debut_date": "2026-02-25",
       "tech_specs_scripts": [
         "Latin"
