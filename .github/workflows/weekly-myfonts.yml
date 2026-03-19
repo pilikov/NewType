@@ -1,0 +1,61 @@
+# Еженедельный полный прогон MyFonts (воскресенье 08:00 UTC).
+# Создаёт period-файл за последние 2 недели, находит ВСЕ debut'ы включая bulk.
+# Результаты пушатся в crawl/daily (как и ежедневный прогон).
+name: Weekly MyFonts full crawl
+
+on:
+  schedule:
+    - cron: "0 8 * * 0"  # Воскресенье 08:00 UTC
+  workflow_dispatch:
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Restore accumulated data from crawl/daily
+        run: |
+          git fetch origin crawl/daily 2>/dev/null || echo "crawl/daily not found yet, skipping"
+          git checkout origin/crawl/daily -- web/data/ web/state/ state/ 2>/dev/null \
+            && echo "Restored web/data + state from crawl/daily" \
+            || echo "No crawl/daily data to restore, starting fresh from main"
+
+      - name: Run MyFonts full crawl (last 2 weeks)
+        run: python -m src.main --sources myfonts --history-weeks 2
+        timeout-minutes: 150
+
+      - name: Mirror data and state into web/ for site
+        run: |
+          mkdir -p web/data
+          for dir in data/*/; do
+            [ -d "$dir" ] || continue
+            src=$(basename "$dir")
+            mkdir -p "web/data/$src"
+            cp -r "$dir"/* "web/data/$src/" 2>/dev/null || true
+          done
+          rm -rf web/state && cp -r state web/state
+          git checkout HEAD -- web/data/_meta/favicons/ 2>/dev/null || true
+          echo "Mirrored data/ → web/data (merge), state/ → web/state"
+
+      - name: Push to branch crawl/daily
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f data/ state/ web/data/ web/state/ 2>/dev/null || true
+          git diff --staged --quiet && echo "No changes" && exit 0
+          git commit -m "chore(data): weekly MyFonts full crawl $(date -u +%Y-%m-%d)"
+          git push --force origin HEAD:crawl/daily
