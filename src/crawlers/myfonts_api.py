@@ -441,6 +441,18 @@ class MyFontsApiCrawler:
                                 tech_specs_scripts,
                                 tech_specs_supported_languages,
                             )
+                    elif enable_debut_enrichment and collection_url is None:
+                        # max_debut_checks exceeded — derive collection URL from handle+vendor
+                        # without network requests, so products still get a usable link.
+                        collection_url = self._derive_collection_url_from_product(product, base_url)
+                        if family_id and collection_url:
+                            family_enrichment_cache[family_id] = (
+                                collection_url,
+                                None,
+                                None,
+                                [],
+                                [],
+                            )
 
                     effective_release_date = debut_date_iso or release_date
                     effective_day = debut_day or published_day
