@@ -441,18 +441,12 @@ class MyFontsApiCrawler:
                                 tech_specs_scripts,
                                 tech_specs_supported_languages,
                             )
-                    elif enable_debut_enrichment and collection_url is None:
-                        # max_debut_checks exceeded — derive collection URL from handle+vendor
-                        # without network requests, so products still get a usable link.
-                        collection_url = self._derive_collection_url_from_product(product, base_url)
-                        if family_id and collection_url:
-                            family_enrichment_cache[family_id] = (
-                                collection_url,
-                                None,
-                                None,
-                                [],
-                                [],
-                            )
+                    # Products beyond max_debut_checks don't get collection_url.
+                    # This is correct: without fetching the product page HTML,
+                    # there's no reliable way to derive the collection URL
+                    # (the derive function fails for variant products).
+                    # These products will be filtered by hasMyfontsFamilyLink() in the UI.
+                    # The weekly full crawl (max_debut_checks=5000) catches most of them.
 
                     effective_release_date = debut_date_iso or release_date
                     effective_day = debut_day or published_day
