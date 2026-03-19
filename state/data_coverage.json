@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T07:32:27.139781Z",
+  "generated_at": "2026-03-19T13:45:31.057371Z",
   "sources": {
     "catalog_snapshot": {
       "source_id": "catalog_snapshot",
@@ -2693,7 +2693,7 @@
       },
       "has_data": true,
       "min_date": "2000-01-01",
-      "max_date": "2026-03-15",
+      "max_date": "2026-03-17",
       "weeks": [
         {
           "week_start": "1999-12-27",
@@ -3209,6 +3209,11 @@
           "week_start": "2026-03-09",
           "week_end": "2026-03-15",
           "label": "2026-03-09..2026-03-15"
+        },
+        {
+          "week_start": "2026-03-16",
+          "week_end": "2026-03-22",
+          "label": "2026-03-16..2026-03-22"
         }
       ]
     },
