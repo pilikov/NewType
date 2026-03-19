@@ -24191,7 +24191,7 @@
   {
     "source_id": "myfonts",
     "source_name": "MyFonts",
-    "source_url": "https://www.myfonts.com/collections/family-time-bundle-font-fat-hamster",
+    "source_url": "https://www.myfonts.com/products/family-time-bundle-package-993097",
     "name": "Family Time Bundle",
     "styles": [],
     "authors": [
@@ -24212,7 +24212,7 @@
       ],
       "updated_at": "2026-03-07T10:10:17-05:00",
       "product_url": "https://www.myfonts.com/products/family-time-bundle-package-993097",
-      "collection_url": "https://www.myfonts.com/collections/family-time-bundle-font-fat-hamster",
+      "collection_url": null,
       "myfonts_debut_date": null,
       "is_package_product": true,
       "is_package_without_metadata": true

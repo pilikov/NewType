@@ -16756,7 +16756,7 @@
   {
     "source_id": "myfonts",
     "source_name": "MyFonts",
-    "source_url": "https://www.myfonts.com/collections/family-time-bundle-font-fat-hamster",
+    "source_url": "https://www.myfonts.com/products/family-time-bundle-package-993097",
     "name": "Family Time Bundle",
     "styles": [],
     "authors": [
@@ -16777,7 +16777,7 @@
       ],
       "updated_at": "2026-03-08T11:07:07-04:00",
       "product_url": "https://www.myfonts.com/products/family-time-bundle-package-993097",
-      "collection_url": "https://www.myfonts.com/collections/family-time-bundle-font-fat-hamster",
+      "collection_url": null,
       "myfonts_debut_date": null,
       "tech_specs_scripts": [],
       "is_package_product": true,
@@ -17092,7 +17092,7 @@
   {
     "source_id": "myfonts",
     "source_name": "MyFonts",
-    "source_url": "https://www.myfonts.com/collections/semi-expanded-font-rastype-studio",
+    "source_url": "https://www.myfonts.com/products/semi-expanded-package-1118408",
     "name": "Semi Expanded",
     "styles": [],
     "authors": [
@@ -17121,7 +17121,7 @@
       ],
       "updated_at": "2026-03-08T11:07:41-04:00",
       "product_url": "https://www.myfonts.com/products/semi-expanded-package-1118408",
-      "collection_url": "https://www.myfonts.com/collections/semi-expanded-font-rastype-studio",
+      "collection_url": null,
       "myfonts_debut_date": null,
       "tech_specs_scripts": [
         "Latin"
@@ -17664,7 +17664,7 @@
   {
     "source_id": "myfonts",
     "source_name": "MyFonts",
-    "source_url": "https://www.myfonts.com/collections/normal-font-rastype-studio",
+    "source_url": "https://www.myfonts.com/products/normal-package-1118407",
     "name": "Normal",
     "styles": [],
     "authors": [
@@ -17693,7 +17693,7 @@
       ],
       "updated_at": "2026-03-08T11:07:41-04:00",
       "product_url": "https://www.myfonts.com/products/normal-package-1118407",
-      "collection_url": "https://www.myfonts.com/collections/normal-font-rastype-studio",
+      "collection_url": null,
       "myfonts_debut_date": null,
       "tech_specs_scripts": [
         "Latin"
@@ -17801,7 +17801,7 @@
   {
     "source_id": "myfonts",
     "source_name": "MyFonts",
-    "source_url": "https://www.myfonts.com/collections/upright-font-skinny-type",
+    "source_url": "https://www.myfonts.com/products/upright-package-1118589",
     "name": "Upright",
     "styles": [],
     "authors": [
@@ -17827,7 +17827,7 @@
       ],
       "updated_at": "2026-03-08T11:07:41-04:00",
       "product_url": "https://www.myfonts.com/products/upright-package-1118589",
-      "collection_url": "https://www.myfonts.com/collections/upright-font-skinny-type",
+      "collection_url": null,
       "myfonts_debut_date": null,
       "tech_specs_scripts": [
         "Latin"
@@ -17963,7 +17963,7 @@
   {
     "source_id": "myfonts",
     "source_name": "MyFonts",
-    "source_url": "https://www.myfonts.com/collections/foliant-serif-font-identity-letters",
+    "source_url": "https://www.myfonts.com/products/foliant-serif-complete-family-package-1118592",
     "name": "Foliant Serif Complete Family",
     "styles": [],
     "authors": [
@@ -17993,7 +17993,7 @@
       ],
       "updated_at": "2026-03-08T11:07:41-04:00",
       "product_url": "https://www.myfonts.com/products/foliant-serif-complete-family-package-1118592",
-      "collection_url": "https://www.myfonts.com/collections/foliant-serif-font-identity-letters",
+      "collection_url": null,
       "myfonts_debut_date": null,
       "tech_specs_scripts": [
         "Latin"
@@ -18266,7 +18266,7 @@
   {
     "source_id": "myfonts",
     "source_name": "MyFonts",
-    "source_url": "https://www.myfonts.com/collections/expanded-font-rastype-studio",
+    "source_url": "https://www.myfonts.com/products/expanded-package-1118409",
     "name": "Expanded",
     "styles": [],
     "authors": [
@@ -18300,7 +18300,7 @@
       ],
       "updated_at": "2026-03-08T11:07:41-04:00",
       "product_url": "https://www.myfonts.com/products/expanded-package-1118409",
-      "collection_url": "https://www.myfonts.com/collections/expanded-font-rastype-studio",
+      "collection_url": null,
       "myfonts_debut_date": null,
       "tech_specs_scripts": [
         "Latin"
@@ -18678,7 +18678,7 @@
   {
     "source_id": "myfonts",
     "source_name": "MyFonts",
-    "source_url": "https://www.myfonts.com/collections/upright-font-skinny-type",
+    "source_url": "https://www.myfonts.com/products/upright-package-1118696",
     "name": "Upright",
     "styles": [],
     "authors": [
@@ -18704,7 +18704,7 @@
       ],
       "updated_at": "2026-03-08T11:07:41-04:00",
       "product_url": "https://www.myfonts.com/products/upright-package-1118696",
-      "collection_url": "https://www.myfonts.com/collections/upright-font-skinny-type",
+      "collection_url": null,
       "myfonts_debut_date": null,
       "tech_specs_scripts": [
         "Latin"
@@ -18972,7 +18972,7 @@
   {
     "source_id": "myfonts",
     "source_name": "MyFonts",
-    "source_url": "https://www.myfonts.com/collections/hard-font-rastype-studio",
+    "source_url": "https://www.myfonts.com/products/hard-package-1118416",
     "name": "Hard",
     "styles": [],
     "authors": [
@@ -19001,7 +19001,7 @@
       ],
       "updated_at": "2026-03-08T11:07:41-04:00",
       "product_url": "https://www.myfonts.com/products/hard-package-1118416",
-      "collection_url": "https://www.myfonts.com/collections/hard-font-rastype-studio",
+      "collection_url": null,
       "myfonts_debut_date": null,
       "tech_specs_scripts": [
         "Latin"
@@ -20054,7 +20054,7 @@
   {
     "source_id": "myfonts",
     "source_name": "MyFonts",
-    "source_url": "https://www.myfonts.com/collections/condensed-font-rastype-studio",
+    "source_url": "https://www.myfonts.com/products/condensed-package-1118405",
     "name": "Condensed",
     "styles": [],
     "authors": [
@@ -20082,7 +20082,7 @@
       ],
       "updated_at": "2026-03-08T11:07:41-04:00",
       "product_url": "https://www.myfonts.com/products/condensed-package-1118405",
-      "collection_url": "https://www.myfonts.com/collections/condensed-font-rastype-studio",
+      "collection_url": null,
       "myfonts_debut_date": null,
       "tech_specs_scripts": [
         "Latin"
@@ -20190,7 +20190,7 @@
   {
     "source_id": "myfonts",
     "source_name": "MyFonts",
-    "source_url": "https://www.myfonts.com/collections/semi-condensed-font-rastype-studio",
+    "source_url": "https://www.myfonts.com/products/semi-condensed-package-1118406",
     "name": "Semi Condensed",
     "styles": [],
     "authors": [
@@ -20219,7 +20219,7 @@
       ],
       "updated_at": "2026-03-08T11:07:41-04:00",
       "product_url": "https://www.myfonts.com/products/semi-condensed-package-1118406",
-      "collection_url": "https://www.myfonts.com/collections/semi-condensed-font-rastype-studio",
+      "collection_url": null,
       "myfonts_debut_date": null,
       "tech_specs_scripts": [
         "Latin"
@@ -20327,7 +20327,7 @@
   {
     "source_id": "myfonts",
     "source_name": "MyFonts",
-    "source_url": "https://www.myfonts.com/collections/slanted-font-skinny-type",
+    "source_url": "https://www.myfonts.com/products/slanted-package-1118701",
     "name": "Slanted",
     "styles": [],
     "authors": [
@@ -20353,7 +20353,7 @@
       ],
       "updated_at": "2026-03-08T11:07:41-04:00",
       "product_url": "https://www.myfonts.com/products/slanted-package-1118701",
-      "collection_url": "https://www.myfonts.com/collections/slanted-font-skinny-type",
+      "collection_url": null,
       "myfonts_debut_date": null,
       "tech_specs_scripts": [
         "Latin"
@@ -20489,7 +20489,7 @@
   {
     "source_id": "myfonts",
     "source_name": "MyFonts",
-    "source_url": "https://www.myfonts.com/collections/slanted-font-skinny-type",
+    "source_url": "https://www.myfonts.com/products/slanted-package-1118590",
     "name": "Slanted",
     "styles": [],
     "authors": [
@@ -20515,7 +20515,7 @@
       ],
       "updated_at": "2026-03-08T11:07:41-04:00",
       "product_url": "https://www.myfonts.com/products/slanted-package-1118590",
-      "collection_url": "https://www.myfonts.com/collections/slanted-font-skinny-type",
+      "collection_url": null,
       "myfonts_debut_date": null,
       "tech_specs_scripts": [
         "Latin"
@@ -20813,7 +20813,7 @@
   {
     "source_id": "myfonts",
     "source_name": "MyFonts",
-    "source_url": "https://www.myfonts.com/collections/soft-font-rastype-studio",
+    "source_url": "https://www.myfonts.com/products/soft-package-1118417",
     "name": "Soft",
     "styles": [],
     "authors": [
@@ -20842,7 +20842,7 @@
       ],
       "updated_at": "2026-03-08T11:07:41-04:00",
       "product_url": "https://www.myfonts.com/products/soft-package-1118417",
-      "collection_url": "https://www.myfonts.com/collections/soft-font-rastype-studio",
+      "collection_url": null,
       "myfonts_debut_date": null,
       "tech_specs_scripts": [
         "Latin"
@@ -59302,7 +59302,7 @@
   {
     "source_id": "myfonts",
     "source_name": "MyFonts",
-    "source_url": "https://www.myfonts.com/collections/sackem-pb-complete-bundle-static-and-variable-font-pink-broccoli",
+    "source_url": "https://www.myfonts.com/products/sackem-pb-complete-bundle-static-and-variable-package-1117729",
     "name": "Sackem PB Complete Bundle Static And Variable",
     "styles": [],
     "authors": [
@@ -59323,7 +59323,7 @@
       ],
       "updated_at": "2026-03-08T11:07:07-04:00",
       "product_url": "https://www.myfonts.com/products/sackem-pb-complete-bundle-static-and-variable-package-1117729",
-      "collection_url": "https://www.myfonts.com/collections/sackem-pb-complete-bundle-static-and-variable-font-pink-broccoli",
+      "collection_url": null,
       "myfonts_debut_date": null,
       "tech_specs_scripts": [],
       "is_package_product": true,

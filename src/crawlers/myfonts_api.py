@@ -363,6 +363,7 @@ class MyFontsApiCrawler:
                     promo_image_url = None
                     tech_specs_scripts: list[str] = []
                     tech_specs_supported_languages: list[str] = []
+                    enriched_collection_name: str | None = None
                     debut_day = None
                     family_id = self._extract_family_id(product)
                     if family_id and family_id in family_enrichment_cache:
@@ -372,10 +373,13 @@ class MyFontsApiCrawler:
                             promo_image_url,
                             tech_specs_scripts,
                             tech_specs_supported_languages,
+                            cached_collection_name,
                         ) = family_enrichment_cache[family_id]
                         debut_day = parse_ymd(debut_date_iso)
                         if promo_image_url:
                             image_url = promo_image_url
+                        if cached_collection_name:
+                            name = cached_collection_name
                         scripts = self._merge_script_labels(scripts, tech_specs_scripts)
                     elif enable_debut_enrichment and (
                         debut_checks_done < max_debut_checks
@@ -392,6 +396,7 @@ class MyFontsApiCrawler:
                             tech_specs_scripts,
                             tech_specs_supported_languages,
                             tried_collection_url,
+                            enriched_collection_name,
                         ) = self._extract_debut_from_product_page(
                             session=session,
                             product_url=source_url,
@@ -417,6 +422,7 @@ class MyFontsApiCrawler:
                                     promo_image_url,
                                     tech_specs_scripts,
                                     tech_specs_supported_languages,
+                                    derive_coll_name,
                                 ) = self._extract_debut_from_collection_url(
                                     session=session,
                                     collection_url=derived_url,
@@ -426,6 +432,8 @@ class MyFontsApiCrawler:
                                     fetch_tech_specs_scripts=allow_tech_specs_fetch,
                                 )
                                 collection_url = coll_url
+                                if derive_coll_name:
+                                    enriched_collection_name = derive_coll_name
                         debut_checks_done += 1
                         if allow_tech_specs_fetch:
                             tech_specs_checks_done += 1
@@ -433,6 +441,9 @@ class MyFontsApiCrawler:
                         if promo_image_url:
                             image_url = promo_image_url
                         scripts = self._merge_script_labels(scripts, tech_specs_scripts)
+                        # Use collection name (from <h1>) as release name when available
+                        if enriched_collection_name:
+                            name = enriched_collection_name
                         if family_id:
                             family_enrichment_cache[family_id] = (
                                 collection_url,
@@ -440,6 +451,7 @@ class MyFontsApiCrawler:
                                 promo_image_url,
                                 tech_specs_scripts,
                                 tech_specs_supported_languages,
+                                enriched_collection_name,
                             )
                     # Products beyond max_debut_checks don't get collection_url.
                     # This is correct: without fetching the product page HTML,
@@ -477,6 +489,8 @@ class MyFontsApiCrawler:
                             "product_url": source_url,
                             "collection_url": collection_url,
                             "is_package_product": self._is_package_product(product),
+                            "product_title": (product.get("title") or "").strip(),
+                            "collection_name": enriched_collection_name,
                             "myfonts_debut_date": debut_date_iso,
                             "tech_specs_scripts": tech_specs_scripts,
                             "tech_specs_supported_languages": tech_specs_supported_languages,
@@ -634,7 +648,8 @@ class MyFontsApiCrawler:
         timeout: int,
         detail_request_delay: float,
         fetch_tech_specs_scripts: bool = False,
-    ) -> tuple[str | None, str | None, str | None, list[str], list[str], str | None]:
+    ) -> tuple[str | None, str | None, str | None, list[str], list[str], str | None, str | None]:
+        """Returns (collection_url, debut_iso, promo_image_url, tech_specs_scripts, tech_specs_supported_languages, tried_url, collection_name)."""
         try:
             page = self._get_with_backoff(
                 session=session,
@@ -643,9 +658,9 @@ class MyFontsApiCrawler:
                 delay_seconds=detail_request_delay,
             )
             if page is None:
-                return None, None, None, [], [], None
+                return None, None, None, [], [], None, None
         except requests.RequestException:
-            return None, None, None, [], [], None
+            return None, None, None, [], [], None, None
 
         soup = BeautifulSoup(page.text, "html.parser")
 
@@ -664,9 +679,9 @@ class MyFontsApiCrawler:
             break
 
         if not collection_url:
-            return None, None, None, [], [], None
+            return None, None, None, [], [], None, None
 
-        collection_url_out, debut_iso, promo_img, scripts_list, langs = self._extract_debut_from_collection_url(
+        collection_url_out, debut_iso, promo_img, scripts_list, langs, coll_name = self._extract_debut_from_collection_url(
             session=session,
             collection_url=collection_url,
             base_url=base_url,
@@ -680,7 +695,7 @@ class MyFontsApiCrawler:
             out_url = collection_url_out
         # tried_url: при неудаче передаём, чтобы не перезапрашивать тот же URL в derive
         tried_url = collection_url if out_url is None else None
-        return out_url, debut_iso, promo_img, scripts_list, langs, tried_url
+        return out_url, debut_iso, promo_img, scripts_list, langs, tried_url, coll_name
 
     def _extract_debut_from_collection_url(
         self,
@@ -690,8 +705,9 @@ class MyFontsApiCrawler:
         timeout: int,
         detail_request_delay: float,
         fetch_tech_specs_scripts: bool = False,
-    ) -> tuple[str | None, str | None, str | None, list[str], list[str]]:
-        """Fetch collection page and extract debut date, image, scripts. Returns (collection_url, debut_iso, promo_image_url, tech_specs_scripts, tech_specs_supported_languages)."""
+    ) -> tuple[str | None, str | None, str | None, list[str], list[str], str | None]:
+        """Fetch collection page and extract debut date, image, scripts, collection name.
+        Returns (collection_url, debut_iso, promo_image_url, tech_specs_scripts, tech_specs_supported_languages, collection_name)."""
         try:
             collection_page = self._get_with_backoff(
                 session=session,
@@ -700,12 +716,17 @@ class MyFontsApiCrawler:
                 delay_seconds=detail_request_delay,
             )
             if collection_page is None:
-                return None, None, None, [], []
+                return None, None, None, [], [], None
         except requests.RequestException:
-            return None, None, None, [], []
+            return None, None, None, [], [], None
 
         collection_html = collection_page.text
         collection_soup = BeautifulSoup(collection_html, "html.parser")
+
+        # Extract collection (family) name from <h1>
+        h1_tag = collection_soup.find("h1")
+        collection_name = h1_tag.get_text(strip=True) if h1_tag else None
+
         promo_image_url = self._extract_promo_image_url(collection_soup, base_url)
         tech_specs_scripts = self._extract_scripts_from_text(collection_html)
         tech_specs_supported_languages: list[str] = []
@@ -738,12 +759,12 @@ class MyFontsApiCrawler:
                 promo_image_url = retry_image
         if not match:
             # Нет MyFonts debut — возможно foundry или битая страница
-            return (None, None, None, [], []) if not promo_image_url else (
-                collection_url, None, promo_image_url, tech_specs_scripts, tech_specs_supported_languages
+            return (None, None, None, [], [], None) if not promo_image_url else (
+                collection_url, None, promo_image_url, tech_specs_scripts, tech_specs_supported_languages, collection_name
             )
 
         parsed = parse_mon_dd_yyyy(match.group(1))
-        return collection_url, parsed.isoformat() if parsed else None, promo_image_url, tech_specs_scripts, tech_specs_supported_languages
+        return collection_url, parsed.isoformat() if parsed else None, promo_image_url, tech_specs_scripts, tech_specs_supported_languages, collection_name
 
     def _extract_scripts_from_tech_specs_tab(
         self,
