@@ -2,10 +2,25 @@
   {
     "source_id": "type_today",
     "source_name": "type.today",
-    "title": "Juneau in use: Whispers of the Unheard",
+    "title": "Новый шрифт: Nickel Gothic",
+    "url": "https://type.today/en/journal/nickel-gothic",
+    "published_at": "2026-03-19",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1264/preview_420_preview_image_ru-cSN8gSLSwFvy0BRoZQdl5DEcNT7XlewCew.png",
+    "discovered_at": "2026-03-20T08:29:25.707495+00:00",
+    "raw": {
+      "slug": "nickel-gothic",
+      "post_date": "2026-03-19"
+    },
+    "news_id": "cfe665faeaf707d2"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Juneau в работе: Whispers of the Unheard",
     "url": "https://type.today/en/journal/whispers",
     "published_at": "2026-03-17",
-    "discovered_at": "2026-03-18T07:32:29.082027+00:00",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1263/preview_420_preview_image_ru-9b3kIwXfAxjZ0EWfDajCbQHDutwYWnvxxw.png",
+    "discovered_at": "2026-03-20T08:29:25.707463+00:00",
     "raw": {
       "slug": "whispers",
       "post_date": "2026-03-17"
@@ -15,14 +30,197 @@
   {
     "source_id": "type_today",
     "source_name": "type.today",
-    "title": "New typeface: Nickel Gothic",
-    "url": "https://type.today/en/journal/nickel-gothic",
-    "published_at": "2026-03-19",
-    "discovered_at": "2026-03-19T18:53:25.321525+00:00",
+    "title": "Новый шрифт: Nekst Rounded",
+    "url": "https://type.today/en/journal/nekst-rounded",
+    "published_at": "2026-03-12",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1262/preview_420_preview_image_ru-daCNq5mdxREQCFLLsXXmdO5vTwrijtSacQ.png",
+    "discovered_at": "2026-03-20T08:29:25.574719+00:00",
     "raw": {
-      "slug": "nickel-gothic",
-      "post_date": "2026-03-19"
+      "slug": "nekst-rounded",
+      "post_date": "2026-03-12"
     },
-    "news_id": "cfe665faeaf707d2"
+    "news_id": "64a20299c5051d41"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Rene в работе: Beyond",
+    "url": "https://type.today/en/journal/beyond",
+    "published_at": "2026-03-10",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1261/preview_420_preview_image_ru-idNCkmw-rWTmI4UaTtJEO6M271Ax1ZKj9w.png",
+    "discovered_at": "2026-03-20T08:29:25.574703+00:00",
+    "raw": {
+      "slug": "beyond",
+      "post_date": "2026-03-10"
+    },
+    "news_id": "b7a7e39869728d7b"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Дайджест type.today: Февраль 2026",
+    "url": "https://type.today/en/journal/feb26",
+    "published_at": "2026-03-06",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1260/preview_420_preview_image_ru-RC-lW2Zg7lfFLWYKcldIjRmFnXkIetIRvw.png",
+    "discovered_at": "2026-03-20T08:29:25.574687+00:00",
+    "raw": {
+      "slug": "feb26",
+      "post_date": "2026-03-06"
+    },
+    "news_id": "c028cfe4c06e4273"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Новый шрифт: Gregory Text",
+    "url": "https://type.today/en/journal/gregory-text",
+    "published_at": "2026-03-04",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1259/preview_420_preview_image_ru-rFjGbYQIgJLbX1163GqqOQ9308rWHPdUMw.png",
+    "discovered_at": "2026-03-20T08:29:25.574671+00:00",
+    "raw": {
+      "slug": "gregory-text",
+      "post_date": "2026-03-04"
+    },
+    "news_id": "43718e0768846d5c"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Морган Ванторре: «Моя мама видит, когда в шрифте проблемы с кернингом»",
+    "url": "https://type.today/en/journal/morgane-vantorre",
+    "published_at": "2026-02-26",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1258/preview_420_preview_image_ru-oxR_Thj8BvPQGBUlmUYpF03ZY6rWPCYA6w.png",
+    "discovered_at": "2026-03-20T08:29:25.574654+00:00",
+    "raw": {
+      "slug": "morgane-vantorre",
+      "post_date": "2026-02-26"
+    },
+    "news_id": "b62009e64e4a18c2"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Oceanic Text и CSTM Xprmntl 02 в работе: Москва утопическая",
+    "url": "https://type.today/en/journal/moscow_utopia",
+    "published_at": "2026-02-25",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1257/preview_420_preview_image_ru-5dNLJIXz1T8VIrU4fny_glVP4dKlY9kWXQ.png",
+    "discovered_at": "2026-03-20T08:29:25.574638+00:00",
+    "raw": {
+      "slug": "moscow_utopia",
+      "post_date": "2026-02-25"
+    },
+    "news_id": "803d4cafbc32f258"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Affinity vs Illustrator: типографика",
+    "url": "https://type.today/en/journal/affinity-vs-illustrator",
+    "published_at": "2026-02-19",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1256/preview_420_preview_image_ru-1FypT3T5J8kZ-3yj8-gQ3ASx_Ob6QiTuHQ.png",
+    "discovered_at": "2026-03-20T08:29:25.574621+00:00",
+    "raw": {
+      "slug": "affinity-vs-illustrator",
+      "post_date": "2026-02-19"
+    },
+    "news_id": "195a40db829096e3"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Halvar в работе: Ортофис",
+    "url": "https://type.today/en/journal/orthoffice",
+    "published_at": "2026-02-17",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1255/preview_420_preview_image_ru-pv8kVeZ3ASiqzjmTlZ8l53R2BuQJlNYLOg.jpg",
+    "discovered_at": "2026-03-20T08:29:25.574604+00:00",
+    "raw": {
+      "slug": "orthoffice",
+      "post_date": "2026-02-17"
+    },
+    "news_id": "edec948a1de14ec5"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Fit в работе: Darlene",
+    "url": "https://type.today/en/journal/darlene",
+    "published_at": "2026-02-10",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1254/preview_420_preview_image_ru-Isz2NE-npePeFYapeyPhdHTkhaGEtkKTXg.png",
+    "discovered_at": "2026-03-20T08:29:25.574587+00:00",
+    "raw": {
+      "slug": "darlene",
+      "post_date": "2026-02-10"
+    },
+    "news_id": "45d265a4088810cf"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Дайджест type.today: Январь 2026",
+    "url": "https://type.today/en/journal/jan26",
+    "published_at": "2026-02-06",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1253/preview_420_preview_image_ru-gMTjklfdoIyE6G8S_BW_LnHLhB4mdzjaew.png",
+    "discovered_at": "2026-03-20T08:29:25.574569+00:00",
+    "raw": {
+      "slug": "jan26",
+      "post_date": "2026-02-06"
+    },
+    "news_id": "417a815b1da7c28e"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Старославянская типографика сегодня: «Никто не ожидает, что шрифт будет способен воспроизвести все детали рукописи»",
+    "url": "https://type.today/en/journal/old-church-slavonic-today",
+    "published_at": "2026-02-03",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1252/preview_420_preview_image_ru-wbpKeTIHtWLi61tckV0Y6PVz3JehKXUAZA.png",
+    "discovered_at": "2026-03-20T08:29:25.574552+00:00",
+    "raw": {
+      "slug": "old-church-slavonic-today",
+      "post_date": "2026-02-03"
+    },
+    "news_id": "ace8fc3ea07aad22"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Новый шрифт: Zhivov",
+    "url": "https://type.today/en/journal/zhivov",
+    "published_at": "2026-01-29",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1251/preview_420_preview_image_ru-MVSmMs6gTvacx2k4Te-qiEI3JOAe4K60lA.png",
+    "discovered_at": "2026-03-20T08:29:25.574534+00:00",
+    "raw": {
+      "slug": "zhivov",
+      "post_date": "2026-01-29"
+    },
+    "news_id": "3ad5abb72e9258ae"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Oceanic Text в работе: «До. Прикосновение. После»",
+    "url": "https://type.today/en/journal/touch-after",
+    "published_at": "2026-01-27",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1250/preview_420_preview_image_ru-_bBgPu41r44-HwI6w7slj9yZcH6lvoXOsw.png",
+    "discovered_at": "2026-03-20T08:29:25.574515+00:00",
+    "raw": {
+      "slug": "touch-after",
+      "post_date": "2026-01-27"
+    },
+    "news_id": "f0353027e7d43476"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Factor A в работе: Verd Vicreu",
+    "url": "https://type.today/en/journal/verd-vicreu",
+    "published_at": "2026-01-19",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1249/preview_420_preview_image_ru-xemOyGhTNmTTqL7SmaOcwb_DOXKAITdThg.png",
+    "discovered_at": "2026-03-20T08:29:25.574483+00:00",
+    "raw": {
+      "slug": "verd-vicreu",
+      "post_date": "2026-01-19"
+    },
+    "news_id": "4e977f577a7e51ba"
   }
 ]
