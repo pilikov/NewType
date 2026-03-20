@@ -245,9 +245,9 @@ export default async function NewsPage() {
                     href={item.url}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="flex items-start gap-4 rounded-xl bg-white p-5 shadow-sm transition-shadow hover:shadow-md"
+                    className="flex items-stretch overflow-hidden rounded-xl bg-white shadow-sm transition-shadow hover:shadow-md"
                   >
-                    <div className="min-w-0 flex-1">
+                    <div className="min-w-0 flex-1 p-5">
                       <h3 className="text-lg font-semibold text-slate-900">
                         {item.title}
                       </h3>
@@ -269,9 +269,8 @@ export default async function NewsPage() {
                       <img
                         src={item.image_url}
                         alt=""
-                        className="hidden h-24 w-40 shrink-0 rounded-lg object-cover sm:block"
+                        className="hidden w-40 shrink-0 object-cover sm:block"
                         width={160}
-                        height={96}
                         loading="lazy"
                         referrerPolicy="no-referrer"
                       />
