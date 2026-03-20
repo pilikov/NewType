@@ -211,7 +211,7 @@ export default async function NewsPage() {
             />
           </Link>
         </div>
-        <nav className="mt-4 flex w-full items-center justify-center gap-5">
+        <nav className="mt-[3em] flex w-full items-center justify-center gap-5">
           <Link
             href="/"
             className="inline-flex items-center gap-1.5 text-base font-medium text-slate-500 hover:text-slate-800"
