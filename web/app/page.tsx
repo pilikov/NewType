@@ -2,6 +2,7 @@ import { promises as fs } from "node:fs";
 import path from "node:path";
 
 import Link from "next/link";
+import { Package, Newspaper } from "lucide-react";
 
 import { ReleasesByWeek, type WeekGroup } from "@/components/releases-by-week";
 import type { ReleaseItem } from "@/components/release-card";
@@ -615,21 +616,19 @@ export default async function HomePage() {
             decoding="async"
           />
         </div>
-        {/* Иконки источников по центру под логотипом */}
-        <div className="mt-4 flex w-full justify-center px-4 sm:px-6 lg:px-8">
-          <SourceLinks />
-        </div>
-        <nav className="mt-4 flex w-full justify-center gap-4">
+        <nav className="mt-4 flex w-full items-center justify-center gap-5">
           <Link
             href="/"
-            className="text-base font-semibold text-slate-900"
+            className="inline-flex items-center gap-1.5 text-base font-semibold text-slate-900"
           >
+            <Package className="h-4 w-4" />
             Releases
           </Link>
           <Link
             href="/news"
-            className="text-base font-medium text-slate-500 hover:text-slate-800"
+            className="inline-flex items-center gap-1.5 text-base font-medium text-slate-500 hover:text-slate-800"
           >
+            <Newspaper className="h-4 w-4" />
             News
           </Link>
         </nav>
@@ -638,6 +637,12 @@ export default async function HomePage() {
       <div className="px-4 pb-10 pt-0 sm:px-6 lg:px-8">
         <ReleasesByWeek weekGroups={weekGroups} />
       </div>
+
+      <footer className="border-t border-slate-200 px-4 py-8 sm:px-6 lg:px-8">
+        <div className="flex w-full justify-center">
+          <SourceLinks />
+        </div>
+      </footer>
     </main>
   );
 }
