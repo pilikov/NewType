@@ -291,7 +291,7 @@ async function loadSourceReleases(sourceId: string): Promise<ReleaseItem[]> {
   const latestDay = await findLatestDayDir(sourceId);
   const chunks: ReleaseItem[][] = [];
 
-  if (latestDay) {
+  if (latestDay && (sourceId === "fontstand" || sourceId === "myfonts")) {
     const dayBaseDir = path.join(sourceDir, latestDay);
     const dayPath = path.join(dayBaseDir, "all_releases.json");
     const dayReleases = await readJsonArray<ReleaseItem>(dayPath);
@@ -345,16 +345,51 @@ async function loadSourceReleases(sourceId: string): Promise<ReleaseItem[]> {
     if (merged.length > 0) return merged;
   }
 
-  if (latestPeriod) {
-    const periodBaseDir = path.join(sourceDir, "periods", latestPeriod);
-    const periodPath = path.join(periodBaseDir, "all_releases.json");
-    const periodReleases = await readJsonArray<ReleaseItem>(periodPath);
-    const periodChunk = await withLocalImages(
-      periodBaseDir,
-      path.join(sourceId, "periods", latestPeriod),
-      periodReleases
-    );
-    chunks.push(periodChunk);
+  // Generic sources (futurefonts, etc.): load ALL periods + ALL daily dirs after latest period end.
+  {
+    const allPeriodDirs = await findAllPeriodDirs(sourceId);
+    let latestPeriodEnd = "";
+    const seenIds = new Set<string>();
+
+    for (const periodName of allPeriodDirs) {
+      const endDate = periodName.split("_")[1] ?? "";
+      if (endDate > latestPeriodEnd) latestPeriodEnd = endDate;
+      const periodBaseDir = path.join(sourceDir, "periods", periodName);
+      const periodPath = path.join(periodBaseDir, "all_releases.json");
+      const periodReleases = await readJsonArray<ReleaseItem>(periodPath);
+      if (periodReleases.length === 0) continue;
+      const periodChunk = await withLocalImages(
+        periodBaseDir,
+        path.join(sourceId, "periods", periodName),
+        periodReleases
+      );
+      for (const r of periodChunk) {
+        if (r.release_id) seenIds.add(r.release_id);
+      }
+      chunks.push(periodChunk);
+    }
+
+    // Load ALL daily dirs (not just latest) — add releases not already in periods
+    try {
+      const entries = await fs.readdir(sourceDir, { withFileTypes: true });
+      const dayDirs = entries
+        .filter((entry) => entry.isDirectory() && /^\d{4}-\d{2}-\d{2}$/.test(entry.name))
+        .map((entry) => entry.name)
+        .sort((a, b) => b.localeCompare(a));
+
+      for (const day of dayDirs) {
+        const dayBaseDir = path.join(sourceDir, day);
+        const dayPath = path.join(dayBaseDir, "all_releases.json");
+        const dayReleases = await readJsonArray<ReleaseItem>(dayPath);
+        if (dayReleases.length === 0) continue;
+        const dayChunk = await withLocalImages(dayBaseDir, path.join(sourceId, day), dayReleases);
+        const novel = dayChunk.filter((r) => !seenIds.has(r.release_id ?? ""));
+        for (const r of novel) {
+          if (r.release_id) seenIds.add(r.release_id);
+        }
+        if (novel.length > 0) chunks.push(novel);
+      }
+    } catch { /* no daily dirs */ }
   }
 
   if (chunks.length > 0) {
