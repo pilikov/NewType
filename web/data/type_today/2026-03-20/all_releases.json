@@ -1,0 +1,53 @@
+[
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "source_url": "https://type.today/ru/nickel-gothic",
+    "name": "Nickel Gothic",
+    "styles": [
+      "Compressed",
+      "Compressed Oblique",
+      "Compressed Backslant",
+      "Extra Condensed",
+      "Extra Condensed Oblique",
+      "Extra Condensed Backslant",
+      "Condensed",
+      "Condensed Oblique",
+      "Condensed Backslant",
+      "Narrow",
+      "Narrow Oblique",
+      "Narrow Backslant",
+      "Regular",
+      "Oblique",
+      "Backslant",
+      "Semi Wide",
+      "Semi Wide Oblique",
+      "Semi Wide Backslant",
+      "Wide",
+      "Wide Oblique",
+      "Wide Backslant",
+      "Variable"
+    ],
+    "authors": [
+      "Дэвид Джонатан Росс"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-19",
+    "image_url": "https://cdn-gc.type.today/storage/font/2/283/share_image_ru-K__H3RSLrCWMKKbfxrf5LcJe-3OhU4h2PQ.jpg",
+    "woff_url": "https://cdn-gc.type.today/storage/font_style/3/6/3618/public_file_without_encoding-HwWnhAmvLt1S4nuGoSkiZ96iCV-UQgnXng/NickelGothicLCG-Compressed-Web.ttf.subset.woff",
+    "specimen_pdf_url": "https://cdn-gc.type.today/storage/font/2/283/specimen-p2FtDUXH7cHYOyBuvSaHnjUdAR8eHDvGWQ/tt_Nickel.pdf",
+    "discovered_at": "2026-03-20T07:28:20.060202+00:00",
+    "raw": {
+      "journal_post_url": "https://type.today/ru/journal/nickel-gothic",
+      "journal_post_title": "Новый шрифт: Nickel Gothic",
+      "journal_post_date": "2026-03-19",
+      "journal_post_slug": "nickel-gothic",
+      "journal_link_url": "https://type.today/ru/nickel-gothic"
+    },
+    "release_id": "d319bc868dc4c816"
+  }
+]

@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-03-19T07:30:19.785006+00:00",
+  "generated_at": "2026-03-20T07:28:46.977475+00:00",
   "source_id": "type_today",
-  "count": 0,
-  "items": {}
+  "count": 1,
+  "items": {
+    "d319bc868dc4c816": {
+      "slug": "",
+      "name": "Nickel Gothic",
+      "source_url": "https://type.today/ru/nickel-gothic",
+      "fingerprint": "93c5ebc0926b7fd7dc1c7760"
+    }
+  }
 }
