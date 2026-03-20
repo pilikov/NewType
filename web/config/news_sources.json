@@ -170,6 +170,33 @@
         "max_items": 50,
         "fetch_dates_for": 50
       }
+    },
+    {
+      "id": "letterformarchive",
+      "name": "Letterform Archive",
+      "enabled": true,
+      "base_url": "https://letterformarchive.org",
+      "meta": { "favicon_url": "https://letterformarchive.org/wp-content/uploads/2022/03/logo-icon.svg" },
+      "news_url": "https://letterformarchive.org/news",
+      "crawl": {
+        "mode": "letterformarchive_news",
+        "per_page": 100,
+        "max_pages": 5
+      }
+    },
+    {
+      "id": "ilovetypography",
+      "name": "I Love Typography",
+      "enabled": true,
+      "base_url": "https://ilovetypography.com",
+      "meta": { "favicon_url": "https://ilovetypography.com/NEW_BLOG/wp-content/uploads/2025/08/Vector.svg" },
+      "news_url": "https://ilovetypography.com/contents",
+      "crawl": {
+        "mode": "ilovetypography_news",
+        "rss_path": "/feed/",
+        "max_pages": 100,
+        "lookback_days": 60
+      }
     }
   ]
 }
