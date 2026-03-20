@@ -54,7 +54,7 @@ class TypeTodayNewsCrawler:
                     params={
                         "page[size]": page_size,
                         "page[number]": page,
-                        "fields[posts]": "slug,title,date",
+                        "fields[posts]": "slug,title,date,preview_image",
                     },
                     timeout=timeout,
                 )
@@ -84,6 +84,16 @@ class TypeTodayNewsCrawler:
                 if post_day > max_date:
                     continue
 
+                # preview_image has nested sizes; prefer 420px for thumbnails.
+                preview = attrs.get("preview_image") or {}
+                image_url = (
+                    (preview.get("preview_420") or {}).get("url")
+                    or (preview.get("preview_320") or {}).get("url")
+                    or (preview.get("preview") or {}).get("url")
+                    or preview.get("url")
+                    or None
+                )
+
                 post_url = urljoin(base_url, f"{journal_path}/{slug}")
                 items.append(
                     FontNewsItem(
@@ -92,6 +102,7 @@ class TypeTodayNewsCrawler:
                         title=title,
                         url=post_url,
                         published_at=post_date,
+                        image_url=image_url,
                         raw={"slug": slug, "post_date": post_date},
                     )
                 )

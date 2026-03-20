@@ -183,6 +183,7 @@ class MonotypeNewsCrawler:
                 continue
 
             published_at = _extract_datetime(row)
+            image_url = _extract_image(row, base_url)
 
             # Derive category from URL path, e.g. "press-release".
             category = ""
@@ -198,6 +199,7 @@ class MonotypeNewsCrawler:
                     title=title,
                     url=full_url,
                     published_at=published_at,
+                    image_url=image_url,
                     raw={"category": category} if category else {},
                 )
             )
@@ -226,4 +228,14 @@ def _extract_datetime(row: Any) -> str | None:
                     return datetime.strptime(text, fmt).strftime("%Y-%m-%d")
                 except ValueError:
                     continue
+    return None
+
+
+def _extract_image(row: Any, base_url: str) -> str | None:
+    """Extract the first <img src> from a news card."""
+    img = row.find("img", src=True)
+    if img:
+        src = img.get("src", "").strip()
+        if src:
+            return urljoin(base_url, src)
     return None
