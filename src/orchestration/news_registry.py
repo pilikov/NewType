@@ -45,6 +45,7 @@ def build_news_crawler_registry() -> NewsCrawlerRegistry:
     from src.crawlers.news.letterformarchive_news import LetterformArchiveNewsCrawler
     from src.crawlers.news.ilovetypography_news import ILoveTypographyNewsCrawler
     from src.crawlers.news.printmag_news import PrintMagNewsCrawler
+    from src.crawlers.news.itsnicethat_news import ItsNiceThatNewsCrawler
 
     registry = NewsCrawlerRegistry()
     registry.register("type_today_news", TypeTodayNewsCrawler)
@@ -64,4 +65,5 @@ def build_news_crawler_registry() -> NewsCrawlerRegistry:
     registry.register("letterformarchive_news", LetterformArchiveNewsCrawler)
     registry.register("ilovetypography_news", ILoveTypographyNewsCrawler)
     registry.register("printmag_news", PrintMagNewsCrawler)
+    registry.register("itsnicethat_news", ItsNiceThatNewsCrawler)
     return registry
