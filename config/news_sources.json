@@ -211,6 +211,19 @@
         "max_pages": 10,
         "categories": "40"
       }
+    },
+    {
+      "id": "itsnicethat",
+      "name": "It's Nice That",
+      "enabled": true,
+      "base_url": "https://www.itsnicethat.com",
+      "meta": { "favicon_url": "https://www.itsnicethat.com/favicon-32x32.png" },
+      "news_url": "https://www.itsnicethat.com/media/typography",
+      "crawl": {
+        "mode": "itsnicethat_news",
+        "tag": "Typography",
+        "max_pages": 50
+      }
     }
   ]
 }
