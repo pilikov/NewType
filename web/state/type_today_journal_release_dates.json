@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T07:30:19.774892+00:00",
+  "generated_at": "2026-03-20T07:28:24.534330+00:00",
   "journal_url": "https://type.today/ru/journal",
   "posts_api_url": "https://type.today/api/v1/posts",
   "processed_posts": {
@@ -4488,6 +4488,13 @@
         "fontsandshoes"
       ],
       "updated_at": "2026-03-12T07:26:38.084543+00:00"
+    },
+    "nickel-gothic": {
+      "font_url": "https://type.today/ru/nickel-gothic",
+      "journal_post_slugs": [
+        "nickel-gothic"
+      ],
+      "updated_at": "2026-03-20T07:28:24.534288+00:00"
     }
   }
 }

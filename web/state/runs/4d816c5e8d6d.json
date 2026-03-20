@@ -1,0 +1,69 @@
+{
+  "context": {
+    "run_id": "4d816c5e8d6d",
+    "started_at": "2026-03-20T07:06:50.841736+00:00",
+    "source_filter": [],
+    "timeout_seconds": 20
+  },
+  "summary": {
+    "run_id": "4d816c5e8d6d",
+    "started_at": "2026-03-20T07:06:50.841736+00:00",
+    "finished_at": "2026-03-20T07:29:17.296082Z",
+    "sources": [
+      {
+        "source_id": "myfonts",
+        "status": "success",
+        "total_releases": 2698,
+        "new_releases": 14,
+        "duration_seconds": 1283.863,
+        "output_dir": "/home/runner/work/NewType/NewType/data/myfonts/2026-03-20",
+        "error": null
+      },
+      {
+        "source_id": "type_today",
+        "status": "success",
+        "total_releases": 1,
+        "new_releases": 1,
+        "duration_seconds": 32.257,
+        "output_dir": "/home/runner/work/NewType/NewType/data/type_today/2026-03-20",
+        "error": null
+      },
+      {
+        "source_id": "futurefonts",
+        "status": "success",
+        "total_releases": 0,
+        "new_releases": 0,
+        "duration_seconds": 1.119,
+        "output_dir": "/home/runner/work/NewType/NewType/data/futurefonts/2026-03-20",
+        "error": null
+      },
+      {
+        "source_id": "typenetwork",
+        "status": "success",
+        "total_releases": 0,
+        "new_releases": 0,
+        "duration_seconds": 3.985,
+        "output_dir": "/home/runner/work/NewType/NewType/data/typenetwork/2026-03-20",
+        "error": null
+      },
+      {
+        "source_id": "contemporarytype",
+        "status": "success",
+        "total_releases": 50,
+        "new_releases": 0,
+        "duration_seconds": 4.023,
+        "output_dir": "/home/runner/work/NewType/NewType/data/contemporarytype/2026-03-20",
+        "error": null
+      },
+      {
+        "source_id": "fontstand",
+        "status": "success",
+        "total_releases": 0,
+        "new_releases": 0,
+        "duration_seconds": 20.414,
+        "output_dir": "/home/runner/work/NewType/NewType/data/fontstand/2026-03-20",
+        "error": null
+      }
+    ]
+  }
+}
