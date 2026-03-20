@@ -203,7 +203,7 @@
       "name": "Print Magazine",
       "enabled": true,
       "base_url": "https://www.printmag.com",
-      "meta": { "favicon_url": "https://www.printmag.com/favicon.ico" },
+      "meta": { "favicon_url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2023/08/cropped-print-favicon.png?fit=32%2C32&quality=80&ssl=1" },
       "news_url": "https://www.printmag.com/category/typography/",
       "crawl": {
         "mode": "printmag_news",
