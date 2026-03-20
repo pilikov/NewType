@@ -56,6 +56,7 @@ class TypeTodayNewsCrawler:
                         "page[number]": page,
                         "fields[posts]": "slug,title,date,preview_image",
                     },
+                    headers={"Accept-Language": "en"},
                     timeout=timeout,
                 )
                 r.raise_for_status()
