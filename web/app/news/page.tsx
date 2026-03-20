@@ -16,6 +16,7 @@ type NewsItem = {
   url: string;
   published_at: string | null;
   discovered_at?: string | null;
+  image_url?: string | null;
 };
 
 async function resolveProjectRoot(): Promise<string> {
@@ -244,24 +245,36 @@ export default async function NewsPage() {
                     href={item.url}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="block rounded-xl bg-white p-5 shadow-sm transition-shadow hover:shadow-md"
+                    className="flex items-stretch overflow-hidden rounded-xl bg-white shadow-sm transition-shadow hover:shadow-md"
                   >
-                    <h3 className="text-lg font-semibold text-slate-900">
-                      {item.title}
-                    </h3>
-                    <p className="mt-2 flex items-center gap-2 text-base text-slate-500">
-                      {faviconUrl ? (
-                        <img
-                          src={faviconUrl}
-                          alt=""
-                          className="h-4 w-4 shrink-0 rounded-sm object-contain"
-                          width={16}
-                          height={16}
-                          referrerPolicy="no-referrer"
-                        />
-                      ) : null}
-                      <span>{formatTimestamp(item, dateFormatted)}</span>
-                    </p>
+                    <div className="min-w-0 flex-1 p-5">
+                      <h3 className="text-lg font-semibold text-slate-900">
+                        {item.title}
+                      </h3>
+                      <p className="mt-2 flex items-center gap-2 text-base text-slate-500">
+                        {faviconUrl ? (
+                          <img
+                            src={faviconUrl}
+                            alt=""
+                            className="h-4 w-4 shrink-0 rounded-sm object-contain"
+                            width={16}
+                            height={16}
+                            referrerPolicy="no-referrer"
+                          />
+                        ) : null}
+                        <span>{formatTimestamp(item, dateFormatted)}</span>
+                      </p>
+                    </div>
+                    {item.image_url ? (
+                      <img
+                        src={item.image_url}
+                        alt=""
+                        className="hidden w-40 shrink-0 object-cover sm:block"
+                        width={160}
+                        loading="lazy"
+                        referrerPolicy="no-referrer"
+                      />
+                    ) : null}
                   </a>
                 );
               })}

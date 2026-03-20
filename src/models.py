@@ -50,6 +50,7 @@ class FontNewsItem:
     title: str
     url: str
     published_at: str | None = None
+    image_url: str | None = None
     discovered_at: str = field(
         default_factory=lambda: datetime.now(timezone.utc).isoformat()
     )

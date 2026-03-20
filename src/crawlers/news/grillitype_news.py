@@ -88,6 +88,8 @@ class GrilliTypeNewsCrawler:
                 except requests.RequestException:
                     pass
 
+            image_url = row.get("image") or None
+
             items.append(
                 FontNewsItem(
                     source_id=source_id,
@@ -95,10 +97,10 @@ class GrilliTypeNewsCrawler:
                     title=name,
                     url=post_url,
                     published_at=published_at,
+                    image_url=image_url,
                     raw={
                         "category": category or row.get("category"),
                         "typeface": row.get("typeface"),
-                        "image": row.get("image"),
                     },
                 )
             )
