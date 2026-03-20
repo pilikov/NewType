@@ -197,6 +197,20 @@
         "max_pages": 100,
         "lookback_days": 60
       }
+    },
+    {
+      "id": "printmag",
+      "name": "Print Magazine",
+      "enabled": true,
+      "base_url": "https://www.printmag.com",
+      "meta": { "favicon_url": "https://www.printmag.com/favicon.ico" },
+      "news_url": "https://www.printmag.com/category/typography/",
+      "crawl": {
+        "mode": "printmag_news",
+        "per_page": 100,
+        "max_pages": 10,
+        "categories": "40"
+      }
     }
   ]
 }
