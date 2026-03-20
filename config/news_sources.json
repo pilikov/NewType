@@ -170,6 +170,19 @@
         "max_items": 50,
         "fetch_dates_for": 50
       }
+    },
+    {
+      "id": "letterformarchive",
+      "name": "Letterform Archive",
+      "enabled": true,
+      "base_url": "https://letterformarchive.org",
+      "meta": { "favicon_url": "https://letterformarchive.org/favicon.ico" },
+      "news_url": "https://letterformarchive.org/news",
+      "crawl": {
+        "mode": "letterformarchive_news",
+        "per_page": 100,
+        "max_pages": 5
+      }
     }
   ]
 }
