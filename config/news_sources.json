@@ -183,6 +183,20 @@
         "per_page": 100,
         "max_pages": 5
       }
+    },
+    {
+      "id": "ilovetypography",
+      "name": "I Love Typography",
+      "enabled": true,
+      "base_url": "https://ilovetypography.com",
+      "meta": { "favicon_url": "https://ilovetypography.com/NEW_BLOG/wp-content/uploads/2025/08/Vector.svg" },
+      "news_url": "https://ilovetypography.com/contents",
+      "crawl": {
+        "mode": "ilovetypography_news",
+        "rss_path": "/feed/",
+        "max_pages": 100,
+        "lookback_days": 60
+      }
     }
   ]
 }
