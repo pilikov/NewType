@@ -244,11 +244,16 @@ function isMyfontsBundle(r: ReleaseItem): boolean {
   return /\b(package|bundle|complete family)\b/.test(n);
 }
 
-/** Есть ли у релиза ссылка на семью: collection_url или сам source_url — страница коллекции */
+/** Есть ли у релиза ссылка на семью: collection_url или сам source_url — страница коллекции.
+ *  Derived URLs (collection_url без collection_name) считаются невалидными. */
 function hasMyfontsFamilyLink(r: ReleaseItem): boolean {
-  const raw = r.raw as { collection_url?: string } | undefined;
+  const raw = r.raw as { collection_url?: string; collection_name?: string } | undefined;
   const c = raw?.collection_url;
-  if (c && typeof c === "string" && c.startsWith("http")) return true;
+  // collection_url валидна только если есть collection_name (проверена h1 scraping)
+  if (c && typeof c === "string" && c.startsWith("http")) {
+    if (!raw?.collection_name) return false;
+    return true;
+  }
   const url = (r.source_url ?? "").toLowerCase();
   return url.includes("/collections/") && !url.includes("whats-new");
 }
