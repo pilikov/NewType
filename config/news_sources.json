@@ -176,7 +176,7 @@
       "name": "Letterform Archive",
       "enabled": true,
       "base_url": "https://letterformarchive.org",
-      "meta": { "favicon_url": "https://letterformarchive.org/favicon.ico" },
+      "meta": { "favicon_url": "https://letterformarchive.org/wp-content/uploads/2022/03/logo-icon.svg" },
       "news_url": "https://letterformarchive.org/news",
       "crawl": {
         "mode": "letterformarchive_news",
