@@ -1,0 +1,71 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/bea-korsh/benmania?v=0.2",
+    "name": "Benmania",
+    "styles": [],
+    "authors": [
+      "Bea Korsh"
+    ],
+    "scripts": [
+      "basic-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-18",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/461/medium_Untitled-4.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/8076/BenmaniaV0.2-Black.pdf",
+    "discovered_at": "2026-03-19T07:30:21.509002+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:19526",
+      "activity_id": 19526,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.2",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 8076,
+      "resolved_typeface_id": 715,
+      "typeface_language": "basic-latin"
+    },
+    "release_id": "8869540161247ecf"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/mass-driver/io?v=2.0",
+    "name": "MD IO",
+    "styles": [],
+    "authors": [
+      "Mass-Driver"
+    ],
+    "scripts": [
+      "basic-latin",
+      "extended-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-18",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/172/medium_ff-hero.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/8769/MD_IO-Specimen.pdf",
+    "discovered_at": "2026-03-19T07:30:21.840832+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:19394",
+      "activity_id": 19394,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "2.0",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 8769,
+      "resolved_typeface_id": 235,
+      "typeface_language": "basic-latin,extended-latin"
+    },
+    "release_id": "1de87a1adf1e0ed1"
+  }
+]
