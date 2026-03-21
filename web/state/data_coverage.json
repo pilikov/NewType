@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T07:29:17.290369Z",
+  "generated_at": "2026-03-21T07:14:42.860879Z",
   "sources": {
     "catalog_snapshot": {
       "source_id": "catalog_snapshot",
@@ -725,7 +725,7 @@
       },
       "has_data": true,
       "min_date": "2018-01-01",
-      "max_date": "2026-03-17",
+      "max_date": "2026-03-20",
       "weeks": [
         {
           "week_start": "2018-01-01",

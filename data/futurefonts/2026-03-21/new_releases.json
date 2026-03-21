@@ -1,0 +1,38 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/fredsfonts/musikal?v=1.0",
+    "name": "Musikal",
+    "styles": [],
+    "authors": [
+      "Freds Fonts"
+    ],
+    "scripts": [
+      "extended-latin",
+      "cyrillic",
+      "greek"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-20",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/244/medium_FredsFonts_Banner_03.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/8901/Musikal_Specimen_v1.0.pdf",
+    "discovered_at": "2026-03-21T07:14:14.885595+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:19625",
+      "activity_id": 19625,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "1.0",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 8901,
+      "resolved_typeface_id": 356,
+      "typeface_language": "extended-latin,cyrillic,greek"
+    },
+    "release_id": "9d75da50793e3a1b"
+  }
+]

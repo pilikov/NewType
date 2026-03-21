@@ -1,0 +1,618 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/street-cred-font-duo-package-967304",
+    "name": "Street Cred Font Duo",
+    "styles": [],
+    "authors": [
+      "Parker Creative"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-03-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-21T06:58:24.592680+00:00",
+    "raw": {
+      "id": 8031964201130,
+      "handle": "street-cred-font-duo-package-967304",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-03-21T02:58:22-04:00",
+      "product_url": "https://www.myfonts.com/products/street-cred-font-duo-package-967304",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Street Cred Font Duo",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "da5999923b425144"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/modernist-package-991347",
+    "name": "Modernist",
+    "styles": [],
+    "authors": [
+      "The Northern Block"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-03-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-21T06:58:26.202052+00:00",
+    "raw": {
+      "id": 8072569159850,
+      "handle": "modernist-package-991347",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-03-21T02:58:22-04:00",
+      "product_url": "https://www.myfonts.com/products/modernist-package-991347",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Modernist",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "0f6819a18df69c3f"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/infinite-font-bundle-package-1046436",
+    "name": "Infinite Font Bundle",
+    "styles": [],
+    "authors": [
+      "Dream Font"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-03-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-21T06:58:27.848240+00:00",
+    "raw": {
+      "id": 8195255795882,
+      "handle": "infinite-font-bundle-package-1046436",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-03-21T02:58:22-04:00",
+      "product_url": "https://www.myfonts.com/products/infinite-font-bundle-package-1046436",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Infinite Font Bundle",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "a750082dfce34260"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/industrialist-package-989881",
+    "name": "Industrialist",
+    "styles": [],
+    "authors": [
+      "The Northern Block"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-03-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-21T06:58:29.612204+00:00",
+    "raw": {
+      "id": 8071985725610,
+      "handle": "industrialist-package-989881",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-03-21T02:58:22-04:00",
+      "product_url": "https://www.myfonts.com/products/industrialist-package-989881",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Industrialist",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "cfb0df544a33a566"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/new-adventures-font-duo-package-958141",
+    "name": "New Adventures Font Duo",
+    "styles": [],
+    "authors": [
+      "Parker Creative"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-03-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-21T06:58:30.890449+00:00",
+    "raw": {
+      "id": 8019643302058,
+      "handle": "new-adventures-font-duo-package-958141",
+      "tags": [
+        "carefree",
+        "casual",
+        "heading",
+        "headline",
+        "holiday",
+        "impactful",
+        "legible",
+        "pim:designerId:5709",
+        "pim:foundryId:4009",
+        "pim:skuId:958141",
+        "serene",
+        "youthful"
+      ],
+      "updated_at": "2026-03-21T02:58:22-04:00",
+      "product_url": "https://www.myfonts.com/products/new-adventures-font-duo-package-958141",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "New Adventures Font Duo",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "d5de47c7b304e65c"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/minimalist-bundles-package-1046437",
+    "name": "Minimalist Bundles",
+    "styles": [],
+    "authors": [
+      "Dream Font"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-03-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-21T06:58:31.914853+00:00",
+    "raw": {
+      "id": 8195255697578,
+      "handle": "minimalist-bundles-package-1046437",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-03-21T02:58:22-04:00",
+      "product_url": "https://www.myfonts.com/products/minimalist-bundles-package-1046437",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Minimalist Bundles",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "d98e8f627e8441bc"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/challenger-bundle-package-1046438",
+    "name": "Challenger Bundle",
+    "styles": [],
+    "authors": [
+      "Dream Font"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-03-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-21T06:58:33.517627+00:00",
+    "raw": {
+      "id": 8195255763114,
+      "handle": "challenger-bundle-package-1046438",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-03-21T02:58:22-04:00",
+      "product_url": "https://www.myfonts.com/products/challenger-bundle-package-1046438",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Challenger Bundle",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "46b54bd79f21ebe1"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/countryside-living-font-duo-package-958142",
+    "name": "Countryside Living Font Duo",
+    "styles": [],
+    "authors": [
+      "Parker Creative"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-03-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-21T06:58:34.900006+00:00",
+    "raw": {
+      "id": 8019668566186,
+      "handle": "countryside-living-font-duo-package-958142",
+      "tags": [
+        "carefree",
+        "comic",
+        "heading",
+        "headline",
+        "impactful",
+        "kids",
+        "pim:designerId:5709",
+        "pim:foundryId:4009",
+        "pim:skuId:958142",
+        "soft",
+        "youthful"
+      ],
+      "updated_at": "2026-03-21T02:58:22-04:00",
+      "product_url": "https://www.myfonts.com/products/countryside-living-font-duo-package-958142",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Countryside Living Font Duo",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "5143e8c379c192f9"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/futurist-package-989478",
+    "name": "Futurist",
+    "styles": [],
+    "authors": [
+      "The Northern Block"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-03-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-21T06:58:36.555859+00:00",
+    "raw": {
+      "id": 8069674434730,
+      "handle": "futurist-package-989478",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-03-21T02:58:22-04:00",
+      "product_url": "https://www.myfonts.com/products/futurist-package-989478",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Futurist",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "9b0c4880baf47a1d"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/datavibing-console-upright-package-1123748",
+    "name": "Datavibing Console Upright",
+    "styles": [],
+    "authors": [
+      "Second Circle Font Foundry"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-03-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-21T06:59:52.152090+00:00",
+    "raw": {
+      "id": 8404919419050,
+      "handle": "datavibing-console-upright-package-1123748",
+      "tags": [
+        "pim:designerId:9354",
+        "pim:familyId:130191",
+        "pim:foundryId:6839",
+        "pim:skuId:1123748"
+      ],
+      "updated_at": "2026-03-21T02:58:23-04:00",
+      "product_url": "https://www.myfonts.com/products/datavibing-console-upright-package-1123748",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Datavibing Console Upright",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "a6f6fe74dcda8d8d"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/datavibing-console-complete-family-package-1123743",
+    "name": "Datavibing Console Complete Family",
+    "styles": [],
+    "authors": [
+      "Second Circle Font Foundry"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-03-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-21T07:02:42.001183+00:00",
+    "raw": {
+      "id": 8404916994218,
+      "handle": "datavibing-console-complete-family-package-1123743",
+      "tags": [
+        "pim:designerId:9354",
+        "pim:familyId:130191",
+        "pim:foundryId:6839",
+        "pim:skuId:1123743"
+      ],
+      "updated_at": "2026-03-21T02:59:58-04:00",
+      "product_url": "https://www.myfonts.com/products/datavibing-console-complete-family-package-1123743",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Datavibing Console Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "fb11a510c44bf0f6"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/spinning-heads-bundle-package-338327",
+    "name": "Spinning Heads Bundle",
+    "styles": [],
+    "authors": [
+      "The Northern Block"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-03-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-21T07:02:52.267681+00:00",
+    "raw": {
+      "id": 8404916928682,
+      "handle": "spinning-heads-bundle-package-338327",
+      "tags": [
+        "decorative",
+        "pim:designerId:1827",
+        "pim:familyId:17114",
+        "pim:familyId:17392",
+        "pim:familyId:18049",
+        "pim:familyId:18684",
+        "pim:familyId:19125",
+        "pim:familyId:19359",
+        "pim:familyId:19467",
+        "pim:familyId:19708",
+        "pim:familyId:19921",
+        "pim:foundryId:3169",
+        "pim:skuId:338327",
+        "techno"
+      ],
+      "updated_at": "2026-03-21T02:59:58-04:00",
+      "product_url": "https://www.myfonts.com/products/spinning-heads-bundle-package-338327",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Spinning Heads Bundle",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "90aeb6732f65229d"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-datavibing-console-1123745",
+    "name": "Datavibing Console Italic",
+    "styles": [],
+    "authors": [
+      "Second Circle Font Foundry"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-03-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-21T07:04:59.344093+00:00",
+    "raw": {
+      "id": 8404907491498,
+      "handle": "italic-datavibing-console-1123745",
+      "tags": [
+        "pim:designerId:9354",
+        "pim:familyId:130191",
+        "pim:foundryId:6839",
+        "pim:skuId:1123745"
+      ],
+      "updated_at": "2026-03-21T03:04:53-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-datavibing-console-1123745",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Datavibing Console Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "987acdbf70382051"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/bold-datavibing-console-1123746",
+    "name": "Datavibing Console Bold",
+    "styles": [],
+    "authors": [
+      "Second Circle Font Foundry"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-03-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-21T07:05:06.978293+00:00",
+    "raw": {
+      "id": 8404905984170,
+      "handle": "bold-datavibing-console-1123746",
+      "tags": [
+        "pim:designerId:9354",
+        "pim:familyId:130191",
+        "pim:foundryId:6839",
+        "pim:skuId:1123746"
+      ],
+      "updated_at": "2026-03-21T03:04:53-04:00",
+      "product_url": "https://www.myfonts.com/products/bold-datavibing-console-1123746",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Datavibing Console Bold",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "eb205b733f2d45d0"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/bold-italic-datavibing-console-1123747",
+    "name": "Datavibing Console Bold Italic",
+    "styles": [],
+    "authors": [
+      "Second Circle Font Foundry"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-03-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-21T07:05:29.165194+00:00",
+    "raw": {
+      "id": 8404901494954,
+      "handle": "bold-italic-datavibing-console-1123747",
+      "tags": [
+        "friendly",
+        "pim:designerId:9354",
+        "pim:familyId:130191",
+        "pim:foundryId:6839",
+        "pim:skuId:1123747",
+        "rounded",
+        "soft",
+        "youthful"
+      ],
+      "updated_at": "2026-03-21T03:05:28-04:00",
+      "product_url": "https://www.myfonts.com/products/bold-italic-datavibing-console-1123747",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Datavibing Console Bold Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "68f20dcbe3c53eb6"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/regular-datavibing-console-1123744",
+    "name": "Datavibing Console Regular",
+    "styles": [],
+    "authors": [
+      "Second Circle Font Foundry"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-03-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-21T07:06:51.006337+00:00",
+    "raw": {
+      "id": 8404870299818,
+      "handle": "regular-datavibing-console-1123744",
+      "tags": [
+        "pim:designerId:9354",
+        "pim:familyId:130191",
+        "pim:foundryId:6839",
+        "pim:skuId:1123744"
+      ],
+      "updated_at": "2026-03-21T03:06:49-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-datavibing-console-1123744",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Datavibing Console Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "a25c0ccc635f2eb6"
+  }
+]
