@@ -12,6 +12,7 @@ from bs4 import BeautifulSoup
 
 from src.crawlers.news.date_extract import extract_published_at
 from src.crawlers.news.date_filter import filter_items_by_date_window
+from src.crawlers.news.image_extract import extract_og_image
 from src.models import FontNewsItem
 
 
@@ -64,11 +65,13 @@ class FutureFontsNewsCrawler:
         date_fetch_limit = int(crawl_cfg.get("date_fetch_limit", 10))
         for i, (title, url) in enumerate(links[:15]):
             published_at = None
+            image_url = None
             if i < date_fetch_limit:
                 try:
                     ar = session.get(url, timeout=timeout)
                     ar.raise_for_status()
                     published_at = extract_published_at(ar.text, url)
+                    image_url = extract_og_image(ar.text, url)
                 except requests.RequestException:
                     pass
                 time.sleep(0.3)
@@ -80,6 +83,7 @@ class FutureFontsNewsCrawler:
                     title=title,
                     url=url,
                     published_at=published_at,
+                    image_url=image_url,
                     raw={"blog_url": blog_url},
                 )
             )

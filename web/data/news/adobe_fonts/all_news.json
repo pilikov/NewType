@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "source_id": "adobe_fonts",
+    "source_name": "Adobe Fonts",
+    "title": "Anton Burmistrov Unlocks New World Typography Design With Adobe Firefly",
+    "url": "https://blog.adobe.com/en/publish/2025/02/13/anton-burmistrov-unlocks-new-world-typography-design-with-adobe-firefly",
+    "published_at": "2025-02-13",
+    "image_url": null,
+    "discovered_at": "2026-03-23T03:25:31.659359+00:00",
+    "raw": {
+      "sitemap_lastmod": "2026-02-26"
+    },
+    "news_id": "d2e8c787f0c62cfd"
+  },
+  {
+    "source_id": "adobe_fonts",
+    "source_name": "Adobe Fonts",
+    "title": "More Than 1500 New Fonts Including All Time Favorites Come To Adobe Fonts",
+    "url": "https://blog.adobe.com/en/publish/2025/04/08/more-than-1500-new-fonts-including-all-time-favorites-come-to-adobe-fonts",
+    "published_at": "2025-04-08",
+    "image_url": null,
+    "discovered_at": "2026-03-23T03:25:31.659502+00:00",
+    "raw": {
+      "sitemap_lastmod": "2026-02-26"
+    },
+    "news_id": "2d842e04bdd0e65f"
+  },
+  {
+    "source_id": "adobe_fonts",
+    "source_name": "Adobe Fonts",
+    "title": "How To Shape Future With Type Tech Creative Thinking",
+    "url": "https://blog.adobe.com/en/publish/2025/09/24/how-to-shape-future-with-type-tech-creative-thinking",
+    "published_at": "2025-09-24",
+    "image_url": null,
+    "discovered_at": "2026-03-23T03:25:31.659795+00:00",
+    "raw": {
+      "sitemap_lastmod": "2026-02-26"
+    },
+    "news_id": "fd694f89a7f7b59b"
+  }
+]

@@ -12,6 +12,7 @@ from bs4 import BeautifulSoup
 
 from src.crawlers.news.date_extract import extract_published_at
 from src.crawlers.news.date_filter import filter_items_by_date_window
+from src.crawlers.news.image_extract import extract_og_image
 from src.models import FontNewsItem
 
 _DEFAULT_SEED_SLUGS = [
@@ -68,6 +69,7 @@ class CommercialTypeNewsCrawler:
                 title = slug.replace("_", " ").title()
 
             published_at = extract_published_at(r.text, full_url)
+            image_url = extract_og_image(r.text, full_url)
 
             items.append(
                 FontNewsItem(
@@ -76,6 +78,7 @@ class CommercialTypeNewsCrawler:
                     title=title,
                     url=full_url,
                     published_at=published_at,
+                    image_url=image_url,
                     raw={},
                 )
             )
