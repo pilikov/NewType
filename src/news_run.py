@@ -140,19 +140,28 @@ def run_news(
             if not existing:
                 existing = _load_existing_from_date_dirs(out_dir)
 
-            # Add only items not yet accumulated
+            # Add new items; enrich existing items with missing fields
             new_count = 0
+            updated_count = 0
             for item in items:
                 if item.news_id not in existing:
                     existing[item.news_id] = item.to_dict()
                     new_count += 1
+                else:
+                    # Back-fill image_url if the old record lacks it
+                    old = existing[item.news_id]
+                    new_dict = item.to_dict()
+                    if not old.get("image_url") and new_dict.get("image_url"):
+                        old["image_url"] = new_dict["image_url"]
+                        updated_count += 1
 
             # seen_ids mirrors the full accumulated set
             seen_state[source_id] = sorted(existing.keys())
 
             to_save = list(existing.values())
             dump_json(out_path, to_save)
-            print(f"[news:{source_id}] total={len(to_save)} new={new_count} output={out_dir}")
+            enriched = f" enriched={updated_count}" if updated_count else ""
+            print(f"[news:{source_id}] total={len(to_save)} new={new_count}{enriched} output={out_dir}")
 
             if daily:
                 update_news_source_watermark(watermarks, source_id)

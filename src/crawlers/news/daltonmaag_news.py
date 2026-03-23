@@ -11,6 +11,7 @@ import requests
 from bs4 import BeautifulSoup
 
 from src.crawlers.news.date_filter import filter_items_by_date_window
+from src.crawlers.news.image_extract import extract_og_image
 from src.models import FontNewsItem
 
 _DATE_IN_URL = re.compile(r"/(\d{4})-(\d{2})-(\d{2})-[^/]+\.html$")
@@ -67,6 +68,14 @@ class DaltonMaagNewsCrawler:
             if m:
                 published_at = f"{m.group(1)}-{m.group(2)}-{m.group(3)}"
 
+            # Extract image from card on the index page
+            image_url = None
+            parent = a.find_parent("div", class_=lambda c: c and "section-card" in str(c))
+            if parent:
+                img = parent.find("img", src=True)
+                if img and img.get("src", "").strip():
+                    image_url = urljoin(base_url, img["src"].strip())
+
             items.append(
                 FontNewsItem(
                     source_id=source_id,
@@ -74,6 +83,7 @@ class DaltonMaagNewsCrawler:
                     title=title,
                     url=full_url,
                     published_at=published_at,
+                    image_url=image_url,
                     raw={},
                 )
             )

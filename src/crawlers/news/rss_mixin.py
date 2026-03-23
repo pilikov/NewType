@@ -50,6 +50,37 @@ def _resolve_url(link: str, base_url: str) -> str:
     return urljoin(base_url, link)
 
 
+def _find_image(parent, base_url: str) -> str | None:
+    """Extract image URL from RSS/Atom item via media:content, enclosure, or description."""
+    import re as _re
+
+    for child in parent:
+        tag = _strip_ns(child.tag)
+        # media:content or media:thumbnail
+        if tag in ("content", "thumbnail"):
+            url = child.get("url", "").strip()
+            media_type = child.get("type", "")
+            if url and ("image" in media_type or not media_type):
+                return _resolve_url(url, base_url)
+        # enclosure with image type
+        if tag == "enclosure":
+            url = child.get("url", "").strip()
+            enc_type = child.get("type", "")
+            if url and "image" in enc_type:
+                return _resolve_url(url, base_url)
+
+    # Fallback: first <img> in description or content:encoded
+    for child in parent:
+        tag = _strip_ns(child.tag)
+        if tag in ("description", "encoded"):
+            text = (child.text or "").strip()
+            m = _re.search(r'<img[^>]+src=["\']([^"\']+)["\']', text)
+            if m:
+                return _resolve_url(m.group(1), base_url)
+
+    return None
+
+
 def _parse_rss_items(xml_text: str, base_url: str) -> list[dict[str, Any]]:
     import xml.etree.ElementTree as ET
     items: list[dict[str, Any]] = []
@@ -64,13 +95,15 @@ def _parse_rss_items(xml_text: str, base_url: str) -> list[dict[str, Any]]:
             link = _find_link(elem) or _find_text(elem, "link")
             pub_date = _find_text(elem, "pubDate")
             url = _resolve_url(link, base_url)
-            items.append({"title": title, "url": url, "published_at": pub_date})
+            image_url = _find_image(elem, base_url)
+            items.append({"title": title, "url": url, "published_at": pub_date, "image_url": image_url})
         elif _strip_ns(elem.tag) == "entry":
             title = _find_text(elem, "title")
             link = _find_link(elem)
             pub_date = _find_text(elem, "updated") or _find_text(elem, "published")
             url = _resolve_url(link, base_url)
-            items.append({"title": title, "url": url, "published_at": pub_date})
+            image_url = _find_image(elem, base_url)
+            items.append({"title": title, "url": url, "published_at": pub_date, "image_url": image_url})
 
     return items
 
@@ -128,6 +161,7 @@ def parse_rss_feed(
                 title=title,
                 url=url,
                 published_at=pub_str or dt.isoformat(),
+                image_url=p.get("image_url"),
                 raw={"rss_pub_date": pub_str},
             )
         )
