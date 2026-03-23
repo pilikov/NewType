@@ -1,0 +1,24 @@
+{
+  "generated_at": "2026-03-23T07:37:59.305032+00:00",
+  "total_releases": 0,
+  "normalization_findings": {
+    "non_canonical_scripts": {
+      "count": 0,
+      "examples": []
+    },
+    "noisy_authors": {
+      "count": 0,
+      "examples": []
+    },
+    "duplicate_styles_case_insensitive": {
+      "count": 0,
+      "examples": []
+    }
+  },
+  "recommendations": [
+    "Normalize scripts to canonical enum and map unknown variants to Known/Other buckets.",
+    "Strip HTML/noise from author strings and keep explicit array semantics.",
+    "Deduplicate style names case-insensitively while preserving original title in raw.",
+    "Keep release_date null if unknown; store year in raw and derive confidence in enrichment step."
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "context": {
+    "run_id": "bb95dec0fa82",
+    "started_at": "2026-03-22T08:34:56.194518+00:00",
+    "source_filter": [
+      "myfonts"
+    ],
+    "timeout_seconds": 20
+  },
+  "summary": {
+    "run_id": "bb95dec0fa82",
+    "started_at": "2026-03-22T08:34:56.194518+00:00",
+    "finished_at": "2026-03-22T09:22:15.197407Z",
+    "sources": [
+      {
+        "source_id": "myfonts",
+        "status": "failed",
+        "total_releases": 0,
+        "new_releases": 0,
+        "duration_seconds": 2838.01,
+        "output_dir": null,
+        "error": "503 Server Error: Service Unavailable for url: https://www.myfonts.com/products.json?limit=100&page=33"
+      }
+    ]
+  }
+}
