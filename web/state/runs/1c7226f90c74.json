@@ -1,0 +1,69 @@
+{
+  "context": {
+    "run_id": "1c7226f90c74",
+    "started_at": "2026-03-23T07:23:57.307546+00:00",
+    "source_filter": [],
+    "timeout_seconds": 20
+  },
+  "summary": {
+    "run_id": "1c7226f90c74",
+    "started_at": "2026-03-23T07:23:57.307546+00:00",
+    "finished_at": "2026-03-23T07:38:37.467261Z",
+    "sources": [
+      {
+        "source_id": "myfonts",
+        "status": "success",
+        "total_releases": 2714,
+        "new_releases": 0,
+        "duration_seconds": 834.336,
+        "output_dir": "/home/runner/work/NewType/NewType/data/myfonts/2026-03-23",
+        "error": null
+      },
+      {
+        "source_id": "type_today",
+        "status": "success",
+        "total_releases": 0,
+        "new_releases": 0,
+        "duration_seconds": 7.655,
+        "output_dir": "/home/runner/work/NewType/NewType/data/type_today/2026-03-23",
+        "error": null
+      },
+      {
+        "source_id": "futurefonts",
+        "status": "success",
+        "total_releases": 0,
+        "new_releases": 0,
+        "duration_seconds": 1.188,
+        "output_dir": "/home/runner/work/NewType/NewType/data/futurefonts/2026-03-23",
+        "error": null
+      },
+      {
+        "source_id": "typenetwork",
+        "status": "success",
+        "total_releases": 0,
+        "new_releases": 0,
+        "duration_seconds": 4.227,
+        "output_dir": "/home/runner/work/NewType/NewType/data/typenetwork/2026-03-23",
+        "error": null
+      },
+      {
+        "source_id": "contemporarytype",
+        "status": "success",
+        "total_releases": 50,
+        "new_releases": 0,
+        "duration_seconds": 4.159,
+        "output_dir": "/home/runner/work/NewType/NewType/data/contemporarytype/2026-03-23",
+        "error": null
+      },
+      {
+        "source_id": "fontstand",
+        "status": "success",
+        "total_releases": 0,
+        "new_releases": 0,
+        "duration_seconds": 27.639,
+        "output_dir": "/home/runner/work/NewType/NewType/data/fontstand/2026-03-23",
+        "error": null
+      }
+    ]
+  }
+}
