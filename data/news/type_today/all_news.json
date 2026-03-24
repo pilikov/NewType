@@ -24,5 +24,19 @@
       "post_date": "2026-03-19"
     },
     "news_id": "cfe665faeaf707d2"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Manual: Currency Symbols",
+    "url": "https://type.today/en/journal/currency",
+    "published_at": "2026-03-24",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1160/preview_420_preview_image_en-NepHO_UKs2jyo17qeNoH-AOQLeV5sbG3eA.png",
+    "discovered_at": "2026-03-24T07:29:38.391222+00:00",
+    "raw": {
+      "slug": "currency",
+      "post_date": "2026-03-24"
+    },
+    "news_id": "1ccf1fb23c8daeae"
   }
 ]

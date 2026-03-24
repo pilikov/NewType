@@ -1,0 +1,446 @@
+[
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/stapel-vf",
+    "name": "Stapel VF",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-23",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-24T07:29:03.316626+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5506",
+      "family_id": 5506,
+      "family_slug": "stapel-vf",
+      "catalog_url": "/foundry/paratype/fonts/stapel-vf",
+      "released": "2026-03-23T17:47:34.263688Z",
+      "uploaded": "2026-03-23T17:47:34.263696Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": true,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "8ff0d643fc825eb7"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/stapel-text",
+    "name": "Stapel Text",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-23",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-24T07:29:03.486646+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5505",
+      "family_id": 5505,
+      "family_slug": "stapel-text",
+      "catalog_url": "/foundry/paratype/fonts/stapel-text",
+      "released": "2026-03-23T17:47:32.687193Z",
+      "uploaded": "2026-03-23T17:47:32.687199Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": true,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "74b263e95f3a1b3f"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/stapel-condensed",
+    "name": "Stapel Condensed",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-23",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-24T07:29:03.651975+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5504",
+      "family_id": 5504,
+      "family_slug": "stapel-condensed",
+      "catalog_url": "/foundry/paratype/fonts/stapel-condensed",
+      "released": "2026-03-23T17:42:02.659950Z",
+      "uploaded": "2026-03-23T17:42:02.659957Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "902ab83df655be2b"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/stapel",
+    "name": "Stapel",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-23",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-24T07:29:03.807181+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5503",
+      "family_id": 5503,
+      "family_slug": "stapel",
+      "catalog_url": "/foundry/paratype/fonts/stapel",
+      "released": "2026-03-23T17:42:00.543623Z",
+      "uploaded": "2026-03-23T17:42:00.543632Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "5b1152549f683881"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/stapel-narrow",
+    "name": "Stapel Narrow",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-23",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-24T07:29:03.965148+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5502",
+      "family_id": 5502,
+      "family_slug": "stapel-narrow",
+      "catalog_url": "/foundry/paratype/fonts/stapel-narrow",
+      "released": "2026-03-23T17:37:43.800868Z",
+      "uploaded": "2026-03-23T17:37:43.800875Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "89e7f9139a1f228b"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/stapel-expanded",
+    "name": "Stapel Expanded",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-23",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-24T07:29:04.124025+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5501",
+      "family_id": 5501,
+      "family_slug": "stapel-expanded",
+      "catalog_url": "/foundry/paratype/fonts/stapel-expanded",
+      "released": "2026-03-23T17:37:43.297666Z",
+      "uploaded": "2026-03-23T17:37:43.297673Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "8997cad4cbe1ec96"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/stapel-semi-expanded",
+    "name": "Stapel Semi Expanded",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-23",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-24T07:29:04.288316+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5500",
+      "family_id": 5500,
+      "family_slug": "stapel-semi-expanded",
+      "catalog_url": "/foundry/paratype/fonts/stapel-semi-expanded",
+      "released": "2026-03-23T17:37:42.534633Z",
+      "uploaded": "2026-03-23T17:37:42.534639Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "05750a900dd3f3cf"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/leksen-design/fonts/alasassy-pro",
+    "name": "Alasassy Pro",
+    "styles": [],
+    "authors": [
+      "Leksen Design"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Greek",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-23",
+    "image_url": "https://leksendesign.com/wp-content/uploads/2025/03/LeksenDesign_coverhomepage.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-24T07:29:12.139045+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5499",
+      "family_id": 5499,
+      "family_slug": "alasassy-pro",
+      "catalog_url": "/foundry/leksen-design/fonts/alasassy-pro",
+      "released": "2026-03-23T17:16:51.229335Z",
+      "uploaded": "2026-03-23T17:16:51.229344Z",
+      "foundry_ids": [
+        135
+      ],
+      "supported_scripts": [
+        200,
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Leksen Design",
+        "foundry_site_url": "https://leksendesign.com/",
+        "image_page_url": "https://leksendesign.com/nordique-pro/"
+      }
+    },
+    "release_id": "387bdad298937098"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/leksen-design/fonts/alasassy",
+    "name": "Alasassy",
+    "styles": [],
+    "authors": [
+      "Leksen Design"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-23",
+    "image_url": "https://leksendesign.com/wp-content/uploads/2025/03/LeksenDesign_coverhomepage.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-24T07:29:12.845787+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5498",
+      "family_id": 5498,
+      "family_slug": "alasassy",
+      "catalog_url": "/foundry/leksen-design/fonts/alasassy",
+      "released": "2026-03-23T17:16:48.717936Z",
+      "uploaded": "2026-03-23T17:16:48.717946Z",
+      "foundry_ids": [
+        135
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Leksen Design",
+        "foundry_site_url": "https://leksendesign.com/",
+        "image_page_url": "https://leksendesign.com/alasassy/"
+      }
+    },
+    "release_id": "2f0c1c1050b85ff2"
+  }
+]
