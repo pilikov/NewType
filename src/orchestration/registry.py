@@ -10,6 +10,7 @@ from src.crawlers.fontstand_new_releases import FontstandNewReleasesCrawler
 from src.crawlers.futurefonts_activity import FutureFontsActivityCrawler
 from src.crawlers.futurefonts_sitemap import FutureFontsSitemapCrawler
 from src.crawlers.html_list import HtmlListCrawler
+from src.crawlers.ilt_typesense import IltTypesenseCrawler
 from src.crawlers.myfonts_api import MyFontsApiCrawler
 from src.crawlers.myfonts_whats_new import MyFontsWhatsNewCrawler
 from src.crawlers.type_today_api import TypeTodayApiCrawler
@@ -51,4 +52,5 @@ def build_default_crawler_registry() -> CrawlerRegistry:
     registry.register("contemporarytype_products", ContemporaryTypeProductsCrawler)
     registry.register("fontstand_catalog", FontstandCatalogCrawler)
     registry.register("fontstand_new_releases", FontstandNewReleasesCrawler)
+    registry.register("ilt_typesense", IltTypesenseCrawler)
     return registry

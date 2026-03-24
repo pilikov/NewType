@@ -194,6 +194,31 @@
         "download_specimen_pdf": false,
         "max_downloads_per_run": 0
       }
+    },
+    {
+      "id": "ilt",
+      "name": "I Love Typography",
+      "enabled": true,
+      "base_url": "https://fonts.ilovetypography.com",
+      "meta": {
+        "favicon_url": "https://fonts.ilovetypography.com/favicon.ico"
+      },
+      "crawl": {
+        "mode": "ilt_typesense",
+        "api_host": "https://ikgq6me4n0p3u2bvp-1.a1.typesense.net",
+        "api_key": "ADTXqWaiIiDoQupZsSjnEaTE6zcIidQb",
+        "collection": "prod_FONTS",
+        "per_page": 250,
+        "max_pages": 10,
+        "incremental_flush_every": 25,
+        "request_delay_seconds": 0.3
+      },
+      "assets": {
+        "download_image": true,
+        "download_woff": false,
+        "download_specimen_pdf": false,
+        "max_downloads_per_run": 30
+      }
     }
   ]
 }
