@@ -19,6 +19,10 @@ jobs:
         with:
           ref: main
 
+      - name: Save main news data before branch switch
+        run: |
+          cp -r web/data/news /tmp/main_news 2>/dev/null || true
+
       - name: Fetch and checkout crawl/daily if exists
         run: |
           git fetch origin crawl/daily 2>/dev/null || true
@@ -33,6 +37,52 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      - name: Restore accumulated news data (merge main + crawl/daily)
+        run: |
+          # Мержим main и crawl/daily на уровне items — берём объединение,
+          # image_url из любого источника. main авторитетен для обогащённых данных.
+          python3 << 'PYEOF'
+          import json, os
+
+          def load_by_id(path):
+              try:
+                  return {i["news_id"]: i for i in json.load(open(path))}
+              except Exception:
+                  return {}
+
+          main_dir   = "/tmp/main_news"
+          crawl_dir  = "web/data/news"
+          out_dir    = "data/news"
+          os.makedirs(out_dir, exist_ok=True)
+
+          sources = set()
+          if os.path.isdir(main_dir):  sources.update(os.listdir(main_dir))
+          if os.path.isdir(crawl_dir): sources.update(os.listdir(crawl_dir))
+
+          for src in sources:
+              main_f  = os.path.join(main_dir,  src, "all_news.json")
+              crawl_f = os.path.join(crawl_dir, src, "all_news.json")
+              src_out = os.path.join(out_dir, src)
+              os.makedirs(src_out, exist_ok=True)
+
+              main_items  = load_by_id(main_f)
+              crawl_items = load_by_id(crawl_f)
+
+              merged = dict(crawl_items)
+              for nid, item in main_items.items():
+                  if nid not in merged:
+                      merged[nid] = item
+                  else:
+                      if not merged[nid].get("image_url") and item.get("image_url"):
+                          merged[nid]["image_url"] = item["image_url"]
+
+              if merged:
+                  out_path = os.path.join(src_out, "all_news.json")
+                  json.dump(list(merged.values()), open(out_path, "w"), ensure_ascii=False, indent=2)
+                  print(f"[news:{src}] merged {len(merged)} items "
+                        f"(main={len(main_items)}, crawl/daily={len(crawl_items)})")
+          PYEOF
 
       - name: Run news parsers (daily mode)
         run: python -m src.main --news --news-daily
