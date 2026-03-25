@@ -10,7 +10,8 @@
       "slug": "whispers",
       "post_date": "2026-03-17"
     },
-    "news_id": "970cf1f4878355e3"
+    "news_id": "970cf1f4878355e3",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1263/preview_420_preview_image_en-0dpIwbmHFQOE0LVcQCRnf0-lzAKajhJqcQ.png"
   },
   {
     "source_id": "type_today",
@@ -23,20 +24,1575 @@
       "slug": "nickel-gothic",
       "post_date": "2026-03-19"
     },
-    "news_id": "cfe665faeaf707d2"
+    "news_id": "cfe665faeaf707d2",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1264/preview_420_preview_image_en-IgHUx0J7DO-FJXHvdE6K9gqEdy4a1-Fldw.png"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Graphik and Input Sans Mono in use: Identity Production",
+    "url": "https://type.today/en/journal/identityproduction",
+    "published_at": "2025-01-03",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1151/preview_420_preview_image_en-rRFR3rIvyETlesxwZY2RDPZKEBitdfrjJA.png",
+    "discovered_at": "2026-03-23T03:25:29.097974+00:00",
+    "raw": {
+      "slug": "identityproduction",
+      "post_date": "2025-01-03"
+    },
+    "news_id": "cd6b2570cac9185b"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Books on type and typography: 2024",
+    "url": "https://type.today/en/journal/35books",
+    "published_at": "2025-01-09",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1152/preview_420_preview_image_en-l6VqqonATxnT1qWOX28B_02S4E6IUCaiPw.png",
+    "discovered_at": "2026-03-23T03:25:29.098003+00:00",
+    "raw": {
+      "slug": "35books",
+      "post_date": "2025-01-09"
+    },
+    "news_id": "6de9e1aa72cfa282"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Amalta and Kazimir in use: Shelf Life",
+    "url": "https://type.today/en/journal/cairochronicles",
+    "published_at": "2025-01-14",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1153/preview_420_preview_image_en-fAzhMgt5YfUoYf47TNpViLNskAM2zh4mRA.webp",
+    "discovered_at": "2026-03-23T03:25:29.098034+00:00",
+    "raw": {
+      "slug": "cairochronicles",
+      "post_date": "2025-01-14"
+    },
+    "news_id": "22e38ee86380f494"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Erik van Blokland: “Drawing is thinking”",
+    "url": "https://type.today/en/journal/erik",
+    "published_at": "2025-01-16",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1154/preview_420_preview_image_en-CkfaZzKtzIFsVnb5ImJZ24P6P5QS44bu_Q.jpeg",
+    "discovered_at": "2026-03-23T03:25:29.098094+00:00",
+    "raw": {
+      "slug": "erik",
+      "post_date": "2025-01-16"
+    },
+    "news_id": "ef64186124c00e41"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Agse in use: Design Orchestra",
+    "url": "https://type.today/en/journal/orchestra",
+    "published_at": "2025-01-21",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1155/preview_420_preview_image_en-1tqYoU-7uLOmalfjVq6jYn6I4-ZuOAFd-A.png",
+    "discovered_at": "2026-03-23T03:25:29.098120+00:00",
+    "raw": {
+      "slug": "orchestra",
+      "post_date": "2025-01-21"
+    },
+    "news_id": "a521ed800c8ea878"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "New typeface: Nekst Mono",
+    "url": "https://type.today/en/journal/nekstmono",
+    "published_at": "2025-01-23",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1156/preview_420_preview_image_en-adyXRvvlaHrhDoMIw_dL-kPpBgNiah3how.png",
+    "discovered_at": "2026-03-23T03:25:29.098139+00:00",
+    "raw": {
+      "slug": "nekstmono",
+      "post_date": "2025-01-23"
+    },
+    "news_id": "7dc21ef582e29160"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Kazimir Text in use: Divas otrās",
+    "url": "https://type.today/en/journal/twoseconds",
+    "published_at": "2025-01-28",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1157/preview_420_preview_image_en-Yj0Mcc2CoNgWFYP8TdYT_m2yEdeOU0jyIg.png",
+    "discovered_at": "2026-03-23T03:25:29.098157+00:00",
+    "raw": {
+      "slug": "twoseconds",
+      "post_date": "2025-01-28"
+    },
+    "news_id": "c779d6e6975c527b"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Julien Priez: “Legibility is a spectrum”",
+    "url": "https://type.today/en/journal/julienpriez",
+    "published_at": "2025-01-30",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1158/preview_420_preview_image_en-7YHOsvjMo9h_O6TML_GL4MxAnJ8oAxAxIA.png",
+    "discovered_at": "2026-03-23T03:25:29.098174+00:00",
+    "raw": {
+      "slug": "julienpriez",
+      "post_date": "2025-01-30"
+    },
+    "news_id": "b712e915803c0268"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Giorgio Sans in use: Rencontres Cinématographiques",
+    "url": "https://type.today/en/journal/cinematographiques",
+    "published_at": "2025-02-04",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1159/preview_420_preview_image_en-_OWKfHdZwmEJCZMz6-ePrR06uJgJ4WFgmw.png",
+    "discovered_at": "2026-03-23T03:25:29.098191+00:00",
+    "raw": {
+      "slug": "cinematographiques",
+      "post_date": "2025-02-04"
+    },
+    "news_id": "29a14e261b2d2572"
   },
   {
     "source_id": "type_today",
     "source_name": "type.today",
     "title": "Manual: Currency Symbols",
     "url": "https://type.today/en/journal/currency",
-    "published_at": "2026-03-24",
+    "published_at": "2025-02-06",
     "image_url": "https://cdn-gc.type.today/storage/post/1/1/1160/preview_420_preview_image_en-NepHO_UKs2jyo17qeNoH-AOQLeV5sbG3eA.png",
-    "discovered_at": "2026-03-24T07:29:38.391222+00:00",
+    "discovered_at": "2026-03-23T03:25:29.098207+00:00",
     "raw": {
       "slug": "currency",
-      "post_date": "2026-03-24"
+      "post_date": "2025-02-06"
     },
     "news_id": "1ccf1fb23c8daeae"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Stratos and Kazimir in use: Lyubov Popova",
+    "url": "https://type.today/en/journal/popova",
+    "published_at": "2025-02-11",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1161/preview_420_preview_image_en-l1fvqUoCnd4cZ8TWUST4CEgBL74tZtxd_w.png",
+    "discovered_at": "2026-03-23T03:25:29.098223+00:00",
+    "raw": {
+      "slug": "popova",
+      "post_date": "2025-02-11"
+    },
+    "news_id": "45437e482857a523"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Anne-Dauphine Borione (aka Daytona Mess): “You can make type from everything”",
+    "url": "https://type.today/en/journal/daytonamess",
+    "published_at": "2025-02-13",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1162/preview_420_preview_image_en-n2bM87LxL5mGf9r7KvWjkRBjOLz_jayioA.webp",
+    "discovered_at": "2026-03-23T03:25:29.098240+00:00",
+    "raw": {
+      "slug": "daytonamess",
+      "post_date": "2025-02-13"
+    },
+    "news_id": "51531e5fa20c06a5"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Kazimir Text in use: 1947",
+    "url": "https://type.today/en/journal/asbrink",
+    "published_at": "2025-02-18",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1163/preview_420_preview_image_en-8FtqYfAHSErBCl71UrobqBw3tq6tgkgFHQ.png",
+    "discovered_at": "2026-03-23T03:25:29.098256+00:00",
+    "raw": {
+      "slug": "asbrink",
+      "post_date": "2025-02-18"
+    },
+    "news_id": "54a321c29af80b03"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Druk and Kazimir in use: Not Just Tired",
+    "url": "https://type.today/en/journal/notjusttired",
+    "published_at": "2025-02-25",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1164/preview_420_preview_image_en-byObIm7Z41kJjUPt-G0EBW-zXwLuurwwvg.png",
+    "discovered_at": "2026-03-23T03:25:29.098281+00:00",
+    "raw": {
+      "slug": "notjusttired",
+      "post_date": "2025-02-25"
+    },
+    "news_id": "040716637f416cfe"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "type.today playlist: sketching",
+    "url": "https://type.today/en/journal/sketching",
+    "published_at": "2025-03-07",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1165/preview_420_preview_image_ru-cfHXKSEJSoQDRmoQYeYiLYAfQCeEQDY8uQ.png",
+    "discovered_at": "2026-03-23T03:25:29.098304+00:00",
+    "raw": {
+      "slug": "sketching",
+      "post_date": "2025-03-07"
+    },
+    "news_id": "3d4f0d4f814b4e19"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Update: Struve Slanted",
+    "url": "https://type.today/en/journal/struveslanted",
+    "published_at": "2025-02-27",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1166/preview_420_preview_image_ru-1bXWc1XMQu64dXxTN2G-XkWry7qtj5sjqw.png",
+    "discovered_at": "2026-03-23T03:25:29.098321+00:00",
+    "raw": {
+      "slug": "struveslanted",
+      "post_date": "2025-02-27"
+    },
+    "news_id": "8b3295115e48d434"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "type.today playlist: drawing",
+    "url": "https://type.today/en/journal/drawing",
+    "published_at": "2025-03-11",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1167/preview_420_preview_image_en-mvf1CuZTFgNY73w8MOveBUXgYYfbCBMyxg.png",
+    "discovered_at": "2026-03-23T03:25:29.098338+00:00",
+    "raw": {
+      "slug": "drawing",
+      "post_date": "2025-03-11"
+    },
+    "news_id": "4a617cfb973ca426"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "New typeface: Graphik Condensed",
+    "url": "https://type.today/en/journal/graphikcondensed",
+    "published_at": "2025-03-04",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1168/preview_420_preview_image_en-HqAFALQ9Ikl6kt2Hp9x6eHPnED8TngvhKQ.png",
+    "discovered_at": "2026-03-23T03:25:29.098354+00:00",
+    "raw": {
+      "slug": "graphikcondensed",
+      "post_date": "2025-03-04"
+    },
+    "news_id": "4c25c51d4a1374aa"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Portrait in use: The Sun Walks Down",
+    "url": "https://type.today/en/journal/sunwalks",
+    "published_at": "2025-03-06",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1169/preview_420_preview_image_en-d8oz3PYW5DRvIM4P8c8H9dpnNZYBbHy8bQ.jpg",
+    "discovered_at": "2026-03-23T03:25:29.098370+00:00",
+    "raw": {
+      "slug": "sunwalks",
+      "post_date": "2025-03-06"
+    },
+    "news_id": "29cc224dddbef3d3"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "type.today playlist: drawing",
+    "url": "https://type.today/en/journal/kerning",
+    "published_at": "2025-03-13",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1170/preview_420_preview_image_en-4WeCac8zOGjL7tYOf1PVUJv8z1TgqD4_xQ.png",
+    "discovered_at": "2026-03-23T03:25:29.098385+00:00",
+    "raw": {
+      "slug": "kerning",
+      "post_date": "2025-03-13"
+    },
+    "news_id": "cd03224889dac316"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "type.today playlist: mastering",
+    "url": "https://type.today/en/journal/mastering",
+    "published_at": "2025-03-17",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1171/preview_420_preview_image_en-O7ipse1TBWTpeUG1xviwIH546HmySw2H9A.png",
+    "discovered_at": "2026-03-23T03:25:29.098401+00:00",
+    "raw": {
+      "slug": "mastering",
+      "post_date": "2025-03-17"
+    },
+    "news_id": "d2fc550370fca540"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "So, you want to open your studio?",
+    "url": "https://type.today/en/journal/startingabusiness",
+    "published_at": "2025-03-10",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1172/preview_420_preview_image_en-XUykV9AGPtR4FrlolKuTAHuvHVFcuK456w.png",
+    "discovered_at": "2026-03-23T03:25:29.098416+00:00",
+    "raw": {
+      "slug": "startingabusiness",
+      "post_date": "2025-03-10"
+    },
+    "news_id": "fe4b6b2fed46e14a"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "New typeface: Gregory Poster",
+    "url": "https://type.today/en/journal/gregoryposter",
+    "published_at": "2025-03-12",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1173/preview_420_preview_image_en-P0qekksxykW4VegeZB1Zqe-R9IFwj6SmZA.png",
+    "discovered_at": "2026-03-23T03:25:29.315575+00:00",
+    "raw": {
+      "slug": "gregoryposter",
+      "post_date": "2025-03-12"
+    },
+    "news_id": "6d83f83ce5a58ba0"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "New typefaces: Oceanic Grotesk Compact, Oceanic Grotesk Condensed",
+    "url": "https://type.today/en/journal/oceanicnew",
+    "published_at": "2025-03-18",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1174/preview_420_preview_image_en-D4n0RYNs7UfaZ8Y6SV9JZ7BYgZmdjoKZyA.png",
+    "discovered_at": "2026-03-23T03:25:29.315607+00:00",
+    "raw": {
+      "slug": "oceanicnew",
+      "post_date": "2025-03-18"
+    },
+    "news_id": "142b59eff365c3b1"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Yuni Slab in use: Irish folk tales",
+    "url": "https://type.today/en/journal/irishtales",
+    "published_at": "2025-03-20",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1175/preview_420_preview_image_en-ATGz9Tfn85N-mLK85cmGPN1KJn1k7Djnew.png",
+    "discovered_at": "2026-03-23T03:25:29.315627+00:00",
+    "raw": {
+      "slug": "irishtales",
+      "post_date": "2025-03-20"
+    },
+    "news_id": "9c0e36dd30f73db5"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Publico in use: Rise",
+    "url": "https://type.today/en/journal/rise",
+    "published_at": "2025-03-25",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1176/preview_420_preview_image_en-cplaviHCWZGVEBAdDuXj3LSLgfgMuvQT-w.png",
+    "discovered_at": "2026-03-23T03:25:29.315645+00:00",
+    "raw": {
+      "slug": "rise",
+      "post_date": "2025-03-25"
+    },
+    "news_id": "12d7701ed21e4a51"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Between Light and Regular",
+    "url": "https://type.today/en/journal/lightregular",
+    "published_at": "2025-03-27",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1177/preview_420_preview_image_en-ypDkjFy-8APTTCpKXmmN3ueYpk6hnt5wTg.png",
+    "discovered_at": "2026-03-23T03:25:29.315663+00:00",
+    "raw": {
+      "slug": "lightregular",
+      "post_date": "2025-03-27"
+    },
+    "news_id": "b698fa8a24290b53"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Qommodore in use: Serenity",
+    "url": "https://type.today/en/journal/serenity",
+    "published_at": "2025-04-01",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1178/preview_420_preview_image_en-jE0VU7wu3odwgb6OrsWbfRVM8HZy9Jh1GQ.png",
+    "discovered_at": "2026-03-23T03:25:29.315679+00:00",
+    "raw": {
+      "slug": "serenity",
+      "post_date": "2025-04-01"
+    },
+    "news_id": "5cf59949ec88b92e"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Tom Conroy: “I think of the project as a garden”",
+    "url": "https://type.today/en/journal/tomconroy",
+    "published_at": "2025-04-03",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1179/preview_420_preview_image_ru-CX0TRvZsMJW9lRQra84GFck1D_vB-QEjIA.png",
+    "discovered_at": "2026-03-23T03:25:29.315696+00:00",
+    "raw": {
+      "slug": "tomconroy",
+      "post_date": "2025-04-03"
+    },
+    "news_id": "d12ff64f151723db"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Druk in use: Tokyo People",
+    "url": "https://type.today/en/journal/tokyopeople",
+    "published_at": "2025-04-08",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1180/preview_420_preview_image_en-Y_4ER462SdR_Vm1FdGUDqOIBL1sz_Qz6cw.png",
+    "discovered_at": "2026-03-23T03:25:29.315713+00:00",
+    "raw": {
+      "slug": "tokyopeople",
+      "post_date": "2025-04-08"
+    },
+    "news_id": "f4b628381d4afec4"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Music as a type designer’s companion",
+    "url": "https://type.today/en/journal/musicandtype",
+    "published_at": "2025-04-11",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1181/preview_420_preview_image_en-5o2cbdk7wvJfjeAD4iEzw3r0s340nRo0tg.png",
+    "discovered_at": "2026-03-23T03:25:29.315729+00:00",
+    "raw": {
+      "slug": "musicandtype",
+      "post_date": "2025-04-11"
+    },
+    "news_id": "ef14c119f055e3c5"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Atlas Typewriter in use: Inside Kristallnacht",
+    "url": "https://type.today/en/journal/kristallnacht",
+    "published_at": "2025-04-15",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1182/preview_420_preview_image_en-OfeuSzie9AXz9PJZK2toMoTKcsHThpq0Sg.png",
+    "discovered_at": "2026-03-23T03:25:29.315749+00:00",
+    "raw": {
+      "slug": "kristallnacht",
+      "post_date": "2025-04-15"
+    },
+    "news_id": "0f638a739e46e1f2"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Ellendea Proffer Teasley: “No blood on the final copy”",
+    "url": "https://type.today/en/journal/ardis",
+    "published_at": "2025-04-18",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1183/preview_420_preview_image_en-2whYH3SJb83-wO9VoEyRPYu5VtDaQGylvA.png",
+    "discovered_at": "2026-03-23T03:25:29.315771+00:00",
+    "raw": {
+      "slug": "ardis",
+      "post_date": "2025-04-18"
+    },
+    "news_id": "32fcde8f2352ddd8"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Platform in use: The Allure of the Multiverse",
+    "url": "https://type.today/en/journal/multiverse",
+    "published_at": "2025-04-22",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1184/preview_420_preview_image_en-R46GVnbvQgls_56Xr60UU_SOlhqTBfqlGA.png",
+    "discovered_at": "2026-03-23T03:25:29.315787+00:00",
+    "raw": {
+      "slug": "multiverse",
+      "post_date": "2025-04-22"
+    },
+    "news_id": "7165bcbed3860d1f"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Xprmntl 03 in use: An Intro to Variable Fonts",
+    "url": "https://type.today/en/journal/aboutvariable",
+    "published_at": "2025-04-29",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1185/preview_420_preview_image_en-yWTWFYrn0qSM0gIOlrrRXcf14hBN_4hWxg.png",
+    "discovered_at": "2026-03-23T03:25:29.315803+00:00",
+    "raw": {
+      "slug": "aboutvariable",
+      "post_date": "2025-04-29"
+    },
+    "news_id": "ee2d0559f9adf929"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "How do emojis work?",
+    "url": "https://type.today/en/journal/emoji01",
+    "published_at": "2025-05-06",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1186/preview_420_preview_image_en-i6iS7Uz6GLoGveSEFcr0BcB9g-Pa-GC1cA.png",
+    "discovered_at": "2026-03-23T03:25:29.315819+00:00",
+    "raw": {
+      "slug": "emoji01",
+      "post_date": "2025-05-06"
+    },
+    "news_id": "c1980c87a7af104e"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Roslindale in use: Pillar",
+    "url": "https://type.today/en/journal/pillar",
+    "published_at": "2025-05-08",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1187/preview_420_preview_image_en-5Qz2E7ShrYON_cit1aLO_iBNc1Jz8w8GNQ.png",
+    "discovered_at": "2026-03-23T03:25:29.315835+00:00",
+    "raw": {
+      "slug": "pillar",
+      "post_date": "2025-05-08"
+    },
+    "news_id": "4f6fd5b01bac42c0"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Stratos in use: Deutsch Online",
+    "url": "https://type.today/en/journal/deutschonline",
+    "published_at": "2025-05-13",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1188/preview_420_preview_image_en-9SZKf-Jti-8VNodcn8ix7ungS3BwtwylZg.png",
+    "discovered_at": "2026-03-23T03:25:29.315851+00:00",
+    "raw": {
+      "slug": "deutschonline",
+      "post_date": "2025-05-13"
+    },
+    "news_id": "f6e527a6b51ae605"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "New typeface: Factor A Mono",
+    "url": "https://type.today/en/journal/factoramono",
+    "published_at": "2025-05-15",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1189/preview_420_preview_image_en-md3PNseXYxSH1edGAOwHNaR6JocFTl99QQ.jpg",
+    "discovered_at": "2026-03-23T03:25:29.315867+00:00",
+    "raw": {
+      "slug": "factoramono",
+      "post_date": "2025-05-15"
+    },
+    "news_id": "8fb1d2e05dccf6fb"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "How emojis help and hinder communication",
+    "url": "https://type.today/en/journal/emoji02",
+    "published_at": "2025-05-20",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1190/preview_420_preview_image_en-6idkg1-kJ0dYp57FhqjerWs7fYSjaZOvVg.png",
+    "discovered_at": "2026-03-23T03:25:29.315882+00:00",
+    "raw": {
+      "slug": "emoji02",
+      "post_date": "2025-05-20"
+    },
+    "news_id": "592dd5ee4f3a51f3"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Alex Slobzheninov: “Typefaces Do Have a Lifetime”",
+    "url": "https://type.today/en/journal/contemporarytype",
+    "published_at": "2025-05-22",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1191/preview_420_preview_image_en--IuApVtm7PoLITEjAnY5syEGPuU4UEKCsA.png",
+    "discovered_at": "2026-03-23T03:25:29.315898+00:00",
+    "raw": {
+      "slug": "contemporarytype",
+      "post_date": "2025-05-22"
+    },
+    "news_id": "37a35776bd8cb21b"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Austin in use: Galipette",
+    "url": "https://type.today/en/journal/galipette",
+    "published_at": "2025-05-27",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1192/preview_420_preview_image_en-6ZfUyVhOtdwQh-RT6OdhuUeUxqiJfU72Jg.png",
+    "discovered_at": "2026-03-23T03:25:29.315914+00:00",
+    "raw": {
+      "slug": "galipette",
+      "post_date": "2025-05-27"
+    },
+    "news_id": "c23cfe883bb149df"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "New typeface: Repose",
+    "url": "https://type.today/en/journal/repose",
+    "published_at": "2025-05-29",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1193/preview_420_preview_image_en-jCioR3leyNb7NDPbFK73lYDlgCyWTX_1eg.png",
+    "discovered_at": "2026-03-23T03:25:29.315930+00:00",
+    "raw": {
+      "slug": "repose",
+      "post_date": "2025-05-29"
+    },
+    "news_id": "7f10436ad4f98e99"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "New typeface: Opague",
+    "url": "https://type.today/en/journal/opague",
+    "published_at": "2025-05-29",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1194/preview_420_preview_image_en-xU132LZ-5TO6FIHWSNsuymSkNMqo52IWdw.png",
+    "discovered_at": "2026-03-23T03:25:29.315945+00:00",
+    "raw": {
+      "slug": "opague",
+      "post_date": "2025-05-29"
+    },
+    "news_id": "c80c13dfcb9b3078"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Kazimir in use: The guide on Le Fabuleux Destin d’Amélie Poulain",
+    "url": "https://type.today/en/journal/amelie",
+    "published_at": "2025-06-03",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1195/preview_420_preview_image_en-mFNOkYZVmxCxqXSJ7uwgOuJnClrj1aWbkA.jpg",
+    "discovered_at": "2026-03-23T03:25:29.315961+00:00",
+    "raw": {
+      "slug": "amelie",
+      "post_date": "2025-06-03"
+    },
+    "news_id": "44cc6dc482df1dda"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Problematic emojis",
+    "url": "https://type.today/en/journal/emoji03",
+    "published_at": "2025-06-05",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1196/preview_420_preview_image_en-5lfgiGhOkUpUtWyjN_YkuzLPX_2W2Ykzng.png",
+    "discovered_at": "2026-03-23T03:25:29.315976+00:00",
+    "raw": {
+      "slug": "emoji03",
+      "post_date": "2025-06-05"
+    },
+    "news_id": "288134471979fbe9"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Druk in use: The Culture &amp; Community Power Fund",
+    "url": "https://type.today/en/journal/culturefund",
+    "published_at": "2025-06-10",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1197/preview_420_preview_image_en-ZBG7KVSi3jLd9cmU7VWPfH-t6zNvMTbyOg.png",
+    "discovered_at": "2026-03-23T03:25:29.315992+00:00",
+    "raw": {
+      "slug": "culturefund",
+      "post_date": "2025-06-10"
+    },
+    "news_id": "5092c5598769d17e"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Normalidad and Kazimir in use: Divizare",
+    "url": "https://type.today/en/journal/divizare",
+    "published_at": "2025-06-17",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1198/preview_420_preview_image_en-6u4wXxU71AUCick9b9_ni7JOvQrcMlT68g.png",
+    "discovered_at": "2026-03-23T03:25:29.316007+00:00",
+    "raw": {
+      "slug": "divizare",
+      "post_date": "2025-06-17"
+    },
+    "news_id": "237e475757552728"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Tomorrow’s new typeface: Lufta",
+    "url": "https://type.today/en/journal/lufta",
+    "published_at": "2025-06-19",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/1/1199/preview_420_preview_image_en-KLso0-WkadaSZywKSg8LCx1xgNbScCMOQw.jpg",
+    "discovered_at": "2026-03-23T03:25:29.316023+00:00",
+    "raw": {
+      "slug": "lufta",
+      "post_date": "2025-06-19"
+    },
+    "news_id": "99162be859a70d64"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Taler in use: Bernd and Hilla Becher calendar",
+    "url": "https://type.today/en/journal/becher",
+    "published_at": "2025-06-24",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1200/preview_420_preview_image_en-SErsn38UzOtvzfcxuk7s2Bw4Bhva0IPxgg.png",
+    "discovered_at": "2026-03-23T03:25:29.316039+00:00",
+    "raw": {
+      "slug": "becher",
+      "post_date": "2025-06-24"
+    },
+    "news_id": "80bb2f7dacbb12f0"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Igor Gurovich: “It’s not that designers solve unique problems”",
+    "url": "https://type.today/en/journal/gurovich",
+    "published_at": "2025-06-26",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1201/preview_420_preview_image_en-moCzd1JOyPmfSVymyKj2S06HJ-qp9kzqvA.png",
+    "discovered_at": "2026-03-23T03:25:29.316056+00:00",
+    "raw": {
+      "slug": "gurovich",
+      "post_date": "2025-06-26"
+    },
+    "news_id": "b02394820e668422"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Signal in use: The story of one collection",
+    "url": "https://type.today/en/journal/dries",
+    "published_at": "2025-07-01",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1202/preview_420_preview_image_en-nJ0VkqdfEB-iyqxKkZj8realdsvx8FgUvw.png",
+    "discovered_at": "2026-03-23T03:25:29.316074+00:00",
+    "raw": {
+      "slug": "dries",
+      "post_date": "2025-07-01"
+    },
+    "news_id": "aca9184e5c9b16bf"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Rooftop in use: A guide to Tver Constructivism",
+    "url": "https://type.today/en/journal/tver",
+    "published_at": "2025-07-08",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1203/preview_420_preview_image_en-6G3hySaxIBSR-e7jzMxteufTUNSpWMe_dQ.png",
+    "discovered_at": "2026-03-23T03:25:29.316090+00:00",
+    "raw": {
+      "slug": "tver",
+      "post_date": "2025-07-08"
+    },
+    "news_id": "037eaeb795e6e78b"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Manual: Latin abbreviations and acronyms",
+    "url": "https://type.today/en/journal/latinabbreviations",
+    "published_at": "2025-07-11",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1204/preview_420_preview_image_en-50PG2Oc2avqdUCT27td9aXLBvHnHIQwARg.png",
+    "discovered_at": "2026-03-23T03:25:29.316106+00:00",
+    "raw": {
+      "slug": "latinabbreviations",
+      "post_date": "2025-07-11"
+    },
+    "news_id": "e1d63327d51b2abb"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Signal in use: CAHU",
+    "url": "https://type.today/en/journal/cahu",
+    "published_at": "2025-07-15",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1205/preview_420_preview_image_en-B3JDVLJbZGZ4zxPevd7jSAgpbaLWT31iZQ.png",
+    "discovered_at": "2026-03-23T03:25:29.316122+00:00",
+    "raw": {
+      "slug": "cahu",
+      "post_date": "2025-07-15"
+    },
+    "news_id": "e8f33d219647a788"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "New typeface: Gregory Grotesk",
+    "url": "https://type.today/en/journal/gregorygrotesk",
+    "published_at": "2025-07-16",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1206/preview_420_preview_image_en-k_haLVAPRp9wPVY4dcpeau5_lR0fyh2Arg.png",
+    "discovered_at": "2026-03-23T03:25:29.316138+00:00",
+    "raw": {
+      "slug": "gregorygrotesk",
+      "post_date": "2025-07-16"
+    },
+    "news_id": "c7f10cd725040eb7"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Oceanic Text, Oceanic Grotesk in use: myTrudy",
+    "url": "https://type.today/en/journal/mytrudy",
+    "published_at": "2025-07-22",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1207/preview_420_preview_image_en-ivWs01_pdHanRB-JSa0_l5G5N1wrQ3ZIcQ.png",
+    "discovered_at": "2026-03-23T03:25:29.316154+00:00",
+    "raw": {
+      "slug": "mytrudy",
+      "post_date": "2025-07-22"
+    },
+    "news_id": "b1103db00b2e1396"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Araz Bogharian, Arman Harutyunyan: “It’s easier to list Armenian typefaces that aren’t missing”",
+    "url": "https://type.today/en/journal/armeniantypenow",
+    "published_at": "2025-07-24",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1208/preview_420_preview_image_en-0z3aoIORBiD2Wegp-MmhVgju_pN6WTPRog.png",
+    "discovered_at": "2026-03-23T03:25:29.316169+00:00",
+    "raw": {
+      "slug": "armeniantypenow",
+      "post_date": "2025-07-24"
+    },
+    "news_id": "b363e47289087e93"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Maregraphe in use: Saberes e Acessos",
+    "url": "https://type.today/en/journal/sabereseacessos",
+    "published_at": "2025-07-29",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1209/preview_420_preview_image_en-nVm2mA0fpP58Z7ZJKR12jk4iPfRJzW2sLA.png",
+    "discovered_at": "2026-03-23T03:25:29.316185+00:00",
+    "raw": {
+      "slug": "sabereseacessos",
+      "post_date": "2025-07-29"
+    },
+    "news_id": "fe6fca833e674bfd"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Archaism in use: Modernists and Mavericks",
+    "url": "https://type.today/en/journal/modernists",
+    "published_at": "2025-08-05",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1210/preview_420_preview_image_en-BYUTl4yIzWOVJCyGkHifngcPj83Kn9uCrg.png",
+    "discovered_at": "2026-03-23T03:25:29.316200+00:00",
+    "raw": {
+      "slug": "modernists",
+      "post_date": "2025-08-05"
+    },
+    "news_id": "b1493e8c53356dc6"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Fashion professionals versus Erik Spiekermann",
+    "url": "https://type.today/en/journal/fontsandshoes",
+    "published_at": "2025-08-08",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1211/preview_420_preview_image_en-Dj0Zct2IGS5CHOS1mLZ-An5GHnWH1Ob_wQ.png",
+    "discovered_at": "2026-03-23T03:25:29.316217+00:00",
+    "raw": {
+      "slug": "fontsandshoes",
+      "post_date": "2025-08-08"
+    },
+    "news_id": "bff11d02e1c03e87"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Druk in use: Lentze.Stopper",
+    "url": "https://type.today/en/journal/lentze",
+    "published_at": "2025-08-12",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1212/preview_420_preview_image_en-uk8sZfQ1v8if4QEkACZEgtGDzP8Bt1NT8A.png",
+    "discovered_at": "2026-03-23T03:25:29.316232+00:00",
+    "raw": {
+      "slug": "lentze",
+      "post_date": "2025-08-12"
+    },
+    "news_id": "d5d9d3cbcf2ecc8b"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "When Poor Kerning Wins: What does Politics Do to Design?",
+    "url": "https://type.today/en/journal/superstorm",
+    "published_at": "2025-08-14",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1213/preview_420_preview_image_en-7KVmEzvUNilzbwl8gnto1V9YJE7-MFXJ6w.png",
+    "discovered_at": "2026-03-23T03:25:29.316248+00:00",
+    "raw": {
+      "slug": "superstorm",
+      "post_date": "2025-08-14"
+    },
+    "news_id": "a77fba4d1a41cadc"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Loos in use: MyCeli",
+    "url": "https://type.today/en/journal/myceli",
+    "published_at": "2025-08-19",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1214/preview_420_preview_image_en-B1K_aOcReyyG2RRBUHkp_URn98ryKWnHjg.png",
+    "discovered_at": "2026-03-23T03:25:29.316263+00:00",
+    "raw": {
+      "slug": "myceli",
+      "post_date": "2025-08-19"
+    },
+    "news_id": "f1d89d511d93eb1c"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Normalidad in use: Oncologica",
+    "url": "https://type.today/en/journal/oncologica",
+    "published_at": "2025-08-26",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1215/preview_420_preview_image_en-uBTGQExpm6kuyBXOGsP6fCl7DABxYN-qCw.png",
+    "discovered_at": "2026-03-23T03:25:29.316279+00:00",
+    "raw": {
+      "slug": "oncologica",
+      "post_date": "2025-08-26"
+    },
+    "news_id": "c074eae95ed67b60"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Thomas Phinney: “Just because someone is suspicious doesn’t mean there’s anything to look into”",
+    "url": "https://type.today/en/journal/tomasphinney",
+    "published_at": "2025-08-28",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1216/preview_420_preview_image_en-Ow7eWQxHGFKN3crWX0fg1Ip4QoJN1zbLzA.png",
+    "discovered_at": "2026-03-23T03:25:29.316295+00:00",
+    "raw": {
+      "slug": "tomasphinney",
+      "post_date": "2025-08-28"
+    },
+    "news_id": "56e34be51e36aef9"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Atlas Grotesk in use: Switch ’24",
+    "url": "https://type.today/en/journal/switch24",
+    "published_at": "2025-09-02",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1217/preview_420_preview_image_en-kzubqd6xa-D_OAKeOsYxHmqNiPEbNSnnBg.png",
+    "discovered_at": "2026-03-23T03:25:29.316310+00:00",
+    "raw": {
+      "slug": "switch24",
+      "post_date": "2025-09-02"
+    },
+    "news_id": "dcda591997853aae"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Manual: Manuals",
+    "url": "https://type.today/en/journal/manuals",
+    "published_at": "2025-09-04",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1218/preview_420_preview_image_en-UIl4IaQVrUXAM-YVo0Kh3JJWeGwJvC6xYw.png",
+    "discovered_at": "2026-03-23T03:25:29.316326+00:00",
+    "raw": {
+      "slug": "manuals",
+      "post_date": "2025-09-04"
+    },
+    "news_id": "d1f35b4224bc8dde"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Forma DJR in use: Karmir Photo Lab",
+    "url": "https://type.today/en/journal/karmir",
+    "published_at": "2025-09-09",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1219/preview_420_preview_image_en-E6yYAn-c6e1z_tZS0MPLN4tHm68rrU1CpA.png",
+    "discovered_at": "2026-03-23T03:25:29.316342+00:00",
+    "raw": {
+      "slug": "karmir",
+      "post_date": "2025-09-09"
+    },
+    "news_id": "450d2ef4ed9bee41"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Alexandr Gorbachev: “Leaving some evidence that the text was edited not because the author wanted these changes, but because of the law, is the right thing to do”",
+    "url": "https://type.today/en/journal/gorbachev",
+    "published_at": "2025-09-11",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1220/preview_420_preview_image_en-sZ7d35WtH0W5nbiLBDVkQ659B_7jcvtCZw.png",
+    "discovered_at": "2026-03-23T03:25:29.316359+00:00",
+    "raw": {
+      "slug": "gorbachev",
+      "post_date": "2025-09-11"
+    },
+    "news_id": "680c9806f38ded5e"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Loos in use: Either ∣ Other",
+    "url": "https://type.today/en/journal/eitherother",
+    "published_at": "2025-09-18",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1221/preview_420_preview_image_en-oA5ULnKLDHv5Oe0H8FuMDf8d0Z4OaLkoWw.png",
+    "discovered_at": "2026-03-23T03:25:29.316377+00:00",
+    "raw": {
+      "slug": "eitherother",
+      "post_date": "2025-09-18"
+    },
+    "news_id": "e2fa5efcc64e5a9a"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Children’s books on type and typography",
+    "url": "https://type.today/en/journal/typography_books_for_kids",
+    "published_at": "2025-09-18",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1222/preview_420_preview_image_en-Cy2T_kvy7GUP5S1HfP4m6dv85WTVkczl3A.png",
+    "discovered_at": "2026-03-23T03:25:29.316393+00:00",
+    "raw": {
+      "slug": "typography_books_for_kids",
+      "post_date": "2025-09-18"
+    },
+    "news_id": "67f7c40edea42daa"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Xprmntl 03 in ise: Çirkin Üvey Kardeş",
+    "url": "https://type.today/en/journal/uglystepsister",
+    "published_at": "2025-09-23",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1223/preview_420_preview_image_en-qDVFIcbzbwePrfv4_wmzi4AONYxBDyb1gA.png",
+    "discovered_at": "2026-03-23T03:25:29.316409+00:00",
+    "raw": {
+      "slug": "uglystepsister",
+      "post_date": "2025-09-23"
+    },
+    "news_id": "c452f25ef7b29a4b"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Roslindale Text and Elma Trio in text: Alpha Centauri",
+    "url": "https://type.today/en/journal/alfacentauri",
+    "published_at": "2025-09-30",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1224/preview_420_preview_image_en-12zEeWM89BuUxh31uVxu_OTm60nLxlQ8og.jpg",
+    "discovered_at": "2026-03-23T03:25:29.316425+00:00",
+    "raw": {
+      "slug": "alfacentauri",
+      "post_date": "2025-09-30"
+    },
+    "news_id": "56fce4770acf58ab"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Loos in use: Ataro.ge",
+    "url": "https://type.today/en/journal/ataro",
+    "published_at": "2025-10-07",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1225/preview_420_preview_image_en-V2PKS7cV_89bT1HZ-q9JzRUueLd29NqGcg.png",
+    "discovered_at": "2026-03-23T03:25:29.316440+00:00",
+    "raw": {
+      "slug": "ataro",
+      "post_date": "2025-10-07"
+    },
+    "news_id": "5f8599ddb8e20401"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Jean-Baptiste Levée: “Type drawing is a somewhat easy skill to acquire”",
+    "url": "https://type.today/en/journal/jbl",
+    "published_at": "2025-10-14",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1226/preview_420_preview_image_en-nEYYNwwU4ubKN7ZWt-ogyKukPfNvjGUYzg.webp",
+    "discovered_at": "2026-03-23T03:25:29.316456+00:00",
+    "raw": {
+      "slug": "jbl",
+      "post_date": "2025-10-14"
+    },
+    "news_id": "4b90bf66c48506f2"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "New typeface: Yuni Grotesque",
+    "url": "https://type.today/en/journal/yunigrotesque",
+    "published_at": "2025-10-09",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1227/preview_420_preview_image_en-5dpSEr6GEglSLt13vtRn4pIBkimAWrK-Dg.png",
+    "discovered_at": "2026-03-23T03:25:29.316471+00:00",
+    "raw": {
+      "slug": "yunigrotesque",
+      "post_date": "2025-10-09"
+    },
+    "news_id": "ffba71dfc0f98df6"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Roslindale in use: Savor",
+    "url": "https://type.today/en/journal/savor",
+    "published_at": "2025-10-16",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1228/preview_420_preview_image_en-ZWZr1dQsFqZL-VAZ0RVr0r9bF78jJHtRvQ.png",
+    "discovered_at": "2026-03-23T03:25:29.316487+00:00",
+    "raw": {
+      "slug": "savor",
+      "post_date": "2025-10-16"
+    },
+    "news_id": "600a14e02395d231"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Forma DJR in use: Workshop",
+    "url": "https://type.today/en/journal/workshop",
+    "published_at": "2025-10-21",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1229/preview_420_preview_image_en-ZSqX8MuPn752WIUhjYF-8HmfoWaj5jzRwA.png",
+    "discovered_at": "2026-03-23T03:25:29.316503+00:00",
+    "raw": {
+      "slug": "workshop",
+      "post_date": "2025-10-21"
+    },
+    "news_id": "1cdd84455bb84cdb"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Questions about children’s book typography",
+    "url": "https://type.today/en/journal/childrens_book_typography",
+    "published_at": "2025-10-23",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1230/preview_420_preview_image_en-P-lz1E40YNb8r9pwCtqrYpA-FR93E5P-vQ.png",
+    "discovered_at": "2026-03-23T03:25:29.316518+00:00",
+    "raw": {
+      "slug": "childrens_book_typography",
+      "post_date": "2025-10-23"
+    },
+    "news_id": "ce30ffe416b09d5c"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Spectral in use: The Shape of What Remains",
+    "url": "https://type.today/en/journal/spectral-in-use-_the-shape-of-what-remains",
+    "published_at": "2025-10-28",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1231/preview_420_preview_image_en-VQO1LXH3BBvFgjBmCFbNMoRvNDQbmzF8bw.png",
+    "discovered_at": "2026-03-23T03:25:29.316534+00:00",
+    "raw": {
+      "slug": "spectral-in-use-_the-shape-of-what-remains",
+      "post_date": "2025-10-28"
+    },
+    "news_id": "007f4b25a1706712"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Cyrillic on Google Fonts: Display typefaces (Part 1)",
+    "url": "https://type.today/en/journal/display",
+    "published_at": "2025-11-04",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1232/preview_420_preview_image_en-RtM5ivLMDtOMoutxBu5ZUnvKt8u3qgZazw.png",
+    "discovered_at": "2026-03-23T03:25:29.316597+00:00",
+    "raw": {
+      "slug": "display",
+      "post_date": "2025-11-04"
+    },
+    "news_id": "f32ff2753760674f"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "New typeface: Feature",
+    "url": "https://type.today/en/journal/feature",
+    "published_at": "2025-11-06",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1233/preview_420_preview_image_en-DxZBcOmrMz2kcDmck9aFgsulCnEWzR6hfQ.png",
+    "discovered_at": "2026-03-23T03:25:29.316712+00:00",
+    "raw": {
+      "slug": "feature",
+      "post_date": "2025-11-06"
+    },
+    "news_id": "f63a836e3496e01b"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Tomorrow’s new typeface: Backslanted",
+    "url": "https://type.today/en/journal/backslanted",
+    "published_at": "2025-11-11",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1234/preview_420_preview_image_en-1eVHEz-Rbh4G4-kdxtND5R4xKgbV11UrcQ.jpg",
+    "discovered_at": "2026-03-23T03:25:29.316760+00:00",
+    "raw": {
+      "slug": "backslanted",
+      "post_date": "2025-11-11"
+    },
+    "news_id": "cb4b15f286a2f30c"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "CSTM Xprmntl 02 in use: Russians in Africa",
+    "url": "https://type.today/en/journal/russiansinafrica",
+    "published_at": "2025-11-13",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1235/preview_420_preview_image_en-DcugKGqC_eTJ8MjLcZeodYJOC1sGKmMd_A.png",
+    "discovered_at": "2026-03-23T03:25:29.316799+00:00",
+    "raw": {
+      "slug": "russiansinafrica",
+      "post_date": "2025-11-13"
+    },
+    "news_id": "759b063bbb23bcae"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Oceanic Text and Oceanic Grotesk in use: Care",
+    "url": "https://type.today/en/journal/oceanic_care",
+    "published_at": "2025-11-18",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1236/preview_420_preview_image_en-65x5vdlH2PeW47CzPjV53R1yD8IdJUZOMg.png",
+    "discovered_at": "2026-03-23T03:25:29.316837+00:00",
+    "raw": {
+      "slug": "oceanic_care",
+      "post_date": "2025-11-18"
+    },
+    "news_id": "9a2703e32995a233"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Backslanted in use: MADMADMAD &amp; Omni Selassi",
+    "url": "https://type.today/en/journal/MADMADMAD",
+    "published_at": "2025-11-25",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1237/preview_420_preview_image_en-KTMjo76FnHaHu0bsG8hfU_o_XEZ5F_Yymw.png",
+    "discovered_at": "2026-03-23T03:25:29.316872+00:00",
+    "raw": {
+      "slug": "MADMADMAD",
+      "post_date": "2025-11-25"
+    },
+    "news_id": "5eeac2aab4a860b9"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Bas Jacobs (Underware): “I don’t think we should approach a child’s brain with our adult brain”",
+    "url": "https://type.today/en/journal/kermit",
+    "published_at": "2025-11-27",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1238/preview_420_preview_image_en-eG2Dd_stSgs1Zg7D60PbLlFnQdpPxVLC-Q.png",
+    "discovered_at": "2026-03-23T03:25:29.316909+00:00",
+    "raw": {
+      "slug": "kermit",
+      "post_date": "2025-11-27"
+    },
+    "news_id": "af48f42baa642a1e"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Feature in use: Filmoteca d’Estiu",
+    "url": "https://type.today/en/journal/filmoteca",
+    "published_at": "2025-12-02",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1239/preview_420_preview_image_en-Bi0TSqKK3D6LAW_xEFcmyHIh6jLV165BWw.png",
+    "discovered_at": "2026-03-23T03:25:29.316948+00:00",
+    "raw": {
+      "slug": "filmoteca",
+      "post_date": "2025-12-02"
+    },
+    "news_id": "4952186836b54ae1"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Manual: Numerals",
+    "url": "https://type.today/en/journal/numerals",
+    "published_at": "2025-12-04",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1240/preview_420_preview_image_en-I1Zl5A_EGiv48Dyh_KD8E6h-s1ch7Bv4nA.png",
+    "discovered_at": "2026-03-23T03:25:29.316993+00:00",
+    "raw": {
+      "slug": "numerals",
+      "post_date": "2025-12-04"
+    },
+    "news_id": "418c307ae329e2f9"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Loos in use: Kala",
+    "url": "https://type.today/en/journal/kala",
+    "published_at": "2025-12-09",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1241/preview_420_preview_image_en-78WsNel50KReEMevZnVQ4LwKAI5JM82fYw.png",
+    "discovered_at": "2026-03-23T03:25:29.317028+00:00",
+    "raw": {
+      "slug": "kala",
+      "post_date": "2025-12-09"
+    },
+    "news_id": "5fd9a9a897cb8fb0"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Tomorrow’s new typeface: Prepis",
+    "url": "https://type.today/en/journal/prepis",
+    "published_at": "2025-12-16",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1242/preview_420_preview_image_en-ymcaH41OOB2PT0ErF7pqTz_Mb_TIkwBzIw.jpg",
+    "discovered_at": "2026-03-23T03:25:29.317062+00:00",
+    "raw": {
+      "slug": "prepis",
+      "post_date": "2025-12-16"
+    },
+    "news_id": "020c45d212022653"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Trola in use: The Story of Art by Ernst Gombrich",
+    "url": "https://type.today/en/journal/gombrich",
+    "published_at": "2025-12-18",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1243/preview_420_preview_image_ru-uwASl9CjZlHP90LMjpDjjo0i2L_wD2SWfA.png",
+    "discovered_at": "2026-03-23T03:25:29.317097+00:00",
+    "raw": {
+      "slug": "gombrich",
+      "post_date": "2025-12-18"
+    },
+    "news_id": "30eee377012a99bb"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Studio Feixen: “We’re not thinking Swiss design is sacred”",
+    "url": "https://type.today/en/journal/studio_feixen",
+    "published_at": "2025-12-23",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1244/preview_420_preview_image_en-7EfIAeIDYBqH62KQLkCNLOnKaGnKGmoIkQ.png",
+    "discovered_at": "2026-03-23T03:25:29.317132+00:00",
+    "raw": {
+      "slug": "studio_feixen",
+      "post_date": "2025-12-23"
+    },
+    "news_id": "f584c68e653a60aa"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Repose in use: Méridien",
+    "url": "https://type.today/en/journal/meridien",
+    "published_at": "2026-01-06",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1245/preview_420_preview_image_en-DM2RhZzGI1Sd0aWCCB_9xRj3Ok9cxH7RgQ.png",
+    "discovered_at": "2026-03-23T03:25:29.317166+00:00",
+    "raw": {
+      "slug": "meridien",
+      "post_date": "2026-01-06"
+    },
+    "news_id": "14ed98548a4d67db"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Books on type, design, and typography: 2025",
+    "url": "https://type.today/en/journal/books25",
+    "published_at": "2026-01-08",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1246/preview_420_preview_image_en-eA0M9nz84TdLyzOwJda8VJQpvXtqIwIW5Q.png",
+    "discovered_at": "2026-03-23T03:25:29.317199+00:00",
+    "raw": {
+      "slug": "books25",
+      "post_date": "2026-01-08"
+    },
+    "news_id": "4c62be071956fbf8"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Gregory Grotesk in use: Überbrückungsfonds",
+    "url": "https://type.today/en/journal/uberbruckungsfonds",
+    "published_at": "2026-01-13",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1247/preview_420_preview_image_en-pRDf3gs3iDZEPzl6rwmcwblCN6RwVta2Xg.png",
+    "discovered_at": "2026-03-23T03:25:29.317232+00:00",
+    "raw": {
+      "slug": "uberbruckungsfonds",
+      "post_date": "2026-01-13"
+    },
+    "news_id": "7bbec3da1228aed0"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Cyrillic on Google Fonts: Display typefaces (Part 2)",
+    "url": "https://type.today/en/journal/display2",
+    "published_at": "2026-01-16",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1248/preview_420_preview_image_en-rf92zIcI0Zzq69-ynqaKYliB4hmOBAK0SQ.png",
+    "discovered_at": "2026-03-23T03:25:29.317265+00:00",
+    "raw": {
+      "slug": "display2",
+      "post_date": "2026-01-16"
+    },
+    "news_id": "0d0c3dfc8a5c926d"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Factor A in use: Verd Vicreu",
+    "url": "https://type.today/en/journal/verd-vicreu",
+    "published_at": "2026-01-19",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1249/preview_420_preview_image_en-2wCRyLvA67rHNG_6KyunAA3A4xDmzi7Gtw.png",
+    "discovered_at": "2026-03-23T03:25:29.317298+00:00",
+    "raw": {
+      "slug": "verd-vicreu",
+      "post_date": "2026-01-19"
+    },
+    "news_id": "4e977f577a7e51ba"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Oceanic Text in use: “Before. A Touch. After”",
+    "url": "https://type.today/en/journal/touch-after",
+    "published_at": "2026-01-27",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1250/preview_420_preview_image_en-j0FoeHFSo8I36b7u0KMZqfHabEe7YGoJoA.png",
+    "discovered_at": "2026-03-23T03:25:29.317330+00:00",
+    "raw": {
+      "slug": "touch-after",
+      "post_date": "2026-01-27"
+    },
+    "news_id": "f0353027e7d43476"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "New typeface: Zhivov",
+    "url": "https://type.today/en/journal/zhivov",
+    "published_at": "2026-01-29",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1251/preview_420_preview_image_en-tOQ5euqmEAh_xGkFyHl__Ko5LNkBLf8n7A.png",
+    "discovered_at": "2026-03-23T03:25:29.317363+00:00",
+    "raw": {
+      "slug": "zhivov",
+      "post_date": "2026-01-29"
+    },
+    "news_id": "3ad5abb72e9258ae"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Old Church Slavonic type today: ‘Nobody expects a typeface to reproduce all the details of a manuscript’",
+    "url": "https://type.today/en/journal/old-church-slavonic-today",
+    "published_at": "2026-02-03",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1252/preview_420_preview_image_en-layMbNWFcDSMjqyWkgyPBZdPTKkga8GBJg.png",
+    "discovered_at": "2026-03-23T03:25:29.317397+00:00",
+    "raw": {
+      "slug": "old-church-slavonic-today",
+      "post_date": "2026-02-03"
+    },
+    "news_id": "ace8fc3ea07aad22"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "type.today digest: January 2026",
+    "url": "https://type.today/en/journal/jan26",
+    "published_at": "2026-02-06",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1253/preview_420_preview_image_en-VsiCnpdpBrFmDckgFkjioYR-AFeulq4EwA.png",
+    "discovered_at": "2026-03-23T03:25:29.317429+00:00",
+    "raw": {
+      "slug": "jan26",
+      "post_date": "2026-02-06"
+    },
+    "news_id": "417a815b1da7c28e"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Fit in use: Darlene",
+    "url": "https://type.today/en/journal/darlene",
+    "published_at": "2026-02-10",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1254/preview_420_preview_image_en-1YPqA6XahAU0JepJcTxSiPHhVuPipQ21KQ.png",
+    "discovered_at": "2026-03-23T03:25:29.317462+00:00",
+    "raw": {
+      "slug": "darlene",
+      "post_date": "2026-02-10"
+    },
+    "news_id": "45d265a4088810cf"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Halvar in use: Orthoffice",
+    "url": "https://type.today/en/journal/orthoffice",
+    "published_at": "2026-02-17",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1255/preview_420_preview_image_en--IFtudxpFxuZxUieLuLVS8cjWonJLTR0dw.jpg",
+    "discovered_at": "2026-03-23T03:25:29.317494+00:00",
+    "raw": {
+      "slug": "orthoffice",
+      "post_date": "2026-02-17"
+    },
+    "news_id": "edec948a1de14ec5"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Affinity vs Illustrator: Typography",
+    "url": "https://type.today/en/journal/affinity-vs-illustrator",
+    "published_at": "2026-02-19",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1256/preview_420_preview_image_en-tLTlEA_zd91DtEgSwsTPujoRw_DGY_V2mQ.png",
+    "discovered_at": "2026-03-23T03:25:29.317527+00:00",
+    "raw": {
+      "slug": "affinity-vs-illustrator",
+      "post_date": "2026-02-19"
+    },
+    "news_id": "195a40db829096e3"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Oceanic Text and CSTM Xprmntl 02 in use: Moscow Utopian",
+    "url": "https://type.today/en/journal/moscow_utopia",
+    "published_at": "2026-02-25",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1257/preview_420_preview_image_en-1RxBsu99iUhRhFSZLuUpbmW4gZaWkZ9E0w.png",
+    "discovered_at": "2026-03-23T03:25:29.317560+00:00",
+    "raw": {
+      "slug": "moscow_utopia",
+      "post_date": "2026-02-25"
+    },
+    "news_id": "803d4cafbc32f258"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Morgane Vantorre: ‘My mum can recognise when kerning is off’",
+    "url": "https://type.today/en/journal/morgane-vantorre",
+    "published_at": "2026-02-26",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1258/preview_420_preview_image_en-NJ23T9S-y4St-_GODAk2gc_pBDfM2ksrYw.png",
+    "discovered_at": "2026-03-23T03:25:29.317597+00:00",
+    "raw": {
+      "slug": "morgane-vantorre",
+      "post_date": "2026-02-26"
+    },
+    "news_id": "b62009e64e4a18c2"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "New typeface: Gregory Text",
+    "url": "https://type.today/en/journal/gregory-text",
+    "published_at": "2026-03-04",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1259/preview_420_preview_image_en-YLjuM9t5GUfNH2V2YZWGlOGlEdChZb2RHQ.png",
+    "discovered_at": "2026-03-23T03:25:29.317637+00:00",
+    "raw": {
+      "slug": "gregory-text",
+      "post_date": "2026-03-04"
+    },
+    "news_id": "43718e0768846d5c"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "type.today digest: February 2026",
+    "url": "https://type.today/en/journal/feb26",
+    "published_at": "2026-03-06",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1260/preview_420_preview_image_en-2BGe4WcURNLqpkExbQnn1iz1VCHs3L772w.png",
+    "discovered_at": "2026-03-23T03:25:29.317671+00:00",
+    "raw": {
+      "slug": "feb26",
+      "post_date": "2026-03-06"
+    },
+    "news_id": "c028cfe4c06e4273"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Rene in use: Beyond",
+    "url": "https://type.today/en/journal/beyond",
+    "published_at": "2026-03-10",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1261/preview_420_preview_image_en-UTz8EYQzZY3AbD4SLFkarnBxs2xO-ORcmA.png",
+    "discovered_at": "2026-03-23T03:25:29.317703+00:00",
+    "raw": {
+      "slug": "beyond",
+      "post_date": "2026-03-10"
+    },
+    "news_id": "b7a7e39869728d7b"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "New typeface: Nekst Rounded",
+    "url": "https://type.today/en/journal/nekst-rounded",
+    "published_at": "2026-03-12",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1262/preview_420_preview_image_en-sVqJsxYby3sspUJ9ftYzo1uvjZr_xUCNGQ.png",
+    "discovered_at": "2026-03-23T03:25:29.317736+00:00",
+    "raw": {
+      "slug": "nekst-rounded",
+      "post_date": "2026-03-12"
+    },
+    "news_id": "64a20299c5051d41"
   }
 ]
