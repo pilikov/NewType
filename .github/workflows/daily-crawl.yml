@@ -32,62 +32,24 @@ jobs:
 
       - name: Restore accumulated data from crawl/daily
         run: |
-          # Сохраняем main'овые новости ДО переключения на crawl/daily.
-          # main всегда авторитетен для news: там могут быть вручную обогащённые данные.
-          cp -r web/data/news /tmp/main_news 2>/dev/null || true
-
           # Подтягиваем web/data и state из crawl/daily, чтобы не терять накопленное между публикациями.
           # data/ — gitignored, поэтому восстанавливаем только web/data и state.
           git fetch origin crawl/daily 2>/dev/null || echo "crawl/daily not found yet, skipping"
           git checkout origin/crawl/daily -- web/data/ web/state/ state/ 2>/dev/null \
             && echo "Restored web/data + state from crawl/daily" \
             || echo "No crawl/daily data to restore, starting fresh from main"
-
-          # Мержим новости из main и crawl/daily на уровне items (по news_id).
-          # Результат: объединение обоих, image_url берётся из любого источника.
-          python3 << 'PYEOF'
-          import json, os, shutil
-
-          def load_by_id(path):
-              try:
-                  return {i["news_id"]: i for i in json.load(open(path))}
-              except Exception:
-                  return {}
-
-          main_dir   = "/tmp/main_news"
-          crawl_dir  = "web/data/news"
-          out_dir    = "data/news"
-          os.makedirs(out_dir, exist_ok=True)
-
-          sources = set()
-          if os.path.isdir(main_dir):  sources.update(os.listdir(main_dir))
-          if os.path.isdir(crawl_dir): sources.update(os.listdir(crawl_dir))
-
-          for src in sources:
-              main_f  = os.path.join(main_dir,  src, "all_news.json")
-              crawl_f = os.path.join(crawl_dir, src, "all_news.json")
-              src_out = os.path.join(out_dir, src)
-              os.makedirs(src_out, exist_ok=True)
-
-              main_items  = load_by_id(main_f)
-              crawl_items = load_by_id(crawl_f)
-
-              # Union: crawl/daily items win for new content; main wins for image_url enrichment
-              merged = dict(crawl_items)
-              for nid, item in main_items.items():
-                  if nid not in merged:
-                      merged[nid] = item
-                  else:
-                      # Back-fill image_url from main if crawl/daily lacks it
-                      if not merged[nid].get("image_url") and item.get("image_url"):
-                          merged[nid]["image_url"] = item["image_url"]
-
-              if merged:
-                  out_path = os.path.join(src_out, "all_news.json")
-                  json.dump(list(merged.values()), open(out_path, "w"), ensure_ascii=False, indent=2)
-                  print(f"[news:{src}] merged {len(merged)} items "
-                        f"(main={len(main_items)}, crawl/daily={len(crawl_items)})")
-          PYEOF
+          # Восстанавливаем data/news/ из web/data/news/ — краулер пишет в data/, а не web/data/.
+          # Это позволяет дейли-краулеру накапливать новости поверх уже собранных.
+          if [ -d "web/data/news" ]; then
+            mkdir -p data/news
+            for src_dir in web/data/news/*/; do
+              [ -d "$src_dir" ] || continue
+              src_name=$(basename "$src_dir")
+              mkdir -p "data/news/$src_name"
+              cp -r "$src_dir"* "data/news/$src_name/" 2>/dev/null || true
+            done
+            echo "Restored data/news/ from web/data/news/"
+          fi
 
       - name: Run daily parsers
         run: python -m src.main --daily
@@ -110,7 +72,7 @@ jobs:
           git checkout HEAD -- web/data/_meta/favicons/ 2>/dev/null || true
           echo "Mirrored data/ → web/data (merge), state/ → web/state"
 
-      - name: Push to branch crawl/daily (no merge to main)
+      - name: Push to branch crawl/daily
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -118,6 +80,16 @@ jobs:
           git diff --staged --quiet && echo "No changes" && exit 0
           git commit -m "chore(data): daily crawl $(date -u +%Y-%m-%d)"
           git push --force origin HEAD:crawl/daily
+
+      - name: Auto-publish to main
+        run: |
+          # Мёрджим crawl/daily → main, чтобы данные попадали на бой автоматически.
+          git fetch origin main
+          git checkout main
+          git merge origin/crawl/daily --no-edit \
+            && git push origin main \
+            && echo "Auto-published crawl/daily → main" \
+            || echo "::warning::Merge to main failed (conflict?), skipping auto-publish"
 
       - name: Build report from latest run
         id: report
