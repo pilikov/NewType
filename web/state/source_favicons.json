@@ -34,5 +34,11 @@
     "favicon_local_path": "_meta/favicons/fontstand.ico",
     "favicon_resolved_from": "configured",
     "updated_at": "2026-03-10T09:32:02.453646Z"
+  },
+  "ilt": {
+    "favicon_url": "https://fonts.ilovetypography.com/favicon.ico",
+    "favicon_local_path": "_meta/favicons/ilt.ico",
+    "favicon_resolved_from": "configured",
+    "updated_at": "2026-03-27T07:38:09.315195Z"
   }
 }

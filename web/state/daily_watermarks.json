@@ -1,26 +1,30 @@
 {
   "myfonts": {
-    "last_run_utc": "2026-03-24T07:28:44.281278Z",
-    "last_date": "2026-03-24"
+    "last_run_utc": "2026-03-27T07:36:53.690198Z",
+    "last_date": "2026-03-27"
   },
   "type_today": {
-    "last_run_utc": "2026-03-24T07:28:48.577495Z",
-    "last_date": "2026-03-24"
+    "last_run_utc": "2026-03-27T07:36:56.998445Z",
+    "last_date": "2026-03-27"
   },
   "futurefonts": {
-    "last_run_utc": "2026-03-24T07:28:50.112045Z",
-    "last_date": "2026-03-24"
+    "last_run_utc": "2026-03-27T07:36:58.903017Z",
+    "last_date": "2026-03-27"
   },
   "typenetwork": {
-    "last_run_utc": "2026-03-24T07:29:13.483248Z",
-    "last_date": "2026-03-24"
+    "last_run_utc": "2026-03-27T07:37:31.867940Z",
+    "last_date": "2026-03-27"
   },
   "contemporarytype": {
-    "last_run_utc": "2026-03-24T07:29:14.978180Z",
-    "last_date": "2026-03-24"
+    "last_run_utc": "2026-03-27T07:37:35.315105Z",
+    "last_date": "2026-03-27"
   },
   "fontstand": {
-    "last_run_utc": "2026-03-24T07:29:34.095782Z",
-    "last_date": "2026-03-24"
+    "last_run_utc": "2026-03-27T07:37:53.088722Z",
+    "last_date": "2026-03-27"
+  },
+  "ilt": {
+    "last_run_utc": "2026-03-27T07:38:08.682582Z",
+    "last_date": "2026-03-27"
   }
 }

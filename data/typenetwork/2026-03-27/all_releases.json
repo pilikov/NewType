@@ -1,0 +1,586 @@
+[
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/letterjuice/fonts/nawin-paneuropean",
+    "name": "Nawin Paneuropean",
+    "styles": [],
+    "authors": [
+      "Letterjuice"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Greek",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-25",
+    "image_url": "https://www.letterjuice.cat/uploads/font/image/699c4b5a529ef_Slides_Nawin.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-27T07:37:09.460105+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5519",
+      "family_id": 5519,
+      "family_slug": "nawin-paneuropean",
+      "catalog_url": "/foundry/letterjuice/fonts/nawin-paneuropean",
+      "released": "2026-03-25T13:13:11Z",
+      "uploaded": "2026-03-25T13:13:11.093027Z",
+      "foundry_ids": [
+        136
+      ],
+      "supported_scripts": [
+        200,
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Letterjuice",
+        "foundry_site_url": "https://www.letterjuice.cat/",
+        "image_page_url": "https://www.letterjuice.cat/typefaces/nawin/"
+      }
+    },
+    "release_id": "a108d7ba6d96e9f1"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/letterjuice/fonts/nawin-grk",
+    "name": "Nawin Grk",
+    "styles": [],
+    "authors": [
+      "Letterjuice"
+    ],
+    "scripts": [
+      "Greek"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-25",
+    "image_url": "https://www.letterjuice.cat/uploads/font/image/699c4b5a529ef_Slides_Nawin.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-27T07:37:09.899784+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5517",
+      "family_id": 5517,
+      "family_slug": "nawin-grk",
+      "catalog_url": "/foundry/letterjuice/fonts/nawin-grk",
+      "released": "2026-03-25T13:13:09Z",
+      "uploaded": "2026-03-25T13:13:09.102373Z",
+      "foundry_ids": [
+        136
+      ],
+      "supported_scripts": [
+        200
+      ],
+      "supported_languages": [
+        6
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Letterjuice",
+        "foundry_site_url": "https://www.letterjuice.cat/",
+        "image_page_url": "https://www.letterjuice.cat/typefaces/nawin/"
+      }
+    },
+    "release_id": "51f2bffdf0d38431"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/letterjuice/fonts/nawin-grk-ltn",
+    "name": "Nawin Grk-Ltn",
+    "styles": [],
+    "authors": [
+      "Letterjuice"
+    ],
+    "scripts": [
+      "Greek",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-25",
+    "image_url": "https://www.letterjuice.cat/uploads/font/image/699c4b5a529ef_Slides_Nawin.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-27T07:37:10.346591+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5518",
+      "family_id": 5518,
+      "family_slug": "nawin-grk-ltn",
+      "catalog_url": "/foundry/letterjuice/fonts/nawin-grk-ltn",
+      "released": "2026-03-25T13:13:09Z",
+      "uploaded": "2026-03-25T13:13:09.790677Z",
+      "foundry_ids": [
+        136
+      ],
+      "supported_scripts": [
+        200,
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5,
+        6
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Letterjuice",
+        "foundry_site_url": "https://www.letterjuice.cat/",
+        "image_page_url": "https://www.letterjuice.cat/typefaces/nawin/"
+      }
+    },
+    "release_id": "fbab8e1fbbba032d"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/letterjuice/fonts/nawin-cyr",
+    "name": "Nawin Cyr",
+    "styles": [],
+    "authors": [
+      "Letterjuice"
+    ],
+    "scripts": [
+      "Cyrillic"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-25",
+    "image_url": "https://www.letterjuice.cat/uploads/font/image/699c4b5a529ef_Slides_Nawin.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-27T07:37:10.794007+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5515",
+      "family_id": 5515,
+      "family_slug": "nawin-cyr",
+      "catalog_url": "/foundry/letterjuice/fonts/nawin-cyr",
+      "released": "2026-03-25T13:13:07Z",
+      "uploaded": "2026-03-25T13:13:07.060885Z",
+      "foundry_ids": [
+        136
+      ],
+      "supported_scripts": [
+        220
+      ],
+      "supported_languages": [
+        4
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Letterjuice",
+        "foundry_site_url": "https://www.letterjuice.cat/",
+        "image_page_url": "https://www.letterjuice.cat/typefaces/nawin/"
+      }
+    },
+    "release_id": "7d22f39bef8add2a"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/letterjuice/fonts/nawin-cyr-ltn",
+    "name": "Nawin Cyr-Ltn",
+    "styles": [],
+    "authors": [
+      "Letterjuice"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-25",
+    "image_url": "https://www.letterjuice.cat/uploads/font/image/699c4b5a529ef_Slides_Nawin.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-27T07:37:11.243239+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5516",
+      "family_id": 5516,
+      "family_slug": "nawin-cyr-ltn",
+      "catalog_url": "/foundry/letterjuice/fonts/nawin-cyr-ltn",
+      "released": "2026-03-25T13:13:07Z",
+      "uploaded": "2026-03-25T13:13:07.739138Z",
+      "foundry_ids": [
+        136
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Letterjuice",
+        "foundry_site_url": "https://www.letterjuice.cat/",
+        "image_page_url": "https://www.letterjuice.cat/typefaces/nawin/"
+      }
+    },
+    "release_id": "535a6aebdd804b31"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/pragmatica-next-vf",
+    "name": "Pragmatica Next VF",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-24",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-27T07:37:23.447531+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5514",
+      "family_id": 5514,
+      "family_slug": "pragmatica-next-vf",
+      "catalog_url": "/foundry/paratype/fonts/pragmatica-next-vf",
+      "released": "2026-03-24T21:58:04.576236Z",
+      "uploaded": "2026-03-24T21:58:04.576242Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": true,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "2bf937fdc3a11990"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/pragmatica-next-tight",
+    "name": "Pragmatica Next Tight",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-24",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-27T07:37:23.687627+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5513",
+      "family_id": 5513,
+      "family_slug": "pragmatica-next-tight",
+      "catalog_url": "/foundry/paratype/fonts/pragmatica-next-tight",
+      "released": "2026-03-24T21:52:23.302260Z",
+      "uploaded": "2026-03-24T21:52:23.302266Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "41cb1363fd31ef32"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/pragmatica-next",
+    "name": "Pragmatica Next",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-24",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-27T07:37:23.928217+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5512",
+      "family_id": 5512,
+      "family_slug": "pragmatica-next",
+      "catalog_url": "/foundry/paratype/fonts/pragmatica-next",
+      "released": "2026-03-24T21:51:56.071522Z",
+      "uploaded": "2026-03-24T21:51:56.071528Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "2b3d8cbbe18650f4"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/pragmatica-next-condensed",
+    "name": "Pragmatica Next Condensed",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-24",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-27T07:37:24.168700+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5511",
+      "family_id": 5511,
+      "family_slug": "pragmatica-next-condensed",
+      "catalog_url": "/foundry/paratype/fonts/pragmatica-next-condensed",
+      "released": "2026-03-24T20:53:20.828334Z",
+      "uploaded": "2026-03-24T20:53:20.828341Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "bce896932360c964"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/pragmatica-next-compressed",
+    "name": "Pragmatica Next Compressed",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-24",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-27T07:37:24.446897+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5510",
+      "family_id": 5510,
+      "family_slug": "pragmatica-next-compressed",
+      "catalog_url": "/foundry/paratype/fonts/pragmatica-next-compressed",
+      "released": "2026-03-24T20:52:52.958690Z",
+      "uploaded": "2026-03-24T20:52:52.958697Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "88597c99086683f6"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/pragmatica-next-wide",
+    "name": "Pragmatica Next Wide",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-24",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-27T07:37:24.722628+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5509",
+      "family_id": 5509,
+      "family_slug": "pragmatica-next-wide",
+      "catalog_url": "/foundry/paratype/fonts/pragmatica-next-wide",
+      "released": "2026-03-24T20:03:45.475308Z",
+      "uploaded": "2026-03-24T20:03:45.475317Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "4984c462cf1ed1da"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/paratype/fonts/pragmatica-next-extended",
+    "name": "Pragmatica Next Extended",
+    "styles": [],
+    "authors": [
+      "Paratype"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-24",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-03-27T07:37:24.979417+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5508",
+      "family_id": 5508,
+      "family_slug": "pragmatica-next-extended",
+      "catalog_url": "/foundry/paratype/fonts/pragmatica-next-extended",
+      "released": "2026-03-24T20:03:18.770573Z",
+      "uploaded": "2026-03-24T20:03:18.770581Z",
+      "foundry_ids": [
+        124
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Paratype",
+        "foundry_site_url": "https://www.paratype.com/"
+      }
+    },
+    "release_id": "73acfe88248c8845"
+  }
+]

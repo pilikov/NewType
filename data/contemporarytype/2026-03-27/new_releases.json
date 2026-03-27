@@ -1,0 +1,140 @@
+[
+  {
+    "source_id": "contemporarytype",
+    "source_name": "Contemporary Type",
+    "source_url": "https://contemporarytype.com/fonts/musikal",
+    "name": "Musikal",
+    "styles": [
+      "Musikal Thin",
+      "Musikal Thin Italic",
+      "Musikal ExtraLight",
+      "Musikal ExtraLight Italic",
+      "Musikal Light",
+      "Musikal Light Italic",
+      "Musikal Regular",
+      "Musikal Regular Italic",
+      "Musikal Medium",
+      "Musikal Medium Italic",
+      "Musikal Bold",
+      "Musikal Bold Italic",
+      "Musikal Black",
+      "Musikal Black Italic",
+      "Musikal V Medium",
+      "Musikal V Medium Italic"
+    ],
+    "authors": [
+      "Freds Fonts"
+    ],
+    "scripts": [
+      "Latin",
+      "Cyrillic",
+      "Greek"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-25",
+    "image_url": "https://backend.contemporarytype.com/files/images/musikal37200.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Musikal_Specimen_v1.0-1.pdf",
+    "discovered_at": "2026-03-27T07:37:32.681284+00:00",
+    "raw": {
+      "release_identity": "contemporarytype-product:151",
+      "product": {
+        "id": 151,
+        "title": "Musikal",
+        "slug": "musikal",
+        "url": "https://contemporarytype.com/fonts/musikal",
+        "body": "Drawing inspiration from Obelisk by Herman Ihlenburg (1880s), Musikal embodies the playful nature of its source material without imitating its design. The sharp, high contrasting serifs, geometric shapes and ornamental features of Obelisk were replaced with a playful and organic design. With slightly closer visual link to the stroke of a pen, Musikal’s small tapered serifs and simplified yet imposing ornamental strokes offer a contemporary and refreshing design, with glimpses of the past. Due to its condensed nature, its quirks and ornaments, Musikal is intended for display use. The prominent downstrokes found on characters such as the a, c and s will stand out in any design but still maintains a level of legibility.\r\n\r\nMusikal is currently available in six weights (and six italics) with a large character set offering language support for extended Latin. It’s open type features offer the user a plethora of additional styles. The first Stylistic Set allows the user to set longer paragraphs of text with simplified versions of the A, C, G, S, a, c, e, g, r, s by removing the ornamental down strokes. If the user is looking for a more extravagant design, this can be found in Stylistic Sets 02 and 03 with extending strokes to certain letters. A selection of ligatures are also available, preventing any strokes from colliding, such as f_a.\r\n\r\nMusikal also comes with additional styles of figures (non-lining, circled and fractions), ample punctuation, currency, maths and other symbols. As well as arrows, floral hearts, a manicule and a giraffe.\r\n\r\nCyrillic Consultancy: Krista Radoeva, Greek Consultancy: Gerry Leonidas",
+        "seo_title": "Musikal, a playful and organic font family ● Download free trials",
+        "seo_description": "Musikal is a fun contemporary display typeface with tapered serifs, organic strokes, and narrow proportions. Condensed and ornamental, with retro/vintage vibes, it’s perfect for big uses across screen and print: branding, websites, logos, posters…",
+        "download_pdf": "https://backend.contemporarytype.com/files/products/Musikal_Specimen_v1.0-1.pdf",
+        "free_trials": "https://backend.contemporarytype.com/files/products/Musikal_V1.0_TRIAL-1.zip",
+        "end_user_license": "https://backend.contemporarytype.com/files/products/FredsFonts_EULA_V1.0.pdf",
+        "font_size_sum": 0,
+        "group": [
+          "sans-serif",
+          "serif"
+        ],
+        "tone": [
+          "casual"
+        ],
+        "use_size": [
+          "large",
+          "medium"
+        ],
+        "width": [
+          "narrow"
+        ],
+        "weight": [
+          "light",
+          "regular",
+          "medium",
+          "bold"
+        ],
+        "contrast": [
+          "medium",
+          "low"
+        ],
+        "other": [
+          "variable",
+          "italic"
+        ],
+        "languages": [
+          "latin",
+          "cyrillic",
+          "greek"
+        ],
+        "ot_features": [
+          "aalt",
+          "case",
+          "ccmp",
+          "dlig",
+          "dnom",
+          "frac",
+          "liga",
+          "lnum",
+          "locl",
+          "numr",
+          "onum",
+          "ordn",
+          "sinf",
+          "ss01",
+          "ss02",
+          "ss03",
+          "ss04",
+          "ss05",
+          "subs",
+          "sups",
+          "calt",
+          "ss06",
+          "ss07"
+        ],
+        "approved": true,
+        "approved_date": "2026-03-25",
+        "hasWoff": true,
+        "created": "2026-03-23 12:25:38"
+      },
+      "brand": {
+        "id": 93,
+        "title": "Freds Fonts",
+        "slug": "fredsfonts",
+        "body": "Fred Wiltshire is a British/French freelance type designer based in London. After completing his masters in type design at the University of Reading (MATD 2020/2021), Fred has gone on to releasing his own typefaces and providing support to developing and expanding typefaces for other foundries.\r\n\r\nContact: [email](mailto:fredwiltshire@hotmail.co.uk)\r\n\r\nInstagram: [@fredfonts](https://www.instagram.com/fredsfonts)",
+        "buyable": true,
+        "approved": true
+      },
+      "supported_languages": [
+        "latin",
+        "cyrillic",
+        "greek"
+      ],
+      "language_source": "product.languages",
+      "variant_count": 16,
+      "license_count": 3,
+      "detail_enrichment": {
+        "used": true,
+        "ok": true
+      },
+      "api_source": "https://backend.contemporarytype.com/api_front/products"
+    },
+    "release_id": "c6bfae809e15d4ed"
+  }
+]

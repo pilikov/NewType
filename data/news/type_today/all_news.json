@@ -1594,5 +1594,19 @@
       "post_date": "2026-03-12"
     },
     "news_id": "64a20299c5051d41"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Benjamin Guichard (BULAC): ‘Drop out from the short-term vision and try to fit in the long term’",
+    "url": "https://type.today/en/journal/bulac",
+    "published_at": "2026-03-26",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1265/preview_420_preview_image_en-j_BhYyh9yHuXs0RVGhbbkP6_A-KKLEAF4Q.png",
+    "discovered_at": "2026-03-27T07:38:15.617421+00:00",
+    "raw": {
+      "slug": "bulac",
+      "post_date": "2026-03-26"
+    },
+    "news_id": "13797a3740f96134"
   }
 ]

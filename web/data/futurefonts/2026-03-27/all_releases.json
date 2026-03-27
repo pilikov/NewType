@@ -1,0 +1,34 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/spoke/fulcrum?v=0.2",
+    "name": "Fulcrum",
+    "styles": [],
+    "authors": [
+      "Spoke"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-03-25",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/10/medium_Artboard_1.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/8835/Fulcrum_Beta02_specimen.pdf",
+    "discovered_at": "2026-03-27T07:36:58.132501+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:19691",
+      "activity_id": 19691,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.2",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 8835,
+      "resolved_typeface_id": 2167,
+      "typeface_language": null
+    },
+    "release_id": "815dfc583861a046"
+  }
+]
