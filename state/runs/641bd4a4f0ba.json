@@ -1,0 +1,26 @@
+{
+  "context": {
+    "run_id": "641bd4a4f0ba",
+    "started_at": "2026-03-29T08:40:24.291390+00:00",
+    "source_filter": [
+      "myfonts"
+    ],
+    "timeout_seconds": 20
+  },
+  "summary": {
+    "run_id": "641bd4a4f0ba",
+    "started_at": "2026-03-29T08:40:24.291390+00:00",
+    "finished_at": "2026-03-29T08:40:26.277766Z",
+    "sources": [
+      {
+        "source_id": "myfonts",
+        "status": "failed",
+        "total_releases": 0,
+        "new_releases": 0,
+        "duration_seconds": 0.737,
+        "output_dir": null,
+        "error": "403 Client Error: Forbidden for url: https://www.myfonts.com/products.json?limit=100&page=1"
+      }
+    ]
+  }
+}
