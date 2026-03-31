@@ -1,20 +1,22 @@
 {
   "source_id": "myfonts",
-  "status": "in_progress",
+  "status": "capped",
   "signature": {
     "page_size": 100,
     "start_date": "2026-03-28",
-    "end_date": "2026-03-30",
+    "end_date": "2026-03-31",
     "target_debut_date": null,
     "enable_debut_enrichment": true,
     "enable_tech_specs_script_enrichment": true,
     "language_script_signal_mode": "strong"
   },
-  "started_at": "2026-03-30T07:56:26.789870Z",
-  "last_page": 0,
-  "next_page": 1,
+  "started_at": "2026-03-31T07:41:14.074513Z",
+  "last_page": 25,
+  "next_page": 26,
   "max_pages": 25,
-  "releases_count": 0,
-  "oldest_in_page": null,
-  "stop_reason": null
+  "releases_count": 102,
+  "oldest_in_page": "2026-03-21",
+  "stop_reason": "max_pages",
+  "updated_at": "2026-03-31T07:52:17.394179Z",
+  "completed_at": "2026-03-31T07:52:17.394182Z"
 }

@@ -1608,5 +1608,19 @@
       "post_date": "2026-03-26"
     },
     "news_id": "13797a3740f96134"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Backslanted in use: Stepping Softly on the Earth",
+    "url": "https://type.today/en/journal/stepping-softly",
+    "published_at": "2026-03-31",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1266/preview_420_preview_image_en-Nie7M0twkC3r-DDRrUcm8LqLX5uablXJOg.png",
+    "discovered_at": "2026-03-31T07:55:42.650147+00:00",
+    "raw": {
+      "slug": "stepping-softly",
+      "post_date": "2026-03-31"
+    },
+    "news_id": "1d86884d8f352fdb"
   }
 ]
