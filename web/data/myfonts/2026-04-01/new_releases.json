@@ -1,0 +1,81 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/modern-branding-font-bundle-iii-package-987510",
+    "name": "Modern Branding Font Bundle III",
+    "styles": [],
+    "authors": [
+      "Taboja Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-03-31",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-01T07:46:14.864197+00:00",
+    "raw": {
+      "id": 8063938527402,
+      "handle": "modern-branding-font-bundle-iii-package-987510",
+      "tags": [
+        "heading",
+        "headline",
+        "pim:designerId:8775",
+        "pim:foundryId:6375",
+        "pim:skuId:987510"
+      ],
+      "updated_at": "2026-04-01T03:46:10-04:00",
+      "product_url": "https://www.myfonts.com/products/modern-branding-font-bundle-iii-package-987510",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Modern Branding Font Bundle III",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "5f0a0d61d3ce3765"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/retro-bundle-iii-package-987509",
+    "name": "Retro Bundle III",
+    "styles": [],
+    "authors": [
+      "Taboja Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-03-31",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-01T07:46:16.097092+00:00",
+    "raw": {
+      "id": 8063553208490,
+      "handle": "retro-bundle-iii-package-987509",
+      "tags": [
+        "heading",
+        "headline",
+        "pim:designerId:8147",
+        "pim:designerId:8775",
+        "pim:foundryId:6375",
+        "pim:skuId:987509"
+      ],
+      "updated_at": "2026-04-01T03:46:10-04:00",
+      "product_url": "https://www.myfonts.com/products/retro-bundle-iii-package-987509",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Retro Bundle III",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "6437287b0d1a9699"
+  }
+]

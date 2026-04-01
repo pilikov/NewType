@@ -474,5 +474,47 @@
       "typeface": "GT Maru"
     },
     "news_id": "f401ce2f0d5076dd"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Smoking Hot Horses",
+    "url": "https://www.grillitype.com/blog/in-use/smoking-hot-horses-zine",
+    "published_at": "2026-03-31",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/69c/c44/f8a/69cc44f8a9aa7425671711.png",
+    "discovered_at": "2026-04-01T08:01:05.799657+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Canon"
+    },
+    "news_id": "b07e2ae46b2d684c"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Tiptoe",
+    "url": "https://www.grillitype.com/blog/in-use/tiptoe-furniture-design",
+    "published_at": "2026-03-31",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/69c/c4c/a43/69cc4ca436ac5380548236.png",
+    "discovered_at": "2026-04-01T08:01:06.226536+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Pressura"
+    },
+    "news_id": "b1525348884605db"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "null41",
+    "url": "https://www.grillitype.com/blog/in-use/null41-magazine-design",
+    "published_at": "2026-03-31",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/69c/c51/7fc/69cc517fc3555910850561.png",
+    "discovered_at": "2026-04-01T08:01:06.963835+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Flexa"
+    },
+    "news_id": "2bdf3bc91876822b"
   }
 ]

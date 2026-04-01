@@ -1,0 +1,36 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/kind-type-foundry/missive-serif",
+    "name": "Missive Serif",
+    "styles": [],
+    "authors": [
+      "Kind Type Foundry"
+    ],
+    "scripts": [
+      "basic-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-03-31",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/slide/image/39303/medium_MISSIVE-SERIF_FF-CAROUSEL_01-01.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-01T07:59:22.739799+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:19791",
+      "activity_id": 19791,
+      "activity_key": "typeface.new_release",
+      "activity_type": "new_release",
+      "activity_type_label": "New Release",
+      "release_kind": "new_release",
+      "is_new_version": false,
+      "version": null,
+      "trackable_type": "Typeface",
+      "trackable_id": 2761,
+      "resolved_typeface_id": 2761,
+      "typeface_language": "basic-latin"
+    },
+    "release_id": "a9f4cca2ee51f1cd"
+  }
+]
