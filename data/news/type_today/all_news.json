@@ -1622,5 +1622,19 @@
       "post_date": "2026-03-31"
     },
     "news_id": "1d86884d8f352fdb"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Type posters today",
+    "url": "https://type.today/en/journal/oc-onweer",
+    "published_at": "2026-04-02",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1267/preview_420_preview_image_en-afYkVxzYufytDOV1DvLFdWH20VViJ0mtZw.png",
+    "discovered_at": "2026-04-02T07:40:59.637619+00:00",
+    "raw": {
+      "slug": "oc-onweer",
+      "post_date": "2026-04-02"
+    },
+    "news_id": "82afada99ae99818"
   }
 ]

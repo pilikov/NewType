@@ -1,0 +1,84 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/medium-novel-sans-hebrew-xxxcondensed-1120127",
+    "name": "Novel Sans Hebrew XXXCondensed Medium",
+    "styles": [],
+    "authors": [
+      "Atlas Fonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-01",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-02T07:27:58.012031+00:00",
+    "raw": {
+      "id": 8411797913770,
+      "handle": "medium-novel-sans-hebrew-xxxcondensed-1120127",
+      "tags": [
+        "friendly",
+        "pim:designerId:2380",
+        "pim:familyId:129787",
+        "pim:foundryId:3336",
+        "pim:skuId:1120127"
+      ],
+      "updated_at": "2026-04-02T03:27:46-04:00",
+      "product_url": "https://www.myfonts.com/products/medium-novel-sans-hebrew-xxxcondensed-1120127",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Novel Sans Hebrew XXXCondensed Medium",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "44f4101da1a5fb4d"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/bold-novel-sans-hebrew-1120097",
+    "name": "Novel Sans Hebrew Bold",
+    "styles": [],
+    "authors": [
+      "Atlas Fonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-01",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-02T07:28:16.020726+00:00",
+    "raw": {
+      "id": 8411796308138,
+      "handle": "bold-novel-sans-hebrew-1120097",
+      "tags": [
+        "casual",
+        "friendly",
+        "legible",
+        "pim:designerId:2380",
+        "pim:familyId:129785",
+        "pim:foundryId:3336",
+        "pim:skuId:1120097",
+        "serene",
+        "youthful"
+      ],
+      "updated_at": "2026-04-02T03:27:46-04:00",
+      "product_url": "https://www.myfonts.com/products/bold-novel-sans-hebrew-1120097",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Novel Sans Hebrew Bold",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "9f5dabea9253971a"
+  }
+]
