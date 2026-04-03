@@ -313,6 +313,7 @@ class MyFontsApiCrawler:
                     params={"limit": page_size, "page": page},
                     timeout=timeout,
                     delay_seconds=api_request_delay,
+                    is_api=True,
                 )
                 if response is None:
                     if page == 1:
@@ -927,8 +928,10 @@ class MyFontsApiCrawler:
         timeout: int,
         params: dict[str, Any] | None = None,
         delay_seconds: float = 1.5,
+        is_api: bool = False,
     ) -> requests.Response | _CrawlerResponse | None:
-        retries = 6
+        # API calls (products.json) get full retry; detail pages get limited retry
+        retries = 6 if is_api else 2
         for attempt in range(retries):
             if delay_seconds > 0:
                 time.sleep(delay_seconds)
@@ -942,13 +945,12 @@ class MyFontsApiCrawler:
             elapsed = time.time() - t0
             self._log(f"#{req_id} attempt={attempt+1}/{retries} status={response.status_code} {elapsed:.3f}s url={response.url}")
             if response.status_code in (429, 403, 503):
-                # Retryable: rate-limit (429), temporary block (403), service unavailable (503)
                 if response.status_code == 429 and self._first_429 is None:
                     self._first_429 = (req_id, response.url, elapsed)
                     self._log(f"first_429 req={req_id} url={response.url}")
                 wait = 2.0 + attempt * 3.0
                 if response.status_code in (403, 503):
-                    wait = 5.0 + attempt * 10.0  # longer backoff for blocks
+                    wait = 5.0 + attempt * 10.0 if is_api else 2.0
                     self._log(f"retryable_{response.status_code} attempt={attempt+1}/{retries} waiting={wait:.0f}s")
                 time.sleep(wait)
                 continue
@@ -970,8 +972,12 @@ class MyFontsApiCrawler:
         if not self._log_path:
             return
         stamp = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+        line = f"[{stamp}] {message}"
         with open(self._log_path, "a", encoding="utf-8") as f:
-            f.write(f"[{stamp}] {message}\n")
+            f.write(line + "\n")
+        # Echo key events to stdout so CI sees progress
+        if any(kw in message for kw in ("crawl start", "page", "retryable_", "max_retries", "fatal", "checkpoint")):
+            print(line, flush=True)
 
     def _load_success_profile(self) -> dict[str, Any]:
         if not _SUCCESS_PROFILE_PATH.exists():
