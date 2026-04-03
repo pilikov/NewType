@@ -941,13 +941,20 @@ class MyFontsApiCrawler:
                 response = session.get(url, params=params, timeout=timeout)
             elapsed = time.time() - t0
             self._log(f"#{req_id} attempt={attempt+1}/{retries} status={response.status_code} {elapsed:.3f}s url={response.url}")
-            if response.status_code != 429:
+            if response.status_code in (429, 403, 503):
+                # Retryable: rate-limit (429), temporary block (403), service unavailable (503)
+                if response.status_code == 429 and self._first_429 is None:
+                    self._first_429 = (req_id, response.url, elapsed)
+                    self._log(f"first_429 req={req_id} url={response.url}")
+                wait = 2.0 + attempt * 3.0
+                if response.status_code in (403, 503):
+                    wait = 5.0 + attempt * 10.0  # longer backoff for blocks
+                    self._log(f"retryable_{response.status_code} attempt={attempt+1}/{retries} waiting={wait:.0f}s")
+                time.sleep(wait)
+                continue
+            if response.status_code >= 400:
                 response.raise_for_status()
-                return response
-            if self._first_429 is None:
-                self._first_429 = (req_id, response.url, elapsed)
-                self._log(f"first_429 req={req_id} url={response.url}")
-            time.sleep(2.0 + attempt * 3.0)
+            return response
         self._log(f"max_retries_exhausted url={url}")
         return None
 
