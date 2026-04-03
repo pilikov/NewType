@@ -557,6 +557,7 @@ async function loadAllReleasesDeduped(sourceIds: string[], sourceMetaMap: Record
 }
 
 function buildWeekGroups(releases: ReleaseItem[], weeks: CoverageWeek[]): WeekGroup[] {
+  const today = toIsoDay(new Date());
   const buckets = new Map<string, ReleaseItem[]>();
 
   for (const week of weeks) {
@@ -566,6 +567,7 @@ function buildWeekGroups(releases: ReleaseItem[], weeks: CoverageWeek[]): WeekGr
   for (const release of releases) {
     const day = releaseWeekDate(release);
     if (!day) continue;
+    if (day > today) continue; // skip future-dated releases
 
     const week = weeks.find((item) => inRange(day, item.week_start, item.week_end));
     if (!week) continue;
