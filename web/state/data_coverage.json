@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T07:40:52.374972Z",
+  "generated_at": "2026-04-03T07:37:15.785816Z",
   "sources": {
     "catalog_snapshot": {
       "source_id": "catalog_snapshot",
@@ -2705,7 +2705,7 @@
       },
       "has_data": true,
       "min_date": "0005-04-13",
-      "max_date": "2026-03-05",
+      "max_date": "2026-04-06",
       "weeks": [
         {
           "week_start": "0005-04-11",
@@ -5481,6 +5481,11 @@
           "week_start": "2026-03-02",
           "week_end": "2026-03-08",
           "label": "2026-03-02..2026-03-08"
+        },
+        {
+          "week_start": "2026-04-06",
+          "week_end": "2026-04-12",
+          "label": "2026-04-06..2026-04-12"
         }
       ]
     },
@@ -5503,7 +5508,7 @@
       },
       "has_data": true,
       "min_date": "2000-01-01",
-      "max_date": "2026-04-01",
+      "max_date": "2026-04-02",
       "weeks": [
         {
           "week_start": "1999-12-27",

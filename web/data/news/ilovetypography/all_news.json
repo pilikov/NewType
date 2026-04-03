@@ -278,5 +278,18 @@
     "published_at": "2025-01-06",
     "discovered_at": "2026-03-20T09:15:25.054505+00:00",
     "image_url": null
+  },
+  {
+    "source_id": "ilovetypography",
+    "source_name": "I Love Typography",
+    "title": "A Brief History of the Dust Jacket",
+    "url": "https://ilovetypography.com/2026/04/03/a-brief-history-of-the-dust-jacket/",
+    "published_at": "2026-04-03",
+    "image_url": null,
+    "discovered_at": "2026-04-03T07:38:37.146241+00:00",
+    "raw": {
+      "category": "Book History"
+    },
+    "news_id": "6c8a4c2b4a27fd32"
   }
 ]
