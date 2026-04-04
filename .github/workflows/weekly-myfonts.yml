@@ -11,7 +11,7 @@ on:
 jobs:
   crawl:
     runs-on: ubuntu-latest
-    timeout-minutes: 180
+    timeout-minutes: 240
     permissions:
       contents: write
 
@@ -36,7 +36,7 @@ jobs:
 
       - name: Run MyFonts full crawl (last 2 weeks)
         run: python -m src.main --sources myfonts --history-weeks 2
-        timeout-minutes: 150
+        timeout-minutes: 220
 
       - name: Mirror data and state into web/ for site
         run: |
