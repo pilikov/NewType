@@ -72,8 +72,12 @@ jobs:
           git checkout HEAD -- web/data/_meta/favicons/ 2>/dev/null || true
           # Remove assets (images/fonts) — not needed for SSR, bloat Vercel bundle
           find web/data -type d -name "assets" -exec rm -rf {} + 2>/dev/null || true
-          # Keep only latest 3 myfonts daily dirs (site only reads latest day)
-          ls -d web/data/myfonts/20??-??-??/ 2>/dev/null | sort -r | tail -n +4 | xargs rm -rf 2>/dev/null || true
+          # Keep only latest 2 daily dirs per source (Vercel 250MB limit)
+          for src_dir in web/data/*/; do
+            name=$(basename "$src_dir")
+            [ "$name" = "_meta" ] || [ "$name" = "news" ] || [ "$name" = "seeds" ] && continue
+            ls -d "${src_dir}"20??-??-??/ 2>/dev/null | sort -r | tail -n +3 | xargs rm -rf 2>/dev/null || true
+          done
           echo "Mirrored data/ → web/data (merge), state/ → web/state"
 
       - name: Push to branch crawl/daily
