@@ -1,0 +1,4485 @@
+{
+  "generated_at": "2026-03-10T08:10:52.056440+00:00",
+  "journal_url": "https://type.today/ru/journal",
+  "posts_api_url": "https://type.today/api/v1/posts",
+  "processed_posts": {
+    "gregory-text": {
+      "signature": "2026-03-04|Новый шрифт: Gregory Text",
+      "title": "Новый шрифт: Gregory Text",
+      "date": "2026-03-04",
+      "post_url": "https://type.today/ru/journal/gregory-text",
+      "font_slugs": [
+        "gregory_text"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:16:02.471314+00:00"
+    },
+    "zhivov": {
+      "signature": "2026-01-29|Новый шрифт: Zhivov",
+      "title": "Новый шрифт: Zhivov",
+      "date": "2026-01-29",
+      "post_url": "https://type.today/ru/journal/zhivov",
+      "font_slugs": [
+        "zhivov"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:16:02.323710+00:00"
+    },
+    "krichevsky": {
+      "signature": "2016-09-21|Vladimir Krichevsky. Column (rus only)",
+      "title": "Vladimir Krichevsky. Column (rus only)",
+      "date": "2016-09-21",
+      "post_url": "https://type.today/ru/journal/krichevsky",
+      "font_slugs": [],
+      "is_new_font_post": false,
+      "updated_at": "2026-03-09T11:57:59.465749+00:00"
+    },
+    "new_bigcitygrot": {
+      "signature": "2016-07-27|Новый шрифт: BigCity Grotesque",
+      "title": "Новый шрифт: BigCity Grotesque",
+      "date": "2016-07-27",
+      "post_url": "https://type.today/ru/journal/new_bigcitygrot",
+      "font_slugs": [],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:52.381858+00:00"
+    },
+    "new_austin": {
+      "signature": "2016-06-27|Новый шрифт: Austin",
+      "title": "Новый шрифт: Austin",
+      "date": "2016-06-27",
+      "post_url": "https://type.today/ru/journal/new_austin",
+      "font_slugs": [],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:52.495241+00:00"
+    },
+    "navigoinuse": {
+      "signature": "2017-02-09|Новый шрифт: Navigo",
+      "title": "Новый шрифт: Navigo",
+      "date": "2017-02-09",
+      "post_url": "https://type.today/ru/journal/navigoinuse",
+      "font_slugs": [
+        "navigo"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:52.604811+00:00"
+    },
+    "trola": {
+      "signature": "2017-03-16|Новый шрифт: Trola",
+      "title": "Новый шрифт: Trola",
+      "date": "2017-03-16",
+      "post_url": "https://type.today/ru/journal/trola",
+      "font_slugs": [
+        "trola"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:52.714448+00:00"
+    },
+    "emoji": {
+      "signature": "2017-03-30|Новый шрифт: CSTM Emoji",
+      "title": "Новый шрифт: CSTM Emoji",
+      "date": "2017-03-30",
+      "post_url": "https://type.today/ru/journal/emoji",
+      "font_slugs": [
+        "cstm_emoji"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:52.824063+00:00"
+    },
+    "about_ria_typeface": {
+      "signature": "2017-04-18|Новый шрифт: RIA Typeface",
+      "title": "Новый шрифт: RIA Typeface",
+      "date": "2017-04-18",
+      "post_url": "https://type.today/ru/journal/about_ria_typeface",
+      "font_slugs": [
+        "ria_typeface"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:53.021304+00:00"
+    },
+    "new-typeface-stratos": {
+      "signature": "2017-04-27|Новый шрифт: Stratos",
+      "title": "Новый шрифт: Stratos",
+      "date": "2017-04-27",
+      "post_url": "https://type.today/ru/journal/new-typeface-stratos",
+      "font_slugs": [
+        "stratos_cyrillic"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:53.138116+00:00"
+    },
+    "about_vesterbro": {
+      "signature": "2017-06-06|Новый шрифт: Vesterbro",
+      "title": "Новый шрифт: Vesterbro",
+      "date": "2017-06-06",
+      "post_url": "https://type.today/ru/journal/about_vesterbro",
+      "font_slugs": [
+        "vesterbro"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:53.264491+00:00"
+    },
+    "new-typeface-druk": {
+      "signature": "2017-10-10|Новый шрифт: Druk",
+      "title": "Новый шрифт: Druk",
+      "date": "2017-10-10",
+      "post_url": "https://type.today/ru/journal/new-typeface-druk",
+      "font_slugs": [],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:53.380575+00:00"
+    },
+    "cstmxprmntl01": {
+      "signature": "2017-09-19|Новый шрифт: CSTM Xprmntl 01",
+      "title": "Новый шрифт: CSTM Xprmntl 01",
+      "date": "2017-09-19",
+      "post_url": "https://type.today/ru/journal/cstmxprmntl01",
+      "font_slugs": [],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:53.543823+00:00"
+    },
+    "dala_floda": {
+      "signature": "2017-12-19|Новый шрифт: Dala Floda",
+      "title": "Новый шрифт: Dala Floda",
+      "date": "2017-12-19",
+      "post_url": "https://type.today/ru/journal/dala_floda",
+      "font_slugs": [],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:53.663280+00:00"
+    },
+    "cstmxprmntl02": {
+      "signature": "2018-09-10|Новый шрифт: CSTM Xprmntl 02",
+      "title": "Новый шрифт: CSTM Xprmntl 02",
+      "date": "2018-09-10",
+      "post_url": "https://type.today/ru/journal/cstmxprmntl02",
+      "font_slugs": [],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:53.777440+00:00"
+    },
+    "styrene": {
+      "signature": "2018-12-12|Новый шрифт: Styrene",
+      "title": "Новый шрифт: Styrene",
+      "date": "2018-12-12",
+      "post_url": "https://type.today/ru/journal/styrene",
+      "font_slugs": [
+        "styrene_a",
+        "styrene_b"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:53.942574+00:00"
+    },
+    "protogrotesk": {
+      "signature": "2019-02-12|Новый шрифт: Proto Grotesk",
+      "title": "Новый шрифт: Proto Grotesk",
+      "date": "2019-02-12",
+      "post_url": "https://type.today/ru/journal/protogrotesk",
+      "font_slugs": [],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:54.066065+00:00"
+    },
+    "gauge": {
+      "signature": "2019-02-19|Новый шрифт: Gauge",
+      "title": "Новый шрифт: Gauge",
+      "date": "2019-02-19",
+      "post_url": "https://type.today/ru/journal/gauge",
+      "font_slugs": [],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:54.228794+00:00"
+    },
+    "new-typeface-halvar": {
+      "signature": "2019-06-25|Новый шрифт: Halvar",
+      "title": "Новый шрифт: Halvar",
+      "date": "2019-06-25",
+      "post_url": "https://type.today/ru/journal/new-typeface-halvar",
+      "font_slugs": [
+        "halvar_breitschrift",
+        "halvar_mittelschrift",
+        "halvar_engschrift",
+        "halvar_stencil_engschrift",
+        "halvar_stencil_mittelschrift",
+        "halvar_stecil_breitschrift"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:54.364669+00:00"
+    },
+    "factor_a": {
+      "signature": "2019-11-26|Новый шрифт: Factor A",
+      "title": "Новый шрифт: Factor A",
+      "date": "2019-11-26",
+      "post_url": "https://type.today/ru/journal/factor_a",
+      "font_slugs": [
+        "factor_a"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:54.477338+00:00"
+    },
+    "graphik_compact": {
+      "signature": "2020-03-26|Новый шрифт: Graphik Compact",
+      "title": "Новый шрифт: Graphik Compact",
+      "date": "2020-03-26",
+      "post_url": "https://type.today/ru/journal/graphik_compact",
+      "font_slugs": [
+        "graphik_compact"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:54.602870+00:00"
+    },
+    "platform": {
+      "signature": "2020-04-09|Новый шрифт: Platform",
+      "title": "Новый шрифт: Platform",
+      "date": "2020-04-09",
+      "post_url": "https://type.today/ru/journal/platform",
+      "font_slugs": [
+        "platform"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:54.722177+00:00"
+    },
+    "atlas": {
+      "signature": "2020-04-30|Новый шрифт: Atlas",
+      "title": "Новый шрифт: Atlas",
+      "date": "2020-04-30",
+      "post_url": "https://type.today/ru/journal/atlas",
+      "font_slugs": [],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:54.851412+00:00"
+    },
+    "displace": {
+      "signature": "2020-06-08|Новый шрифт: Displace",
+      "title": "Новый шрифт: Displace",
+      "date": "2020-06-08",
+      "post_url": "https://type.today/ru/journal/displace",
+      "font_slugs": [
+        "displace2",
+        "displace_serif",
+        "epos"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:54.971010+00:00"
+    },
+    "signal": {
+      "signature": "2020-06-23|Новый шрифт: Signal",
+      "title": "Новый шрифт: Signal",
+      "date": "2020-06-23",
+      "post_url": "https://type.today/ru/journal/signal",
+      "font_slugs": [
+        "signal",
+        "protogrotesk",
+        "stratos_cyrillic",
+        "spectral"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:55.115932+00:00"
+    },
+    "lurk": {
+      "signature": "2020-07-10|Новый шрифт: Lurk",
+      "title": "Новый шрифт: Lurk",
+      "date": "2020-07-10",
+      "post_url": "https://type.today/ru/journal/lurk",
+      "font_slugs": [
+        "lurk_a",
+        "lurk_b"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:55.284214+00:00"
+    },
+    "nekst": {
+      "signature": "2020-07-20|Новый шрифт: Nekst",
+      "title": "Новый шрифт: Nekst",
+      "date": "2020-07-20",
+      "post_url": "https://type.today/ru/journal/nekst",
+      "font_slugs": [
+        "nekst",
+        "displace2",
+        "displace_serif",
+        "epos"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:55.398031+00:00"
+    },
+    "normalidad": {
+      "signature": "2020-07-28|Новый шрифт: Normalidad",
+      "title": "Новый шрифт: Normalidad",
+      "date": "2020-07-28",
+      "post_url": "https://type.today/ru/journal/normalidad",
+      "font_slugs": [
+        "normalidad_variable"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:55.638578+00:00"
+    },
+    "navigo_italic": {
+      "signature": "2020-08-04|Новый шрифт: Navigo Italic",
+      "title": "Новый шрифт: Navigo Italic",
+      "date": "2020-08-04",
+      "post_url": "https://type.today/ru/journal/navigo_italic",
+      "font_slugs": [
+        "navigo"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:55.869034+00:00"
+    },
+    "windward": {
+      "signature": "2020-08-13|Новый шрифт: Windward",
+      "title": "Новый шрифт: Windward",
+      "date": "2020-08-13",
+      "post_url": "https://type.today/ru/journal/windward",
+      "font_slugs": [
+        "windward"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:55.997587+00:00"
+    },
+    "tesseract": {
+      "signature": "2020-08-18|Новый шрифт: Tesseract",
+      "title": "Новый шрифт: Tesseract",
+      "date": "2020-08-18",
+      "post_url": "https://type.today/ru/journal/tesseract",
+      "font_slugs": [
+        "stratos_cyrillic",
+        "spectral",
+        "protogrotesk",
+        "signal"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:56.164555+00:00"
+    },
+    "sauber": {
+      "signature": "2020-08-25|Новый шрифт: Sauber Script",
+      "title": "Новый шрифт: Sauber Script",
+      "date": "2020-08-25",
+      "post_url": "https://type.today/ru/journal/sauber",
+      "font_slugs": [
+        "sauberscript"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:56.287036+00:00"
+    },
+    "spektra": {
+      "signature": "2020-09-08|Новый шрифт: Spektra",
+      "title": "Новый шрифт: Spektra",
+      "date": "2020-09-08",
+      "post_url": "https://type.today/ru/journal/spektra",
+      "font_slugs": [
+        "spektra"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:56.429449+00:00"
+    },
+    "graphik_am": {
+      "signature": "2020-12-14|Новый шрифт: Graphik Armenian",
+      "title": "Новый шрифт: Graphik Armenian",
+      "date": "2020-12-14",
+      "post_url": "https://type.today/ru/journal/graphik_am",
+      "font_slugs": [
+        "graphik_arm"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:56.570614+00:00"
+    },
+    "graphik_ge": {
+      "signature": "2020-12-15|Новый шрифт: Graphik Georgian",
+      "title": "Новый шрифт: Graphik Georgian",
+      "date": "2020-12-15",
+      "post_url": "https://type.today/ru/journal/graphik_ge",
+      "font_slugs": [
+        "graphik_geo"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:56.720401+00:00"
+    },
+    "signal_mono": {
+      "signature": "2020-11-16|Новый шрифт: Signal Mono",
+      "title": "Новый шрифт: Signal Mono",
+      "date": "2020-11-16",
+      "post_url": "https://type.today/ru/journal/signal_mono",
+      "font_slugs": [
+        "signal_mono",
+        "stratos_cyrillic",
+        "protogrotesk",
+        "spectral"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:56.830986+00:00"
+    },
+    "loos": {
+      "signature": "2021-04-13|Новый шрифт: Loos",
+      "title": "Новый шрифт: Loos",
+      "date": "2021-04-13",
+      "post_url": "https://type.today/ru/journal/loos",
+      "font_slugs": [
+        "graphik_geo"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:56.941292+00:00"
+    },
+    "norbert": {
+      "signature": "2021-04-01|Новый шрифт: Norbert",
+      "title": "Новый шрифт: Norbert",
+      "date": "2021-04-01",
+      "post_url": "https://type.today/ru/journal/norbert",
+      "font_slugs": [],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:57.054751+00:00"
+    },
+    "grato_gratimo": {
+      "signature": "2021-06-16|Новый шрифт: Grato and Gratimo",
+      "title": "Новый шрифт: Grato and Gratimo",
+      "date": "2021-06-16",
+      "post_url": "https://type.today/ru/journal/grato_gratimo",
+      "font_slugs": [
+        "grato_classic",
+        "grato_grotesk",
+        "gratimo_classic"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:57.318050+00:00"
+    },
+    "taler": {
+      "signature": "2021-10-05|Новый шрифт: Taler",
+      "title": "Новый шрифт: Taler",
+      "date": "2021-10-05",
+      "post_url": "https://type.today/ru/journal/taler",
+      "font_slugs": [
+        "taler",
+        "nekst",
+        "epos"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:57.430432+00:00"
+    },
+    "maregraphe": {
+      "signature": "2021-11-10|Новый шрифт: Maregraphe",
+      "title": "Новый шрифт: Maregraphe",
+      "date": "2021-11-10",
+      "post_url": "https://type.today/ru/journal/maregraphe",
+      "font_slugs": [
+        "kazimir",
+        "navigo",
+        "ria_typeface",
+        "cstm_xprmntl03",
+        "spectral",
+        "stratos_cyrillic",
+        "apoc"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:57.553012+00:00"
+    },
+    "gratomarker": {
+      "signature": "2022-02-08|Новый шрифт: Grato Marker",
+      "title": "Новый шрифт: Grato Marker",
+      "date": "2022-02-08",
+      "post_url": "https://type.today/ru/journal/gratomarker",
+      "font_slugs": [
+        "grato_marker"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:57.746394+00:00"
+    },
+    "produkt": {
+      "signature": "2022-02-17|Новый шрифт: Produkt",
+      "title": "Новый шрифт: Produkt",
+      "date": "2022-02-17",
+      "post_url": "https://type.today/ru/journal/produkt",
+      "font_slugs": [
+        "produkt",
+        "platform"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:57.868724+00:00"
+    },
+    "canela": {
+      "signature": "2022-02-15|Новый шрифт: Canela",
+      "title": "Новый шрифт: Canela",
+      "date": "2022-02-15",
+      "post_url": "https://type.today/ru/journal/canela",
+      "font_slugs": [
+        "canela",
+        "canela_condensed",
+        "canela_deck",
+        "canela_text"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:57.986548+00:00"
+    },
+    "elma": {
+      "signature": "2022-11-15|Новый шрифт: Elma",
+      "title": "Новый шрифт: Elma",
+      "date": "2022-11-15",
+      "post_url": "https://type.today/ru/journal/elma",
+      "font_slugs": [
+        "elma_mono",
+        "elma_trio"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:58.101579+00:00"
+    },
+    "ottessa": {
+      "signature": "2022-11-15|Новый шрифт: Ottessa",
+      "title": "Новый шрифт: Ottessa",
+      "date": "2022-11-15",
+      "post_url": "https://type.today/ru/journal/ottessa",
+      "font_slugs": [
+        "ottessa"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:58.265277+00:00"
+    },
+    "yunislab": {
+      "signature": "2022-11-15|Новый шрифт: Yuni Slab",
+      "title": "Новый шрифт: Yuni Slab",
+      "date": "2022-11-15",
+      "post_url": "https://type.today/ru/journal/yunislab",
+      "font_slugs": [
+        "yuni_slab"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:58.376863+00:00"
+    },
+    "roslindale": {
+      "signature": "2023-09-12|Новый шрифт: Roslindale",
+      "title": "Новый шрифт: Roslindale",
+      "date": "2023-09-12",
+      "post_url": "https://type.today/ru/journal/roslindale",
+      "font_slugs": [
+        "roslindale_variable",
+        "roslindale_text",
+        "roslindale_deck",
+        "roslindale_display"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:58.496228+00:00"
+    },
+    "qommodore": {
+      "signature": "2023-12-12|Новый шрифт: Qommodore",
+      "title": "Новый шрифт: Qommodore",
+      "date": "2023-12-12",
+      "post_url": "https://type.today/ru/journal/qommodore",
+      "font_slugs": [
+        "qommodore"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:58.627374+00:00"
+    },
+    "publico": {
+      "signature": "2024-01-23|Новый шрифт: Publico",
+      "title": "Новый шрифт: Publico",
+      "date": "2024-01-23",
+      "post_url": "https://type.today/ru/journal/publico",
+      "font_slugs": [
+        "publico_headline",
+        "publico_text",
+        "publico_banner",
+        "publico_text_mono"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:58.786382+00:00"
+    },
+    "guardian": {
+      "signature": "2024-01-23|Новый шрифт: Guardian",
+      "title": "Новый шрифт: Guardian",
+      "date": "2024-01-23",
+      "post_url": "https://type.today/ru/journal/guardian",
+      "font_slugs": [
+        "guardian_egyptian",
+        "guardian_text_egyptian",
+        "guardian_sans",
+        "guardian_text_sans"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:58.913365+00:00"
+    },
+    "lyon": {
+      "signature": "2024-01-23|Новый шрифт: Lyon",
+      "title": "Новый шрифт: Lyon",
+      "date": "2024-01-23",
+      "post_url": "https://type.today/ru/journal/lyon",
+      "font_slugs": [
+        "lyon_text",
+        "lyon_display"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:59.043486+00:00"
+    },
+    "portrait": {
+      "signature": "2024-01-23|Новый шрифт: Portrait",
+      "title": "Новый шрифт: Portrait",
+      "date": "2024-01-23",
+      "post_url": "https://type.today/ru/journal/portrait",
+      "font_slugs": [
+        "portrait"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:59.171993+00:00"
+    },
+    "guild": {
+      "signature": "2024-04-23|Новый шрифт: Guild",
+      "title": "Новый шрифт: Guild",
+      "date": "2024-04-23",
+      "post_url": "https://type.today/ru/journal/guild",
+      "font_slugs": [],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:59.389532+00:00"
+    },
+    "juneau": {
+      "signature": "2024-05-21|Новый шрифт: Juneau",
+      "title": "Новый шрифт: Juneau",
+      "date": "2024-05-21",
+      "post_url": "https://type.today/ru/journal/juneau",
+      "font_slugs": [
+        "juneau",
+        "ottessa",
+        "yuni_slab",
+        "zloy"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:59.571438+00:00"
+    },
+    "ceramono": {
+      "signature": "2024-06-18|Новый шрифт: Cera Mono",
+      "title": "Новый шрифт: Cera Mono",
+      "date": "2024-06-18",
+      "post_url": "https://type.today/ru/journal/ceramono",
+      "font_slugs": [
+        "cera_mono"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:59.688035+00:00"
+    },
+    "oceanicgrotesk": {
+      "signature": "2024-08-26|Новый шрифт: Oceanic Grotesk",
+      "title": "Новый шрифт: Oceanic Grotesk",
+      "date": "2024-08-26",
+      "post_url": "https://type.today/ru/journal/oceanicgrotesk",
+      "font_slugs": [
+        "oceanic",
+        "oceanic_grotesk"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:59.843805+00:00"
+    },
+    "oceanicgothic": {
+      "signature": "2024-08-26|Новый шрифт: Oceanic Gothic",
+      "title": "Новый шрифт: Oceanic Gothic",
+      "date": "2024-08-26",
+      "post_url": "https://type.today/ru/journal/oceanicgothic",
+      "font_slugs": [
+        "oceanic_gothic"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:15:59.962220+00:00"
+    },
+    "factorb": {
+      "signature": "2024-08-26|Новый шрифт: Factor B",
+      "title": "Новый шрифт: Factor B",
+      "date": "2024-08-26",
+      "post_url": "https://type.today/ru/journal/factorb",
+      "font_slugs": [
+        "factor_b",
+        "factor_a"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:16:00.095848+00:00"
+    },
+    "oceanic_text_mono": {
+      "signature": "2024-08-26|Новый шрифт: Oceanic Text Mono",
+      "title": "Новый шрифт: Oceanic Text Mono",
+      "date": "2024-08-26",
+      "post_url": "https://type.today/ru/journal/oceanic_text_mono",
+      "font_slugs": [
+        "oceanic_text_mono"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:16:00.222546+00:00"
+    },
+    "talerstencil": {
+      "signature": "2024-09-05|Новый шрифт: Taler Stencil",
+      "title": "Новый шрифт: Taler Stencil",
+      "date": "2024-09-05",
+      "post_url": "https://type.today/ru/journal/talerstencil",
+      "font_slugs": [
+        "taler_stencil",
+        "displace2",
+        "epos",
+        "nekst",
+        "gik"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:16:00.448778+00:00"
+    },
+    "struve": {
+      "signature": "2024-10-08|Новый шрифт: Struve",
+      "title": "Новый шрифт: Struve",
+      "date": "2024-10-08",
+      "post_url": "https://type.today/ru/journal/struve",
+      "font_slugs": [
+        "struve"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:16:00.566267+00:00"
+    },
+    "bering": {
+      "signature": "2024-10-08|Новый шрифт: Bering Stencil",
+      "title": "Новый шрифт: Bering Stencil",
+      "date": "2024-10-08",
+      "post_url": "https://type.today/ru/journal/bering",
+      "font_slugs": [
+        "bering_stencil"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:16:00.685033+00:00"
+    },
+    "retros": {
+      "signature": "2024-10-08|Новый шрифт: Retros",
+      "title": "Новый шрифт: Retros",
+      "date": "2024-10-08",
+      "post_url": "https://type.today/ru/journal/retros",
+      "font_slugs": [
+        "retros"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:16:00.887155+00:00"
+    },
+    "nekstmono": {
+      "signature": "2025-01-23|Новый шрифт: Nekst Mono",
+      "title": "Новый шрифт: Nekst Mono",
+      "date": "2025-01-23",
+      "post_url": "https://type.today/ru/journal/nekstmono",
+      "font_slugs": [
+        "nekst_mono",
+        "nekst",
+        "displace2",
+        "epos",
+        "taler",
+        "gik"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:16:01.022718+00:00"
+    },
+    "graphikcondensed": {
+      "signature": "2025-03-04|Новый шрифт: Graphik Condensed",
+      "title": "Новый шрифт: Graphik Condensed",
+      "date": "2025-03-04",
+      "post_url": "https://type.today/ru/journal/graphikcondensed",
+      "font_slugs": [
+        "graphik_condensed",
+        "Graphik",
+        "graphik_compact"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:16:01.253884+00:00"
+    },
+    "gregoryposter": {
+      "signature": "2025-03-12|Новый шрифт: Gregory Poster",
+      "title": "Новый шрифт: Gregory Poster",
+      "date": "2025-03-12",
+      "post_url": "https://type.today/ru/journal/gregoryposter",
+      "font_slugs": [
+        "gregory_poster"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:16:01.420759+00:00"
+    },
+    "factoramono": {
+      "signature": "2025-05-15|Новый шрифт: Factor A Mono",
+      "title": "Новый шрифт: Factor A Mono",
+      "date": "2025-05-15",
+      "post_url": "https://type.today/ru/journal/factoramono",
+      "font_slugs": [
+        "factor_a_mono"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:16:01.535474+00:00"
+    },
+    "repose": {
+      "signature": "2025-05-29|Новый шрифт: Repose",
+      "title": "Новый шрифт: Repose",
+      "date": "2025-05-29",
+      "post_url": "https://type.today/ru/journal/repose",
+      "font_slugs": [
+        "repose",
+        "ottessa",
+        "juneau",
+        "yuni_slab"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:16:01.651406+00:00"
+    },
+    "opague": {
+      "signature": "2025-05-29|Новый шрифт: Opague",
+      "title": "Новый шрифт: Opague",
+      "date": "2025-05-29",
+      "post_url": "https://type.today/ru/journal/opague",
+      "font_slugs": [
+        "opague",
+        "ottessa",
+        "juneau",
+        "yuni_slab"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:16:01.762284+00:00"
+    },
+    "gregorygrotesk": {
+      "signature": "2025-07-16|Новый шрифт: Gregory Grotesk",
+      "title": "Новый шрифт: Gregory Grotesk",
+      "date": "2025-07-16",
+      "post_url": "https://type.today/ru/journal/gregorygrotesk",
+      "font_slugs": [
+        "gregory_grotesk",
+        "gregory_grotesk_compressed",
+        "gregory_grotesk_condensed",
+        "gregory_variable"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:16:01.931711+00:00"
+    },
+    "yunigrotesque": {
+      "signature": "2025-10-09|Новый шрифт: Yuni Grotesque",
+      "title": "Новый шрифт: Yuni Grotesque",
+      "date": "2025-10-09",
+      "post_url": "https://type.today/ru/journal/yunigrotesque",
+      "font_slugs": [
+        "yuni_grotesque",
+        "yuni_slab"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:16:02.061342+00:00"
+    },
+    "feature": {
+      "signature": "2025-11-06|Новый шрифт: Feature",
+      "title": "Новый шрифт: Feature",
+      "date": "2025-11-06",
+      "post_url": "https://type.today/ru/journal/feature",
+      "font_slugs": [
+        "feature_text",
+        "feature_deck",
+        "feature_display"
+      ],
+      "is_new_font_post": true,
+      "updated_at": "2026-03-09T12:16:02.178828+00:00"
+    }
+  },
+  "slug_dates": {
+    "gregory_text": {
+      "release_date": "2026-03-04",
+      "post_slug": "gregory-text",
+      "post_url": "https://type.today/ru/journal/gregory-text"
+    },
+    "zhivov": {
+      "release_date": "2026-01-29",
+      "post_slug": "zhivov",
+      "post_url": "https://type.today/ru/journal/zhivov"
+    },
+    "navigo": {
+      "release_date": "2017-02-09",
+      "post_slug": "navigoinuse",
+      "post_url": "https://type.today/ru/journal/navigoinuse",
+      "source": "journal_posts_api"
+    },
+    "trola": {
+      "release_date": "2017-03-16",
+      "post_slug": "trola",
+      "post_url": "https://type.today/ru/journal/trola",
+      "source": "journal_posts_api"
+    },
+    "cstm_emoji": {
+      "release_date": "2017-03-30",
+      "post_slug": "emoji",
+      "post_url": "https://type.today/ru/journal/emoji",
+      "source": "journal_posts_api"
+    },
+    "ria_typeface": {
+      "release_date": "2017-04-18",
+      "post_slug": "about_ria_typeface",
+      "post_url": "https://type.today/ru/journal/about_ria_typeface",
+      "source": "journal_posts_api"
+    },
+    "stratos_cyrillic": {
+      "release_date": "2017-04-27",
+      "post_slug": "new-typeface-stratos",
+      "post_url": "https://type.today/ru/journal/new-typeface-stratos",
+      "source": "journal_posts_api"
+    },
+    "vesterbro": {
+      "release_date": "2017-06-06",
+      "post_slug": "about_vesterbro",
+      "post_url": "https://type.today/ru/journal/about_vesterbro",
+      "source": "journal_posts_api"
+    },
+    "styrene_a": {
+      "release_date": "2018-12-12",
+      "post_slug": "styrene",
+      "post_url": "https://type.today/ru/journal/styrene",
+      "source": "journal_posts_api"
+    },
+    "styrene_b": {
+      "release_date": "2018-12-12",
+      "post_slug": "styrene",
+      "post_url": "https://type.today/ru/journal/styrene",
+      "source": "journal_posts_api"
+    },
+    "halvar_breitschrift": {
+      "release_date": "2019-06-25",
+      "post_slug": "new-typeface-halvar",
+      "post_url": "https://type.today/ru/journal/new-typeface-halvar",
+      "source": "journal_posts_api"
+    },
+    "halvar_mittelschrift": {
+      "release_date": "2019-06-25",
+      "post_slug": "new-typeface-halvar",
+      "post_url": "https://type.today/ru/journal/new-typeface-halvar",
+      "source": "journal_posts_api"
+    },
+    "halvar_engschrift": {
+      "release_date": "2019-06-25",
+      "post_slug": "new-typeface-halvar",
+      "post_url": "https://type.today/ru/journal/new-typeface-halvar",
+      "source": "journal_posts_api"
+    },
+    "halvar_stencil_engschrift": {
+      "release_date": "2019-06-25",
+      "post_slug": "new-typeface-halvar",
+      "post_url": "https://type.today/ru/journal/new-typeface-halvar",
+      "source": "journal_posts_api"
+    },
+    "halvar_stencil_mittelschrift": {
+      "release_date": "2019-06-25",
+      "post_slug": "new-typeface-halvar",
+      "post_url": "https://type.today/ru/journal/new-typeface-halvar",
+      "source": "journal_posts_api"
+    },
+    "halvar_stecil_breitschrift": {
+      "release_date": "2019-06-25",
+      "post_slug": "new-typeface-halvar",
+      "post_url": "https://type.today/ru/journal/new-typeface-halvar",
+      "source": "journal_posts_api"
+    },
+    "factor_a": {
+      "release_date": "2019-11-26",
+      "post_slug": "factor_a",
+      "post_url": "https://type.today/ru/journal/factor_a",
+      "source": "journal_posts_api"
+    },
+    "graphik_compact": {
+      "release_date": "2020-03-26",
+      "post_slug": "graphik_compact",
+      "post_url": "https://type.today/ru/journal/graphik_compact",
+      "source": "journal_posts_api"
+    },
+    "platform": {
+      "release_date": "2020-04-09",
+      "post_slug": "platform",
+      "post_url": "https://type.today/ru/journal/platform",
+      "source": "journal_posts_api"
+    },
+    "displace2": {
+      "release_date": "2020-06-08",
+      "post_slug": "displace",
+      "post_url": "https://type.today/ru/journal/displace",
+      "source": "journal_posts_api"
+    },
+    "displace_serif": {
+      "release_date": "2020-06-08",
+      "post_slug": "displace",
+      "post_url": "https://type.today/ru/journal/displace",
+      "source": "journal_posts_api"
+    },
+    "epos": {
+      "release_date": "2020-06-08",
+      "post_slug": "displace",
+      "post_url": "https://type.today/ru/journal/displace",
+      "source": "journal_posts_api"
+    },
+    "signal": {
+      "release_date": "2020-06-23",
+      "post_slug": "signal",
+      "post_url": "https://type.today/ru/journal/signal",
+      "source": "journal_posts_api"
+    },
+    "protogrotesk": {
+      "release_date": "2020-06-23",
+      "post_slug": "signal",
+      "post_url": "https://type.today/ru/journal/signal",
+      "source": "journal_posts_api"
+    },
+    "spectral": {
+      "release_date": "2020-06-23",
+      "post_slug": "signal",
+      "post_url": "https://type.today/ru/journal/signal",
+      "source": "journal_posts_api"
+    },
+    "lurk_a": {
+      "release_date": "2020-07-10",
+      "post_slug": "lurk",
+      "post_url": "https://type.today/ru/journal/lurk",
+      "source": "journal_posts_api"
+    },
+    "lurk_b": {
+      "release_date": "2020-07-10",
+      "post_slug": "lurk",
+      "post_url": "https://type.today/ru/journal/lurk",
+      "source": "journal_posts_api"
+    },
+    "nekst": {
+      "release_date": "2020-07-20",
+      "post_slug": "nekst",
+      "post_url": "https://type.today/ru/journal/nekst",
+      "source": "journal_posts_api"
+    },
+    "normalidad_variable": {
+      "release_date": "2020-07-28",
+      "post_slug": "normalidad",
+      "post_url": "https://type.today/ru/journal/normalidad",
+      "source": "journal_posts_api"
+    },
+    "windward": {
+      "release_date": "2020-08-13",
+      "post_slug": "windward",
+      "post_url": "https://type.today/ru/journal/windward",
+      "source": "journal_posts_api"
+    },
+    "sauberscript": {
+      "release_date": "2020-08-25",
+      "post_slug": "sauber",
+      "post_url": "https://type.today/ru/journal/sauber",
+      "source": "journal_posts_api"
+    },
+    "spektra": {
+      "release_date": "2020-09-08",
+      "post_slug": "spektra",
+      "post_url": "https://type.today/ru/journal/spektra",
+      "source": "journal_posts_api"
+    },
+    "graphik_arm": {
+      "release_date": "2020-12-14",
+      "post_slug": "graphik_am",
+      "post_url": "https://type.today/ru/journal/graphik_am",
+      "source": "journal_posts_api"
+    },
+    "graphik_geo": {
+      "release_date": "2020-12-15",
+      "post_slug": "graphik_ge",
+      "post_url": "https://type.today/ru/journal/graphik_ge",
+      "source": "journal_posts_api"
+    },
+    "signal_mono": {
+      "release_date": "2020-11-16",
+      "post_slug": "signal_mono",
+      "post_url": "https://type.today/ru/journal/signal_mono",
+      "source": "journal_posts_api"
+    },
+    "grato_classic": {
+      "release_date": "2021-06-16",
+      "post_slug": "grato_gratimo",
+      "post_url": "https://type.today/ru/journal/grato_gratimo",
+      "source": "journal_posts_api"
+    },
+    "grato_grotesk": {
+      "release_date": "2021-06-16",
+      "post_slug": "grato_gratimo",
+      "post_url": "https://type.today/ru/journal/grato_gratimo",
+      "source": "journal_posts_api"
+    },
+    "gratimo_classic": {
+      "release_date": "2021-06-16",
+      "post_slug": "grato_gratimo",
+      "post_url": "https://type.today/ru/journal/grato_gratimo",
+      "source": "journal_posts_api"
+    },
+    "taler": {
+      "release_date": "2021-10-05",
+      "post_slug": "taler",
+      "post_url": "https://type.today/ru/journal/taler",
+      "source": "journal_posts_api"
+    },
+    "kazimir": {
+      "release_date": "2021-11-10",
+      "post_slug": "maregraphe",
+      "post_url": "https://type.today/ru/journal/maregraphe",
+      "source": "journal_posts_api"
+    },
+    "cstm_xprmntl03": {
+      "release_date": "2021-11-10",
+      "post_slug": "maregraphe",
+      "post_url": "https://type.today/ru/journal/maregraphe",
+      "source": "journal_posts_api"
+    },
+    "apoc": {
+      "release_date": "2021-11-10",
+      "post_slug": "maregraphe",
+      "post_url": "https://type.today/ru/journal/maregraphe",
+      "source": "journal_posts_api"
+    },
+    "grato_marker": {
+      "release_date": "2022-02-08",
+      "post_slug": "gratomarker",
+      "post_url": "https://type.today/ru/journal/gratomarker",
+      "source": "journal_posts_api"
+    },
+    "produkt": {
+      "release_date": "2022-02-17",
+      "post_slug": "produkt",
+      "post_url": "https://type.today/ru/journal/produkt",
+      "source": "journal_posts_api"
+    },
+    "canela": {
+      "release_date": "2022-02-15",
+      "post_slug": "canela",
+      "post_url": "https://type.today/ru/journal/canela",
+      "source": "journal_posts_api"
+    },
+    "canela_condensed": {
+      "release_date": "2022-02-15",
+      "post_slug": "canela",
+      "post_url": "https://type.today/ru/journal/canela",
+      "source": "journal_posts_api"
+    },
+    "canela_deck": {
+      "release_date": "2022-02-15",
+      "post_slug": "canela",
+      "post_url": "https://type.today/ru/journal/canela",
+      "source": "journal_posts_api"
+    },
+    "canela_text": {
+      "release_date": "2022-02-15",
+      "post_slug": "canela",
+      "post_url": "https://type.today/ru/journal/canela",
+      "source": "journal_posts_api"
+    },
+    "elma_mono": {
+      "release_date": "2022-11-15",
+      "post_slug": "elma",
+      "post_url": "https://type.today/ru/journal/elma",
+      "source": "journal_posts_api"
+    },
+    "elma_trio": {
+      "release_date": "2022-11-15",
+      "post_slug": "elma",
+      "post_url": "https://type.today/ru/journal/elma",
+      "source": "journal_posts_api"
+    },
+    "ottessa": {
+      "release_date": "2022-11-15",
+      "post_slug": "ottessa",
+      "post_url": "https://type.today/ru/journal/ottessa",
+      "source": "journal_posts_api"
+    },
+    "yuni_slab": {
+      "release_date": "2022-11-15",
+      "post_slug": "yunislab",
+      "post_url": "https://type.today/ru/journal/yunislab",
+      "source": "journal_posts_api"
+    },
+    "roslindale_variable": {
+      "release_date": "2023-09-12",
+      "post_slug": "roslindale",
+      "post_url": "https://type.today/ru/journal/roslindale",
+      "source": "journal_posts_api"
+    },
+    "roslindale_text": {
+      "release_date": "2023-09-12",
+      "post_slug": "roslindale",
+      "post_url": "https://type.today/ru/journal/roslindale",
+      "source": "journal_posts_api"
+    },
+    "roslindale_deck": {
+      "release_date": "2023-09-12",
+      "post_slug": "roslindale",
+      "post_url": "https://type.today/ru/journal/roslindale",
+      "source": "journal_posts_api"
+    },
+    "roslindale_display": {
+      "release_date": "2023-09-12",
+      "post_slug": "roslindale",
+      "post_url": "https://type.today/ru/journal/roslindale",
+      "source": "journal_posts_api"
+    },
+    "qommodore": {
+      "release_date": "2023-12-12",
+      "post_slug": "qommodore",
+      "post_url": "https://type.today/ru/journal/qommodore",
+      "source": "journal_posts_api"
+    },
+    "publico_headline": {
+      "release_date": "2024-01-23",
+      "post_slug": "publico",
+      "post_url": "https://type.today/ru/journal/publico",
+      "source": "journal_posts_api"
+    },
+    "publico_text": {
+      "release_date": "2024-01-23",
+      "post_slug": "publico",
+      "post_url": "https://type.today/ru/journal/publico",
+      "source": "journal_posts_api"
+    },
+    "publico_banner": {
+      "release_date": "2024-01-23",
+      "post_slug": "publico",
+      "post_url": "https://type.today/ru/journal/publico",
+      "source": "journal_posts_api"
+    },
+    "publico_text_mono": {
+      "release_date": "2024-01-23",
+      "post_slug": "publico",
+      "post_url": "https://type.today/ru/journal/publico",
+      "source": "journal_posts_api"
+    },
+    "guardian_egyptian": {
+      "release_date": "2024-01-23",
+      "post_slug": "guardian",
+      "post_url": "https://type.today/ru/journal/guardian",
+      "source": "journal_posts_api"
+    },
+    "guardian_text_egyptian": {
+      "release_date": "2024-01-23",
+      "post_slug": "guardian",
+      "post_url": "https://type.today/ru/journal/guardian",
+      "source": "journal_posts_api"
+    },
+    "guardian_sans": {
+      "release_date": "2024-01-23",
+      "post_slug": "guardian",
+      "post_url": "https://type.today/ru/journal/guardian",
+      "source": "journal_posts_api"
+    },
+    "guardian_text_sans": {
+      "release_date": "2024-01-23",
+      "post_slug": "guardian",
+      "post_url": "https://type.today/ru/journal/guardian",
+      "source": "journal_posts_api"
+    },
+    "lyon_text": {
+      "release_date": "2024-01-23",
+      "post_slug": "lyon",
+      "post_url": "https://type.today/ru/journal/lyon",
+      "source": "journal_posts_api"
+    },
+    "lyon_display": {
+      "release_date": "2024-01-23",
+      "post_slug": "lyon",
+      "post_url": "https://type.today/ru/journal/lyon",
+      "source": "journal_posts_api"
+    },
+    "portrait": {
+      "release_date": "2024-01-23",
+      "post_slug": "portrait",
+      "post_url": "https://type.today/ru/journal/portrait",
+      "source": "journal_posts_api"
+    },
+    "juneau": {
+      "release_date": "2024-05-21",
+      "post_slug": "juneau",
+      "post_url": "https://type.today/ru/journal/juneau",
+      "source": "journal_posts_api"
+    },
+    "zloy": {
+      "release_date": "2024-05-21",
+      "post_slug": "juneau",
+      "post_url": "https://type.today/ru/journal/juneau",
+      "source": "journal_posts_api"
+    },
+    "cera_mono": {
+      "release_date": "2024-06-18",
+      "post_slug": "ceramono",
+      "post_url": "https://type.today/ru/journal/ceramono",
+      "source": "journal_posts_api"
+    },
+    "oceanic": {
+      "release_date": "2024-08-26",
+      "post_slug": "oceanicgrotesk",
+      "post_url": "https://type.today/ru/journal/oceanicgrotesk",
+      "source": "journal_posts_api"
+    },
+    "oceanic_grotesk": {
+      "release_date": "2024-08-26",
+      "post_slug": "oceanicgrotesk",
+      "post_url": "https://type.today/ru/journal/oceanicgrotesk",
+      "source": "journal_posts_api"
+    },
+    "oceanic_gothic": {
+      "release_date": "2024-08-26",
+      "post_slug": "oceanicgothic",
+      "post_url": "https://type.today/ru/journal/oceanicgothic",
+      "source": "journal_posts_api"
+    },
+    "factor_b": {
+      "release_date": "2024-08-26",
+      "post_slug": "factorb",
+      "post_url": "https://type.today/ru/journal/factorb",
+      "source": "journal_posts_api"
+    },
+    "oceanic_text_mono": {
+      "release_date": "2024-08-26",
+      "post_slug": "oceanic_text_mono",
+      "post_url": "https://type.today/ru/journal/oceanic_text_mono",
+      "source": "journal_posts_api"
+    },
+    "taler_stencil": {
+      "release_date": "2024-09-05",
+      "post_slug": "talerstencil",
+      "post_url": "https://type.today/ru/journal/talerstencil",
+      "source": "journal_posts_api"
+    },
+    "gik": {
+      "release_date": "2024-09-05",
+      "post_slug": "talerstencil",
+      "post_url": "https://type.today/ru/journal/talerstencil",
+      "source": "journal_posts_api"
+    },
+    "struve": {
+      "release_date": "2024-10-08",
+      "post_slug": "struve",
+      "post_url": "https://type.today/ru/journal/struve",
+      "source": "journal_posts_api"
+    },
+    "bering_stencil": {
+      "release_date": "2024-10-08",
+      "post_slug": "bering",
+      "post_url": "https://type.today/ru/journal/bering",
+      "source": "journal_posts_api"
+    },
+    "retros": {
+      "release_date": "2024-10-08",
+      "post_slug": "retros",
+      "post_url": "https://type.today/ru/journal/retros",
+      "source": "journal_posts_api"
+    },
+    "nekst_mono": {
+      "release_date": "2025-01-23",
+      "post_slug": "nekstmono",
+      "post_url": "https://type.today/ru/journal/nekstmono",
+      "source": "journal_posts_api"
+    },
+    "graphik_condensed": {
+      "release_date": "2025-03-04",
+      "post_slug": "graphikcondensed",
+      "post_url": "https://type.today/ru/journal/graphikcondensed",
+      "source": "journal_posts_api"
+    },
+    "Graphik": {
+      "release_date": "2025-03-04",
+      "post_slug": "graphikcondensed",
+      "post_url": "https://type.today/ru/journal/graphikcondensed",
+      "source": "journal_posts_api"
+    },
+    "gregory_poster": {
+      "release_date": "2025-03-12",
+      "post_slug": "gregoryposter",
+      "post_url": "https://type.today/ru/journal/gregoryposter",
+      "source": "journal_posts_api"
+    },
+    "factor_a_mono": {
+      "release_date": "2025-05-15",
+      "post_slug": "factoramono",
+      "post_url": "https://type.today/ru/journal/factoramono",
+      "source": "journal_posts_api"
+    },
+    "repose": {
+      "release_date": "2025-05-29",
+      "post_slug": "repose",
+      "post_url": "https://type.today/ru/journal/repose",
+      "source": "journal_posts_api"
+    },
+    "opague": {
+      "release_date": "2025-05-29",
+      "post_slug": "opague",
+      "post_url": "https://type.today/ru/journal/opague",
+      "source": "journal_posts_api"
+    },
+    "gregory_grotesk": {
+      "release_date": "2025-07-16",
+      "post_slug": "gregorygrotesk",
+      "post_url": "https://type.today/ru/journal/gregorygrotesk",
+      "source": "journal_posts_api"
+    },
+    "gregory_grotesk_compressed": {
+      "release_date": "2025-07-16",
+      "post_slug": "gregorygrotesk",
+      "post_url": "https://type.today/ru/journal/gregorygrotesk",
+      "source": "journal_posts_api"
+    },
+    "gregory_grotesk_condensed": {
+      "release_date": "2025-07-16",
+      "post_slug": "gregorygrotesk",
+      "post_url": "https://type.today/ru/journal/gregorygrotesk",
+      "source": "journal_posts_api"
+    },
+    "gregory_variable": {
+      "release_date": "2025-07-16",
+      "post_slug": "gregorygrotesk",
+      "post_url": "https://type.today/ru/journal/gregorygrotesk",
+      "source": "journal_posts_api"
+    },
+    "yuni_grotesque": {
+      "release_date": "2025-10-09",
+      "post_slug": "yunigrotesque",
+      "post_url": "https://type.today/ru/journal/yunigrotesque",
+      "source": "journal_posts_api"
+    },
+    "feature_text": {
+      "release_date": "2025-11-06",
+      "post_slug": "feature",
+      "post_url": "https://type.today/ru/journal/feature",
+      "source": "journal_posts_api"
+    },
+    "feature_deck": {
+      "release_date": "2025-11-06",
+      "post_slug": "feature",
+      "post_url": "https://type.today/ru/journal/feature",
+      "source": "journal_posts_api"
+    },
+    "feature_display": {
+      "release_date": "2025-11-06",
+      "post_slug": "feature",
+      "post_url": "https://type.today/ru/journal/feature",
+      "source": "journal_posts_api"
+    }
+  },
+  "font_page_cache": {
+    "pilar": {
+      "font_url": "https://type.today/ru/pilar",
+      "journal_post_slugs": [
+        "krichevsky",
+        "grand_tour",
+        "onedayposter",
+        "pilar-in-use",
+        "sasha",
+        "martianov",
+        "pavlenko",
+        "yazylyan",
+        "cherepanova",
+        "diary1962",
+        "nonfiction21",
+        "baydinger"
+      ],
+      "updated_at": "2026-03-09T11:57:46.392922+00:00"
+    },
+    "giorgiosans": {
+      "font_url": "https://type.today/ru/giorgiosans",
+      "journal_post_slugs": [
+        "christian_schwartz_interview",
+        "krichevsky",
+        "grand_tour",
+        "cyrillic2016",
+        "giorgio-sans-in-use",
+        "giorgio-sans-in-use-ccc00107-0918-42ba-9acd-878860ad5f5d",
+        "sasha",
+        "martianov",
+        "sulliwan",
+        "pqqshki",
+        "hse2022",
+        "scholotch",
+        "cinematographiques"
+      ],
+      "updated_at": "2026-03-09T11:57:48.389913+00:00"
+    },
+    "nwtbodoni": {
+      "font_url": "https://type.today/ru/nwtbodoni",
+      "journal_post_slugs": [
+        "nwtbodoni_in_use",
+        "nwtbodoni_ivanovsky",
+        "grand_tour",
+        "bodoniinuse",
+        "kutkov",
+        "kutkov2",
+        "cyrillic2016",
+        "students",
+        "nwt_bodoni_update",
+        "rodionov",
+        "mollakaev",
+        "balabin",
+        "matyushkin",
+        "nonfiction21",
+        "bodoni_id",
+        "ttquestions_p4"
+      ],
+      "updated_at": "2026-03-09T11:57:50.809061+00:00"
+    },
+    "austin": {
+      "font_url": "https://type.today/ru/austin",
+      "journal_post_slugs": [
+        "new_austin",
+        "christian_schwartz_interview",
+        "grand_tour",
+        "sasha",
+        "frolov",
+        "brackets",
+        "pavlenko",
+        "cherepanova",
+        "rodionov",
+        "pqqshki",
+        "ksky",
+        "galipette"
+      ],
+      "updated_at": "2026-03-09T11:57:53.020399+00:00"
+    },
+    "Graphik": {
+      "font_url": "https://type.today/ru/Graphik",
+      "journal_post_slugs": [
+        "graphik-in-use",
+        "chulakov",
+        "christian_schwartz_interview",
+        "grand_tour",
+        "bystrov",
+        "graphic-in-use-merdan-ageev-for-type-today",
+        "graphik-by-commercial-type-in-use",
+        "sasha",
+        "martianov",
+        "dragoy",
+        "timurzima",
+        "egoshina",
+        "frolov",
+        "dash",
+        "howmuch",
+        "kuchum",
+        "ermolaeva",
+        "pavlenko",
+        "doreuli",
+        "aseslavinskaya",
+        "kinopoiskshow",
+        "graphik_compact",
+        "turbaba",
+        "rodionov",
+        "pqqshki",
+        "synytsia",
+        "graphik_ge",
+        "graphik_am",
+        "ivanovsky",
+        "holystick",
+        "beregovoy",
+        "produkt",
+        "bulgarian",
+        "serbian",
+        "jadeandalexis",
+        "uiuxtypography",
+        "inspiro",
+        "georgianposters",
+        "verticalmetrics",
+        "distance",
+        "halsa",
+        "multiscript",
+        "identityproduction",
+        "graphikcondensed"
+      ],
+      "updated_at": "2026-03-09T11:57:57.245274+00:00"
+    },
+    "amalta": {
+      "font_url": "https://type.today/ru/amalta",
+      "journal_post_slugs": [
+        "krichevsky",
+        "grand_tour",
+        "amalta-in-use",
+        "sasha",
+        "martianov",
+        "superdesigners",
+        "egoshina",
+        "yazylyan",
+        "turbaba",
+        "rodionov",
+        "ivanovsky",
+        "sharazde",
+        "nechaeva",
+        "planto",
+        "belyakov",
+        "nonfiction21",
+        "scholotch",
+        "uiuxtypography",
+        "cairochronicles"
+      ],
+      "updated_at": "2026-03-09T11:57:59.325917+00:00"
+    },
+    "kazimir": {
+      "font_url": "https://type.today/ru/kazimir",
+      "journal_post_slugs": [
+        "kazimir-in-use-95c59eec-41ff-49e9-a14a-97a37d4f9ef6",
+        "kazimir-in-use-kb",
+        "grand_tour",
+        "students",
+        "kazimir-in-use",
+        "dragoy",
+        "modcyr19",
+        "frolov",
+        "dash",
+        "howmuch",
+        "brackets",
+        "cherepanova",
+        "balabin",
+        "synytsia",
+        "rm2020",
+        "nechaeva",
+        "illariongordon",
+        "vboyko",
+        "scholotch",
+        "competitions",
+        "orpk",
+        "cairochronicles",
+        "popova",
+        "notjusttired",
+        "amelie",
+        "divizare"
+      ],
+      "updated_at": "2026-03-09T11:58:01.432977+00:00"
+    },
+    "kazimir-text": {
+      "font_url": "https://type.today/ru/kazimir-text",
+      "journal_post_slugs": [
+        "grand_tour",
+        "bystrov",
+        "cyrillic2016",
+        "students",
+        "kazimir-text-in-use",
+        "modcyr19",
+        "brackets",
+        "balabin",
+        "pqqshki",
+        "rm2020",
+        "v-a-c",
+        "senceessence",
+        "lightregular"
+      ],
+      "updated_at": "2026-03-09T11:58:03.719506+00:00"
+    },
+    "bigcity": {
+      "font_url": "https://type.today/ru/bigcity",
+      "journal_post_slugs": [
+        "new_bigcitygrot",
+        "bigcityzhdan",
+        "grand_tour",
+        "opentype_variables",
+        "cyrillic2016",
+        "students",
+        "sasha",
+        "brackets",
+        "pavlenko",
+        "uiuxtypography"
+      ],
+      "updated_at": "2026-03-09T11:58:07.007717+00:00"
+    },
+    "navigo": {
+      "font_url": "https://type.today/ru/navigo",
+      "journal_post_slugs": [
+        "navigoinuse",
+        "navigo_in_use_zaryadie_by_gruppa",
+        "students",
+        "sasha",
+        "navigo-coop",
+        "navigo-zoloto",
+        "kuchum",
+        "kozlovaa",
+        "navigo_italic",
+        "zorkina",
+        "bodkin",
+        "devexperts",
+        "arquibancada",
+        "orpk",
+        "emoji01"
+      ],
+      "updated_at": "2026-03-09T11:58:08.914485+00:00"
+    },
+    "stag": {
+      "font_url": "https://type.today/ru/stag",
+      "journal_post_slugs": [
+        "staginuse",
+        "whytheprice"
+      ],
+      "updated_at": "2026-03-09T11:58:11.782953+00:00"
+    },
+    "stagsans": {
+      "font_url": "https://type.today/ru/stagsans",
+      "journal_post_slugs": [
+        "staginuse",
+        "whytheprice"
+      ],
+      "updated_at": "2026-03-09T11:58:14.002808+00:00"
+    },
+    "cstm_emoji": {
+      "font_url": "https://type.today/ru/cstm_emoji",
+      "journal_post_slugs": [
+        "emoji",
+        "superdesigners",
+        "turbaba",
+        "emoji01",
+        "emoji02"
+      ],
+      "updated_at": "2026-03-09T11:58:16.448133+00:00"
+    },
+    "trola": {
+      "font_url": "https://type.today/ru/trola",
+      "journal_post_slugs": [
+        "trola",
+        "martianov",
+        "modcyr19",
+        "dash",
+        "brackets",
+        "illariongordon",
+        "gombrich"
+      ],
+      "updated_at": "2026-03-09T11:58:18.710441+00:00"
+    },
+    "stratos_cyrillic": {
+      "font_url": "https://type.today/ru/stratos_cyrillic",
+      "journal_post_slugs": [
+        "new-typeface-stratos",
+        "sasha",
+        "martianov",
+        "stratos-oktava",
+        "whytheprice",
+        "gogol",
+        "ermolaeva",
+        "march20",
+        "turbaba",
+        "synytsia",
+        "sreda20",
+        "rm2020",
+        "matyushkin",
+        "july21",
+        "belyakov",
+        "stradarium",
+        "skypro",
+        "wonderwheel",
+        "uiuxtypography",
+        "sonarau",
+        "popova",
+        "deutschonline"
+      ],
+      "updated_at": "2026-03-09T11:58:20.463227+00:00"
+    },
+    "druk": {
+      "font_url": "https://type.today/ru/druk",
+      "journal_post_slugs": [
+        "new-typeface-druk",
+        "dragoy",
+        "timurzima",
+        "sulliwan",
+        "ermolaeva",
+        "notjusttired",
+        "cherepanova",
+        "ivanovsky",
+        "redpanda",
+        "kozlovaa",
+        "sreda20",
+        "superkiosk",
+        "azmuzeum",
+        "scholotch",
+        "synytsia",
+        "brackets",
+        "september19",
+        "localkitchen",
+        "belyakov",
+        "rodionov",
+        "ryans",
+        "egoshina",
+        "pavlenko",
+        "pqqshki",
+        "tigermilk",
+        "ksky",
+        "irabykova",
+        "fontsinuse",
+        "modcyr19",
+        "frolov",
+        "pocketmoon",
+        "militonian",
+        "kuchum",
+        "culturefund",
+        "yazylyan",
+        "tokyopeople",
+        "fontsandshoes",
+        "lentze"
+      ],
+      "updated_at": "2026-03-09T11:58:22.398833+00:00"
+    },
+    "druk_cond": {
+      "font_url": "https://type.today/ru/druk_cond",
+      "journal_post_slugs": [
+        "new-typeface-druk",
+        "superdesigners",
+        "cherepanova",
+        "ivanovsky",
+        "redpanda",
+        "kozlovaa",
+        "sreda20",
+        "superkiosk",
+        "azmuzeum",
+        "scholotch",
+        "synytsia",
+        "brackets",
+        "september19",
+        "localkitchen",
+        "belyakov",
+        "rodionov",
+        "ryans",
+        "egoshina",
+        "pavlenko",
+        "pqqshki",
+        "tigermilk",
+        "ksky",
+        "irabykova",
+        "fontsinuse",
+        "modcyr19",
+        "frolov",
+        "pocketmoon",
+        "militonian",
+        "kuchum",
+        "culturefund",
+        "yazylyan",
+        "tokyopeople",
+        "fontsandshoes",
+        "lentze"
+      ],
+      "updated_at": "2026-03-09T11:58:24.192807+00:00"
+    },
+    "druk_text": {
+      "font_url": "https://type.today/ru/druk_text",
+      "journal_post_slugs": [
+        "new-typeface-druk",
+        "cherepanova",
+        "ivanovsky",
+        "redpanda",
+        "kozlovaa",
+        "sreda20",
+        "superkiosk",
+        "azmuzeum",
+        "scholotch",
+        "synytsia",
+        "brackets",
+        "september19",
+        "localkitchen",
+        "belyakov",
+        "rodionov",
+        "ryans",
+        "egoshina",
+        "pavlenko",
+        "pqqshki",
+        "tigermilk",
+        "ksky",
+        "irabykova",
+        "fontsinuse",
+        "modcyr19",
+        "frolov",
+        "pocketmoon",
+        "militonian",
+        "kuchum",
+        "culturefund",
+        "yazylyan",
+        "tokyopeople",
+        "fontsandshoes",
+        "lentze"
+      ],
+      "updated_at": "2026-03-09T11:58:26.234809+00:00"
+    },
+    "druk_wide": {
+      "font_url": "https://type.today/ru/druk_wide",
+      "journal_post_slugs": [
+        "new-typeface-druk",
+        "nonfiction21",
+        "cherepanova",
+        "ivanovsky",
+        "redpanda",
+        "kozlovaa",
+        "sreda20",
+        "superkiosk",
+        "azmuzeum",
+        "scholotch",
+        "synytsia",
+        "brackets",
+        "september19",
+        "localkitchen",
+        "belyakov",
+        "rodionov",
+        "ryans",
+        "egoshina",
+        "pavlenko",
+        "pqqshki",
+        "tigermilk",
+        "ksky",
+        "irabykova",
+        "fontsinuse",
+        "modcyr19",
+        "frolov",
+        "pocketmoon",
+        "militonian",
+        "kuchum",
+        "culturefund",
+        "yazylyan",
+        "tokyopeople",
+        "fontsandshoes",
+        "lentze"
+      ],
+      "updated_at": "2026-03-09T11:58:29.303150+00:00"
+    },
+    "druk_text_wide": {
+      "font_url": "https://type.today/ru/druk_text_wide",
+      "journal_post_slugs": [
+        "new-typeface-druk",
+        "cherepanova",
+        "ivanovsky",
+        "redpanda",
+        "kozlovaa",
+        "sreda20",
+        "superkiosk",
+        "azmuzeum",
+        "scholotch",
+        "synytsia",
+        "brackets",
+        "september19",
+        "localkitchen",
+        "belyakov",
+        "rodionov",
+        "ryans",
+        "egoshina",
+        "pavlenko",
+        "pqqshki",
+        "tigermilk",
+        "ksky",
+        "irabykova",
+        "fontsinuse",
+        "modcyr19",
+        "frolov",
+        "pocketmoon",
+        "militonian",
+        "kuchum",
+        "culturefund",
+        "yazylyan",
+        "tokyopeople",
+        "fontsandshoes",
+        "lentze"
+      ],
+      "updated_at": "2026-03-09T11:58:31.193993+00:00"
+    },
+    "dala_floda": {
+      "font_url": "https://type.today/ru/dala_floda",
+      "journal_post_slugs": [
+        "dala_floda",
+        "martianov",
+        "modcyr19",
+        "howmuch",
+        "pavlenko",
+        "cherepanova",
+        "vboyko",
+        "hse2022"
+      ],
+      "updated_at": "2026-03-09T11:58:33.062511+00:00"
+    },
+    "cera": {
+      "font_url": "https://type.today/ru/cera",
+      "journal_post_slugs": [
+        "superdesigners",
+        "witcher",
+        "egoshina",
+        "pavlenko",
+        "sreda20",
+        "cera_round_italic",
+        "hse2022",
+        "ziminin",
+        "typemates_update",
+        "greektype",
+        "ceramono",
+        "typemates",
+        "fontsandshoes"
+      ],
+      "updated_at": "2026-03-09T11:58:37.091253+00:00"
+    },
+    "cera_round": {
+      "font_url": "https://type.today/ru/cera_round",
+      "journal_post_slugs": [
+        "nonfiction21",
+        "egoshina",
+        "pavlenko",
+        "sreda20",
+        "cera_round_italic",
+        "hse2022",
+        "ziminin",
+        "typemates_update",
+        "greektype",
+        "ceramono",
+        "witcher",
+        "typemates",
+        "fontsandshoes"
+      ],
+      "updated_at": "2026-03-09T11:58:39.169495+00:00"
+    },
+    "cera_stencil": {
+      "font_url": "https://type.today/ru/cera_stencil",
+      "journal_post_slugs": [
+        "egoshina",
+        "pavlenko",
+        "sreda20",
+        "cera_round_italic",
+        "hse2022",
+        "ziminin",
+        "typemates_update",
+        "greektype",
+        "ceramono",
+        "witcher",
+        "typemates",
+        "fontsandshoes"
+      ],
+      "updated_at": "2026-03-09T11:58:41.122022+00:00"
+    },
+    "cera_condensed": {
+      "font_url": "https://type.today/ru/cera_condensed",
+      "journal_post_slugs": [
+        "sreda20",
+        "egoshina",
+        "pavlenko",
+        "cera_round_italic",
+        "hse2022",
+        "ziminin",
+        "typemates_update",
+        "greektype",
+        "ceramono",
+        "witcher",
+        "typemates",
+        "fontsandshoes"
+      ],
+      "updated_at": "2026-03-09T11:58:43.015441+00:00"
+    },
+    "cera_compact": {
+      "font_url": "https://type.today/ru/cera_compact",
+      "journal_post_slugs": [
+        "egoshina",
+        "pavlenko",
+        "sreda20",
+        "cera_round_italic",
+        "hse2022",
+        "ziminin",
+        "typemates_update",
+        "greektype",
+        "ceramono",
+        "witcher",
+        "typemates",
+        "fontsandshoes"
+      ],
+      "updated_at": "2026-03-09T11:58:45.271274+00:00"
+    },
+    "spectral": {
+      "font_url": "https://type.today/ru/spectral",
+      "journal_post_slugs": [
+        "whatisfree",
+        "turbaba",
+        "v-a-c",
+        "old-style",
+        "july21",
+        "belyakov",
+        "vboyko",
+        "nonfiction21",
+        "bulgarian",
+        "serbian",
+        "koryosaram",
+        "uiuxtypography",
+        "uzbek",
+        "multiscript",
+        "spectral-in-use-_the-shape-of-what-remains"
+      ],
+      "updated_at": "2026-03-09T11:58:47.188442+00:00"
+    },
+    "styrene_a": {
+      "font_url": "https://type.today/ru/styrene_a",
+      "journal_post_slugs": [
+        "styrene",
+        "styrene-alfa",
+        "ermolaeva",
+        "november19",
+        "turbaba",
+        "retro",
+        "anthropic",
+        "udmurt"
+      ],
+      "updated_at": "2026-03-09T11:58:49.132204+00:00"
+    },
+    "styrene_b": {
+      "font_url": "https://type.today/ru/styrene_b",
+      "journal_post_slugs": [
+        "styrene",
+        "styrene-alfa",
+        "ermolaeva",
+        "retro",
+        "nonfiction21",
+        "november19",
+        "turbaba",
+        "anthropic",
+        "udmurt"
+      ],
+      "updated_at": "2026-03-09T11:58:51.368418+00:00"
+    },
+    "protogrotesk": {
+      "font_url": "https://type.today/ru/protogrotesk",
+      "journal_post_slugs": [
+        "protogrotesk",
+        "ermolaeva",
+        "pqqshki",
+        "v-a-c",
+        "matyushkin",
+        "istories",
+        "zorkina",
+        "greektype",
+        "nonfiction21",
+        "uiuxtypography",
+        "verticalmetrics",
+        "canvas",
+        "resistance",
+        "protogrotesk_id"
+      ],
+      "updated_at": "2026-03-09T11:58:53.211135+00:00"
+    },
+    "cstm_xprmntl03": {
+      "font_url": "https://type.today/ru/cstm_xprmntl03",
+      "journal_post_slugs": [
+        "cstm_xprmntl03",
+        "alexanina",
+        "stradarium",
+        "reflectstudio",
+        "licensingupdate",
+        "artofmastering",
+        "aboutvariable",
+        "uglystepsister"
+      ],
+      "updated_at": "2026-03-09T11:58:57.510174+00:00"
+    },
+    "variable-test": {
+      "font_url": "https://type.today/ru/variable-test",
+      "journal_post_slugs": [],
+      "updated_at": "2026-03-09T11:58:59.709093+00:00"
+    },
+    "halvar_breitschrift": {
+      "font_url": "https://type.today/ru/halvar_breitschrift",
+      "journal_post_slugs": [
+        "blogosphere",
+        "nonfiction21",
+        "new-typeface-halvar",
+        "kuchum",
+        "pavlenko",
+        "turbaba",
+        "rodionov",
+        "mollakaev",
+        "balabin",
+        "pqqshki",
+        "kozlovaa",
+        "holystick",
+        "july21",
+        "irabykova",
+        "48hours",
+        "hse2022",
+        "typemates_update",
+        "greektype",
+        "verticalmetrics",
+        "udmurt",
+        "orthoffice"
+      ],
+      "updated_at": "2026-03-09T11:59:01.456151+00:00"
+    },
+    "halvar_mittelschrift": {
+      "font_url": "https://type.today/ru/halvar_mittelschrift",
+      "journal_post_slugs": [
+        "new-typeface-halvar",
+        "kuchum",
+        "pavlenko",
+        "turbaba",
+        "rodionov",
+        "mollakaev",
+        "balabin",
+        "pqqshki",
+        "kozlovaa",
+        "holystick",
+        "july21",
+        "irabykova",
+        "48hours",
+        "hse2022",
+        "typemates_update",
+        "greektype",
+        "verticalmetrics",
+        "udmurt",
+        "orthoffice"
+      ],
+      "updated_at": "2026-03-09T11:59:03.788801+00:00"
+    },
+    "halvar_engschrift": {
+      "font_url": "https://type.today/ru/halvar_engschrift",
+      "journal_post_slugs": [
+        "new-typeface-halvar",
+        "kuchum",
+        "pavlenko",
+        "turbaba",
+        "rodionov",
+        "mollakaev",
+        "balabin",
+        "pqqshki",
+        "kozlovaa",
+        "holystick",
+        "july21",
+        "irabykova",
+        "48hours",
+        "hse2022",
+        "typemates_update",
+        "greektype",
+        "verticalmetrics",
+        "udmurt",
+        "orthoffice"
+      ],
+      "updated_at": "2026-03-09T11:59:06.441872+00:00"
+    },
+    "halvar_stecil_breitschrift": {
+      "font_url": "https://type.today/ru/halvar_stecil_breitschrift",
+      "journal_post_slugs": [
+        "new-typeface-halvar",
+        "kuchum",
+        "pavlenko",
+        "turbaba",
+        "rodionov",
+        "mollakaev",
+        "balabin",
+        "pqqshki",
+        "kozlovaa",
+        "holystick",
+        "july21",
+        "irabykova",
+        "48hours",
+        "hse2022",
+        "typemates_update",
+        "greektype",
+        "verticalmetrics",
+        "udmurt",
+        "orthoffice"
+      ],
+      "updated_at": "2026-03-09T11:59:08.767512+00:00"
+    },
+    "halvar_stencil_mittelschrift": {
+      "font_url": "https://type.today/ru/halvar_stencil_mittelschrift",
+      "journal_post_slugs": [
+        "new-typeface-halvar",
+        "kuchum",
+        "pavlenko",
+        "turbaba",
+        "rodionov",
+        "mollakaev",
+        "balabin",
+        "pqqshki",
+        "kozlovaa",
+        "holystick",
+        "july21",
+        "irabykova",
+        "48hours",
+        "hse2022",
+        "typemates_update",
+        "greektype",
+        "verticalmetrics",
+        "udmurt",
+        "orthoffice"
+      ],
+      "updated_at": "2026-03-09T11:59:10.809967+00:00"
+    },
+    "halvar_stencil_engschrift": {
+      "font_url": "https://type.today/ru/halvar_stencil_engschrift",
+      "journal_post_slugs": [
+        "new-typeface-halvar",
+        "kuchum",
+        "pavlenko",
+        "turbaba",
+        "rodionov",
+        "mollakaev",
+        "balabin",
+        "pqqshki",
+        "kozlovaa",
+        "holystick",
+        "july21",
+        "irabykova",
+        "48hours",
+        "hse2022",
+        "typemates_update",
+        "greektype",
+        "verticalmetrics",
+        "udmurt",
+        "orthoffice"
+      ],
+      "updated_at": "2026-03-09T11:59:12.587638+00:00"
+    },
+    "cstm_xprmntl02reg": {
+      "font_url": "https://type.today/ru/cstm_xprmntl02reg",
+      "journal_post_slugs": [
+        "calendar2021"
+      ],
+      "updated_at": "2026-03-09T11:59:17.256322+00:00"
+    },
+    "cstm_xprmntl02italic": {
+      "font_url": "https://type.today/ru/cstm_xprmntl02italic",
+      "journal_post_slugs": [
+        "tomorow",
+        "tomorrow_xprmntl",
+        "alexanina",
+        "nati3",
+        "xp_nospr",
+        "depo",
+        "konieczka",
+        "heti"
+      ],
+      "updated_at": "2026-03-09T11:59:19.883920+00:00"
+    },
+    "cstm_xprmntl02bold": {
+      "font_url": "https://type.today/ru/cstm_xprmntl02bold",
+      "journal_post_slugs": [
+        "tomorow",
+        "tomorrow_xprmntl",
+        "xp_nospr",
+        "batula",
+        "russiansinafrica"
+      ],
+      "updated_at": "2026-03-09T11:59:22.348790+00:00"
+    },
+    "epos": {
+      "font_url": "https://type.today/ru/epos",
+      "journal_post_slugs": [
+        "tomorrow_epos",
+        "tomorow",
+        "serebryakov",
+        "calendar2021",
+        "illariongordon",
+        "july21",
+        "reflectstudio",
+        "licensingupdate",
+        "fontsandshoes"
+      ],
+      "updated_at": "2026-03-09T11:59:25.946588+00:00"
+    },
+    "trnsgndr": {
+      "font_url": "https://type.today/ru/trnsgndr",
+      "journal_post_slugs": [
+        "tomorrow_transgender",
+        "tomorow",
+        "calendar2021",
+        "ivanovsky",
+        "chrpsh",
+        "purpur",
+        "nonfiction21",
+        "transgender_mst",
+        "curie",
+        "crypto",
+        "blamelab"
+      ],
+      "updated_at": "2026-03-09T11:59:29.496022+00:00"
+    },
+    "archaism": {
+      "font_url": "https://type.today/ru/archaism",
+      "journal_post_slugs": [
+        "tomorrowarchaism",
+        "tomorow",
+        "kanarev",
+        "archaism_females",
+        "calendar2021",
+        "beregovoy",
+        "truckdrivers",
+        "modernists"
+      ],
+      "updated_at": "2026-03-09T11:59:31.973747+00:00"
+    },
+    "healthgoth": {
+      "font_url": "https://type.today/ru/healthgoth",
+      "journal_post_slugs": [
+        "tomorrow_healthgoth",
+        "tomorow",
+        "aseslavinskaya",
+        "calendar2021",
+        "licensingupdate"
+      ],
+      "updated_at": "2026-03-09T11:59:34.348690+00:00"
+    },
+    "cstm_xprmntl01": {
+      "font_url": "https://type.today/ru/cstm_xprmntl01",
+      "journal_post_slugs": [
+        "tomorow",
+        "turbaba",
+        "calendar2021",
+        "murashko_satori_vasaras_avize",
+        "xp_nospr",
+        "resistance",
+        "filmtopia",
+        "stereo"
+      ],
+      "updated_at": "2026-03-09T11:59:37.081240+00:00"
+    },
+    "flicker": {
+      "font_url": "https://type.today/ru/flicker",
+      "journal_post_slugs": [
+        "tomorrow_flicker",
+        "calendar2021",
+        "m464",
+        "zorkina",
+        "znachituragan",
+        "nonfiction21",
+        "var_animated_preview",
+        "reflectstudio",
+        "verticalmetrics",
+        "licensingupdate"
+      ],
+      "updated_at": "2026-03-09T11:59:39.870784+00:00"
+    },
+    "nostra": {
+      "font_url": "https://type.today/ru/nostra",
+      "journal_post_slugs": [
+        "neumeyer",
+        "tomorrow_nostra",
+        "calendar2021",
+        "om130",
+        "alexanina",
+        "kinopoiskshow",
+        "reflectstudio",
+        "licensingupdate",
+        "coebergh",
+        "ethicalcolour"
+      ],
+      "updated_at": "2026-03-09T11:59:43.259320+00:00"
+    },
+    "curbe": {
+      "font_url": "https://type.today/ru/curbe",
+      "journal_post_slugs": [
+        "tomorrow_curbe",
+        "calendar2021",
+        "murashko_satori_vasaras_avize",
+        "hse2022",
+        "licensingupdate",
+        "competitions",
+        "mapsfoftime",
+        "fontsandshoes"
+      ],
+      "updated_at": "2026-03-09T11:59:45.735289+00:00"
+    },
+    "graphik_compact": {
+      "font_url": "https://type.today/ru/graphik_compact",
+      "journal_post_slugs": [
+        "graphik_compact",
+        "distance",
+        "turbaba",
+        "rodionov",
+        "pqqshki",
+        "synytsia",
+        "graphik_ge",
+        "graphik_am",
+        "ivanovsky",
+        "holystick",
+        "beregovoy",
+        "produkt",
+        "bulgarian",
+        "serbian",
+        "jadeandalexis",
+        "uiuxtypography",
+        "inspiro",
+        "georgianposters",
+        "verticalmetrics",
+        "halsa",
+        "multiscript",
+        "identityproduction",
+        "graphikcondensed"
+      ],
+      "updated_at": "2026-03-09T11:59:47.647752+00:00"
+    },
+    "platform": {
+      "font_url": "https://type.today/ru/platform",
+      "journal_post_slugs": [
+        "platform",
+        "bigwallsport",
+        "multiverse"
+      ],
+      "updated_at": "2026-03-09T11:59:49.407802+00:00"
+    },
+    "atlas_grotesk": {
+      "font_url": "https://type.today/ru/atlas_grotesk",
+      "journal_post_slugs": [
+        "atlas",
+        "baydinger",
+        "gedzjuns",
+        "ivanovsky",
+        "holystick",
+        "militonian",
+        "bentoml",
+        "ttquestions_p4",
+        "kristallnacht",
+        "switch24"
+      ],
+      "updated_at": "2026-03-09T11:59:51.149604+00:00"
+    },
+    "atlas_typewriter": {
+      "font_url": "https://type.today/ru/atlas_typewriter",
+      "journal_post_slugs": [
+        "atlas",
+        "ivanovsky",
+        "holystick",
+        "militonian",
+        "bentoml",
+        "ttquestions_p4",
+        "kristallnacht",
+        "switch24"
+      ],
+      "updated_at": "2026-03-09T11:59:52.914451+00:00"
+    },
+    "displace2": {
+      "font_url": "https://type.today/ru/displace2",
+      "journal_post_slugs": [
+        "displace",
+        "serebryakov"
+      ],
+      "updated_at": "2026-03-09T11:59:54.775086+00:00"
+    },
+    "displace_serif": {
+      "font_url": "https://type.today/ru/displace_serif",
+      "journal_post_slugs": [
+        "displace",
+        "calendar2021",
+        "ivanovsky",
+        "serebryakov"
+      ],
+      "updated_at": "2026-03-09T11:59:56.763615+00:00"
+    },
+    "tomasa": {
+      "font_url": "https://type.today/ru/tomasa",
+      "journal_post_slugs": [
+        "tomasa",
+        "calendar2021",
+        "july21",
+        "hse2022",
+        "licensingupdate",
+        "competitions"
+      ],
+      "updated_at": "2026-03-09T11:59:59.746629+00:00"
+    },
+    "signal": {
+      "font_url": "https://type.today/ru/signal",
+      "journal_post_slugs": [
+        "signal",
+        "signal_mono",
+        "vboyko",
+        "hse2022",
+        "truckdrivers",
+        "zadig",
+        "dries",
+        "cahu",
+        "jbl"
+      ],
+      "updated_at": "2026-03-09T12:00:02.006997+00:00"
+    },
+    "lurk_a": {
+      "font_url": "https://type.today/ru/lurk_a",
+      "journal_post_slugs": [
+        "lurk",
+        "july21",
+        "vboyko"
+      ],
+      "updated_at": "2026-03-09T12:00:06.511936+00:00"
+    },
+    "lurk_b": {
+      "font_url": "https://type.today/ru/lurk_b",
+      "journal_post_slugs": [
+        "lurk",
+        "facultativeworks",
+        "july21",
+        "vboyko"
+      ],
+      "updated_at": "2026-03-09T12:00:09.707580+00:00"
+    },
+    "stravinsky": {
+      "font_url": "https://type.today/ru/stravinsky",
+      "journal_post_slugs": [
+        "stravinsky",
+        "calendar2021",
+        "licensingupdate"
+      ],
+      "updated_at": "2026-03-09T12:00:13.005676+00:00"
+    },
+    "nekst": {
+      "font_url": "https://type.today/ru/nekst",
+      "journal_post_slugs": [
+        "nekst",
+        "serebryakov",
+        "votvotagency",
+        "irabykova",
+        "belyakov",
+        "zorkina",
+        "ifa",
+        "baydinger",
+        "uiuxtypography",
+        "quantum",
+        "competitions",
+        "nekstmono",
+        "fontsandshoes"
+      ],
+      "updated_at": "2026-03-09T12:00:14.882782+00:00"
+    },
+    "normalidad_variable": {
+      "font_url": "https://type.today/ru/normalidad_variable",
+      "journal_post_slugs": [
+        "normalidad",
+        "adcr20",
+        "kozlovaa",
+        "holystick",
+        "pioner",
+        "irabykova",
+        "bonemusic",
+        "uiuxtypography",
+        "artofmastering",
+        "divizare",
+        "oncologica"
+      ],
+      "updated_at": "2026-03-09T12:00:18.416239+00:00"
+    },
+    "normalidad_compact": {
+      "font_url": "https://type.today/ru/normalidad_compact",
+      "journal_post_slugs": [
+        "normalidad",
+        "adcr20",
+        "kozlovaa",
+        "holystick",
+        "pioner",
+        "irabykova",
+        "bonemusic",
+        "uiuxtypography",
+        "artofmastering",
+        "divizare",
+        "oncologica"
+      ],
+      "updated_at": "2026-03-09T12:00:21.020870+00:00"
+    },
+    "normalidad_text": {
+      "font_url": "https://type.today/ru/normalidad_text",
+      "journal_post_slugs": [
+        "normalidad",
+        "adcr20",
+        "kozlovaa",
+        "holystick",
+        "pioner",
+        "irabykova",
+        "bonemusic",
+        "uiuxtypography",
+        "artofmastering",
+        "divizare",
+        "oncologica"
+      ],
+      "updated_at": "2026-03-09T12:00:22.802526+00:00"
+    },
+    "normalidad_wide": {
+      "font_url": "https://type.today/ru/normalidad_wide",
+      "journal_post_slugs": [
+        "normalidad",
+        "adcr20",
+        "kozlovaa",
+        "holystick",
+        "pioner",
+        "irabykova",
+        "bonemusic",
+        "uiuxtypography",
+        "artofmastering",
+        "divizare",
+        "oncologica"
+      ],
+      "updated_at": "2026-03-09T12:00:24.718248+00:00"
+    },
+    "normalidad_extended": {
+      "font_url": "https://type.today/ru/normalidad_extended",
+      "journal_post_slugs": [
+        "normalidad",
+        "adcr20",
+        "kozlovaa",
+        "holystick",
+        "pioner",
+        "irabykova",
+        "bonemusic",
+        "uiuxtypography",
+        "artofmastering",
+        "divizare",
+        "oncologica"
+      ],
+      "updated_at": "2026-03-09T12:00:26.504241+00:00"
+    },
+    "normalidad_ultraextended": {
+      "font_url": "https://type.today/ru/normalidad_ultraextended",
+      "journal_post_slugs": [
+        "normalidad",
+        "adcr20",
+        "kozlovaa",
+        "holystick",
+        "pioner",
+        "irabykova",
+        "bonemusic",
+        "uiuxtypography",
+        "artofmastering",
+        "divizare",
+        "oncologica"
+      ],
+      "updated_at": "2026-03-09T12:00:28.432131+00:00"
+    },
+    "windward": {
+      "font_url": "https://type.today/ru/windward",
+      "journal_post_slugs": [
+        "windward",
+        "pioner",
+        "hse2022"
+      ],
+      "updated_at": "2026-03-09T12:00:30.141877+00:00"
+    },
+    "tesseract": {
+      "font_url": "https://type.today/ru/tesseract",
+      "journal_post_slugs": [
+        "tesseract",
+        "facultativeworks",
+        "illariongordon",
+        "khortytsia",
+        "jbl"
+      ],
+      "updated_at": "2026-03-09T12:00:32.265944+00:00"
+    },
+    "tesseract_display": {
+      "font_url": "https://type.today/ru/tesseract_display",
+      "journal_post_slugs": [
+        "tesseract",
+        "facultativeworks",
+        "illariongordon",
+        "khortytsia",
+        "jbl"
+      ],
+      "updated_at": "2026-03-09T12:00:34.380090+00:00"
+    },
+    "sauberscript": {
+      "font_url": "https://type.today/ru/sauberscript",
+      "journal_post_slugs": [
+        "sauber",
+        "greektype",
+        "baydinger"
+      ],
+      "updated_at": "2026-03-09T12:00:36.186460+00:00"
+    },
+    "graphik_geo": {
+      "font_url": "https://type.today/ru/graphik_geo",
+      "journal_post_slugs": [
+        "ge",
+        "graphik_compact",
+        "turbaba",
+        "rodionov",
+        "pqqshki",
+        "synytsia",
+        "graphik_ge",
+        "graphik_am",
+        "ivanovsky",
+        "holystick",
+        "beregovoy",
+        "produkt",
+        "bulgarian",
+        "serbian",
+        "jadeandalexis",
+        "uiuxtypography",
+        "inspiro",
+        "georgianposters",
+        "verticalmetrics",
+        "distance",
+        "halsa",
+        "multiscript",
+        "identityproduction",
+        "graphikcondensed"
+      ],
+      "updated_at": "2026-03-09T12:00:38.477850+00:00"
+    },
+    "graphik_arm": {
+      "font_url": "https://type.today/ru/graphik_arm",
+      "journal_post_slugs": [
+        "graphik_am",
+        "am",
+        "armeniantypenow",
+        "graphik_compact",
+        "turbaba",
+        "rodionov",
+        "pqqshki",
+        "synytsia",
+        "graphik_ge",
+        "ivanovsky",
+        "holystick",
+        "beregovoy",
+        "produkt",
+        "bulgarian",
+        "serbian",
+        "jadeandalexis",
+        "uiuxtypography",
+        "inspiro",
+        "georgianposters",
+        "verticalmetrics",
+        "distance",
+        "halsa",
+        "multiscript",
+        "identityproduction",
+        "graphikcondensed"
+      ],
+      "updated_at": "2026-03-09T12:00:40.573316+00:00"
+    },
+    "metal": {
+      "font_url": "https://type.today/ru/metal",
+      "journal_post_slugs": [
+        "metal",
+        "calendar2021",
+        "nati3",
+        "reflectstudio",
+        "licensingupdate",
+        "fontsandshoes"
+      ],
+      "updated_at": "2026-03-09T12:00:43.069374+00:00"
+    },
+    "baseandbloom": {
+      "font_url": "https://type.today/ru/baseandbloom",
+      "journal_post_slugs": [
+        "basebloom",
+        "calendar2021",
+        "radiodolin",
+        "bakhrushinmuseum",
+        "logos",
+        "thingsmatter",
+        "reflectstudio",
+        "licensingupdate",
+        "matter"
+      ],
+      "updated_at": "2026-03-09T12:00:45.251606+00:00"
+    },
+    "signal_mono": {
+      "font_url": "https://type.today/ru/signal_mono",
+      "journal_post_slugs": [
+        "signal_mono",
+        "vboyko",
+        "hse2022",
+        "truckdrivers",
+        "zadig",
+        "dries",
+        "cahu",
+        "jbl"
+      ],
+      "updated_at": "2026-03-09T12:00:47.336226+00:00"
+    },
+    "factor_a_semrush": {
+      "font_url": "https://type.today/ru/factor_a_semrush",
+      "journal_post_slugs": [],
+      "updated_at": "2026-03-09T12:00:50.510779+00:00"
+    },
+    "halunke": {
+      "font_url": "https://type.today/ru/halunke",
+      "journal_post_slugs": [
+        "halunke",
+        "calendar2021",
+        "licensingupdate"
+      ],
+      "updated_at": "2026-03-09T12:00:53.074170+00:00"
+    },
+    "druk_start": {
+      "font_url": "https://type.today/ru/druk_start",
+      "journal_post_slugs": [],
+      "updated_at": "2026-03-09T12:00:54.732458+00:00"
+    },
+    "norbert-breit": {
+      "font_url": "https://type.today/ru/norbert-breit",
+      "journal_post_slugs": [
+        "norbert",
+        "gagarinsky",
+        "hse2022",
+        "typemates_update",
+        "militonian",
+        "typemates"
+      ],
+      "updated_at": "2026-03-09T12:00:56.763074+00:00"
+    },
+    "norbert-schmal": {
+      "font_url": "https://type.today/ru/norbert-schmal",
+      "journal_post_slugs": [
+        "norbert",
+        "gagarinsky",
+        "hse2022",
+        "typemates_update",
+        "militonian",
+        "typemates"
+      ],
+      "updated_at": "2026-03-09T12:00:58.326498+00:00"
+    },
+    "loos_georgian_extrawide": {
+      "font_url": "https://type.today/ru/loos_georgian_extrawide",
+      "journal_post_slugs": [
+        "loos",
+        "dinaswine",
+        "depo",
+        "devge"
+      ],
+      "updated_at": "2026-03-09T12:01:00.022855+00:00"
+    },
+    "loos_georgian_wide": {
+      "font_url": "https://type.today/ru/loos_georgian_wide",
+      "journal_post_slugs": [
+        "loos",
+        "dinaswine",
+        "depo",
+        "devge"
+      ],
+      "updated_at": "2026-03-09T12:01:01.660157+00:00"
+    },
+    "loos_georgian_extended": {
+      "font_url": "https://type.today/ru/loos_georgian_extended",
+      "journal_post_slugs": [
+        "loos",
+        "dinaswine",
+        "depo",
+        "devge"
+      ],
+      "updated_at": "2026-03-09T12:01:03.527824+00:00"
+    },
+    "loos_georgian_normal": {
+      "font_url": "https://type.today/ru/loos_georgian_normal",
+      "journal_post_slugs": [
+        "loos",
+        "dinaswine",
+        "depo",
+        "devge"
+      ],
+      "updated_at": "2026-03-09T12:01:05.646815+00:00"
+    },
+    "loos_georgian_condensed": {
+      "font_url": "https://type.today/ru/loos_georgian_condensed",
+      "journal_post_slugs": [
+        "loos",
+        "dinaswine",
+        "depo",
+        "devge"
+      ],
+      "updated_at": "2026-03-09T12:01:07.735400+00:00"
+    },
+    "loos_georgian_compressed": {
+      "font_url": "https://type.today/ru/loos_georgian_compressed",
+      "journal_post_slugs": [
+        "loos",
+        "dinaswine",
+        "depo",
+        "devge"
+      ],
+      "updated_at": "2026-03-09T12:01:09.835578+00:00"
+    },
+    "loos_latin_georgian_extended": {
+      "font_url": "https://type.today/ru/loos_latin_georgian_extended",
+      "journal_post_slugs": [
+        "loos"
+      ],
+      "updated_at": "2026-03-09T12:01:12.969023+00:00"
+    },
+    "loos_latin_georgian_extrawide": {
+      "font_url": "https://type.today/ru/loos_latin_georgian_extrawide",
+      "journal_post_slugs": [
+        "loos"
+      ],
+      "updated_at": "2026-03-09T12:01:14.611154+00:00"
+    },
+    "loos_latin_georgian_wide": {
+      "font_url": "https://type.today/ru/loos_latin_georgian_wide",
+      "journal_post_slugs": [
+        "loos"
+      ],
+      "updated_at": "2026-03-09T12:01:16.629648+00:00"
+    },
+    "loos_latin_georgian_normal": {
+      "font_url": "https://type.today/ru/loos_latin_georgian_normal",
+      "journal_post_slugs": [
+        "loos"
+      ],
+      "updated_at": "2026-03-09T12:01:18.768544+00:00"
+    },
+    "loos_latin_georgian_condensed": {
+      "font_url": "https://type.today/ru/loos_latin_georgian_condensed",
+      "journal_post_slugs": [
+        "loos"
+      ],
+      "updated_at": "2026-03-09T12:01:20.413401+00:00"
+    },
+    "loos_latin_georgian_compressed": {
+      "font_url": "https://type.today/ru/loos_latin_georgian_compressed",
+      "journal_post_slugs": [
+        "loos"
+      ],
+      "updated_at": "2026-03-09T12:01:23.052121+00:00"
+    },
+    "loos_latin_cyrillic_extended": {
+      "font_url": "https://type.today/ru/loos_latin_cyrillic_extended",
+      "journal_post_slugs": [
+        "loos"
+      ],
+      "updated_at": "2026-03-09T12:01:24.985897+00:00"
+    },
+    "loos_latin_cyrillic_extrawide": {
+      "font_url": "https://type.today/ru/loos_latin_cyrillic_extrawide",
+      "journal_post_slugs": [
+        "loos"
+      ],
+      "updated_at": "2026-03-09T12:01:26.605434+00:00"
+    },
+    "loos_latin_cyrillic_wide": {
+      "font_url": "https://type.today/ru/loos_latin_cyrillic_wide",
+      "journal_post_slugs": [
+        "loos"
+      ],
+      "updated_at": "2026-03-09T12:01:28.506884+00:00"
+    },
+    "loos_latin_cyrillic_normal": {
+      "font_url": "https://type.today/ru/loos_latin_cyrillic_normal",
+      "journal_post_slugs": [
+        "loos"
+      ],
+      "updated_at": "2026-03-09T12:01:30.294684+00:00"
+    },
+    "loos_latin_cyrillic_condensed": {
+      "font_url": "https://type.today/ru/loos_latin_cyrillic_condensed",
+      "journal_post_slugs": [
+        "loos"
+      ],
+      "updated_at": "2026-03-09T12:01:32.183423+00:00"
+    },
+    "loos_latin_cyrillic_compressed": {
+      "font_url": "https://type.today/ru/loos_latin_cyrillic_compressed",
+      "journal_post_slugs": [
+        "loos"
+      ],
+      "updated_at": "2026-03-09T12:01:33.904745+00:00"
+    },
+    "loos_latin_cyrillic_georgian_extended": {
+      "font_url": "https://type.today/ru/loos_latin_cyrillic_georgian_extended",
+      "journal_post_slugs": [
+        "loos",
+        "dinaswine",
+        "belyakov",
+        "baydinger",
+        "be_good",
+        "kindzmarauli",
+        "thesteidz",
+        "uiuxtypography",
+        "verticalmetrics",
+        "afterrussia",
+        "ubani",
+        "puri",
+        "artofmastering",
+        "newnet",
+        "multiscript",
+        "myceli",
+        "gorbachev",
+        "eitherother",
+        "ataro",
+        "kala"
+      ],
+      "updated_at": "2026-03-09T12:01:36.394569+00:00"
+    },
+    "loos_latin_cyrillic_georgian_extrawide": {
+      "font_url": "https://type.today/ru/loos_latin_cyrillic_georgian_extrawide",
+      "journal_post_slugs": [
+        "loos",
+        "dinaswine",
+        "belyakov",
+        "baydinger",
+        "be_good",
+        "kindzmarauli",
+        "thesteidz",
+        "uiuxtypography",
+        "verticalmetrics",
+        "afterrussia",
+        "ubani",
+        "puri",
+        "artofmastering",
+        "newnet",
+        "multiscript",
+        "myceli",
+        "gorbachev",
+        "eitherother",
+        "ataro",
+        "kala"
+      ],
+      "updated_at": "2026-03-09T12:01:38.640639+00:00"
+    },
+    "loos_latin_cyrillic_georgian_wide": {
+      "font_url": "https://type.today/ru/loos_latin_cyrillic_georgian_wide",
+      "journal_post_slugs": [
+        "loos",
+        "dinaswine",
+        "belyakov",
+        "baydinger",
+        "be_good",
+        "kindzmarauli",
+        "thesteidz",
+        "uiuxtypography",
+        "verticalmetrics",
+        "afterrussia",
+        "ubani",
+        "puri",
+        "artofmastering",
+        "newnet",
+        "multiscript",
+        "myceli",
+        "gorbachev",
+        "eitherother",
+        "ataro",
+        "kala"
+      ],
+      "updated_at": "2026-03-09T12:01:40.436419+00:00"
+    },
+    "loos_latin_cyrillic_georgian_normal": {
+      "font_url": "https://type.today/ru/loos_latin_cyrillic_georgian_normal",
+      "journal_post_slugs": [
+        "loos",
+        "dinaswine",
+        "belyakov",
+        "baydinger",
+        "be_good",
+        "kindzmarauli",
+        "thesteidz",
+        "uiuxtypography",
+        "verticalmetrics",
+        "afterrussia",
+        "ubani",
+        "puri",
+        "artofmastering",
+        "newnet",
+        "multiscript",
+        "myceli",
+        "gorbachev",
+        "eitherother",
+        "ataro",
+        "kala"
+      ],
+      "updated_at": "2026-03-09T12:01:42.354186+00:00"
+    },
+    "loos_latin_cyrillic_georgian_condensed": {
+      "font_url": "https://type.today/ru/loos_latin_cyrillic_georgian_condensed",
+      "journal_post_slugs": [
+        "loos",
+        "dinaswine",
+        "belyakov",
+        "baydinger",
+        "be_good",
+        "kindzmarauli",
+        "thesteidz",
+        "uiuxtypography",
+        "verticalmetrics",
+        "afterrussia",
+        "ubani",
+        "puri",
+        "artofmastering",
+        "newnet",
+        "multiscript",
+        "myceli",
+        "gorbachev",
+        "eitherother",
+        "ataro",
+        "kala"
+      ],
+      "updated_at": "2026-03-09T12:01:44.437698+00:00"
+    },
+    "loos_latin_cyrillic_georgian_compressed": {
+      "font_url": "https://type.today/ru/loos_latin_cyrillic_georgian_compressed",
+      "journal_post_slugs": [
+        "loos",
+        "dinaswine",
+        "belyakov",
+        "baydinger",
+        "be_good",
+        "kindzmarauli",
+        "thesteidz",
+        "uiuxtypography",
+        "verticalmetrics",
+        "afterrussia",
+        "ubani",
+        "puri",
+        "artofmastering",
+        "newnet",
+        "multiscript",
+        "myceli",
+        "gorbachev",
+        "eitherother",
+        "ataro",
+        "kala"
+      ],
+      "updated_at": "2026-03-09T12:01:46.714480+00:00"
+    },
+    "loos_latin_cyrillic_georgian_variable": {
+      "font_url": "https://type.today/ru/loos_latin_cyrillic_georgian_variable",
+      "journal_post_slugs": [
+        "loos",
+        "dinaswine",
+        "belyakov",
+        "baydinger",
+        "be_good",
+        "kindzmarauli",
+        "thesteidz",
+        "uiuxtypography",
+        "verticalmetrics",
+        "afterrussia",
+        "ubani",
+        "puri",
+        "artofmastering",
+        "newnet",
+        "multiscript",
+        "myceli",
+        "gorbachev",
+        "eitherother",
+        "ataro",
+        "kala"
+      ],
+      "updated_at": "2026-03-09T12:01:48.642650+00:00"
+    },
+    "loos_latin_cyrillic_variable": {
+      "font_url": "https://type.today/ru/loos_latin_cyrillic_variable",
+      "journal_post_slugs": [
+        "loos",
+        "nonfiction21"
+      ],
+      "updated_at": "2026-03-09T12:01:50.330070+00:00"
+    },
+    "loos_latin_georgian_variable": {
+      "font_url": "https://type.today/ru/loos_latin_georgian_variable",
+      "journal_post_slugs": [
+        "loos"
+      ],
+      "updated_at": "2026-03-09T12:01:52.293515+00:00"
+    },
+    "loos_georgian_variable": {
+      "font_url": "https://type.today/ru/loos_georgian_variable",
+      "journal_post_slugs": [
+        "loos",
+        "dinaswine",
+        "depo",
+        "devge"
+      ],
+      "updated_at": "2026-03-09T12:01:54.399914+00:00"
+    },
+    "gratimo_classic": {
+      "font_url": "https://type.today/ru/gratimo_classic",
+      "journal_post_slugs": [
+        "emoji02",
+        "grato_gratimo",
+        "gratomarker",
+        "typemates_update",
+        "greektype",
+        "uiuxtypography",
+        "multiscript"
+      ],
+      "updated_at": "2026-03-09T12:01:56.502048+00:00"
+    },
+    "gratimo_grotesk": {
+      "font_url": "https://type.today/ru/gratimo_grotesk",
+      "journal_post_slugs": [
+        "grato_gratimo",
+        "gratomarker",
+        "typemates_update",
+        "greektype",
+        "uiuxtypography",
+        "multiscript"
+      ],
+      "updated_at": "2026-03-09T12:01:58.438128+00:00"
+    },
+    "grato_classic": {
+      "font_url": "https://type.today/ru/grato_classic",
+      "journal_post_slugs": [
+        "grato_gratimo",
+        "gratomarker",
+        "typemates_update",
+        "greektype",
+        "uiuxtypography",
+        "multiscript"
+      ],
+      "updated_at": "2026-03-09T12:02:00.917387+00:00"
+    },
+    "grato_grotesk": {
+      "font_url": "https://type.today/ru/grato_grotesk",
+      "journal_post_slugs": [
+        "grato_gratimo",
+        "gratomarker",
+        "typemates_update",
+        "greektype",
+        "uiuxtypography",
+        "multiscript"
+      ],
+      "updated_at": "2026-03-09T12:02:02.792943+00:00"
+    },
+    "zloy": {
+      "font_url": "https://type.today/ru/zloy",
+      "journal_post_slugs": [
+        "zloy",
+        "kinopoiskshow",
+        "licensingupdate"
+      ],
+      "updated_at": "2026-03-09T12:02:06.145597+00:00"
+    },
+    "taler": {
+      "font_url": "https://type.today/ru/taler",
+      "journal_post_slugs": [
+        "taler",
+        "talerstencil",
+        "multiscript",
+        "becher"
+      ],
+      "updated_at": "2026-03-09T12:02:08.606407+00:00"
+    },
+    "fit": {
+      "font_url": "https://type.today/ru/fit",
+      "journal_post_slugs": [
+        "djr",
+        "greektype",
+        "var_animated_preview",
+        "pagemaking",
+        "safaririot",
+        "fontsandshoes",
+        "darlene"
+      ],
+      "updated_at": "2026-03-09T12:02:10.457290+00:00"
+    },
+    "forma_banner": {
+      "font_url": "https://type.today/ru/forma_banner",
+      "journal_post_slugs": [
+        "workshop",
+        "djr",
+        "uiuxtypography",
+        "multiscript",
+        "karmir",
+        "gorbachev"
+      ],
+      "updated_at": "2026-03-09T12:02:12.643654+00:00"
+    },
+    "forma_display": {
+      "font_url": "https://type.today/ru/forma_display",
+      "journal_post_slugs": [
+        "djr",
+        "uiuxtypography",
+        "multiscript",
+        "karmir",
+        "gorbachev"
+      ],
+      "updated_at": "2026-03-09T12:02:17.151434+00:00"
+    },
+    "forma_deck": {
+      "font_url": "https://type.today/ru/forma_deck",
+      "journal_post_slugs": [
+        "djr",
+        "uiuxtypography",
+        "multiscript",
+        "karmir",
+        "gorbachev"
+      ],
+      "updated_at": "2026-03-09T12:02:19.529148+00:00"
+    },
+    "forma_text": {
+      "font_url": "https://type.today/ru/forma_text",
+      "journal_post_slugs": [
+        "djr",
+        "uiuxtypography",
+        "multiscript",
+        "karmir",
+        "gorbachev"
+      ],
+      "updated_at": "2026-03-09T12:02:21.316883+00:00"
+    },
+    "forma_micro": {
+      "font_url": "https://type.today/ru/forma_micro",
+      "journal_post_slugs": [
+        "djr",
+        "uiuxtypography",
+        "multiscript",
+        "karmir",
+        "gorbachev"
+      ],
+      "updated_at": "2026-03-09T12:02:23.166558+00:00"
+    },
+    "forma_var": {
+      "font_url": "https://type.today/ru/forma_var",
+      "journal_post_slugs": [
+        "djr",
+        "uiuxtypography",
+        "multiscript",
+        "karmir",
+        "gorbachev"
+      ],
+      "updated_at": "2026-03-09T12:02:26.505335+00:00"
+    },
+    "input_mono": {
+      "font_url": "https://type.today/ru/input_mono",
+      "journal_post_slugs": [
+        "djr",
+        "greektype",
+        "pagemaking",
+        "identityproduction"
+      ],
+      "updated_at": "2026-03-09T12:02:28.645584+00:00"
+    },
+    "input_mono_narrow": {
+      "font_url": "https://type.today/ru/input_mono_narrow",
+      "journal_post_slugs": [
+        "djr",
+        "greektype",
+        "pagemaking",
+        "identityproduction"
+      ],
+      "updated_at": "2026-03-09T12:02:31.254113+00:00"
+    },
+    "input_mono_condensed": {
+      "font_url": "https://type.today/ru/input_mono_condensed",
+      "journal_post_slugs": [
+        "djr",
+        "greektype",
+        "pagemaking",
+        "identityproduction"
+      ],
+      "updated_at": "2026-03-09T12:02:33.694408+00:00"
+    },
+    "input_mono_compressed": {
+      "font_url": "https://type.today/ru/input_mono_compressed",
+      "journal_post_slugs": [
+        "djr",
+        "greektype",
+        "pagemaking",
+        "identityproduction"
+      ],
+      "updated_at": "2026-03-09T12:02:35.491447+00:00"
+    },
+    "input_sans": {
+      "font_url": "https://type.today/ru/input_sans",
+      "journal_post_slugs": [
+        "djr",
+        "greektype",
+        "pagemaking",
+        "identityproduction"
+      ],
+      "updated_at": "2026-03-09T12:02:38.604446+00:00"
+    },
+    "input_sans_narrow": {
+      "font_url": "https://type.today/ru/input_sans_narrow",
+      "journal_post_slugs": [
+        "djr",
+        "greektype",
+        "pagemaking",
+        "identityproduction"
+      ],
+      "updated_at": "2026-03-09T12:02:40.604236+00:00"
+    },
+    "input_sans_condensed": {
+      "font_url": "https://type.today/ru/input_sans_condensed",
+      "journal_post_slugs": [
+        "djr",
+        "greektype",
+        "pagemaking",
+        "identityproduction"
+      ],
+      "updated_at": "2026-03-09T12:02:43.882947+00:00"
+    },
+    "input_sans_compressed": {
+      "font_url": "https://type.today/ru/input_sans_compressed",
+      "journal_post_slugs": [
+        "djr",
+        "greektype",
+        "pagemaking",
+        "identityproduction"
+      ],
+      "updated_at": "2026-03-09T12:02:45.757985+00:00"
+    },
+    "input_serif": {
+      "font_url": "https://type.today/ru/input_serif",
+      "journal_post_slugs": [
+        "djr",
+        "greektype",
+        "pagemaking",
+        "identityproduction"
+      ],
+      "updated_at": "2026-03-09T12:02:47.452549+00:00"
+    },
+    "input_serif_narrow": {
+      "font_url": "https://type.today/ru/input_serif_narrow",
+      "journal_post_slugs": [
+        "djr",
+        "greektype",
+        "pagemaking",
+        "identityproduction"
+      ],
+      "updated_at": "2026-03-09T12:02:49.102018+00:00"
+    },
+    "input_serif_condensed": {
+      "font_url": "https://type.today/ru/input_serif_condensed",
+      "journal_post_slugs": [
+        "djr",
+        "greektype",
+        "pagemaking",
+        "identityproduction"
+      ],
+      "updated_at": "2026-03-09T12:02:50.953477+00:00"
+    },
+    "input_serif_compressed": {
+      "font_url": "https://type.today/ru/input_serif_compressed",
+      "journal_post_slugs": [
+        "djr",
+        "greektype",
+        "pagemaking",
+        "identityproduction"
+      ],
+      "updated_at": "2026-03-09T12:02:52.535496+00:00"
+    },
+    "megazoid": {
+      "font_url": "https://type.today/ru/megazoid",
+      "journal_post_slugs": [
+        "djr",
+        "megazoid_fellini",
+        "nogustlist",
+        "docklands"
+      ],
+      "updated_at": "2026-03-09T12:02:54.267314+00:00"
+    },
+    "maregraphe_caption": {
+      "font_url": "https://type.today/ru/maregraphe_caption",
+      "journal_post_slugs": [
+        "maregraphe",
+        "radiomartyn",
+        "theinnocent",
+        "storr",
+        "serbian",
+        "pagemaking",
+        "udmurt",
+        "maregraphemega",
+        "pollen",
+        "sabereseacessos"
+      ],
+      "updated_at": "2026-03-09T12:02:56.248549+00:00"
+    },
+    "maregraphe_text": {
+      "font_url": "https://type.today/ru/maregraphe_text",
+      "journal_post_slugs": [
+        "maregraphe",
+        "radiomartyn",
+        "theinnocent",
+        "storr",
+        "serbian",
+        "pagemaking",
+        "udmurt",
+        "maregraphemega",
+        "pollen",
+        "sabereseacessos"
+      ],
+      "updated_at": "2026-03-09T12:02:58.454085+00:00"
+    },
+    "maregraphe_display": {
+      "font_url": "https://type.today/ru/maregraphe_display",
+      "journal_post_slugs": [
+        "maregraphe",
+        "radiomartyn",
+        "theinnocent",
+        "storr",
+        "serbian",
+        "pagemaking",
+        "udmurt",
+        "maregraphemega",
+        "pollen",
+        "sabereseacessos"
+      ],
+      "updated_at": "2026-03-09T12:03:00.412409+00:00"
+    },
+    "maregraphe_poster": {
+      "font_url": "https://type.today/ru/maregraphe_poster",
+      "journal_post_slugs": [
+        "maregraphe",
+        "radiomartyn",
+        "theinnocent",
+        "storr",
+        "serbian",
+        "pagemaking",
+        "udmurt",
+        "maregraphemega",
+        "pollen",
+        "sabereseacessos"
+      ],
+      "updated_at": "2026-03-09T12:03:02.209357+00:00"
+    },
+    "maregraphe_variable": {
+      "font_url": "https://type.today/ru/maregraphe_variable",
+      "journal_post_slugs": [
+        "maregraphe",
+        "var_animated_preview",
+        "radiomartyn",
+        "theinnocent",
+        "storr",
+        "serbian",
+        "pagemaking",
+        "udmurt",
+        "maregraphemega",
+        "pollen",
+        "sabereseacessos"
+      ],
+      "updated_at": "2026-03-09T12:03:04.147025+00:00"
+    },
+    "quattrocode": {
+      "font_url": "https://type.today/ru/quattrocode",
+      "journal_post_slugs": [
+        "quattrocode",
+        "sensibleobjects",
+        "crypto",
+        "licensingupdate"
+      ],
+      "updated_at": "2026-03-09T12:03:10.082265+00:00"
+    },
+    "rooftop": {
+      "font_url": "https://type.today/ru/rooftop",
+      "journal_post_slugs": [
+        "manychat",
+        "rooftop_upd",
+        "oceanic_rooftop",
+        "verticalmetrics",
+        "tver"
+      ],
+      "updated_at": "2026-03-09T12:03:12.194982+00:00"
+    },
+    "rooftop_mono": {
+      "font_url": "https://type.today/ru/rooftop_mono",
+      "journal_post_slugs": [
+        "oceanic_rooftop",
+        "verticalmetrics",
+        "rooftop_upd",
+        "tver"
+      ],
+      "updated_at": "2026-03-09T12:03:14.285887+00:00"
+    },
+    "grato_marker": {
+      "font_url": "https://type.today/ru/grato_marker",
+      "journal_post_slugs": [
+        "gratomarker",
+        "grato_gratimo",
+        "typemates_update",
+        "greektype",
+        "uiuxtypography",
+        "multiscript"
+      ],
+      "updated_at": "2026-03-09T12:03:16.221973+00:00"
+    },
+    "canela_deck": {
+      "font_url": "https://type.today/ru/canela_deck",
+      "journal_post_slugs": [
+        "canela",
+        "imperius",
+        "qalam",
+        "jamesedmondson",
+        "halsa"
+      ],
+      "updated_at": "2026-03-09T12:03:18.767138+00:00"
+    },
+    "canela": {
+      "font_url": "https://type.today/ru/canela",
+      "journal_post_slugs": [
+        "canela",
+        "inspiro",
+        "imperius",
+        "qalam",
+        "jamesedmondson",
+        "halsa"
+      ],
+      "updated_at": "2026-03-09T12:03:21.448597+00:00"
+    },
+    "canela_condensed": {
+      "font_url": "https://type.today/ru/canela_condensed",
+      "journal_post_slugs": [
+        "canela",
+        "imperius",
+        "qalam",
+        "jamesedmondson",
+        "halsa"
+      ],
+      "updated_at": "2026-03-09T12:03:23.570590+00:00"
+    },
+    "canela_text": {
+      "font_url": "https://type.today/ru/canela_text",
+      "journal_post_slugs": [
+        "canela",
+        "imperius",
+        "qalam",
+        "jamesedmondson",
+        "halsa"
+      ],
+      "updated_at": "2026-03-09T12:03:26.128110+00:00"
+    },
+    "produkt": {
+      "font_url": "https://type.today/ru/produkt",
+      "journal_post_slugs": [
+        "produkt"
+      ],
+      "updated_at": "2026-03-09T12:03:29.815200+00:00"
+    },
+    "elma_mono": {
+      "font_url": "https://type.today/ru/elma_mono",
+      "journal_post_slugs": [
+        "elma",
+        "typemates_update",
+        "competitions",
+        "alfacentauri"
+      ],
+      "updated_at": "2026-03-09T12:03:31.570892+00:00"
+    },
+    "elma_trio": {
+      "font_url": "https://type.today/ru/elma_trio",
+      "journal_post_slugs": [
+        "elma",
+        "typemates_update",
+        "competitions",
+        "alfacentauri"
+      ],
+      "updated_at": "2026-03-09T12:03:33.627544+00:00"
+    },
+    "ottessa": {
+      "font_url": "https://type.today/ru/ottessa",
+      "journal_post_slugs": [
+        "ottessa",
+        "typemates_update",
+        "competitions"
+      ],
+      "updated_at": "2026-03-09T12:03:35.591368+00:00"
+    },
+    "yuni_slab": {
+      "font_url": "https://type.today/ru/yuni_slab",
+      "journal_post_slugs": [
+        "yunislab",
+        "typemates_update",
+        "udmurt",
+        "irishtales",
+        "yunigrotesque"
+      ],
+      "updated_at": "2026-03-09T12:03:37.336323+00:00"
+    },
+    "spektra": {
+      "font_url": "https://type.today/ru/spektra",
+      "journal_post_slugs": [
+        "update_spektra",
+        "climatcatastrophe",
+        "pagemaking",
+        "tipsytiger",
+        "verticalmetrics",
+        "competitions",
+        "ttquestions_p4",
+        "multiscript",
+        "alja"
+      ],
+      "updated_at": "2026-03-09T12:03:39.397986+00:00"
+    },
+    "roslindale_text": {
+      "font_url": "https://type.today/ru/roslindale_text",
+      "journal_post_slugs": [
+        "roslindale",
+        "pagemaking",
+        "ministry",
+        "verticalmetrics",
+        "chiara",
+        "pillar",
+        "alfacentauri",
+        "savor"
+      ],
+      "updated_at": "2026-03-09T12:03:41.691485+00:00"
+    },
+    "roslindale_deck": {
+      "font_url": "https://type.today/ru/roslindale_deck",
+      "journal_post_slugs": [
+        "roslindale",
+        "pagemaking",
+        "ministry",
+        "verticalmetrics",
+        "chiara",
+        "pillar",
+        "alfacentauri",
+        "savor"
+      ],
+      "updated_at": "2026-03-09T12:03:43.768043+00:00"
+    },
+    "roslindale_display": {
+      "font_url": "https://type.today/ru/roslindale_display",
+      "journal_post_slugs": [
+        "roslindale",
+        "pagemaking",
+        "ministry",
+        "verticalmetrics",
+        "chiara",
+        "pillar",
+        "alfacentauri",
+        "savor"
+      ],
+      "updated_at": "2026-03-09T12:03:45.613777+00:00"
+    },
+    "roslindale_variable": {
+      "font_url": "https://type.today/ru/roslindale_variable",
+      "journal_post_slugs": [
+        "var_animated_preview",
+        "roslindale",
+        "pagemaking",
+        "ministry",
+        "verticalmetrics",
+        "chiara",
+        "pillar",
+        "alfacentauri",
+        "savor"
+      ],
+      "updated_at": "2026-03-09T12:03:47.439423+00:00"
+    },
+    "backslanted": {
+      "font_url": "https://type.today/ru/backslanted",
+      "journal_post_slugs": [
+        "backslanted",
+        "MADMADMAD"
+      ],
+      "updated_at": "2026-03-09T12:03:50.236373+00:00"
+    },
+    "qommodore": {
+      "font_url": "https://type.today/ru/qommodore",
+      "journal_post_slugs": [
+        "qommodore",
+        "competitions",
+        "serenity",
+        "jbl"
+      ],
+      "updated_at": "2026-03-09T12:03:52.411760+00:00"
+    },
+    "guardian_text_egyptian": {
+      "font_url": "https://type.today/ru/guardian_text_egyptian",
+      "journal_post_slugs": [
+        "guardian"
+      ],
+      "updated_at": "2026-03-09T12:03:54.523006+00:00"
+    },
+    "guardian_egyptian": {
+      "font_url": "https://type.today/ru/guardian_egyptian",
+      "journal_post_slugs": [
+        "guardian"
+      ],
+      "updated_at": "2026-03-09T12:03:56.382835+00:00"
+    },
+    "guardian_text_sans": {
+      "font_url": "https://type.today/ru/guardian_text_sans",
+      "journal_post_slugs": [
+        "guardian"
+      ],
+      "updated_at": "2026-03-09T12:03:58.202993+00:00"
+    },
+    "guardian_sans": {
+      "font_url": "https://type.today/ru/guardian_sans",
+      "journal_post_slugs": [
+        "guardian"
+      ],
+      "updated_at": "2026-03-09T12:04:00.441994+00:00"
+    },
+    "publico_text": {
+      "font_url": "https://type.today/ru/publico_text",
+      "journal_post_slugs": [
+        "publico",
+        "rise"
+      ],
+      "updated_at": "2026-03-09T12:04:03.243335+00:00"
+    },
+    "publico_headline": {
+      "font_url": "https://type.today/ru/publico_headline",
+      "journal_post_slugs": [
+        "publico",
+        "rise"
+      ],
+      "updated_at": "2026-03-09T12:04:06.391175+00:00"
+    },
+    "publico_banner": {
+      "font_url": "https://type.today/ru/publico_banner",
+      "journal_post_slugs": [
+        "publico",
+        "rise"
+      ],
+      "updated_at": "2026-03-09T12:04:08.452924+00:00"
+    },
+    "publico_text_mono": {
+      "font_url": "https://type.today/ru/publico_text_mono",
+      "journal_post_slugs": [
+        "publico",
+        "rise"
+      ],
+      "updated_at": "2026-03-09T12:04:10.677485+00:00"
+    },
+    "lyon_text": {
+      "font_url": "https://type.today/ru/lyon_text",
+      "journal_post_slugs": [
+        "lyon",
+        "zadig",
+        "manuals"
+      ],
+      "updated_at": "2026-03-09T12:04:12.857827+00:00"
+    },
+    "lyon_display": {
+      "font_url": "https://type.today/ru/lyon_display",
+      "journal_post_slugs": [
+        "lyon",
+        "zadig",
+        "manuals"
+      ],
+      "updated_at": "2026-03-09T12:04:14.600975+00:00"
+    },
+    "portrait": {
+      "font_url": "https://type.today/ru/portrait",
+      "journal_post_slugs": [
+        "portrait",
+        "sunwalks"
+      ],
+      "updated_at": "2026-03-09T12:04:16.650813+00:00"
+    },
+    "retiler": {
+      "font_url": "https://type.today/ru/retiler",
+      "journal_post_slugs": [
+        "retiler",
+        "licensingupdate",
+        "oxyde"
+      ],
+      "updated_at": "2026-03-09T12:04:19.653564+00:00"
+    },
+    "guild_a_text": {
+      "font_url": "https://type.today/ru/guild_a_text",
+      "journal_post_slugs": [
+        "guild"
+      ],
+      "updated_at": "2026-03-09T12:04:21.743470+00:00"
+    },
+    "guild_a_display": {
+      "font_url": "https://type.today/ru/guild_a_display",
+      "journal_post_slugs": [
+        "guild"
+      ],
+      "updated_at": "2026-03-09T12:04:23.844440+00:00"
+    },
+    "guild_a_banner": {
+      "font_url": "https://type.today/ru/guild_a_banner",
+      "journal_post_slugs": [
+        "guild"
+      ],
+      "updated_at": "2026-03-09T12:04:25.750090+00:00"
+    },
+    "guild_a_poster": {
+      "font_url": "https://type.today/ru/guild_a_poster",
+      "journal_post_slugs": [
+        "guild"
+      ],
+      "updated_at": "2026-03-09T12:04:28.512678+00:00"
+    },
+    "guild_a_var": {
+      "font_url": "https://type.today/ru/guild_a_var",
+      "journal_post_slugs": [
+        "guild"
+      ],
+      "updated_at": "2026-03-09T12:04:31.886082+00:00"
+    },
+    "guild_b_variable": {
+      "font_url": "https://type.today/ru/guild_b_variable",
+      "journal_post_slugs": [
+        "guild"
+      ],
+      "updated_at": "2026-03-09T12:04:34.116779+00:00"
+    },
+    "guild_b_poster": {
+      "font_url": "https://type.today/ru/guild_b_poster",
+      "journal_post_slugs": [
+        "guild"
+      ],
+      "updated_at": "2026-03-09T12:04:35.896364+00:00"
+    },
+    "guild_b_banner": {
+      "font_url": "https://type.today/ru/guild_b_banner",
+      "journal_post_slugs": [
+        "guild"
+      ],
+      "updated_at": "2026-03-09T12:04:37.934764+00:00"
+    },
+    "guild_b_display": {
+      "font_url": "https://type.today/ru/guild_b_display",
+      "journal_post_slugs": [
+        "guild"
+      ],
+      "updated_at": "2026-03-09T12:04:39.762240+00:00"
+    },
+    "guild_b_text": {
+      "font_url": "https://type.today/ru/guild_b_text",
+      "journal_post_slugs": [
+        "guild"
+      ],
+      "updated_at": "2026-03-09T12:04:42.236914+00:00"
+    },
+    "rene": {
+      "font_url": "https://type.today/ru/rene",
+      "journal_post_slugs": [
+        "rene",
+        "alea",
+        "beyond"
+      ],
+      "updated_at": "2026-03-09T12:04:44.917502+00:00"
+    },
+    "gik": {
+      "font_url": "https://type.today/ru/gik",
+      "journal_post_slugs": [
+        "gik"
+      ],
+      "updated_at": "2026-03-09T12:04:47.393795+00:00"
+    },
+    "juneau": {
+      "font_url": "https://type.today/ru/juneau",
+      "journal_post_slugs": [
+        "juneau"
+      ],
+      "updated_at": "2026-03-09T12:04:49.121569+00:00"
+    },
+    "cera_mono": {
+      "font_url": "https://type.today/ru/cera_mono",
+      "journal_post_slugs": [
+        "ceramono",
+        "mathfonts",
+        "egoshina",
+        "pavlenko",
+        "sreda20",
+        "cera_round_italic",
+        "hse2022",
+        "ziminin",
+        "typemates_update",
+        "greektype",
+        "witcher",
+        "typemates",
+        "fontsandshoes"
+      ],
+      "updated_at": "2026-03-09T12:04:51.004377+00:00"
+    },
+    "retros": {
+      "font_url": "https://type.today/ru/retros",
+      "journal_post_slugs": [
+        "retros",
+        "fontsandshoes"
+      ],
+      "updated_at": "2026-03-09T12:04:52.586558+00:00"
+    },
+    "bering_stencil": {
+      "font_url": "https://type.today/ru/bering_stencil",
+      "journal_post_slugs": [
+        "bering"
+      ],
+      "updated_at": "2026-03-09T12:04:54.568262+00:00"
+    },
+    "struve": {
+      "font_url": "https://type.today/ru/struve",
+      "journal_post_slugs": [
+        "struve",
+        "mnogobukv",
+        "struveslanted"
+      ],
+      "updated_at": "2026-03-09T12:04:56.325979+00:00"
+    },
+    "oceanic_gothic": {
+      "font_url": "https://type.today/ru/oceanic_gothic",
+      "journal_post_slugs": [
+        "oceanicgothic",
+        "oceanic_rooftop",
+        "oceanicgrotesk",
+        "oceanic_upd",
+        "oceanic_text_mono",
+        "inni",
+        "multiscript",
+        "oceanicnew",
+        "lightregular",
+        "mytrudy",
+        "fontsandshoes",
+        "oceanic_care",
+        "touch-after",
+        "moscow_utopia"
+      ],
+      "updated_at": "2026-03-09T12:04:58.131699+00:00"
+    },
+    "oceanic_grotesk": {
+      "font_url": "https://type.today/ru/oceanic_grotesk",
+      "journal_post_slugs": [
+        "oceanicgrotesk",
+        "oceanic_rooftop",
+        "oceanicgothic",
+        "oceanic_upd",
+        "oceanic_text_mono",
+        "inni",
+        "multiscript",
+        "oceanicnew",
+        "lightregular",
+        "mytrudy",
+        "fontsandshoes",
+        "oceanic_care",
+        "touch-after",
+        "moscow_utopia"
+      ],
+      "updated_at": "2026-03-09T12:05:00.657340+00:00"
+    },
+    "factor_b": {
+      "font_url": "https://type.today/ru/factor_b",
+      "journal_post_slugs": [
+        "factorb",
+        "factora_upd",
+        "factoramono",
+        "verd-vicreu"
+      ],
+      "updated_at": "2026-03-09T12:05:03.277588+00:00"
+    },
+    "factor_a": {
+      "font_url": "https://type.today/ru/factor_a",
+      "journal_post_slugs": [
+        "factora_upd",
+        "factorb",
+        "factoramono",
+        "verd-vicreu"
+      ],
+      "updated_at": "2026-03-09T12:05:05.381099+00:00"
+    },
+    "rooftop_compact": {
+      "font_url": "https://type.today/ru/rooftop_compact",
+      "journal_post_slugs": [
+        "rooftop_upd",
+        "oceanic_rooftop",
+        "verticalmetrics",
+        "tver"
+      ],
+      "updated_at": "2026-03-09T12:05:07.165539+00:00"
+    },
+    "rooftop_condensed": {
+      "font_url": "https://type.today/ru/rooftop_condensed",
+      "journal_post_slugs": [
+        "rooftop_upd",
+        "oceanic_rooftop",
+        "verticalmetrics",
+        "tver"
+      ],
+      "updated_at": "2026-03-09T12:05:08.984435+00:00"
+    },
+    "rooftop_ultracondensed": {
+      "font_url": "https://type.today/ru/rooftop_ultracondensed",
+      "journal_post_slugs": [
+        "rooftop_upd",
+        "oceanic_rooftop",
+        "verticalmetrics",
+        "tver"
+      ],
+      "updated_at": "2026-03-09T12:05:11.105679+00:00"
+    },
+    "rooftop_extended": {
+      "font_url": "https://type.today/ru/rooftop_extended",
+      "journal_post_slugs": [
+        "rooftop_upd",
+        "oceanic_rooftop",
+        "verticalmetrics",
+        "tver"
+      ],
+      "updated_at": "2026-03-09T12:05:13.009388+00:00"
+    },
+    "rooftop_wide": {
+      "font_url": "https://type.today/ru/rooftop_wide",
+      "journal_post_slugs": [
+        "rooftop_upd",
+        "oceanic_rooftop",
+        "verticalmetrics",
+        "tver"
+      ],
+      "updated_at": "2026-03-09T12:05:14.753854+00:00"
+    },
+    "rooftop_variable": {
+      "font_url": "https://type.today/ru/rooftop_variable",
+      "journal_post_slugs": [
+        "rooftop_upd",
+        "oceanic_rooftop",
+        "verticalmetrics",
+        "tver"
+      ],
+      "updated_at": "2026-03-09T12:05:16.886953+00:00"
+    },
+    "oceanic": {
+      "font_url": "https://type.today/ru/oceanic",
+      "journal_post_slugs": [
+        "oceanic_rooftop",
+        "oceanicgrotesk",
+        "oceanicgothic",
+        "oceanic_upd",
+        "oceanic_text_mono",
+        "inni",
+        "multiscript",
+        "oceanicnew",
+        "lightregular",
+        "mytrudy",
+        "fontsandshoes",
+        "oceanic_care",
+        "touch-after",
+        "moscow_utopia"
+      ],
+      "updated_at": "2026-03-09T12:05:19.011639+00:00"
+    },
+    "oceanic_text": {
+      "font_url": "https://type.today/ru/oceanic_text",
+      "journal_post_slugs": [
+        "oceanic_text_mono",
+        "oceanic_rooftop",
+        "oceanicgrotesk",
+        "oceanicgothic",
+        "oceanic_upd",
+        "inni",
+        "multiscript",
+        "oceanicnew",
+        "lightregular",
+        "mytrudy",
+        "fontsandshoes",
+        "oceanic_care",
+        "touch-after",
+        "moscow_utopia"
+      ],
+      "updated_at": "2026-03-09T12:05:20.638898+00:00"
+    },
+    "oceanic_text_mono": {
+      "font_url": "https://type.today/ru/oceanic_text_mono",
+      "journal_post_slugs": [
+        "oceanic_rooftop",
+        "oceanicgrotesk",
+        "oceanicgothic",
+        "oceanic_upd",
+        "oceanic_text_mono",
+        "inni",
+        "multiscript",
+        "oceanicnew",
+        "lightregular",
+        "mytrudy",
+        "fontsandshoes",
+        "oceanic_care",
+        "touch-after",
+        "moscow_utopia"
+      ],
+      "updated_at": "2026-03-09T12:05:22.518210+00:00"
+    },
+    "taler_stencil": {
+      "font_url": "https://type.today/ru/taler_stencil",
+      "journal_post_slugs": [
+        "talerstencil",
+        "becher"
+      ],
+      "updated_at": "2026-03-09T12:05:24.700625+00:00"
+    },
+    "maregraphe_mega_compressed": {
+      "font_url": "https://type.today/ru/maregraphe_mega_compressed",
+      "journal_post_slugs": [
+        "maregraphemega",
+        "maregraphe",
+        "radiomartyn",
+        "theinnocent",
+        "storr",
+        "serbian",
+        "pagemaking",
+        "udmurt",
+        "pollen",
+        "sabereseacessos"
+      ],
+      "updated_at": "2026-03-09T12:05:29.318344+00:00"
+    },
+    "maregraphe_mega_extended": {
+      "font_url": "https://type.today/ru/maregraphe_mega_extended",
+      "journal_post_slugs": [
+        "maregraphemega",
+        "maregraphe",
+        "radiomartyn",
+        "theinnocent",
+        "storr",
+        "serbian",
+        "pagemaking",
+        "udmurt",
+        "pollen",
+        "sabereseacessos"
+      ],
+      "updated_at": "2026-03-09T12:05:34.694123+00:00"
+    },
+    "agse": {
+      "font_url": "https://type.today/ru/agse",
+      "journal_post_slugs": [
+        "agse",
+        "orchestra",
+        "emoji02"
+      ],
+      "updated_at": "2026-03-09T12:05:37.831964+00:00"
+    },
+    "nekst-mono": {
+      "font_url": "https://type.today/ru/nekst-mono",
+      "journal_post_slugs": [
+        "fontsandshoes"
+      ],
+      "updated_at": "2026-03-09T12:05:39.652515+00:00"
+    },
+    "graphik_condensed": {
+      "font_url": "https://type.today/ru/graphik_condensed",
+      "journal_post_slugs": [
+        "graphik_compact",
+        "turbaba",
+        "rodionov",
+        "pqqshki",
+        "synytsia",
+        "graphik_ge",
+        "graphik_am",
+        "ivanovsky",
+        "holystick",
+        "beregovoy",
+        "produkt",
+        "bulgarian",
+        "serbian",
+        "jadeandalexis",
+        "uiuxtypography",
+        "inspiro",
+        "georgianposters",
+        "verticalmetrics",
+        "distance",
+        "halsa",
+        "multiscript",
+        "identityproduction",
+        "graphikcondensed"
+      ],
+      "updated_at": "2026-03-09T12:05:41.552157+00:00"
+    },
+    "oceanic_grotesk_compact": {
+      "font_url": "https://type.today/ru/oceanic_grotesk_compact",
+      "journal_post_slugs": [
+        "oceanicnew",
+        "oceanic_rooftop",
+        "oceanicgrotesk",
+        "oceanicgothic",
+        "oceanic_upd",
+        "oceanic_text_mono",
+        "inni",
+        "multiscript",
+        "lightregular",
+        "mytrudy",
+        "fontsandshoes",
+        "oceanic_care",
+        "touch-after",
+        "moscow_utopia"
+      ],
+      "updated_at": "2026-03-09T12:05:43.159178+00:00"
+    },
+    "oceanic_grotesk_condensed": {
+      "font_url": "https://type.today/ru/oceanic_grotesk_condensed",
+      "journal_post_slugs": [
+        "oceanicnew",
+        "oceanic_rooftop",
+        "oceanicgrotesk",
+        "oceanicgothic",
+        "oceanic_upd",
+        "oceanic_text_mono",
+        "inni",
+        "multiscript",
+        "lightregular",
+        "mytrudy",
+        "fontsandshoes",
+        "oceanic_care",
+        "touch-after",
+        "moscow_utopia"
+      ],
+      "updated_at": "2026-03-09T12:05:45.187861+00:00"
+    },
+    "gregory_poster": {
+      "font_url": "https://type.today/ru/gregory_poster",
+      "journal_post_slugs": [
+        "emoji01",
+        "gregorygrotesk",
+        "uberbruckungsfonds",
+        "gregory-text"
+      ],
+      "updated_at": "2026-03-09T12:05:47.006478+00:00"
+    },
+    "graphik_arabic": {
+      "font_url": "https://type.today/ru/graphik_arabic",
+      "journal_post_slugs": [],
+      "updated_at": "2026-03-09T12:05:48.835707+00:00"
+    },
+    "factor_a_mono": {
+      "font_url": "https://type.today/ru/factor_a_mono",
+      "journal_post_slugs": [
+        "factorb",
+        "factora_upd",
+        "factoramono",
+        "verd-vicreu"
+      ],
+      "updated_at": "2026-03-09T12:05:50.403528+00:00"
+    },
+    "loos_latin": {
+      "font_url": "https://type.today/ru/loos_latin",
+      "journal_post_slugs": [],
+      "updated_at": "2026-03-09T12:05:52.221857+00:00"
+    },
+    "opague": {
+      "font_url": "https://type.today/ru/opague",
+      "journal_post_slugs": [],
+      "updated_at": "2026-03-09T12:05:54.575114+00:00"
+    },
+    "repose": {
+      "font_url": "https://type.today/ru/repose",
+      "journal_post_slugs": [
+        "meridien"
+      ],
+      "updated_at": "2026-03-09T12:05:56.709120+00:00"
+    },
+    "lufta": {
+      "font_url": "https://type.today/ru/lufta",
+      "journal_post_slugs": [
+        "lufta"
+      ],
+      "updated_at": "2026-03-09T12:05:59.147287+00:00"
+    },
+    "gregory_grotesk": {
+      "font_url": "https://type.today/ru/gregory_grotesk",
+      "journal_post_slugs": [
+        "gregorygrotesk",
+        "uberbruckungsfonds",
+        "gregory-text"
+      ],
+      "updated_at": "2026-03-09T12:06:00.899188+00:00"
+    },
+    "gregory_grotesk_condensed": {
+      "font_url": "https://type.today/ru/gregory_grotesk_condensed",
+      "journal_post_slugs": [
+        "gregorygrotesk",
+        "uberbruckungsfonds",
+        "gregory-text"
+      ],
+      "updated_at": "2026-03-09T12:06:02.701249+00:00"
+    },
+    "gregory_grotesk_compressed": {
+      "font_url": "https://type.today/ru/gregory_grotesk_compressed",
+      "journal_post_slugs": [
+        "gregorygrotesk",
+        "uberbruckungsfonds",
+        "gregory-text"
+      ],
+      "updated_at": "2026-03-09T12:06:04.428434+00:00"
+    },
+    "gregory_variable": {
+      "font_url": "https://type.today/ru/gregory_variable",
+      "journal_post_slugs": [
+        "gregorygrotesk",
+        "uberbruckungsfonds",
+        "gregory-text"
+      ],
+      "updated_at": "2026-03-09T12:06:06.157442+00:00"
+    },
+    "yuni_grotesque": {
+      "font_url": "https://type.today/ru/yuni_grotesque",
+      "journal_post_slugs": [
+        "yunigrotesque"
+      ],
+      "updated_at": "2026-03-09T12:06:07.745715+00:00"
+    },
+    "feature_text": {
+      "font_url": "https://type.today/ru/feature_text",
+      "journal_post_slugs": [
+        "feature",
+        "filmoteca"
+      ],
+      "updated_at": "2026-03-09T12:06:09.828034+00:00"
+    },
+    "feature_deck": {
+      "font_url": "https://type.today/ru/feature_deck",
+      "journal_post_slugs": [
+        "feature",
+        "filmoteca"
+      ],
+      "updated_at": "2026-03-09T12:06:11.866740+00:00"
+    },
+    "feature_display": {
+      "font_url": "https://type.today/ru/feature_display",
+      "journal_post_slugs": [
+        "feature",
+        "filmoteca"
+      ],
+      "updated_at": "2026-03-09T12:06:13.963727+00:00"
+    },
+    "prepis": {
+      "font_url": "https://type.today/ru/prepis",
+      "journal_post_slugs": [
+        "prepis"
+      ],
+      "updated_at": "2026-03-09T12:06:16.539279+00:00"
+    }
+  }
+}

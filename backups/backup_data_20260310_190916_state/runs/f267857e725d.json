@@ -1,0 +1,26 @@
+{
+  "context": {
+    "run_id": "f267857e725d",
+    "started_at": "2026-03-08T15:02:54.749817+00:00",
+    "source_filter": [
+      "myfonts"
+    ],
+    "timeout_seconds": 20
+  },
+  "summary": {
+    "run_id": "f267857e725d",
+    "started_at": "2026-03-08T15:02:54.749817+00:00",
+    "finished_at": "2026-03-08T15:29:40.232157Z",
+    "sources": [
+      {
+        "source_id": "myfonts",
+        "status": "success",
+        "total_releases": 217,
+        "new_releases": 174,
+        "duration_seconds": 1605.401,
+        "output_dir": "/Users/pda/Desktop/Type Parser/data/myfonts/2026-03-08",
+        "error": null
+      }
+    ]
+  }
+}

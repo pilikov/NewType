@@ -1,0 +1,26 @@
+{
+  "context": {
+    "run_id": "bc45f1503a06",
+    "started_at": "2026-03-09T07:40:54.551703+00:00",
+    "source_filter": [
+      "futurefonts"
+    ],
+    "timeout_seconds": 25
+  },
+  "summary": {
+    "run_id": "bc45f1503a06",
+    "started_at": "2026-03-09T07:40:54.551703+00:00",
+    "finished_at": "2026-03-09T07:40:54.696975Z",
+    "sources": [
+      {
+        "source_id": "futurefonts",
+        "status": "failed",
+        "total_releases": 0,
+        "new_releases": 0,
+        "duration_seconds": 0.015,
+        "output_dir": null,
+        "error": "HTTPSConnectionPool(host='www.futurefonts.com', port=443): Max retries exceeded with url: /api/v1/activity?activity_type%5B%5D=typeface.new_release&page=1 (Caused by NameResolutionError(\"HTTPSConnection(host='www.futurefonts.com', port=443): Failed to resolve 'www.futurefonts.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      }
+    ]
+  }
+}

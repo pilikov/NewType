@@ -1,0 +1,26 @@
+{
+  "context": {
+    "run_id": "5de8d1e7b532",
+    "started_at": "2026-03-09T05:31:39.612425+00:00",
+    "source_filter": [
+      "myfonts"
+    ],
+    "timeout_seconds": 25
+  },
+  "summary": {
+    "run_id": "5de8d1e7b532",
+    "started_at": "2026-03-09T05:31:39.612425+00:00",
+    "finished_at": "2026-03-09T05:31:43.219132Z",
+    "sources": [
+      {
+        "source_id": "myfonts",
+        "status": "failed",
+        "total_releases": 0,
+        "new_releases": 0,
+        "duration_seconds": 3.424,
+        "output_dir": null,
+        "error": "MyFonts API returned non-JSON response on first page"
+      }
+    ]
+  }
+}

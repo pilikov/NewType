@@ -1,0 +1,8 @@
+[2026-03-08T15:29:43Z] === MyFonts crawl start source=myfonts ===
+[2026-03-08T15:29:43Z] config max_pages=3 page_size=100 start_date=2026-02-16 end_date=2026-02-22 api_delay=6.0s detail_delay=8.0s max_debut_checks=35 max_tech_specs_checks=0 reuse_success_profile=False browser_mode=True browser_headless=True browser_storage_state_path=state/myfonts_storage_state.json
+[2026-03-08T15:29:48Z] browser_client=ready transport=playwright
+[2026-03-08T15:29:55Z] #1 attempt=1/6 status=200 1.468s url=https://www.myfonts.com/products.json?limit=100&page=1
+[2026-03-08T15:30:02Z] #2 attempt=1/6 status=200 0.482s url=https://www.myfonts.com/products.json?limit=100&page=2
+[2026-03-08T15:30:09Z] #3 attempt=1/6 status=200 1.075s url=https://www.myfonts.com/products.json?limit=100&page=3
+[2026-03-08T15:30:09Z] summary releases=0 first_429=None log_file=state/myfonts_run_20260308_152943.log
+[2026-03-08T15:30:09Z] === MyFonts crawl end ===

@@ -1,0 +1,38 @@
+{
+  "myfonts": {
+    "favicon_url": "https://www.myfonts.com/cdn/shop/files/MyFonts_Favicon_small.png?v=1717748062",
+    "favicon_local_path": "_meta/favicons/myfonts.png",
+    "favicon_resolved_from": "discovered",
+    "updated_at": "2026-03-07T14:56:35.990978Z"
+  },
+  "type_today": {
+    "favicon_url": "https://type.today/favicon/favicon-32x32.png",
+    "favicon_local_path": "_meta/favicons/type_today.png",
+    "favicon_resolved_from": "configured",
+    "updated_at": "2026-03-07T14:56:39.486705Z"
+  },
+  "futurefonts": {
+    "favicon_url": "https://www.futurefonts.com/favicon.ico",
+    "favicon_local_path": "_meta/favicons/futurefonts.ico",
+    "favicon_resolved_from": "configured",
+    "updated_at": "2026-03-07T14:56:40.691896Z"
+  },
+  "typenetwork": {
+    "favicon_url": "https://store.typenetwork.com/icons/favicon-32x32.png",
+    "favicon_local_path": "_meta/favicons/typenetwork.png",
+    "favicon_resolved_from": "configured",
+    "updated_at": "2026-03-07T14:56:41.823342Z"
+  },
+  "contemporarytype": {
+    "favicon_url": "https://contemporarytype.com/favicon.ico",
+    "favicon_local_path": "_meta/favicons/contemporarytype.ico",
+    "favicon_resolved_from": "configured",
+    "updated_at": "2026-03-09T07:16:55.884097Z"
+  },
+  "fontstand": {
+    "favicon_url": "https://fontstand.com/favicon.ico",
+    "favicon_local_path": "_meta/favicons/fontstand.ico",
+    "favicon_resolved_from": "configured",
+    "updated_at": "2026-03-10T09:32:02.453646Z"
+  }
+}

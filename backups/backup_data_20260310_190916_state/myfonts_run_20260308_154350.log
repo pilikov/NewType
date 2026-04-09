@@ -1,0 +1,21 @@
+[2026-03-08T15:43:50Z] === MyFonts crawl start source=myfonts ===
+[2026-03-08T15:43:50Z] config max_pages=80 page_size=100 start_date=2026-02-16 end_date=2026-02-22 api_delay=2.0s detail_delay=3.0s max_debut_checks=35 max_tech_specs_checks=0 reuse_success_profile=False browser_mode=True browser_headless=True browser_storage_state_path=state/myfonts_storage_state.json
+[2026-03-08T15:43:50Z] browser_client=ready transport=playwright
+[2026-03-08T15:43:54Z] #1 attempt=1/6 status=200 1.477s url=https://www.myfonts.com/products.json?limit=100&page=1
+[2026-03-08T15:43:59Z] #2 attempt=1/6 status=200 1.882s url=https://www.myfonts.com/products/brush-italic-volga-1118899
+[2026-03-08T15:44:03Z] #3 attempt=1/6 status=200 1.399s url=https://www.myfonts.com/collections/volga-font-alpercakici/
+[2026-03-08T15:44:07Z] #4 attempt=1/6 status=200 0.921s url=https://www.myfonts.com/products/wildforest-complete-family-package-1118857
+[2026-03-08T15:44:11Z] #5 attempt=1/6 status=200 0.815s url=https://www.myfonts.com/collections/wildforest-font-enfeeltype/
+[2026-03-08T15:44:15Z] #6 attempt=1/6 status=200 0.734s url=https://www.myfonts.com/products/contraption-complete-family-package-1118855
+[2026-03-08T15:44:19Z] #7 attempt=1/6 status=200 0.817s url=https://www.myfonts.com/collections/contraption-font-pink-broccoli/
+[2026-03-08T15:44:23Z] #8 attempt=1/6 status=200 0.605s url=https://www.myfonts.com/products/meltaface-complete-family-package-1118853
+[2026-03-08T15:44:27Z] #9 attempt=1/6 status=200 0.784s url=https://www.myfonts.com/collections/meltaface-font-stacy-rodrigos/
+[2026-03-08T15:44:30Z] #10 attempt=1/6 status=200 0.468s url=https://www.myfonts.com/products/regular-giaza-1118878
+[2026-03-08T15:44:34Z] #11 attempt=1/6 status=200 0.398s url=https://www.myfonts.com/collections/giaza-font-anthony-james/
+[2026-03-08T15:44:37Z] #12 attempt=1/6 status=200 0.374s url=https://www.myfonts.com/products/italic-proscenium-1118334
+[2026-03-08T15:44:41Z] #13 attempt=1/6 status=200 0.389s url=https://www.myfonts.com/collections/proscenium-font-wings-art-studio/
+[2026-03-08T15:44:44Z] #14 attempt=1/6 status=200 0.384s url=https://www.myfonts.com/products/roman-variable-jewerly-beyon-1118803
+[2026-03-08T15:44:49Z] #15 attempt=1/6 status=200 1.186s url=https://www.myfonts.com/collections/jewerly-beyon-font-luhop-creative/
+[2026-03-08T15:44:52Z] #16 attempt=1/6 status=200 0.436s url=https://www.myfonts.com/products/mizhon-sans-complete-family-package-1118559
+[2026-03-08T15:44:56Z] #17 attempt=1/6 status=200 0.434s url=https://www.myfonts.com/collections/mizhon-sans-font-skinny-type/
+[2026-03-08T15:45:00Z] #18 attempt=1/6 status=200 0.753s url=https://www.myfonts.com/products/the-musa-editorial-complete-family-package-1118520

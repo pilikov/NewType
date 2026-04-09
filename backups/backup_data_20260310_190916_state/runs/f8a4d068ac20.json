@@ -1,0 +1,26 @@
+{
+  "context": {
+    "run_id": "f8a4d068ac20",
+    "started_at": "2026-03-09T07:46:39.894149+00:00",
+    "source_filter": [
+      "typenetwork"
+    ],
+    "timeout_seconds": 45
+  },
+  "summary": {
+    "run_id": "f8a4d068ac20",
+    "started_at": "2026-03-09T07:46:39.894149+00:00",
+    "finished_at": "2026-03-09T07:46:40.033441Z",
+    "sources": [
+      {
+        "source_id": "typenetwork",
+        "status": "failed",
+        "total_releases": 0,
+        "new_releases": 0,
+        "duration_seconds": 0.012,
+        "output_dir": null,
+        "error": "HTTPSConnectionPool(host='api.typenetwork.com', port=443): Max retries exceeded with url: /api/1/public/families/?page_size=200&ordering=-released (Caused by NameResolutionError(\"HTTPSConnection(host='api.typenetwork.com', port=443): Failed to resolve 'api.typenetwork.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+      }
+    ]
+  }
+}

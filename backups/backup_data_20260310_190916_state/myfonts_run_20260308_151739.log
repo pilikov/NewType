@@ -1,0 +1,11 @@
+[2026-03-08T15:17:39Z] === MyFonts crawl start source=myfonts ===
+[2026-03-08T15:17:39Z] config max_pages=3 page_size=100 start_date=2026-02-16 end_date=2026-02-22 api_delay=6.0s detail_delay=8.0s max_debut_checks=35 max_tech_specs_checks=0 reuse_success_profile=False
+[2026-03-08T15:17:45Z] #1 attempt=1/6 status=429 0.508s url=https://www.myfonts.com/products.json?limit=100&page=1
+[2026-03-08T15:17:45Z] first_429 req=1 url=https://www.myfonts.com/products.json?limit=100&page=1
+[2026-03-08T15:17:54Z] #2 attempt=2/6 status=429 0.411s url=https://www.myfonts.com/products.json?limit=100&page=1
+[2026-03-08T15:18:05Z] #3 attempt=3/6 status=429 0.413s url=https://www.myfonts.com/products.json?limit=100&page=1
+[2026-03-08T15:18:20Z] #4 attempt=4/6 status=200 0.873s url=https://www.myfonts.com/products.json?limit=100&page=1
+[2026-03-08T15:18:27Z] #5 attempt=1/6 status=200 0.681s url=https://www.myfonts.com/products.json?limit=100&page=2
+[2026-03-08T15:18:34Z] #6 attempt=1/6 status=200 0.943s url=https://www.myfonts.com/products.json?limit=100&page=3
+[2026-03-08T15:18:34Z] summary releases=0 first_429=(1, 'https://www.myfonts.com/products.json?limit=100&page=1', 0.5081610679626465) log_file=state/myfonts_run_20260308_151739.log
+[2026-03-08T15:18:34Z] === MyFonts crawl end ===

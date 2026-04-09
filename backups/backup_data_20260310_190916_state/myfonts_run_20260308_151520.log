@@ -1,0 +1,11 @@
+[2026-03-08T15:15:20Z] === MyFonts crawl start source=myfonts ===
+[2026-03-08T15:15:20Z] config max_pages=6 page_size=250 start_date=None end_date=None api_delay=0.25s detail_delay=0.2s max_debut_checks=600 max_tech_specs_checks=40 reuse_success_profile=True
+[2026-03-08T15:15:20Z] #1 attempt=1/6 status=429 0.497s url=https://www.myfonts.com/products.json?limit=250&page=1
+[2026-03-08T15:15:20Z] first_429 req=1 url=https://www.myfonts.com/products.json?limit=250&page=1
+[2026-03-08T15:15:23Z] #2 attempt=2/6 status=429 0.445s url=https://www.myfonts.com/products.json?limit=250&page=1
+[2026-03-08T15:15:29Z] #3 attempt=3/6 status=429 0.475s url=https://www.myfonts.com/products.json?limit=250&page=1
+[2026-03-08T15:15:37Z] #4 attempt=4/6 status=429 0.458s url=https://www.myfonts.com/products.json?limit=250&page=1
+[2026-03-08T15:15:49Z] #5 attempt=5/6 status=429 0.464s url=https://www.myfonts.com/products.json?limit=250&page=1
+[2026-03-08T15:16:04Z] #6 attempt=6/6 status=429 0.460s url=https://www.myfonts.com/products.json?limit=250&page=1
+[2026-03-08T15:16:21Z] max_retries_exhausted url=https://www.myfonts.com/products.json
+[2026-03-08T15:16:21Z] fatal: products.json unavailable on first page (likely blocked/rate-limited)

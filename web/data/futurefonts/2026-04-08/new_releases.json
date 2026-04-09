@@ -1,0 +1,36 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/james-plattner/motley?v=0.2",
+    "name": "Motley",
+    "styles": [],
+    "authors": [
+      "James Plattner"
+    ],
+    "scripts": [
+      "basic-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-04-07",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/328/medium_future_fonts_background-16.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/9000/Motley_V0.2_Specimen.pdf",
+    "discovered_at": "2026-04-08T08:02:07.179842+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:20088",
+      "activity_id": 20088,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.2",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 9000,
+      "resolved_typeface_id": 2662,
+      "typeface_language": "basic-latin"
+    },
+    "release_id": "0ec2664fa084d740"
+  }
+]
