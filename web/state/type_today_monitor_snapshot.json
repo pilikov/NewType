@@ -1,13 +1,6 @@
 {
-  "generated_at": "2026-04-10T08:07:48.492976+00:00",
+  "generated_at": "2026-04-11T07:26:06.201009+00:00",
   "source_id": "type_today",
-  "count": 1,
-  "items": {
-    "60c582c99b36554d": {
-      "slug": "",
-      "name": "Algorytm",
-      "source_url": "https://type.today/ru/algorytm",
-      "fingerprint": "5f20af275c52a242cfb1c6e4"
-    }
-  }
+  "count": 0,
+  "items": {}
 }

@@ -35,7 +35,7 @@
     "image_url": "https://backend.contemporarytype.com/files/images/musikal37200.jpg",
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Musikal_Specimen_v1.0-1.pdf",
-    "discovered_at": "2026-04-08T08:02:13.075368+00:00",
+    "discovered_at": "2026-04-11T07:26:11.944766+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:151",
       "product": {
@@ -189,7 +189,7 @@
     "image_url": "https://backend.contemporarytype.com/files/images/sharf-ct-362826.jpg",
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Sharf-specimen-04.pdf",
-    "discovered_at": "2026-04-08T08:02:13.368218+00:00",
+    "discovered_at": "2026-04-11T07:26:12.008488+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:149",
       "product": {
@@ -325,7 +325,7 @@
     "image_url": "https://backend.contemporarytype.com/files/images/blast-bizzarri-spreads-instafo77804.jpg",
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Bizzarri - Specimen-1.pdf",
-    "discovered_at": "2026-04-08T08:02:13.491211+00:00",
+    "discovered_at": "2026-04-11T07:26:12.055580+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:147",
       "product": {
@@ -453,7 +453,7 @@
     "image_url": "https://backend.contemporarytype.com/files/images/silverspoon-banners-668609.jpg",
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Silverspoon - Specimen-1.pdf",
-    "discovered_at": "2026-04-08T08:02:13.592924+00:00",
+    "discovered_at": "2026-04-11T07:26:12.100634+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:146",
       "product": {
@@ -572,7 +572,7 @@
     "image_url": "https://backend.contemporarytype.com/files/images/vanillamono-ct-747983.jpg",
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Vanilla Mono Specimen.pdf",
-    "discovered_at": "2026-04-08T08:02:13.690639+00:00",
+    "discovered_at": "2026-04-11T07:26:12.136083+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:144",
       "product": {
@@ -698,7 +698,7 @@
     "image_url": "https://backend.contemporarytype.com/files/images/method-174833.jpg",
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Method_V1000-1.pdf",
-    "discovered_at": "2026-04-08T08:02:13.794369+00:00",
+    "discovered_at": "2026-04-11T07:26:12.171626+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:143",
       "product": {
@@ -827,7 +827,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/MinSansStencil_V1.pdf",
-    "discovered_at": "2026-04-08T08:02:13.893661+00:00",
+    "discovered_at": "2026-04-11T07:26:12.209541+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:142",
       "product": {
@@ -949,7 +949,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Paragraf_Specimen-1.pdf",
-    "discovered_at": "2026-04-08T08:02:13.995890+00:00",
+    "discovered_at": "2026-04-11T07:26:12.257211+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:141",
       "product": {
@@ -1033,7 +1033,7 @@
       ],
       "language_source": "product.languages",
       "variant_count": 14,
-      "license_count": 4,
+      "license_count": 5,
       "detail_enrichment": {
         "used": true,
         "ok": true
@@ -1068,7 +1068,7 @@
     "image_url": "https://backend.contemporarytype.com/files/images/dolph-152408.jpg",
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/DMCLE_Dolph_v1-00_specimen.pdf",
-    "discovered_at": "2026-04-08T08:02:14.092969+00:00",
+    "discovered_at": "2026-04-11T07:26:12.292333+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:140",
       "product": {
@@ -1189,7 +1189,7 @@
     "image_url": "https://backend.contemporarytype.com/files/images/chauffeur-171022.jpg",
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/DMCLE_Chauffeur_v1-00_specimen-1.pdf",
-    "discovered_at": "2026-04-08T08:02:14.193852+00:00",
+    "discovered_at": "2026-04-11T07:26:12.325219+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:139",
       "product": {
@@ -1314,7 +1314,7 @@
     "image_url": "https://backend.contemporarytype.com/files/images/rondeau-131746.jpg",
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/DMCLE_Rondeau_v1-00_specimen.pdf",
-    "discovered_at": "2026-04-08T08:02:14.305921+00:00",
+    "discovered_at": "2026-04-11T07:26:12.370027+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:138",
       "product": {
@@ -1432,7 +1432,7 @@
     "image_url": "https://backend.contemporarytype.com/files/images/blastfoundry-vanillax-0121476.jpg",
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Vanilla X Specimen-1.pdf",
-    "discovered_at": "2026-04-08T08:02:14.404665+00:00",
+    "discovered_at": "2026-04-11T07:26:12.405109+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:135",
       "product": {
@@ -1545,7 +1545,7 @@
     "image_url": "https://backend.contemporarytype.com/files/images/ft-together-233102.jpg",
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/FT-Together-Specimen-25.pdf",
-    "discovered_at": "2026-04-08T08:02:14.496802+00:00",
+    "discovered_at": "2026-04-11T07:26:12.428526+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:134",
       "product": {
@@ -1645,7 +1645,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-04-08T08:02:14.593919+00:00",
+    "discovered_at": "2026-04-11T07:26:12.456004+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:133",
       "product": {
@@ -1769,7 +1769,7 @@
     "image_url": "https://backend.contemporarytype.com/files/images/softcore-19-193014.jpg",
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-04-08T08:02:14.707600+00:00",
+    "discovered_at": "2026-04-11T07:26:12.499951+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:132",
       "product": {
@@ -1899,7 +1899,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-04-08T08:02:14.824325+00:00",
+    "discovered_at": "2026-04-11T07:26:12.545994+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:131",
       "product": {
@@ -2000,7 +2000,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/at-stick-specimen-1.pdf",
-    "discovered_at": "2026-04-08T08:02:14.915974+00:00",
+    "discovered_at": "2026-04-11T07:26:12.569784+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:130",
       "product": {
@@ -2292,7 +2292,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-04-08T08:02:15.474019+00:00",
+    "discovered_at": "2026-04-11T07:26:12.814620+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:126",
       "product": {
@@ -2513,7 +2513,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-04-08T08:02:15.898195+00:00",
+    "discovered_at": "2026-04-11T07:26:12.962963+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:125",
       "product": {
@@ -2823,7 +2823,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-04-08T08:02:16.501182+00:00",
+    "discovered_at": "2026-04-11T07:26:13.257537+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:124",
       "product": {
@@ -3063,7 +3063,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-04-08T08:02:16.506845+00:00",
+    "discovered_at": "2026-04-11T07:26:13.263438+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:122",
       "product": {
@@ -3260,7 +3260,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-04-08T08:02:16.506947+00:00",
+    "discovered_at": "2026-04-11T07:26:13.263524+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:121",
       "product": {
@@ -3362,7 +3362,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-04-08T08:02:16.506974+00:00",
+    "discovered_at": "2026-04-11T07:26:13.263555+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:120",
       "product": {
@@ -3469,7 +3469,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-04-08T08:02:16.507006+00:00",
+    "discovered_at": "2026-04-11T07:26:13.263599+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:119",
       "product": {
@@ -3660,7 +3660,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-04-08T08:02:16.507074+00:00",
+    "discovered_at": "2026-04-11T07:26:13.263668+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:118",
       "product": {
@@ -3773,7 +3773,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-04-08T08:02:16.507101+00:00",
+    "discovered_at": "2026-04-11T07:26:13.263697+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:117",
       "product": {
@@ -4006,7 +4006,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-04-08T08:02:16.507180+00:00",
+    "discovered_at": "2026-04-11T07:26:13.263786+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:116",
       "product": {
@@ -4249,7 +4249,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-04-08T08:02:16.507256+00:00",
+    "discovered_at": "2026-04-11T07:26:13.263871+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:112",
       "product": {
@@ -4366,7 +4366,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Fig_Grotesk_V1000.pdf",
-    "discovered_at": "2026-04-08T08:02:16.507284+00:00",
+    "discovered_at": "2026-04-11T07:26:13.263899+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:110",
       "product": {
@@ -4479,7 +4479,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/MinSans_V1102.pdf",
-    "discovered_at": "2026-04-08T08:02:16.507309+00:00",
+    "discovered_at": "2026-04-11T07:26:13.263924+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:109",
       "product": {
@@ -4596,7 +4596,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Looklyn_Specimen.pdf",
-    "discovered_at": "2026-04-08T08:02:16.515312+00:00",
+    "discovered_at": "2026-04-11T07:26:13.272732+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:108",
       "product": {
@@ -4701,7 +4701,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Waverse_V1000-1.pdf",
-    "discovered_at": "2026-04-08T08:02:16.515348+00:00",
+    "discovered_at": "2026-04-11T07:26:13.272766+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:107",
       "product": {
@@ -4849,7 +4849,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-04-08T08:02:16.515393+00:00",
+    "discovered_at": "2026-04-11T07:26:13.272806+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:106",
       "product": {
@@ -5057,7 +5057,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-04-08T08:02:16.515461+00:00",
+    "discovered_at": "2026-04-11T07:26:13.272859+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:104",
       "product": {
@@ -5188,7 +5188,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-04-08T08:02:16.515502+00:00",
+    "discovered_at": "2026-04-11T07:26:13.272881+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:103",
       "product": {
@@ -5357,7 +5357,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-04-08T08:02:16.515553+00:00",
+    "discovered_at": "2026-04-11T07:26:13.272931+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:72",
       "product": {
@@ -5462,7 +5462,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/BRASS_specimen.pdf",
-    "discovered_at": "2026-04-08T08:02:16.515577+00:00",
+    "discovered_at": "2026-04-11T07:26:13.272955+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:70",
       "product": {
@@ -5569,7 +5569,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Onlysans specimen.pdf",
-    "discovered_at": "2026-04-08T08:02:16.515604+00:00",
+    "discovered_at": "2026-04-11T07:26:13.272987+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:69",
       "product": {
@@ -5692,7 +5692,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/RR-Opague-Spaceman-2502.pdf",
-    "discovered_at": "2026-04-08T08:02:16.515637+00:00",
+    "discovered_at": "2026-04-11T07:26:13.273022+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:68",
       "product": {
@@ -5829,7 +5829,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/RR-Repose-Spaceman-2502-1.pdf",
-    "discovered_at": "2026-04-08T08:02:16.515662+00:00",
+    "discovered_at": "2026-04-11T07:26:13.273046+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:67",
       "product": {
@@ -6021,7 +6021,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/AT Name Sans - Specimen-1.pdf",
-    "discovered_at": "2026-04-08T08:02:16.526157+00:00",
+    "discovered_at": "2026-04-11T07:26:13.283631+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:65",
       "product": {
@@ -6155,7 +6155,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/PlainForm-Keyframe-specimen-1.pdf",
-    "discovered_at": "2026-04-08T08:02:16.526199+00:00",
+    "discovered_at": "2026-04-11T07:26:13.283667+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:64",
       "product": {
@@ -6285,7 +6285,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/2022-PlainForm-PetitFrere-specimen.pdf",
-    "discovered_at": "2026-04-08T08:02:16.526237+00:00",
+    "discovered_at": "2026-04-11T07:26:13.283699+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:63",
       "product": {
@@ -6407,7 +6407,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/PlainForm-Paraiso-specimen.pdf",
-    "discovered_at": "2026-04-08T08:02:16.526260+00:00",
+    "discovered_at": "2026-04-11T07:26:13.283722+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:62",
       "product": {
@@ -6527,7 +6527,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/PlainForm-Ready-specimen-1.pdf",
-    "discovered_at": "2026-04-08T08:02:16.526284+00:00",
+    "discovered_at": "2026-04-11T07:26:13.283744+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:61",
       "product": {
@@ -6635,7 +6635,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-04-08T08:02:16.526307+00:00",
+    "discovered_at": "2026-04-11T07:26:13.283767+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:60",
       "product": {
@@ -6753,7 +6753,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/PlainForm-Grandmaster-specimen.pdf",
-    "discovered_at": "2026-04-08T08:02:16.526331+00:00",
+    "discovered_at": "2026-04-11T07:26:13.283788+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:59",
       "product": {
@@ -6866,7 +6866,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/PlainForm-Michaux-specimen.pdf",
-    "discovered_at": "2026-04-08T08:02:16.526351+00:00",
+    "discovered_at": "2026-04-11T07:26:13.283807+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:58",
       "product": {
@@ -6969,7 +6969,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/PlainForm-Nostra-specimen.pdf",
-    "discovered_at": "2026-04-08T08:02:16.526377+00:00",
+    "discovered_at": "2026-04-11T07:26:13.283828+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:57",
       "product": {
@@ -7083,7 +7083,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-04-08T08:02:16.526402+00:00",
+    "discovered_at": "2026-04-11T07:26:13.283851+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:53",
       "product": {
@@ -7362,7 +7362,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-04-08T08:02:16.539138+00:00",
+    "discovered_at": "2026-04-11T07:26:13.296609+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:52",
       "product": {
@@ -7660,7 +7660,7 @@
     "image_url": null,
     "woff_url": null,
     "specimen_pdf_url": null,
-    "discovered_at": "2026-04-08T08:02:16.539248+00:00",
+    "discovered_at": "2026-04-11T07:26:13.296718+00:00",
     "raw": {
       "release_identity": "contemporarytype-product:50",
       "product": {
