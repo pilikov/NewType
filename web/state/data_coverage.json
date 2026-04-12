@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T07:39:32.726653Z",
+  "generated_at": "2026-04-12T11:56:35.157880Z",
   "sources": {
     "contemporarytype": {
       "source_id": "contemporarytype",
@@ -2939,9 +2939,14 @@
         "favicon_resolved_from": "configured"
       },
       "has_data": true,
-      "min_date": "2026-04-08",
+      "min_date": "2026-03-30",
       "max_date": "2026-04-11",
       "weeks": [
+        {
+          "week_start": "2026-03-30",
+          "week_end": "2026-04-05",
+          "label": "2026-03-30..2026-04-05"
+        },
         {
           "week_start": "2026-04-06",
           "week_end": "2026-04-12",
