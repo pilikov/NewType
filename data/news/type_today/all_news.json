@@ -26,5 +26,19 @@
       "post_date": "2026-04-10"
     },
     "news_id": "bcceef21aeee2603"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Tonya Baydina: ‘What if the perfect font exists out there and I failed to find it?’",
+    "url": "https://type.today/en/journal/tonya-baydina",
+    "published_at": "2026-04-14",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1270/preview_420_preview_image_en-0JDdAIiUOH8yuPYOjazVFSe3o6FKG-aCHQ.png",
+    "discovered_at": "2026-04-14T08:11:09.162841+00:00",
+    "raw": {
+      "slug": "tonya-baydina",
+      "post_date": "2026-04-14"
+    },
+    "news_id": "0a428e97cd928b25"
   }
 ]
