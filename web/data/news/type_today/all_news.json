@@ -54,5 +54,19 @@
       "post_date": "2026-04-16"
     },
     "news_id": "e702bee25448265d"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Manual: Quotation Marks. Poster",
+    "url": "https://type.today/en/journal/manual_poster",
+    "published_at": "2026-04-20",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1274/preview_420_preview_image_en-5bZqtSiUA6vOKtvzaJszIVcKW-ykgKnfeg.gif",
+    "discovered_at": "2026-04-20T18:58:40.061728+00:00",
+    "raw": {
+      "slug": "manual_poster",
+      "post_date": "2026-04-20"
+    },
+    "news_id": "f0a87161974ea4da"
   }
 ]
