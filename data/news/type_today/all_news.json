@@ -68,5 +68,19 @@
       "post_date": "2026-04-20"
     },
     "news_id": "f0a87161974ea4da"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "New typeface: Onweer",
+    "url": "https://type.today/en/journal/onweer",
+    "published_at": "2026-04-22",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1272/preview_420_preview_image_en-c0G8WNtS2u_LTfN9nDdPrnnrtX7vKY12-A.png",
+    "discovered_at": "2026-04-22T08:14:50.976875+00:00",
+    "raw": {
+      "slug": "onweer",
+      "post_date": "2026-04-22"
+    },
+    "news_id": "fff861d64ad1a383"
   }
 ]
