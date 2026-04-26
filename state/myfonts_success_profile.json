@@ -1,7 +1,7 @@
 {
-  "saved_at": "2026-04-25T07:55:09.459268Z",
+  "saved_at": "2026-04-26T11:52:46.419615Z",
   "api_request_delay_seconds": 0.5,
-  "detail_request_delay_seconds": 0.2,
-  "max_debut_checks": 400,
-  "max_tech_specs_checks": 200
+  "detail_request_delay_seconds": 0.35,
+  "max_debut_checks": 5000,
+  "max_tech_specs_checks": 5000
 }
