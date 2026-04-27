@@ -82,5 +82,19 @@
       "post_date": "2026-04-22"
     },
     "news_id": "fff861d64ad1a383"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Ilya Zherikov: ‘Kazimir is old money’",
+    "url": "https://type.today/en/journal/ilya-zherikov",
+    "published_at": "2026-04-27",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1276/preview_420_preview_image_en-xl4LlWYSSwjpytR8zzjQvg42GAAWPDB8IQ.png",
+    "discovered_at": "2026-04-27T09:00:13.373108+00:00",
+    "raw": {
+      "slug": "ilya-zherikov",
+      "post_date": "2026-04-27"
+    },
+    "news_id": "1619a90de76bb778"
   }
 ]
