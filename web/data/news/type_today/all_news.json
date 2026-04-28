@@ -96,5 +96,19 @@
       "post_date": "2026-04-27"
     },
     "news_id": "1619a90de76bb778"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "New typefaces: Kazimir, BigCity Grotesque Variable",
+    "url": "https://type.today/en/journal/cstmvariable",
+    "published_at": "2026-04-28",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1275/preview_420_preview_image_ru-gkjs-RBfdUXXiEXgwzzbCVxXi4b7kH35qg.png",
+    "discovered_at": "2026-04-28T08:52:56.084405+00:00",
+    "raw": {
+      "slug": "cstmvariable",
+      "post_date": "2026-04-28"
+    },
+    "news_id": "a8cb64ef4ff5147b"
   }
 ]
