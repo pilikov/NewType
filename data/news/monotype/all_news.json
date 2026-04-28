@@ -11,5 +11,18 @@
       "category": "spotlights"
     },
     "news_id": "0485b94322c2bcbd"
+  },
+  {
+    "source_id": "monotype",
+    "source_name": "Monotype",
+    "title": "Brand Integrity in the Age of Generative AI",
+    "url": "https://www.monotype.com/company/thought-leadership/brand-integrity-age-generative-ai",
+    "published_at": "2026-04-28",
+    "image_url": "https://www.monotype.com/sites/default/files/styles/width_910/public/2026-04/Brand-Integrity-Header.webp?itok=31xPd9QZ",
+    "discovered_at": "2026-04-28T19:27:44.348752+00:00",
+    "raw": {
+      "category": "thought-leadership"
+    },
+    "news_id": "4d79b7dec7c54021"
   }
 ]
