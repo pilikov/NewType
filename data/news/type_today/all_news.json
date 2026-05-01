@@ -110,5 +110,19 @@
       "post_date": "2026-04-28"
     },
     "news_id": "a8cb64ef4ff5147b"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Type posters today 01: Onweer. Storm",
+    "url": "https://type.today/en/journal/oc-april-26",
+    "published_at": "2026-05-01",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1277/preview_420_preview_image_en-1XyoXchRQMWVS2-TstAI1xkYPsA_Oa6flQ.png",
+    "discovered_at": "2026-05-01T08:42:14.865800+00:00",
+    "raw": {
+      "slug": "oc-april-26",
+      "post_date": "2026-05-01"
+    },
+    "news_id": "de0dbbce470c0204"
   }
 ]
