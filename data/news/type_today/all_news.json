@@ -124,5 +124,19 @@
       "post_date": "2026-05-01"
     },
     "news_id": "de0dbbce470c0204"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Type posters today 02",
+    "url": "https://type.today/en/journal/oc-maregraphe",
+    "published_at": "2026-05-04",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1278/preview_420_preview_image_en-f32RNbk0mwCP980rT26nCpJ1Jnd8L4MEDA.png",
+    "discovered_at": "2026-05-04T08:58:02.799919+00:00",
+    "raw": {
+      "slug": "oc-maregraphe",
+      "post_date": "2026-05-04"
+    },
+    "news_id": "eb059a5b5db0dc8c"
   }
 ]
