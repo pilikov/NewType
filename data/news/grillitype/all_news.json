@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "K-Culture Festival",
+    "url": "https://www.grillitype.com/blog/in-use/k-culture-festival-switzerland",
+    "published_at": "2026-05-06",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/69f/a8d/b5b/69fa8db5b0f61466800473.jpg",
+    "discovered_at": "2026-05-06T08:58:17.130011+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Maru"
+    },
+    "news_id": "30aef47c20a0e5ae"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Catapulta",
+    "url": "https://www.grillitype.com/blog/in-use/catapulta-art-spain",
+    "published_at": "2026-05-05",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/69f/a74/5a0/69fa745a07116405585776.png",
+    "discovered_at": "2026-05-06T08:58:17.499421+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Planar"
+    },
+    "news_id": "6ae330149d1a4c6c"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "The Harry Ransom Center",
+    "url": "https://www.grillitype.com/blog/in-use/harry-ransom-center-design",
+    "published_at": "2026-05-05",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/69f/a7c/903/69fa7c9037cc2264994342.png",
+    "discovered_at": "2026-05-06T08:58:18.164876+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Ultra"
+    },
+    "news_id": "1cd4b5e552256cc2"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "A House in Japan",
+    "url": "https://www.grillitype.com/blog/in-use/house-japan-book-gestalten",
+    "published_at": "2026-05-05",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/69f/a82/8f6/69fa828f641ad699562322.jpg",
+    "discovered_at": "2026-05-06T08:58:18.527135+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Flexa"
+    },
+    "news_id": "5ff8d7da7410fa46"
+  }
+]
