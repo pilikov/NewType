@@ -152,5 +152,19 @@
       "post_date": "2026-05-05"
     },
     "news_id": "0aa1fdec8268bd37"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Druk in use: Champions for Good",
+    "url": "https://type.today/en/journal/champions-for-good",
+    "published_at": "2026-05-07",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1280/preview_420_preview_image_en-m955oXmdaig9_tKnO85SND_rxFiAGkhHQQ.png",
+    "discovered_at": "2026-05-07T09:03:14.764174+00:00",
+    "raw": {
+      "slug": "champions-for-good",
+      "post_date": "2026-05-07"
+    },
+    "news_id": "d6139bcc73b4b55d"
   }
 ]
