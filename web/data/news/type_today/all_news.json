@@ -166,5 +166,19 @@
       "post_date": "2026-05-07"
     },
     "news_id": "d6139bcc73b4b55d"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Spektra in use: Ans:wer",
+    "url": "https://type.today/en/journal/answer",
+    "published_at": "2026-05-12",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1281/preview_420_preview_image_en-7m1cw1ZDAG5WxksBkHys73i1DkIH_cPThA.png",
+    "discovered_at": "2026-05-12T09:02:46.913766+00:00",
+    "raw": {
+      "slug": "answer",
+      "post_date": "2026-05-12"
+    },
+    "news_id": "125238d87ccd2c36"
   }
 ]

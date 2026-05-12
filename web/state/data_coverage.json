@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T10:07:36.469893Z",
+  "generated_at": "2026-05-12T09:02:42.600398Z",
   "sources": {
     "contemporarytype": {
       "source_id": "contemporarytype",
@@ -136,7 +136,7 @@
       },
       "has_data": true,
       "min_date": "2026-04-15",
-      "max_date": "2026-05-07",
+      "max_date": "2026-05-11",
       "weeks": [
         {
           "week_start": "2026-04-13",
@@ -157,6 +157,11 @@
           "week_start": "2026-05-04",
           "week_end": "2026-05-10",
           "label": "2026-05-04..2026-05-10"
+        },
+        {
+          "week_start": "2026-05-11",
+          "week_end": "2026-05-17",
+          "label": "2026-05-11..2026-05-17"
         }
       ]
     },
@@ -3072,10 +3077,16 @@
         "favicon_local_path": "_meta/favicons/typenetwork.png",
         "favicon_resolved_from": "configured"
       },
-      "has_data": false,
-      "min_date": null,
-      "max_date": null,
-      "weeks": []
+      "has_data": true,
+      "min_date": "2026-05-11",
+      "max_date": "2026-05-11",
+      "weeks": [
+        {
+          "week_start": "2026-05-11",
+          "week_end": "2026-05-17",
+          "label": "2026-05-11..2026-05-17"
+        }
+      ]
     }
   }
 }
