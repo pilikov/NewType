@@ -37,5 +37,18 @@
       "category": "press-release"
     },
     "news_id": "8fb105d0b835f1ff"
+  },
+  {
+    "source_id": "monotype",
+    "source_name": "Monotype",
+    "title": "Why AI is Making Typography a Boardroom Conversation",
+    "url": "https://www.monotype.com/company/thought-leadership/why-ai-making-typography-boardroom-conversation",
+    "published_at": "2026-05-13",
+    "image_url": "https://www.monotype.com/sites/default/files/styles/width_910/public/2025-02/Phil_Garnham_Headshot-2.webp?itok=3v23wv8F",
+    "discovered_at": "2026-05-14T08:59:52.913970+00:00",
+    "raw": {
+      "category": "thought-leadership"
+    },
+    "news_id": "4e2adc36f90fb06d"
   }
 ]
