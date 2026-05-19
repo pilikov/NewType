@@ -180,5 +180,19 @@
       "post_date": "2026-05-12"
     },
     "news_id": "125238d87ccd2c36"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Type physics × type.today",
+    "url": "https://type.today/en/journal/type-physics",
+    "published_at": "2026-05-19",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1282/preview_420_preview_image_en-oBZIilI2HSYM2yqshQ_ykDxvKJFitWutPw.gif",
+    "discovered_at": "2026-05-19T10:08:53.618505+00:00",
+    "raw": {
+      "slug": "type-physics",
+      "post_date": "2026-05-19"
+    },
+    "news_id": "f4e8f0ffe53e554b"
   }
 ]
