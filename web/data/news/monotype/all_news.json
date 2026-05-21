@@ -50,5 +50,18 @@
       "category": "thought-leadership"
     },
     "news_id": "4e2adc36f90fb06d"
+  },
+  {
+    "source_id": "monotype",
+    "source_name": "Monotype",
+    "title": "Type Around the World – Get To Know Bali, Indonesia",
+    "url": "https://www.monotype.com/company/spotlights/type-around-world-get-know-bali-indonesia",
+    "published_at": "2026-05-20",
+    "image_url": "https://www.monotype.com/sites/default/files/styles/width_910/public/2025-01/Fonts_having_moment_2.webp?itok=HT2AdvSI",
+    "discovered_at": "2026-05-21T10:07:35.098226+00:00",
+    "raw": {
+      "category": "spotlights"
+    },
+    "news_id": "abfdc6812fd0a0aa"
   }
 ]
