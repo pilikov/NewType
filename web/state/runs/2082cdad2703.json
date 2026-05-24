@@ -1,0 +1,26 @@
+{
+  "context": {
+    "run_id": "2082cdad2703",
+    "started_at": "2026-05-24T09:54:02.686530+00:00",
+    "source_filter": [
+      "myfonts"
+    ],
+    "timeout_seconds": 20
+  },
+  "summary": {
+    "run_id": "2082cdad2703",
+    "started_at": "2026-05-24T09:54:02.686530+00:00",
+    "finished_at": "2026-05-24T11:27:04.821295Z",
+    "sources": [
+      {
+        "source_id": "myfonts",
+        "status": "success",
+        "total_releases": 762,
+        "new_releases": 544,
+        "duration_seconds": 5577.024,
+        "output_dir": "/home/runner/work/NewType/NewType/data/myfonts/periods/2026-05-11_2026-05-24",
+        "error": null
+      }
+    ]
+  }
+}
