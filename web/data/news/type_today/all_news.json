@@ -194,5 +194,19 @@
       "post_date": "2026-05-19"
     },
     "news_id": "f4e8f0ffe53e554b"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "New typeface: Fluxetype",
+    "url": "https://type.today/en/journal/fluxetype",
+    "published_at": "2026-05-26",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1284/preview_420_preview_image_en-1ips6pS_NIjMzuvSkRk15pYeQ98LYrT6QA.png",
+    "discovered_at": "2026-05-26T10:27:35.153765+00:00",
+    "raw": {
+      "slug": "fluxetype",
+      "post_date": "2026-05-26"
+    },
+    "news_id": "66e24ab6397a013e"
   }
 ]
