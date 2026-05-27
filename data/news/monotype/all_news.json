@@ -63,5 +63,18 @@
       "category": "spotlights"
     },
     "news_id": "abfdc6812fd0a0aa"
+  },
+  {
+    "source_id": "monotype",
+    "source_name": "Monotype",
+    "title": "Monotype Launches MyFonts App for ChatGPT, Bringing Real Font Discovery Into AI Creative Workflows.",
+    "url": "https://www.monotype.com/company/press-release/monotype-launches-myfonts-app-chatgpt-bringing-real-font-discovery-ai",
+    "published_at": "2026-05-27",
+    "image_url": "https://www.monotype.com/sites/default/files/styles/width_910/public/2026-05/Ohdear.webp?itok=ocP_1zFs",
+    "discovered_at": "2026-05-27T20:09:12.609392+00:00",
+    "raw": {
+      "category": "press-release"
+    },
+    "news_id": "08d9e7ecc0e1a45e"
   }
 ]
