@@ -208,5 +208,19 @@
       "post_date": "2026-05-26"
     },
     "news_id": "66e24ab6397a013e"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Druk Wide in use: Kusaka",
+    "url": "https://type.today/en/journal/kusaka",
+    "published_at": "2026-05-28",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1285/preview_420_preview_image_en-THS5q-BP2IMSUgyeJRV87TjIQ95E8JnVmg.png",
+    "discovered_at": "2026-05-28T10:31:09.468829+00:00",
+    "raw": {
+      "slug": "kusaka",
+      "post_date": "2026-05-28"
+    },
+    "news_id": "409e44c46a78193c"
   }
 ]
