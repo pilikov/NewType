@@ -222,5 +222,19 @@
       "post_date": "2026-05-28"
     },
     "news_id": "409e44c46a78193c"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "New typeface: Halvar Mono",
+    "url": "https://type.today/en/journal/halvar-mono",
+    "published_at": "2026-06-02",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1287/preview_420_preview_image_en-FgTKWqj0_BXH3waH-3knhR8Vakpo5i1pLw.png",
+    "discovered_at": "2026-06-02T11:04:17.846408+00:00",
+    "raw": {
+      "slug": "halvar-mono",
+      "post_date": "2026-06-02"
+    },
+    "news_id": "98336a862a021ebf"
   }
 ]

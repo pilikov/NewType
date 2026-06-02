@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T12:03:34.680791Z",
+  "generated_at": "2026-06-02T11:04:13.244076Z",
   "sources": {
     "contemporarytype": {
       "source_id": "contemporarytype",
@@ -3114,7 +3114,7 @@
       },
       "has_data": true,
       "min_date": "2026-05-11",
-      "max_date": "2026-05-28",
+      "max_date": "2026-06-01",
       "weeks": [
         {
           "week_start": "2026-05-11",
@@ -3125,6 +3125,11 @@
           "week_start": "2026-05-25",
           "week_end": "2026-05-31",
           "label": "2026-05-25..2026-05-31"
+        },
+        {
+          "week_start": "2026-06-01",
+          "week_end": "2026-06-07",
+          "label": "2026-06-01..2026-06-07"
         }
       ]
     }
