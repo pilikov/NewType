@@ -54,5 +54,19 @@
       "typeface": "GT Flexa"
     },
     "news_id": "5ff8d7da7410fa46"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Círculo de Poemas",
+    "url": "https://www.grillitype.com/blog/in-use/circulo-poemas-brazil-books",
+    "published_at": "2026-06-02",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/6a1/f39/a4c/6a1f39a4c4d74997220046.png",
+    "discovered_at": "2026-06-02T20:42:00.125641+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Flexa"
+    },
+    "news_id": "3ad86adac6c25d0a"
   }
 ]
