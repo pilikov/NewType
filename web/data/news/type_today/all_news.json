@@ -236,5 +236,19 @@
       "post_date": "2026-06-02"
     },
     "news_id": "98336a862a021ebf"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Type posters today 03",
+    "url": "https://type.today/en/journal/oc-flicker",
+    "published_at": "2026-06-03",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1288/preview_420_preview_image_en-PWNrQJbjDOHXOAovDaVkElCtqcBLYTD_Xw.png",
+    "discovered_at": "2026-06-03T11:33:09.679908+00:00",
+    "raw": {
+      "slug": "oc-flicker",
+      "post_date": "2026-06-03"
+    },
+    "news_id": "936095cfc1ea5fe6"
   }
 ]

@@ -68,5 +68,47 @@
       "typeface": "GT Flexa"
     },
     "news_id": "3ad86adac6c25d0a"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Orkest Phion",
+    "url": "https://www.grillitype.com/blog/in-use/orkest-phion-visual-identity",
+    "published_at": "2026-06-02",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/6a1/f44/13b/6a1f4413b1786987078573.png",
+    "discovered_at": "2026-06-03T11:33:51.373263+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Planar"
+    },
+    "news_id": "884b205ac3e7d71b"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "The Triangle at Kyoto Museum",
+    "url": "https://www.grillitype.com/blog/in-use/triangle-kyoto-museum",
+    "published_at": "2026-06-02",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/6a1/f4e/909/6a1f4e90945aa640291956.png",
+    "discovered_at": "2026-06-03T11:33:52.124531+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Pantheon"
+    },
+    "news_id": "b1dbe2bfedb9156f"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Jardin Botanique de Genève",
+    "url": "https://www.grillitype.com/blog/in-use/jardin-botanique-geneve-design",
+    "published_at": "2026-06-02",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/6a1/f59/d9b/6a1f59d9b49dc967970197.png",
+    "discovered_at": "2026-06-03T11:33:52.531839+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Standard"
+    },
+    "news_id": "c882c111d586d220"
   }
 ]
