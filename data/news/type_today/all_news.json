@@ -250,5 +250,19 @@
       "post_date": "2026-06-03"
     },
     "news_id": "936095cfc1ea5fe6"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "type.today digest: May 2026",
+    "url": "https://type.today/en/journal/may26",
+    "published_at": "2026-06-05",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1289/preview_420_preview_image_en-9DyPx583-gCOYDi_YELH4wscnTjN2YbUzA.png",
+    "discovered_at": "2026-06-05T19:48:04.548420+00:00",
+    "raw": {
+      "slug": "may26",
+      "post_date": "2026-06-05"
+    },
+    "news_id": "ae89bd02716fe17f"
   }
 ]
