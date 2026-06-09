@@ -264,5 +264,19 @@
       "post_date": "2026-06-05"
     },
     "news_id": "ae89bd02716fe17f"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Type posters today 02: Maregraphe Mega. Ok",
+    "url": "https://type.today/en/journal/oc-may-26",
+    "published_at": "2026-06-09",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1286/preview_420_preview_image_en-becpS8lAfZJnejdnvOQ51flSPEpPLQgmUQ.png",
+    "discovered_at": "2026-06-09T10:13:52.885078+00:00",
+    "raw": {
+      "slug": "oc-may-26",
+      "post_date": "2026-06-09"
+    },
+    "news_id": "21de84a38ba51463"
   }
 ]
