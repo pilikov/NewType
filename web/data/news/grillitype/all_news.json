@@ -110,5 +110,19 @@
       "typeface": "GT Standard"
     },
     "news_id": "c882c111d586d220"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Hato",
+    "url": "https://www.grillitype.com/blog/studio-portrait/hato-studio-london-interview",
+    "published_at": "2026-06-09",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/6a2/851/c5d/6a2851c5ddd4c144295804.png",
+    "discovered_at": "2026-06-09T20:03:46.721840+00:00",
+    "raw": {
+      "category": "studio-portrait",
+      "typeface": ""
+    },
+    "news_id": "0d1e20a6753871d9"
   }
 ]

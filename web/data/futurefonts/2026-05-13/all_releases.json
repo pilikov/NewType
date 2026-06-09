@@ -1,0 +1,37 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/arrowtype/name-mono?v=1.0",
+    "name": "Name Mono",
+    "styles": [],
+    "authors": [
+      "ArrowType"
+    ],
+    "scripts": [
+      "extended-latin",
+      "vietnamese"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-05-12",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/166/medium_arrowtype-banner_3x-2.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/8043/AT_Name_Mono_-_Specimen.pdf",
+    "discovered_at": "2026-05-13T09:06:31.891447+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:21275",
+      "activity_id": 21275,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "1.0",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 8043,
+      "resolved_typeface_id": 391,
+      "typeface_language": "extended-latin,vietnamese"
+    },
+    "release_id": "10261a743991743b"
+  }
+]
