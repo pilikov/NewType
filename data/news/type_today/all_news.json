@@ -278,5 +278,19 @@
       "post_date": "2026-06-09"
     },
     "news_id": "21de84a38ba51463"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Sam Berlow: ‘I have not met a type designer who wanted to stop drawing fonts’",
+    "url": "https://type.today/en/journal/thetypefounders",
+    "published_at": "2026-06-11",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1291/preview_420_preview_image_en-rSCQgWOKsP4jGfwh4s-RJV6pw3S_l9zeIA.png",
+    "discovered_at": "2026-06-11T11:09:01.389396+00:00",
+    "raw": {
+      "slug": "thetypefounders",
+      "post_date": "2026-06-11"
+    },
+    "news_id": "3993967bde06d7ae"
   }
 ]
