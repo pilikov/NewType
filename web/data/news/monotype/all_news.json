@@ -76,5 +76,31 @@
       "category": "press-release"
     },
     "news_id": "08d9e7ecc0e1a45e"
+  },
+  {
+    "source_id": "monotype",
+    "source_name": "Monotype",
+    "title": "Monotype Appoints Karen Brewer as Chief Marketing Officer",
+    "url": "https://www.monotype.com/company/press-release/monotype-appoints-karen-brewer-chief-marketing-officer",
+    "published_at": "2026-06-12",
+    "image_url": "https://www.monotype.com/sites/default/files/styles/width_910/public/2026-06/Karen%20Brewer_headshot%20external%202x1%20%281%29.webp?itok=ACUAurcq",
+    "discovered_at": "2026-06-12T20:03:21.801863+00:00",
+    "raw": {
+      "category": "press-release"
+    },
+    "news_id": "53f6e98840fcbbd3"
+  },
+  {
+    "source_id": "monotype",
+    "source_name": "Monotype",
+    "title": "Measuring Drift: Building Smart, Adaptable Systems to Help Your Type Flex with Your Brand",
+    "url": "https://www.monotype.com/company/thought-leadership/measuring-drift-building-smart-adaptable-systems-help-your-type-flex",
+    "published_at": "2026-06-12",
+    "image_url": "https://www.monotype.com/sites/default/files/styles/width_910/public/2026-06/Measuring-Drift_2-1.webp?itok=8zKmuvc2",
+    "discovered_at": "2026-06-12T20:03:21.802023+00:00",
+    "raw": {
+      "category": "thought-leadership"
+    },
+    "news_id": "05311d21542848b7"
   }
 ]
