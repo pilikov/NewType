@@ -1,0 +1,156 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/corvinix-font-fontanatype/",
+    "name": "Corvinix",
+    "styles": [],
+    "authors": [
+      "Fontanatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-05-23",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10222/TmTrUSQAf114SlJr7mjYjAJi_ead7d497a1f5c2c6ddfe356ff1f0e7fb.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-23T08:30:55.384830+00:00",
+    "raw": {
+      "id": 8443637727402,
+      "handle": "regular-corvinix-1140099",
+      "tags": [
+        "decorative",
+        "pim:designerId:879",
+        "pim:familyId:131747",
+        "pim:foundryId:6780",
+        "pim:skuId:1140099",
+        "pixel"
+      ],
+      "updated_at": "2026-05-23T04:30:36-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-corvinix-1140099",
+      "collection_url": "https://www.myfonts.com/collections/corvinix-font-fontanatype/",
+      "is_package_product": false,
+      "product_title": "Corvinix",
+      "collection_name": "Corvinix",
+      "myfonts_debut_date": "2026-05-23",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "e2286f552453bf71"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/regular-ongunkan-bactrian-script-1120328",
+    "name": "Ongunkan Bactrian Script",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-05-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-23T08:31:02.016642+00:00",
+    "raw": {
+      "id": 8443636777130,
+      "handle": "regular-ongunkan-bactrian-script-1120328",
+      "tags": [
+        "pim:designerId:7608",
+        "pim:familyId:129885",
+        "pim:foundryId:5452",
+        "pim:skuId:1120328"
+      ],
+      "updated_at": "2026-05-23T04:30:56-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-ongunkan-bactrian-script-1120328",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Ongunkan Bactrian Script",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "787477d41a22418a"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/regular-ongunkan-hatran-hatrean-1120329",
+    "name": "Ongunkan Hatran Hatrean",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-05-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-23T08:31:14.331164+00:00",
+    "raw": {
+      "id": 8443632681130,
+      "handle": "regular-ongunkan-hatran-hatrean-1120329",
+      "tags": [
+        "pim:designerId:7608",
+        "pim:familyId:129886",
+        "pim:foundryId:5452",
+        "pim:skuId:1120329"
+      ],
+      "updated_at": "2026-05-23T04:31:08-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-ongunkan-hatran-hatrean-1120329",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Ongunkan Hatran Hatrean",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "713fa485842d9ee9"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/regular-ongunkan-proto-canaanite-1143849",
+    "name": "Ongunkan Proto Canaanite",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-05-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-23T08:31:35.544869+00:00",
+    "raw": {
+      "id": 8443627765930,
+      "handle": "regular-ongunkan-proto-canaanite-1143849",
+      "tags": [
+        "pim:designerId:7608",
+        "pim:familyId:132103",
+        "pim:foundryId:5452",
+        "pim:skuId:1143849"
+      ],
+      "updated_at": "2026-05-23T04:31:24-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-ongunkan-proto-canaanite-1143849",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Ongunkan Proto Canaanite",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "96b6ea1fb173c5fd"
+  }
+]
