@@ -292,5 +292,19 @@
       "post_date": "2026-06-11"
     },
     "news_id": "3993967bde06d7ae"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Factor A in use: Ot Avtora",
+    "url": "https://type.today/en/journal/otavtora",
+    "published_at": "2026-06-16",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1292/preview_420_preview_image_en-lmIhkfIouV0P4jWF0iNTHK64Lf-QtYDYRA.jpg",
+    "discovered_at": "2026-06-16T11:46:43.745140+00:00",
+    "raw": {
+      "slug": "otavtora",
+      "post_date": "2026-06-16"
+    },
+    "news_id": "152d5ac1222188f0"
   }
 ]
