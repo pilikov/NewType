@@ -3,20 +3,20 @@
   "status": "capped",
   "signature": {
     "page_size": 100,
-    "start_date": "2026-06-15",
-    "end_date": "2026-06-16",
+    "start_date": "2026-06-16",
+    "end_date": "2026-06-17",
     "target_debut_date": null,
     "enable_debut_enrichment": true,
     "enable_tech_specs_script_enrichment": true,
     "language_script_signal_mode": "strong"
   },
-  "started_at": "2026-06-16T11:27:58.451549Z",
+  "started_at": "2026-06-17T11:11:10.052889Z",
   "last_page": 25,
   "next_page": 26,
   "max_pages": 25,
-  "releases_count": 67,
+  "releases_count": 555,
   "oldest_in_page": "2026-06-10",
   "stop_reason": "max_pages",
-  "updated_at": "2026-06-16T11:44:03.657115Z",
-  "completed_at": "2026-06-16T11:44:03.657118Z"
+  "updated_at": "2026-06-17T11:28:50.639028Z",
+  "completed_at": "2026-06-17T11:28:50.639030Z"
 }
