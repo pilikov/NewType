@@ -1,0 +1,1393 @@
+[2026-06-18T10:41:56Z] checkpoint fresh next_page=1 path=state/myfonts_crawl_checkpoint.json
+[2026-06-18T10:41:56Z] === MyFonts crawl start source=myfonts ===
+[2026-06-18T10:41:56Z] config max_pages=25 page_size=100 start_date=2026-06-17 end_date=2026-06-18 api_delay=0.5s detail_delay=0.2s max_debut_checks=400 max_tech_specs_checks=200 reuse_success_profile=False always_enrich_packages=True language_script_signal_mode=strong force_fresh_run=False start_page=1 browser_mode=False browser_headless=True browser_storage_state_path=state/myfonts_storage_state.json
+[2026-06-18T10:41:57Z] #1 attempt=1/6 status=503 0.194s url=https://www.myfonts.com/products.json?limit=100&page=1
+[2026-06-18T10:41:57Z] retryable_503 attempt=1/6 waiting=5s
+[2026-06-18T10:42:05Z] #2 attempt=2/6 status=200 2.460s url=https://www.myfonts.com/products.json?limit=100&page=1
+[2026-06-18T10:42:06Z] #3 attempt=1/2 status=200 1.591s url=https://www.myfonts.com/products/noveris-forma-complete-family-package-1164763
+[2026-06-18T10:42:09Z] #4 attempt=1/2 status=200 1.834s url=https://www.myfonts.com/collections/noveris-forma-font-slex-studio/
+[2026-06-18T10:42:09Z] #5 attempt=1/2 status=200 0.161s url=https://www.myfonts.com/collections/noveris-forma-font-slex-studio/?tab=techSpecs
+[2026-06-18T10:42:10Z] #6 attempt=1/2 status=200 0.288s url=https://www.myfonts.com/products/ronthalyn-complete-family-package-1169604
+[2026-06-18T10:42:11Z] #7 attempt=1/2 status=200 0.506s url=https://www.myfonts.com/collections/ronthalyn-font-letterena-studios/
+[2026-06-18T10:42:12Z] #8 attempt=1/2 status=200 0.430s url=https://www.myfonts.com/collections/ronthalyn-font-letterena-studios/?tab=techSpecs
+[2026-06-18T10:42:13Z] #9 attempt=1/2 status=200 0.350s url=https://www.myfonts.com/products/highway-heritage-complete-family-package-1169294
+[2026-06-18T10:42:13Z] #10 attempt=1/2 status=200 0.392s url=https://www.myfonts.com/collections/highway-heritage-font-cocodesign/
+[2026-06-18T10:42:14Z] #11 attempt=1/2 status=200 0.151s url=https://www.myfonts.com/collections/highway-heritage-font-cocodesign/?tab=techSpecs
+[2026-06-18T10:42:15Z] #12 attempt=1/2 status=200 0.463s url=https://www.myfonts.com/products/railtown-complete-family-package-1169359
+[2026-06-18T10:42:15Z] #13 attempt=1/2 status=503 0.069s url=https://www.myfonts.com/collections/railtown-font-burntilldead/
+[2026-06-18T10:42:15Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:42:18Z] #14 attempt=2/2 status=200 0.446s url=https://www.myfonts.com/collections/railtown-font-burntilldead/
+[2026-06-18T10:42:19Z] #15 attempt=1/2 status=200 0.797s url=https://www.myfonts.com/collections/railtown-font-burntilldead/?tab=techSpecs
+[2026-06-18T10:42:20Z] #16 attempt=1/2 status=200 0.554s url=https://www.myfonts.com/products/cargen-complete-family-package-1169609
+[2026-06-18T10:42:21Z] #17 attempt=1/2 status=200 0.586s url=https://www.myfonts.com/collections/cargen-font-bimaksara/
+[2026-06-18T10:42:22Z] #18 attempt=1/2 status=200 0.577s url=https://www.myfonts.com/collections/cargen-font-bimaksara/?tab=techSpecs
+[2026-06-18T10:42:24Z] #19 attempt=1/2 status=200 0.769s url=https://www.myfonts.com/products/peterson-complete-family-package-1169670
+[2026-06-18T10:42:25Z] #20 attempt=1/2 status=200 0.875s url=https://www.myfonts.com/collections/peterson-font-larin-type-co/
+[2026-06-18T10:42:26Z] #21 attempt=1/2 status=200 0.912s url=https://www.myfonts.com/collections/peterson-font-larin-type-co/?tab=techSpecs
+[2026-06-18T10:42:27Z] #22 attempt=1/2 status=200 0.697s url=https://www.myfonts.com/products/weird-vault-complete-family-package-1169344
+[2026-06-18T10:42:28Z] #23 attempt=1/2 status=200 0.505s url=https://www.myfonts.com/collections/weird-vault-font-bale-type/
+[2026-06-18T10:42:29Z] #24 attempt=1/2 status=200 0.284s url=https://www.myfonts.com/collections/weird-vault-font-bale-type/?tab=techSpecs
+[2026-06-18T10:42:30Z] #25 attempt=1/2 status=200 0.259s url=https://www.myfonts.com/products/eldrake-complete-family-package-1169177
+[2026-06-18T10:42:30Z] #26 attempt=1/2 status=200 0.386s url=https://www.myfonts.com/collections/eldrake-font-letterhend/
+[2026-06-18T10:42:31Z] #27 attempt=1/2 status=200 1.043s url=https://www.myfonts.com/collections/eldrake-font-letterhend/?tab=techSpecs
+[2026-06-18T10:42:33Z] #28 attempt=1/2 status=200 0.960s url=https://www.myfonts.com/products/keshiva-complete-family-package-1169395
+[2026-06-18T10:42:35Z] #29 attempt=1/2 status=200 1.308s url=https://www.myfonts.com/collections/keshiva-font-zafara-studios/
+[2026-06-18T10:42:35Z] #30 attempt=1/2 status=200 0.192s url=https://www.myfonts.com/collections/keshiva-font-zafara-studios/?tab=techSpecs
+[2026-06-18T10:42:36Z] #31 attempt=1/2 status=200 0.351s url=https://www.myfonts.com/products/summer-in-the-city-complete-family-package-1169712
+[2026-06-18T10:42:37Z] #32 attempt=1/2 status=200 0.389s url=https://www.myfonts.com/collections/summer-in-the-city-font-negara-studio/
+[2026-06-18T10:42:38Z] #33 attempt=1/2 status=200 0.474s url=https://www.myfonts.com/collections/summer-in-the-city-font-negara-studio/?tab=techSpecs
+[2026-06-18T10:42:39Z] #34 attempt=1/2 status=200 0.930s url=https://www.myfonts.com/products/expanded-package-1169772
+[2026-06-18T10:42:41Z] #35 attempt=1/2 status=200 1.871s url=https://www.myfonts.com/collections/structrock-font-eyetype/
+[2026-06-18T10:42:44Z] #36 attempt=1/2 status=200 1.778s url=https://www.myfonts.com/collections/structrock-font-eyetype/?tab=techSpecs
+[2026-06-18T10:42:46Z] #37 attempt=1/2 status=200 1.822s url=https://www.myfonts.com/products/andrise-complete-family-package-1169782
+[2026-06-18T10:42:49Z] #38 attempt=1/2 status=200 2.880s url=https://www.myfonts.com/collections/andrise-font-lucky-type/
+[2026-06-18T10:42:51Z] #39 attempt=1/2 status=200 0.424s url=https://www.myfonts.com/collections/andrise-font-lucky-type/?tab=techSpecs
+[2026-06-18T10:42:52Z] #40 attempt=1/2 status=200 0.399s url=https://www.myfonts.com/products/rotter-damn-complete-family-package-1169327
+[2026-06-18T10:42:53Z] #41 attempt=1/2 status=200 0.356s url=https://www.myfonts.com/collections/rotter-damn-font-timelesstype-studio/
+[2026-06-18T10:42:53Z] #42 attempt=1/2 status=200 0.358s url=https://www.myfonts.com/collections/rotter-damn-font-timelesstype-studio/?tab=techSpecs
+[2026-06-18T10:42:54Z] #43 attempt=1/2 status=200 0.358s url=https://www.myfonts.com/products/mabel-letter-complete-family-package-1169324
+[2026-06-18T10:42:55Z] #44 attempt=1/2 status=200 0.777s url=https://www.myfonts.com/collections/mabel-letter-font-medialabco/
+[2026-06-18T10:42:57Z] #45 attempt=1/2 status=200 1.256s url=https://www.myfonts.com/collections/mabel-letter-font-medialabco/?tab=techSpecs
+[2026-06-18T10:42:58Z] #46 attempt=1/2 status=200 0.382s url=https://www.myfonts.com/products/kelasov-complete-family-package-1169615
+[2026-06-18T10:43:00Z] #47 attempt=1/2 status=200 1.576s url=https://www.myfonts.com/collections/kelasov-font-mei-suseno/
+[2026-06-18T10:43:01Z] #48 attempt=1/2 status=200 0.967s url=https://www.myfonts.com/collections/kelasov-font-mei-suseno/?tab=techSpecs
+[2026-06-18T10:43:02Z] #49 attempt=1/2 status=200 0.771s url=https://www.myfonts.com/products/selukar-complete-family-package-1169618
+[2026-06-18T10:43:04Z] #50 attempt=1/2 status=200 0.877s url=https://www.myfonts.com/collections/selukar-font-artflorara/
+[2026-06-18T10:43:05Z] #51 attempt=1/2 status=200 0.902s url=https://www.myfonts.com/collections/selukar-font-artflorara/?tab=techSpecs
+[2026-06-18T10:43:06Z] #52 attempt=1/2 status=200 0.698s url=https://www.myfonts.com/products/front-picture-complete-family-package-1169341
+[2026-06-18T10:43:07Z] #53 attempt=1/2 status=200 0.931s url=https://www.myfonts.com/collections/front-picture-font-letterhend/
+[2026-06-18T10:43:08Z] #54 attempt=1/2 status=200 0.632s url=https://www.myfonts.com/collections/front-picture-font-letterhend/?tab=techSpecs
+[2026-06-18T10:43:09Z] #55 attempt=1/2 status=200 0.331s url=https://www.myfonts.com/products/rockworn-complete-family-package-1169388
+[2026-06-18T10:43:10Z] #56 attempt=1/2 status=200 0.372s url=https://www.myfonts.com/collections/rockworn-font-radesigns21/
+[2026-06-18T10:43:11Z] #57 attempt=1/2 status=200 0.481s url=https://www.myfonts.com/collections/rockworn-font-radesigns21/?tab=techSpecs
+[2026-06-18T10:43:12Z] #58 attempt=1/2 status=200 0.528s url=https://www.myfonts.com/products/donge-complete-family-package-1169298
+[2026-06-18T10:43:13Z] #59 attempt=1/2 status=200 0.494s url=https://www.myfonts.com/collections/donge-font-lemonthe/
+[2026-06-18T10:43:13Z] #60 attempt=1/2 status=200 0.471s url=https://www.myfonts.com/collections/donge-font-lemonthe/?tab=techSpecs
+[2026-06-18T10:43:16Z] #61 attempt=1/2 status=200 2.273s url=https://www.myfonts.com/products/belvoria-serif-complete-family-package-1169415
+[2026-06-18T10:43:19Z] #62 attempt=1/2 status=200 2.843s url=https://www.myfonts.com/collections/belvoria-serif-font-typehill-studio/
+[2026-06-18T10:43:24Z] #63 attempt=1/2 status=200 3.279s url=https://www.myfonts.com/collections/belvoria-serif-font-typehill-studio/?tab=techSpecs
+[2026-06-18T10:43:25Z] #64 attempt=1/2 status=200 0.364s url=https://www.myfonts.com/products/wt-zedek-complete-family-package-1169313
+[2026-06-18T10:43:26Z] #65 attempt=1/2 status=200 0.874s url=https://www.myfonts.com/collections/wt-zedek-font-wwwonder-type/
+[2026-06-18T10:43:27Z] #66 attempt=1/2 status=200 0.502s url=https://www.myfonts.com/collections/wt-zedek-font-wwwonder-type/?tab=techSpecs
+[2026-06-18T10:43:28Z] #67 attempt=1/2 status=200 0.511s url=https://www.myfonts.com/products/ulm-initials-complete-family-package-1169305
+[2026-06-18T10:43:29Z] #68 attempt=1/2 status=200 0.584s url=https://www.myfonts.com/collections/ulm-initials-font-kaer/
+[2026-06-18T10:43:30Z] #69 attempt=1/2 status=200 0.786s url=https://www.myfonts.com/collections/ulm-initials-font-kaer/?tab=techSpecs
+[2026-06-18T10:43:31Z] #70 attempt=1/2 status=200 0.439s url=https://www.myfonts.com/products/highland-grove-complete-family-package-1169844
+[2026-06-18T10:43:32Z] #71 attempt=1/2 status=200 0.757s url=https://www.myfonts.com/collections/highland-grove-font-cocodesign/
+[2026-06-18T10:43:33Z] #72 attempt=1/2 status=200 0.152s url=https://www.myfonts.com/collections/highland-grove-font-cocodesign/?tab=techSpecs
+[2026-06-18T10:43:34Z] #73 attempt=1/2 status=200 0.286s url=https://www.myfonts.com/products/te-neovera-tharwatemara-complete-family-package-1169348
+[2026-06-18T10:43:34Z] #74 attempt=1/2 status=200 0.506s url=https://www.myfonts.com/collections/te-neovera-tharwatemara-font-tharwat-emara/
+[2026-06-18T10:43:35Z] #75 attempt=1/2 status=200 0.519s url=https://www.myfonts.com/collections/te-neovera-tharwatemara-font-tharwat-emara/?tab=techSpecs
+[2026-06-18T10:43:36Z] #76 attempt=1/2 status=200 0.678s url=https://www.myfonts.com/products/kering-brusha-complete-family-package-1169193
+[2026-06-18T10:43:37Z] #77 attempt=1/2 status=200 0.336s url=https://www.myfonts.com/collections/kering-brusha-font-letterytz/
+[2026-06-18T10:43:38Z] #78 attempt=1/2 status=200 0.378s url=https://www.myfonts.com/collections/kering-brusha-font-letterytz/?tab=techSpecs
+[2026-06-18T10:43:39Z] #79 attempt=1/2 status=200 0.317s url=https://www.myfonts.com/products/panderly-complete-family-package-1169309
+[2026-06-18T10:43:39Z] #80 attempt=1/2 status=200 0.350s url=https://www.myfonts.com/collections/panderly-font-vermilione/
+[2026-06-18T10:43:40Z] #81 attempt=1/2 status=200 0.458s url=https://www.myfonts.com/collections/panderly-font-vermilione/?tab=techSpecs
+[2026-06-18T10:43:41Z] #82 attempt=1/2 status=200 0.276s url=https://www.myfonts.com/products/faberos-sebastine-complete-family-package-1169367
+[2026-06-18T10:43:42Z] #83 attempt=1/2 status=200 0.569s url=https://www.myfonts.com/collections/faberos-sebastine-font-afkari-studio/
+[2026-06-18T10:43:43Z] #84 attempt=1/2 status=200 0.548s url=https://www.myfonts.com/collections/faberos-sebastine-font-afkari-studio/?tab=techSpecs
+[2026-06-18T10:43:44Z] #85 attempt=1/2 status=200 0.326s url=https://www.myfonts.com/products/quantum-orbitals-signal-complete-family-package-1169600
+[2026-06-18T10:43:45Z] #86 attempt=1/2 status=200 0.661s url=https://www.myfonts.com/collections/quantum-orbitals-signal-font-timelesstype-studio/
+[2026-06-18T10:43:45Z] #87 attempt=1/2 status=200 0.191s url=https://www.myfonts.com/collections/quantum-orbitals-signal-font-timelesstype-studio/?tab=techSpecs
+[2026-06-18T10:43:46Z] #88 attempt=1/2 status=200 0.530s url=https://www.myfonts.com/products/nakumita-complete-family-package-1169180
+[2026-06-18T10:43:47Z] #89 attempt=1/2 status=200 0.848s url=https://www.myfonts.com/collections/nakumita-font-josstype/
+[2026-06-18T10:43:48Z] #90 attempt=1/2 status=200 0.638s url=https://www.myfonts.com/collections/nakumita-font-josstype/?tab=techSpecs
+[2026-06-18T10:43:49Z] #91 attempt=1/2 status=200 0.341s url=https://www.myfonts.com/products/hexgrid-complete-family-package-1169391
+[2026-06-18T10:43:50Z] #92 attempt=1/2 status=200 0.460s url=https://www.myfonts.com/collections/hexgrid-font-sylvain-zimmer/
+[2026-06-18T10:43:51Z] #93 attempt=1/2 status=200 0.350s url=https://www.myfonts.com/collections/hexgrid-font-sylvain-zimmer/?tab=techSpecs
+[2026-06-18T10:43:53Z] #94 attempt=1/2 status=200 1.209s url=https://www.myfonts.com/products/herokid-complete-family-package-1169197
+[2026-06-18T10:43:53Z] #95 attempt=1/2 status=200 0.187s url=https://www.myfonts.com/collections/herokid-font-without-foundry/
+[2026-06-18T10:43:55Z] #96 attempt=1/2 status=200 1.468s url=https://www.myfonts.com/collections/herokid-font-without-foundry/?tab=techSpecs
+[2026-06-18T10:43:57Z] #97 attempt=1/2 status=200 0.660s url=https://www.myfonts.com/products/arosne-complete-family-package-1169352
+[2026-06-18T10:43:57Z] #98 attempt=1/2 status=200 0.557s url=https://www.myfonts.com/collections/arosne-font-burntilldead/
+[2026-06-18T10:43:58Z] #99 attempt=1/2 status=200 0.510s url=https://www.myfonts.com/collections/arosne-font-burntilldead/?tab=techSpecs
+[2026-06-18T10:44:00Z] #100 attempt=1/2 status=200 1.056s url=https://www.myfonts.com/products/badiek-complete-family-package-1169331
+[2026-06-18T10:44:01Z] #101 attempt=1/2 status=200 0.606s url=https://www.myfonts.com/collections/badiek-font-timelesstype-studio/
+[2026-06-18T10:44:02Z] #102 attempt=1/2 status=200 0.568s url=https://www.myfonts.com/collections/badiek-font-timelesstype-studio/?tab=techSpecs
+[2026-06-18T10:44:03Z] #103 attempt=1/2 status=200 1.064s url=https://www.myfonts.com/products/mergola-complete-family-package-1169317
+[2026-06-18T10:44:05Z] #104 attempt=1/2 status=200 0.988s url=https://www.myfonts.com/collections/mergola-font-font-liner/
+[2026-06-18T10:44:06Z] #105 attempt=1/2 status=200 0.908s url=https://www.myfonts.com/collections/mergola-font-font-liner/?tab=techSpecs
+[2026-06-18T10:44:07Z] #106 attempt=1/2 status=200 0.619s url=https://www.myfonts.com/products/studios-meditera-complete-family-package-1169355
+[2026-06-18T10:44:08Z] #107 attempt=1/2 status=200 0.878s url=https://www.myfonts.com/collections/studios-meditera-font-the-native-saint-club/
+[2026-06-18T10:44:09Z] #108 attempt=1/2 status=200 0.766s url=https://www.myfonts.com/collections/studios-meditera-font-the-native-saint-club/?tab=techSpecs
+[2026-06-18T10:44:11Z] #109 attempt=1/2 status=200 0.691s url=https://www.myfonts.com/products/pecal-complete-family-package-1169773
+[2026-06-18T10:44:12Z] #110 attempt=1/2 status=200 0.732s url=https://www.myfonts.com/collections/pecal-font-hurufatfont-type-foundry/
+[2026-06-18T10:44:12Z] #111 attempt=1/2 status=200 0.203s url=https://www.myfonts.com/collections/pecal-font-hurufatfont-type-foundry/?tab=techSpecs
+[2026-06-18T10:44:13Z] #112 attempt=1/2 status=200 0.341s url=https://www.myfonts.com/products/regular-siglon-1169338
+[2026-06-18T10:44:14Z] #113 attempt=1/2 status=200 0.290s url=https://www.myfonts.com/collections/siglon-font-pandeka-studio/
+[2026-06-18T10:44:14Z] #114 attempt=1/2 status=200 0.163s url=https://www.myfonts.com/collections/siglon-font-pandeka-studio/?tab=techSpecs
+[2026-06-18T10:44:15Z] #115 attempt=1/2 status=200 0.369s url=https://www.myfonts.com/products/regular-moreny-1169603
+[2026-06-18T10:44:16Z] #116 attempt=1/2 status=200 0.719s url=https://www.myfonts.com/collections/moreny-font-bimaksara/
+[2026-06-18T10:44:17Z] #117 attempt=1/2 status=200 0.653s url=https://www.myfonts.com/collections/moreny-font-bimaksara/?tab=techSpecs
+[2026-06-18T10:44:19Z] #118 attempt=1/6 status=200 1.006s url=https://www.myfonts.com/products.json?limit=100&page=2
+[2026-06-18T10:44:19Z] #119 attempt=1/2 status=200 0.367s url=https://www.myfonts.com/products/regular-montrielle-1169339
+[2026-06-18T10:44:20Z] #120 attempt=1/2 status=200 0.275s url=https://www.myfonts.com/collections/montrielle-font-rasio-studio/
+[2026-06-18T10:44:20Z] #121 attempt=1/2 status=200 0.286s url=https://www.myfonts.com/collections/montrielle-font-rasio-studio/?tab=techSpecs
+[2026-06-18T10:44:21Z] #122 attempt=1/2 status=200 0.305s url=https://www.myfonts.com/products/regular-kafu-1169336
+[2026-06-18T10:44:22Z] #123 attempt=1/2 status=200 0.287s url=https://www.myfonts.com/collections/kafu-font-storictype/
+[2026-06-18T10:44:22Z] #124 attempt=1/2 status=200 0.275s url=https://www.myfonts.com/collections/kafu-font-storictype/?tab=techSpecs
+[2026-06-18T10:44:23Z] #125 attempt=1/2 status=200 0.399s url=https://www.myfonts.com/products/regular-bromos-1169335
+[2026-06-18T10:44:24Z] #126 attempt=1/2 status=200 0.280s url=https://www.myfonts.com/collections/bromos-font-vuuuds/
+[2026-06-18T10:44:24Z] #127 attempt=1/2 status=200 0.391s url=https://www.myfonts.com/collections/bromos-font-vuuuds/?tab=techSpecs
+[2026-06-18T10:44:25Z] #128 attempt=1/2 status=200 0.266s url=https://www.myfonts.com/products/regular-elfox-1169925
+[2026-06-18T10:44:26Z] #129 attempt=1/2 status=200 0.412s url=https://www.myfonts.com/collections/elfox-font-epiclinez/
+[2026-06-18T10:44:26Z] #130 attempt=1/2 status=200 0.251s url=https://www.myfonts.com/collections/elfox-font-epiclinez/?tab=techSpecs
+[2026-06-18T10:44:27Z] #131 attempt=1/2 status=200 0.335s url=https://www.myfonts.com/products/regular-kancil-1169366
+[2026-06-18T10:44:27Z] #132 attempt=1/2 status=429 0.043s url=https://www.myfonts.com/collections/kancil-font-pekotype/
+[2026-06-18T10:44:27Z] first_429 req=132 url=https://www.myfonts.com/collections/kancil-font-pekotype/
+[2026-06-18T10:44:30Z] #133 attempt=2/2 status=200 0.361s url=https://www.myfonts.com/collections/kancil-font-pekotype/
+[2026-06-18T10:44:30Z] #134 attempt=1/2 status=200 0.295s url=https://www.myfonts.com/products/regular-avoge-1169337
+[2026-06-18T10:44:31Z] #135 attempt=1/2 status=200 0.220s url=https://www.myfonts.com/collections/avoge-font-pandeka-studio/
+[2026-06-18T10:44:33Z] #136 attempt=1/6 status=200 1.326s url=https://www.myfonts.com/products.json?limit=100&page=3
+[2026-06-18T10:44:33Z] #137 attempt=1/2 status=200 0.439s url=https://www.myfonts.com/products/regular-stayard-and-rob-1169330
+[2026-06-18T10:44:34Z] #138 attempt=1/2 status=200 0.394s url=https://www.myfonts.com/collections/stayard-and-rob-font-black-junst/
+[2026-06-18T10:44:34Z] #139 attempt=1/2 status=429 0.029s url=https://www.myfonts.com/products/regular-oligeb-1169628
+[2026-06-18T10:44:37Z] #140 attempt=2/2 status=200 0.693s url=https://www.myfonts.com/products/regular-oligeb-1169628
+[2026-06-18T10:44:38Z] #141 attempt=1/2 status=200 0.307s url=https://www.myfonts.com/collections/oligeb-font-linecreative/
+[2026-06-18T10:44:39Z] #142 attempt=1/2 status=200 0.489s url=https://www.myfonts.com/products/regular-monkeela-1169370
+[2026-06-18T10:44:39Z] #143 attempt=1/2 status=200 0.404s url=https://www.myfonts.com/collections/monkeela-font-maenjari-std/
+[2026-06-18T10:44:40Z] #144 attempt=1/2 status=200 0.371s url=https://www.myfonts.com/products/regular-secret-solver-1169312
+[2026-06-18T10:44:40Z] #145 attempt=1/2 status=429 0.030s url=https://www.myfonts.com/collections/secret-solver-font-hanzel-space/
+[2026-06-18T10:44:43Z] #146 attempt=2/2 status=200 0.375s url=https://www.myfonts.com/collections/secret-solver-font-hanzel-space/
+[2026-06-18T10:44:43Z] #147 attempt=1/2 status=200 0.413s url=https://www.myfonts.com/products/regular-octara-sans-1169715
+[2026-06-18T10:44:44Z] #148 attempt=1/2 status=200 0.366s url=https://www.myfonts.com/collections/octara-sans-font-laliya/
+[2026-06-18T10:44:45Z] #149 attempt=1/2 status=200 0.495s url=https://www.myfonts.com/products/black-to-display-1169629
+[2026-06-18T10:44:45Z] #150 attempt=1/2 status=200 0.361s url=https://www.myfonts.com/collections/to-display-font-tomasz-ostrowski/
+[2026-06-18T10:44:46Z] #151 attempt=1/2 status=429 0.089s url=https://www.myfonts.com/products/regular-catherelle-1169598
+[2026-06-18T10:44:49Z] #152 attempt=2/2 status=200 0.665s url=https://www.myfonts.com/products/regular-catherelle-1169598
+[2026-06-18T10:44:49Z] #153 attempt=1/2 status=200 0.311s url=https://www.myfonts.com/collections/catherelle-font-groenstudio/
+[2026-06-18T10:44:50Z] #154 attempt=1/2 status=200 0.324s url=https://www.myfonts.com/products/ghotic-bottensagach-1169599
+[2026-06-18T10:44:50Z] #155 attempt=1/2 status=200 0.256s url=https://www.myfonts.com/collections/bottensagach-font-beewest-studio/
+[2026-06-18T10:44:52Z] #156 attempt=1/6 status=200 1.116s url=https://www.myfonts.com/products.json?limit=100&page=4
+[2026-06-18T10:44:52Z] #157 attempt=1/2 status=200 0.304s url=https://www.myfonts.com/products/regular-putdies-1169674
+[2026-06-18T10:44:53Z] #158 attempt=1/2 status=429 0.037s url=https://www.myfonts.com/collections/putdies-font-hasnat-studio/
+[2026-06-18T10:44:55Z] #159 attempt=2/2 status=200 0.363s url=https://www.myfonts.com/collections/putdies-font-hasnat-studio/
+[2026-06-18T10:44:56Z] #160 attempt=1/2 status=200 0.301s url=https://www.myfonts.com/products/regular-dusty-rodeo-1169613
+[2026-06-18T10:44:56Z] #161 attempt=1/2 status=200 0.275s url=https://www.myfonts.com/collections/dusty-rodeo-font-flawlessandco/
+[2026-06-18T10:44:57Z] #162 attempt=1/2 status=200 0.286s url=https://www.myfonts.com/products/regular-navtrex-1169716
+[2026-06-18T10:44:57Z] #163 attempt=1/2 status=429 0.035s url=https://www.myfonts.com/collections/navtrex-font-kodali-type/
+[2026-06-18T10:45:00Z] #164 attempt=2/2 status=200 0.296s url=https://www.myfonts.com/collections/navtrex-font-kodali-type/
+[2026-06-18T10:45:01Z] #165 attempt=1/2 status=200 1.013s url=https://www.myfonts.com/products/regular-ghost-baster-1169334
+[2026-06-18T10:45:02Z] #166 attempt=1/2 status=200 0.559s url=https://www.myfonts.com/collections/ghost-baster-font-pekotype/
+[2026-06-18T10:45:03Z] #167 attempt=1/2 status=200 0.813s url=https://www.myfonts.com/products/regular-longmile-font-1169614
+[2026-06-18T10:45:04Z] #168 attempt=1/2 status=200 1.151s url=https://www.myfonts.com/collections/longmile-font-font-madjack-font/
+[2026-06-18T10:45:06Z] #169 attempt=1/6 status=200 0.811s url=https://www.myfonts.com/products.json?limit=100&page=5
+[2026-06-18T10:45:06Z] #170 attempt=1/2 status=200 0.354s url=https://www.myfonts.com/products/regular-rogen-1169607
+[2026-06-18T10:45:07Z] #171 attempt=1/2 status=200 0.859s url=https://www.myfonts.com/collections/rogen-font-bimaksara/
+[2026-06-18T10:45:08Z] #172 attempt=1/2 status=200 0.525s url=https://www.myfonts.com/products/italic-batarde-1169347
+[2026-06-18T10:45:09Z] #173 attempt=1/2 status=200 1.099s url=https://www.myfonts.com/collections/batarde-font-rmu/
+[2026-06-18T10:45:11Z] #174 attempt=1/2 status=200 1.534s url=https://www.myfonts.com/products/regular-jarwo-1169364
+[2026-06-18T10:45:12Z] #175 attempt=1/2 status=200 0.878s url=https://www.myfonts.com/collections/jarwo-font-pekotype/
+[2026-06-18T10:45:13Z] #176 attempt=1/2 status=200 0.385s url=https://www.myfonts.com/products/semi-bold-condensed-spanik-variable-1169196
+[2026-06-18T10:45:13Z] #177 attempt=1/2 status=200 0.264s url=https://www.myfonts.com/collections/spanik-variable-font-typeberry/
+[2026-06-18T10:45:14Z] #178 attempt=1/2 status=200 0.450s url=https://www.myfonts.com/products/regular-yolane-1169340
+[2026-06-18T10:45:15Z] #179 attempt=1/2 status=200 0.771s url=https://www.myfonts.com/collections/yolane-font-rasio-studio/
+[2026-06-18T10:45:18Z] #180 attempt=1/6 status=200 1.724s url=https://www.myfonts.com/products.json?limit=100&page=6
+[2026-06-18T10:45:18Z] #181 attempt=1/2 status=200 0.307s url=https://www.myfonts.com/products/regular-hudmist-1169626
+[2026-06-18T10:45:19Z] #182 attempt=1/2 status=200 0.510s url=https://www.myfonts.com/collections/hudmist-font-gatype/
+[2026-06-18T10:45:20Z] #183 attempt=1/2 status=200 0.649s url=https://www.myfonts.com/products/regular-trisha-1169308
+[2026-06-18T10:45:21Z] #184 attempt=1/2 status=200 0.682s url=https://www.myfonts.com/collections/trisha-font-epiclinez/
+[2026-06-18T10:45:21Z] #185 attempt=1/2 status=200 0.392s url=https://www.myfonts.com/products/regular-zhavier-1169627
+[2026-06-18T10:45:22Z] #186 attempt=1/2 status=200 0.451s url=https://www.myfonts.com/collections/zhavier-font-gatype/
+[2026-06-18T10:45:23Z] #187 attempt=1/2 status=200 0.521s url=https://www.myfonts.com/products/regular-jairo-1169358
+[2026-06-18T10:45:24Z] #188 attempt=1/2 status=200 0.542s url=https://www.myfonts.com/collections/jairo-font-pekotype/
+[2026-06-18T10:45:24Z] #189 attempt=1/2 status=200 0.298s url=https://www.myfonts.com/products/regular-tabfaa-1169675
+[2026-06-18T10:45:25Z] #190 attempt=1/2 status=200 0.490s url=https://www.myfonts.com/collections/tabfaa-font-hasnat-studio/
+[2026-06-18T10:45:27Z] #191 attempt=1/6 status=200 1.480s url=https://www.myfonts.com/products.json?limit=100&page=7
+[2026-06-18T10:45:28Z] #192 attempt=1/2 status=200 0.397s url=https://www.myfonts.com/products/regular-kreanox-1169711
+[2026-06-18T10:45:28Z] #193 attempt=1/2 status=200 0.464s url=https://www.myfonts.com/collections/kreanox-font-denustudio/
+[2026-06-18T10:45:29Z] #194 attempt=1/2 status=200 0.503s url=https://www.myfonts.com/products/regular-kaella-1169365
+[2026-06-18T10:45:29Z] #195 attempt=1/2 status=429 0.039s url=https://www.myfonts.com/collections/kaella-font-pekotype/
+[2026-06-18T10:45:32Z] #196 attempt=2/2 status=200 0.537s url=https://www.myfonts.com/collections/kaella-font-pekotype/
+[2026-06-18T10:45:33Z] #197 attempt=1/2 status=200 0.660s url=https://www.myfonts.com/products/regular-valrus-1169612
+[2026-06-18T10:45:34Z] #198 attempt=1/2 status=200 0.506s url=https://www.myfonts.com/collections/valrus-font-bimaksara/
+[2026-06-18T10:45:35Z] #199 attempt=1/2 status=200 0.682s url=https://www.myfonts.com/products/hollow-charm-outline-complete-family-package-1067391
+[2026-06-18T10:45:35Z] #200 attempt=1/2 status=200 0.388s url=https://www.myfonts.com/collections/hollow-charm-outline-font-fontysia/
+[2026-06-18T10:45:36Z] #201 attempt=1/2 status=200 0.549s url=https://www.myfonts.com/products/regular-te-seravera-tharwatemara-1162156
+[2026-06-18T10:45:37Z] #202 attempt=1/2 status=200 0.540s url=https://www.myfonts.com/collections/te-seravera-tharwatemara-font-tharwat-emara/
+[2026-06-18T10:45:38Z] #203 attempt=1/2 status=200 0.467s url=https://www.myfonts.com/products/regular-te-hafs2-tharwat-emara2-1012045
+[2026-06-18T10:45:38Z] #204 attempt=1/2 status=200 0.341s url=https://www.myfonts.com/collections/te-hafs2-tharwat-emara2-font-tharwat-emara/
+[2026-06-18T10:45:39Z] #205 attempt=1/2 status=429 0.032s url=https://www.myfonts.com/products/roughlyyours-complete-family-package-1169115
+[2026-06-18T10:45:42Z] #206 attempt=2/2 status=200 0.818s url=https://www.myfonts.com/products/roughlyyours-complete-family-package-1169115
+[2026-06-18T10:45:43Z] #207 attempt=1/2 status=200 0.740s url=https://www.myfonts.com/collections/roughlyyours-font-vp-creative-shop/
+[2026-06-18T10:45:43Z] #208 attempt=1/2 status=200 0.327s url=https://www.myfonts.com/products/pantograph-complete-family-package-1156658
+[2026-06-18T10:45:44Z] #209 attempt=1/2 status=200 0.432s url=https://www.myfonts.com/collections/pantograph-font-realtype/
+[2026-06-18T10:45:45Z] #210 attempt=1/2 status=200 0.407s url=https://www.myfonts.com/products/laveto-complete-family-package-1169099
+[2026-06-18T10:45:45Z] #211 attempt=1/2 status=200 0.560s url=https://www.myfonts.com/collections/laveto-font-font-liner/
+[2026-06-18T10:45:46Z] #212 attempt=1/2 status=200 0.369s url=https://www.myfonts.com/products/mezzo-font-complete-family-package-1169098
+[2026-06-18T10:45:47Z] #213 attempt=1/2 status=200 0.806s url=https://www.myfonts.com/collections/mezzo-font-font-pitts-hand/
+[2026-06-18T10:45:48Z] #214 attempt=1/2 status=200 0.348s url=https://www.myfonts.com/products/westgrave-complete-family-package-1169130
+[2026-06-18T10:45:48Z] #215 attempt=1/2 status=429 0.034s url=https://www.myfonts.com/collections/westgrave-font-shape-studio/
+[2026-06-18T10:45:51Z] #216 attempt=2/2 status=200 0.590s url=https://www.myfonts.com/collections/westgrave-font-shape-studio/
+[2026-06-18T10:45:51Z] #217 attempt=1/2 status=200 0.415s url=https://www.myfonts.com/products/moestica-complete-family-package-1169143
+[2026-06-18T10:45:52Z] #218 attempt=1/2 status=200 0.688s url=https://www.myfonts.com/collections/moestica-font-atasi-studio/
+[2026-06-18T10:45:53Z] #219 attempt=1/2 status=200 0.356s url=https://www.myfonts.com/products/aiyongene-complete-family-package-1169104
+[2026-06-18T10:45:54Z] #220 attempt=1/2 status=200 0.536s url=https://www.myfonts.com/collections/aiyongene-font-mei-suseno/
+[2026-06-18T10:45:54Z] #221 attempt=1/2 status=200 0.339s url=https://www.myfonts.com/products/pangsit-keripik-complete-family-package-1169111
+[2026-06-18T10:45:55Z] #222 attempt=1/2 status=200 0.403s url=https://www.myfonts.com/collections/pangsit-keripik-font-letterytz/
+[2026-06-18T10:45:55Z] #223 attempt=1/2 status=429 0.028s url=https://www.myfonts.com/products/maison-de-sol-complete-family-package-1169108
+[2026-06-18T10:45:58Z] #224 attempt=2/2 status=200 0.421s url=https://www.myfonts.com/products/maison-de-sol-complete-family-package-1169108
+[2026-06-18T10:45:59Z] #225 attempt=1/2 status=200 0.762s url=https://www.myfonts.com/collections/maison-de-sol-font-maghrib-type/
+[2026-06-18T10:46:01Z] #226 attempt=1/2 status=200 1.327s url=https://www.myfonts.com/products/medium-neuetype-1169165
+[2026-06-18T10:46:02Z] #227 attempt=1/2 status=200 1.462s url=https://www.myfonts.com/collections/neuetype-font-nicolass-fonts/
+[2026-06-18T10:46:04Z] #228 attempt=1/2 status=200 1.124s url=https://www.myfonts.com/products/regular-bunga-spring-1169137
+[2026-06-18T10:46:04Z] #229 attempt=1/2 status=200 0.316s url=https://www.myfonts.com/collections/bunga-spring-font-aisyah/
+[2026-06-18T10:46:05Z] #230 attempt=1/2 status=200 0.568s url=https://www.myfonts.com/products/regular-galaxor-1169147
+[2026-06-18T10:46:06Z] #231 attempt=1/2 status=200 0.871s url=https://www.myfonts.com/collections/galaxor-font-vadova-std/
+[2026-06-18T10:46:07Z] #232 attempt=1/2 status=200 0.486s url=https://www.myfonts.com/products/regular-bergusta-1169128
+[2026-06-18T10:46:08Z] #233 attempt=1/2 status=200 0.414s url=https://www.myfonts.com/collections/bergusta-font-konstantinestudio/
+[2026-06-18T10:46:08Z] #234 attempt=1/2 status=200 0.310s url=https://www.myfonts.com/products/regular-neritho-1169139
+[2026-06-18T10:46:09Z] #235 attempt=1/2 status=200 0.955s url=https://www.myfonts.com/collections/neritho-font-vadova-std/
+[2026-06-18T10:46:10Z] #236 attempt=1/2 status=200 0.457s url=https://www.myfonts.com/products/regular-graffont-1169142
+[2026-06-18T10:46:11Z] #237 attempt=1/2 status=200 0.451s url=https://www.myfonts.com/collections/graffont-font-vadova-std/
+[2026-06-18T10:46:12Z] #238 attempt=1/2 status=200 1.211s url=https://www.myfonts.com/products/rustra-regular-rustra-1169095
+[2026-06-18T10:46:13Z] #239 attempt=1/2 status=200 0.382s url=https://www.myfonts.com/collections/rustra-font-noiseride-studio/
+[2026-06-18T10:46:14Z] #240 attempt=1/2 status=200 0.303s url=https://www.myfonts.com/products/regular-clister-1169140
+[2026-06-18T10:46:14Z] #241 attempt=1/2 status=200 0.282s url=https://www.myfonts.com/collections/clister-font-vadova-std/
+[2026-06-18T10:46:15Z] #242 attempt=1/2 status=200 0.330s url=https://www.myfonts.com/products/regular-zfvacation-1169157
+[2026-06-18T10:46:15Z] #243 attempt=1/2 status=429 0.042s url=https://www.myfonts.com/collections/zfvacation-font-zoofont/
+[2026-06-18T10:46:17Z] #244 attempt=2/2 status=200 0.367s url=https://www.myfonts.com/collections/zfvacation-font-zoofont/
+[2026-06-18T10:46:19Z] #245 attempt=1/6 status=200 1.102s url=https://www.myfonts.com/products.json?limit=100&page=8
+[2026-06-18T10:46:20Z] #246 attempt=1/2 status=200 0.419s url=https://www.myfonts.com/products/regular-mogab-1169159
+[2026-06-18T10:46:21Z] #247 attempt=1/2 status=200 0.506s url=https://www.myfonts.com/collections/mogab-font-rezastudio/
+[2026-06-18T10:46:21Z] #248 attempt=1/2 status=200 0.447s url=https://www.myfonts.com/products/kenviel-kenviel-1169114
+[2026-06-18T10:46:22Z] #249 attempt=1/2 status=200 0.535s url=https://www.myfonts.com/collections/kenviel-font-qiubare-studio/
+[2026-06-18T10:46:23Z] #250 attempt=1/2 status=200 0.355s url=https://www.myfonts.com/products/regular-thunder-punch-1169158
+[2026-06-18T10:46:23Z] #251 attempt=1/2 status=200 0.294s url=https://www.myfonts.com/collections/thunder-punch-font-vadova-std/
+[2026-06-18T10:46:24Z] #252 attempt=1/2 status=200 0.454s url=https://www.myfonts.com/products/regular-marella-1165820
+[2026-06-18T10:46:24Z] #253 attempt=1/2 status=429 0.040s url=https://www.myfonts.com/collections/marella-font-la-goupil/
+[2026-06-18T10:46:27Z] #254 attempt=2/2 status=200 0.859s url=https://www.myfonts.com/collections/marella-font-la-goupil/
+[2026-06-18T10:46:28Z] #255 attempt=1/2 status=200 0.417s url=https://www.myfonts.com/products/regular-graurinko-1169141
+[2026-06-18T10:46:29Z] #256 attempt=1/2 status=200 0.414s url=https://www.myfonts.com/collections/graurinko-font-vadova-std/
+[2026-06-18T10:46:29Z] #257 attempt=1/2 status=200 0.312s url=https://www.myfonts.com/products/regular-bravemont-1169146
+[2026-06-18T10:46:30Z] #258 attempt=1/2 status=200 0.474s url=https://www.myfonts.com/collections/bravemont-font-vadova-std/
+[2026-06-18T10:46:31Z] #259 attempt=1/2 status=200 0.412s url=https://www.myfonts.com/products/regular-yorkyra-1169138
+[2026-06-18T10:46:31Z] #260 attempt=1/2 status=200 0.662s url=https://www.myfonts.com/collections/yorkyra-font-vadova-std/
+[2026-06-18T10:46:32Z] #261 attempt=1/2 status=200 0.270s url=https://www.myfonts.com/products/regular-gasben-1169107
+[2026-06-18T10:46:32Z] #262 attempt=1/2 status=429 0.036s url=https://www.myfonts.com/collections/gasben-font-solutype/
+[2026-06-18T10:46:35Z] #263 attempt=2/2 status=200 0.344s url=https://www.myfonts.com/collections/gasben-font-solutype/
+[2026-06-18T10:46:36Z] #264 attempt=1/2 status=200 0.504s url=https://www.myfonts.com/products/regular-gotjack-1169129
+[2026-06-18T10:46:36Z] #265 attempt=1/2 status=200 0.389s url=https://www.myfonts.com/collections/gotjack-font-konstantinestudio/
+[2026-06-18T10:46:37Z] #266 attempt=1/2 status=200 0.424s url=https://www.myfonts.com/products/onlysans-complete-family-package-1169058
+[2026-06-18T10:46:38Z] #267 attempt=1/2 status=200 0.962s url=https://www.myfonts.com/collections/onlysans-font-ismanayuda/
+[2026-06-18T10:46:39Z] #268 attempt=1/2 status=200 0.331s url=https://www.myfonts.com/products/hs-dream-complete-family-package-1169085
+[2026-06-18T10:46:40Z] #269 attempt=1/2 status=200 0.788s url=https://www.myfonts.com/collections/hs-dream-font-hiba-studio/
+[2026-06-18T10:46:40Z] #270 attempt=1/2 status=200 0.306s url=https://www.myfonts.com/products/gouthals-palmetto-complete-family-package-1059770
+[2026-06-18T10:46:41Z] #271 attempt=1/2 status=429 0.048s url=https://www.myfonts.com/collections/gouthals-palmetto-font-letterena-studios/
+[2026-06-18T10:46:43Z] #272 attempt=2/2 status=200 0.446s url=https://www.myfonts.com/collections/gouthals-palmetto-font-letterena-studios/
+[2026-06-18T10:46:44Z] #273 attempt=1/2 status=200 0.449s url=https://www.myfonts.com/products/hatheyrose-complete-family-package-1055474
+[2026-06-18T10:46:45Z] #274 attempt=1/2 status=200 0.308s url=https://www.myfonts.com/collections/hatheyrose-font-letterena-studios/
+[2026-06-18T10:46:45Z] #275 attempt=1/2 status=200 0.376s url=https://www.myfonts.com/products/xbold-m-hei-hk-1072924
+[2026-06-18T10:46:46Z] #276 attempt=1/2 status=200 0.189s url=https://www.myfonts.com/collections/m-hei-hk-font-monotype-hk/
+[2026-06-18T10:46:47Z] #277 attempt=1/2 status=200 0.465s url=https://www.myfonts.com/products/ziboulateur-pro-complete-family-package-1169032
+[2026-06-18T10:46:47Z] #278 attempt=1/2 status=429 0.039s url=https://www.myfonts.com/collections/ziboulateur-pro-font-hanoded/
+[2026-06-18T10:46:50Z] #279 attempt=2/2 status=200 0.532s url=https://www.myfonts.com/collections/ziboulateur-pro-font-hanoded/
+[2026-06-18T10:46:50Z] #280 attempt=1/2 status=200 0.414s url=https://www.myfonts.com/products/kunze-pro-complete-family-package-1169035
+[2026-06-18T10:46:51Z] #281 attempt=1/2 status=200 0.682s url=https://www.myfonts.com/collections/kunze-pro-font-hanoded/
+[2026-06-18T10:46:52Z] #282 attempt=1/2 status=200 0.351s url=https://www.myfonts.com/products/take-the-money-pro-complete-family-package-1169027
+[2026-06-18T10:46:52Z] #283 attempt=1/2 status=200 0.381s url=https://www.myfonts.com/collections/take-the-money-pro-font-hanoded/
+[2026-06-18T10:46:53Z] #284 attempt=1/2 status=200 0.392s url=https://www.myfonts.com/products/italic-bremlin-1169057
+[2026-06-18T10:46:53Z] #285 attempt=1/2 status=429 0.049s url=https://www.myfonts.com/collections/bremlin-font-grezline-studio/
+[2026-06-18T10:46:56Z] #286 attempt=2/2 status=200 0.431s url=https://www.myfonts.com/collections/bremlin-font-grezline-studio/
+[2026-06-18T10:46:57Z] #287 attempt=1/2 status=200 0.759s url=https://www.myfonts.com/products/novel-display-basic-pack-package-1163540
+[2026-06-18T10:46:59Z] #288 attempt=1/2 status=200 1.319s url=https://www.myfonts.com/collections/novel-display-font-atlasfontfoundry/
+[2026-06-18T10:47:00Z] #289 attempt=1/2 status=200 0.503s url=https://www.myfonts.com/products/black-nebraska-variable-1165588
+[2026-06-18T10:47:00Z] #290 attempt=1/2 status=200 0.400s url=https://www.myfonts.com/collections/nebraska-variable-font-typeberry/
+[2026-06-18T10:47:01Z] #291 attempt=1/2 status=200 0.521s url=https://www.myfonts.com/products/light-boba-variable-1165583
+[2026-06-18T10:47:02Z] #292 attempt=1/2 status=200 0.555s url=https://www.myfonts.com/collections/boba-variable-font-typeberry/
+[2026-06-18T10:47:03Z] #293 attempt=1/2 status=200 0.320s url=https://www.myfonts.com/products/extra-black-krause-variable-1165582
+[2026-06-18T10:47:03Z] #294 attempt=1/2 status=200 0.316s url=https://www.myfonts.com/collections/krause-variable-font-typeberry/
+[2026-06-18T10:47:04Z] #295 attempt=1/2 status=200 0.384s url=https://www.myfonts.com/products/magical-electro-complete-family-package-1077252
+[2026-06-18T10:47:04Z] #296 attempt=1/2 status=200 0.348s url=https://www.myfonts.com/collections/magical-electro-font-letterena-studios/
+[2026-06-18T10:47:05Z] #297 attempt=1/2 status=429 0.033s url=https://www.myfonts.com/products/skater-umka-complete-family-package-1168732
+[2026-06-18T10:47:08Z] #298 attempt=2/2 status=200 0.830s url=https://www.myfonts.com/products/skater-umka-complete-family-package-1168732
+[2026-06-18T10:47:09Z] #299 attempt=1/2 status=200 1.073s url=https://www.myfonts.com/collections/skater-umka-font-alpercakici/
+[2026-06-18T10:47:11Z] #300 attempt=1/6 status=200 0.910s url=https://www.myfonts.com/products.json?limit=100&page=9
+[2026-06-18T10:47:11Z] #301 attempt=1/2 status=200 0.312s url=https://www.myfonts.com/products/grimooza-drippin-complete-family-package-1168402
+[2026-06-18T10:47:12Z] #302 attempt=1/2 status=200 0.413s url=https://www.myfonts.com/collections/grimooza-drippin-font-mei-suseno/
+[2026-06-18T10:47:12Z] #303 attempt=1/2 status=200 0.314s url=https://www.myfonts.com/products/van-marigella-complete-family-package-1168323
+[2026-06-18T10:47:13Z] #304 attempt=1/2 status=200 0.599s url=https://www.myfonts.com/collections/van-marigella-font-denustudio/
+[2026-06-18T10:47:14Z] #305 attempt=1/2 status=200 0.408s url=https://www.myfonts.com/products/veloster-complete-family-package-1168099
+[2026-06-18T10:47:15Z] #306 attempt=1/2 status=200 0.418s url=https://www.myfonts.com/collections/veloster-font-vermilione/
+[2026-06-18T10:47:16Z] #307 attempt=1/2 status=200 0.625s url=https://www.myfonts.com/products/yangko-rounded-package-1168372
+[2026-06-18T10:47:17Z] #308 attempt=1/2 status=200 0.954s url=https://www.myfonts.com/collections/yangko-font-sekyra-lab/
+[2026-06-18T10:47:17Z] #309 attempt=1/2 status=200 0.304s url=https://www.myfonts.com/products/short-hype-complete-family-package-1168320
+[2026-06-18T10:47:18Z] #310 attempt=1/2 status=200 0.616s url=https://www.myfonts.com/collections/short-hype-font-sarid-ezra/
+[2026-06-18T10:47:19Z] #311 attempt=1/2 status=200 0.321s url=https://www.myfonts.com/products/wistallion-complete-family-package-1168373
+[2026-06-18T10:47:20Z] #312 attempt=1/2 status=200 0.430s url=https://www.myfonts.com/collections/wistallion-font-tini-fitriani/
+[2026-06-18T10:47:20Z] #313 attempt=1/2 status=200 0.274s url=https://www.myfonts.com/products/morablu-complete-family-package-1168688
+[2026-06-18T10:47:21Z] #314 attempt=1/2 status=200 0.674s url=https://www.myfonts.com/collections/morablu-font-timelesstype-studio/
+[2026-06-18T10:47:22Z] #315 attempt=1/2 status=200 0.862s url=https://www.myfonts.com/products/modern-sans-duo-package-1168729
+[2026-06-18T10:47:23Z] #316 attempt=1/2 status=404 0.190s url=https://www.myfonts.com/collections/modern-sans-duo-font-fontop
+[2026-06-18T10:47:23Z] #317 attempt=1/2 status=200 0.479s url=https://www.myfonts.com/products/alenor-complete-family-package-1168399
+[2026-06-18T10:47:24Z] #318 attempt=1/2 status=200 0.460s url=https://www.myfonts.com/collections/alenor-font-bimaksara/
+[2026-06-18T10:47:25Z] #319 attempt=1/2 status=200 0.399s url=https://www.myfonts.com/products/churasi-complete-family-package-1168696
+[2026-06-18T10:47:25Z] #320 attempt=1/2 status=200 0.604s url=https://www.myfonts.com/collections/churasi-font-font-liner/
+[2026-06-18T10:47:26Z] #321 attempt=1/2 status=200 0.442s url=https://www.myfonts.com/products/lsmolike-complete-family-package-1168317
+[2026-06-18T10:47:27Z] #322 attempt=1/2 status=200 0.431s url=https://www.myfonts.com/collections/lsmolike-font-letternesia-studio/
+[2026-06-18T10:47:27Z] #323 attempt=1/2 status=200 0.368s url=https://www.myfonts.com/products/ligra-complete-family-package-1168683
+[2026-06-18T10:47:28Z] #324 attempt=1/2 status=200 0.372s url=https://www.myfonts.com/collections/ligra-font-afkari-studio/
+[2026-06-18T10:47:29Z] #325 attempt=1/2 status=200 0.582s url=https://www.myfonts.com/products/sf-alghraa-complete-family-package-1168392
+[2026-06-18T10:47:30Z] #326 attempt=1/2 status=200 0.552s url=https://www.myfonts.com/collections/sf-alghraa-font-sultan-fonts/
+[2026-06-18T10:47:30Z] #327 attempt=1/2 status=200 0.400s url=https://www.myfonts.com/products/baik-complete-family-package-1168308
+[2026-06-18T10:47:31Z] #328 attempt=1/2 status=200 0.726s url=https://www.myfonts.com/collections/baik-font-zaain-type/
+[2026-06-18T10:47:32Z] #329 attempt=1/2 status=200 0.298s url=https://www.myfonts.com/products/spidol-marker-complete-family-package-1168664
+[2026-06-18T10:47:33Z] #330 attempt=1/2 status=200 0.421s url=https://www.myfonts.com/collections/spidol-marker-font-zeenesia-studio/
+[2026-06-18T10:47:33Z] #331 attempt=1/2 status=200 0.290s url=https://www.myfonts.com/products/funny-dreams-complete-family-package-1168679
+[2026-06-18T10:47:34Z] #332 attempt=1/2 status=200 0.493s url=https://www.myfonts.com/collections/funny-dreams-font-struggle-studio/
+[2026-06-18T10:47:35Z] #333 attempt=1/2 status=200 0.444s url=https://www.myfonts.com/products/politano-script-complete-family-package-1168387
+[2026-06-18T10:47:35Z] #334 attempt=1/2 status=200 0.362s url=https://www.myfonts.com/collections/politano-script-font-letterfreshstudio/
+[2026-06-18T10:47:36Z] #335 attempt=1/2 status=200 0.398s url=https://www.myfonts.com/products/old-kitchen-complete-family-package-1168715
+[2026-06-18T10:47:36Z] #336 attempt=1/2 status=429 0.032s url=https://www.myfonts.com/collections/old-kitchen-font-angin-studio/
+[2026-06-18T10:47:38Z] #337 attempt=2/2 status=429 0.083s url=https://www.myfonts.com/collections/old-kitchen-font-angin-studio/
+[2026-06-18T10:47:43Z] max_retries_exhausted url=https://www.myfonts.com/collections/old-kitchen-font-angin-studio/
+[2026-06-18T10:47:44Z] #338 attempt=1/2 status=200 0.484s url=https://www.myfonts.com/products/gredibel-complete-family-package-1168672
+[2026-06-18T10:47:45Z] #339 attempt=1/2 status=200 0.436s url=https://www.myfonts.com/collections/gredibel-font-rafis-type/
+[2026-06-18T10:47:45Z] #340 attempt=1/2 status=200 0.285s url=https://www.myfonts.com/products/nitrovibes-complete-family-package-1168305
+[2026-06-18T10:47:46Z] #341 attempt=1/2 status=200 0.367s url=https://www.myfonts.com/collections/nitrovibes-font-rahagita-type/
+[2026-06-18T10:47:47Z] #342 attempt=1/2 status=200 0.421s url=https://www.myfonts.com/products/toasted-avenue-complete-family-package-1168381
+[2026-06-18T10:47:47Z] #343 attempt=1/2 status=200 0.376s url=https://www.myfonts.com/collections/toasted-avenue-font-littlehand/
+[2026-06-18T10:47:48Z] #344 attempt=1/2 status=200 0.364s url=https://www.myfonts.com/products/finytaels-complete-family-package-1168640
+[2026-06-18T10:47:49Z] #345 attempt=1/2 status=200 0.499s url=https://www.myfonts.com/collections/finytaels-font-tini-fitriani/
+[2026-06-18T10:47:49Z] #346 attempt=1/2 status=200 0.337s url=https://www.myfonts.com/products/trt-epic-dope-complete-family-package-1168339
+[2026-06-18T10:47:50Z] #347 attempt=1/2 status=200 0.367s url=https://www.myfonts.com/collections/trt-epic-dope-font-true-type-lab/
+[2026-06-18T10:47:51Z] #348 attempt=1/2 status=200 0.365s url=https://www.myfonts.com/products/veltcon-complete-family-package-1168343
+[2026-06-18T10:47:51Z] #349 attempt=1/2 status=200 0.407s url=https://www.myfonts.com/collections/veltcon-font-artisan-themes/
+[2026-06-18T10:47:52Z] #350 attempt=1/2 status=200 0.416s url=https://www.myfonts.com/products/mezicola-complete-family-package-1168711
+[2026-06-18T10:47:53Z] #351 attempt=1/2 status=200 0.680s url=https://www.myfonts.com/collections/mezicola-font-hishand-studio/
+[2026-06-18T10:47:54Z] #352 attempt=1/2 status=200 0.396s url=https://www.myfonts.com/products/forluten-complete-family-package-1168291
+[2026-06-18T10:47:54Z] #353 attempt=1/2 status=200 0.694s url=https://www.myfonts.com/collections/forluten-font-alpha-bento/
+[2026-06-18T10:47:55Z] #354 attempt=1/2 status=200 0.340s url=https://www.myfonts.com/products/rantona-complete-family-package-1168567
+[2026-06-18T10:47:56Z] #355 attempt=1/2 status=200 0.336s url=https://www.myfonts.com/collections/rantona-font-tini-fitriani/
+[2026-06-18T10:47:56Z] #356 attempt=1/2 status=200 0.312s url=https://www.myfonts.com/products/bring-vacation-complete-family-package-1168311
+[2026-06-18T10:47:57Z] #357 attempt=1/2 status=200 0.489s url=https://www.myfonts.com/collections/bring-vacation-font-lettertype-studio/
+[2026-06-18T10:47:57Z] #358 attempt=1/2 status=429 0.035s url=https://www.myfonts.com/products/ashetta-complete-family-package-1168699
+[2026-06-18T10:48:00Z] #359 attempt=2/2 status=429 0.142s url=https://www.myfonts.com/products/ashetta-complete-family-package-1168699
+[2026-06-18T10:48:05Z] max_retries_exhausted url=https://www.myfonts.com/products/ashetta-complete-family-package-1168699
+[2026-06-18T10:48:05Z] #360 attempt=1/2 status=200 0.571s url=https://www.myfonts.com/collections/ashetta-font-romie-creative
+[2026-06-18T10:48:06Z] #361 attempt=1/2 status=200 0.382s url=https://www.myfonts.com/products/dh-atilras-complete-family-package-1168330
+[2026-06-18T10:48:07Z] #362 attempt=1/2 status=200 0.481s url=https://www.myfonts.com/collections/dh-atilras-font-ahmad-jamaludin/
+[2026-06-18T10:48:09Z] #363 attempt=1/2 status=200 1.452s url=https://www.myfonts.com/products/selnora-complete-family-package-1168106
+[2026-06-18T10:48:11Z] #364 attempt=1/2 status=200 2.269s url=https://www.myfonts.com/collections/selnora-font-nia-typework/
+[2026-06-18T10:48:13Z] #365 attempt=1/2 status=200 0.923s url=https://www.myfonts.com/products/marlent-complete-family-package-1168566
+[2026-06-18T10:48:15Z] #366 attempt=1/2 status=200 1.479s url=https://www.myfonts.com/collections/marlent-font-stripes-studio/
+[2026-06-18T10:48:16Z] #367 attempt=1/2 status=200 0.502s url=https://www.myfonts.com/products/valdavia-complete-family-package-1168563
+[2026-06-18T10:48:16Z] #368 attempt=1/2 status=200 0.414s url=https://www.myfonts.com/collections/valdavia-font-mevstory-studio/
+[2026-06-18T10:48:17Z] #369 attempt=1/2 status=200 0.371s url=https://www.myfonts.com/products/condor-heroes-complete-family-package-1168693
+[2026-06-18T10:48:18Z] #370 attempt=1/2 status=200 0.509s url=https://www.myfonts.com/collections/condor-heroes-font-dicky-syafaat/
+[2026-06-18T10:48:19Z] #371 attempt=1/2 status=200 0.794s url=https://www.myfonts.com/products/anolera-complete-family-package-1168103
+[2026-06-18T10:48:20Z] #372 attempt=1/2 status=200 0.673s url=https://www.myfonts.com/collections/anolera-font-font-liner/
+[2026-06-18T10:48:21Z] #373 attempt=1/2 status=200 0.834s url=https://www.myfonts.com/products/golden-vogue-complete-family-package-1168326
+[2026-06-18T10:48:22Z] #374 attempt=1/2 status=200 0.381s url=https://www.myfonts.com/collections/golden-vogue-font-kangfont-studio/
+[2026-06-18T10:48:22Z] #375 attempt=1/2 status=200 0.476s url=https://www.myfonts.com/products/pixobay-complete-family-package-1167641
+[2026-06-18T10:48:23Z] #376 attempt=1/2 status=200 0.901s url=https://www.myfonts.com/collections/pixobay-font-alpercakici/
+[2026-06-18T10:48:24Z] #377 attempt=1/2 status=200 0.317s url=https://www.myfonts.com/products/regular-garpit-1168405
+[2026-06-18T10:48:25Z] #378 attempt=1/2 status=200 0.274s url=https://www.myfonts.com/collections/garpit-font-pekotype/
+[2026-06-18T10:48:25Z] #379 attempt=1/2 status=200 0.409s url=https://www.myfonts.com/products/regular-novoid-1168721
+[2026-06-18T10:48:26Z] #380 attempt=1/2 status=200 0.337s url=https://www.myfonts.com/collections/novoid-font-vadova-std/
+[2026-06-18T10:48:26Z] #381 attempt=1/2 status=200 0.314s url=https://www.myfonts.com/products/regular-dashcore-1168720
+[2026-06-18T10:48:27Z] #382 attempt=1/2 status=200 0.344s url=https://www.myfonts.com/collections/dashcore-font-vadova-std/
+[2026-06-18T10:48:28Z] #383 attempt=1/2 status=200 0.498s url=https://www.myfonts.com/products/regular-aeromatch-1168719
+[2026-06-18T10:48:29Z] #384 attempt=1/2 status=200 0.604s url=https://www.myfonts.com/collections/aeromatch-font-vadova-std/
+[2026-06-18T10:48:29Z] #385 attempt=1/2 status=200 0.481s url=https://www.myfonts.com/products/regular-qedrio-1168677
+[2026-06-18T10:48:30Z] #386 attempt=1/2 status=200 0.346s url=https://www.myfonts.com/collections/qedrio-font-hasnat-studio/
+[2026-06-18T10:48:31Z] #387 attempt=1/2 status=200 0.247s url=https://www.myfonts.com/products/regular-alchosti-1168678
+[2026-06-18T10:48:31Z] #388 attempt=1/2 status=200 0.524s url=https://www.myfonts.com/collections/alchosti-font-hanzel-space/
+[2026-06-18T10:48:33Z] #389 attempt=1/6 status=200 0.709s url=https://www.myfonts.com/products.json?limit=100&page=10
+[2026-06-18T10:48:33Z] #390 attempt=1/2 status=200 0.426s url=https://www.myfonts.com/products/regular-saklisen-1168316
+[2026-06-18T10:48:34Z] #391 attempt=1/2 status=200 0.299s url=https://www.myfonts.com/collections/saklisen-font-sealoung/
+[2026-06-18T10:48:34Z] #392 attempt=1/2 status=200 0.286s url=https://www.myfonts.com/products/regular-virelle-1168315
+[2026-06-18T10:48:35Z] #393 attempt=1/2 status=200 0.292s url=https://www.myfonts.com/collections/virelle-font-groenstudio/
+[2026-06-18T10:48:35Z] #394 attempt=1/2 status=200 0.295s url=https://www.myfonts.com/products/baner-regular-baner-1168667
+[2026-06-18T10:48:36Z] #395 attempt=1/2 status=200 0.382s url=https://www.myfonts.com/collections/baner-font-maikohatta/
+[2026-06-18T10:48:37Z] #396 attempt=1/2 status=200 0.267s url=https://www.myfonts.com/products/regular-ortico-1168562
+[2026-06-18T10:48:37Z] #397 attempt=1/2 status=200 0.478s url=https://www.myfonts.com/collections/ortico-font-rasio-studio/
+[2026-06-18T10:48:38Z] #398 attempt=1/2 status=200 0.423s url=https://www.myfonts.com/products/regular-mltp-archella-pezatte-1168314
+[2026-06-18T10:48:39Z] #399 attempt=1/2 status=200 0.443s url=https://www.myfonts.com/collections/mltp-archella-pezatte-font-multype-studio/
+[2026-06-18T10:48:39Z] #400 attempt=1/2 status=200 0.278s url=https://www.myfonts.com/products/regular-gorbita-1168561
+[2026-06-18T10:48:39Z] #401 attempt=1/2 status=429 0.033s url=https://www.myfonts.com/collections/gorbita-font-vadova-std/
+[2026-06-18T10:48:42Z] #402 attempt=2/2 status=429 0.178s url=https://www.myfonts.com/collections/gorbita-font-vadova-std/
+[2026-06-18T10:48:47Z] max_retries_exhausted url=https://www.myfonts.com/collections/gorbita-font-vadova-std/
+[2026-06-18T10:48:47Z] #403 attempt=1/2 status=404 0.334s url=https://www.myfonts.com/collections/regular-gorbita-1168561-font-vadova-std
+[2026-06-18T10:48:48Z] #404 attempt=1/2 status=200 0.310s url=https://www.myfonts.com/products/regular-asterion-1168559
+[2026-06-18T10:48:49Z] #405 attempt=1/2 status=200 0.430s url=https://www.myfonts.com/collections/asterion-font-vadova-std/
+[2026-06-18T10:48:49Z] #406 attempt=1/2 status=200 0.303s url=https://www.myfonts.com/products/regular-kenzoria-1168489
+[2026-06-18T10:48:50Z] #407 attempt=1/2 status=200 0.335s url=https://www.myfonts.com/collections/kenzoria-font-vadova-std/
+[2026-06-18T10:48:50Z] #408 attempt=1/2 status=200 0.358s url=https://www.myfonts.com/products/regular-ghalvian-1168410
+[2026-06-18T10:48:51Z] #409 attempt=1/2 status=200 0.409s url=https://www.myfonts.com/collections/ghalvian-font-vadova-std/
+[2026-06-18T10:48:52Z] #410 attempt=1/2 status=200 0.291s url=https://www.myfonts.com/products/dorma-regular-dorma-1168407
+[2026-06-18T10:48:52Z] #411 attempt=1/2 status=200 0.408s url=https://www.myfonts.com/collections/dorma-font-jaruka-creative/
+[2026-06-18T10:48:53Z] #412 attempt=1/2 status=200 0.259s url=https://www.myfonts.com/products/regular-cimlajin-1168398
+[2026-06-18T10:48:53Z] #413 attempt=1/2 status=200 0.268s url=https://www.myfonts.com/collections/cimlajin-font-basnistudio/
+[2026-06-18T10:48:54Z] #414 attempt=1/2 status=200 0.293s url=https://www.myfonts.com/products/regular-knitheart-1168397
+[2026-06-18T10:48:54Z] #415 attempt=1/2 status=200 0.304s url=https://www.myfonts.com/collections/knitheart-font-letterhanna-studio/
+[2026-06-18T10:48:55Z] #416 attempt=1/2 status=200 0.279s url=https://www.myfonts.com/products/regular-sltf-spanish-archer-1168304
+[2026-06-18T10:48:55Z] #417 attempt=1/2 status=200 0.297s url=https://www.myfonts.com/collections/sltf-spanish-archer-font-silver-stag/
+[2026-06-18T10:48:57Z] #418 attempt=1/6 status=200 0.724s url=https://www.myfonts.com/products.json?limit=100&page=11
+[2026-06-18T10:48:57Z] #419 attempt=1/2 status=200 0.270s url=https://www.myfonts.com/products/regular-bagku-fashion-1168391
+[2026-06-18T10:48:58Z] #420 attempt=1/2 status=200 0.277s url=https://www.myfonts.com/collections/bagku-fashion-font-illushvara/
+[2026-06-18T10:48:58Z] #421 attempt=1/2 status=429 0.032s url=https://www.myfonts.com/products/regular-holgiona-1168390
+[2026-06-18T10:49:01Z] #422 attempt=2/2 status=200 0.419s url=https://www.myfonts.com/products/regular-holgiona-1168390
+[2026-06-18T10:49:01Z] #423 attempt=1/2 status=200 0.457s url=https://www.myfonts.com/collections/holgiona-font-gatype/
+[2026-06-18T10:49:02Z] #424 attempt=1/2 status=200 0.376s url=https://www.myfonts.com/products/regular-anthick-1168386
+[2026-06-18T10:49:03Z] #425 attempt=1/2 status=200 0.362s url=https://www.myfonts.com/collections/anthick-font-authentype/
+[2026-06-18T10:49:03Z] #426 attempt=1/2 status=200 0.355s url=https://www.myfonts.com/products/regular-knots-1168385
+[2026-06-18T10:49:03Z] #427 attempt=1/2 status=429 0.038s url=https://www.myfonts.com/collections/knots-font-modikstype/
+[2026-06-18T10:49:06Z] #428 attempt=2/2 status=200 0.422s url=https://www.myfonts.com/collections/knots-font-modikstype/
+[2026-06-18T10:49:07Z] #429 attempt=1/2 status=200 0.321s url=https://www.myfonts.com/products/regular-mokensa-1168384
+[2026-06-18T10:49:07Z] #430 attempt=1/2 status=200 0.467s url=https://www.myfonts.com/collections/mokensa-font-yeen-studio/
+[2026-06-18T10:49:08Z] #431 attempt=1/2 status=200 0.365s url=https://www.myfonts.com/products/italic-aardappel-1168700
+[2026-06-18T10:49:09Z] #432 attempt=1/2 status=200 0.462s url=https://www.myfonts.com/collections/aardappel-font-abstrkt/
+[2026-06-18T10:49:09Z] #433 attempt=1/2 status=200 0.285s url=https://www.myfonts.com/products/regular-claymoon-serif-1168342
+[2026-06-18T10:49:10Z] #434 attempt=1/2 status=429 0.037s url=https://www.myfonts.com/collections/claymoon-serif-font-claymoon-lab-studio/
+[2026-06-18T10:49:12Z] #435 attempt=2/2 status=200 0.466s url=https://www.myfonts.com/collections/claymoon-serif-font-claymoon-lab-studio/
+[2026-06-18T10:49:13Z] #436 attempt=1/2 status=200 0.261s url=https://www.myfonts.com/products/regular-morant-chastor-1168329
+[2026-06-18T10:49:13Z] #437 attempt=1/2 status=200 0.406s url=https://www.myfonts.com/collections/morant-chastor-font-alit-design/
+[2026-06-18T10:49:14Z] #438 attempt=1/2 status=200 0.306s url=https://www.myfonts.com/products/regular-mltp-stay-field-1168692
+[2026-06-18T10:49:15Z] #439 attempt=1/2 status=200 0.364s url=https://www.myfonts.com/collections/mltp-stay-field-font-multype-studio/
+[2026-06-18T10:49:15Z] #440 attempt=1/2 status=200 0.404s url=https://www.myfonts.com/products/regular-garnick-1168691
+[2026-06-18T10:49:16Z] #441 attempt=1/2 status=429 0.028s url=https://www.myfonts.com/collections/garnick-font-sensatype-studio/
+[2026-06-18T10:49:18Z] #442 attempt=2/2 status=200 0.307s url=https://www.myfonts.com/collections/garnick-font-sensatype-studio/
+[2026-06-18T10:49:20Z] #443 attempt=1/6 status=200 0.958s url=https://www.myfonts.com/products.json?limit=100&page=12
+[2026-06-18T10:49:20Z] #444 attempt=1/2 status=200 0.380s url=https://www.myfonts.com/products/ellica-regular-ellica-1168098
+[2026-06-18T10:49:21Z] #445 attempt=1/2 status=200 0.319s url=https://www.myfonts.com/collections/ellica-font-ceeskiiw/
+[2026-06-18T10:49:21Z] #446 attempt=1/2 status=200 0.278s url=https://www.myfonts.com/products/regular-rythm-1168687
+[2026-06-18T10:49:22Z] #447 attempt=1/2 status=200 0.465s url=https://www.myfonts.com/collections/rythm-font-rahagita-type/
+[2026-06-18T10:49:23Z] #448 attempt=1/2 status=200 0.298s url=https://www.myfonts.com/products/regular-qogua-1168686
+[2026-06-18T10:49:23Z] #449 attempt=1/2 status=429 0.044s url=https://www.myfonts.com/collections/qogua-font-rahagita-type/
+[2026-06-18T10:49:26Z] #450 attempt=2/2 status=200 0.495s url=https://www.myfonts.com/collections/qogua-font-rahagita-type/
+[2026-06-18T10:49:26Z] #451 attempt=1/2 status=200 0.402s url=https://www.myfonts.com/products/regular-qeloria-script-1168290
+[2026-06-18T10:49:27Z] #452 attempt=1/2 status=200 0.581s url=https://www.myfonts.com/collections/qeloria-script-font-groenstudio/
+[2026-06-18T10:49:28Z] #453 attempt=1/2 status=200 0.316s url=https://www.myfonts.com/products/regular-rawthentic-1168682
+[2026-06-18T10:49:28Z] #454 attempt=1/2 status=200 0.298s url=https://www.myfonts.com/collections/rawthentic-font-atom/
+[2026-06-18T10:49:30Z] #455 attempt=1/6 status=200 0.821s url=https://www.myfonts.com/products.json?limit=100&page=13
+[2026-06-18T10:49:30Z] #456 attempt=1/2 status=200 0.617s url=https://www.myfonts.com/products/regular-porte-bon-heur-1168676
+[2026-06-18T10:49:31Z] #457 attempt=1/2 status=200 0.338s url=https://www.myfonts.com/collections/porte-bon-heur-font-hanzel-space/
+[2026-06-18T10:49:32Z] #458 attempt=1/2 status=200 0.312s url=https://www.myfonts.com/products/regular-emostay-1168675
+[2026-06-18T10:49:32Z] #459 attempt=1/2 status=429 0.040s url=https://www.myfonts.com/collections/emostay-font-hasnat-studio/
+[2026-06-18T10:49:34Z] #460 attempt=2/2 status=200 0.340s url=https://www.myfonts.com/collections/emostay-font-hasnat-studio/
+[2026-06-18T10:49:35Z] #461 attempt=1/2 status=200 0.495s url=https://www.myfonts.com/products/regular-therany-1168107
+[2026-06-18T10:49:36Z] #462 attempt=1/2 status=200 0.285s url=https://www.myfonts.com/collections/therany-font-font-liner/
+[2026-06-18T10:49:36Z] #463 attempt=1/2 status=200 0.366s url=https://www.myfonts.com/products/black-nova-moir-vr-1168102
+[2026-06-18T10:49:37Z] #464 attempt=1/2 status=200 0.503s url=https://www.myfonts.com/collections/nova-moir-vr-font-saemoon-creative/
+[2026-06-18T10:49:38Z] #465 attempt=1/2 status=200 0.260s url=https://www.myfonts.com/products/regular-underock-1168097
+[2026-06-18T10:49:38Z] #466 attempt=1/2 status=429 0.052s url=https://www.myfonts.com/collections/underock-font-arterfak-project/
+[2026-06-18T10:49:41Z] #467 attempt=2/2 status=200 0.437s url=https://www.myfonts.com/collections/underock-font-arterfak-project/
+[2026-06-18T10:49:41Z] #468 attempt=1/2 status=200 0.277s url=https://www.myfonts.com/products/regular-avelix-1168671
+[2026-06-18T10:49:42Z] #469 attempt=1/2 status=200 0.463s url=https://www.myfonts.com/collections/avelix-font-groenstudio/
+[2026-06-18T10:49:42Z] #470 attempt=1/2 status=200 0.284s url=https://www.myfonts.com/products/regular-nabfek-1168670
+[2026-06-18T10:49:43Z] #471 attempt=1/2 status=200 0.356s url=https://www.myfonts.com/collections/nabfek-font-hasnat-studio/
+[2026-06-18T10:49:43Z] #472 attempt=1/2 status=429 0.042s url=https://www.myfonts.com/products/regular-focliv-1168669
+[2026-06-18T10:49:46Z] #473 attempt=2/2 status=200 0.367s url=https://www.myfonts.com/products/regular-focliv-1168669
+[2026-06-18T10:49:46Z] #474 attempt=1/2 status=200 0.265s url=https://www.myfonts.com/collections/focliv-font-hasnat-studio/
+[2026-06-18T10:49:47Z] #475 attempt=1/2 status=200 0.570s url=https://www.myfonts.com/products/greatwild-regular-mc-greatwild-1168668
+[2026-06-18T10:49:48Z] #476 attempt=1/2 status=200 0.370s url=https://www.myfonts.com/collections/mc-greatwild-font-maulana-creative/
+[2026-06-18T10:49:49Z] #477 attempt=1/6 status=200 0.722s url=https://www.myfonts.com/products.json?limit=100&page=14
+[2026-06-18T10:49:50Z] #478 attempt=1/2 status=200 0.329s url=https://www.myfonts.com/products/regular-holiday-cheer-1168406
+[2026-06-18T10:49:50Z] #479 attempt=1/2 status=200 0.276s url=https://www.myfonts.com/collections/holiday-cheer-font-mabhal-studio/
+[2026-06-18T10:49:51Z] #480 attempt=1/2 status=200 1.052s url=https://www.myfonts.com/products/biarty-sans-expanded-family-package-1166538
+[2026-06-18T10:49:54Z] #481 attempt=1/2 status=200 2.378s url=https://www.myfonts.com/collections/biarty-sans-font-nollev/
+[2026-06-18T10:49:56Z] #482 attempt=1/6 status=200 0.776s url=https://www.myfonts.com/products.json?limit=100&page=15
+[2026-06-18T10:49:56Z] #483 attempt=1/2 status=200 0.339s url=https://www.myfonts.com/products/opal-bulgarian-complete-family-package-1167616
+[2026-06-18T10:49:57Z] #484 attempt=1/2 status=200 0.620s url=https://www.myfonts.com/collections/opal-bulgarian-font-context-1/
+[2026-06-18T10:49:58Z] #485 attempt=1/2 status=200 0.428s url=https://www.myfonts.com/products/nib-complete-family-package-1167613
+[2026-06-18T10:49:59Z] #486 attempt=1/2 status=200 0.555s url=https://www.myfonts.com/collections/nib-font-studio-dries-wiewauters/
+[2026-06-18T10:50:00Z] #487 attempt=1/2 status=200 0.474s url=https://www.myfonts.com/products/grimmig-variable-complete-family-package-1167597
+[2026-06-18T10:50:00Z] #488 attempt=1/2 status=200 0.602s url=https://www.myfonts.com/collections/grimmig-variable-font-schriftlabor/
+[2026-06-18T10:50:01Z] #489 attempt=1/2 status=200 0.379s url=https://www.myfonts.com/products/milwaukee-complete-family-package-1167553
+[2026-06-18T10:50:02Z] #490 attempt=1/2 status=200 0.521s url=https://www.myfonts.com/collections/vu-milwaukee-font-visualizeunited-fonts/
+[2026-06-18T10:50:03Z] #491 attempt=1/2 status=200 0.317s url=https://www.myfonts.com/products/milwaukee-jive-complete-family-package-1167550
+[2026-06-18T10:50:03Z] #492 attempt=1/2 status=200 0.662s url=https://www.myfonts.com/collections/milwaukee-jive-font-visualizeunited-fonts/
+[2026-06-18T10:50:04Z] #493 attempt=1/2 status=200 0.346s url=https://www.myfonts.com/products/base-set-package-1163807
+[2026-06-18T10:50:04Z] #494 attempt=1/2 status=429 0.043s url=https://www.myfonts.com/collections/engineerica-font-green-type/
+[2026-06-18T10:50:07Z] #495 attempt=2/2 status=200 0.751s url=https://www.myfonts.com/collections/engineerica-font-green-type/
+[2026-06-18T10:50:08Z] #496 attempt=1/2 status=200 0.367s url=https://www.myfonts.com/products/vibeitalic-milwaukee-funk-1167564
+[2026-06-18T10:50:09Z] #497 attempt=1/2 status=200 0.465s url=https://www.myfonts.com/collections/milwaukee-funk-font-visualizeunited-fonts/
+[2026-06-18T10:50:10Z] #498 attempt=1/2 status=200 0.531s url=https://www.myfonts.com/products/team-blk-italic-visual-vibes-1167603
+[2026-06-18T10:50:10Z] #499 attempt=1/2 status=200 0.544s url=https://www.myfonts.com/collections/visual-vibes-font-visualizeunited-fonts/
+[2026-06-18T10:50:12Z] #500 attempt=1/2 status=200 1.183s url=https://www.myfonts.com/products/variable-karibu-1167594
+[2026-06-18T10:50:14Z] #501 attempt=1/2 status=200 1.799s url=https://www.myfonts.com/collections/karibu-font-rohh/
+[2026-06-18T10:50:15Z] #502 attempt=1/2 status=200 0.518s url=https://www.myfonts.com/products/effimera-complete-family-package-1164616
+[2026-06-18T10:50:16Z] #503 attempt=1/2 status=200 0.599s url=https://www.myfonts.com/collections/effimera-font-resistenza/
+[2026-06-18T10:50:17Z] #504 attempt=1/6 status=200 0.808s url=https://www.myfonts.com/products.json?limit=100&page=16
+[2026-06-18T10:50:18Z] #505 attempt=1/2 status=200 0.925s url=https://www.myfonts.com/products/serif-italic-light-expanded-hattrick-1167182
+[2026-06-18T10:50:20Z] #506 attempt=1/2 status=200 1.851s url=https://www.myfonts.com/collections/hattrick-font-without-foundry/
+[2026-06-18T10:50:21Z] #507 attempt=1/2 status=200 0.288s url=https://www.myfonts.com/products/regular-bramonia-deactivated-1045986
+[2026-06-18T10:50:22Z] #508 attempt=1/2 status=200 0.263s url=https://www.myfonts.com/collections/bramonia-deactivated-font-rantau-type/
+[2026-06-18T10:50:23Z] #509 attempt=1/2 status=200 0.413s url=https://www.myfonts.com/products/italic-leonice-deactivated-1045900
+[2026-06-18T10:50:23Z] #510 attempt=1/2 status=200 0.278s url=https://www.myfonts.com/collections/leonice-deactivated-font-eotype/
+[2026-06-18T10:50:24Z] #511 attempt=1/2 status=200 0.155s url=https://www.myfonts.com/collections/leonice-deactivated-font-eotype/
+[2026-06-18T10:50:24Z] #512 attempt=1/2 status=404 0.177s url=https://www.myfonts.com/collections/italic-leonice-deactivated-1045900-font-eotype
+[2026-06-18T10:50:24Z] #513 attempt=1/2 status=200 0.323s url=https://www.myfonts.com/products/shree-bangali-1528-complete-family-package-1167245
+[2026-06-18T10:50:25Z] #514 attempt=1/2 status=200 0.469s url=https://www.myfonts.com/collections/shree-bangali-1528-font-modularinfotech/
+[2026-06-18T10:50:26Z] #515 attempt=1/2 status=200 0.517s url=https://www.myfonts.com/collections/shree-bangali-1528-font-modularinfotech/
+[2026-06-18T10:50:26Z] #516 attempt=1/2 status=429 0.037s url=https://www.myfonts.com/products/davina-flower-monogram-complete-family-package-1167536
+[2026-06-18T10:50:29Z] #517 attempt=2/2 status=200 0.417s url=https://www.myfonts.com/products/davina-flower-monogram-complete-family-package-1167536
+[2026-06-18T10:50:30Z] #518 attempt=1/2 status=200 0.449s url=https://www.myfonts.com/collections/davina-flower-monogram-font-yoga-letter/
+[2026-06-18T10:50:30Z] #519 attempt=1/2 status=200 0.429s url=https://www.myfonts.com/products/shree-bangali-1567-complete-family-package-1167265
+[2026-06-18T10:50:31Z] #520 attempt=1/2 status=200 0.473s url=https://www.myfonts.com/collections/shree-bangali-1567-font-modularinfotech/
+[2026-06-18T10:50:32Z] #521 attempt=1/2 status=200 0.680s url=https://www.myfonts.com/collections/shree-bangali-1567-font-modularinfotech/
+[2026-06-18T10:50:33Z] #522 attempt=1/2 status=200 0.484s url=https://www.myfonts.com/products/shree-bangali-5110-complete-family-package-1167306
+[2026-06-18T10:50:33Z] #523 attempt=1/2 status=200 0.503s url=https://www.myfonts.com/collections/shree-bangali-5110-font-modularinfotech/
+[2026-06-18T10:50:34Z] #524 attempt=1/2 status=200 0.450s url=https://www.myfonts.com/collections/shree-bangali-5110-font-modularinfotech/
+[2026-06-18T10:50:34Z] #525 attempt=1/2 status=429 0.043s url=https://www.myfonts.com/products/shree-bangali-0566-complete-family-package-1167222
+[2026-06-18T10:50:37Z] #526 attempt=2/2 status=200 0.318s url=https://www.myfonts.com/products/shree-bangali-0566-complete-family-package-1167222
+[2026-06-18T10:50:38Z] #527 attempt=1/2 status=200 0.604s url=https://www.myfonts.com/collections/shree-bangali-0566-font-modularinfotech/
+[2026-06-18T10:50:39Z] #528 attempt=1/2 status=200 0.483s url=https://www.myfonts.com/collections/shree-bangali-0566-font-modularinfotech/
+[2026-06-18T10:50:39Z] #529 attempt=1/2 status=200 0.445s url=https://www.myfonts.com/products/shree-bangali-1575-complete-family-package-1167204
+[2026-06-18T10:50:40Z] #530 attempt=1/2 status=200 0.700s url=https://www.myfonts.com/collections/shree-bangali-1575-font-modularinfotech/
+[2026-06-18T10:50:41Z] #531 attempt=1/2 status=200 0.165s url=https://www.myfonts.com/collections/shree-bangali-1575-font-modularinfotech/
+[2026-06-18T10:50:41Z] #532 attempt=1/2 status=200 0.384s url=https://www.myfonts.com/products/mecha-core-complete-family-package-1167187
+[2026-06-18T10:50:42Z] #533 attempt=1/2 status=429 0.082s url=https://www.myfonts.com/collections/mecha-core-font-mei-suseno/
+[2026-06-18T10:50:44Z] #534 attempt=2/2 status=200 0.591s url=https://www.myfonts.com/collections/mecha-core-font-mei-suseno/
+[2026-06-18T10:50:45Z] #535 attempt=1/2 status=200 0.354s url=https://www.myfonts.com/products/shree-bangali-5109-complete-family-package-1167254
+[2026-06-18T10:50:46Z] #536 attempt=1/2 status=200 0.451s url=https://www.myfonts.com/collections/shree-bangali-5109-font-modularinfotech/
+[2026-06-18T10:50:47Z] #537 attempt=1/2 status=200 0.506s url=https://www.myfonts.com/collections/shree-bangali-5109-font-modularinfotech/
+[2026-06-18T10:50:47Z] #538 attempt=1/2 status=200 0.512s url=https://www.myfonts.com/products/shree-bangali-5102-complete-family-package-1167251
+[2026-06-18T10:50:48Z] #539 attempt=1/2 status=200 0.394s url=https://www.myfonts.com/collections/shree-bangali-5102-font-modularinfotech/
+[2026-06-18T10:50:49Z] #540 attempt=1/2 status=200 0.405s url=https://www.myfonts.com/collections/shree-bangali-5102-font-modularinfotech/
+[2026-06-18T10:50:49Z] #541 attempt=1/2 status=429 0.028s url=https://www.myfonts.com/products/shree-bangali-0560-complete-family-package-1167213
+[2026-06-18T10:50:52Z] #542 attempt=2/2 status=200 0.417s url=https://www.myfonts.com/products/shree-bangali-0560-complete-family-package-1167213
+[2026-06-18T10:50:52Z] #543 attempt=1/2 status=200 0.368s url=https://www.myfonts.com/collections/shree-bangali-0560-font-modularinfotech/
+[2026-06-18T10:50:53Z] #544 attempt=1/2 status=200 0.191s url=https://www.myfonts.com/collections/shree-bangali-0560-font-modularinfotech/
+[2026-06-18T10:50:53Z] #545 attempt=1/2 status=200 0.290s url=https://www.myfonts.com/products/shree-bangali-1579-complete-family-package-1167195
+[2026-06-18T10:50:54Z] #546 attempt=1/2 status=200 0.434s url=https://www.myfonts.com/collections/shree-bangali-1579-font-modularinfotech/
+[2026-06-18T10:50:54Z] #547 attempt=1/2 status=429 0.027s url=https://www.myfonts.com/collections/shree-bangali-1579-font-modularinfotech/
+[2026-06-18T10:50:57Z] #548 attempt=2/2 status=200 0.493s url=https://www.myfonts.com/collections/shree-bangali-1579-font-modularinfotech/
+[2026-06-18T10:50:57Z] #549 attempt=1/2 status=200 0.345s url=https://www.myfonts.com/products/shree-bangali-5138-complete-family-package-1167290
+[2026-06-18T10:50:58Z] #550 attempt=1/2 status=200 0.594s url=https://www.myfonts.com/collections/shree-bangali-5138-font-modularinfotech/
+[2026-06-18T10:50:59Z] #551 attempt=1/2 status=200 0.290s url=https://www.myfonts.com/products/shree-bangali-5126-complete-family-package-1167201
+[2026-06-18T10:51:00Z] #552 attempt=1/2 status=200 0.614s url=https://www.myfonts.com/collections/shree-bangali-5126-font-modularinfotech/
+[2026-06-18T10:51:00Z] #553 attempt=1/2 status=200 0.158s url=https://www.myfonts.com/collections/shree-bangali-5126-font-modularinfotech/
+[2026-06-18T10:51:00Z] #554 attempt=1/2 status=429 0.034s url=https://www.myfonts.com/products/shree-bangali-5119-complete-family-package-1167192
+[2026-06-18T10:51:03Z] #555 attempt=2/2 status=200 0.541s url=https://www.myfonts.com/products/shree-bangali-5119-complete-family-package-1167192
+[2026-06-18T10:51:04Z] #556 attempt=1/2 status=200 0.512s url=https://www.myfonts.com/collections/shree-bangali-5119-font-modularinfotech/
+[2026-06-18T10:51:05Z] #557 attempt=1/2 status=200 0.365s url=https://www.myfonts.com/collections/shree-bangali-5119-font-modularinfotech/
+[2026-06-18T10:51:05Z] #558 attempt=1/2 status=200 0.435s url=https://www.myfonts.com/products/shree-bangali-0598-complete-family-package-1167283
+[2026-06-18T10:51:06Z] #559 attempt=1/2 status=200 0.508s url=https://www.myfonts.com/collections/shree-bangali-0598-font-modularinfotech/
+[2026-06-18T10:51:07Z] #560 attempt=1/2 status=200 0.332s url=https://www.myfonts.com/products/nicholas-sandero-complete-family-package-1167486
+[2026-06-18T10:51:07Z] #561 attempt=1/2 status=200 0.442s url=https://www.myfonts.com/collections/nicholas-sandero-font-sixtype-foundry/
+[2026-06-18T10:51:08Z] #562 attempt=1/2 status=200 0.417s url=https://www.myfonts.com/products/shree-bangali-6131-complete-family-package-1167271
+[2026-06-18T10:51:08Z] #563 attempt=1/2 status=429 0.050s url=https://www.myfonts.com/collections/shree-bangali-6131-font-modularinfotech/
+[2026-06-18T10:51:11Z] #564 attempt=2/2 status=200 0.461s url=https://www.myfonts.com/collections/shree-bangali-6131-font-modularinfotech/
+[2026-06-18T10:51:12Z] #565 attempt=1/2 status=200 0.349s url=https://www.myfonts.com/products/shree-bangali-1502-complete-family-package-1167309
+[2026-06-18T10:51:12Z] #566 attempt=1/2 status=200 0.467s url=https://www.myfonts.com/collections/shree-bangali-1502-font-modularinfotech/
+[2026-06-18T10:51:13Z] #567 attempt=1/2 status=200 0.408s url=https://www.myfonts.com/collections/shree-bangali-1502-font-modularinfotech/
+[2026-06-18T10:51:14Z] #568 attempt=1/2 status=200 0.466s url=https://www.myfonts.com/products/shree-bangali-5116-complete-family-package-1167248
+[2026-06-18T10:51:14Z] #569 attempt=1/2 status=200 0.365s url=https://www.myfonts.com/collections/shree-bangali-5116-font-modularinfotech/
+[2026-06-18T10:51:15Z] #570 attempt=1/2 status=429 0.036s url=https://www.myfonts.com/collections/shree-bangali-5116-font-modularinfotech/
+[2026-06-18T10:51:17Z] #571 attempt=2/2 status=200 0.509s url=https://www.myfonts.com/collections/shree-bangali-5116-font-modularinfotech/
+[2026-06-18T10:51:18Z] #572 attempt=1/2 status=200 0.309s url=https://www.myfonts.com/products/shree-bangali-5108-complete-family-package-1167268
+[2026-06-18T10:51:19Z] #573 attempt=1/2 status=200 0.362s url=https://www.myfonts.com/collections/shree-bangali-5108-font-modularinfotech/
+[2026-06-18T10:51:19Z] #574 attempt=1/2 status=200 0.143s url=https://www.myfonts.com/collections/shree-bangali-5108-font-modularinfotech/
+[2026-06-18T10:51:20Z] #575 attempt=1/2 status=200 0.325s url=https://www.myfonts.com/products/wild-scribble-script-complete-family-package-1167540
+[2026-06-18T10:51:20Z] #576 attempt=1/2 status=429 0.043s url=https://www.myfonts.com/collections/wild-scribble-script-font-fontysia/
+[2026-06-18T10:51:23Z] #577 attempt=2/2 status=200 0.560s url=https://www.myfonts.com/collections/wild-scribble-script-font-fontysia/
+[2026-06-18T10:51:23Z] #578 attempt=1/2 status=200 0.456s url=https://www.myfonts.com/products/shree-bangali-5104-complete-family-package-1167274
+[2026-06-18T10:51:24Z] #579 attempt=1/2 status=200 0.411s url=https://www.myfonts.com/collections/shree-bangali-5104-font-modularinfotech/
+[2026-06-18T10:51:25Z] #580 attempt=1/2 status=200 0.459s url=https://www.myfonts.com/collections/shree-bangali-5104-font-modularinfotech/
+[2026-06-18T10:51:26Z] #581 attempt=1/2 status=200 0.568s url=https://www.myfonts.com/products/booster-variable-complete-family-package-1163691
+[2026-06-18T10:51:26Z] #582 attempt=1/2 status=200 0.482s url=https://www.myfonts.com/collections/booster-variable-font-blaze-type/
+[2026-06-18T10:51:28Z] #583 attempt=1/2 status=200 1.873s url=https://www.myfonts.com/products/aukim-ii-distort-complete-family-package-1166920
+[2026-06-18T10:51:32Z] #584 attempt=1/2 status=200 3.021s url=https://www.myfonts.com/collections/aukim-ii-distort-font-aukimvisuel/
+[2026-06-18T10:51:33Z] #585 attempt=1/2 status=200 0.330s url=https://www.myfonts.com/products/shree-bangali-1560-complete-family-package-1167233
+[2026-06-18T10:51:34Z] #586 attempt=1/2 status=200 0.486s url=https://www.myfonts.com/collections/shree-bangali-1560-font-modularinfotech/
+[2026-06-18T10:51:35Z] #587 attempt=1/2 status=200 0.454s url=https://www.myfonts.com/collections/shree-bangali-1560-font-modularinfotech/
+[2026-06-18T10:51:35Z] #588 attempt=1/2 status=200 0.709s url=https://www.myfonts.com/products/shree-bangali-0590-complete-family-package-1167236
+[2026-06-18T10:51:36Z] #589 attempt=1/2 status=200 0.456s url=https://www.myfonts.com/collections/shree-bangali-0590-font-modularinfotech/
+[2026-06-18T10:51:37Z] #590 attempt=1/2 status=200 0.168s url=https://www.myfonts.com/collections/shree-bangali-0590-font-modularinfotech/
+[2026-06-18T10:51:37Z] #591 attempt=1/2 status=200 0.365s url=https://www.myfonts.com/products/shree-bangali-5106-complete-family-package-1167293
+[2026-06-18T10:51:38Z] #592 attempt=1/2 status=200 0.410s url=https://www.myfonts.com/collections/shree-bangali-5106-font-modularinfotech/
+[2026-06-18T10:51:39Z] #593 attempt=1/2 status=200 0.375s url=https://www.myfonts.com/collections/shree-bangali-5106-font-modularinfotech/
+[2026-06-18T10:51:39Z] #594 attempt=1/2 status=200 0.328s url=https://www.myfonts.com/products/outr-complete-family-package-1167543
+[2026-06-18T10:51:40Z] #595 attempt=1/2 status=200 0.722s url=https://www.myfonts.com/collections/outr-font-outerend/
+[2026-06-18T10:51:41Z] #596 attempt=1/2 status=200 0.303s url=https://www.myfonts.com/products/shree-bangali-1504-complete-family-package-1167257
+[2026-06-18T10:51:42Z] #597 attempt=1/2 status=200 0.542s url=https://www.myfonts.com/collections/shree-bangali-1504-font-modularinfotech/
+[2026-06-18T10:51:43Z] #598 attempt=1/2 status=200 0.741s url=https://www.myfonts.com/collections/shree-bangali-1504-font-modularinfotech/
+[2026-06-18T10:51:43Z] #599 attempt=1/2 status=200 0.286s url=https://www.myfonts.com/products/shree-bangali-1557-complete-family-package-1167242
+[2026-06-18T10:51:44Z] #600 attempt=1/2 status=200 0.483s url=https://www.myfonts.com/collections/shree-bangali-1557-font-modularinfotech/
+[2026-06-18T10:51:44Z] #601 attempt=1/2 status=429 0.036s url=https://www.myfonts.com/collections/shree-bangali-1557-font-modularinfotech/
+[2026-06-18T10:51:47Z] #602 attempt=2/2 status=200 0.234s url=https://www.myfonts.com/collections/shree-bangali-1557-font-modularinfotech/
+[2026-06-18T10:51:47Z] #603 attempt=1/2 status=200 0.439s url=https://www.myfonts.com/products/shree-bangali-5103-complete-family-package-1167198
+[2026-06-18T10:51:48Z] #604 attempt=1/2 status=200 0.360s url=https://www.myfonts.com/collections/shree-bangali-5103-font-modularinfotech/
+[2026-06-18T10:51:48Z] #605 attempt=1/2 status=200 0.160s url=https://www.myfonts.com/collections/shree-bangali-5103-font-modularinfotech/
+[2026-06-18T10:51:49Z] #606 attempt=1/2 status=200 0.424s url=https://www.myfonts.com/products/shree-bangali-5107-complete-family-package-1167296
+[2026-06-18T10:51:49Z] #607 attempt=1/2 status=429 0.026s url=https://www.myfonts.com/collections/shree-bangali-5107-font-modularinfotech/
+[2026-06-18T10:51:52Z] #608 attempt=2/2 status=200 0.394s url=https://www.myfonts.com/collections/shree-bangali-5107-font-modularinfotech/
+[2026-06-18T10:51:52Z] #609 attempt=1/2 status=200 0.271s url=https://www.myfonts.com/collections/shree-bangali-5107-font-modularinfotech/
+[2026-06-18T10:51:53Z] #610 attempt=1/2 status=200 0.334s url=https://www.myfonts.com/products/shree-bangali-0580-complete-family-package-1167260
+[2026-06-18T10:51:54Z] #611 attempt=1/2 status=200 0.383s url=https://www.myfonts.com/collections/shree-bangali-0580-font-modularinfotech/
+[2026-06-18T10:51:54Z] #612 attempt=1/2 status=200 0.134s url=https://www.myfonts.com/collections/shree-bangali-0580-font-modularinfotech/
+[2026-06-18T10:51:54Z] #613 attempt=1/2 status=429 0.038s url=https://www.myfonts.com/products/foermality-condensed-complete-family-package-1133849
+[2026-06-18T10:51:57Z] #614 attempt=2/2 status=200 0.476s url=https://www.myfonts.com/products/foermality-condensed-complete-family-package-1133849
+[2026-06-18T10:51:58Z] #615 attempt=1/2 status=200 0.622s url=https://www.myfonts.com/collections/foermality-condensed-font-laroyba-type/
+[2026-06-18T10:51:59Z] #616 attempt=1/2 status=200 0.568s url=https://www.myfonts.com/products/the-rokvella-complete-family-package-1167489
+[2026-06-18T10:52:00Z] #617 attempt=1/2 status=200 0.942s url=https://www.myfonts.com/collections/the-rokvella-font-slex-studio/
+[2026-06-18T10:52:01Z] #618 attempt=1/2 status=200 0.608s url=https://www.myfonts.com/products/shree-bangali-0568-complete-family-package-1167239
+[2026-06-18T10:52:02Z] #619 attempt=1/2 status=200 0.738s url=https://www.myfonts.com/collections/shree-bangali-0568-font-modularinfotech/
+[2026-06-18T10:52:03Z] #620 attempt=1/2 status=200 0.371s url=https://www.myfonts.com/collections/shree-bangali-0568-font-modularinfotech/
+[2026-06-18T10:52:03Z] #621 attempt=1/2 status=200 0.386s url=https://www.myfonts.com/products/shree-bangali-1549-complete-family-package-1167225
+[2026-06-18T10:52:04Z] #622 attempt=1/2 status=200 0.473s url=https://www.myfonts.com/collections/shree-bangali-1549-font-modularinfotech/
+[2026-06-18T10:52:05Z] #623 attempt=1/2 status=200 0.604s url=https://www.myfonts.com/collections/shree-bangali-1549-font-modularinfotech/
+[2026-06-18T10:52:06Z] #624 attempt=1/2 status=200 0.450s url=https://www.myfonts.com/products/shree-bangali-1562-complete-family-package-1167210
+[2026-06-18T10:52:06Z] #625 attempt=1/2 status=200 0.426s url=https://www.myfonts.com/collections/shree-bangali-1562-font-modularinfotech/
+[2026-06-18T10:52:07Z] #626 attempt=1/2 status=429 0.039s url=https://www.myfonts.com/collections/shree-bangali-1562-font-modularinfotech/
+[2026-06-18T10:52:09Z] #627 attempt=2/2 status=200 0.563s url=https://www.myfonts.com/collections/shree-bangali-1562-font-modularinfotech/
+[2026-06-18T10:52:10Z] #628 attempt=1/2 status=200 0.284s url=https://www.myfonts.com/products/shree-bangali-0570-complete-family-package-1167230
+[2026-06-18T10:52:10Z] #629 attempt=1/2 status=200 0.361s url=https://www.myfonts.com/collections/shree-bangali-0570-font-modularinfotech/
+[2026-06-18T10:52:11Z] #630 attempt=1/2 status=200 0.547s url=https://www.myfonts.com/collections/shree-bangali-0570-font-modularinfotech/
+[2026-06-18T10:52:12Z] #631 attempt=1/2 status=200 0.411s url=https://www.myfonts.com/products/shree-bangali-1590-complete-family-package-1167279
+[2026-06-18T10:52:13Z] #632 attempt=1/2 status=200 0.421s url=https://www.myfonts.com/collections/shree-bangali-1590-font-modularinfotech/
+[2026-06-18T10:52:13Z] #633 attempt=1/2 status=200 0.520s url=https://www.myfonts.com/collections/shree-bangali-1590-font-modularinfotech/
+[2026-06-18T10:52:14Z] #634 attempt=1/2 status=429 0.033s url=https://www.myfonts.com/products/shree-bangali-0574-complete-family-package-1167299
+[2026-06-18T10:52:16Z] #635 attempt=2/2 status=200 0.372s url=https://www.myfonts.com/products/shree-bangali-0574-complete-family-package-1167299
+[2026-06-18T10:52:17Z] #636 attempt=1/2 status=200 0.701s url=https://www.myfonts.com/collections/shree-bangali-0574-font-modularinfotech/
+[2026-06-18T10:52:18Z] #637 attempt=1/2 status=200 0.408s url=https://www.myfonts.com/products/shree-bangali-1561-complete-family-package-1167207
+[2026-06-18T10:52:19Z] #638 attempt=1/2 status=200 0.389s url=https://www.myfonts.com/collections/shree-bangali-1561-font-modularinfotech/
+[2026-06-18T10:52:19Z] #639 attempt=1/2 status=200 0.380s url=https://www.myfonts.com/collections/shree-bangali-1561-font-modularinfotech/
+[2026-06-18T10:52:21Z] #640 attempt=1/6 status=200 0.744s url=https://www.myfonts.com/products.json?limit=100&page=17
+[2026-06-18T10:52:21Z] #641 attempt=1/2 status=200 0.416s url=https://www.myfonts.com/products/regular-nassbreng-1167539
+[2026-06-18T10:52:22Z] #642 attempt=1/2 status=200 0.274s url=https://www.myfonts.com/collections/nassbreng-font-sealoung/
+[2026-06-18T10:52:23Z] #643 attempt=1/6 status=200 0.902s url=https://www.myfonts.com/products.json?limit=100&page=18
+[2026-06-18T10:52:24Z] #644 attempt=1/2 status=200 0.299s url=https://www.myfonts.com/products/regular-launch-crack-1167485
+[2026-06-18T10:52:24Z] #645 attempt=1/2 status=429 0.037s url=https://www.myfonts.com/collections/launch-crack-font-nh-typestudio/
+[2026-06-18T10:52:27Z] #646 attempt=2/2 status=200 0.457s url=https://www.myfonts.com/collections/launch-crack-font-nh-typestudio/
+[2026-06-18T10:52:27Z] #647 attempt=1/2 status=200 0.276s url=https://www.myfonts.com/products/regular-pebbly-happy-1167484
+[2026-06-18T10:52:28Z] #648 attempt=1/2 status=200 0.553s url=https://www.myfonts.com/collections/pebbly-happy-font-nh-typestudio/
+[2026-06-18T10:52:29Z] #649 attempt=1/2 status=200 0.471s url=https://www.myfonts.com/products/regular-edlahk-1167535
+[2026-06-18T10:52:29Z] #650 attempt=1/2 status=200 0.460s url=https://www.myfonts.com/collections/edlahk-font-hasnat-studio/
+[2026-06-18T10:52:31Z] #651 attempt=1/6 status=200 0.751s url=https://www.myfonts.com/products.json?limit=100&page=19
+[2026-06-18T10:52:31Z] #652 attempt=1/2 status=200 0.366s url=https://www.myfonts.com/products/regular-dark-nexis-1167483
+[2026-06-18T10:52:32Z] #653 attempt=1/2 status=200 0.400s url=https://www.myfonts.com/collections/dark-nexis-font-erifqizefont/
+[2026-06-18T10:52:33Z] #654 attempt=1/6 status=429 0.042s url=https://www.myfonts.com/products.json?limit=100&page=20
+[2026-06-18T10:52:36Z] #655 attempt=2/6 status=200 0.950s url=https://www.myfonts.com/products.json?limit=100&page=20
+[2026-06-18T10:52:37Z] #656 attempt=1/2 status=200 1.006s url=https://www.myfonts.com/products/nevis-ridge-complete-family-package-1163511
+[2026-06-18T10:52:39Z] #657 attempt=1/2 status=200 1.180s url=https://www.myfonts.com/collections/nevis-ridge-font-braw-type/
+[2026-06-18T10:52:40Z] #658 attempt=1/2 status=200 0.607s url=https://www.myfonts.com/products/max-package-1167372
+[2026-06-18T10:52:41Z] #659 attempt=1/2 status=200 1.464s url=https://www.myfonts.com/collections/beround-drift-font-nicolass-fonts/
+[2026-06-18T10:52:42Z] #660 attempt=1/2 status=200 0.298s url=https://www.myfonts.com/products/kangxi-dictionary-imperial-heritage-collection-package-1167436
+[2026-06-18T10:52:43Z] #661 attempt=1/2 status=404 0.459s url=https://www.myfonts.com/collections/kangxi-dictionary-imperial-heritage-collection-font-kangxizidian
+[2026-06-18T10:52:43Z] #662 attempt=1/2 status=200 0.330s url=https://www.myfonts.com/products/herand-complete-family-package-1167392
+[2026-06-18T10:52:44Z] #663 attempt=1/2 status=200 0.769s url=https://www.myfonts.com/collections/herand-font-letterhend/
+[2026-06-18T10:52:45Z] #664 attempt=1/2 status=200 0.387s url=https://www.myfonts.com/products/sunny-scoops-complete-family-package-1167406
+[2026-06-18T10:52:45Z] #665 attempt=1/2 status=200 0.377s url=https://www.myfonts.com/collections/sunny-scoops-font-aen-creative-studio/
+[2026-06-18T10:52:46Z] #666 attempt=1/2 status=200 0.289s url=https://www.myfonts.com/products/broken-wasabi-complete-family-package-1167388
+[2026-06-18T10:52:47Z] #667 attempt=1/2 status=200 0.601s url=https://www.myfonts.com/collections/broken-wasabi-font-stylishtype-studio/
+[2026-06-18T10:52:48Z] #668 attempt=1/2 status=200 0.711s url=https://www.myfonts.com/products/wackers-complete-family-package-1167400
+[2026-06-18T10:52:49Z] #669 attempt=1/2 status=200 0.529s url=https://www.myfonts.com/collections/wackers-font-font-liner/
+[2026-06-18T10:52:49Z] #670 attempt=1/2 status=200 0.483s url=https://www.myfonts.com/products/gelsenkirchen-complete-family-package-1167409
+[2026-06-18T10:52:51Z] #671 attempt=1/2 status=200 0.842s url=https://www.myfonts.com/collections/gelsenkirchen-font-trequartista-studio/
+[2026-06-18T10:52:51Z] #672 attempt=1/2 status=200 0.282s url=https://www.myfonts.com/products/rougher-complete-family-package-1167385
+[2026-06-18T10:52:52Z] #673 attempt=1/2 status=200 0.782s url=https://www.myfonts.com/collections/rougher-font-lemonthe/
+[2026-06-18T10:52:53Z] #674 attempt=1/2 status=200 0.978s url=https://www.myfonts.com/products/landhuis-complete-family-package-1167376
+[2026-06-18T10:52:54Z] #675 attempt=1/2 status=200 0.612s url=https://www.myfonts.com/collections/landhuis-font-nasir-udin/
+[2026-06-18T10:52:55Z] #676 attempt=1/2 status=200 0.376s url=https://www.myfonts.com/products/reqaela-complete-family-package-1167315
+[2026-06-18T10:52:55Z] #677 attempt=1/2 status=429 0.064s url=https://www.myfonts.com/collections/reqaela-font-tini-fitriani/
+[2026-06-18T10:52:58Z] #678 attempt=2/2 status=200 0.544s url=https://www.myfonts.com/collections/reqaela-font-tini-fitriani/
+[2026-06-18T10:52:59Z] #679 attempt=1/2 status=200 0.333s url=https://www.myfonts.com/products/super-funky-complete-family-package-1167397
+[2026-06-18T10:52:59Z] #680 attempt=1/2 status=200 0.452s url=https://www.myfonts.com/collections/super-funky-font-tini-fitriani/
+[2026-06-18T10:53:00Z] #681 attempt=1/2 status=200 0.321s url=https://www.myfonts.com/products/wingo-complete-family-package-1167373
+[2026-06-18T10:53:01Z] #682 attempt=1/2 status=200 0.925s url=https://www.myfonts.com/collections/wingo-font-shanaf/
+[2026-06-18T10:53:02Z] #683 attempt=1/2 status=200 1.113s url=https://www.myfonts.com/products/thin-italic-spanik-1166134
+[2026-06-18T10:53:03Z] #684 attempt=1/2 status=503 0.075s url=https://www.myfonts.com/collections/spanik-font-typeberry/
+[2026-06-18T10:53:03Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:53:07Z] #685 attempt=2/2 status=200 2.049s url=https://www.myfonts.com/collections/spanik-font-typeberry/
+[2026-06-18T10:53:09Z] #686 attempt=1/6 status=200 0.898s url=https://www.myfonts.com/products.json?limit=100&page=21
+[2026-06-18T10:53:09Z] #687 attempt=1/2 status=200 0.265s url=https://www.myfonts.com/products/kangxizdt-regular-kangxi-dictionary-1167318
+[2026-06-18T10:53:10Z] #688 attempt=1/2 status=200 0.544s url=https://www.myfonts.com/collections/kangxi-dictionary-font-kangxizidian/
+[2026-06-18T10:53:11Z] #689 attempt=1/2 status=200 0.579s url=https://www.myfonts.com/products/regular-blare-1166030
+[2026-06-18T10:53:12Z] #690 attempt=1/2 status=200 0.290s url=https://www.myfonts.com/collections/blare-font-jaruka-creative/
+[2026-06-18T10:53:12Z] #691 attempt=1/2 status=200 0.390s url=https://www.myfonts.com/products/tharwatemara-regular-te-seravera0-1167313
+[2026-06-18T10:53:13Z] #692 attempt=1/2 status=200 0.374s url=https://www.myfonts.com/collections/te-seravera0-font-tharwat-emara/
+[2026-06-18T10:53:13Z] #693 attempt=1/2 status=200 0.282s url=https://www.myfonts.com/products/regular-sastoria-1166198
+[2026-06-18T10:53:14Z] #694 attempt=1/2 status=200 0.300s url=https://www.myfonts.com/collections/sastoria-font-typoraith-co/
+[2026-06-18T10:53:15Z] #695 attempt=1/2 status=200 0.333s url=https://www.myfonts.com/products/regular-blorivelle-1165983
+[2026-06-18T10:53:15Z] #696 attempt=1/2 status=200 0.305s url=https://www.myfonts.com/collections/blorivelle-font-typoraith-co/
+[2026-06-18T10:53:17Z] #697 attempt=1/6 status=200 0.931s url=https://www.myfonts.com/products.json?limit=100&page=22
+[2026-06-18T10:53:17Z] #698 attempt=1/2 status=200 0.316s url=https://www.myfonts.com/products/regular-comic-beacon-1167391
+[2026-06-18T10:53:18Z] #699 attempt=1/2 status=200 0.277s url=https://www.myfonts.com/collections/comic-beacon-font-pekotype/
+[2026-06-18T10:53:18Z] #700 attempt=1/2 status=200 0.391s url=https://www.myfonts.com/products/regular-live-this-everyday-1167412
+[2026-06-18T10:53:19Z] #701 attempt=1/2 status=429 0.047s url=https://www.myfonts.com/collections/live-this-everyday-font-bonjourtype/
+[2026-06-18T10:53:21Z] #702 attempt=2/2 status=200 0.382s url=https://www.myfonts.com/collections/live-this-everyday-font-bonjourtype/
+[2026-06-18T10:53:22Z] #703 attempt=1/2 status=200 0.389s url=https://www.myfonts.com/products/regular-cammon-1167324
+[2026-06-18T10:53:23Z] #704 attempt=1/2 status=200 0.497s url=https://www.myfonts.com/collections/cammon-font-epiclinez/
+[2026-06-18T10:53:23Z] #705 attempt=1/2 status=200 0.320s url=https://www.myfonts.com/products/regular-mango-driver-brush-1167405
+[2026-06-18T10:53:24Z] #706 attempt=1/2 status=200 0.297s url=https://www.myfonts.com/collections/mango-driver-brush-font-tebaltipis-studio/
+[2026-06-18T10:53:25Z] #707 attempt=1/2 status=200 0.610s url=https://www.myfonts.com/products/regular-armour-horse-1167396
+[2026-06-18T10:53:25Z] #708 attempt=1/2 status=429 0.039s url=https://www.myfonts.com/collections/armour-horse-font-arterfak-project/
+[2026-06-18T10:53:28Z] #709 attempt=2/2 status=200 0.606s url=https://www.myfonts.com/collections/armour-horse-font-arterfak-project/
+[2026-06-18T10:53:28Z] #710 attempt=1/2 status=200 0.486s url=https://www.myfonts.com/products/regular-shinery-loud-1167319
+[2026-06-18T10:53:29Z] #711 attempt=1/2 status=200 0.664s url=https://www.myfonts.com/collections/shinery-loud-font-alit-design/
+[2026-06-18T10:53:30Z] #712 attempt=1/2 status=200 0.359s url=https://www.myfonts.com/products/regular-hisstaz-1167395
+[2026-06-18T10:53:31Z] #713 attempt=1/2 status=200 0.450s url=https://www.myfonts.com/collections/hisstaz-font-hasnat-studio/
+[2026-06-18T10:53:31Z] #714 attempt=1/2 status=200 0.566s url=https://www.myfonts.com/products/regular-riot-audio-1167314
+[2026-06-18T10:53:32Z] #715 attempt=1/2 status=200 0.357s url=https://www.myfonts.com/collections/riot-audio-font-olivetype/
+[2026-06-18T10:53:33Z] #716 attempt=1/2 status=200 0.944s url=https://www.myfonts.com/products/the-best-font-bundle-package-678903
+[2026-06-18T10:53:34Z] #717 attempt=1/2 status=404 0.138s url=https://www.myfonts.com/collections/the-best-font-bundle-font-bosstypestudio
+[2026-06-18T10:53:34Z] #718 attempt=1/2 status=429 0.053s url=https://www.myfonts.com/products/shree-kannada-5307-complete-family-package-1165186
+[2026-06-18T10:53:37Z] #719 attempt=2/2 status=200 0.461s url=https://www.myfonts.com/products/shree-kannada-5307-complete-family-package-1165186
+[2026-06-18T10:53:38Z] #720 attempt=1/2 status=200 0.922s url=https://www.myfonts.com/collections/shree-kannada-5307-font-modularinfotech/
+[2026-06-18T10:53:38Z] #721 attempt=1/2 status=200 0.369s url=https://www.myfonts.com/collections/shree-kannada-5307-font-modularinfotech/
+[2026-06-18T10:53:39Z] #722 attempt=1/2 status=200 0.596s url=https://www.myfonts.com/products/shree-kannada-4286-complete-family-package-1165025
+[2026-06-18T10:53:40Z] #723 attempt=1/2 status=200 0.363s url=https://www.myfonts.com/collections/shree-kannada-4286-font-modularinfotech/
+[2026-06-18T10:53:41Z] #724 attempt=1/2 status=200 0.716s url=https://www.myfonts.com/collections/shree-kannada-4286-font-modularinfotech/
+[2026-06-18T10:53:42Z] #725 attempt=1/2 status=200 0.741s url=https://www.myfonts.com/products/nexon-complete-family-package-1164868
+[2026-06-18T10:53:43Z] #726 attempt=1/2 status=200 1.266s url=https://www.myfonts.com/collections/nexon-font-slex-studio/
+[2026-06-18T10:53:45Z] #727 attempt=1/2 status=200 0.662s url=https://www.myfonts.com/products/shree-kannada-4292-complete-family-package-1165265
+[2026-06-18T10:53:45Z] #728 attempt=1/2 status=200 0.428s url=https://www.myfonts.com/collections/shree-kannada-4292-font-modularinfotech/
+[2026-06-18T10:53:46Z] #729 attempt=1/2 status=200 0.650s url=https://www.myfonts.com/collections/shree-kannada-4292-font-modularinfotech/
+[2026-06-18T10:53:47Z] #730 attempt=1/2 status=200 0.452s url=https://www.myfonts.com/products/shree-kannada-3433-complete-family-package-1165232
+[2026-06-18T10:53:48Z] #731 attempt=1/2 status=200 0.485s url=https://www.myfonts.com/collections/shree-kannada-3433-font-modularinfotech/
+[2026-06-18T10:53:49Z] #732 attempt=1/2 status=200 0.766s url=https://www.myfonts.com/collections/shree-kannada-3433-font-modularinfotech/
+[2026-06-18T10:53:50Z] #733 attempt=1/2 status=200 1.272s url=https://www.myfonts.com/products/shree-kannada-4249-complete-family-package-1165215
+[2026-06-18T10:53:51Z] #734 attempt=1/2 status=200 0.462s url=https://www.myfonts.com/collections/shree-kannada-4249-font-modularinfotech/
+[2026-06-18T10:53:51Z] #735 attempt=1/2 status=200 0.135s url=https://www.myfonts.com/collections/shree-kannada-4249-font-modularinfotech/
+[2026-06-18T10:53:52Z] #736 attempt=1/2 status=200 0.323s url=https://www.myfonts.com/products/yoka-complete-family-package-1165869
+[2026-06-18T10:53:52Z] #737 attempt=1/2 status=429 0.034s url=https://www.myfonts.com/collections/yoka-font-bam-foundry/
+[2026-06-18T10:53:55Z] #738 attempt=2/2 status=200 0.447s url=https://www.myfonts.com/collections/yoka-font-bam-foundry/
+[2026-06-18T10:53:56Z] #739 attempt=1/2 status=200 0.334s url=https://www.myfonts.com/products/sillyon-sans-complete-family-package-1165514
+[2026-06-18T10:53:56Z] #740 attempt=1/2 status=200 0.345s url=https://www.myfonts.com/collections/sillyon-sans-font-unaki/
+[2026-06-18T10:53:57Z] #741 attempt=1/2 status=200 0.746s url=https://www.myfonts.com/products/poly-office-package-1143359
+[2026-06-18T10:53:58Z] #742 attempt=1/2 status=200 0.812s url=https://www.myfonts.com/collections/poly-font-schriftlabor/
+[2026-06-18T10:53:59Z] #743 attempt=1/2 status=200 0.322s url=https://www.myfonts.com/products/shree-kannada-3486-complete-family-package-1165244
+[2026-06-18T10:54:00Z] #744 attempt=1/2 status=200 0.827s url=https://www.myfonts.com/collections/shree-kannada-3486-font-modularinfotech/
+[2026-06-18T10:54:01Z] #745 attempt=1/2 status=200 0.382s url=https://www.myfonts.com/collections/shree-kannada-3486-font-modularinfotech/
+[2026-06-18T10:54:02Z] #746 attempt=1/6 status=200 0.817s url=https://www.myfonts.com/products.json?limit=100&page=23
+[2026-06-18T10:54:03Z] #747 attempt=1/2 status=200 0.472s url=https://www.myfonts.com/products/futura-futuris-extracond-set-package-1167159
+[2026-06-18T10:54:05Z] #748 attempt=1/2 status=200 1.905s url=https://www.myfonts.com/collections/futura-futuris-font-paratype/
+[2026-06-18T10:54:05Z] #749 attempt=1/2 status=200 0.338s url=https://www.myfonts.com/products/shree-kannada-3492-complete-family-package-1165132
+[2026-06-18T10:54:06Z] #750 attempt=1/2 status=200 0.506s url=https://www.myfonts.com/collections/shree-kannada-3492-font-modularinfotech/
+[2026-06-18T10:54:07Z] #751 attempt=1/2 status=200 0.408s url=https://www.myfonts.com/collections/shree-kannada-3492-font-modularinfotech/
+[2026-06-18T10:54:07Z] #752 attempt=1/2 status=200 0.261s url=https://www.myfonts.com/products/anore-of-moonila-complete-family-package-1166644
+[2026-06-18T10:54:08Z] #753 attempt=1/2 status=200 0.806s url=https://www.myfonts.com/collections/anore-of-moonila-font-super-dust/
+[2026-06-18T10:54:10Z] #754 attempt=1/2 status=200 1.049s url=https://www.myfonts.com/products/shree-kannada-4202-complete-family-package-1165268
+[2026-06-18T10:54:10Z] #755 attempt=1/2 status=200 0.418s url=https://www.myfonts.com/collections/shree-kannada-4202-font-modularinfotech/
+[2026-06-18T10:54:11Z] #756 attempt=1/2 status=200 0.493s url=https://www.myfonts.com/collections/shree-kannada-4202-font-modularinfotech/
+[2026-06-18T10:54:12Z] #757 attempt=1/2 status=429 0.036s url=https://www.myfonts.com/products/shree-kannada-4200-complete-family-package-1165189
+[2026-06-18T10:54:14Z] #758 attempt=2/2 status=200 0.389s url=https://www.myfonts.com/products/shree-kannada-4200-complete-family-package-1165189
+[2026-06-18T10:54:15Z] #759 attempt=1/2 status=200 0.515s url=https://www.myfonts.com/collections/shree-kannada-4200-font-modularinfotech/
+[2026-06-18T10:54:15Z] #760 attempt=1/2 status=200 0.356s url=https://www.myfonts.com/collections/shree-kannada-4200-font-modularinfotech/
+[2026-06-18T10:54:16Z] #761 attempt=1/2 status=200 0.438s url=https://www.myfonts.com/products/the-simple-editorial-complete-family-package-1166744
+[2026-06-18T10:54:17Z] #762 attempt=1/2 status=200 0.488s url=https://www.myfonts.com/collections/the-simple-editorial-font-logic-type/
+[2026-06-18T10:54:18Z] #763 attempt=1/2 status=200 0.448s url=https://www.myfonts.com/products/shree-kannada-4207-complete-family-package-1165235
+[2026-06-18T10:54:18Z] #764 attempt=1/2 status=200 0.504s url=https://www.myfonts.com/collections/shree-kannada-4207-font-modularinfotech/
+[2026-06-18T10:54:19Z] #765 attempt=1/2 status=429 0.041s url=https://www.myfonts.com/collections/shree-kannada-4207-font-modularinfotech/
+[2026-06-18T10:54:21Z] #766 attempt=2/2 status=200 0.237s url=https://www.myfonts.com/collections/shree-kannada-4207-font-modularinfotech/
+[2026-06-18T10:54:22Z] #767 attempt=1/2 status=200 0.343s url=https://www.myfonts.com/products/shree-kannada-4259-complete-family-package-1165171
+[2026-06-18T10:54:23Z] #768 attempt=1/2 status=200 0.485s url=https://www.myfonts.com/collections/shree-kannada-4259-font-modularinfotech/
+[2026-06-18T10:54:23Z] #769 attempt=1/2 status=200 0.162s url=https://www.myfonts.com/collections/shree-kannada-4259-font-modularinfotech/
+[2026-06-18T10:54:24Z] #770 attempt=1/2 status=200 0.892s url=https://www.myfonts.com/products/voux-alternate-cut-package-1166734
+[2026-06-18T10:54:26Z] #771 attempt=1/2 status=200 1.771s url=https://www.myfonts.com/collections/voux-font-miller-type/
+[2026-06-18T10:54:27Z] #772 attempt=1/2 status=200 0.492s url=https://www.myfonts.com/products/shree-kannada-3461-complete-family-package-1165154
+[2026-06-18T10:54:28Z] #773 attempt=1/2 status=200 0.376s url=https://www.myfonts.com/collections/shree-kannada-3461-font-modularinfotech/
+[2026-06-18T10:54:29Z] #774 attempt=1/2 status=200 0.690s url=https://www.myfonts.com/collections/shree-kannada-3461-font-modularinfotech/
+[2026-06-18T10:54:29Z] #775 attempt=1/2 status=200 0.373s url=https://www.myfonts.com/products/shree-kannada-4293-complete-family-package-1165079
+[2026-06-18T10:54:30Z] #776 attempt=1/2 status=200 0.472s url=https://www.myfonts.com/collections/shree-kannada-4293-font-modularinfotech/
+[2026-06-18T10:54:31Z] #777 attempt=1/2 status=200 0.167s url=https://www.myfonts.com/collections/shree-kannada-4293-font-modularinfotech/
+[2026-06-18T10:54:31Z] #778 attempt=1/2 status=429 0.040s url=https://www.myfonts.com/products/trainex-complete-family-package-1165817
+[2026-06-18T10:54:34Z] #779 attempt=2/2 status=200 0.574s url=https://www.myfonts.com/products/trainex-complete-family-package-1165817
+[2026-06-18T10:54:34Z] #780 attempt=1/2 status=200 0.349s url=https://www.myfonts.com/collections/trainex-font-artisan-themes/
+[2026-06-18T10:54:35Z] #781 attempt=1/2 status=200 0.302s url=https://www.myfonts.com/products/shree-kannada-5340-complete-family-package-1165121
+[2026-06-18T10:54:35Z] #782 attempt=1/2 status=200 0.335s url=https://www.myfonts.com/collections/shree-kannada-5340-font-modularinfotech/
+[2026-06-18T10:54:36Z] #783 attempt=1/2 status=200 0.469s url=https://www.myfonts.com/products/shree-kannada-5303-complete-family-package-1165091
+[2026-06-18T10:54:37Z] #784 attempt=1/2 status=200 0.689s url=https://www.myfonts.com/collections/shree-kannada-5303-font-modularinfotech/
+[2026-06-18T10:54:38Z] #785 attempt=1/2 status=200 0.226s url=https://www.myfonts.com/collections/shree-kannada-5303-font-modularinfotech/
+[2026-06-18T10:54:38Z] #786 attempt=1/2 status=200 0.426s url=https://www.myfonts.com/products/shree-kannada-3445-complete-family-package-1165100
+[2026-06-18T10:54:39Z] #787 attempt=1/2 status=200 0.520s url=https://www.myfonts.com/collections/shree-kannada-3445-font-modularinfotech/
+[2026-06-18T10:54:40Z] #788 attempt=1/2 status=200 0.756s url=https://www.myfonts.com/collections/shree-kannada-3445-font-modularinfotech/
+[2026-06-18T10:54:41Z] #789 attempt=1/2 status=200 0.300s url=https://www.myfonts.com/products/shree-kannada-4265-complete-family-package-1165061
+[2026-06-18T10:54:42Z] #790 attempt=1/2 status=200 0.919s url=https://www.myfonts.com/collections/shree-kannada-4265-font-modularinfotech/
+[2026-06-18T10:54:43Z] #791 attempt=1/2 status=200 0.739s url=https://www.myfonts.com/collections/shree-kannada-4265-font-modularinfotech/
+[2026-06-18T10:54:43Z] #792 attempt=1/2 status=200 0.337s url=https://www.myfonts.com/products/shree-kannada-4264-complete-family-package-1165040
+[2026-06-18T10:54:45Z] #793 attempt=1/2 status=200 0.918s url=https://www.myfonts.com/collections/shree-kannada-4264-font-modularinfotech/
+[2026-06-18T10:54:45Z] #794 attempt=1/2 status=200 0.466s url=https://www.myfonts.com/collections/shree-kannada-4264-font-modularinfotech/
+[2026-06-18T10:54:46Z] #795 attempt=1/2 status=200 0.348s url=https://www.myfonts.com/products/shree-kannada-3426-complete-family-package-1165070
+[2026-06-18T10:54:47Z] #796 attempt=1/2 status=200 0.535s url=https://www.myfonts.com/collections/shree-kannada-3426-font-modularinfotech/
+[2026-06-18T10:54:47Z] #797 attempt=1/2 status=200 0.438s url=https://www.myfonts.com/collections/shree-kannada-3426-font-modularinfotech/
+[2026-06-18T10:54:48Z] #798 attempt=1/2 status=429 0.050s url=https://www.myfonts.com/products/shree-kannada-4209-complete-family-package-1165103
+[2026-06-18T10:54:50Z] #799 attempt=2/2 status=429 0.061s url=https://www.myfonts.com/products/shree-kannada-4209-complete-family-package-1165103
+[2026-06-18T10:54:55Z] max_retries_exhausted url=https://www.myfonts.com/products/shree-kannada-4209-complete-family-package-1165103
+[2026-06-18T10:54:56Z] #800 attempt=1/2 status=404 0.290s url=https://www.myfonts.com/collections/shree-kannada-4209-font-modular-infotech
+[2026-06-18T10:54:56Z] #801 attempt=1/2 status=200 0.701s url=https://www.myfonts.com/products/shree-kannada-4216-complete-family-package-1165209
+[2026-06-18T10:54:57Z] #802 attempt=1/2 status=200 0.664s url=https://www.myfonts.com/collections/shree-kannada-4216-font-modularinfotech/
+[2026-06-18T10:54:59Z] #803 attempt=1/2 status=200 1.084s url=https://www.myfonts.com/collections/shree-kannada-4216-font-modularinfotech/
+[2026-06-18T10:55:01Z] #804 attempt=1/2 status=200 1.714s url=https://www.myfonts.com/products/condensed-package-1166378
+[2026-06-18T10:55:03Z] #805 attempt=1/2 status=200 1.741s url=https://www.myfonts.com/collections/nurell-font-jorsetype/
+[2026-06-18T10:55:03Z] #806 attempt=1/2 status=200 0.316s url=https://www.myfonts.com/products/shree-kannada-4221-complete-family-package-1165022
+[2026-06-18T10:55:04Z] #807 attempt=1/2 status=200 0.577s url=https://www.myfonts.com/collections/shree-kannada-4221-font-modularinfotech/
+[2026-06-18T10:55:05Z] #808 attempt=1/2 status=200 0.352s url=https://www.myfonts.com/collections/shree-kannada-4221-font-modularinfotech/
+[2026-06-18T10:55:06Z] #809 attempt=1/2 status=200 0.920s url=https://www.myfonts.com/products/shree-kannada-4263-complete-family-package-1165043
+[2026-06-18T10:55:07Z] #810 attempt=1/2 status=200 1.075s url=https://www.myfonts.com/collections/shree-kannada-4263-font-modularinfotech/
+[2026-06-18T10:55:08Z] #811 attempt=1/2 status=200 0.164s url=https://www.myfonts.com/collections/shree-kannada-4263-font-modularinfotech/
+[2026-06-18T10:55:08Z] #812 attempt=1/2 status=200 0.342s url=https://www.myfonts.com/products/shree-kannada-4235-complete-family-package-1165195
+[2026-06-18T10:55:10Z] #813 attempt=1/2 status=200 1.144s url=https://www.myfonts.com/collections/shree-kannada-4235-font-modularinfotech/
+[2026-06-18T10:55:11Z] #814 attempt=1/2 status=200 0.586s url=https://www.myfonts.com/collections/shree-kannada-4235-font-modularinfotech/
+[2026-06-18T10:55:11Z] #815 attempt=1/2 status=200 0.416s url=https://www.myfonts.com/products/shree-kannada-5300-complete-family-package-1165238
+[2026-06-18T10:55:12Z] #816 attempt=1/2 status=200 0.415s url=https://www.myfonts.com/collections/shree-kannada-5300-font-modularinfotech/
+[2026-06-18T10:55:13Z] #817 attempt=1/2 status=200 0.409s url=https://www.myfonts.com/collections/shree-kannada-5300-font-modularinfotech/
+[2026-06-18T10:55:13Z] #818 attempt=1/2 status=200 0.423s url=https://www.myfonts.com/products/shree-kannada-4203-complete-family-package-1164968
+[2026-06-18T10:55:14Z] #819 attempt=1/2 status=200 0.539s url=https://www.myfonts.com/collections/shree-kannada-4203-font-modularinfotech/
+[2026-06-18T10:55:15Z] #820 attempt=1/2 status=503 0.076s url=https://www.myfonts.com/collections/shree-kannada-4203-font-modularinfotech/
+[2026-06-18T10:55:15Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:55:17Z] #821 attempt=2/2 status=200 0.148s url=https://www.myfonts.com/collections/shree-kannada-4203-font-modularinfotech/
+[2026-06-18T10:55:17Z] #822 attempt=1/2 status=200 0.291s url=https://www.myfonts.com/products/shree-kannada-4245-complete-family-package-1164971
+[2026-06-18T10:55:18Z] #823 attempt=1/2 status=200 0.539s url=https://www.myfonts.com/collections/shree-kannada-4245-font-modularinfotech/
+[2026-06-18T10:55:19Z] #824 attempt=1/2 status=200 0.435s url=https://www.myfonts.com/collections/shree-kannada-4245-font-modularinfotech/
+[2026-06-18T10:55:20Z] #825 attempt=1/2 status=200 0.400s url=https://www.myfonts.com/products/shree-kannada-5304-complete-family-package-1165109
+[2026-06-18T10:55:20Z] #826 attempt=1/2 status=200 0.525s url=https://www.myfonts.com/collections/shree-kannada-5304-font-modularinfotech/
+[2026-06-18T10:55:21Z] #827 attempt=1/2 status=200 0.600s url=https://www.myfonts.com/collections/shree-kannada-5304-font-modularinfotech/
+[2026-06-18T10:55:22Z] #828 attempt=1/2 status=200 0.376s url=https://www.myfonts.com/products/shree-kannada-5368-complete-family-package-1164996
+[2026-06-18T10:55:23Z] #829 attempt=1/2 status=200 0.391s url=https://www.myfonts.com/collections/shree-kannada-5368-font-modularinfotech/
+[2026-06-18T10:55:23Z] #830 attempt=1/2 status=200 0.320s url=https://www.myfonts.com/products/shree-kannada-4206-complete-family-package-1165034
+[2026-06-18T10:55:23Z] #831 attempt=1/2 status=429 0.036s url=https://www.myfonts.com/collections/shree-kannada-4206-font-modularinfotech/
+[2026-06-18T10:55:26Z] #832 attempt=2/2 status=200 0.435s url=https://www.myfonts.com/collections/shree-kannada-4206-font-modularinfotech/
+[2026-06-18T10:55:27Z] #833 attempt=1/2 status=200 0.580s url=https://www.myfonts.com/collections/shree-kannada-4206-font-modularinfotech/
+[2026-06-18T10:55:27Z] #834 attempt=1/2 status=200 0.313s url=https://www.myfonts.com/products/shree-kannada-3402-complete-family-package-1164950
+[2026-06-18T10:55:28Z] #835 attempt=1/2 status=200 0.481s url=https://www.myfonts.com/collections/shree-kannada-3402-font-modularinfotech/
+[2026-06-18T10:55:29Z] #836 attempt=1/2 status=200 0.636s url=https://www.myfonts.com/collections/shree-kannada-3402-font-modularinfotech/
+[2026-06-18T10:55:30Z] #837 attempt=1/2 status=200 0.474s url=https://www.myfonts.com/products/shree-kannada-3431-complete-family-package-1165223
+[2026-06-18T10:55:30Z] #838 attempt=1/2 status=200 0.356s url=https://www.myfonts.com/collections/shree-kannada-3431-font-modularinfotech/
+[2026-06-18T10:55:31Z] #839 attempt=1/2 status=429 0.039s url=https://www.myfonts.com/collections/shree-kannada-3431-font-modularinfotech/
+[2026-06-18T10:55:34Z] #840 attempt=2/2 status=200 0.729s url=https://www.myfonts.com/collections/shree-kannada-3431-font-modularinfotech/
+[2026-06-18T10:55:35Z] #841 attempt=1/2 status=200 0.592s url=https://www.myfonts.com/products/designer-stuff-package-1164840
+[2026-06-18T10:55:35Z] #842 attempt=1/2 status=200 0.443s url=https://www.myfonts.com/collections/gc-robuto-mono-font-onyx-studio/
+[2026-06-18T10:55:36Z] #843 attempt=1/2 status=200 0.567s url=https://www.myfonts.com/products/shree-kannada-1402-complete-family-package-1165052
+[2026-06-18T10:55:37Z] #844 attempt=1/2 status=200 0.385s url=https://www.myfonts.com/collections/shree-kannada-1402-font-modularinfotech/
+[2026-06-18T10:55:37Z] #845 attempt=1/2 status=200 0.397s url=https://www.myfonts.com/collections/shree-kannada-1402-font-modularinfotech/
+[2026-06-18T10:55:38Z] #846 attempt=1/2 status=429 0.027s url=https://www.myfonts.com/products/at-pointo-complete-family-package-1164848
+[2026-06-18T10:55:40Z] #847 attempt=2/2 status=200 0.496s url=https://www.myfonts.com/products/at-pointo-complete-family-package-1164848
+[2026-06-18T10:55:42Z] #848 attempt=1/2 status=200 0.946s url=https://www.myfonts.com/collections/at-pointo-font-ardyanatypes/
+[2026-06-18T10:55:42Z] #849 attempt=1/2 status=200 0.453s url=https://www.myfonts.com/products/shree-kannada-1477-complete-family-package-1164991
+[2026-06-18T10:55:43Z] #850 attempt=1/2 status=200 0.481s url=https://www.myfonts.com/collections/shree-kannada-1477-font-modularinfotech/
+[2026-06-18T10:55:44Z] #851 attempt=1/2 status=200 0.463s url=https://www.myfonts.com/collections/shree-kannada-1477-font-modularinfotech/
+[2026-06-18T10:55:45Z] #852 attempt=1/2 status=200 0.458s url=https://www.myfonts.com/products/shree-kannada-1405-complete-family-package-1165010
+[2026-06-18T10:55:45Z] #853 attempt=1/2 status=200 0.379s url=https://www.myfonts.com/collections/shree-kannada-1405-font-modularinfotech/
+[2026-06-18T10:55:46Z] #854 attempt=1/2 status=200 0.146s url=https://www.myfonts.com/collections/shree-kannada-1405-font-modularinfotech/
+[2026-06-18T10:55:46Z] #855 attempt=1/2 status=429 0.036s url=https://www.myfonts.com/products/fauden-complete-family-package-1165503
+[2026-06-18T10:55:49Z] #856 attempt=2/2 status=200 0.725s url=https://www.myfonts.com/products/fauden-complete-family-package-1165503
+[2026-06-18T10:55:50Z] #857 attempt=1/2 status=200 0.501s url=https://www.myfonts.com/collections/fauden-font-tini-fitriani/
+[2026-06-18T10:55:51Z] #858 attempt=1/2 status=200 0.744s url=https://www.myfonts.com/products/expant-complete-family-package-1165451
+[2026-06-18T10:55:51Z] #859 attempt=1/2 status=200 0.360s url=https://www.myfonts.com/collections/expant-font-jorsetype/
+[2026-06-18T10:55:52Z] #860 attempt=1/2 status=200 0.891s url=https://www.myfonts.com/products/shree-kannada-3499-complete-family-package-1165016
+[2026-06-18T10:55:53Z] #861 attempt=1/2 status=200 0.365s url=https://www.myfonts.com/collections/shree-kannada-3499-font-modularinfotech/
+[2026-06-18T10:55:54Z] #862 attempt=1/2 status=200 0.582s url=https://www.myfonts.com/collections/shree-kannada-3499-font-modularinfotech/
+[2026-06-18T10:55:54Z] #863 attempt=1/2 status=200 0.299s url=https://www.myfonts.com/products/rostan-complete-family-package-1165877
+[2026-06-18T10:55:55Z] #864 attempt=1/2 status=429 0.037s url=https://www.myfonts.com/collections/rostan-font-sensatype-studio/
+[2026-06-18T10:55:57Z] #865 attempt=2/2 status=503 0.141s url=https://www.myfonts.com/collections/rostan-font-sensatype-studio/
+[2026-06-18T10:55:57Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:55:59Z] max_retries_exhausted url=https://www.myfonts.com/collections/rostan-font-sensatype-studio/
+[2026-06-18T10:56:00Z] #866 attempt=1/2 status=200 0.933s url=https://www.myfonts.com/products/shree-kannada-4204-complete-family-package-1164979
+[2026-06-18T10:56:01Z] #867 attempt=1/2 status=200 1.151s url=https://www.myfonts.com/collections/shree-kannada-4204-font-modularinfotech/
+[2026-06-18T10:56:03Z] #868 attempt=1/2 status=200 1.252s url=https://www.myfonts.com/collections/shree-kannada-4204-font-modularinfotech/
+[2026-06-18T10:56:04Z] #869 attempt=1/2 status=200 0.333s url=https://www.myfonts.com/products/yanus-complete-family-package-1167156
+[2026-06-18T10:56:04Z] #870 attempt=1/2 status=200 0.582s url=https://www.myfonts.com/collections/yanus-font-paratype/
+[2026-06-18T10:56:05Z] #871 attempt=1/2 status=200 0.393s url=https://www.myfonts.com/products/shree-kannada-3462-complete-family-package-1165174
+[2026-06-18T10:56:06Z] #872 attempt=1/2 status=200 0.322s url=https://www.myfonts.com/collections/shree-kannada-3462-font-modularinfotech/
+[2026-06-18T10:56:06Z] #873 attempt=1/2 status=200 0.351s url=https://www.myfonts.com/collections/shree-kannada-3462-font-modularinfotech/
+[2026-06-18T10:56:07Z] #874 attempt=1/2 status=200 0.458s url=https://www.myfonts.com/products/shree-kannada-1419-complete-family-package-1164959
+[2026-06-18T10:56:08Z] #875 attempt=1/2 status=200 0.375s url=https://www.myfonts.com/collections/shree-kannada-1419-font-modularinfotech/
+[2026-06-18T10:56:09Z] #876 attempt=1/2 status=200 0.963s url=https://www.myfonts.com/collections/shree-kannada-1419-font-modularinfotech/
+[2026-06-18T10:56:09Z] #877 attempt=1/2 status=503 0.067s url=https://www.myfonts.com/products/shree-kannada-4274-complete-family-package-1164976
+[2026-06-18T10:56:09Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:56:12Z] #878 attempt=2/2 status=200 0.261s url=https://www.myfonts.com/products/shree-kannada-4274-complete-family-package-1164976
+[2026-06-18T10:56:12Z] #879 attempt=1/2 status=503 0.073s url=https://www.myfonts.com/collections/shree-kannada-4274-font-modularinfotech/
+[2026-06-18T10:56:12Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:56:14Z] #880 attempt=2/2 status=503 0.062s url=https://www.myfonts.com/collections/shree-kannada-4274-font-modularinfotech/
+[2026-06-18T10:56:14Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:56:16Z] max_retries_exhausted url=https://www.myfonts.com/collections/shree-kannada-4274-font-modularinfotech/
+[2026-06-18T10:56:17Z] #881 attempt=1/2 status=404 0.374s url=https://www.myfonts.com/collections/shree-kannada-4274-font-modular-infotech
+[2026-06-18T10:56:17Z] #882 attempt=1/2 status=200 0.315s url=https://www.myfonts.com/products/shree-kannada-4277-complete-family-package-1165277
+[2026-06-18T10:56:18Z] #883 attempt=1/2 status=200 0.389s url=https://www.myfonts.com/collections/shree-kannada-4277-font-modularinfotech/
+[2026-06-18T10:56:19Z] #884 attempt=1/2 status=200 0.738s url=https://www.myfonts.com/collections/shree-kannada-4277-font-modularinfotech/
+[2026-06-18T10:56:20Z] #885 attempt=1/2 status=200 0.373s url=https://www.myfonts.com/products/vexorium-complete-family-package-1164828
+[2026-06-18T10:56:20Z] #886 attempt=1/2 status=200 0.648s url=https://www.myfonts.com/collections/vexorium-font-shanaf/
+[2026-06-18T10:56:22Z] #887 attempt=1/2 status=200 1.373s url=https://www.myfonts.com/products/mitzu-complete-family-package-1166199
+[2026-06-18T10:56:25Z] #888 attempt=1/2 status=200 2.209s url=https://www.myfonts.com/collections/mitzu-font-kaidosan/
+[2026-06-18T10:56:26Z] #889 attempt=1/2 status=200 0.305s url=https://www.myfonts.com/products/shree-kannada-5306-complete-family-package-1165259
+[2026-06-18T10:56:26Z] #890 attempt=1/2 status=200 0.520s url=https://www.myfonts.com/collections/shree-kannada-5306-font-modularinfotech/
+[2026-06-18T10:56:27Z] #891 attempt=1/2 status=200 0.165s url=https://www.myfonts.com/collections/shree-kannada-5306-font-modularinfotech/
+[2026-06-18T10:56:28Z] #892 attempt=1/2 status=200 0.455s url=https://www.myfonts.com/products/shree-kannada-3472-complete-family-package-1165137
+[2026-06-18T10:56:29Z] #893 attempt=1/2 status=200 0.738s url=https://www.myfonts.com/collections/shree-kannada-3472-font-modularinfotech/
+[2026-06-18T10:56:30Z] #894 attempt=1/2 status=200 0.984s url=https://www.myfonts.com/collections/shree-kannada-3472-font-modularinfotech/
+[2026-06-18T10:56:31Z] #895 attempt=1/2 status=200 0.534s url=https://www.myfonts.com/products/shree-kannada-1420-complete-family-package-1164945
+[2026-06-18T10:56:31Z] #896 attempt=1/2 status=200 0.623s url=https://www.myfonts.com/collections/shree-kannada-1420-font-modularinfotech/
+[2026-06-18T10:56:32Z] #897 attempt=1/2 status=200 0.524s url=https://www.myfonts.com/collections/shree-kannada-1420-font-modularinfotech/
+[2026-06-18T10:56:33Z] #898 attempt=1/2 status=200 0.268s url=https://www.myfonts.com/products/shree-kannada-5356-complete-family-package-1164985
+[2026-06-18T10:56:34Z] #899 attempt=1/2 status=200 0.643s url=https://www.myfonts.com/collections/shree-kannada-5356-font-modularinfotech/
+[2026-06-18T10:56:35Z] #900 attempt=1/2 status=200 0.689s url=https://www.myfonts.com/products/shree-kannada-0874-complete-family-package-1165124
+[2026-06-18T10:56:36Z] #901 attempt=1/2 status=200 0.670s url=https://www.myfonts.com/collections/shree-kannada-0874-font-modularinfotech/
+[2026-06-18T10:56:37Z] #902 attempt=1/2 status=200 1.225s url=https://www.myfonts.com/collections/shree-kannada-0874-font-modularinfotech/
+[2026-06-18T10:56:39Z] #903 attempt=1/2 status=200 2.116s url=https://www.myfonts.com/products/shree-kannada-1434-complete-family-package-1165241
+[2026-06-18T10:56:40Z] #904 attempt=1/2 status=200 0.371s url=https://www.myfonts.com/collections/shree-kannada-1434-font-modularinfotech/
+[2026-06-18T10:56:40Z] #905 attempt=1/2 status=503 0.067s url=https://www.myfonts.com/collections/shree-kannada-1434-font-modularinfotech/
+[2026-06-18T10:56:40Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:56:43Z] #906 attempt=2/2 status=503 0.068s url=https://www.myfonts.com/collections/shree-kannada-1434-font-modularinfotech/
+[2026-06-18T10:56:43Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:56:45Z] max_retries_exhausted url=https://www.myfonts.com/collections/shree-kannada-1434-font-modularinfotech/
+[2026-06-18T10:56:48Z] #907 attempt=1/2 status=200 2.894s url=https://www.myfonts.com/products/futura-pt-mono-set-package-1166919
+[2026-06-18T10:56:48Z] #908 attempt=1/2 status=503 0.058s url=https://www.myfonts.com/collections/futura-book-font-paratype/
+[2026-06-18T10:56:48Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:56:50Z] #909 attempt=2/2 status=503 0.058s url=https://www.myfonts.com/collections/futura-book-font-paratype/
+[2026-06-18T10:56:50Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:56:52Z] max_retries_exhausted url=https://www.myfonts.com/collections/futura-book-font-paratype/
+[2026-06-18T10:56:53Z] #910 attempt=1/2 status=503 0.062s url=https://www.myfonts.com/collections/futura-pt-mono-set-font-paratype
+[2026-06-18T10:56:53Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:56:55Z] #911 attempt=2/2 status=503 0.056s url=https://www.myfonts.com/collections/futura-pt-mono-set-font-paratype
+[2026-06-18T10:56:55Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:56:57Z] max_retries_exhausted url=https://www.myfonts.com/collections/futura-pt-mono-set-font-paratype
+[2026-06-18T10:56:57Z] #912 attempt=1/2 status=503 0.059s url=https://www.myfonts.com/products/quiet-garden-complete-family-package-1165507
+[2026-06-18T10:56:57Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:56:59Z] #913 attempt=2/2 status=503 0.055s url=https://www.myfonts.com/products/quiet-garden-complete-family-package-1165507
+[2026-06-18T10:56:59Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:57:01Z] max_retries_exhausted url=https://www.myfonts.com/products/quiet-garden-complete-family-package-1165507
+[2026-06-18T10:57:02Z] #914 attempt=1/2 status=503 0.105s url=https://www.myfonts.com/collections/quiet-garden-font-sixtype-foundry
+[2026-06-18T10:57:02Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:57:05Z] #915 attempt=2/2 status=200 1.211s url=https://www.myfonts.com/collections/quiet-garden-font-sixtype-foundry
+[2026-06-18T10:57:07Z] #916 attempt=1/2 status=200 2.133s url=https://www.myfonts.com/products/shree-kannada-4291-complete-family-package-1165262
+[2026-06-18T10:57:08Z] #917 attempt=1/2 status=503 0.086s url=https://www.myfonts.com/collections/shree-kannada-4291-font-modularinfotech/
+[2026-06-18T10:57:08Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:57:10Z] #918 attempt=2/2 status=503 0.064s url=https://www.myfonts.com/collections/shree-kannada-4291-font-modularinfotech/
+[2026-06-18T10:57:10Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:57:12Z] max_retries_exhausted url=https://www.myfonts.com/collections/shree-kannada-4291-font-modularinfotech/
+[2026-06-18T10:57:12Z] #919 attempt=1/2 status=503 0.061s url=https://www.myfonts.com/collections/shree-kannada-4291-font-modular-infotech
+[2026-06-18T10:57:12Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:57:15Z] #920 attempt=2/2 status=503 0.091s url=https://www.myfonts.com/collections/shree-kannada-4291-font-modular-infotech
+[2026-06-18T10:57:15Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:57:17Z] max_retries_exhausted url=https://www.myfonts.com/collections/shree-kannada-4291-font-modular-infotech
+[2026-06-18T10:57:17Z] #921 attempt=1/2 status=503 0.073s url=https://www.myfonts.com/products/shree-kannada-4282-complete-family-package-1165088
+[2026-06-18T10:57:17Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:57:19Z] #922 attempt=2/2 status=503 0.057s url=https://www.myfonts.com/products/shree-kannada-4282-complete-family-package-1165088
+[2026-06-18T10:57:19Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:57:21Z] max_retries_exhausted url=https://www.myfonts.com/products/shree-kannada-4282-complete-family-package-1165088
+[2026-06-18T10:57:21Z] #923 attempt=1/2 status=503 0.057s url=https://www.myfonts.com/collections/shree-kannada-4282-font-modular-infotech
+[2026-06-18T10:57:21Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:57:24Z] #924 attempt=2/2 status=503 0.058s url=https://www.myfonts.com/collections/shree-kannada-4282-font-modular-infotech
+[2026-06-18T10:57:24Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:57:26Z] max_retries_exhausted url=https://www.myfonts.com/collections/shree-kannada-4282-font-modular-infotech
+[2026-06-18T10:57:26Z] #925 attempt=1/2 status=200 0.318s url=https://www.myfonts.com/products/shree-kannada-4239-complete-family-package-1165206
+[2026-06-18T10:57:27Z] #926 attempt=1/2 status=200 0.636s url=https://www.myfonts.com/collections/shree-kannada-4239-font-modularinfotech/
+[2026-06-18T10:57:27Z] #927 attempt=1/2 status=503 0.057s url=https://www.myfonts.com/collections/shree-kannada-4239-font-modularinfotech/
+[2026-06-18T10:57:27Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:57:30Z] #928 attempt=2/2 status=503 0.085s url=https://www.myfonts.com/collections/shree-kannada-4239-font-modularinfotech/
+[2026-06-18T10:57:30Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:57:32Z] max_retries_exhausted url=https://www.myfonts.com/collections/shree-kannada-4239-font-modularinfotech/
+[2026-06-18T10:57:32Z] #929 attempt=1/2 status=503 0.082s url=https://www.myfonts.com/products/shree-kan4212-complete-family-package-1165106
+[2026-06-18T10:57:32Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:57:34Z] #930 attempt=2/2 status=503 0.067s url=https://www.myfonts.com/products/shree-kan4212-complete-family-package-1165106
+[2026-06-18T10:57:34Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:57:36Z] max_retries_exhausted url=https://www.myfonts.com/products/shree-kan4212-complete-family-package-1165106
+[2026-06-18T10:57:36Z] #931 attempt=1/2 status=503 0.070s url=https://www.myfonts.com/collections/shree-kan4212-font-modular-infotech
+[2026-06-18T10:57:36Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:57:39Z] #932 attempt=2/2 status=503 0.078s url=https://www.myfonts.com/collections/shree-kan4212-font-modular-infotech
+[2026-06-18T10:57:39Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:57:41Z] max_retries_exhausted url=https://www.myfonts.com/collections/shree-kan4212-font-modular-infotech
+[2026-06-18T10:57:41Z] #933 attempt=1/2 status=503 0.081s url=https://www.myfonts.com/products/playback-complete-family-package-1165545
+[2026-06-18T10:57:41Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:57:44Z] #934 attempt=2/2 status=200 0.614s url=https://www.myfonts.com/products/playback-complete-family-package-1165545
+[2026-06-18T10:57:44Z] #935 attempt=1/2 status=503 0.076s url=https://www.myfonts.com/collections/playback-font-stylishtype-studio/
+[2026-06-18T10:57:44Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:57:48Z] #936 attempt=2/2 status=200 1.787s url=https://www.myfonts.com/collections/playback-font-stylishtype-studio/
+[2026-06-18T10:57:49Z] #937 attempt=1/2 status=503 0.070s url=https://www.myfonts.com/products/shree-kannada-4210-complete-family-package-1165073
+[2026-06-18T10:57:49Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:57:51Z] #938 attempt=2/2 status=503 0.070s url=https://www.myfonts.com/products/shree-kannada-4210-complete-family-package-1165073
+[2026-06-18T10:57:51Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:57:53Z] max_retries_exhausted url=https://www.myfonts.com/products/shree-kannada-4210-complete-family-package-1165073
+[2026-06-18T10:57:53Z] #939 attempt=1/2 status=503 0.061s url=https://www.myfonts.com/collections/shree-kannada-4210-font-modular-infotech
+[2026-06-18T10:57:53Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:57:55Z] #940 attempt=2/2 status=503 0.067s url=https://www.myfonts.com/collections/shree-kannada-4210-font-modular-infotech
+[2026-06-18T10:57:55Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:57:57Z] max_retries_exhausted url=https://www.myfonts.com/collections/shree-kannada-4210-font-modular-infotech
+[2026-06-18T10:57:58Z] #941 attempt=1/2 status=503 0.058s url=https://www.myfonts.com/products/lorafe-complete-family-package-1165985
+[2026-06-18T10:57:58Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:58:00Z] #942 attempt=2/2 status=503 0.059s url=https://www.myfonts.com/products/lorafe-complete-family-package-1165985
+[2026-06-18T10:58:00Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:58:02Z] max_retries_exhausted url=https://www.myfonts.com/products/lorafe-complete-family-package-1165985
+[2026-06-18T10:58:04Z] #943 attempt=1/2 status=200 1.645s url=https://www.myfonts.com/collections/lorafe-font-solutype
+[2026-06-18T10:58:05Z] #944 attempt=1/2 status=200 0.969s url=https://www.myfonts.com/products/glifox-distort-package-1165800
+[2026-06-18T10:58:06Z] #945 attempt=1/2 status=200 0.842s url=https://www.myfonts.com/collections/glifox-font-mystical-type/
+[2026-06-18T10:58:07Z] #946 attempt=1/2 status=503 0.084s url=https://www.myfonts.com/products/chillyot-softenk-complete-family-package-1165459
+[2026-06-18T10:58:07Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:58:09Z] #947 attempt=2/2 status=503 0.059s url=https://www.myfonts.com/products/chillyot-softenk-complete-family-package-1165459
+[2026-06-18T10:58:09Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:58:11Z] max_retries_exhausted url=https://www.myfonts.com/products/chillyot-softenk-complete-family-package-1165459
+[2026-06-18T10:58:12Z] #948 attempt=1/2 status=200 1.101s url=https://www.myfonts.com/collections/chillyot-softenk-font-stylishtype-studio
+[2026-06-18T10:58:12Z] #949 attempt=1/2 status=503 0.061s url=https://www.myfonts.com/products/shree-kannada-4211-complete-family-package-1165055
+[2026-06-18T10:58:12Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:58:15Z] #950 attempt=2/2 status=503 0.060s url=https://www.myfonts.com/products/shree-kannada-4211-complete-family-package-1165055
+[2026-06-18T10:58:15Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:58:17Z] max_retries_exhausted url=https://www.myfonts.com/products/shree-kannada-4211-complete-family-package-1165055
+[2026-06-18T10:58:17Z] #951 attempt=1/2 status=503 0.072s url=https://www.myfonts.com/collections/shree-kannada-4211-font-modular-infotech
+[2026-06-18T10:58:17Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:58:19Z] #952 attempt=2/2 status=503 0.073s url=https://www.myfonts.com/collections/shree-kannada-4211-font-modular-infotech
+[2026-06-18T10:58:19Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:58:21Z] max_retries_exhausted url=https://www.myfonts.com/collections/shree-kannada-4211-font-modular-infotech
+[2026-06-18T10:58:22Z] #953 attempt=1/2 status=200 0.265s url=https://www.myfonts.com/products/funny-tomato-complete-family-package-1166385
+[2026-06-18T10:58:23Z] #954 attempt=1/2 status=200 1.535s url=https://www.myfonts.com/collections/funny-tomato-font-tini-fitriani/
+[2026-06-18T10:58:24Z] #955 attempt=1/2 status=200 0.293s url=https://www.myfonts.com/products/shree-kannada-5301-complete-family-package-1165253
+[2026-06-18T10:58:24Z] #956 attempt=1/2 status=503 0.067s url=https://www.myfonts.com/collections/shree-kannada-5301-font-modularinfotech/
+[2026-06-18T10:58:24Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:58:27Z] #957 attempt=2/2 status=503 0.059s url=https://www.myfonts.com/collections/shree-kannada-5301-font-modularinfotech/
+[2026-06-18T10:58:27Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:58:29Z] max_retries_exhausted url=https://www.myfonts.com/collections/shree-kannada-5301-font-modularinfotech/
+[2026-06-18T10:58:30Z] #958 attempt=1/2 status=404 1.450s url=https://www.myfonts.com/collections/shree-kannada-5301-font-modular-infotech
+[2026-06-18T10:58:31Z] #959 attempt=1/2 status=503 0.065s url=https://www.myfonts.com/products/shree-kannada-4275-complete-family-package-1164956
+[2026-06-18T10:58:31Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:58:33Z] #960 attempt=2/2 status=503 0.071s url=https://www.myfonts.com/products/shree-kannada-4275-complete-family-package-1164956
+[2026-06-18T10:58:33Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:58:35Z] max_retries_exhausted url=https://www.myfonts.com/products/shree-kannada-4275-complete-family-package-1164956
+[2026-06-18T10:58:35Z] #961 attempt=1/2 status=503 0.065s url=https://www.myfonts.com/collections/shree-kannada-4275-font-modular-infotech
+[2026-06-18T10:58:35Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:58:37Z] #962 attempt=2/2 status=503 0.079s url=https://www.myfonts.com/collections/shree-kannada-4275-font-modular-infotech
+[2026-06-18T10:58:37Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:58:39Z] max_retries_exhausted url=https://www.myfonts.com/collections/shree-kannada-4275-font-modular-infotech
+[2026-06-18T10:58:42Z] #963 attempt=1/2 status=200 2.877s url=https://www.myfonts.com/products/mundial-lobby-complete-family-package-1166388
+[2026-06-18T10:58:44Z] #964 attempt=1/2 status=200 1.595s url=https://www.myfonts.com/collections/mundial-lobby-font-woodcutter/
+[2026-06-18T10:58:46Z] #965 attempt=1/2 status=200 1.330s url=https://www.myfonts.com/products/private-sans-complete-family-package-1167158
+[2026-06-18T10:58:48Z] #966 attempt=1/2 status=200 1.828s url=https://www.myfonts.com/collections/private-sans-font-paratype/
+[2026-06-18T10:58:48Z] #967 attempt=1/2 status=503 0.068s url=https://www.myfonts.com/products/shree-kannada-4230-complete-family-package-1165151
+[2026-06-18T10:58:48Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:58:51Z] #968 attempt=2/2 status=503 0.065s url=https://www.myfonts.com/products/shree-kannada-4230-complete-family-package-1165151
+[2026-06-18T10:58:51Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:58:53Z] max_retries_exhausted url=https://www.myfonts.com/products/shree-kannada-4230-complete-family-package-1165151
+[2026-06-18T10:58:53Z] #969 attempt=1/2 status=503 0.106s url=https://www.myfonts.com/collections/shree-kannada-4230-font-modular-infotech
+[2026-06-18T10:58:53Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:58:55Z] #970 attempt=2/2 status=503 0.072s url=https://www.myfonts.com/collections/shree-kannada-4230-font-modular-infotech
+[2026-06-18T10:58:55Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:58:57Z] max_retries_exhausted url=https://www.myfonts.com/collections/shree-kannada-4230-font-modular-infotech
+[2026-06-18T10:58:58Z] #971 attempt=1/2 status=200 0.942s url=https://www.myfonts.com/products/shree-kannada-4201-complete-family-package-1165037
+[2026-06-18T10:58:59Z] #972 attempt=1/2 status=503 0.060s url=https://www.myfonts.com/collections/shree-kannada-4201-font-modularinfotech/
+[2026-06-18T10:58:59Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:59:01Z] #973 attempt=2/2 status=200 0.348s url=https://www.myfonts.com/collections/shree-kannada-4201-font-modularinfotech/
+[2026-06-18T10:59:01Z] #974 attempt=1/2 status=503 0.067s url=https://www.myfonts.com/collections/shree-kannada-4201-font-modularinfotech/
+[2026-06-18T10:59:01Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:59:04Z] #975 attempt=2/2 status=503 0.064s url=https://www.myfonts.com/collections/shree-kannada-4201-font-modularinfotech/
+[2026-06-18T10:59:04Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:59:06Z] max_retries_exhausted url=https://www.myfonts.com/collections/shree-kannada-4201-font-modularinfotech/
+[2026-06-18T10:59:08Z] #976 attempt=1/2 status=200 2.376s url=https://www.myfonts.com/products/shree-kannada-1441-complete-family-package-1165160
+[2026-06-18T10:59:09Z] #977 attempt=1/2 status=503 0.068s url=https://www.myfonts.com/collections/shree-kannada-1441-font-modularinfotech/
+[2026-06-18T10:59:09Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:59:11Z] #978 attempt=2/2 status=503 0.059s url=https://www.myfonts.com/collections/shree-kannada-1441-font-modularinfotech/
+[2026-06-18T10:59:11Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:59:13Z] max_retries_exhausted url=https://www.myfonts.com/collections/shree-kannada-1441-font-modularinfotech/
+[2026-06-18T10:59:13Z] #979 attempt=1/2 status=503 0.061s url=https://www.myfonts.com/collections/shree-kannada-1441-font-modular-infotech
+[2026-06-18T10:59:13Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:59:15Z] #980 attempt=2/2 status=503 0.057s url=https://www.myfonts.com/collections/shree-kannada-1441-font-modular-infotech
+[2026-06-18T10:59:15Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:59:17Z] max_retries_exhausted url=https://www.myfonts.com/collections/shree-kannada-1441-font-modular-infotech
+[2026-06-18T10:59:18Z] #981 attempt=1/2 status=503 0.056s url=https://www.myfonts.com/products/shree-kannada-4226-complete-family-package-1165256
+[2026-06-18T10:59:18Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:59:20Z] #982 attempt=2/2 status=503 0.066s url=https://www.myfonts.com/products/shree-kannada-4226-complete-family-package-1165256
+[2026-06-18T10:59:20Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:59:22Z] max_retries_exhausted url=https://www.myfonts.com/products/shree-kannada-4226-complete-family-package-1165256
+[2026-06-18T10:59:22Z] #983 attempt=1/2 status=404 0.209s url=https://www.myfonts.com/collections/shree-kannada-4226-font-modular-infotech
+[2026-06-18T10:59:24Z] #984 attempt=1/2 status=200 1.501s url=https://www.myfonts.com/products/werkstoff-complete-family-package-1165483
+[2026-06-18T10:59:27Z] #985 attempt=1/2 status=200 2.476s url=https://www.myfonts.com/collections/werkstoff-font-ghozai-studio/
+[2026-06-18T10:59:27Z] #986 attempt=1/2 status=503 0.064s url=https://www.myfonts.com/products/sovera-romeri-complete-family-package-1165978
+[2026-06-18T10:59:27Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:59:29Z] #987 attempt=2/2 status=503 0.070s url=https://www.myfonts.com/products/sovera-romeri-complete-family-package-1165978
+[2026-06-18T10:59:29Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:59:31Z] max_retries_exhausted url=https://www.myfonts.com/products/sovera-romeri-complete-family-package-1165978
+[2026-06-18T10:59:32Z] #988 attempt=1/2 status=503 0.106s url=https://www.myfonts.com/collections/sovera-romeri-font-black-junst
+[2026-06-18T10:59:32Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:59:34Z] #989 attempt=2/2 status=200 0.501s url=https://www.myfonts.com/collections/sovera-romeri-font-black-junst
+[2026-06-18T10:59:35Z] #990 attempt=1/2 status=503 0.063s url=https://www.myfonts.com/products/boxal-complete-family-package-1165740
+[2026-06-18T10:59:35Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:59:37Z] #991 attempt=2/2 status=200 0.409s url=https://www.myfonts.com/products/boxal-complete-family-package-1165740
+[2026-06-18T10:59:38Z] #992 attempt=1/2 status=503 0.060s url=https://www.myfonts.com/collections/boxal-font-the-northern-block/
+[2026-06-18T10:59:38Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:59:40Z] #993 attempt=2/2 status=503 0.060s url=https://www.myfonts.com/collections/boxal-font-the-northern-block/
+[2026-06-18T10:59:40Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:59:42Z] max_retries_exhausted url=https://www.myfonts.com/collections/boxal-font-the-northern-block/
+[2026-06-18T10:59:44Z] #994 attempt=1/2 status=200 1.784s url=https://www.myfonts.com/products/shree-kannada-4220-complete-family-package-1165094
+[2026-06-18T10:59:44Z] #995 attempt=1/2 status=503 0.087s url=https://www.myfonts.com/collections/shree-kannada-4220-font-modularinfotech/
+[2026-06-18T10:59:44Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:59:47Z] #996 attempt=2/2 status=503 0.067s url=https://www.myfonts.com/collections/shree-kannada-4220-font-modularinfotech/
+[2026-06-18T10:59:47Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T10:59:49Z] max_retries_exhausted url=https://www.myfonts.com/collections/shree-kannada-4220-font-modularinfotech/
+[2026-06-18T10:59:49Z] #997 attempt=1/2 status=503 0.071s url=https://www.myfonts.com/collections/shree-kannada-4220-font-modular-infotech
+[2026-06-18T10:59:49Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:59:51Z] #998 attempt=2/2 status=404 0.181s url=https://www.myfonts.com/collections/shree-kannada-4220-font-modular-infotech
+[2026-06-18T10:59:51Z] #999 attempt=1/2 status=503 0.072s url=https://www.myfonts.com/products/shree-kannada-3418-complete-family-package-1165229
+[2026-06-18T10:59:51Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:59:54Z] #1000 attempt=2/2 status=200 0.436s url=https://www.myfonts.com/products/shree-kannada-3418-complete-family-package-1165229
+[2026-06-18T10:59:55Z] #1001 attempt=1/2 status=200 0.873s url=https://www.myfonts.com/collections/shree-kannada-3418-font-modularinfotech/
+[2026-06-18T10:59:56Z] #1002 attempt=1/2 status=200 1.015s url=https://www.myfonts.com/collections/shree-kannada-3418-font-modularinfotech/
+[2026-06-18T10:59:57Z] #1003 attempt=1/2 status=503 0.056s url=https://www.myfonts.com/products/shree-kannada-0884-complete-family-package-1164988
+[2026-06-18T10:59:57Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T10:59:59Z] #1004 attempt=2/2 status=503 0.057s url=https://www.myfonts.com/products/shree-kannada-0884-complete-family-package-1164988
+[2026-06-18T10:59:59Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T11:00:01Z] max_retries_exhausted url=https://www.myfonts.com/products/shree-kannada-0884-complete-family-package-1164988
+[2026-06-18T11:00:03Z] #1005 attempt=1/2 status=404 1.627s url=https://www.myfonts.com/collections/shree-kannada-0884-font-modular-infotech
+[2026-06-18T11:00:03Z] #1006 attempt=1/2 status=503 0.056s url=https://www.myfonts.com/products/shree-kannada-4213-complete-family-package-1165157
+[2026-06-18T11:00:03Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:00:05Z] #1007 attempt=2/2 status=503 0.068s url=https://www.myfonts.com/products/shree-kannada-4213-complete-family-package-1165157
+[2026-06-18T11:00:05Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T11:00:07Z] max_retries_exhausted url=https://www.myfonts.com/products/shree-kannada-4213-complete-family-package-1165157
+[2026-06-18T11:00:08Z] #1008 attempt=1/2 status=503 0.145s url=https://www.myfonts.com/collections/shree-kannada-4213-font-modular-infotech
+[2026-06-18T11:00:08Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:00:10Z] #1009 attempt=2/2 status=404 0.166s url=https://www.myfonts.com/collections/shree-kannada-4213-font-modular-infotech
+[2026-06-18T11:00:11Z] #1010 attempt=1/2 status=200 0.282s url=https://www.myfonts.com/products/shree-kannada-1486-complete-family-package-1165097
+[2026-06-18T11:00:11Z] #1011 attempt=1/2 status=503 0.073s url=https://www.myfonts.com/collections/shree-kannada-1486-font-modularinfotech/
+[2026-06-18T11:00:11Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:00:13Z] #1012 attempt=2/2 status=503 0.064s url=https://www.myfonts.com/collections/shree-kannada-1486-font-modularinfotech/
+[2026-06-18T11:00:13Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T11:00:15Z] max_retries_exhausted url=https://www.myfonts.com/collections/shree-kannada-1486-font-modularinfotech/
+[2026-06-18T11:00:15Z] #1013 attempt=1/2 status=503 0.055s url=https://www.myfonts.com/collections/shree-kannada-1486-font-modular-infotech
+[2026-06-18T11:00:15Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:00:18Z] #1014 attempt=2/2 status=503 0.067s url=https://www.myfonts.com/collections/shree-kannada-1486-font-modular-infotech
+[2026-06-18T11:00:18Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T11:00:20Z] max_retries_exhausted url=https://www.myfonts.com/collections/shree-kannada-1486-font-modular-infotech
+[2026-06-18T11:00:20Z] #1015 attempt=1/2 status=503 0.091s url=https://www.myfonts.com/products/shree-kannada-3437-complete-family-package-1165247
+[2026-06-18T11:00:20Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:00:23Z] #1016 attempt=2/2 status=200 0.345s url=https://www.myfonts.com/products/shree-kannada-3437-complete-family-package-1165247
+[2026-06-18T11:00:23Z] #1017 attempt=1/2 status=503 0.058s url=https://www.myfonts.com/collections/shree-kannada-3437-font-modularinfotech/
+[2026-06-18T11:00:23Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:00:25Z] #1018 attempt=2/2 status=200 0.319s url=https://www.myfonts.com/collections/shree-kannada-3437-font-modularinfotech/
+[2026-06-18T11:00:26Z] #1019 attempt=1/2 status=503 0.087s url=https://www.myfonts.com/collections/shree-kannada-3437-font-modularinfotech/
+[2026-06-18T11:00:26Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:00:28Z] #1020 attempt=2/2 status=503 0.089s url=https://www.myfonts.com/collections/shree-kannada-3437-font-modularinfotech/
+[2026-06-18T11:00:28Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T11:00:30Z] max_retries_exhausted url=https://www.myfonts.com/collections/shree-kannada-3437-font-modularinfotech/
+[2026-06-18T11:00:31Z] #1021 attempt=1/2 status=200 0.731s url=https://www.myfonts.com/products/shree-kannada-4217-complete-family-package-1165058
+[2026-06-18T11:00:33Z] #1022 attempt=1/2 status=200 1.589s url=https://www.myfonts.com/collections/shree-kannada-4217-font-modularinfotech/
+[2026-06-18T11:00:33Z] #1023 attempt=1/2 status=503 0.064s url=https://www.myfonts.com/collections/shree-kannada-4217-font-modularinfotech/
+[2026-06-18T11:00:33Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:00:35Z] #1024 attempt=2/2 status=503 0.062s url=https://www.myfonts.com/collections/shree-kannada-4217-font-modularinfotech/
+[2026-06-18T11:00:35Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T11:00:37Z] max_retries_exhausted url=https://www.myfonts.com/collections/shree-kannada-4217-font-modularinfotech/
+[2026-06-18T11:00:38Z] #1025 attempt=1/2 status=503 0.059s url=https://www.myfonts.com/products/moonling-variable-complete-family-package-1166036
+[2026-06-18T11:00:38Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:00:40Z] #1026 attempt=2/2 status=503 0.060s url=https://www.myfonts.com/products/moonling-variable-complete-family-package-1166036
+[2026-06-18T11:00:40Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T11:00:42Z] max_retries_exhausted url=https://www.myfonts.com/products/moonling-variable-complete-family-package-1166036
+[2026-06-18T11:00:43Z] #1027 attempt=1/2 status=200 1.112s url=https://www.myfonts.com/collections/moonling-variable-font-zaki-creative
+[2026-06-18T11:00:45Z] #1028 attempt=1/2 status=200 0.837s url=https://www.myfonts.com/products/shree-kannada-1494-complete-family-package-1164953
+[2026-06-18T11:00:46Z] #1029 attempt=1/2 status=200 0.869s url=https://www.myfonts.com/collections/shree-kannada-1494-font-modularinfotech/
+[2026-06-18T11:00:46Z] #1030 attempt=1/2 status=200 0.251s url=https://www.myfonts.com/collections/shree-kannada-1494-font-modularinfotech/
+[2026-06-18T11:00:48Z] #1031 attempt=1/2 status=200 1.602s url=https://www.myfonts.com/products/shree-kannada-3435-complete-family-package-1165140
+[2026-06-18T11:00:48Z] #1032 attempt=1/2 status=503 0.084s url=https://www.myfonts.com/collections/shree-kannada-3435-font-modularinfotech/
+[2026-06-18T11:00:48Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:00:51Z] #1033 attempt=2/2 status=200 0.839s url=https://www.myfonts.com/collections/shree-kannada-3435-font-modularinfotech/
+[2026-06-18T11:00:52Z] #1034 attempt=1/2 status=200 0.669s url=https://www.myfonts.com/collections/shree-kannada-3435-font-modularinfotech/
+[2026-06-18T11:00:53Z] #1035 attempt=1/2 status=503 0.073s url=https://www.myfonts.com/products/shree-kannada-4298-complete-family-package-1165046
+[2026-06-18T11:00:53Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:00:55Z] #1036 attempt=2/2 status=503 0.073s url=https://www.myfonts.com/products/shree-kannada-4298-complete-family-package-1165046
+[2026-06-18T11:00:55Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T11:00:57Z] max_retries_exhausted url=https://www.myfonts.com/products/shree-kannada-4298-complete-family-package-1165046
+[2026-06-18T11:00:57Z] #1037 attempt=1/2 status=404 0.252s url=https://www.myfonts.com/collections/shree-kannada-4298-font-modular-infotech
+[2026-06-18T11:00:58Z] #1038 attempt=1/2 status=503 0.083s url=https://www.myfonts.com/products/feelosing-brave-complete-family-package-1165500
+[2026-06-18T11:00:58Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:01:00Z] #1039 attempt=2/2 status=503 0.077s url=https://www.myfonts.com/products/feelosing-brave-complete-family-package-1165500
+[2026-06-18T11:01:00Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T11:01:02Z] max_retries_exhausted url=https://www.myfonts.com/products/feelosing-brave-complete-family-package-1165500
+[2026-06-18T11:01:03Z] #1040 attempt=1/2 status=200 0.508s url=https://www.myfonts.com/collections/feelosing-brave-font-stylishtype-studio
+[2026-06-18T11:01:05Z] #1041 attempt=1/2 status=200 2.087s url=https://www.myfonts.com/products/shree-kannada-3498-complete-family-package-1165064
+[2026-06-18T11:01:05Z] #1042 attempt=1/2 status=503 0.083s url=https://www.myfonts.com/collections/shree-kannada-3498-font-modularinfotech/
+[2026-06-18T11:01:05Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:01:09Z] #1043 attempt=2/2 status=200 1.836s url=https://www.myfonts.com/collections/shree-kannada-3498-font-modularinfotech/
+[2026-06-18T11:01:10Z] #1044 attempt=1/2 status=503 0.094s url=https://www.myfonts.com/collections/shree-kannada-3498-font-modularinfotech/
+[2026-06-18T11:01:10Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:01:12Z] #1045 attempt=2/2 status=503 0.073s url=https://www.myfonts.com/collections/shree-kannada-3498-font-modularinfotech/
+[2026-06-18T11:01:12Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T11:01:14Z] max_retries_exhausted url=https://www.myfonts.com/collections/shree-kannada-3498-font-modularinfotech/
+[2026-06-18T11:01:15Z] #1046 attempt=1/2 status=200 0.481s url=https://www.myfonts.com/products/traction-office-package-1143372
+[2026-06-18T11:01:15Z] #1047 attempt=1/2 status=503 0.078s url=https://www.myfonts.com/collections/traction-font-schriftlabor/
+[2026-06-18T11:01:15Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:01:18Z] #1048 attempt=2/2 status=200 1.243s url=https://www.myfonts.com/collections/traction-font-schriftlabor/
+[2026-06-18T11:01:19Z] #1049 attempt=1/6 status=503 0.056s url=https://www.myfonts.com/products.json?limit=100&page=24
+[2026-06-18T11:01:19Z] retryable_503 attempt=1/6 waiting=5s
+[2026-06-18T11:01:25Z] #1050 attempt=2/6 status=503 0.079s url=https://www.myfonts.com/products.json?limit=100&page=24
+[2026-06-18T11:01:25Z] retryable_503 attempt=2/6 waiting=15s
+[2026-06-18T11:01:40Z] #1051 attempt=3/6 status=503 0.059s url=https://www.myfonts.com/products.json?limit=100&page=24
+[2026-06-18T11:01:40Z] retryable_503 attempt=3/6 waiting=25s
+[2026-06-18T11:02:07Z] #1052 attempt=4/6 status=200 1.392s url=https://www.myfonts.com/products.json?limit=100&page=24
+[2026-06-18T11:02:08Z] #1053 attempt=1/2 status=200 0.763s url=https://www.myfonts.com/products/shree-kannada-1498-complete-family-package-1164999
+[2026-06-18T11:02:08Z] #1054 attempt=1/2 status=503 0.081s url=https://www.myfonts.com/collections/shree-kannada-1498-font-modularinfotech/
+[2026-06-18T11:02:08Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:02:11Z] #1055 attempt=2/2 status=503 0.075s url=https://www.myfonts.com/collections/shree-kannada-1498-font-modularinfotech/
+[2026-06-18T11:02:11Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T11:02:13Z] max_retries_exhausted url=https://www.myfonts.com/collections/shree-kannada-1498-font-modularinfotech/
+[2026-06-18T11:02:13Z] #1056 attempt=1/2 status=503 0.113s url=https://www.myfonts.com/collections/shree-kannada-1498-font-modular-infotech
+[2026-06-18T11:02:13Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:02:16Z] #1057 attempt=2/2 status=404 0.582s url=https://www.myfonts.com/collections/shree-kannada-1498-font-modular-infotech
+[2026-06-18T11:02:17Z] #1058 attempt=1/2 status=200 0.565s url=https://www.myfonts.com/products/shree-kannada-4280-complete-family-package-1165049
+[2026-06-18T11:02:17Z] #1059 attempt=1/2 status=200 0.643s url=https://www.myfonts.com/collections/shree-kannada-4280-font-modularinfotech/
+[2026-06-18T11:02:19Z] #1060 attempt=1/2 status=200 0.829s url=https://www.myfonts.com/collections/shree-kannada-4280-font-modularinfotech/
+[2026-06-18T11:02:20Z] #1061 attempt=1/2 status=200 0.714s url=https://www.myfonts.com/products/hangtuah-complete-family-package-1166022
+[2026-06-18T11:02:21Z] #1062 attempt=1/2 status=200 1.182s url=https://www.myfonts.com/collections/hangtuah-font-tini-fitriani/
+[2026-06-18T11:02:22Z] #1063 attempt=1/2 status=200 0.282s url=https://www.myfonts.com/products/shree-kannada-4218-complete-family-package-1165007
+[2026-06-18T11:02:22Z] #1064 attempt=1/2 status=503 0.067s url=https://www.myfonts.com/collections/shree-kannada-4218-font-modularinfotech/
+[2026-06-18T11:02:22Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:02:25Z] #1065 attempt=2/2 status=200 1.282s url=https://www.myfonts.com/collections/shree-kannada-4218-font-modularinfotech/
+[2026-06-18T11:02:26Z] #1066 attempt=1/2 status=503 0.066s url=https://www.myfonts.com/collections/shree-kannada-4218-font-modularinfotech/
+[2026-06-18T11:02:26Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:02:28Z] #1067 attempt=2/2 status=503 0.080s url=https://www.myfonts.com/collections/shree-kannada-4218-font-modularinfotech/
+[2026-06-18T11:02:28Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T11:02:30Z] max_retries_exhausted url=https://www.myfonts.com/collections/shree-kannada-4218-font-modularinfotech/
+[2026-06-18T11:02:31Z] #1068 attempt=1/2 status=200 0.782s url=https://www.myfonts.com/products/variable-package-1166783
+[2026-06-18T11:02:32Z] #1069 attempt=1/2 status=200 1.201s url=https://www.myfonts.com/collections/binetra-font-ridtype/
+[2026-06-18T11:02:33Z] #1070 attempt=1/2 status=503 0.058s url=https://www.myfonts.com/products/shree-kannada-3417-complete-family-package-1164982
+[2026-06-18T11:02:33Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:02:35Z] #1071 attempt=2/2 status=503 0.064s url=https://www.myfonts.com/products/shree-kannada-3417-complete-family-package-1164982
+[2026-06-18T11:02:35Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T11:02:37Z] max_retries_exhausted url=https://www.myfonts.com/products/shree-kannada-3417-complete-family-package-1164982
+[2026-06-18T11:02:37Z] #1072 attempt=1/2 status=404 0.181s url=https://www.myfonts.com/collections/shree-kannada-3417-font-modular-infotech
+[2026-06-18T11:02:38Z] #1073 attempt=1/2 status=503 0.064s url=https://www.myfonts.com/products/harfiola-complete-family-package-1166019
+[2026-06-18T11:02:38Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:02:40Z] #1074 attempt=2/2 status=200 0.297s url=https://www.myfonts.com/products/harfiola-complete-family-package-1166019
+[2026-06-18T11:02:41Z] #1075 attempt=1/2 status=503 0.076s url=https://www.myfonts.com/collections/harfiola-font-tini-fitriani/
+[2026-06-18T11:02:41Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:02:43Z] #1076 attempt=2/2 status=200 0.499s url=https://www.myfonts.com/collections/harfiola-font-tini-fitriani/
+[2026-06-18T11:02:44Z] #1077 attempt=1/2 status=200 0.269s url=https://www.myfonts.com/products/shree-kannada-0869-complete-family-package-1165274
+[2026-06-18T11:02:44Z] #1078 attempt=1/2 status=200 0.373s url=https://www.myfonts.com/collections/shree-kannada-0869-font-modularinfotech/
+[2026-06-18T11:02:45Z] #1079 attempt=1/2 status=200 0.395s url=https://www.myfonts.com/collections/shree-kannada-0869-font-modularinfotech/
+[2026-06-18T11:02:46Z] #1080 attempt=1/2 status=200 0.436s url=https://www.myfonts.com/products/shree-kannada-4283-complete-family-package-1165013
+[2026-06-18T11:02:46Z] #1081 attempt=1/2 status=200 0.414s url=https://www.myfonts.com/collections/shree-kannada-4283-font-modularinfotech/
+[2026-06-18T11:02:47Z] #1082 attempt=1/2 status=200 0.389s url=https://www.myfonts.com/collections/shree-kannada-4283-font-modularinfotech/
+[2026-06-18T11:02:48Z] #1083 attempt=1/2 status=200 0.372s url=https://www.myfonts.com/products/shree-kannada-3488-complete-family-package-1165004
+[2026-06-18T11:02:49Z] #1084 attempt=1/2 status=200 0.869s url=https://www.myfonts.com/collections/shree-kannada-3488-font-modularinfotech/
+[2026-06-18T11:02:50Z] #1085 attempt=1/2 status=200 0.920s url=https://www.myfonts.com/collections/shree-kannada-3488-font-modularinfotech/
+[2026-06-18T11:02:51Z] #1086 attempt=1/2 status=200 0.951s url=https://www.myfonts.com/products/shree-kannada-3423-complete-family-package-1164965
+[2026-06-18T11:02:53Z] #1087 attempt=1/2 status=200 1.099s url=https://www.myfonts.com/collections/shree-kannada-3423-font-modularinfotech/
+[2026-06-18T11:02:53Z] #1088 attempt=1/2 status=200 0.614s url=https://www.myfonts.com/collections/shree-kannada-3423-font-modularinfotech/
+[2026-06-18T11:02:55Z] #1089 attempt=1/2 status=200 0.950s url=https://www.myfonts.com/products/shree-kannada-4205-complete-family-package-1164962
+[2026-06-18T11:02:56Z] #1090 attempt=1/2 status=200 1.183s url=https://www.myfonts.com/collections/shree-kannada-4205-font-modularinfotech/
+[2026-06-18T11:02:57Z] #1091 attempt=1/2 status=200 0.488s url=https://www.myfonts.com/collections/shree-kannada-4205-font-modularinfotech/
+[2026-06-18T11:02:58Z] #1092 attempt=1/2 status=200 0.425s url=https://www.myfonts.com/products/shree-kannada-1469-complete-family-package-1165212
+[2026-06-18T11:02:58Z] #1093 attempt=1/2 status=200 0.601s url=https://www.myfonts.com/collections/shree-kannada-1469-font-modularinfotech/
+[2026-06-18T11:02:59Z] #1094 attempt=1/2 status=200 0.287s url=https://www.myfonts.com/collections/shree-kannada-1469-font-modularinfotech/
+[2026-06-18T11:02:59Z] #1095 attempt=1/2 status=503 0.058s url=https://www.myfonts.com/products/division-grotesk-complete-family-package-1165423
+[2026-06-18T11:02:59Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:03:02Z] #1096 attempt=2/2 status=200 0.930s url=https://www.myfonts.com/products/division-grotesk-complete-family-package-1165423
+[2026-06-18T11:03:04Z] #1097 attempt=1/2 status=200 0.843s url=https://www.myfonts.com/collections/division-grotesk-font-asenbayu/
+[2026-06-18T11:03:04Z] #1098 attempt=1/2 status=200 0.506s url=https://www.myfonts.com/products/403-astona-complete-family-package-1165989
+[2026-06-18T11:03:05Z] #1099 attempt=1/2 status=200 0.915s url=https://www.myfonts.com/collections/403-astona-font-403tf/
+[2026-06-18T11:03:07Z] #1100 attempt=1/2 status=200 0.911s url=https://www.myfonts.com/products/mount-sagilite-complete-family-package-1165462
+[2026-06-18T11:03:07Z] #1101 attempt=1/2 status=503 0.065s url=https://www.myfonts.com/collections/mount-sagilite-font-afkari-studio/
+[2026-06-18T11:03:07Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:03:09Z] #1102 attempt=2/2 status=503 0.070s url=https://www.myfonts.com/collections/mount-sagilite-font-afkari-studio/
+[2026-06-18T11:03:09Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T11:03:11Z] max_retries_exhausted url=https://www.myfonts.com/collections/mount-sagilite-font-afkari-studio/
+[2026-06-18T11:03:12Z] #1103 attempt=1/2 status=503 0.058s url=https://www.myfonts.com/products/wobble-ink-complete-family-package-1165510
+[2026-06-18T11:03:12Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:03:14Z] #1104 attempt=2/2 status=503 0.067s url=https://www.myfonts.com/products/wobble-ink-complete-family-package-1165510
+[2026-06-18T11:03:14Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T11:03:16Z] max_retries_exhausted url=https://www.myfonts.com/products/wobble-ink-complete-family-package-1165510
+[2026-06-18T11:03:16Z] #1105 attempt=1/2 status=503 0.070s url=https://www.myfonts.com/collections/wobble-ink-font-littlehand
+[2026-06-18T11:03:16Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:03:18Z] #1106 attempt=2/2 status=503 0.060s url=https://www.myfonts.com/collections/wobble-ink-font-littlehand
+[2026-06-18T11:03:18Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T11:03:20Z] max_retries_exhausted url=https://www.myfonts.com/collections/wobble-ink-font-littlehand
+[2026-06-18T11:03:21Z] #1107 attempt=1/2 status=503 0.064s url=https://www.myfonts.com/products/mafesta-complete-family-package-1165756
+[2026-06-18T11:03:21Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:03:23Z] #1108 attempt=2/2 status=200 0.310s url=https://www.myfonts.com/products/mafesta-complete-family-package-1165756
+[2026-06-18T11:03:24Z] #1109 attempt=1/2 status=200 0.460s url=https://www.myfonts.com/collections/mafesta-font-vermilione/
+[2026-06-18T11:03:24Z] #1110 attempt=1/2 status=503 0.060s url=https://www.myfonts.com/products/shree-kannada-4215-complete-family-package-1165203
+[2026-06-18T11:03:24Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:03:26Z] #1111 attempt=2/2 status=503 0.058s url=https://www.myfonts.com/products/shree-kannada-4215-complete-family-package-1165203
+[2026-06-18T11:03:26Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T11:03:28Z] max_retries_exhausted url=https://www.myfonts.com/products/shree-kannada-4215-complete-family-package-1165203
+[2026-06-18T11:03:29Z] #1112 attempt=1/2 status=404 0.550s url=https://www.myfonts.com/collections/shree-kannada-4215-font-modular-infotech
+[2026-06-18T11:03:30Z] #1113 attempt=1/2 status=200 0.436s url=https://www.myfonts.com/products/shree-kannada-4296-complete-family-package-1165271
+[2026-06-18T11:03:30Z] #1114 attempt=1/2 status=503 0.060s url=https://www.myfonts.com/collections/shree-kannada-4296-font-modularinfotech/
+[2026-06-18T11:03:30Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:03:32Z] #1115 attempt=2/2 status=503 0.074s url=https://www.myfonts.com/collections/shree-kannada-4296-font-modularinfotech/
+[2026-06-18T11:03:32Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T11:03:34Z] max_retries_exhausted url=https://www.myfonts.com/collections/shree-kannada-4296-font-modularinfotech/
+[2026-06-18T11:03:35Z] #1116 attempt=1/2 status=503 0.060s url=https://www.myfonts.com/collections/shree-kannada-4296-font-modular-infotech
+[2026-06-18T11:03:35Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:03:37Z] #1117 attempt=2/2 status=404 0.266s url=https://www.myfonts.com/collections/shree-kannada-4296-font-modular-infotech
+[2026-06-18T11:03:38Z] #1118 attempt=1/2 status=200 0.420s url=https://www.myfonts.com/products/roster-funy-complete-family-package-1165873
+[2026-06-18T11:03:39Z] #1119 attempt=1/2 status=200 0.741s url=https://www.myfonts.com/collections/roster-funy-font-timelesstype-studio/
+[2026-06-18T11:03:39Z] #1120 attempt=1/2 status=200 0.349s url=https://www.myfonts.com/products/shree-kannada-0857-complete-family-package-1165144
+[2026-06-18T11:03:40Z] #1121 attempt=1/2 status=200 0.691s url=https://www.myfonts.com/collections/shree-kannada-0857-font-modularinfotech/
+[2026-06-18T11:03:41Z] #1122 attempt=1/2 status=200 0.191s url=https://www.myfonts.com/collections/shree-kannada-0857-font-modularinfotech/
+[2026-06-18T11:03:42Z] #1123 attempt=1/2 status=200 0.953s url=https://www.myfonts.com/products/premierre-marsiella-complete-family-package-1165420
+[2026-06-18T11:03:43Z] #1124 attempt=1/2 status=200 0.995s url=https://www.myfonts.com/collections/premierre-marsiella-font-jolicia-type/
+[2026-06-18T11:03:44Z] #1125 attempt=1/2 status=200 0.424s url=https://www.myfonts.com/products/elisto-remilio-complete-family-package-1165814
+[2026-06-18T11:03:45Z] #1126 attempt=1/2 status=200 0.511s url=https://www.myfonts.com/collections/elisto-remilio-font-nh-typestudio/
+[2026-06-18T11:03:46Z] #1127 attempt=1/2 status=200 0.593s url=https://www.myfonts.com/products/arogel-complete-family-package-1165969
+[2026-06-18T11:03:47Z] #1128 attempt=1/2 status=200 1.081s url=https://www.myfonts.com/collections/arogel-font-vermilione/
+[2026-06-18T11:03:47Z] #1129 attempt=1/2 status=200 0.301s url=https://www.myfonts.com/products/shree-kannada-4208-complete-family-package-1165076
+[2026-06-18T11:03:48Z] #1130 attempt=1/2 status=200 0.524s url=https://www.myfonts.com/collections/shree-kannada-4208-font-modularinfotech/
+[2026-06-18T11:03:49Z] #1131 attempt=1/2 status=503 0.058s url=https://www.myfonts.com/collections/shree-kannada-4208-font-modularinfotech/
+[2026-06-18T11:03:49Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:03:51Z] #1132 attempt=2/2 status=503 0.060s url=https://www.myfonts.com/collections/shree-kannada-4208-font-modularinfotech/
+[2026-06-18T11:03:51Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T11:03:53Z] max_retries_exhausted url=https://www.myfonts.com/collections/shree-kannada-4208-font-modularinfotech/
+[2026-06-18T11:03:53Z] #1133 attempt=1/2 status=200 0.342s url=https://www.myfonts.com/products/shree-kannada-4227-complete-family-package-1165180
+[2026-06-18T11:03:54Z] #1134 attempt=1/2 status=200 0.536s url=https://www.myfonts.com/collections/shree-kannada-4227-font-modularinfotech/
+[2026-06-18T11:03:55Z] #1135 attempt=1/2 status=200 0.153s url=https://www.myfonts.com/collections/shree-kannada-4227-font-modularinfotech/
+[2026-06-18T11:03:55Z] #1136 attempt=1/2 status=200 0.550s url=https://www.myfonts.com/products/omica-complete-family-package-1165540
+[2026-06-18T11:03:56Z] #1137 attempt=1/2 status=200 0.613s url=https://www.myfonts.com/collections/omica-font-sensatype-studio/
+[2026-06-18T11:03:57Z] #1138 attempt=1/2 status=200 0.474s url=https://www.myfonts.com/products/wak-complete-family-package-1167155
+[2026-06-18T11:03:58Z] #1139 attempt=1/2 status=200 0.531s url=https://www.myfonts.com/collections/wak-font-paratype/
+[2026-06-18T11:03:59Z] #1140 attempt=1/2 status=200 0.520s url=https://www.myfonts.com/products/shree-kannada-4222-complete-family-package-1165067
+[2026-06-18T11:04:00Z] #1141 attempt=1/2 status=200 0.790s url=https://www.myfonts.com/collections/shree-kannada-4222-font-modularinfotech/
+[2026-06-18T11:04:00Z] #1142 attempt=1/2 status=200 0.383s url=https://www.myfonts.com/collections/shree-kannada-4222-font-modularinfotech/
+[2026-06-18T11:04:01Z] #1143 attempt=1/2 status=200 0.699s url=https://www.myfonts.com/products/thing-soft-complete-family-package-1165321
+[2026-06-18T11:04:04Z] #1144 attempt=1/2 status=200 2.114s url=https://www.myfonts.com/collections/thing-soft-font-alpercakici/
+[2026-06-18T11:04:04Z] #1145 attempt=1/2 status=200 0.330s url=https://www.myfonts.com/products/shree-kannada-4214-complete-family-package-1165163
+[2026-06-18T11:04:05Z] #1146 attempt=1/2 status=200 0.430s url=https://www.myfonts.com/collections/shree-kannada-4214-font-modularinfotech/
+[2026-06-18T11:04:06Z] #1147 attempt=1/2 status=200 0.931s url=https://www.myfonts.com/collections/shree-kannada-4214-font-modularinfotech/
+[2026-06-18T11:04:07Z] #1148 attempt=1/2 status=503 0.081s url=https://www.myfonts.com/products/shree-kannada-4219-complete-family-package-1165226
+[2026-06-18T11:04:07Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:04:09Z] #1149 attempt=2/2 status=503 0.073s url=https://www.myfonts.com/products/shree-kannada-4219-complete-family-package-1165226
+[2026-06-18T11:04:09Z] retryable_503 attempt=2/2 waiting=2s
+[2026-06-18T11:04:11Z] max_retries_exhausted url=https://www.myfonts.com/products/shree-kannada-4219-complete-family-package-1165226
+[2026-06-18T11:04:11Z] #1150 attempt=1/2 status=503 0.081s url=https://www.myfonts.com/collections/shree-kannada-4219-font-modular-infotech
+[2026-06-18T11:04:11Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:04:14Z] #1151 attempt=2/2 status=404 0.633s url=https://www.myfonts.com/collections/shree-kannada-4219-font-modular-infotech
+[2026-06-18T11:04:15Z] #1152 attempt=1/2 status=200 0.287s url=https://www.myfonts.com/products/shree-kannada-4299-complete-family-package-1165129
+[2026-06-18T11:04:16Z] #1153 attempt=1/2 status=200 0.879s url=https://www.myfonts.com/collections/shree-kannada-4299-font-modularinfotech/
+[2026-06-18T11:04:16Z] #1154 attempt=1/2 status=200 0.445s url=https://www.myfonts.com/collections/shree-kannada-4299-font-modularinfotech/
+[2026-06-18T11:04:17Z] #1155 attempt=1/2 status=200 0.423s url=https://www.myfonts.com/products/hawara-complete-family-package-1165783
+[2026-06-18T11:04:19Z] #1156 attempt=1/2 status=200 1.505s url=https://www.myfonts.com/collections/hawara-font-ekke-wolf/
+[2026-06-18T11:04:19Z] #1157 attempt=1/2 status=200 0.336s url=https://www.myfonts.com/products/shree-kannada-5305-complete-family-package-1165192
+[2026-06-18T11:04:20Z] #1158 attempt=1/2 status=200 0.775s url=https://www.myfonts.com/collections/shree-kannada-5305-font-modularinfotech/
+[2026-06-18T11:04:22Z] #1159 attempt=1/2 status=200 0.965s url=https://www.myfonts.com/collections/shree-kannada-5305-font-modularinfotech/
+[2026-06-18T11:04:23Z] #1160 attempt=1/2 status=200 0.847s url=https://www.myfonts.com/products/plantago-office-package-1143358
+[2026-06-18T11:04:25Z] #1161 attempt=1/2 status=200 1.447s url=https://www.myfonts.com/collections/plantago-font-schriftlabor/
+[2026-06-18T11:04:26Z] #1162 attempt=1/2 status=200 1.053s url=https://www.myfonts.com/products/skyppe-blastingo-complete-family-package-1165737
+[2026-06-18T11:04:27Z] #1163 attempt=1/2 status=200 1.197s url=https://www.myfonts.com/collections/skyppe-blastingo-font-stylishtype-studio/
+[2026-06-18T11:04:28Z] #1164 attempt=1/2 status=200 0.378s url=https://www.myfonts.com/products/shree-kannada-0854-complete-family-package-1165112
+[2026-06-18T11:04:29Z] #1165 attempt=1/2 status=200 0.356s url=https://www.myfonts.com/collections/shree-kannada-0854-font-modularinfotech/
+[2026-06-18T11:04:29Z] #1166 attempt=1/2 status=200 0.390s url=https://www.myfonts.com/collections/shree-kannada-0854-font-modularinfotech/
+[2026-06-18T11:04:30Z] #1167 attempt=1/2 status=200 0.754s url=https://www.myfonts.com/products/shree-kannada-0868-complete-family-package-1165082
+[2026-06-18T11:04:31Z] #1168 attempt=1/2 status=200 0.446s url=https://www.myfonts.com/collections/shree-kannada-0868-font-modularinfotech/
+[2026-06-18T11:04:32Z] #1169 attempt=1/2 status=200 0.732s url=https://www.myfonts.com/collections/shree-kannada-0868-font-modularinfotech/
+[2026-06-18T11:04:33Z] #1170 attempt=1/2 status=200 0.386s url=https://www.myfonts.com/products/shree-kannada-4276-complete-family-package-1165031
+[2026-06-18T11:04:33Z] #1171 attempt=1/2 status=200 0.493s url=https://www.myfonts.com/collections/shree-kannada-4276-font-modularinfotech/
+[2026-06-18T11:04:35Z] #1172 attempt=1/2 status=200 0.955s url=https://www.myfonts.com/collections/shree-kannada-4276-font-modularinfotech/
+[2026-06-18T11:04:35Z] #1173 attempt=1/2 status=200 0.405s url=https://www.myfonts.com/products/shree-kannada-1427-complete-family-package-1165019
+[2026-06-18T11:04:36Z] #1174 attempt=1/2 status=200 0.418s url=https://www.myfonts.com/collections/shree-kannada-1427-font-modularinfotech/
+[2026-06-18T11:04:37Z] #1175 attempt=1/2 status=200 0.776s url=https://www.myfonts.com/collections/shree-kannada-1427-font-modularinfotech/
+[2026-06-18T11:04:38Z] #1176 attempt=1/2 status=200 0.384s url=https://www.myfonts.com/products/shree-kan5334-complete-family-package-1165183
+[2026-06-18T11:04:39Z] #1177 attempt=1/2 status=200 0.623s url=https://www.myfonts.com/collections/shree-kan5334-font-modularinfotech/
+[2026-06-18T11:04:39Z] #1178 attempt=1/2 status=200 0.334s url=https://www.myfonts.com/products/shree-kannada-3460-complete-family-package-1165220
+[2026-06-18T11:04:40Z] #1179 attempt=1/2 status=200 0.816s url=https://www.myfonts.com/collections/shree-kannada-3460-font-modularinfotech/
+[2026-06-18T11:04:41Z] #1180 attempt=1/2 status=503 0.063s url=https://www.myfonts.com/collections/shree-kannada-3460-font-modularinfotech/
+[2026-06-18T11:04:41Z] retryable_503 attempt=1/2 waiting=2s
+[2026-06-18T11:04:43Z] #1181 attempt=2/2 status=200 0.161s url=https://www.myfonts.com/collections/shree-kannada-3460-font-modularinfotech/
+[2026-06-18T11:04:44Z] #1182 attempt=1/2 status=200 0.424s url=https://www.myfonts.com/products/shree-kannada-3400-complete-family-package-1165085
+[2026-06-18T11:04:45Z] #1183 attempt=1/2 status=200 0.768s url=https://www.myfonts.com/collections/shree-kannada-3400-font-modularinfotech/
+[2026-06-18T11:04:45Z] #1184 attempt=1/2 status=200 0.204s url=https://www.myfonts.com/collections/shree-kannada-3400-font-modularinfotech/
+[2026-06-18T11:04:46Z] #1185 attempt=1/2 status=200 0.455s url=https://www.myfonts.com/products/shree-kannada-5302-complete-family-package-1165177
+[2026-06-18T11:04:47Z] #1186 attempt=1/2 status=200 0.661s url=https://www.myfonts.com/collections/shree-kannada-5302-font-modularinfotech/
+[2026-06-18T11:04:47Z] #1187 attempt=1/2 status=200 0.179s url=https://www.myfonts.com/collections/shree-kannada-5302-font-modularinfotech/
+[2026-06-18T11:04:48Z] #1188 attempt=1/2 status=200 0.513s url=https://www.myfonts.com/products/shree-kannada-0865-complete-family-package-1165200
+[2026-06-18T11:04:49Z] #1189 attempt=1/2 status=200 0.417s url=https://www.myfonts.com/collections/shree-kannada-0865-font-modularinfotech/
+[2026-06-18T11:04:49Z] #1190 attempt=1/2 status=200 0.404s url=https://www.myfonts.com/collections/shree-kannada-0865-font-modularinfotech/
+[2026-06-18T11:04:50Z] #1191 attempt=1/2 status=200 0.513s url=https://www.myfonts.com/products/shree-kannada-3439-complete-family-package-1165028
+[2026-06-18T11:04:51Z] #1192 attempt=1/2 status=200 0.458s url=https://www.myfonts.com/collections/shree-kannada-3439-font-modularinfotech/
+[2026-06-18T11:04:51Z] #1193 attempt=1/2 status=200 0.157s url=https://www.myfonts.com/collections/shree-kannada-3439-font-modularinfotech/
+[2026-06-18T11:04:52Z] #1194 attempt=1/2 status=200 0.314s url=https://www.myfonts.com/products/shree-kannada-1430-complete-family-package-1165250
+[2026-06-18T11:04:53Z] #1195 attempt=1/2 status=200 0.666s url=https://www.myfonts.com/collections/shree-kannada-1430-font-modularinfotech/
+[2026-06-18T11:04:54Z] #1196 attempt=1/2 status=200 0.478s url=https://www.myfonts.com/collections/shree-kannada-1430-font-modularinfotech/
+[2026-06-18T11:04:54Z] #1197 attempt=1/2 status=429 0.044s url=https://www.myfonts.com/products/arvelis-complete-family-package-1165438
+[2026-06-18T11:04:57Z] #1198 attempt=2/2 status=200 0.462s url=https://www.myfonts.com/products/arvelis-complete-family-package-1165438
+[2026-06-18T11:04:57Z] #1199 attempt=1/2 status=200 0.551s url=https://www.myfonts.com/collections/arvelis-font-artisan-studio/
+[2026-06-18T11:04:59Z] #1200 attempt=1/6 status=200 0.870s url=https://www.myfonts.com/products.json?limit=100&page=25
+[2026-06-18T11:04:59Z] summary releases=228 first_429=(132, 'https://www.myfonts.com/collections/kancil-font-pekotype/', 0.04280567169189453) log_file=state/myfonts_run_20260618_104156.log
+[2026-06-18T11:04:59Z] === MyFonts crawl end ===
