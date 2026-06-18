@@ -102,5 +102,18 @@
       "category": "thought-leadership"
     },
     "news_id": "05311d21542848b7"
+  },
+  {
+    "source_id": "monotype",
+    "source_name": "Monotype",
+    "title": "Type Faces: Meet Sneha Banerjee.",
+    "url": "https://www.monotype.com/company/spotlights/type-faces-meet-sneha-banerjee",
+    "published_at": "2026-06-18",
+    "image_url": "https://www.monotype.com/sites/default/files/styles/width_910/public/2024-09/MT_Type_Faces_Blog_Hero_1%20%281%29_144.webp?itok=BKzKQumc",
+    "discovered_at": "2026-06-18T20:18:26.532503+00:00",
+    "raw": {
+      "category": "spotlights"
+    },
+    "news_id": "a3f0e563b61e1f05"
   }
 ]
