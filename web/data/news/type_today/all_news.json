@@ -306,5 +306,19 @@
       "post_date": "2026-06-16"
     },
     "news_id": "152d5ac1222188f0"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Factor B in use: People We Knew Were Indians",
+    "url": "https://type.today/en/journal/people-we-knew",
+    "published_at": "2026-06-23",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1293/preview_420_preview_image_en-bjJNXl-i1YLwEEt-C6-lWG7RI4xQKhtOFQ.jpg",
+    "discovered_at": "2026-06-23T10:24:10.412316+00:00",
+    "raw": {
+      "slug": "people-we-knew",
+      "post_date": "2026-06-23"
+    },
+    "news_id": "6f7c2cb34b7a6de1"
   }
 ]
