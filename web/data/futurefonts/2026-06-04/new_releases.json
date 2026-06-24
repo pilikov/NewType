@@ -1,0 +1,36 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/dualtype/dual-casual?v=0.5",
+    "name": "Dual Casual",
+    "styles": [],
+    "authors": [
+      "DualType"
+    ],
+    "scripts": [
+      "basic-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-06-03",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/428/medium_dualtype-header-100.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-04T10:21:34.640092+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:21902",
+      "activity_id": 21902,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.5",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 9825,
+      "resolved_typeface_id": 419,
+      "typeface_language": "basic-latin"
+    },
+    "release_id": "2a872a7d5b41a6bc"
+  }
+]
