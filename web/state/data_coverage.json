@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T10:24:06.130486Z",
+  "generated_at": "2026-06-24T10:18:02.680337Z",
   "sources": {
     "contemporarytype": {
       "source_id": "contemporarytype",
@@ -135,10 +135,16 @@
         "favicon_local_path": "_meta/favicons/fontstand.ico",
         "favicon_resolved_from": "configured"
       },
-      "has_data": false,
-      "min_date": null,
-      "max_date": null,
-      "weeks": []
+      "has_data": true,
+      "min_date": "2026-06-23",
+      "max_date": "2026-06-23",
+      "weeks": [
+        {
+          "week_start": "2026-06-22",
+          "week_end": "2026-06-28",
+          "label": "2026-06-22..2026-06-28"
+        }
+      ]
     },
     "futurefonts": {
       "source_id": "futurefonts",
@@ -151,7 +157,7 @@
       },
       "has_data": true,
       "min_date": "2026-04-15",
-      "max_date": "2026-06-22",
+      "max_date": "2026-06-23",
       "weeks": [
         {
           "week_start": "2026-04-13",
@@ -3071,7 +3077,7 @@
       },
       "has_data": true,
       "min_date": "2026-03-30",
-      "max_date": "2026-06-23",
+      "max_date": "2026-06-24",
       "weeks": [
         {
           "week_start": "2026-03-30",
