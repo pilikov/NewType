@@ -320,5 +320,19 @@
       "post_date": "2026-06-23"
     },
     "news_id": "6f7c2cb34b7a6de1"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Christian Schwartz, Ilya Ruderman: ‘Survive long enough to see whatever comes next’",
+    "url": "https://type.today/en/journal/schwartz-ruderman",
+    "published_at": "2026-06-25",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1294/preview_420_preview_image_en-5_xwGbOH86PmOFD6h19o9GQn70jKFTzjZw.png",
+    "discovered_at": "2026-06-25T10:06:49.494156+00:00",
+    "raw": {
+      "slug": "schwartz-ruderman",
+      "post_date": "2026-06-25"
+    },
+    "news_id": "2758cbd2277181e4"
   }
 ]
