@@ -334,5 +334,19 @@
       "post_date": "2026-06-25"
     },
     "news_id": "2758cbd2277181e4"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Forma DJR in use: La Loge",
+    "url": "https://type.today/en/journal/laloge",
+    "published_at": "2026-06-30",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1295/preview_420_preview_image_en-OX2AFOhE-AMrOuJc3WKGOvqjLugMTk9gtw.png",
+    "discovered_at": "2026-06-30T10:02:41.193158+00:00",
+    "raw": {
+      "slug": "laloge",
+      "post_date": "2026-06-30"
+    },
+    "news_id": "87c5acf191b833de"
   }
 ]
