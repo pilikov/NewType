@@ -124,5 +124,61 @@
       "typeface": ""
     },
     "news_id": "0d1e20a6753871d9"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Pavilion of Finland",
+    "url": "https://www.grillitype.com/blog/in-use/pavilion-finland-2026-design",
+    "published_at": "2026-07-01",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/6a4/465/d8c/6a4465d8cf68e729544748.png",
+    "discovered_at": "2026-07-01T10:22:53.132595+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Zirkon"
+    },
+    "news_id": "01c7c209d9a37d49"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Wes Anderson: Edge Of The Frame",
+    "url": "https://www.grillitype.com/blog/in-use/wes-anderson-photo-exhibition",
+    "published_at": "2026-07-01",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/6a4/467/80e/6a446780eaa52950705264.png",
+    "discovered_at": "2026-07-01T10:22:53.891630+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Alpina"
+    },
+    "news_id": "b5ed172a41cbbb7d"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "La Nave School",
+    "url": "https://www.grillitype.com/blog/in-use/la-nave-school-design",
+    "published_at": "2026-07-01",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/6a4/469/620/6a44696205de3993813699.png",
+    "discovered_at": "2026-07-01T10:22:54.464741+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Flexa"
+    },
+    "news_id": "9eb8e585056b402f"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Washington Square Park Conservancy",
+    "url": "https://www.grillitype.com/blog/in-use/washington-sq-park-design",
+    "published_at": "2026-07-01",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/6a4/46a/d59/6a446ad59c711818864071.png",
+    "discovered_at": "2026-07-01T10:22:55.664640+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Ultra"
+    },
+    "news_id": "61792632f35c9aaa"
   }
 ]
