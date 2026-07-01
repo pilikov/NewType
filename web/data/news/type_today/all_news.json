@@ -348,5 +348,19 @@
       "post_date": "2026-06-30"
     },
     "news_id": "87c5acf191b833de"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Type posters today 04",
+    "url": "https://type.today/en/journal/oc-algorytm",
+    "published_at": "2026-07-01",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1296/preview_420_preview_image_en-DJlvcZpMEY-ICckl918CcjqErXMqoT6Jgw.png",
+    "discovered_at": "2026-07-01T19:46:48.309181+00:00",
+    "raw": {
+      "slug": "oc-algorytm",
+      "post_date": "2026-07-01"
+    },
+    "news_id": "1f823d4095634707"
   }
 ]
