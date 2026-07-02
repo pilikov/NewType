@@ -273,5 +273,27 @@
     "discovered_at": "2026-06-11T20:14:44.650316+00:00",
     "raw": {},
     "news_id": "af26560e5799fd32"
+  },
+  {
+    "source_id": "fontstand",
+    "source_name": "Fontstand",
+    "title": "Mitch Paone (1982–2026)",
+    "url": "https://fontstand.com/news/essays/mitch-paone-19822026/",
+    "published_at": null,
+    "image_url": null,
+    "discovered_at": "2026-07-02T19:17:40.955098+00:00",
+    "raw": {},
+    "news_id": "e72d2bb6b1275325"
+  },
+  {
+    "source_id": "fontstand",
+    "source_name": "Fontstand",
+    "title": "Sebastian Carewe",
+    "url": "https://fontstand.com/news/authors/34",
+    "published_at": null,
+    "image_url": null,
+    "discovered_at": "2026-07-02T19:17:40.955458+00:00",
+    "raw": {},
+    "news_id": "8d6424fe81d8e6bd"
   }
 ]
