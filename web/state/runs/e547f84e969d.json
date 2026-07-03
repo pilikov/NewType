@@ -1,0 +1,78 @@
+{
+  "context": {
+    "run_id": "e547f84e969d",
+    "started_at": "2026-07-03T09:30:58.715961+00:00",
+    "source_filter": [],
+    "timeout_seconds": 20
+  },
+  "summary": {
+    "run_id": "e547f84e969d",
+    "started_at": "2026-07-03T09:30:58.715961+00:00",
+    "finished_at": "2026-07-03T09:47:41.360866Z",
+    "sources": [
+      {
+        "source_id": "myfonts",
+        "status": "success",
+        "total_releases": 4712,
+        "new_releases": 2,
+        "duration_seconds": 939.734,
+        "output_dir": "/home/runner/work/NewType/NewType/data/myfonts/2026-07-03",
+        "error": null
+      },
+      {
+        "source_id": "type_today",
+        "status": "success",
+        "total_releases": 0,
+        "new_releases": 0,
+        "duration_seconds": 3.431,
+        "output_dir": "/home/runner/work/NewType/NewType/data/type_today/2026-07-03",
+        "error": null
+      },
+      {
+        "source_id": "futurefonts",
+        "status": "success",
+        "total_releases": 0,
+        "new_releases": 0,
+        "duration_seconds": 1.119,
+        "output_dir": "/home/runner/work/NewType/NewType/data/futurefonts/2026-07-03",
+        "error": null
+      },
+      {
+        "source_id": "typenetwork",
+        "status": "success",
+        "total_releases": 0,
+        "new_releases": 0,
+        "duration_seconds": 3.441,
+        "output_dir": "/home/runner/work/NewType/NewType/data/typenetwork/2026-07-03",
+        "error": null
+      },
+      {
+        "source_id": "contemporarytype",
+        "status": "success",
+        "total_releases": 59,
+        "new_releases": 0,
+        "duration_seconds": 4.062,
+        "output_dir": "/home/runner/work/NewType/NewType/data/contemporarytype/2026-07-03",
+        "error": null
+      },
+      {
+        "source_id": "fontstand",
+        "status": "success",
+        "total_releases": 0,
+        "new_releases": 0,
+        "duration_seconds": 25.557,
+        "output_dir": "/home/runner/work/NewType/NewType/data/fontstand/2026-07-03",
+        "error": null
+      },
+      {
+        "source_id": "ilt",
+        "status": "success",
+        "total_releases": 1597,
+        "new_releases": 0,
+        "duration_seconds": 16.366,
+        "output_dir": "/home/runner/work/NewType/NewType/data/ilt/2026-07-03",
+        "error": null
+      }
+    ]
+  }
+}
