@@ -1,0 +1,41 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/solo-sans-duo-package-1133477",
+    "name": "Solo Sans Duo",
+    "styles": [],
+    "authors": [
+      "Fontop"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-04-12",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-13T08:19:46.219021+00:00",
+    "raw": {
+      "id": 8420307370154,
+      "handle": "solo-sans-duo-package-1133477",
+      "tags": [
+        "pim:designerId:6631",
+        "pim:familyId:7391",
+        "pim:familyId:7481",
+        "pim:foundryId:1485",
+        "pim:skuId:1133477"
+      ],
+      "updated_at": "2026-04-13T04:19:25-04:00",
+      "product_url": "https://www.myfonts.com/products/solo-sans-duo-package-1133477",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Solo Sans Duo",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "6c8134608cf8ad4d"
+  }
+]

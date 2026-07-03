@@ -1,0 +1,443 @@
+[
+  {
+    "source_id": "contemporarytype",
+    "source_name": "Contemporary Type",
+    "source_url": "https://contemporarytype.com/fonts/se-macro",
+    "name": "Se Macro",
+    "styles": [
+      "Se Macro Condensed Hairline",
+      "Se Macro Condensed Hairline Italic",
+      "Se Macro Condensed Thin",
+      "Se Macro Condensed Thin Italic",
+      "Se Macro Condensed ExtraLight",
+      "Se Macro Condensed ExtraLight Italic",
+      "Se Macro Condensed Light",
+      "Se Macro Condensed Light Italic",
+      "Se Macro Condensed Regular",
+      "Se Macro Condensed Italic",
+      "Se Macro Condensed Medium",
+      "Se Macro Condensed Medium Italic",
+      "Se Macro Condensed Bold",
+      "Se Macro Condensed Bold Italic",
+      "Se Macro Condensed ExtraBold",
+      "Se Macro Condensed ExtraBold Italic",
+      "Se Macro Condensed Black",
+      "Se Macro Condensed Black Italic",
+      "Se Macro Condensed Ultra",
+      "Se Macro Condensed Ultra Italic",
+      "Se Macro Hairline",
+      "Se Macro Hairline Italic",
+      "Se Macro Thin",
+      "Se Macro Thin Italic",
+      "Se Macro ExtraLight",
+      "Se Macro ExtraLight Italic",
+      "Se Macro Light",
+      "Se Macro Light Italic",
+      "Se Macro Regular",
+      "Se Macro Italic",
+      "Se Macro Medium",
+      "Se Macro Medium Italic",
+      "Se Macro Bold",
+      "Se Macro Bold Italic",
+      "Se Macro ExtraBold",
+      "Se Macro ExtraBold Italic",
+      "Se Macro Black",
+      "Se Macro Black Italic",
+      "Se Macro Ultra",
+      "Se Macro Ultra Italic",
+      "Se Macro Wide Hairline",
+      "Se Macro Wide Hairline Italic",
+      "Se Macro Wide Thin",
+      "Se Macro Wide Thin Italic",
+      "Se Macro Wide ExtraLight",
+      "Se Macro Wide ExtraLight Italic",
+      "Se Macro Wide Light",
+      "Se Macro Wide Light Italic",
+      "Se Macro Wide Regular",
+      "Se Macro Wide Italic",
+      "Se Macro Wide Medium",
+      "Se Macro Wide Medium Italic",
+      "Se Macro Wide Bold",
+      "Se Macro Wide Bold Italic",
+      "Se Macro Wide ExtraBold",
+      "Se Macro Wide ExtraBold Italic",
+      "Se Macro Wide Black",
+      "Se Macro Wide Black Italic",
+      "Se Macro Wide Ultra",
+      "Se Macro Wide Ultra Italic",
+      "Se Macro Variable",
+      "Se Macro Italic Variable"
+    ],
+    "authors": [
+      "Gallery Type"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-06-21",
+    "image_url": "https://backend.contemporarytype.com/files/images/semacro-anatomy77044.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/GalleryType_SeMacro_Specimen-1.pdf",
+    "discovered_at": "2026-06-22T12:45:56.671086+00:00",
+    "raw": {
+      "release_identity": "contemporarytype-product:166",
+      "product": {
+        "id": 166,
+        "title": "Se Macro",
+        "slug": "se-macro",
+        "url": "https://contemporarytype.com/fonts/se-macro",
+        "body": "**Se Macro** is not just another sans—it’s a blend of functional versatility for global use and subtle French elegance. Se Macro delivers architectural clarity with expressive warmth, spanning 10 weights and 3 widths, ranging from a feather-light Hairline to a bold and powerful Ultra.\r\n\r\nSe Macro balances clarity and elegance while capturing the spirit of minimalist design between modernism and postmodernism. It combines a monolinear structure with a high-contrast model, visible in the junctions where straight and round shapes meet. The dynamic distribution of contrast in letters like “s,” along with the gracefully sculpted Italics, adds further distinction to its voice.\r\n\r\nDesigned for the visual language of contemporary brands, fashion labels, cultural platforms, and design-driven products, Se Macro offers more than function—it offers identity. It’s a tool for designers who demand both structural integrity and stylistic impact. Se Macro is part of Se Collection, and will be accompanied by Se Micro, Se Mono, Se Soft, and Se Rounded, all of which are set to be released 2026—2027.",
+        "seo_title": "Se Macro ● Functional sans-serif with subtle French elegance ● Download free trial fonts",
+        "seo_description": "Se Macro font balances clarity and elegance while capturing the spirit of minimalist design between modernism and postmodernism. Designed for the visual language of modern brands, fashion labels, cultural platforms, design-driven products and more.",
+        "download_pdf": "https://backend.contemporarytype.com/files/products/GalleryType_SeMacro_Specimen-1.pdf",
+        "free_trials": "https://backend.contemporarytype.com/files/products/SeMacro_TRIAL-1.zip",
+        "end_user_license": "https://backend.contemporarytype.com/files/products/GalleryType_EULA-3.pdf",
+        "font_size_sum": 0,
+        "group": [
+          "sans-serif"
+        ],
+        "tone": [
+          "formal",
+          "casual"
+        ],
+        "use_size": [
+          "large",
+          "medium",
+          "small"
+        ],
+        "width": [
+          "narrow",
+          "normal",
+          "wide"
+        ],
+        "weight": [
+          "light",
+          "regular",
+          "medium",
+          "bold"
+        ],
+        "contrast": [
+          "medium"
+        ],
+        "other": [
+          "variable",
+          "italic"
+        ],
+        "languages": [
+          "latin"
+        ],
+        "ot_features": [
+          "aalt",
+          "case",
+          "ccmp",
+          "dnom",
+          "frac",
+          "liga",
+          "lnum",
+          "locl",
+          "numr",
+          "onum",
+          "ordn",
+          "pnum",
+          "sinf",
+          "ss01",
+          "ss03",
+          "ss10",
+          "ss11",
+          "subs",
+          "sups",
+          "tnum",
+          "zero",
+          "ss02",
+          "rvrn"
+        ],
+        "approved": true,
+        "approved_date": "2026-06-21",
+        "purchasable": true,
+        "hasWoff": false,
+        "created": "2026-06-08 12:56:19",
+        "customizer_active": false
+      },
+      "brand": {
+        "id": 95,
+        "title": "Gallery Type",
+        "slug": "gallery-type",
+        "body": "We are Gallery Type—a German type foundry by designers for designers.\r\n\r\nWe create fonts for brands with a radically simple licensing model. We offer bespoke typographic services, such as custom fonts, font modifications and consultancy. With a team of internationally renowned experts, we know what it takes to design fonts that make a difference, for small and international brands.\r\n\r\nInstagram: [@gallery.typefoundry](https://www.instagram.com/gallery.typefoundry)\r\n\r\nContact: [email](mailto:info@gallerytype.com)",
+        "buyable": true,
+        "approved": true,
+        "currency": "EUR"
+      },
+      "supported_languages": [
+        "latin"
+      ],
+      "language_source": "product.languages",
+      "variant_count": 62,
+      "license_count": 2,
+      "detail_enrichment": {
+        "used": true,
+        "ok": true
+      },
+      "api_source": "https://backend.contemporarytype.com/api_front/products"
+    },
+    "release_id": "f821466e57f072a4"
+  },
+  {
+    "source_id": "contemporarytype",
+    "source_name": "Contemporary Type",
+    "source_url": "https://contemporarytype.com/fonts/golt",
+    "name": "Golt",
+    "styles": [
+      "Golt Hairline",
+      "Golt Thin",
+      "Golt ExtraLight",
+      "Golt Light",
+      "Golt Regular",
+      "Golt Medium",
+      "Golt Bold",
+      "Golt ExtraBold",
+      "Golt Black",
+      "Golt Variable"
+    ],
+    "authors": [
+      "Gallery Type"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-06-21",
+    "image_url": "https://backend.contemporarytype.com/files/images/golt-anatomy31646.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/GalleryType_Golt_Specimen(Roman).pdf",
+    "discovered_at": "2026-06-22T12:45:56.706990+00:00",
+    "raw": {
+      "release_identity": "contemporarytype-product:165",
+      "product": {
+        "id": 165,
+        "title": "Golt",
+        "slug": "golt",
+        "url": "https://contemporarytype.com/fonts/golt",
+        "body": "**Golt** is a contemporary sans serif typeface designed for clarity, character, and versatility. Rooted in the visual culture of Berlin’s metro and street signage, Golt reflects the functional clarity and typographic discipline that define the German design tradition.\r\n\r\nThe typeface combines a wide, rounded construction with sharply defined vertical strokes, resulting in a balanced texture that performs well across both digital and print environments. Distinctive features—such as the open G, angled t, and characteristic y—add subtle identity without compromising usability. Several letterforms, including the contextual alternates for the German “Eszett” (ß), pay direct homage to Berlin’s street sign typefaces from the early 20th century as well as Andreas Frohloff’s redesign in the 1990s.\r\n\r\nGolt is ideal for brands that value typographic integrity and require a sans serif that feels contemporary yet considered. Whether used in headlines, wayfinding, or body text, Golt delivers a confident and cohesive presence—perfect for brands seeking a modern typeface with substance.",
+        "seo_title": "Golt ● Geometric sans built for clarity and character ● Download free trial fonts",
+        "seo_description": "Golt is a versatile font family rooted in the visual culture of Berlin’s metro & street signage. Echoing the functionality and discipline of the German design tradition, it’s ideal for brands that value typographic integrity, precision and substance.",
+        "download_pdf": "https://backend.contemporarytype.com/files/products/GalleryType_Golt_Specimen(Roman).pdf",
+        "free_trials": "https://backend.contemporarytype.com/files/products/Golt_TRIAL-1.zip",
+        "end_user_license": "https://backend.contemporarytype.com/files/products/GalleryType_EULA-1.pdf",
+        "font_size_sum": 0,
+        "group": [
+          "sans-serif"
+        ],
+        "tone": [
+          "formal"
+        ],
+        "use_size": [
+          "large",
+          "medium",
+          "small"
+        ],
+        "width": [
+          "normal"
+        ],
+        "weight": [
+          "light",
+          "regular",
+          "medium",
+          "bold"
+        ],
+        "contrast": [
+          "low"
+        ],
+        "other": [
+          "variable"
+        ],
+        "languages": [
+          "latin"
+        ],
+        "ot_features": [
+          "aalt",
+          "case",
+          "ccmp",
+          "dnom",
+          "frac",
+          "liga",
+          "lnum",
+          "locl",
+          "numr",
+          "onum",
+          "ordn",
+          "pnum",
+          "sinf",
+          "ss01",
+          "ss02",
+          "ss03",
+          "ss04",
+          "ss05",
+          "subs",
+          "sups",
+          "tnum",
+          "zero",
+          "rvrn"
+        ],
+        "approved": true,
+        "approved_date": "2026-06-21",
+        "purchasable": true,
+        "hasWoff": false,
+        "created": "2026-06-08 12:11:36",
+        "customizer_active": false
+      },
+      "brand": {
+        "id": 95,
+        "title": "Gallery Type",
+        "slug": "gallery-type",
+        "body": "We are Gallery Type—a German type foundry by designers for designers.\r\n\r\nWe create fonts for brands with a radically simple licensing model. We offer bespoke typographic services, such as custom fonts, font modifications and consultancy. With a team of internationally renowned experts, we know what it takes to design fonts that make a difference, for small and international brands.\r\n\r\nInstagram: [@gallery.typefoundry](https://www.instagram.com/gallery.typefoundry)\r\n\r\nContact: [email](mailto:info@gallerytype.com)",
+        "buyable": true,
+        "approved": true,
+        "currency": "EUR"
+      },
+      "supported_languages": [
+        "latin"
+      ],
+      "language_source": "product.languages",
+      "variant_count": 10,
+      "license_count": 2,
+      "detail_enrichment": {
+        "used": true,
+        "ok": true
+      },
+      "api_source": "https://backend.contemporarytype.com/api_front/products"
+    },
+    "release_id": "18023d39fa9ecc3d"
+  },
+  {
+    "source_id": "contemporarytype",
+    "source_name": "Contemporary Type",
+    "source_url": "https://contemporarytype.com/fonts/maurizio",
+    "name": "Maurizio",
+    "styles": [
+      "Maurizio Hairline",
+      "Maurizio Hairline Italic",
+      "Maurizio Thin",
+      "Maurizio Thin Italic",
+      "Maurizio ExtraLight",
+      "Maurizio ExtraLight Italic",
+      "Maurizio Light",
+      "Maurizio Light Italic",
+      "Maurizio Regular",
+      "Maurizio Italic",
+      "Maurizio Medium",
+      "Maurizio Medium Italic",
+      "Maurizio Bold",
+      "Maurizio Bold Italic",
+      "Maurizio ExtraBold",
+      "Maurizio ExtraBold Italic",
+      "Maurizio Black",
+      "Maurizio Black Italic",
+      "Maurizio Italic Variable",
+      "Maurizio Variable"
+    ],
+    "authors": [
+      "Gallery Type"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-06-21",
+    "image_url": "https://backend.contemporarytype.com/files/images/maurizio-anatomy50808.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/GalleryType_Maurizio_Specimen.pdf",
+    "discovered_at": "2026-06-22T12:45:56.757521+00:00",
+    "raw": {
+      "release_identity": "contemporarytype-product:164",
+      "product": {
+        "id": 164,
+        "title": "Maurizio",
+        "slug": "maurizio",
+        "url": "https://contemporarytype.com/fonts/maurizio",
+        "body": "**Maurizio** feels like Italian bellezza as the evening sun accompanies the second glass of strong red wine on the shores of the Mediterranean. Maurizio is a display typeface suitable for big screens and big stages—the bigger, the better. Why? Because only at large sizes do Maurizio’s design features fully reveal themselves: razor-sharp serifs, open lobes like in “g”, twisted dots on “i”, “j”, etc.\r\n\r\nThe Italic, designed by Nina Botthof, adds some tenderness to the condensed and rigid design. The exaggerated end strokes in the lowercase letters create a very distinctive rhythm in the Italic styles while staying true to the original design.\r\n\r\nMaurizio is an exploration into how far the concept of interpolation can be stretched in a superhigh-contrast display typeface. The goal to make the whole typeface interpolable from one extreme to the other heavily influenced the design. Only the two extremes have been drawn by hand: Hairline and Black, in both the Roman and the Italic. (Almost) everything in between has been interpolated.\r\n\r\nMaurizio has been awarded in the 2026 competition by the Type Directors Club of New York (TDC)",
+        "seo_title": "Maurizio ● Elegant Italian serif typeface ● Discover the display font family",
+        "seo_description": "Maurizio is an elegant serif typeface with sharp serifs and a distinctive, premium flair. It’s a perfect font for large typography: headlines, branding, luxury packaging, editorial design, posters, billboards, ads, websites, logos, social media…",
+        "download_pdf": "https://backend.contemporarytype.com/files/products/GalleryType_Maurizio_Specimen.pdf",
+        "free_trials": "https://backend.contemporarytype.com/files/products/Maurizio_TRIAL-1.zip",
+        "end_user_license": "https://backend.contemporarytype.com/files/products/GalleryType_EULA.pdf",
+        "font_size_sum": 0,
+        "group": [
+          "serif"
+        ],
+        "tone": [
+          "casual"
+        ],
+        "use_size": [
+          "large"
+        ],
+        "width": [
+          "narrow"
+        ],
+        "weight": [],
+        "contrast": [
+          "high"
+        ],
+        "other": [
+          "variable",
+          "italic"
+        ],
+        "languages": [
+          "latin"
+        ],
+        "ot_features": [
+          "aalt",
+          "case",
+          "ccmp",
+          "dlig",
+          "dnom",
+          "frac",
+          "liga",
+          "lnum",
+          "locl",
+          "numr",
+          "onum",
+          "ordn",
+          "pnum",
+          "sinf",
+          "ss01",
+          "ss03",
+          "ss04",
+          "subs",
+          "sups",
+          "tnum",
+          "zero",
+          "ss02",
+          "rvrn"
+        ],
+        "approved": true,
+        "approved_date": "2026-06-21",
+        "purchasable": true,
+        "hasWoff": false,
+        "created": "2026-06-08 09:56:07",
+        "customizer_active": false
+      },
+      "brand": {
+        "id": 95,
+        "title": "Gallery Type",
+        "slug": "gallery-type",
+        "body": "We are Gallery Type—a German type foundry by designers for designers.\r\n\r\nWe create fonts for brands with a radically simple licensing model. We offer bespoke typographic services, such as custom fonts, font modifications and consultancy. With a team of internationally renowned experts, we know what it takes to design fonts that make a difference, for small and international brands.\r\n\r\nInstagram: [@gallery.typefoundry](https://www.instagram.com/gallery.typefoundry)\r\n\r\nContact: [email](mailto:info@gallerytype.com)",
+        "buyable": true,
+        "approved": true,
+        "currency": "EUR"
+      },
+      "supported_languages": [
+        "latin"
+      ],
+      "language_source": "product.languages",
+      "variant_count": 20,
+      "license_count": 2,
+      "detail_enrichment": {
+        "used": true,
+        "ok": true
+      },
+      "api_source": "https://backend.contemporarytype.com/api_front/products"
+    },
+    "release_id": "c8b4a4650864a060"
+  }
+]
