@@ -376,5 +376,19 @@
       "post_date": "2026-07-03"
     },
     "news_id": "909cb4ecfd605c77"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Type posters today 03: Flicker. Anxiety",
+    "url": "https://type.today/en/journal/oc-june-26",
+    "published_at": "2026-07-07",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/2/1297/preview_420_preview_image_en-KsCVyqqexYG93z3VyQpbdsH76JkBe1Gi0A.png",
+    "discovered_at": "2026-07-07T10:13:44.238874+00:00",
+    "raw": {
+      "slug": "oc-june-26",
+      "post_date": "2026-07-07"
+    },
+    "news_id": "6a7959859d47a79f"
   }
 ]
