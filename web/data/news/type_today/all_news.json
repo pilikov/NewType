@@ -390,5 +390,19 @@
       "post_date": "2026-07-07"
     },
     "news_id": "6a7959859d47a79f"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Publico Text Mono in use: Studio Freight",
+    "url": "https://type.today/en/journal/studio-freight",
+    "published_at": "2026-07-14",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/3/1300/preview_420_preview_image_en-fxXgR7t8nvr5WD3LECd_IWNGnGdAK9ymdA.png",
+    "discovered_at": "2026-07-14T08:40:09.545806+00:00",
+    "raw": {
+      "slug": "studio-freight",
+      "post_date": "2026-07-14"
+    },
+    "news_id": "8320138c8e7160aa"
   }
 ]
