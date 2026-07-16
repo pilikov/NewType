@@ -404,5 +404,19 @@
       "post_date": "2026-07-14"
     },
     "news_id": "8320138c8e7160aa"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "New typeface: Crimp",
+    "url": "https://type.today/en/journal/crimp",
+    "published_at": "2026-07-16",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/3/1301/preview_420_preview_image_en-0MWbT0XqEPyVzK1tPuzAksbI29Q1jHMXoA.png",
+    "discovered_at": "2026-07-16T08:45:48.783690+00:00",
+    "raw": {
+      "slug": "crimp",
+      "post_date": "2026-07-16"
+    },
+    "news_id": "bbef0d0275b575a2"
   }
 ]
