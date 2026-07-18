@@ -1,13 +1,6 @@
 {
-  "generated_at": "2026-07-17T08:38:34.304959+00:00",
+  "generated_at": "2026-07-18T08:20:34.297949+00:00",
   "source_id": "type_today",
-  "count": 1,
-  "items": {
-    "bf2de3f77328a2e8": {
-      "slug": "",
-      "name": "Crimp",
-      "source_url": "https://type.today/ru/crimp",
-      "fingerprint": "2f5b6c70ad857b1351c03dd1"
-    }
-  }
+  "count": 0,
+  "items": {}
 }
