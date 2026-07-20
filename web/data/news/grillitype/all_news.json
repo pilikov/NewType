@@ -180,5 +180,19 @@
       "typeface": "GT Ultra"
     },
     "news_id": "61792632f35c9aaa"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Rik Bracho",
+    "url": "https://www.grillitype.com/blog/studio-portrait/rik-bracho",
+    "published_at": null,
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/680/a44/252/680a442527ea3526297530.png",
+    "discovered_at": "2026-07-20T19:40:23.414691+00:00",
+    "raw": {
+      "category": "studio-portrait",
+      "typeface": ""
+    },
+    "news_id": "21f4db2aca94cfca"
   }
 ]
