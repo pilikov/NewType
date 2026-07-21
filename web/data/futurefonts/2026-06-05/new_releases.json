@@ -1,0 +1,72 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/vee-ratchanon/nida-thai",
+    "name": "Nida Thai",
+    "styles": [],
+    "authors": [
+      "Vee Ratchanon"
+    ],
+    "scripts": [
+      "basic-latin",
+      "thai"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-06-04",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/slide/image/40407/medium_Nida_Thai_FF.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-05T10:18:46.437404+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:21969",
+      "activity_id": 21969,
+      "activity_key": "typeface.new_release",
+      "activity_type": "new_release",
+      "activity_type_label": "New Release",
+      "release_kind": "new_release",
+      "is_new_version": false,
+      "version": null,
+      "trackable_type": "Typeface",
+      "trackable_id": 2959,
+      "resolved_typeface_id": 2959,
+      "typeface_language": "basic-latin,thai"
+    },
+    "release_id": "f2d4777cf397dfdb"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/vee-ratchanon/nida",
+    "name": "Nida",
+    "styles": [],
+    "authors": [
+      "Vee Ratchanon"
+    ],
+    "scripts": [
+      "basic-latin",
+      "thai"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-06-04",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/slide/image/40409/medium_Nida_FF.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-05T10:18:46.586495+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:21968",
+      "activity_id": 21968,
+      "activity_key": "typeface.new_release",
+      "activity_type": "new_release",
+      "activity_type_label": "New Release",
+      "release_kind": "new_release",
+      "is_new_version": false,
+      "version": null,
+      "trackable_type": "Typeface",
+      "trackable_id": 2960,
+      "resolved_typeface_id": 2960,
+      "typeface_language": "basic-latin,thai"
+    },
+    "release_id": "cebf76e4fcf92b01"
+  }
+]
