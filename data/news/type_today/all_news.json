@@ -418,5 +418,19 @@
       "post_date": "2026-07-16"
     },
     "news_id": "bbef0d0275b575a2"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Kazimir in use: Ozero",
+    "url": "https://type.today/en/journal/ozerobooks",
+    "published_at": "2026-07-21",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/3/1302/preview_420_preview_image_en-5-wrMk139k0tv89PQ3F1ohqUixkMzK3d2Q.png",
+    "discovered_at": "2026-07-21T09:01:00.945912+00:00",
+    "raw": {
+      "slug": "ozerobooks",
+      "post_date": "2026-07-21"
+    },
+    "news_id": "4a6b156ee386657e"
   }
 ]
