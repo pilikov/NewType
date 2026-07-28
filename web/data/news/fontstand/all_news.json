@@ -306,5 +306,16 @@
     "discovered_at": "2026-07-14T08:40:19.167612+00:00",
     "raw": {},
     "news_id": "2f9f4520683fc9ca"
+  },
+  {
+    "source_id": "fontstand",
+    "source_name": "Fontstand",
+    "title": "Gorgias",
+    "url": "https://fontstand.com/news/font-reviews/gorgias/",
+    "published_at": null,
+    "image_url": "https://fontstand.com/news/assets/Uploads/articles/Gorgias-v2/607600d845f62f6190178dccc9e4544fc9a1ac7e__FillMaxWzEyMDAsNjMwXQ.png",
+    "discovered_at": "2026-07-28T09:02:11.061278+00:00",
+    "raw": {},
+    "news_id": "2adc0c833e81859d"
   }
 ]
