@@ -1,0 +1,90 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/lemon-cupcake-font-bale-type",
+    "name": "Lemon Cupcake Complete Family",
+    "styles": [],
+    "authors": [
+      "Bale Type"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-06-24",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-24T09:46:32.361960+00:00",
+    "raw": {
+      "id": 8467191562410,
+      "handle": "lemon-cupcake-complete-family-package-1173502",
+      "tags": [
+        "carefree",
+        "comic",
+        "decorative",
+        "friendly",
+        "handwriting",
+        "holiday",
+        "pim:designerId:7539",
+        "pim:familyId:134405",
+        "pim:foundryId:5390",
+        "pim:skuId:1173502",
+        "playful",
+        "serene",
+        "whimsical",
+        "youthful"
+      ],
+      "updated_at": "2026-06-24T05:46:11-04:00",
+      "product_url": "https://www.myfonts.com/products/lemon-cupcake-complete-family-package-1173502",
+      "collection_url": "https://www.myfonts.com/collections/lemon-cupcake-font-bale-type",
+      "is_package_product": true,
+      "product_title": "Lemon Cupcake Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "d194fc099131f5d0"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/blackflag-armada-font-mans-greback/",
+    "name": "Blackflag Armada",
+    "styles": [],
+    "authors": [
+      "Mans Greback"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-07",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10237/PBS9fdAbZcZf4liilY1emxO4_6a1ce8080b0cbd8076896e34fcdc8d56.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-08T08:40:49.663848+00:00",
+    "raw": {
+      "id": 8477481500842,
+      "handle": "blackflag-armada-complete-family-package-1161905",
+      "tags": [
+        "decorative",
+        "pim:designerId:2344",
+        "pim:familyId:133320",
+        "pim:foundryId:3066",
+        "pim:skuId:1161905",
+        "tattoo"
+      ],
+      "updated_at": "2026-07-08T04:40:27-04:00",
+      "product_url": "https://www.myfonts.com/products/blackflag-armada-complete-family-package-1161905",
+      "collection_url": "https://www.myfonts.com/collections/blackflag-armada-font-mans-greback/",
+      "is_package_product": true,
+      "product_title": "Blackflag Armada Complete Family",
+      "collection_name": "Blackflag Armada",
+      "myfonts_debut_date": "2026-07-07",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "2e93d3e9c1873a1a"
+  }
+]
