@@ -194,5 +194,61 @@
       "typeface": ""
     },
     "news_id": "21f4db2aca94cfca"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "De Dépendance",
+    "url": "https://www.grillitype.com/blog/in-use/de-dependance-design",
+    "published_at": "2026-08-04",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/6a7/269/c0e/6a7269c0e7cda900565382.png",
+    "discovered_at": "2026-08-05T09:02:22.936901+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Walsheim"
+    },
+    "news_id": "a2d67336ca0e15b9"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Farshad Farzankia",
+    "url": "https://www.grillitype.com/blog/in-use/farshad-farzankia-exhibition-book",
+    "published_at": "2026-08-04",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/6a7/26b/9c7/6a726b9c74f39749878974.jpg",
+    "discovered_at": "2026-08-05T09:02:23.367382+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Maru"
+    },
+    "news_id": "13d7544384182018"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Swiss Center for Design and Health",
+    "url": "https://www.grillitype.com/blog/in-use/swiss-center-design",
+    "published_at": "2026-08-04",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/6a7/26e/aac/6a726eaac8511449913434.jpg",
+    "discovered_at": "2026-08-05T09:02:24.112640+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Haptik"
+    },
+    "news_id": "2d39e5f24abb58c3"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Odermatt Bakery",
+    "url": "https://www.grillitype.com/blog/in-use/odermatt-bakery-design",
+    "published_at": "2026-08-04",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/6a7/270/c99/6a7270c99b97b746978445.jpg",
+    "discovered_at": "2026-08-05T09:02:24.872135+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Flexa"
+    },
+    "news_id": "e7c0b2daa4940fa0"
   }
 ]
