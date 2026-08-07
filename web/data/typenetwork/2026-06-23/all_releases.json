@@ -1,0 +1,98 @@
+[
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/typetogether/fonts/arlette-tha",
+    "name": "Arlette THA",
+    "styles": [],
+    "authors": [
+      "TypeTogether"
+    ],
+    "scripts": [
+      "Latin",
+      "Unknown (352)"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-06-22",
+    "image_url": "https://www.type-together.com/resources/-2016/fontresources/quicklook/ArletteLatin_.svg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-23T10:23:18.038673+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5574",
+      "family_id": 5574,
+      "family_slug": "arlette-tha",
+      "catalog_url": "/foundry/typetogether/fonts/arlette-tha",
+      "released": "2026-06-22T22:54:37.792699Z",
+      "uploaded": "2026-06-22T22:54:37.792705Z",
+      "foundry_ids": [
+        125
+      ],
+      "supported_scripts": [
+        215,
+        352
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5,
+        10
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "TypeTogether",
+        "foundry_site_url": "https://www.type-together.com/",
+        "image_page_url": "https://www.type-together.com/Arlette-thai-font"
+      }
+    },
+    "release_id": "950b17d0b9ba27ab"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/typetogether/fonts/arlette",
+    "name": "Arlette",
+    "styles": [],
+    "authors": [
+      "TypeTogether"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-06-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-23T10:23:18.344066+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5573",
+      "family_id": 5573,
+      "family_slug": "arlette",
+      "catalog_url": "/foundry/typetogether/fonts/arlette",
+      "released": "2026-06-22T22:54:35.006091Z",
+      "uploaded": "2026-06-22T22:54:35.006099Z",
+      "foundry_ids": [
+        125
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "TypeTogether",
+        "foundry_site_url": "https://www.type-together.com/"
+      }
+    },
+    "release_id": "d1a581fdd340ffb4"
+  }
+]
