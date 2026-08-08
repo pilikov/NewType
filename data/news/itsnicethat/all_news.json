@@ -504,5 +504,27 @@
     "discovered_at": "2026-08-06T23:55:04.921234+00:00",
     "raw": {},
     "news_id": "832ee06846852956"
+  },
+  {
+    "source_id": "itsnicethat",
+    "source_name": "It's Nice That",
+    "title": "Mother Design, Foam Magazine, Studio Kiln, Joanna Blémont: Get tickets for September’s Nicer Tuesdays in London!",
+    "url": "https://www.itsnicethat.com/articles/nicer-tuesdays-september-2026-launch-070826",
+    "published_at": "2026-08-07",
+    "image_url": null,
+    "discovered_at": "2026-08-08T07:22:06.342302+00:00",
+    "raw": {},
+    "news_id": "32582209c8b5fc77"
+  },
+  {
+    "source_id": "itsnicethat",
+    "source_name": "It's Nice That",
+    "title": "The New Company, Arielle Bobb-Willis, ilovecreatives, Bill Rebholz: Grab your tickets for September’s Nicer Tuesdays in LA!",
+    "url": "https://www.itsnicethat.com/articles/nicer-tuesdays-september-la-launch-070826",
+    "published_at": "2026-08-07",
+    "image_url": null,
+    "discovered_at": "2026-08-08T07:22:06.342316+00:00",
+    "raw": {},
+    "news_id": "f187c55bdd740acc"
   }
 ]
