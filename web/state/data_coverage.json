@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T07:35:06.374707Z",
+  "generated_at": "2026-08-12T07:57:49.530834Z",
   "sources": {
     "contemporarytype": {
       "source_id": "contemporarytype",
@@ -157,7 +157,7 @@
       },
       "has_data": true,
       "min_date": "2026-04-15",
-      "max_date": "2026-08-06",
+      "max_date": "2026-08-12",
       "weeks": [
         {
           "week_start": "2026-04-13",
@@ -233,6 +233,11 @@
           "week_start": "2026-08-03",
           "week_end": "2026-08-09",
           "label": "2026-08-03..2026-08-09"
+        },
+        {
+          "week_start": "2026-08-10",
+          "week_end": "2026-08-16",
+          "label": "2026-08-10..2026-08-16"
         }
       ]
     },
@@ -3142,7 +3147,7 @@
       },
       "has_data": true,
       "min_date": "2026-03-30",
-      "max_date": "2026-08-10",
+      "max_date": "2026-08-11",
       "weeks": [
         {
           "week_start": "2026-03-30",
