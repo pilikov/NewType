@@ -89,5 +89,18 @@
       "category": "Font of the Month"
     },
     "news_id": "b83188b8df36f047"
+  },
+  {
+    "source_id": "ilovetypography",
+    "source_name": "I Love Typography",
+    "title": "Structure in Type Design",
+    "url": "https://ilovetypography.com/2026/08/14/loopy-for-counters/",
+    "published_at": "2026-08-14",
+    "image_url": null,
+    "discovered_at": "2026-08-14T18:47:08.314560+00:00",
+    "raw": {
+      "category": "Typography"
+    },
+    "news_id": "1ea303df2acbd565"
   }
 ]
