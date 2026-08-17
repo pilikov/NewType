@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T07:03:16.119341Z",
+  "generated_at": "2026-08-17T07:21:00.439220Z",
   "sources": {
     "contemporarytype": {
       "source_id": "contemporarytype",
@@ -3147,7 +3147,7 @@
       },
       "has_data": true,
       "min_date": "2026-03-30",
-      "max_date": "2026-08-15",
+      "max_date": "2026-08-16",
       "weeks": [
         {
           "week_start": "2026-03-30",
