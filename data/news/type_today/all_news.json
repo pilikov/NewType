@@ -502,5 +502,19 @@
       "post_date": "2026-08-13"
     },
     "news_id": "062d81740bb5f2be"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Retiler and Kazimir in use: Art Is Possible All Around Us",
+    "url": "https://type.today/en/journal/art-is-possible",
+    "published_at": "2026-08-18",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/3/1308/preview_420_preview_image_en-T20UIFkQSIvlTwLO23K0oACRXIfiEz_ESg.png",
+    "discovered_at": "2026-08-18T07:14:10.274891+00:00",
+    "raw": {
+      "slug": "art-is-possible",
+      "post_date": "2026-08-18"
+    },
+    "news_id": "5df6357acca56885"
   }
 ]
