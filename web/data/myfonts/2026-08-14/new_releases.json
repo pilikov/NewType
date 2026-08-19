@@ -1,0 +1,177 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/marie-sans-font-typejockeys/",
+    "name": "Marie Sans",
+    "styles": [],
+    "authors": [
+      "Typejockeys"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-13",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10261/vpUZjMusrk6T2ILEPrqz43gZ_f2970f6148a378990b01ec4659605b4a.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-14T07:43:01.771109+00:00",
+    "raw": {
+      "id": 8596909883562,
+      "handle": "black-italic-marie-sans-1199271",
+      "tags": [
+        "legible",
+        "pim:familyId:136084",
+        "pim:foundryId:3180",
+        "pim:skuId:1199271"
+      ],
+      "updated_at": "2026-08-14T03:42:53-04:00",
+      "product_url": "https://www.myfonts.com/products/black-italic-marie-sans-1199271",
+      "collection_url": "https://www.myfonts.com/collections/marie-sans-font-typejockeys/",
+      "is_package_product": false,
+      "product_title": "Marie Sans Black Italic",
+      "collection_name": "Marie Sans",
+      "myfonts_debut_date": "2026-08-13",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "3f0eff3bf50db2b4"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/enter-the-clown-pro-font-hanoded/",
+    "name": "Enter The Clown Pro",
+    "styles": [],
+    "authors": [
+      "Hanoded"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-13",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=150,height=150,fit=contain,format=auto/images/pim/10080/gcFf9Qm4MPSani6rW9pX0gdS_06b91fd1cb8fbbe95eb58f568698e399.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-14T07:43:04.677340+00:00",
+    "raw": {
+      "id": 8596909850794,
+      "handle": "regular-enter-the-clown-pro-1199273",
+      "tags": [
+        "allcaps",
+        "carefree",
+        "comic",
+        "decorative",
+        "friendly",
+        "handwriting",
+        "kids",
+        "pim:familyId:136085",
+        "pim:foundryId:3241",
+        "pim:skuId:1199273",
+        "playful",
+        "serene",
+        "soft",
+        "whimsical",
+        "youthful"
+      ],
+      "updated_at": "2026-08-14T03:42:53-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-enter-the-clown-pro-1199273",
+      "collection_url": "https://www.myfonts.com/collections/enter-the-clown-pro-font-hanoded/",
+      "is_package_product": false,
+      "product_title": "Enter The Clown Pro Regular",
+      "collection_name": "Enter The Clown Pro",
+      "myfonts_debut_date": "2026-08-13",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "1329559066e54dfb"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/festijn-pro-font-hanoded/",
+    "name": "Festijn Pro",
+    "styles": [],
+    "authors": [
+      "Hanoded"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-13",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=150,height=150,fit=contain,format=auto/images/pim/10080/gcFf9Qm4MPSani6rW9pX0gdS_06b91fd1cb8fbbe95eb58f568698e399.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-14T07:43:07.191664+00:00",
+    "raw": {
+      "id": 8596909818026,
+      "handle": "italic-festijn-pro-1199252",
+      "tags": [
+        "allcaps",
+        "decorative",
+        "pim:familyId:136083",
+        "pim:foundryId:3241",
+        "pim:skuId:1199252"
+      ],
+      "updated_at": "2026-08-14T03:42:53-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-festijn-pro-1199252",
+      "collection_url": "https://www.myfonts.com/collections/festijn-pro-font-hanoded/",
+      "is_package_product": false,
+      "product_title": "Festijn Pro Italic",
+      "collection_name": "Festijn Pro",
+      "myfonts_debut_date": "2026-08-13",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "0ecffaeac546fba7"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/suspiria-font-latinotype/",
+    "name": "Suspiria",
+    "styles": [],
+    "authors": [
+      "Latinotype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-13",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10261/szuT3x0bbXxfXLBffvRL5Hxk_bede629140ba43974c43aac060766768.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-14T07:43:13.250991+00:00",
+    "raw": {
+      "id": 8596790116522,
+      "handle": "suspiria-essential-package-1198302",
+      "tags": [
+        "clean",
+        "fashion",
+        "formal",
+        "geometric",
+        "legible",
+        "luxury",
+        "pim:designerId:3605",
+        "pim:designerId:3695",
+        "pim:familyId:136062",
+        "pim:foundryId:3049",
+        "pim:skuId:1198302",
+        "professional",
+        "serene",
+        "sleek",
+        "sophisticated"
+      ],
+      "updated_at": "2026-08-14T03:42:53-04:00",
+      "product_url": "https://www.myfonts.com/products/suspiria-essential-package-1198302",
+      "collection_url": "https://www.myfonts.com/collections/suspiria-font-latinotype/",
+      "is_package_product": true,
+      "product_title": "Suspiria Essential",
+      "collection_name": "Suspiria",
+      "myfonts_debut_date": "2026-08-13",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "24488afef35e3a6e"
+  }
+]
