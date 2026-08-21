@@ -1,0 +1,532 @@
+[
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/typetogether/fonts/sakkal-saad-poster",
+    "name": "Sakkal Saad Poster",
+    "styles": [],
+    "authors": [
+      "TypeTogether"
+    ],
+    "scripts": [
+      "Arabic",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-08-04",
+    "image_url": "https://www.type-together.com/resources/-2016/fontresources/quicklook/Sakkal-Saad_Poster_quickview_.svg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-05T08:59:28.566264+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5654",
+      "family_id": 5654,
+      "family_slug": "sakkal-saad-poster",
+      "catalog_url": "/foundry/typetogether/fonts/sakkal-saad-poster",
+      "released": "2026-08-04T19:14:40Z",
+      "uploaded": "2026-08-04T19:14:40.259865Z",
+      "foundry_ids": [
+        125
+      ],
+      "supported_scripts": [
+        160,
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5,
+        8,
+        9
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "TypeTogether",
+        "foundry_site_url": "https://www.type-together.com/",
+        "image_page_url": "https://www.type-together.com/poster-fonts"
+      }
+    },
+    "release_id": "a81408e732cecb90"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/typetogether/fonts/sakkal-saad",
+    "name": "Sakkal Saad",
+    "styles": [],
+    "authors": [
+      "TypeTogether"
+    ],
+    "scripts": [
+      "Arabic",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-08-04",
+    "image_url": "https://www.type-together.com/resources/-2016/fontresources/quicklook/Sakkal-Saad_quickview_.svg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-05T08:59:29.136974+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5653",
+      "family_id": 5653,
+      "family_slug": "sakkal-saad",
+      "catalog_url": "/foundry/typetogether/fonts/sakkal-saad",
+      "released": "2026-08-04T19:14:34Z",
+      "uploaded": "2026-08-04T19:14:34.665973Z",
+      "foundry_ids": [
+        125
+      ],
+      "supported_scripts": [
+        160,
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5,
+        8,
+        9
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "TypeTogether",
+        "foundry_site_url": "https://www.type-together.com/",
+        "image_page_url": "https://www.type-together.com/sakkal-saad-poster-font"
+      }
+    },
+    "release_id": "aa50c60cf5641bd6"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/typetogether/fonts/dargon-text",
+    "name": "Dargon Text",
+    "styles": [],
+    "authors": [
+      "TypeTogether"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-08-04",
+    "image_url": "https://www.type-together.com/resources_production/small/contenido/-2016/editorial/news/2026_dargon-premier/2026_dargon-premier_hor.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-05T08:59:31.879764+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5652",
+      "family_id": 5652,
+      "family_slug": "dargon-text",
+      "catalog_url": "/foundry/typetogether/fonts/dargon-text",
+      "released": "2026-08-04T19:03:47.298914Z",
+      "uploaded": "2026-08-04T19:03:47.298925Z",
+      "foundry_ids": [
+        125
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5,
+        9
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "TypeTogether",
+        "foundry_site_url": "https://www.type-together.com/",
+        "image_page_url": "https://www.type-together.com/dargon-font"
+      }
+    },
+    "release_id": "b4ba712ede86be8f"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/typetogether/fonts/dargon",
+    "name": "Dargon",
+    "styles": [],
+    "authors": [
+      "TypeTogether"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-08-04",
+    "image_url": "https://www.type-together.com/resources_production/small/contenido/-2016/editorial/news/2026_dargon-premier/2026_dargon-premier_hor.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-05T08:59:35.034831+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5651",
+      "family_id": 5651,
+      "family_slug": "dargon",
+      "catalog_url": "/foundry/typetogether/fonts/dargon",
+      "released": "2026-08-04T19:03:46.488285Z",
+      "uploaded": "2026-08-04T19:03:46.488294Z",
+      "foundry_ids": [
+        125
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5,
+        9
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "TypeTogether",
+        "foundry_site_url": "https://www.type-together.com/",
+        "image_page_url": "https://www.type-together.com/dargon-font"
+      }
+    },
+    "release_id": "a8f906b32f65d588"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/comicraft/fonts/ccthruthickandthin",
+    "name": "CCThruThickAndThin",
+    "styles": [],
+    "authors": [
+      "Comicraft"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-08-04",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-05T08:59:48.289244+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5650",
+      "family_id": 5650,
+      "family_slug": "ccthruthickandthin",
+      "catalog_url": "/foundry/comicraft/fonts/ccthruthickandthin",
+      "released": "2026-08-04T18:59:15.311605Z",
+      "uploaded": "2026-08-04T18:59:15.311618Z",
+      "foundry_ids": [
+        97
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Comicraft",
+        "foundry_site_url": "https://www.comicbookfonts.com/"
+      }
+    },
+    "release_id": "4cea4006aba43fdf"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/altertype/fonts/grata-bangla",
+    "name": "Grata Bangla",
+    "styles": [],
+    "authors": [
+      "Altertype"
+    ],
+    "scripts": [
+      "Indic",
+      "Latin",
+      "Unknown (325)"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-08-04",
+    "image_url": "https://www.altertype.com/og-image-final.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-05T08:59:53.773710+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5649",
+      "family_id": 5649,
+      "family_slug": "grata-bangla",
+      "catalog_url": "/foundry/altertype/fonts/grata-bangla",
+      "released": "2026-08-04T16:01:37Z",
+      "uploaded": "2026-08-04T16:01:37.270326Z",
+      "foundry_ids": [
+        65
+      ],
+      "supported_scripts": [
+        215,
+        325,
+        907
+      ],
+      "supported_languages": [
+        1
+      ],
+      "variable": true,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Altertype",
+        "foundry_site_url": "https://www.altertype.com/",
+        "image_page_url": "https://www.altertype.com/retail-font-detail/grata-devanagari"
+      }
+    },
+    "release_id": "9b23f436e9fe42c4"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/identityletters/fonts/foliant-serif",
+    "name": "Foliant Serif",
+    "styles": [],
+    "authors": [
+      "Identity Letters"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-08-04",
+    "image_url": "https://www.identity-letters.com/_next/image?url=https%3A%2F%2Fcdn.fontdue.com%2Fidentity-letters%2Fimages%2F2228377914053767079%2FFoliantSans.jpg%3Fv%3D63939830549&w=3840&q=75",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-05T08:59:59.189475+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5648",
+      "family_id": 5648,
+      "family_slug": "foliant-serif",
+      "catalog_url": "/foundry/identityletters/fonts/foliant-serif",
+      "released": "2026-08-04T15:59:11.810047Z",
+      "uploaded": "2026-08-04T15:59:11.810058Z",
+      "foundry_ids": [
+        128
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Identity Letters",
+        "foundry_site_url": "https://www.identity-letters.com/",
+        "image_page_url": "https://www.identity-letters.com/font-catalog/foliant-sans"
+      }
+    },
+    "release_id": "06dcc04a764123c3"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/identityletters/fonts/foliant-sans",
+    "name": "Foliant Sans",
+    "styles": [],
+    "authors": [
+      "Identity Letters"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-08-04",
+    "image_url": "https://www.identity-letters.com/_next/image?url=https%3A%2F%2Fcdn.fontdue.com%2Fidentity-letters%2Fimages%2F2037150000693129149%2FConferSans-15.svg%3Fv%3D63917034405&w=3840&q=75",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-05T08:59:59.468396+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5647",
+      "family_id": 5647,
+      "family_slug": "foliant-sans",
+      "catalog_url": "/foundry/identityletters/fonts/foliant-sans",
+      "released": "2026-08-04T15:59:09.032009Z",
+      "uploaded": "2026-08-04T15:59:09.032016Z",
+      "foundry_ids": [
+        128
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Identity Letters",
+        "foundry_site_url": "https://www.identity-letters.com/",
+        "image_page_url": "https://www.identity-letters.com/font-catalog/confer-sans"
+      }
+    },
+    "release_id": "e71464bf13ebe6bc"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/contrastfoundry/fonts/cofo-cinema1909",
+    "name": "CoFo Cinema1909",
+    "styles": [],
+    "authors": [
+      "Contrast Foundry"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-08-04",
+    "image_url": "https://s3.eu-west-1.amazonaws.com/cofo-uploads-prod/cofosansglobal_seo1773809972795.webp",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-05T09:00:13.126217+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5646",
+      "family_id": 5646,
+      "family_slug": "cofo-cinema1909",
+      "catalog_url": "/foundry/contrastfoundry/fonts/cofo-cinema1909",
+      "released": "2026-08-04T15:53:51.714978Z",
+      "uploaded": "2026-08-04T15:53:51.714987Z",
+      "foundry_ids": [
+        66
+      ],
+      "supported_scripts": [
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Contrast Foundry",
+        "foundry_site_url": "https://contrastfoundry.com/",
+        "image_page_url": "https://contrastfoundry.com/sans-global"
+      }
+    },
+    "release_id": "d1b22ee932ef17d8"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/chilltype/fonts/sektor",
+    "name": "Sektor",
+    "styles": [],
+    "authors": [
+      "Chill Type"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-08-04",
+    "image_url": "https://chilltype.com/wp-content/uploads/2026/06/chill-type-sektor-project-thumbnail.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-05T09:00:19.439700+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5645",
+      "family_id": 5645,
+      "family_slug": "sektor",
+      "catalog_url": "/foundry/chilltype/fonts/sektor",
+      "released": "2026-08-04T15:53:51.514489Z",
+      "uploaded": "2026-08-04T15:53:51.514496Z",
+      "foundry_ids": [
+        156
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Chill Type",
+        "foundry_site_url": "https://chilltype.com",
+        "image_page_url": "https://chilltype.com/fonts/sektor"
+      }
+    },
+    "release_id": "edff8eadcd07807b"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/lechugatype/fonts/mestiza-text",
+    "name": "Mestiza Text",
+    "styles": [],
+    "authors": [
+      "Lechuga Type"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-08-04",
+    "image_url": "https://fonts.antoniolechuga.com/wp-content/uploads/2026/01/Mestiza12-1-scaled.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-05T09:00:37.999544+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5644",
+      "family_id": 5644,
+      "family_slug": "mestiza-text",
+      "catalog_url": "/foundry/lechugatype/fonts/mestiza-text",
+      "released": "2026-08-04T15:53:49Z",
+      "uploaded": "2026-08-04T15:53:49.559541Z",
+      "foundry_ids": [
+        84
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Lechuga Type",
+        "foundry_site_url": "https://fonts.antoniolechuga.com/",
+        "image_page_url": "https://fonts.antoniolechuga.com/mestiza/"
+      }
+    },
+    "release_id": "1066868f0df55d61"
+  }
+]
