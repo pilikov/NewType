@@ -1,0 +1,158 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/anzone-glyph-ultimate-creative-and-corporate-bundle-package-1164016",
+    "name": "Anzone Glyph Ultimate Creative and Corporate Bundle",
+    "styles": [],
+    "authors": [
+      "Anzone glyph"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-06-04",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-04T10:08:51.211285+00:00",
+    "raw": {
+      "id": 8451404791978,
+      "handle": "anzone-glyph-ultimate-creative-and-corporate-bundle-package-1164016",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-06-04T06:08:49-04:00",
+      "product_url": "https://www.myfonts.com/products/anzone-glyph-ultimate-creative-and-corporate-bundle-package-1164016",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Anzone Glyph Ultimate Creative and Corporate Bundle",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "ce6c885d39940d6a"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/beth-font-latinotype/",
+    "name": "Beth",
+    "styles": [],
+    "authors": [
+      "Latinotype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-06-04",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10236/Jw3QkGhXyEQxi1m3DxIGsq7o_3c15f17a38f2574b6acbbdd67ceec349.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-04T10:09:10.472870+00:00",
+    "raw": {
+      "id": 8450935652522,
+      "handle": "beth-alt-family-package-1161583",
+      "tags": [
+        "pim:designerId:3948",
+        "pim:familyId:133252",
+        "pim:foundryId:3049",
+        "pim:skuId:1161583"
+      ],
+      "updated_at": "2026-06-04T06:08:49-04:00",
+      "product_url": "https://www.myfonts.com/products/beth-alt-family-package-1161583",
+      "collection_url": "https://www.myfonts.com/collections/beth-font-latinotype/",
+      "is_package_product": true,
+      "product_title": "Beth Alt Family",
+      "collection_name": "Beth",
+      "myfonts_debut_date": "2026-06-04",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "fc745f418b6ecca2"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/bold-barkins-variable-1163565",
+    "name": "Barkins Variable",
+    "styles": [],
+    "authors": [
+      "Typeberry"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-06-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-04T10:09:48.424512+00:00",
+    "raw": {
+      "id": 8450930507946,
+      "handle": "bold-barkins-variable-1163565",
+      "tags": [
+        "comic",
+        "decorative",
+        "pim:designerId:4424",
+        "pim:designerId:7059",
+        "pim:designerId:9351",
+        "pim:familyId:133566",
+        "pim:foundryId:7271",
+        "pim:skuId:1163565",
+        "playful",
+        "whimsical",
+        "youthful"
+      ],
+      "updated_at": "2026-06-04T06:08:49-04:00",
+      "product_url": "https://www.myfonts.com/products/bold-barkins-variable-1163565",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Barkins Variable",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "54d8906964c880e2"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/regular-myten-years-1163640",
+    "name": "Myten Years",
+    "styles": [],
+    "authors": [
+      "Tini Fitriani"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-06-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-04T10:10:00.818838+00:00",
+    "raw": {
+      "id": 8450929885354,
+      "handle": "regular-myten-years-1163640",
+      "tags": [
+        "pim:designerId:9022",
+        "pim:familyId:133582",
+        "pim:foundryId:6536",
+        "pim:skuId:1163640"
+      ],
+      "updated_at": "2026-06-04T06:09:49-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-myten-years-1163640",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Myten Years",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "87ec06b9255c36f7"
+  }
+]
