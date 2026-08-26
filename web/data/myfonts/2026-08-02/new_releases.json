@@ -1,0 +1,80 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/organic-display-font-bogstav/",
+    "name": "Organic Display",
+    "styles": [],
+    "authors": [
+      "Bogstav"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-01",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10257/370wtoKnXx00ReaHP2t27IC0_b4728b32aa4e8064def512f5cad61dd3.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-02T08:33:36.087282+00:00",
+    "raw": {
+      "id": 8588482281642,
+      "handle": "organic-display-complete-family-package-1191528",
+      "tags": [
+        "pim:designerId:1449",
+        "pim:familyId:135716",
+        "pim:foundryId:3518",
+        "pim:skuId:1191528"
+      ],
+      "updated_at": "2026-08-02T04:33:33-04:00",
+      "product_url": "https://www.myfonts.com/products/organic-display-complete-family-package-1191528",
+      "collection_url": "https://www.myfonts.com/collections/organic-display-font-bogstav/",
+      "is_package_product": true,
+      "product_title": "Organic Display Complete Family",
+      "collection_name": "Organic Display",
+      "myfonts_debut_date": "2026-08-01",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "5d9a9e28c3b70389"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/vlnl-reep-font-vetteletters/",
+    "name": "VLNL Reep",
+    "styles": [],
+    "authors": [
+      "VetteLetters"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-01",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10253/ZZOMNHp7CUYCRh9vC06wqpXS_60885ff198e3d324946ce4bf20b23b38.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-02T08:35:19.270379+00:00",
+    "raw": {
+      "id": 8587902517418,
+      "handle": "vlnl-reep-complete-family-package-1187546",
+      "tags": [
+        "decorative",
+        "pim:designerId:1346",
+        "pim:familyId:135369",
+        "pim:foundryId:3508",
+        "pim:skuId:1187546",
+        "techno"
+      ],
+      "updated_at": "2026-08-02T04:33:33-04:00",
+      "product_url": "https://www.myfonts.com/products/vlnl-reep-complete-family-package-1187546",
+      "collection_url": "https://www.myfonts.com/collections/vlnl-reep-font-vetteletters/",
+      "is_package_product": true,
+      "product_title": "VLNL Reep Complete Family",
+      "collection_name": "VLNL Reep",
+      "myfonts_debut_date": "2026-08-01",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "02feeff0db3e4535"
+  }
+]

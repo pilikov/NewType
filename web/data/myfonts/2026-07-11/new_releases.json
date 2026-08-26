@@ -1,0 +1,261 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/stigsa-display-font-seniors-studio",
+    "name": "Stigsa Display Complete Family",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-06-21",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-22T12:20:52.216412+00:00",
+    "raw": {
+      "id": 8465358553258,
+      "handle": "stigsa-display-complete-family-package-1157673",
+      "tags": [
+        "discount_30-Off--Stigsa_Seniors-Studio_2026-06-22_2026-08-06_30_2TJjdjFVobrhZDWjTKFWJX5Z:1782093243",
+        "fashion",
+        "formal",
+        "pim:designerId:5357",
+        "pim:familyId:7177",
+        "pim:foundryId:2384",
+        "pim:skuId:1157673",
+        "special_offer"
+      ],
+      "updated_at": "2026-06-22T08:20:36-04:00",
+      "product_url": "https://www.myfonts.com/products/stigsa-display-complete-family-package-1157673",
+      "collection_url": "https://www.myfonts.com/collections/stigsa-display-font-seniors-studio",
+      "is_package_product": true,
+      "product_title": "Stigsa Display Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "2c324bd1bb3e4273"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/signature-script-font-bundle-package-926204",
+    "name": "Signature Script Font Bundle",
+    "styles": [],
+    "authors": [
+      "Lemonthe"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-07-10",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-11T08:07:16.561740+00:00",
+    "raw": {
+      "id": 7965884252330,
+      "handle": "signature-script-font-bundle-package-926204",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-07-11T04:07:14-04:00",
+      "product_url": "https://www.myfonts.com/products/signature-script-font-bundle-package-926204",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Signature Script Font Bundle",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "8c3e6c29c5f5ada1"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/average-bastards-font-mans-greback/",
+    "name": "Average Bastards",
+    "styles": [],
+    "authors": [
+      "Mans Greback"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-10",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10238/Yv9shoOKtkbKwm4dPEGUxKLX_3040bd79548549b3209cdf12b001fea7.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-11T08:07:54.863617+00:00",
+    "raw": {
+      "id": 8481978777770,
+      "handle": "average-bastards-complete-family-package-1163943",
+      "tags": [
+        "carefree",
+        "decorative",
+        "friendly",
+        "handwriting",
+        "holiday",
+        "pim:designerId:2344",
+        "pim:familyId:133624",
+        "pim:foundryId:3066",
+        "pim:skuId:1163943",
+        "romantic",
+        "serene",
+        "tattoo",
+        "whimsical"
+      ],
+      "updated_at": "2026-07-11T04:07:14-04:00",
+      "product_url": "https://www.myfonts.com/products/average-bastards-complete-family-package-1163943",
+      "collection_url": "https://www.myfonts.com/collections/average-bastards-font-mans-greback/",
+      "is_package_product": true,
+      "product_title": "Average Bastards Complete Family",
+      "collection_name": "Average Bastards",
+      "myfonts_debut_date": "2026-07-10",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "746aa5e78bd76a6f"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/regular-telegdi-script-1176937",
+    "name": "Telegdi Script",
+    "styles": [],
+    "authors": [
+      "Monovo"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-10",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-11T08:09:46.408257+00:00",
+    "raw": {
+      "id": 8481973665962,
+      "handle": "regular-telegdi-script-1176937",
+      "tags": [
+        "carefree",
+        "decorative",
+        "friendly",
+        "handwriting",
+        "kids",
+        "pim:designerId:879",
+        "pim:familyId:134741",
+        "pim:foundryId:7151",
+        "pim:skuId:1176937",
+        "serene",
+        "soft",
+        "whimsical",
+        "youthful"
+      ],
+      "updated_at": "2026-07-11T04:09:23-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-telegdi-script-1176937",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Telegdi Script",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "b634ac6c71a04afc"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-working-youth-1177798",
+    "name": "Working Youth Italic",
+    "styles": [],
+    "authors": [
+      "Stylishtype Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-10",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-11T08:10:08.627185+00:00",
+    "raw": {
+      "id": 8481970061482,
+      "handle": "italic-working-youth-1177798",
+      "tags": [
+        "carefree",
+        "decorative",
+        "fashion",
+        "formal",
+        "friendly",
+        "handwriting",
+        "holiday",
+        "pim:designerId:6292",
+        "pim:familyId:134822",
+        "pim:foundryId:6615",
+        "pim:skuId:1177798",
+        "romantic",
+        "serene",
+        "whimsical"
+      ],
+      "updated_at": "2026-07-11T04:09:52-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-working-youth-1177798",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Working Youth Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "60b25f09d7acc196"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/regular-brindley-houston-1177504",
+    "name": "Brindley Houston",
+    "styles": [],
+    "authors": [
+      "Letterhend"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-10",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-11T08:10:48.159375+00:00",
+    "raw": {
+      "id": 8481965637802,
+      "handle": "regular-brindley-houston-1177504",
+      "tags": [
+        "allcaps",
+        "pim:designerId:3856",
+        "pim:familyId:134797",
+        "pim:foundryId:1573",
+        "pim:skuId:1177504",
+        "tattoo"
+      ],
+      "updated_at": "2026-07-11T04:10:24-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-brindley-houston-1177504",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Brindley Houston",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "271b65dfae13769d"
+  }
+]
