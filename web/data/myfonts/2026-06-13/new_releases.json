@@ -1,0 +1,41 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/alenor-font-bimaksara/",
+    "name": "Alenor",
+    "styles": [],
+    "authors": [
+      "Bimaksara"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-06-12",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10241/DGSgxFBYEe4rF2NpZeEyCks0_36b09c75bd4316bedfb43237d9216d7d.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-13T09:28:20.540496+00:00",
+    "raw": {
+      "id": 8458645373098,
+      "handle": "regular-alenor-1168400",
+      "tags": [
+        "decorative",
+        "pim:designerId:9871",
+        "pim:familyId:133986",
+        "pim:foundryId:7306",
+        "pim:skuId:1168400"
+      ],
+      "updated_at": "2026-06-13T05:28:18-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-alenor-1168400",
+      "collection_url": "https://www.myfonts.com/collections/alenor-font-bimaksara/",
+      "is_package_product": false,
+      "product_title": "Alenor Regular",
+      "collection_name": "Alenor",
+      "myfonts_debut_date": "2026-06-12",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "7502d01424d6e0e1"
+  }
+]
