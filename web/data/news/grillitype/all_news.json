@@ -264,5 +264,61 @@
       "typeface": ""
     },
     "news_id": "1bdc2c8c2892dfd5"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Animals On Board",
+    "url": "https://www.grillitype.com/blog/in-use/tiere-an-bord-exhibition",
+    "published_at": "2026-09-01",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/6a9/74e/382/6a974e3825911452046882.jpg",
+    "discovered_at": "2026-09-02T11:32:34.552183+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Cinetype"
+    },
+    "news_id": "953df0c4bdf6b951"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Start Anywhere magazine",
+    "url": "https://www.grillitype.com/blog/in-use/start-anywhere-figma",
+    "published_at": "2026-09-01",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/6a9/753/3f5/6a97533f50258666590562.jpg",
+    "discovered_at": "2026-09-02T11:32:34.941833+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": ""
+    },
+    "news_id": "9cf8e0a843e1c3a6"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "2026 PLAYSHOP",
+    "url": "https://www.grillitype.com/blog/in-use/playshop-2026-china",
+    "published_at": "2026-09-01",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/6a9/756/799/6a9756799edc7604507011.jpg",
+    "discovered_at": "2026-09-02T11:32:35.685950+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Planar"
+    },
+    "news_id": "e877e0e2beed54aa"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "The School of Life",
+    "url": "https://www.grillitype.com/blog/in-use/school-life-books-design",
+    "published_at": "2026-09-01",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/6a9/75b/fe4/6a975bfe43d59677792942.jpg",
+    "discovered_at": "2026-09-02T11:32:36.255368+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Walsheim"
+    },
+    "news_id": "7b7c41189bbac29f"
   }
 ]
