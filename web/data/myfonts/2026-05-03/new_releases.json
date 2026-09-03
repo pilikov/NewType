@@ -1,0 +1,328 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/super-duper-comic-fonts-package-1013890",
+    "name": "Super Duper Comic Fonts",
+    "styles": [],
+    "authors": [
+      "PizzaDude.dk"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-05-02",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-03T08:10:10.354620+00:00",
+    "raw": {
+      "id": 8432135274666,
+      "handle": "super-duper-comic-fonts-package-1013890",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-05-03T04:10:07-04:00",
+      "product_url": "https://www.myfonts.com/products/super-duper-comic-fonts-package-1013890",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Super Duper Comic Fonts",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "80ab0baa2752ae12"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/pizzadude-revival-pack-1-package-534607",
+    "name": "Pizzadude Revival Pack 1",
+    "styles": [],
+    "authors": [
+      "PizzaDude.dk"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-05-02",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-03T08:10:11.303363+00:00",
+    "raw": {
+      "id": 8432135241898,
+      "handle": "pizzadude-revival-pack-1-package-534607",
+      "tags": [
+        "decorative",
+        "friendly",
+        "pim:designerId:1449",
+        "pim:familyId:75327",
+        "pim:familyId:75332",
+        "pim:familyId:75949",
+        "pim:familyId:75951",
+        "pim:foundryId:3635",
+        "pim:skuId:534607",
+        "rounded",
+        "soft",
+        "youthful"
+      ],
+      "updated_at": "2026-05-03T04:10:07-04:00",
+      "product_url": "https://www.myfonts.com/products/pizzadude-revival-pack-1-package-534607",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Pizzadude Revival Pack 1",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "35dd2b1be5f7cce9"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ghost-boy-family-package-84656",
+    "name": "Ghost Boy Family",
+    "styles": [],
+    "authors": [
+      "PizzaDude.dk"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-05-02",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-03T08:10:12.236651+00:00",
+    "raw": {
+      "id": 8432135209130,
+      "handle": "ghost-boy-family-package-84656",
+      "tags": [
+        "comic",
+        "decorative",
+        "graffiti",
+        "pim:designerId:1449",
+        "pim:familyId:14299",
+        "pim:familyId:14304",
+        "pim:foundryId:3635",
+        "pim:skuId:84656"
+      ],
+      "updated_at": "2026-05-03T04:10:07-04:00",
+      "product_url": "https://www.myfonts.com/products/ghost-boy-family-package-84656",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Ghost Boy Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "11e2215ffd1d8bc3"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/fontlicker-pack-package-83750",
+    "name": "FontLicker Pack",
+    "styles": [],
+    "authors": [
+      "PizzaDude.dk"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-05-02",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-03T08:10:13.176899+00:00",
+    "raw": {
+      "id": 8432135176362,
+      "handle": "fontlicker-pack-package-83750",
+      "tags": [
+        "pim:designerId:1449",
+        "pim:familyId:14595",
+        "pim:familyId:14599",
+        "pim:familyId:14611",
+        "pim:foundryId:3635",
+        "pim:skuId:83750"
+      ],
+      "updated_at": "2026-05-03T04:10:07-04:00",
+      "product_url": "https://www.myfonts.com/products/fontlicker-pack-package-83750",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "FontLicker Pack",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "da367c2ead2b9fdf"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/pizzadude-revival-pack-2-package-534612",
+    "name": "Pizzadude Revival Pack 2",
+    "styles": [],
+    "authors": [
+      "PizzaDude.dk"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-05-02",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-03T08:10:14.097805+00:00",
+    "raw": {
+      "id": 8432135143594,
+      "handle": "pizzadude-revival-pack-2-package-534612",
+      "tags": [
+        "decorative",
+        "pim:designerId:1449",
+        "pim:familyId:75329",
+        "pim:familyId:75331",
+        "pim:familyId:75949",
+        "pim:familyId:75950",
+        "pim:foundryId:3635",
+        "pim:skuId:534612"
+      ],
+      "updated_at": "2026-05-03T04:10:07-04:00",
+      "product_url": "https://www.myfonts.com/products/pizzadude-revival-pack-2-package-534612",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Pizzadude Revival Pack 2",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "74c2356edea498e5"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/sans-serif-bundle-package-772080",
+    "name": "Sans Serif Bundle",
+    "styles": [],
+    "authors": [
+      "Larin Type Co"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-05-02",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-03T08:10:16.137352+00:00",
+    "raw": {
+      "id": 7905816576170,
+      "handle": "sans-serif-bundle-package-772080",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-05-03T04:10:07-04:00",
+      "product_url": "https://www.myfonts.com/products/sans-serif-bundle-package-772080",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Sans Serif Bundle",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "4c0067d0f45a79ec"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/hard-package-1144881",
+    "name": "Hard",
+    "styles": [],
+    "authors": [
+      "Akbartype"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-05-02",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-03T08:10:41.686469+00:00",
+    "raw": {
+      "id": 8432073670826,
+      "handle": "hard-package-1144881",
+      "tags": [
+        "decorative",
+        "discount_Akisan-30-Off_Akbartype_2026-05-02_2026-06-16_30_BZYLUcRxHUi0fRfvpA7JA70h:1777730402",
+        "discount_Sale-Akisan--30-Off_Akbartype_2026-05-03_2026-06-15_30_ij3NYtPfbQPZZxCyDNarXx9o:1777766403",
+        "pim:designerId:9258",
+        "pim:familyId:132271",
+        "pim:foundryId:6752",
+        "pim:skuId:1144881",
+        "special_offer",
+        "stencil"
+      ],
+      "updated_at": "2026-05-03T04:10:07-04:00",
+      "product_url": "https://www.myfonts.com/products/hard-package-1144881",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Hard",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "d742bff693ab89a1"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/soft-package-1144882",
+    "name": "Soft",
+    "styles": [],
+    "authors": [
+      "Akbartype"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-05-02",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-03T08:10:44.206056+00:00",
+    "raw": {
+      "id": 8432073474218,
+      "handle": "soft-package-1144882",
+      "tags": [
+        "decorative",
+        "discount_Akisan-30-Off_Akbartype_2026-05-02_2026-06-16_30_BZYLUcRxHUi0fRfvpA7JA70h:1777730402",
+        "discount_Sale-Akisan--30-Off_Akbartype_2026-05-03_2026-06-15_30_ij3NYtPfbQPZZxCyDNarXx9o:1777766403",
+        "pim:designerId:9258",
+        "pim:familyId:132271",
+        "pim:foundryId:6752",
+        "pim:skuId:1144882",
+        "special_offer",
+        "stencil"
+      ],
+      "updated_at": "2026-05-03T04:10:07-04:00",
+      "product_url": "https://www.myfonts.com/products/soft-package-1144882",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Soft",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "b303cc2f63536bd2"
+  }
+]
