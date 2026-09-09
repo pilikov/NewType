@@ -544,5 +544,19 @@
       "post_date": "2026-09-02"
     },
     "news_id": "806a28a2697284b4"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Update: Archaism",
+    "url": "https://type.today/en/journal/archaism-update",
+    "published_at": "2026-09-09",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/3/1313/preview_420_preview_image_en-vItmaeuamAU04rAFdzfOT77J30-Okl3IsQ.png",
+    "discovered_at": "2026-09-09T11:27:06.166011+00:00",
+    "raw": {
+      "slug": "archaism-update",
+      "post_date": "2026-09-09"
+    },
+    "news_id": "3eb700a278cc238b"
   }
 ]
