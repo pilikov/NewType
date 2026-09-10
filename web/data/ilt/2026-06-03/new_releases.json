@@ -1,0 +1,86 @@
+[
+  {
+    "source_id": "ilt",
+    "source_name": "I Love Typography",
+    "source_url": "https://fonts.ilovetypography.com/fonts/hvd/bellemer",
+    "name": "BelleMer",
+    "styles": [
+      "Light",
+      "Regular",
+      "Medium",
+      "Bold",
+      "Black",
+      "Variable"
+    ],
+    "authors": [
+      "HvD Fonts",
+      "Hannes von Döhren"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-05-09",
+    "image_url": "https://empty-grouse.transforms.svdcdn.com/production/images/Frame-324.png?w=580&auto=compress%2Cformat&fit=min&dm=1780417683&s=868f6764e8a923e2e0ba1c95efb2fef4",
+    "woff_url": "https://d3qx8f8l5aa3yc.cloudfront.net/webfonts/hvd/BelleMer-Regular.woff?v=1780409196",
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-03T11:32:44.200870+00:00",
+    "raw": {
+      "release_identity": "ilt:1749813",
+      "typesense_id": "1749813",
+      "slug": "bellemer",
+      "foundry": "HvD Fonts",
+      "designer": "Hannes von Döhren",
+      "description": "The rugged maritime environment and the aesthetics of the Atlantic coastal region served as a primary source of inspiration for this type family. I was always fascinated by the specific letterforms found in coastal areas and the unique character they convey. From these observations, we developed an alphabet into a contemporary design. The typeface combines a clean structure with soft curves and distinctive, unconventional shapes.\n\nEquipped with tiny serifs pointing outward, the main stems are monolinear. This defining feature consists of tiny, precisely crafted serifs that point gently outward at the ends of the strokes.",
+      "categories": [
+        "Serif fonts",
+        "Web Fonts"
+      ],
+      "otfeatures": [
+        "Contextual Alternates",
+        "Standard Ligatures",
+        "Case-sensitive  Forms",
+        "Subscript",
+        "Superscript",
+        "Lining Figures",
+        "Old-style Figures",
+        "Proportional Figures",
+        "Tabular Figures",
+        "Fractions"
+      ],
+      "cedars": {
+        "cLatinCapWaist": "5",
+        "cLatinLowerA": "double",
+        "cLatinLowerAStroke": "convex",
+        "cLatinLowerC": "flared",
+        "cLatinLowerE": "angled",
+        "cLatinLowerG": "single",
+        "cLatinSerif": "bracketed",
+        "cLatinUpperK": "angled",
+        "cLatinUpperM": "floating",
+        "cLatinUpperR": "straight",
+        "cLatinWidths": "proportional",
+        "cLatinxHeight": "70",
+        "cedarsAxis": "90",
+        "cedarsConstruction": "formal",
+        "cedarsContrast": "2",
+        "cedarsEnergy": "3",
+        "cedarsFill": "solid",
+        "cedarsFinials": "1",
+        "cedarsLoops": "circular",
+        "cedarsPattern": "5",
+        "cedarsTerminals": "flared",
+        "cedarsTransitions": "blended",
+        "cedarsWidths": "5"
+      },
+      "price": 150,
+      "fromPrice": 50,
+      "onPromotion": false,
+      "hasDemoFonts": false,
+      "hasFreeFonts": false,
+      "enabled": true,
+      "api_source": "https://ikgq6me4n0p3u2bvp-1.a1.typesense.net/collections/prod_FONTS/documents/search"
+    },
+    "release_id": "4935a878c7498909"
+  }
+]
