@@ -1,0 +1,177 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/50-font-bundle-package-1046439",
+    "name": "50 Font bundle",
+    "styles": [],
+    "authors": [
+      "Dream Font"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-06-07",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-08T11:12:34.367618+00:00",
+    "raw": {
+      "id": 8195255664810,
+      "handle": "50-font-bundle-package-1046439",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-06-08T07:12:29-04:00",
+      "product_url": "https://www.myfonts.com/products/50-font-bundle-package-1046439",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "50 Font bundle",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "89dea4819f21ce13"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/signature-bundle-package-1046440",
+    "name": "Signature Bundle",
+    "styles": [],
+    "authors": [
+      "Dream Font"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-06-07",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-08T11:12:35.715069+00:00",
+    "raw": {
+      "id": 8195255730346,
+      "handle": "signature-bundle-package-1046440",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-06-08T07:12:29-04:00",
+      "product_url": "https://www.myfonts.com/products/signature-bundle-package-1046440",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Signature Bundle",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "98ee07c8126b8d73"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/infinity-font-bundle-package-1004854",
+    "name": "infinity font Bundle",
+    "styles": [],
+    "authors": [
+      "Dream Font"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-06-07",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-08T11:12:36.894754+00:00",
+    "raw": {
+      "id": 8103439794346,
+      "handle": "infinity-font-bundle-package-1004854",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-06-08T07:12:29-04:00",
+      "product_url": "https://www.myfonts.com/products/infinity-font-bundle-package-1004854",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "infinity font Bundle",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "104dc92f57129481"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/challenger-font-bundle-package-1004855",
+    "name": "Challenger Font Bundle",
+    "styles": [],
+    "authors": [
+      "Dream Font"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-06-07",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-08T11:12:38.291883+00:00",
+    "raw": {
+      "id": 8103439696042,
+      "handle": "challenger-font-bundle-package-1004855",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-06-08T07:12:29-04:00",
+      "product_url": "https://www.myfonts.com/products/challenger-font-bundle-package-1004855",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Challenger Font Bundle",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "d7aade9251ee7713"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/bekor-extra-bundle-package-1004853",
+    "name": "Bekor Extra Bundle",
+    "styles": [],
+    "authors": [
+      "Dream Font"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-06-07",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-08T11:12:39.303912+00:00",
+    "raw": {
+      "id": 8103439761578,
+      "handle": "bekor-extra-bundle-package-1004853",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-06-08T07:12:29-04:00",
+      "product_url": "https://www.myfonts.com/products/bekor-extra-bundle-package-1004853",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Bekor Extra Bundle",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "efec46c9f0dfb593"
+  }
+]

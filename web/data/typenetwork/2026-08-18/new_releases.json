@@ -1,0 +1,192 @@
+[
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/mostardesign/fonts/calenza-compressed",
+    "name": "Calenza Compressed",
+    "styles": [],
+    "authors": [
+      "Mostardesign Type Foundry"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-08-17",
+    "image_url": "https://www.motyfo.com/wp-content/uploads/2026/06/Calenza-specimens-1440x720-motyfo-1.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-18T07:12:45.074784+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5661",
+      "family_id": 5661,
+      "family_slug": "calenza-compressed",
+      "catalog_url": "/foundry/mostardesign/fonts/calenza-compressed",
+      "released": "2026-08-17T15:02:09.717936Z",
+      "uploaded": "2026-08-17T15:02:09.717943Z",
+      "foundry_ids": [
+        146
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5,
+        9
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Mostardesign Type Foundry",
+        "foundry_site_url": "https://www.motyfo.com/",
+        "image_page_url": "https://www.motyfo.com/calenza/"
+      }
+    },
+    "release_id": "e1eb84b6a414e5e8"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/mostardesign/fonts/calenza",
+    "name": "Calenza",
+    "styles": [],
+    "authors": [
+      "Mostardesign Type Foundry"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-08-17",
+    "image_url": "https://www.motyfo.com/wp-content/uploads/2026/06/Calenza-specimens-1440x720-motyfo-1.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-18T07:12:45.893304+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5660",
+      "family_id": 5660,
+      "family_slug": "calenza",
+      "catalog_url": "/foundry/mostardesign/fonts/calenza",
+      "released": "2026-08-17T15:02:08.193592Z",
+      "uploaded": "2026-08-17T15:02:08.193602Z",
+      "foundry_ids": [
+        146
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5,
+        9
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Mostardesign Type Foundry",
+        "foundry_site_url": "https://www.motyfo.com/",
+        "image_page_url": "https://www.motyfo.com/calenza/"
+      }
+    },
+    "release_id": "349431e6df2e38e7"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/supertype/fonts/clarinetta-unicase",
+    "name": "Clarinetta Unicase",
+    "styles": [],
+    "authors": [
+      "supertype"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-08-17",
+    "image_url": "https://supertype.de/imager/assets/uploads/17493/Clarinetta_01@2x-100_c7b71f2d59664f90f1d068698d7a0734.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-18T07:12:51.022948+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5659",
+      "family_id": 5659,
+      "family_slug": "clarinetta-unicase",
+      "catalog_url": "/foundry/supertype/fonts/clarinetta-unicase",
+      "released": "2026-08-17T14:57:49.272127Z",
+      "uploaded": "2026-08-17T14:57:49.272138Z",
+      "foundry_ids": [
+        39
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "supertype",
+        "foundry_site_url": "https://supertype.de/",
+        "image_page_url": "https://supertype.de/fonts/clarinetta"
+      }
+    },
+    "release_id": "675a121096af3a11"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/supertype/fonts/clarinetta",
+    "name": "Clarinetta",
+    "styles": [],
+    "authors": [
+      "supertype"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-08-17",
+    "image_url": "https://supertype.de/imager/assets/uploads/17493/Clarinetta_01@2x-100_c7b71f2d59664f90f1d068698d7a0734.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-18T07:12:51.559376+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5658",
+      "family_id": 5658,
+      "family_slug": "clarinetta",
+      "catalog_url": "/foundry/supertype/fonts/clarinetta",
+      "released": "2026-08-17T14:57:47.165274Z",
+      "uploaded": "2026-08-17T14:57:47.165288Z",
+      "foundry_ids": [
+        39
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "supertype",
+        "foundry_site_url": "https://supertype.de/",
+        "image_page_url": "https://supertype.de/fonts/clarinetta"
+      }
+    },
+    "release_id": "6792a7da1eaa76fd"
+  }
+]
