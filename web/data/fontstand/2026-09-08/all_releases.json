@@ -1,0 +1,25 @@
+[
+  {
+    "source_id": "fontstand",
+    "source_name": "Fontstand",
+    "source_url": "https://fontstand.com/fonts/shekanj",
+    "name": "Shekanj",
+    "styles": [],
+    "authors": [
+      "TPTQ Arabic"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-09-07",
+    "image_url": "https://fontstand.com/assets/Uploads/Foundry/42/Aa/_resampled/ScaleHeightWzIwMF0/Shekanj-Regular-Aa-11cc217c5cc97e1c06c27d8f073c9c3d.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-08T11:32:05.596858+00:00",
+    "raw": {
+      "release_identity": "fontstand:shekanj",
+      "link": "fonts/shekanj",
+      "incremental": true
+    },
+    "release_id": "8387dba6eff16da7"
+  }
+]
