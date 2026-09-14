@@ -317,5 +317,27 @@
     "discovered_at": "2026-07-28T09:02:11.061278+00:00",
     "raw": {},
     "news_id": "2adc0c833e81859d"
+  },
+  {
+    "source_id": "fontstand",
+    "source_name": "Fontstand",
+    "title": "Constellations",
+    "url": "https://fontstand.com/news/essays/constellations/",
+    "published_at": null,
+    "image_url": null,
+    "discovered_at": "2026-09-14T12:51:19.925940+00:00",
+    "raw": {},
+    "news_id": "d8711111f82b7a2a"
+  },
+  {
+    "source_id": "fontstand",
+    "source_name": "Fontstand",
+    "title": "Paweł Schulz",
+    "url": "https://fontstand.com/news/authors/35",
+    "published_at": null,
+    "image_url": null,
+    "discovered_at": "2026-09-14T12:51:19.926357+00:00",
+    "raw": {},
+    "news_id": "94bc36fed6937073"
   }
 ]
