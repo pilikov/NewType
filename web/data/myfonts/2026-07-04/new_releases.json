@@ -1,0 +1,91 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/spatial-logic-font-ketiga-foundry/",
+    "name": "Spatial Logic",
+    "styles": [],
+    "authors": [
+      "Ketiga Foundry"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-03",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10248/VNU5U9j7oIDfhUgxR6QzuCMA_152ce666b3df7b6d55d11bdfbd7da5e7.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-04T08:47:50.786201+00:00",
+    "raw": {
+      "id": 8475773468842,
+      "handle": "expanded-italic-spatial-logic-1176410",
+      "tags": [
+        "pim:designerId:9607",
+        "pim:familyId:134696",
+        "pim:foundryId:7069",
+        "pim:skuId:1176410",
+        "serious"
+      ],
+      "updated_at": "2026-07-04T04:47:41-04:00",
+      "product_url": "https://www.myfonts.com/products/expanded-italic-spatial-logic-1176410",
+      "collection_url": "https://www.myfonts.com/collections/spatial-logic-font-ketiga-foundry/",
+      "is_package_product": false,
+      "product_title": "Spatial Logic Expanded Italic",
+      "collection_name": "Spatial Logic",
+      "myfonts_debut_date": "2026-07-03",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "f51cab046862b042"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/early-plum-font-mans-greback/",
+    "name": "Early Plum",
+    "styles": [],
+    "authors": [
+      "Mans Greback"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-03",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10237/QKpC4gFHPnCZVVz4NpE2x4Gj_6e8a10feed279e65e326b9351dc41735.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-04T08:49:47.196501+00:00",
+    "raw": {
+      "id": 8475482063018,
+      "handle": "early-plum-complete-family-package-1161885",
+      "tags": [
+        "calligraphy",
+        "classy",
+        "decorative",
+        "elegant",
+        "fantasy",
+        "formal",
+        "handwriting",
+        "luxury",
+        "pim:designerId:2344",
+        "pim:familyId:133316",
+        "pim:foundryId:3066",
+        "pim:skuId:1161885",
+        "romantic",
+        "serene",
+        "sleek",
+        "wedding"
+      ],
+      "updated_at": "2026-07-04T04:48:27-04:00",
+      "product_url": "https://www.myfonts.com/products/early-plum-complete-family-package-1161885",
+      "collection_url": "https://www.myfonts.com/collections/early-plum-font-mans-greback/",
+      "is_package_product": true,
+      "product_title": "Early Plum Complete Family",
+      "collection_name": "Early Plum",
+      "myfonts_debut_date": "2026-07-03",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "a3edc5aa432f0c9e"
+  }
+]
