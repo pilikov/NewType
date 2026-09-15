@@ -572,5 +572,19 @@
       "post_date": "2026-09-10"
     },
     "news_id": "65c3a0f0760c58d7"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Type posters today 04: Algorytm. Routine",
+    "url": "https://type.today/en/journal/oc-jul-aug-26",
+    "published_at": "2026-09-15",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/3/1315/preview_420_preview_image_en-1hHRpompD8DzUBIVOOkFRDKQKz6GaH2Fvg.png",
+    "discovered_at": "2026-09-15T11:51:24.498665+00:00",
+    "raw": {
+      "slug": "oc-jul-aug-26",
+      "post_date": "2026-09-15"
+    },
+    "news_id": "03f515007d09ff2c"
   }
 ]
