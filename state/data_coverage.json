@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T11:51:20.833915Z",
+  "generated_at": "2026-09-16T11:38:16.531861Z",
   "sources": {
     "contemporarytype": {
       "source_id": "contemporarytype",
@@ -1543,6 +1543,11 @@
           "week_start": "2017-01-30",
           "week_end": "2017-02-05",
           "label": "2017-01-30..2017-02-05"
+        },
+        {
+          "week_start": "2017-02-20",
+          "week_end": "2017-02-26",
+          "label": "2017-02-20..2017-02-26"
         },
         {
           "week_start": "2017-02-27",
