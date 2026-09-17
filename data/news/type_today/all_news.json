@@ -586,5 +586,19 @@
       "post_date": "2026-09-15"
     },
     "news_id": "03f515007d09ff2c"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Druk and Base&amp;Bloom in use: Nike Playground",
+    "url": "https://type.today/en/journal/nike-playground",
+    "published_at": "2026-09-17",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/3/1316/preview_420_preview_image_en-pHlbTOryGezr6_ZVaZvmo8kbMt8GLQw4jw.jpeg",
+    "discovered_at": "2026-09-17T11:46:40.367924+00:00",
+    "raw": {
+      "slug": "nike-playground",
+      "post_date": "2026-09-17"
+    },
+    "news_id": "5610b7fe95d15627"
   }
 ]
