@@ -1,0 +1,36 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/benjamin-tuttle/racquet",
+    "name": "Racquet",
+    "styles": [],
+    "authors": [
+      "Benjamin Tuttle"
+    ],
+    "scripts": [
+      "basic-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-04-20",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/slide/image/39468/medium_Racquet-FutureFonts-v0_1-1.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-21T08:17:02.113347+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:20286",
+      "activity_id": 20286,
+      "activity_key": "typeface.new_release",
+      "activity_type": "new_release",
+      "activity_type_label": "New Release",
+      "release_kind": "new_release",
+      "is_new_version": false,
+      "version": null,
+      "trackable_type": "Typeface",
+      "trackable_id": 2695,
+      "resolved_typeface_id": 2695,
+      "typeface_language": "basic-latin"
+    },
+    "release_id": "94eb37b92f4a5b0e"
+  }
+]
