@@ -1,0 +1,38 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/arrowtype/name-sans?v=1.3",
+    "name": "Name Sans",
+    "styles": [],
+    "authors": [
+      "ArrowType"
+    ],
+    "scripts": [
+      "basic-latin",
+      "extended-latin",
+      "vietnamese"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-08-05",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/166/medium_arrowtype-banner_3x-2.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/10353/AT_Name_Sans_-_Specimen.pdf",
+    "discovered_at": "2026-08-06T09:01:09.883634+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:22859",
+      "activity_id": 22859,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "1.3",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 10353,
+      "resolved_typeface_id": 199,
+      "typeface_language": "basic-latin,extended-latin,vietnamese"
+    },
+    "release_id": "df47d487e1f0697f"
+  }
+]

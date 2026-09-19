@@ -1,0 +1,775 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/coffee-serif-bundle-package-1092098",
+    "name": "Coffee Serif bundle",
+    "styles": [],
+    "authors": [
+      "Adita Fonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-07-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-20T09:30:52.035473+00:00",
+    "raw": {
+      "id": 8319959597226,
+      "handle": "coffee-serif-bundle-package-1092098",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-07-20T05:29:43-04:00",
+      "product_url": "https://www.myfonts.com/products/coffee-serif-bundle-package-1092098",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Coffee Serif bundle",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "a817c20ccc235d5e"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/summer-font-bundle-package-937446",
+    "name": "Summer Font Bundle",
+    "styles": [],
+    "authors": [
+      "Adita Fonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-07-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-20T09:30:53.922059+00:00",
+    "raw": {
+      "id": 7986057216170,
+      "handle": "summer-font-bundle-package-937446",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-07-20T05:29:43-04:00",
+      "product_url": "https://www.myfonts.com/products/summer-font-bundle-package-937446",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Summer Font Bundle",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "41becde595f47a57"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/christmas-font-sale-package-1084324",
+    "name": "Christmas font sale",
+    "styles": [],
+    "authors": [
+      "Adita Fonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-07-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-20T09:30:55.831088+00:00",
+    "raw": {
+      "id": 8303695724714,
+      "handle": "christmas-font-sale-package-1084324",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-07-20T05:29:43-04:00",
+      "product_url": "https://www.myfonts.com/products/christmas-font-sale-package-1084324",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Christmas font sale",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "546223e5f2bcb2ac"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/spring-offer-package-913969",
+    "name": "Spring Offer",
+    "styles": [],
+    "authors": [
+      "Adita Fonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-07-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-20T09:30:57.035424+00:00",
+    "raw": {
+      "id": 7937543962794,
+      "handle": "spring-offer-package-913969",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-07-20T05:29:43-04:00",
+      "product_url": "https://www.myfonts.com/products/spring-offer-package-913969",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Spring Offer",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "4bda3969a91c3363"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/friends-forever-package-1092100",
+    "name": "Friends Forever",
+    "styles": [],
+    "authors": [
+      "Adita Fonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-07-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-20T09:30:58.795625+00:00",
+    "raw": {
+      "id": 8319959531690,
+      "handle": "friends-forever-package-1092100",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-07-20T05:29:43-04:00",
+      "product_url": "https://www.myfonts.com/products/friends-forever-package-1092100",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Friends Forever",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "67ec1406da6b25e6"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/wedding-script-bundle-package-1091853",
+    "name": "Wedding script bundle",
+    "styles": [],
+    "authors": [
+      "Adita Fonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-07-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-20T09:31:00.065201+00:00",
+    "raw": {
+      "id": 8319308497066,
+      "handle": "wedding-script-bundle-package-1091853",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-07-20T05:29:43-04:00",
+      "product_url": "https://www.myfonts.com/products/wedding-script-bundle-package-1091853",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Wedding script bundle",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "a218abcb380efd75"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/tt-nooks-script-font-typetype/",
+    "name": "TT Nooks Script",
+    "styles": [],
+    "authors": [
+      "TypeType"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-19",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10249/Vm7fLSfCgyB2tQy8W5nmGLQZ_a021019598d9ca42a37d09400a4c34c9.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-20T09:31:02.971812+00:00",
+    "raw": {
+      "id": 8495155937450,
+      "handle": "tt-nooks-script-non-variable-package-package-1178147",
+      "tags": [
+        "pim:designerId:2569",
+        "pim:designerId:3359",
+        "pim:designerId:3816",
+        "pim:designerId:6626",
+        "pim:familyId:134858",
+        "pim:foundryId:3413",
+        "pim:skuId:1178147"
+      ],
+      "updated_at": "2026-07-20T05:29:43-04:00",
+      "product_url": "https://www.myfonts.com/products/tt-nooks-script-non-variable-package-package-1178147",
+      "collection_url": "https://www.myfonts.com/collections/tt-nooks-script-font-typetype/",
+      "is_package_product": true,
+      "product_title": "TT Nooks Script Non-Variable Package",
+      "collection_name": "TT Nooks Script",
+      "myfonts_debut_date": "2026-07-19",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "eefdd46ab8a49e1f"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/monimer-serif-font-mans-greback/",
+    "name": "Monimer Serif",
+    "styles": [],
+    "authors": [
+      "Mans Greback"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-19",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10238/5X6V72j20d3OERvP8Sgxvpgl_615a56f41c601257963adce88e2cdf8d.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-20T09:31:07.850368+00:00",
+    "raw": {
+      "id": 8495155871914,
+      "handle": "monimer-serif-complete-family-package-1163997",
+      "tags": [
+        "legible",
+        "pim:designerId:2344",
+        "pim:familyId:133635",
+        "pim:foundryId:3066",
+        "pim:skuId:1163997"
+      ],
+      "updated_at": "2026-07-20T05:29:43-04:00",
+      "product_url": "https://www.myfonts.com/products/monimer-serif-complete-family-package-1163997",
+      "collection_url": "https://www.myfonts.com/collections/monimer-serif-font-mans-greback/",
+      "is_package_product": true,
+      "product_title": "Monimer Serif Complete Family",
+      "collection_name": "Monimer Serif",
+      "myfonts_debut_date": "2026-07-19",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "6ca52503bbec5a30"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/regular-italic-jhc-chiona-1181991",
+    "name": "JHC Chiona Regular Italic",
+    "styles": [],
+    "authors": [
+      "Jehoo Creative"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-20T09:32:43.789127+00:00",
+    "raw": {
+      "id": 8495143977130,
+      "handle": "regular-italic-jhc-chiona-1181991",
+      "tags": [
+        "legible",
+        "pim:designerId:5521",
+        "pim:familyId:135046",
+        "pim:foundryId:3848",
+        "pim:skuId:1181991"
+      ],
+      "updated_at": "2026-07-20T05:31:52-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-italic-jhc-chiona-1181991",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "JHC Chiona Regular Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "cfe1dd4d40db3f14"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/regular-georune-1183370",
+    "name": "Georune",
+    "styles": [],
+    "authors": [
+      "Flawlessandco"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-20T09:32:48.806593+00:00",
+    "raw": {
+      "id": 8495143682218,
+      "handle": "regular-georune-1183370",
+      "tags": [
+        "decorative",
+        "pim:designerId:4959",
+        "pim:familyId:135105",
+        "pim:foundryId:5662",
+        "pim:skuId:1183370"
+      ],
+      "updated_at": "2026-07-20T05:31:52-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-georune-1183370",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Georune",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "9c6a59ca300d0d44"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/black-italic-gluaymai-1181403",
+    "name": "Gluaymai Black Italic",
+    "styles": [],
+    "authors": [
+      "Jipatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-20T09:32:54.906671+00:00",
+    "raw": {
+      "id": 8495143321770,
+      "handle": "black-italic-gluaymai-1181403",
+      "tags": [
+        "friendly",
+        "legible",
+        "pim:designerId:7639",
+        "pim:familyId:135029",
+        "pim:foundryId:5483",
+        "pim:skuId:1181403",
+        "rounded",
+        "soft",
+        "youthful"
+      ],
+      "updated_at": "2026-07-20T05:31:52-04:00",
+      "product_url": "https://www.myfonts.com/products/black-italic-gluaymai-1181403",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Gluaymai Black Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "777f6a5fe08ec849"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/soft-slant-storia-lettering-1181273",
+    "name": "Storia Lettering Soft Slant",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-20T09:33:15.877079+00:00",
+    "raw": {
+      "id": 8495142797482,
+      "handle": "soft-slant-storia-lettering-1181273",
+      "tags": [
+        "decorative",
+        "pim:designerId:4208",
+        "pim:familyId:83341",
+        "pim:foundryId:2319",
+        "pim:skuId:1181273"
+      ],
+      "updated_at": "2026-07-20T05:31:52-04:00",
+      "product_url": "https://www.myfonts.com/products/soft-slant-storia-lettering-1181273",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Storia Lettering Soft Slant",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "cbfc531f15c88327"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/semi-expanded-walison-1181168",
+    "name": "Walison Semi Expanded",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-20T09:33:28.611911+00:00",
+    "raw": {
+      "id": 8495142600874,
+      "handle": "semi-expanded-walison-1181168",
+      "tags": [
+        "decorative",
+        "fashion",
+        "formal",
+        "pim:designerId:4208",
+        "pim:familyId:86448",
+        "pim:foundryId:2319",
+        "pim:skuId:1181168"
+      ],
+      "updated_at": "2026-07-20T05:33:23-04:00",
+      "product_url": "https://www.myfonts.com/products/semi-expanded-walison-1181168",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Walison Semi Expanded",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "1dc3c8c6abebb838"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-bold-the-rosemide-1180675",
+    "name": "The Rosemide Extra Bold",
+    "styles": [],
+    "authors": [
+      "Skinny Type"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-20T09:33:33.607177+00:00",
+    "raw": {
+      "id": 8495141224618,
+      "handle": "extra-bold-the-rosemide-1180675",
+      "tags": [
+        "decorative",
+        "pim:designerId:6495",
+        "pim:familyId:134998",
+        "pim:foundryId:4671",
+        "pim:skuId:1180675"
+      ],
+      "updated_at": "2026-07-20T05:33:23-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-bold-the-rosemide-1180675",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "The Rosemide Extra Bold",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "07db696b00a32cee"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/semi-expanded-origamet-hamida-1181099",
+    "name": "Origamet Hamida Semi Expanded",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-20T09:33:40.876980+00:00",
+    "raw": {
+      "id": 8495138603178,
+      "handle": "semi-expanded-origamet-hamida-1181099",
+      "tags": [
+        "decorative",
+        "pim:designerId:4208",
+        "pim:familyId:90026",
+        "pim:foundryId:2319",
+        "pim:skuId:1181099"
+      ],
+      "updated_at": "2026-07-20T05:33:23-04:00",
+      "product_url": "https://www.myfonts.com/products/semi-expanded-origamet-hamida-1181099",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Origamet Hamida Semi Expanded",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "0fbcf84abef6f8db"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/semi-condensed-origamet-hamida-1181100",
+    "name": "Origamet Hamida Semi Condensed",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-20T09:33:40.877280+00:00",
+    "raw": {
+      "id": 8495138504874,
+      "handle": "semi-condensed-origamet-hamida-1181100",
+      "tags": [
+        "decorative",
+        "pim:designerId:4208",
+        "pim:familyId:90026",
+        "pim:foundryId:2319",
+        "pim:skuId:1181100"
+      ],
+      "updated_at": "2026-07-20T05:33:23-04:00",
+      "product_url": "https://www.myfonts.com/products/semi-condensed-origamet-hamida-1181100",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Origamet Hamida Semi Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "a8b2a4c30f8447b3"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/regular-gluaymai-1181392",
+    "name": "Gluaymai Regular",
+    "styles": [],
+    "authors": [
+      "Jipatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-20T09:33:42.449614+00:00",
+    "raw": {
+      "id": 8494293287082,
+      "handle": "regular-gluaymai-1181392",
+      "tags": [
+        "legible",
+        "pim:designerId:7639",
+        "pim:familyId:135029",
+        "pim:foundryId:5483",
+        "pim:skuId:1181392"
+      ],
+      "updated_at": "2026-07-20T05:33:42-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-gluaymai-1181392",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Gluaymai Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "e706b7c9efe4a3c2"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/black-jhc-chiona-1182001",
+    "name": "JHC Chiona Black",
+    "styles": [],
+    "authors": [
+      "Jehoo Creative"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-20T09:33:42.449703+00:00",
+    "raw": {
+      "id": 8494293221546,
+      "handle": "black-jhc-chiona-1182001",
+      "tags": [
+        "formal",
+        "geometric",
+        "luxury",
+        "pim:designerId:5521",
+        "pim:familyId:135046",
+        "pim:foundryId:3848",
+        "pim:skuId:1182001",
+        "sleek"
+      ],
+      "updated_at": "2026-07-20T05:33:42-04:00",
+      "product_url": "https://www.myfonts.com/products/black-jhc-chiona-1182001",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "JHC Chiona Black",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "c14369aa9dc3e728"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/medium-gluaymai-1181394",
+    "name": "Gluaymai Medium",
+    "styles": [],
+    "authors": [
+      "Jipatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-20T09:33:48.495447+00:00",
+    "raw": {
+      "id": 8494292730026,
+      "handle": "medium-gluaymai-1181394",
+      "tags": [
+        "casual",
+        "friendly",
+        "legible",
+        "pim:designerId:7639",
+        "pim:familyId:135029",
+        "pim:foundryId:5483",
+        "pim:skuId:1181394",
+        "rounded",
+        "serene",
+        "soft",
+        "youthful"
+      ],
+      "updated_at": "2026-07-20T05:33:42-04:00",
+      "product_url": "https://www.myfonts.com/products/medium-gluaymai-1181394",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Gluaymai Medium",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "952e7e33b4de625a"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/amigavel-font-latinotype/",
+    "name": "Amigavel",
+    "styles": [],
+    "authors": [
+      "Latinotype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-20",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10249/Se5Uzkl8DhWUXRawFVbViltJ_8a10e28063b331b2397dbdad13c7b095.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-20T09:35:07.945757+00:00",
+    "raw": {
+      "id": 8493558333610,
+      "handle": "amigavel-essential-package-1178191",
+      "tags": [
+        "pim:designerId:3638",
+        "pim:designerId:3695",
+        "pim:familyId:134859",
+        "pim:foundryId:3049",
+        "pim:skuId:1178191"
+      ],
+      "updated_at": "2026-07-20T05:33:42-04:00",
+      "product_url": "https://www.myfonts.com/products/amigavel-essential-package-1178191",
+      "collection_url": "https://www.myfonts.com/collections/amigavel-font-latinotype/",
+      "is_package_product": true,
+      "product_title": "Amigável Essential",
+      "collection_name": "Amigavel",
+      "myfonts_debut_date": "2026-07-20",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "58fd35df03e3343f"
+  }
+]

@@ -1,0 +1,201 @@
+[
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/occupant/fonts/occ-tabular-vf",
+    "name": "OCC Tabular VF",
+    "styles": [],
+    "authors": [
+      "Occupant Fonts"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Greek",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-07-06",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-07T10:12:19.521246+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5610",
+      "family_id": 5610,
+      "family_slug": "occ-tabular-vf",
+      "catalog_url": "/foundry/occupant/fonts/occ-tabular-vf",
+      "released": "2026-07-06T20:15:39.350903Z",
+      "uploaded": "2026-07-06T20:15:39.350914Z",
+      "foundry_ids": [
+        3
+      ],
+      "supported_scripts": [
+        200,
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9
+      ],
+      "variable": true,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Occupant Fonts",
+        "foundry_site_url": "http://www.occupantfonts.com"
+      }
+    },
+    "release_id": "1dec2f842e217617"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/occupant/fonts/occ-tabular",
+    "name": "OCC Tabular",
+    "styles": [],
+    "authors": [
+      "Occupant Fonts"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Greek",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-07-06",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-07T10:12:28.272169+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5609",
+      "family_id": 5609,
+      "family_slug": "occ-tabular",
+      "catalog_url": "/foundry/occupant/fonts/occ-tabular",
+      "released": "2026-07-06T20:15:37.785023Z",
+      "uploaded": "2026-07-06T20:15:37.785034Z",
+      "foundry_ids": [
+        3
+      ],
+      "supported_scripts": [
+        200,
+        215,
+        220
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Occupant Fonts",
+        "foundry_site_url": "http://www.occupantfonts.com"
+      }
+    },
+    "release_id": "11ce3743c39e6b63"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/cast/fonts/am-aosta",
+    "name": "AM Aosta",
+    "styles": [],
+    "authors": [
+      "CAST"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-07-06",
+    "image_url": "https://www.c-a-s-t.com/wp/wp-content/uploads/2026/01/CARD_AM-Aosta.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-07T10:12:35.993812+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5608",
+      "family_id": 5608,
+      "family_slug": "am-aosta",
+      "catalog_url": "/foundry/cast/fonts/am-aosta",
+      "released": "2026-07-06T20:09:14.094666Z",
+      "uploaded": "2026-07-06T20:09:14.094672Z",
+      "foundry_ids": [
+        148
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "CAST",
+        "foundry_site_url": "https://www.c-a-s-t.com/",
+        "image_page_url": "https://www.c-a-s-t.com/typefaces/am-aosta/"
+      }
+    },
+    "release_id": "4801f7a51a638672"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/leksen-design/fonts/alascripty",
+    "name": "Alascripty",
+    "styles": [],
+    "authors": [
+      "Leksen Design"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-07-06",
+    "image_url": "https://leksendesign.com/wp-content/uploads/2026/06/Alascripty_wide_posters1.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-07T10:12:40.727607+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5607",
+      "family_id": 5607,
+      "family_slug": "alascripty",
+      "catalog_url": "/foundry/leksen-design/fonts/alascripty",
+      "released": "2026-07-06T20:09:13.767214Z",
+      "uploaded": "2026-07-06T20:09:13.767224Z",
+      "foundry_ids": [
+        135
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Leksen Design",
+        "foundry_site_url": "https://leksendesign.com/",
+        "image_page_url": "https://leksendesign.com/alascripty/"
+      }
+    },
+    "release_id": "793887ba667cadfe"
+  }
+]

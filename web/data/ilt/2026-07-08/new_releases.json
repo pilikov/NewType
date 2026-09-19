@@ -1,0 +1,60 @@
+[
+  {
+    "source_id": "ilt",
+    "source_name": "I Love Typography",
+    "source_url": "https://fonts.ilovetypography.com/fonts/mac-rhino-fonts/pilastro",
+    "name": "Pilastro",
+    "styles": [
+      "Bold",
+      "Italic",
+      "Regular"
+    ],
+    "authors": [
+      "MAC Rhino Fonts",
+      "Stefan Hattenbach"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-07-02",
+    "image_url": "https://empty-grouse.transforms.svdcdn.com/production/images/MRF_myfonts_pics_PILASTRO-2.png?w=580&auto=compress%2Cformat&fit=min&dm=1783425928&s=f770db4dc706623a6b4d23f464f29671",
+    "woff_url": "https://d3qx8f8l5aa3yc.cloudfront.net/webfonts/mac-rhino-fonts/Pilastro-Regular.woff?v=1783421984",
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-08T08:56:24.655067+00:00",
+    "raw": {
+      "release_identity": "ilt:1754584",
+      "typesense_id": "1754584",
+      "slug": "pilastro",
+      "foundry": "MAC Rhino Fonts",
+      "designer": "Stefan Hattenbach",
+      "description": "Pilastro is a brief flirt with the Roman letters, often referred to as Trajanus letters. Although proportions of the uppercase letters are based on the classic inscripted letters, The typeface have a modern approach. The Regular weight together an Italic and Bold forms a small but useful family. All weights are equipped with a Extended Latin set, a good set of ligatures and some ornaments and boarders. This makes it easy for designers to find a varied use. Pilastro is intended to be used as a display typeface in larger sizes but built to work in smaller sizes as well.",
+      "categories": [
+        "Sans serif fonts"
+      ],
+      "otfeatures": [
+        "Stylistic Alternates",
+        "Discretionary Ligatures",
+        "Standard Ligatures",
+        "Small Capitals",
+        "Small Capitals from Capitals",
+        "Case-sensitive  Forms",
+        "Superscript",
+        "Lining Figures",
+        "Old-style Figures",
+        "Fractions"
+      ],
+      "cedars": {
+        "cedarsFill": "solid"
+      },
+      "price": 169,
+      "fromPrice": 36,
+      "onPromotion": true,
+      "hasDemoFonts": false,
+      "hasFreeFonts": false,
+      "enabled": false,
+      "api_source": "https://ikgq6me4n0p3u2bvp-1.a1.typesense.net/collections/prod_FONTS/documents/search"
+    },
+    "release_id": "bb483ec3a9ae99e8"
+  }
+]
