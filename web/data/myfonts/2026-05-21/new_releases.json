@@ -1,0 +1,72 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/all-the-typewriter-fonts-you-will-ever-need-package-916464",
+    "name": "All the Typewriter Fonts You Will Ever Need",
+    "styles": [],
+    "authors": [
+      "Ana's Fonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-05-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-21T09:57:36.267549+00:00",
+    "raw": {
+      "id": 7946097524906,
+      "handle": "all-the-typewriter-fonts-you-will-ever-need-package-916464",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-05-21T05:57:34-04:00",
+      "product_url": "https://www.myfonts.com/products/all-the-typewriter-fonts-you-will-ever-need-package-916464",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "All the Typewriter Fonts You Will Ever Need",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "f7818ed0d4c829ca"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/the-handmade-fonts-and-illustrations-collection-package-916568",
+    "name": "The Handmade Fonts and Illustrations Collection",
+    "styles": [],
+    "authors": [
+      "Ana's Fonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-05-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-21T09:57:38.134924+00:00",
+    "raw": {
+      "id": 7946581180586,
+      "handle": "the-handmade-fonts-and-illustrations-collection-package-916568",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-05-21T05:57:34-04:00",
+      "product_url": "https://www.myfonts.com/products/the-handmade-fonts-and-illustrations-collection-package-916568",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "The Handmade Fonts and Illustrations Collection",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "7a5dc0eddd885535"
+  }
+]
