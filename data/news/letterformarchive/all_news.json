@@ -97,5 +97,27 @@
     "discovered_at": "2026-09-21T21:37:46.973136+00:00",
     "raw": {},
     "news_id": "4d1f9e9b33a36324"
+  },
+  {
+    "source_id": "letterformarchive",
+    "source_name": "Letterform Archive",
+    "title": "Martin Venezky: Process Work",
+    "url": "https://letterformarchive.org/news/martin-venezky-process-work/",
+    "published_at": "2026-09-21",
+    "image_url": "https://letterformarchive.org/wp-content/uploads/2026/09/Venezky-banner-768x384.jpg",
+    "discovered_at": "2026-09-22T11:48:12.519785+00:00",
+    "raw": {},
+    "news_id": "a60733ce3c71863e"
+  },
+  {
+    "source_id": "letterformarchive",
+    "source_name": "Letterform Archive",
+    "title": "Inside Creative Papers",
+    "url": "https://letterformarchive.org/news/creative-papers/",
+    "published_at": "2026-09-21",
+    "image_url": "https://letterformarchive.org/wp-content/uploads/2026/09/Creative-papers-banner-768x384.jpg",
+    "discovered_at": "2026-09-22T11:48:12.519809+00:00",
+    "raw": {},
+    "news_id": "41a44ddc5a01dd5c"
   }
 ]
