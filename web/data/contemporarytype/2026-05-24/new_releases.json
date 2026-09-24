@@ -1,0 +1,110 @@
+[
+  {
+    "source_id": "contemporarytype",
+    "source_name": "Contemporary Type",
+    "source_url": "https://contemporarytype.com/fonts/stranger",
+    "name": "Stranger",
+    "styles": [
+      "Stranger Black",
+      "Stranger Black Italic",
+      "Stranger Variable Black"
+    ],
+    "authors": [
+      "Typeji"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-05-23",
+    "image_url": "https://backend.contemporarytype.com/files/images/fontpageimage-stranger-0324401.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Stranger_Specimen_V1.pdf",
+    "discovered_at": "2026-05-24T08:51:18.677688+00:00",
+    "raw": {
+      "release_identity": "contemporarytype-product:161",
+      "product": {
+        "id": 161,
+        "title": "Stranger",
+        "slug": "stranger",
+        "url": "https://contemporarytype.com/fonts/stranger",
+        "body": "Stranger began as a lettering sketch in 2017, then developed into an early font version in 2019. It remained unpublished for years before being thoroughly redrawn and expanded into its current release. It is also the typeface behind the Typeji logo, so in a way, Stranger has long been part of the studio.\r\n\r\nStranger has an ultra-black display presence that feels both dense and playful. Its texture comes from the contrast between heavy outer strokes and finer inner lines, a structure that gives the design weight without making it feel blunt. Small circular dots and accent marks, loosely inspired by Gill Kayo, bring a friendly note to its otherwise solid forms. That rounded quality also appears in the counters of letters like ‘a’ and ‘&’, softening the overall impression further.\r\n\r\nAlthough Stranger is playful in tone, its terminals are cut in a clean and steady way throughout: horizontal and vertical in the roman, and parallel to the angle in the italic. This helps the design stay stable and clear despite its weight, making it especially well suited for wordmarks.\r\n\r\nStranger now spans roman and italic styles, along with a variable font that moves between them, as well as broader language support including Vietnamese and Taiwanese Romanization.",
+        "seo_title": "Stranger by Typeji — A Chunky, Playful Ultra-Black Display Typeface— Download free trials",
+        "seo_description": "Stranger is an ultra-black display typeface with dense, chunky forms and tiny circular dots that give it a playful, distinctive character. Bold and steady in tone, it brings strong personality to display typography.",
+        "download_pdf": "https://backend.contemporarytype.com/files/products/Stranger_Specimen_V1.pdf",
+        "free_trials": "https://backend.contemporarytype.com/files/products/Stranger Trial.zip",
+        "end_user_license": "https://backend.contemporarytype.com/files/products/Typeji_EULA_V3-8.pdf",
+        "font_size_sum": 0,
+        "group": [
+          "sans-serif"
+        ],
+        "tone": [
+          "casual"
+        ],
+        "use_size": [
+          "large"
+        ],
+        "width": [
+          "normal"
+        ],
+        "weight": [
+          "bold"
+        ],
+        "contrast": [
+          "low"
+        ],
+        "other": [
+          "variable",
+          "italic"
+        ],
+        "languages": [
+          "latin"
+        ],
+        "ot_features": [
+          "aalt",
+          "calt",
+          "ccmp",
+          "dnom",
+          "frac",
+          "liga",
+          "locl",
+          "numr",
+          "ordn",
+          "sinf",
+          "ss01",
+          "ss02",
+          "subs",
+          "sups",
+          "zero"
+        ],
+        "approved": true,
+        "approved_date": "2026-05-23",
+        "purchasable": true,
+        "hasWoff": true,
+        "created": "2026-05-07 00:33:16",
+        "customizer_active": false
+      },
+      "brand": {
+        "id": 78,
+        "title": "Typeji",
+        "slug": "typeji",
+        "body": "[Typeji.com](https://typeji.com) is a New York–based independent type foundry and design practice led by TienMin Liao. It started on FutureFonts in 2020 and became a fully established foundry in 2024 after four years of development.\r\nTypeji is dedicated to creating and publishing versatile typefaces. Drawing inspiration from classic type specimens and experimental forms, its library spans clean geometric grotesques, editorial serifs, and expressive display fonts.\r\nIn addition to retail releases, Typeji collaborates with agencies on custom type projects, including typeface design, logotype development, and wordmark refinement.\r\n\r\nInstagram: [@typeji](https://www.instagram.com/typeji)\r\n\r\nContact for customer support and other matters: [email](mailto:abc@typeji.com)",
+        "buyable": true,
+        "approved": true,
+        "currency": "USD"
+      },
+      "supported_languages": [
+        "latin"
+      ],
+      "language_source": "product.languages",
+      "variant_count": 3,
+      "license_count": 4,
+      "detail_enrichment": {
+        "used": true,
+        "ok": true
+      },
+      "api_source": "https://backend.contemporarytype.com/api_front/products"
+    },
+    "release_id": "5eae74b6eb73c678"
+  }
+]

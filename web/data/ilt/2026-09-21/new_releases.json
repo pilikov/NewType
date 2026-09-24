@@ -1,0 +1,85 @@
+[
+  {
+    "source_id": "ilt",
+    "source_name": "I Love Typography",
+    "source_url": "https://fonts.ilovetypography.com/fonts/fontador/discovery",
+    "name": "Discovery",
+    "styles": [
+      "Light",
+      "Light-Space",
+      "Regular",
+      "Regular-Space",
+      "Bold",
+      "Bold-Space",
+      "ExtraBold",
+      "ExtraBold-Space",
+      "Black",
+      "Black-Space"
+    ],
+    "authors": [
+      "Fontador",
+      "Arne Freytag"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-09-21",
+    "image_url": "https://empty-grouse.transforms.svdcdn.com/production/images/01_2026-09-21-090354_xmyn.png?w=580&auto=compress%2Cformat&fit=min&dm=1789981434&s=8fa7c70e35b2a15e293ff31c162c36f0",
+    "woff_url": "https://d3qx8f8l5aa3yc.cloudfront.net/webfonts/fontador/Discovery-Black.woff?v=1789980493",
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-21T13:07:54.833048+00:00",
+    "raw": {
+      "release_identity": "ilt:1765248",
+      "typesense_id": "1765248",
+      "slug": "discovery",
+      "foundry": "Fontador",
+      "designer": "Arne Freytag",
+      "description": "Discovery is a retro sci-fi font inspired by futuristic typefaces from the last millennium - characterised by film titles and record covers. With five carefully crafted weights and matching 3D layers, Discovery opens up a multitude of creative possibilities. Whether for expressive logotypes, concise headlines, striking posters, distinctive branding, food design or other creative projects - Discovery combines nostalgic charm with modern aspirations.",
+      "categories": [
+        "Display & decorative fonts"
+      ],
+      "otfeatures": [
+        "Discretionary Ligatures",
+        "Standard Ligatures",
+        "Case-sensitive  Forms",
+        "Subscript",
+        "Superscript",
+        "Fractions"
+      ],
+      "cedars": {
+        "cLatinCapWaist": "5",
+        "cLatinLowerA": "double",
+        "cLatinLowerAStroke": "flat",
+        "cLatinLowerC": "na",
+        "cLatinLowerE": "flat",
+        "cLatinLowerG": "double",
+        "cLatinSerif": "na",
+        "cLatinUpperK": "intersecting",
+        "cLatinUpperM": "baseline",
+        "cLatinUpperR": "straight",
+        "cLatinWidths": "proportional",
+        "cLatinxHeight": "75",
+        "cedarsAxis": "90",
+        "cedarsConstruction": "layered",
+        "cedarsContrast": "2",
+        "cedarsEnergy": "3",
+        "cedarsFill": "solid",
+        "cedarsFinials": "3",
+        "cedarsLoops": "roundedRectangle",
+        "cedarsPattern": "5",
+        "cedarsTerminals": "rounded",
+        "cedarsTransitions": "intersecting",
+        "cedarsWidths": "5"
+      },
+      "price": 60,
+      "fromPrice": 18,
+      "onPromotion": true,
+      "hasDemoFonts": false,
+      "hasFreeFonts": false,
+      "enabled": true,
+      "api_source": "https://ikgq6me4n0p3u2bvp-1.a1.typesense.net/collections/prod_FONTS/documents/search"
+    },
+    "release_id": "cde7a42b8fa8f0a4"
+  }
+]
