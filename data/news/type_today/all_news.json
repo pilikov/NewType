@@ -614,5 +614,19 @@
       "post_date": "2026-09-22"
     },
     "news_id": "16e8db785b1abae9"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Eric Demeusy: ‘Typography is one of the tools that help you set the stage for the main stuff’",
+    "url": "https://type.today/en/journal/eric-demeusy",
+    "published_at": "2026-09-24",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/3/1318/preview_420_preview_image_en-Vs6Cg3s3GSls-MJgNuekl2WbEa94Bb5YIg.png",
+    "discovered_at": "2026-09-24T11:54:16.446130+00:00",
+    "raw": {
+      "slug": "eric-demeusy",
+      "post_date": "2026-09-24"
+    },
+    "news_id": "77d749e34bfe1668"
   }
 ]
