@@ -1,0 +1,37 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ultimate-handwritten-font-collection-2026-package-1133263",
+    "name": "Ultimate Handwritten Font Collection 2026",
+    "styles": [],
+    "authors": [
+      "JprintStudio"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-04-11",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-12T07:27:50.232119+00:00",
+    "raw": {
+      "id": 8419978313898,
+      "handle": "ultimate-handwritten-font-collection-2026-package-1133263",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-04-12T03:27:35-04:00",
+      "product_url": "https://www.myfonts.com/products/ultimate-handwritten-font-collection-2026-package-1133263",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Ultimate Handwritten Font Collection 2026",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "364386d7072e0ceb"
+  }
+]
