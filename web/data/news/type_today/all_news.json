@@ -628,5 +628,19 @@
       "post_date": "2026-09-24"
     },
     "news_id": "77d749e34bfe1668"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Curbe in use: Zavtra",
+    "url": "https://type.today/en/journal/zavtra",
+    "published_at": "2026-09-29",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/3/1319/preview_420_preview_image_en-vSyubn1Bd8LMjCtdfGjGzID2U3Gq2oLbAw.png",
+    "discovered_at": "2026-09-29T13:04:32.689685+00:00",
+    "raw": {
+      "slug": "zavtra",
+      "post_date": "2026-09-29"
+    },
+    "news_id": "a8de669550975f57"
   }
 ]
