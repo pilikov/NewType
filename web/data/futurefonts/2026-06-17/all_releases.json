@@ -1,0 +1,36 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/jadmaza/maragsa?v=0.2",
+    "name": "Maragsâ",
+    "styles": [],
+    "authors": [
+      "Jad Maza"
+    ],
+    "scripts": [
+      "basic-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-06-16",
+    "image_url": "https://assets.futurefonts.com/images/FutureFonts-meta.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-17T11:30:46.501162+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:22298",
+      "activity_id": 22298,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.2",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 9990,
+      "resolved_typeface_id": 1969,
+      "typeface_language": "basic-latin"
+    },
+    "release_id": "33c765e187b1be6a"
+  }
+]

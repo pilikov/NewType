@@ -1,0 +1,47 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/kill-game-667-font-remedy667",
+    "name": "Kill Game 667 Complete Family",
+    "styles": [],
+    "authors": [
+      "Remedy667"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-06-24",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-25T09:38:06.111014+00:00",
+    "raw": {
+      "id": 8467324174506,
+      "handle": "kill-game-667-complete-family-package-1172798",
+      "tags": [
+        "allcaps",
+        "comic",
+        "decorative",
+        "friendly",
+        "pim:designerId:5528",
+        "pim:familyId:134356",
+        "pim:foundryId:3855",
+        "pim:skuId:1172798",
+        "rounded",
+        "soft",
+        "youthful"
+      ],
+      "updated_at": "2026-06-25T05:36:47-04:00",
+      "product_url": "https://www.myfonts.com/products/kill-game-667-complete-family-package-1172798",
+      "collection_url": "https://www.myfonts.com/collections/kill-game-667-font-remedy667",
+      "is_package_product": true,
+      "product_title": "Kill Game 667 Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "c6ca391b40c3e04d"
+  }
+]
