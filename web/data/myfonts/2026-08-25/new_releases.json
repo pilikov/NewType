@@ -1,0 +1,334 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/brond-font-rasio-studio/",
+    "name": "Brond",
+    "styles": [],
+    "authors": [
+      "Rasio Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-24",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10267/RlRfwsMWu4OkUoaZ5aGwedUZ_66efa1cd65fa7bcd5f27f68c0ca1b0bf.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-25T06:59:38.745948+00:00",
+    "raw": {
+      "id": 8604424241322,
+      "handle": "regular-brond-1209350",
+      "tags": [
+        "decorative",
+        "pim:designerId:9601",
+        "pim:familyId:136589",
+        "pim:foundryId:7063",
+        "pim:skuId:1209350"
+      ],
+      "updated_at": "2026-08-25T02:59:35-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-brond-1209350",
+      "collection_url": "https://www.myfonts.com/collections/brond-font-rasio-studio/",
+      "is_package_product": false,
+      "product_title": "Brond",
+      "collection_name": "Brond",
+      "myfonts_debut_date": "2026-08-24",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "c023575db7b03ec6"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/drakhon-brush-font-pointlab/",
+    "name": "Drakhon Brush",
+    "styles": [],
+    "authors": [
+      "Pointlab"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-24",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10267/s9zRl29EMY2onc7iGNojNpkp_051dbbddc1bd2ee4da007f7c3dfbc2bd.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-25T06:59:40.832339+00:00",
+    "raw": {
+      "id": 8604424208554,
+      "handle": "regular-drakhon-brush-1209343",
+      "tags": [
+        "allcaps",
+        "brush",
+        "carefree",
+        "decorative",
+        "friendly",
+        "handwriting",
+        "kids",
+        "pim:designerId:4102",
+        "pim:familyId:136586",
+        "pim:foundryId:711",
+        "pim:skuId:1209343",
+        "playful",
+        "serene",
+        "soft",
+        "whimsical",
+        "youthful"
+      ],
+      "updated_at": "2026-08-25T02:59:35-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-drakhon-brush-1209343",
+      "collection_url": "https://www.myfonts.com/collections/drakhon-brush-font-pointlab/",
+      "is_package_product": false,
+      "product_title": "Drakhon Brush",
+      "collection_name": "Drakhon Brush",
+      "myfonts_debut_date": "2026-08-24",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "679354cd9480a7ec"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/the-vintage-font-collection-package-933106",
+    "name": "The Vintage Font Collection",
+    "styles": [],
+    "authors": [
+      "Ana's Fonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-08-24",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-25T06:59:42.790438+00:00",
+    "raw": {
+      "id": 7977441067178,
+      "handle": "the-vintage-font-collection-package-933106",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-08-25T02:59:35-04:00",
+      "product_url": "https://www.myfonts.com/products/the-vintage-font-collection-package-933106",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "The Vintage Font Collection",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "7305454be9dc247b"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/the-script-and-serif-font-bundle-package-933151",
+    "name": "The Script and Serif Font Bundle",
+    "styles": [],
+    "authors": [
+      "Ana's Fonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-08-24",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-25T06:59:44.731889+00:00",
+    "raw": {
+      "id": 7977497985194,
+      "handle": "the-script-and-serif-font-bundle-package-933151",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-08-25T02:59:35-04:00",
+      "product_url": "https://www.myfonts.com/products/the-script-and-serif-font-bundle-package-933151",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "The Script and Serif Font Bundle",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "0e0b14b002aa58a4"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/the-simplie-font-abbasy-studio/",
+    "name": "The Simplie",
+    "styles": [],
+    "authors": [
+      "Abbasy Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-24",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10267/mq0V4XWdkv5VswoffXvHPimB_335556c4b939dd1ca266a74e5e2ef369.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-25T06:59:47.092735+00:00",
+    "raw": {
+      "id": 8604074868906,
+      "handle": "the-simplie-complete-family-package-1209274",
+      "tags": [
+        "formal",
+        "pim:designerId:3685",
+        "pim:familyId:136569",
+        "pim:foundryId:5878",
+        "pim:skuId:1209274",
+        "serious",
+        "vintage"
+      ],
+      "updated_at": "2026-08-25T02:59:35-04:00",
+      "product_url": "https://www.myfonts.com/products/the-simplie-complete-family-package-1209274",
+      "collection_url": "https://www.myfonts.com/collections/the-simplie-font-abbasy-studio/",
+      "is_package_product": true,
+      "product_title": "The Simplie Complete Family",
+      "collection_name": "The Simplie",
+      "myfonts_debut_date": "2026-08-24",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "304fe39d2ebdf87e"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/arimels-font-artisan-themes/",
+    "name": "Arimels",
+    "styles": [],
+    "authors": [
+      "Artisan Themes"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-25",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10267/8X4MGbF7IsrplOyMrbMVokUt_3f635df87d2ea5e7e38c8b6218a52c46.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-25T06:59:49.672021+00:00",
+    "raw": {
+      "id": 8604074803370,
+      "handle": "arimels-complete-family-package-1209283",
+      "tags": [
+        "classy",
+        "elegant",
+        "fashion",
+        "formal",
+        "pim:designerId:9545",
+        "pim:familyId:136571",
+        "pim:foundryId:7007",
+        "pim:skuId:1209283",
+        "serene",
+        "sophisticated"
+      ],
+      "updated_at": "2026-08-25T02:59:35-04:00",
+      "product_url": "https://www.myfonts.com/products/arimels-complete-family-package-1209283",
+      "collection_url": "https://www.myfonts.com/collections/arimels-font-artisan-themes/",
+      "is_package_product": true,
+      "product_title": "Arimels Complete Family",
+      "collection_name": "Arimels",
+      "myfonts_debut_date": "2026-08-25",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "099ae8f4ba62eee4"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/gumbolt-font-arterfak-project/",
+    "name": "Gumbolt",
+    "styles": [],
+    "authors": [
+      "Arterfak Project"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-24",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10267/8SSXbqyPTmati3Lr0Vvt7n7W_be9990e5dce44e3ea020a99d29e2eb72.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-25T06:59:52.168206+00:00",
+    "raw": {
+      "id": 8604074737834,
+      "handle": "gumbolt-complete-family-package-1209277",
+      "tags": [
+        "pim:designerId:4406",
+        "pim:familyId:136570",
+        "pim:foundryId:1978",
+        "pim:skuId:1209277",
+        "serious",
+        "strong"
+      ],
+      "updated_at": "2026-08-25T02:59:35-04:00",
+      "product_url": "https://www.myfonts.com/products/gumbolt-complete-family-package-1209277",
+      "collection_url": "https://www.myfonts.com/collections/gumbolt-font-arterfak-project/",
+      "is_package_product": true,
+      "product_title": "Gumbolt Complete Family",
+      "collection_name": "Gumbolt",
+      "myfonts_debut_date": "2026-08-24",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "4c824e8f7019e941"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/autentica-classic-font-sofiamohr/",
+    "name": "Autêntica Classic",
+    "styles": [],
+    "authors": [
+      "Sofia Mohr"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-24",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10267/yDhwMG2ciyAPSIYHUGhHBtok_9554012e229d3ffd9f710ae6a7774fa8.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-25T07:00:28.444192+00:00",
+    "raw": {
+      "id": 8603950776490,
+      "handle": "autentica-classic-complete-family-package-1209259",
+      "tags": [
+        "body",
+        "clean",
+        "formal",
+        "geometric",
+        "legible",
+        "luxury",
+        "pim:designerId:3638",
+        "pim:familyId:136567",
+        "pim:foundryId:3394",
+        "pim:skuId:1209259",
+        "professional",
+        "serene",
+        "sleek",
+        "sophisticated"
+      ],
+      "updated_at": "2026-08-25T02:59:35-04:00",
+      "product_url": "https://www.myfonts.com/products/autentica-classic-complete-family-package-1209259",
+      "collection_url": "https://www.myfonts.com/collections/autentica-classic-font-sofiamohr/",
+      "is_package_product": true,
+      "product_title": "Autêntica Classic Complete Family",
+      "collection_name": "Autêntica Classic",
+      "myfonts_debut_date": "2026-08-24",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "80d020c38ec0c50d"
+  }
+]
