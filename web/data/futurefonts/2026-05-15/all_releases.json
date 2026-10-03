@@ -1,0 +1,37 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/loveletters/tatras?v=0.2",
+    "name": "Tatras",
+    "styles": [],
+    "authors": [
+      "Love Letters"
+    ],
+    "scripts": [
+      "basic-latin",
+      "extended-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-05-14",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/60/medium_thumbnail-05.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/9462/Tatras-V02.pdf",
+    "discovered_at": "2026-05-15T09:33:28.456240+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:21341",
+      "activity_id": 21341,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.2",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 9462,
+      "resolved_typeface_id": 257,
+      "typeface_language": "basic-latin,extended-latin"
+    },
+    "release_id": "ec8a87ce60c7cc53"
+  }
+]
