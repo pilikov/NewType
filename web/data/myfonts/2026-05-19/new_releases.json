@@ -1,0 +1,288 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/zelrix-sports-font-nirmana-visual/",
+    "name": "Zelrix Sports",
+    "styles": [],
+    "authors": [
+      "Nirmana Visual"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-05-18",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10232/wTz6QIbXNRNMAgBlWrUKCrjY_489f473ec25020d462abf263b27395d4.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-19T10:00:50.562495+00:00",
+    "raw": {
+      "id": 8440917033130,
+      "handle": "regular-zelrix-sports-1155213",
+      "tags": [
+        "allcaps",
+        "decorative",
+        "pim:designerId:4579",
+        "pim:familyId:132834",
+        "pim:foundryId:831",
+        "pim:skuId:1155213"
+      ],
+      "updated_at": "2026-05-19T06:00:15-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-zelrix-sports-1155213",
+      "collection_url": "https://www.myfonts.com/collections/zelrix-sports-font-nirmana-visual/",
+      "is_package_product": false,
+      "product_title": "Zelrix Sports Regular",
+      "collection_name": "Zelrix Sports",
+      "myfonts_debut_date": "2026-05-18",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "22871640ac1ee914"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/omnium-wide-font-garagefonts/",
+    "name": "Omnium Wide",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-05-18",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10232/LjvtECUpxBLCLuLAtDZPeH09_d424fe3433381f39f0a1660656debeb3.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-19T10:01:15.233707+00:00",
+    "raw": {
+      "id": 8440621564074,
+      "handle": "semibold-omnium-wide-1154750",
+      "tags": [
+        "decorative",
+        "friendly",
+        "pim:designerId:1562",
+        "pim:familyId:132743",
+        "pim:foundryId:3126",
+        "pim:skuId:1154750",
+        "rounded",
+        "soft",
+        "youthful"
+      ],
+      "updated_at": "2026-05-19T06:01:12-04:00",
+      "product_url": "https://www.myfonts.com/products/semibold-omnium-wide-1154750",
+      "collection_url": "https://www.myfonts.com/collections/omnium-wide-font-garagefonts/",
+      "is_package_product": false,
+      "product_title": "Omnium Wide SemiBold",
+      "collection_name": "Omnium Wide",
+      "myfonts_debut_date": "2026-05-18",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "62cdf3e736433a74"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/archive-matrix-font-garagefonts/",
+    "name": "Archive Matrix",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-05-18",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10232/z6MS4roUXXAgqc4kwYzzoFZv_b54dff8dc9864ca88324b5bfd247e5f4.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-19T10:01:17.733445+00:00",
+    "raw": {
+      "id": 8440621531306,
+      "handle": "bold-archive-matrix-1154763",
+      "tags": [
+        "decorative",
+        "pim:designerId:568",
+        "pim:familyId:132745",
+        "pim:foundryId:3126",
+        "pim:skuId:1154763"
+      ],
+      "updated_at": "2026-05-19T06:01:12-04:00",
+      "product_url": "https://www.myfonts.com/products/bold-archive-matrix-1154763",
+      "collection_url": "https://www.myfonts.com/collections/archive-matrix-font-garagefonts/",
+      "is_package_product": false,
+      "product_title": "Archive Matrix Bold",
+      "collection_name": "Archive Matrix",
+      "myfonts_debut_date": "2026-05-18",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "5f4326d4e218a134"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/omnium-font-garagefonts/",
+    "name": "Omnium",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-05-18",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10232/tJSIb7nE02VP6IZjCIKmj9ZC_4e92c973de294e8fcf7799b7e1d0ef81.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-19T10:01:22.750373+00:00",
+    "raw": {
+      "id": 8440621334698,
+      "handle": "medium-omnium-1154755",
+      "tags": [
+        "friendly",
+        "pim:designerId:1562",
+        "pim:familyId:132742",
+        "pim:foundryId:3126",
+        "pim:skuId:1154755",
+        "rounded",
+        "soft",
+        "youthful"
+      ],
+      "updated_at": "2026-05-19T06:01:12-04:00",
+      "product_url": "https://www.myfonts.com/products/medium-omnium-1154755",
+      "collection_url": "https://www.myfonts.com/collections/omnium-font-garagefonts/",
+      "is_package_product": false,
+      "product_title": "Omnium Medium",
+      "collection_name": "Omnium",
+      "myfonts_debut_date": "2026-05-18",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "b296f7ab7deaa087"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/berguna-font-mbonster/",
+    "name": "Berguna",
+    "styles": [],
+    "authors": [
+      "Mbonster"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-05-18",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10230/6bM9AuReBnYC4V27k3sZHFRR_7971936a30063cbd2d1d52e8fee04e6d.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-19T10:01:25.350797+00:00",
+    "raw": {
+      "id": 8440518410410,
+      "handle": "berguna-complete-family-package-1150872",
+      "tags": [
+        "pim:designerId:9696",
+        "pim:familyId:132521",
+        "pim:foundryId:7142",
+        "pim:skuId:1150872"
+      ],
+      "updated_at": "2026-05-19T06:01:12-04:00",
+      "product_url": "https://www.myfonts.com/products/berguna-complete-family-package-1150872",
+      "collection_url": "https://www.myfonts.com/collections/berguna-font-mbonster/",
+      "is_package_product": true,
+      "product_title": "Berguna Complete Family",
+      "collection_name": "Berguna",
+      "myfonts_debut_date": "2026-05-18",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "36fa61cb3a615fdb"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/omnium-tagline-font-garagefonts/",
+    "name": "Omnium Tagline",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-05-18",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10232/d77OJETZKiR4DUj3rQOqlt1h_5e1b0115f6f2b77ae7645beade48a58b.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-19T10:01:36.387905+00:00",
+    "raw": {
+      "id": 8440518181034,
+      "handle": "omnium-tagline-complete-family-package-1154759",
+      "tags": [
+        "allcaps",
+        "pim:designerId:1562",
+        "pim:familyId:132744",
+        "pim:foundryId:3126",
+        "pim:skuId:1154759"
+      ],
+      "updated_at": "2026-05-19T06:01:12-04:00",
+      "product_url": "https://www.myfonts.com/products/omnium-tagline-complete-family-package-1154759",
+      "collection_url": "https://www.myfonts.com/collections/omnium-tagline-font-garagefonts/",
+      "is_package_product": true,
+      "product_title": "Omnium Tagline Complete Family",
+      "collection_name": "Omnium Tagline",
+      "myfonts_debut_date": "2026-05-18",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "660c1fe8f05165b3"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/dupioni-font-silktype/",
+    "name": "Dupioni",
+    "styles": [],
+    "authors": [
+      "SilkType"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-05-18",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10231/b5vaBNcxZsEJYp8HPfu9M68u_6a80ce26c1aa5feffd115f8570967009.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-19T10:01:39.233030+00:00",
+    "raw": {
+      "id": 8440518148266,
+      "handle": "dupioni-essentials-package-1151851",
+      "tags": [
+        "classy",
+        "elegant",
+        "fashion",
+        "formal",
+        "pim:designerId:3943",
+        "pim:familyId:132591",
+        "pim:foundryId:2093",
+        "pim:skuId:1151851",
+        "professional",
+        "serene",
+        "sophisticated"
+      ],
+      "updated_at": "2026-05-19T06:01:12-04:00",
+      "product_url": "https://www.myfonts.com/products/dupioni-essentials-package-1151851",
+      "collection_url": "https://www.myfonts.com/collections/dupioni-font-silktype/",
+      "is_package_product": true,
+      "product_title": "Dupioni - Essentials",
+      "collection_name": "Dupioni",
+      "myfonts_debut_date": "2026-05-18",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "e14f7c1f0c1a6295"
+  }
+]
