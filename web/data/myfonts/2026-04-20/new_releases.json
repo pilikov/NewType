@@ -1,0 +1,4553 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/adore-mono-font-garagefonts/",
+    "name": "Adore Mono",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-04-20",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10004/3JLXbOuhxTPhb8ZPvO8V4HKs_1c67ad400e27d872da953fb4c6a3ca21.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:22:56.560586+00:00",
+    "raw": {
+      "id": 8024937922730,
+      "handle": "medium-adore-mono-961134",
+      "tags": [
+        "heading",
+        "headline",
+        "impactful",
+        "pim:designerId:568",
+        "pim:familyId:75001",
+        "pim:foundryId:3126",
+        "pim:skuId:961134",
+        "professional",
+        "typewriter"
+      ],
+      "updated_at": "2026-04-20T04:22:43-04:00",
+      "product_url": "https://www.myfonts.com/products/medium-adore-mono-961134",
+      "collection_url": "https://www.myfonts.com/collections/adore-mono-font-garagefonts/",
+      "is_package_product": false,
+      "product_title": "Adore Mono Medium",
+      "collection_name": "Adore Mono",
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [
+        "Latin"
+      ],
+      "tech_specs_supported_languages": [
+        "Afar",
+        "Afrikaans",
+        "Aragonese",
+        "Asu",
+        "Bemba",
+        "Bena",
+        "Catalan",
+        "Cebuano",
+        "Chiga",
+        "Corsican",
+        "Danish",
+        "Taita",
+        "German",
+        "English",
+        "Spanish",
+        "Basque",
+        "Filipino",
+        "French",
+        "Friulian",
+        "Irish",
+        "Scottish Gaelic",
+        "Galician",
+        "Swiss German",
+        "Gusii",
+        "Manx",
+        "Interlingua",
+        "Indonesian",
+        "Ido",
+        "Italian",
+        "Lojban",
+        "Machame",
+        "Jju",
+        "Makonde",
+        "Kabuverdianu",
+        "Kalaallisut",
+        "Kalenjin",
+        "Shambala",
+        "Cornish",
+        "Latin",
+        "Luxembourgish",
+        "Ligurian",
+        "Luo",
+        "Luyia",
+        "Morisyen",
+        "Malagasy",
+        "Makhuwa-Meetto",
+        "Malay",
+        "Norwegian Bokmål",
+        "North Ndebele",
+        "Low German",
+        "Norwegian",
+        "South Ndebele",
+        "Nyankole",
+        "Occitan",
+        "Oromo",
+        "Portuguese",
+        "Romansh",
+        "Rundi",
+        "Rombo",
+        "Kinyarwanda",
+        "Rwa",
+        "Samburu",
+        "Sangu",
+        "Sardinian",
+        "Sena",
+        "Sango",
+        "Sidamo",
+        "Southern Sami",
+        "Shona",
+        "Somali",
+        "Albanian",
+        "Swati",
+        "Saho",
+        "Southern Sotho",
+        "Sundanese",
+        "Swedish",
+        "Swahili",
+        "Teso",
+        "Tswana",
+        "Taroko",
+        "Tsonga",
+        "Volapük",
+        "Vunjo",
+        "Walloon",
+        "Warlpiri",
+        "Xhosa",
+        "Soga",
+        "Zulu"
+      ],
+      "is_package_without_metadata": false
+    },
+    "release_id": "ef8e66dbaf2694dc"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-bold-dotted-weekend-538259",
+    "name": "Dotted Weekend Extra Bold",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:12.143024+00:00",
+    "raw": {
+      "id": 8003588063402,
+      "handle": "extra-bold-dotted-weekend-538259",
+      "tags": [
+        "heading",
+        "headline",
+        "impactful",
+        "pim:designerId:8264",
+        "pim:familyId:74980",
+        "pim:foundryId:3126",
+        "pim:skuId:538259",
+        "pixel"
+      ],
+      "updated_at": "2026-04-20T04:22:43-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-bold-dotted-weekend-538259",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Dotted Weekend Extra Bold",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "89cfb92fac76d74b"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/bold-dotted-weekend-538264",
+    "name": "Dotted Weekend Bold",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:12.143263+00:00",
+    "raw": {
+      "id": 8003588292778,
+      "handle": "bold-dotted-weekend-538264",
+      "tags": [
+        "heading",
+        "headline",
+        "impactful",
+        "pim:designerId:8264",
+        "pim:familyId:74980",
+        "pim:foundryId:3126",
+        "pim:skuId:538264",
+        "professional",
+        "typewriter"
+      ],
+      "updated_at": "2026-04-20T04:22:43-04:00",
+      "product_url": "https://www.myfonts.com/products/bold-dotted-weekend-538264",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Dotted Weekend Bold",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "ab99f4e6d3d0da82"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/bold-alternates-rough-weekend-538390",
+    "name": "Rough Weekend Bold Alternates",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:15.367161+00:00",
+    "raw": {
+      "id": 7872776241322,
+      "handle": "bold-alternates-rough-weekend-538390",
+      "tags": [
+        "decorative",
+        "heading",
+        "pim:designerId:8264",
+        "pim:familyId:74989",
+        "pim:foundryId:3126",
+        "pim:skuId:538390",
+        "rounded"
+      ],
+      "updated_at": "2026-04-20T04:22:43-04:00",
+      "product_url": "https://www.myfonts.com/products/bold-alternates-rough-weekend-538390",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rough Weekend Bold Alternates",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "a963c6ac98eb732d"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/bold-rough-weekend-538387",
+    "name": "Rough Weekend Bold",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:15.367280+00:00",
+    "raw": {
+      "id": 7872776044714,
+      "handle": "bold-rough-weekend-538387",
+      "tags": [
+        "heading",
+        "pim:designerId:8264",
+        "pim:familyId:74989",
+        "pim:foundryId:3126",
+        "pim:skuId:538387",
+        "rounded"
+      ],
+      "updated_at": "2026-04-20T04:22:43-04:00",
+      "product_url": "https://www.myfonts.com/products/bold-rough-weekend-538387",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rough Weekend Bold",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "fb3b8a22a1a377ca"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/light-italic-rough-weekend-538377",
+    "name": "Rough Weekend Light Italic",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:15.367413+00:00",
+    "raw": {
+      "id": 7872775848106,
+      "handle": "light-italic-rough-weekend-538377",
+      "tags": [
+        "pim:designerId:8264",
+        "pim:familyId:74989",
+        "pim:foundryId:3126",
+        "pim:skuId:538377"
+      ],
+      "updated_at": "2026-04-20T04:22:43-04:00",
+      "product_url": "https://www.myfonts.com/products/light-italic-rough-weekend-538377",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rough Weekend Light Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "9406b48569c7bd4e"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/light-rough-weekend-538369",
+    "name": "Rough Weekend Light",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:15.367527+00:00",
+    "raw": {
+      "id": 7872775913642,
+      "handle": "light-rough-weekend-538369",
+      "tags": [
+        "pim:designerId:8264",
+        "pim:familyId:74989",
+        "pim:foundryId:3126",
+        "pim:skuId:538369"
+      ],
+      "updated_at": "2026-04-20T04:22:43-04:00",
+      "product_url": "https://www.myfonts.com/products/light-rough-weekend-538369",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rough Weekend Light",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "758393a3692d7dc9"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/normal-alternates-nice-weekend-538346",
+    "name": "Nice Weekend Normal Alternates",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:18.789807+00:00",
+    "raw": {
+      "id": 7872767721642,
+      "handle": "normal-alternates-nice-weekend-538346",
+      "tags": [
+        "heading",
+        "pim:designerId:8264",
+        "pim:familyId:74988",
+        "pim:foundryId:3126",
+        "pim:skuId:538346",
+        "rounded"
+      ],
+      "updated_at": "2026-04-20T04:22:43-04:00",
+      "product_url": "https://www.myfonts.com/products/normal-alternates-nice-weekend-538346",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Nice Weekend Normal Alternates",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "f8043fa3dbefb761"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/normal-italic-rough-weekend-538384",
+    "name": "Rough Weekend Normal Italic",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:18.790104+00:00",
+    "raw": {
+      "id": 7872776274090,
+      "handle": "normal-italic-rough-weekend-538384",
+      "tags": [
+        "heading",
+        "pim:designerId:8264",
+        "pim:familyId:74989",
+        "pim:foundryId:3126",
+        "pim:skuId:538384"
+      ],
+      "updated_at": "2026-04-20T04:22:43-04:00",
+      "product_url": "https://www.myfonts.com/products/normal-italic-rough-weekend-538384",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rough Weekend Normal Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "a68f98d8202ad57a"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/light-archive-538397",
+    "name": "Archive Light",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:22.001723+00:00",
+    "raw": {
+      "id": 7872764706986,
+      "handle": "light-archive-538397",
+      "tags": [
+        "decorative",
+        "pim:designerId:8264",
+        "pim:familyId:74982",
+        "pim:foundryId:3126",
+        "pim:skuId:538397"
+      ],
+      "updated_at": "2026-04-20T04:22:43-04:00",
+      "product_url": "https://www.myfonts.com/products/light-archive-538397",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Archive Light",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "b41f8397ffbb38a1"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/normal-alternates-rough-weekend-538382",
+    "name": "Rough Weekend Normal Alternates",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:22.041475+00:00",
+    "raw": {
+      "id": 7872775815338,
+      "handle": "normal-alternates-rough-weekend-538382",
+      "tags": [
+        "decorative",
+        "heading",
+        "pim:designerId:8264",
+        "pim:familyId:74989",
+        "pim:foundryId:3126",
+        "pim:skuId:538382"
+      ],
+      "updated_at": "2026-04-20T04:22:43-04:00",
+      "product_url": "https://www.myfonts.com/products/normal-alternates-rough-weekend-538382",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rough Weekend Normal Alternates",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "0b6d8615b425bccd"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/black-italic-dotted-weekend-538269",
+    "name": "Dotted Weekend Black Italic",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:24.898983+00:00",
+    "raw": {
+      "id": 8003588587690,
+      "handle": "black-italic-dotted-weekend-538269",
+      "tags": [
+        "heading",
+        "headline",
+        "impactful",
+        "pim:designerId:8264",
+        "pim:familyId:74980",
+        "pim:foundryId:3126",
+        "pim:skuId:538269"
+      ],
+      "updated_at": "2026-04-20T04:22:43-04:00",
+      "product_url": "https://www.myfonts.com/products/black-italic-dotted-weekend-538269",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Dotted Weekend Black Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "ff98601f3b4bf534"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/bold-italic-dotted-weekend-538266",
+    "name": "Dotted Weekend Bold Italic",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:24.899310+00:00",
+    "raw": {
+      "id": 8003588227242,
+      "handle": "bold-italic-dotted-weekend-538266",
+      "tags": [
+        "heading",
+        "headline",
+        "impactful",
+        "pim:designerId:8264",
+        "pim:familyId:74980",
+        "pim:foundryId:3126",
+        "pim:skuId:538266",
+        "professional",
+        "typewriter"
+      ],
+      "updated_at": "2026-04-20T04:22:43-04:00",
+      "product_url": "https://www.myfonts.com/products/bold-italic-dotted-weekend-538266",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Dotted Weekend Bold Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "2c9901e49b3452d5"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/bold-archive-538403",
+    "name": "Archive Bold",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:24.899498+00:00",
+    "raw": {
+      "id": 7872764805290,
+      "handle": "bold-archive-538403",
+      "tags": [
+        "decorative",
+        "heading",
+        "pim:designerId:8264",
+        "pim:familyId:74982",
+        "pim:foundryId:3126",
+        "pim:skuId:538403",
+        "techno"
+      ],
+      "updated_at": "2026-04-20T04:22:43-04:00",
+      "product_url": "https://www.myfonts.com/products/bold-archive-538403",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Archive Bold",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "4f91b7d179e5edd6"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-light-dotted-weekend-538253",
+    "name": "Dotted Weekend Extra Light",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:27.443133+00:00",
+    "raw": {
+      "id": 8003588030634,
+      "handle": "extra-light-dotted-weekend-538253",
+      "tags": [
+        "heading",
+        "headline",
+        "impactful",
+        "pim:designerId:8264",
+        "pim:familyId:74980",
+        "pim:foundryId:3126",
+        "pim:skuId:538253"
+      ],
+      "updated_at": "2026-04-20T04:22:43-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-light-dotted-weekend-538253",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Dotted Weekend Extra Light",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "4bfc71c2fe022267"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/bold-italic-nice-weekend-538355",
+    "name": "Nice Weekend Bold Italic",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:27.443392+00:00",
+    "raw": {
+      "id": 7872767819946,
+      "handle": "bold-italic-nice-weekend-538355",
+      "tags": [
+        "heading",
+        "pim:designerId:8264",
+        "pim:familyId:74988",
+        "pim:foundryId:3126",
+        "pim:skuId:538355"
+      ],
+      "updated_at": "2026-04-20T04:22:43-04:00",
+      "product_url": "https://www.myfonts.com/products/bold-italic-nice-weekend-538355",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Nice Weekend Bold Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "f2963f82b33263e8"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/light-italic-dotted-weekend-538263",
+    "name": "Dotted Weekend Light Italic",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:27.444218+00:00",
+    "raw": {
+      "id": 8003588358314,
+      "handle": "light-italic-dotted-weekend-538263",
+      "tags": [
+        "decorative",
+        "heading",
+        "headline",
+        "impactful",
+        "pim:designerId:8264",
+        "pim:familyId:74980",
+        "pim:foundryId:3126",
+        "pim:skuId:538263",
+        "quirky"
+      ],
+      "updated_at": "2026-04-20T04:22:43-04:00",
+      "product_url": "https://www.myfonts.com/products/light-italic-dotted-weekend-538263",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Dotted Weekend Light Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "105cdeebc459aa04"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/light-dotted-weekend-538261",
+    "name": "Dotted Weekend Light",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:27.444274+00:00",
+    "raw": {
+      "id": 8003588391082,
+      "handle": "light-dotted-weekend-538261",
+      "tags": [
+        "heading",
+        "headline",
+        "impactful",
+        "pim:designerId:8264",
+        "pim:familyId:74980",
+        "pim:foundryId:3126",
+        "pim:skuId:538261",
+        "pixel"
+      ],
+      "updated_at": "2026-04-20T04:22:43-04:00",
+      "product_url": "https://www.myfonts.com/products/light-dotted-weekend-538261",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Dotted Weekend Light",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "60766efabdfe271b"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/bold-alternates-nice-weekend-538353",
+    "name": "Nice Weekend Bold Alternates",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:27.444444+00:00",
+    "raw": {
+      "id": 7872767918250,
+      "handle": "bold-alternates-nice-weekend-538353",
+      "tags": [
+        "decorative",
+        "heading",
+        "pim:designerId:8264",
+        "pim:familyId:74988",
+        "pim:foundryId:3126",
+        "pim:skuId:538353",
+        "rounded"
+      ],
+      "updated_at": "2026-04-20T04:22:43-04:00",
+      "product_url": "https://www.myfonts.com/products/bold-alternates-nice-weekend-538353",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Nice Weekend Bold Alternates",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "a19935947410c216"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/normal-oblique-archive-538271",
+    "name": "Archive Normal Oblique",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:27.444618+00:00",
+    "raw": {
+      "id": 7872764608682,
+      "handle": "normal-oblique-archive-538271",
+      "tags": [
+        "heading",
+        "pim:designerId:8264",
+        "pim:familyId:74982",
+        "pim:foundryId:3126",
+        "pim:skuId:538271",
+        "techno"
+      ],
+      "updated_at": "2026-04-20T04:22:43-04:00",
+      "product_url": "https://www.myfonts.com/products/normal-oblique-archive-538271",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Archive Normal Oblique",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "8e085aca964ec4d5"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/normal-italic-nice-weekend-538348",
+    "name": "Nice Weekend Normal Italic",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:27.485519+00:00",
+    "raw": {
+      "id": 7872767852714,
+      "handle": "normal-italic-nice-weekend-538348",
+      "tags": [
+        "heading",
+        "pim:designerId:8264",
+        "pim:familyId:74988",
+        "pim:foundryId:3126",
+        "pim:skuId:538348"
+      ],
+      "updated_at": "2026-04-20T04:22:43-04:00",
+      "product_url": "https://www.myfonts.com/products/normal-italic-nice-weekend-538348",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Nice Weekend Normal Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "8c9f86819ac4b6a2"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/light-nice-weekend-538336",
+    "name": "Nice Weekend Light",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:28.904574+00:00",
+    "raw": {
+      "id": 7872767688874,
+      "handle": "light-nice-weekend-538336",
+      "tags": [
+        "decorative",
+        "pim:designerId:8264",
+        "pim:familyId:74988",
+        "pim:foundryId:3126",
+        "pim:skuId:538336"
+      ],
+      "updated_at": "2026-04-20T04:23:28-04:00",
+      "product_url": "https://www.myfonts.com/products/light-nice-weekend-538336",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Nice Weekend Light",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "49e2c7804919a252"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-bold-italic-dotted-weekend-538260",
+    "name": "Dotted Weekend Extra Bold Italic",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:28.904722+00:00",
+    "raw": {
+      "id": 8003588260010,
+      "handle": "extra-bold-italic-dotted-weekend-538260",
+      "tags": [
+        "decorative",
+        "heading",
+        "headline",
+        "impactful",
+        "pim:designerId:8264",
+        "pim:familyId:74980",
+        "pim:foundryId:3126",
+        "pim:skuId:538260",
+        "quirky"
+      ],
+      "updated_at": "2026-04-20T04:23:28-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-bold-italic-dotted-weekend-538260",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Dotted Weekend Extra Bold Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "9686926fe8484a3b"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/bold-nice-weekend-538350",
+    "name": "Nice Weekend Bold",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:28.904778+00:00",
+    "raw": {
+      "id": 7872767885482,
+      "handle": "bold-nice-weekend-538350",
+      "tags": [
+        "decorative",
+        "heading",
+        "pim:designerId:8264",
+        "pim:familyId:74988",
+        "pim:foundryId:3126",
+        "pim:skuId:538350",
+        "rounded"
+      ],
+      "updated_at": "2026-04-20T04:23:28-04:00",
+      "product_url": "https://www.myfonts.com/products/bold-nice-weekend-538350",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Nice Weekend Bold",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "c8038c0a00757c6b"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/light-oblique-archive-538401",
+    "name": "Archive Light Oblique",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:28.904829+00:00",
+    "raw": {
+      "id": 7872764838058,
+      "handle": "light-oblique-archive-538401",
+      "tags": [
+        "decorative",
+        "pim:designerId:8264",
+        "pim:familyId:74982",
+        "pim:foundryId:3126",
+        "pim:skuId:538401"
+      ],
+      "updated_at": "2026-04-20T04:23:28-04:00",
+      "product_url": "https://www.myfonts.com/products/light-oblique-archive-538401",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Archive Light Oblique",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "add0de8373c1bc55"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/normal-archive-538270",
+    "name": "Archive Normal",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:28.904877+00:00",
+    "raw": {
+      "id": 7872764575914,
+      "handle": "normal-archive-538270",
+      "tags": [
+        "heading",
+        "pim:designerId:8264",
+        "pim:familyId:74982",
+        "pim:foundryId:3126",
+        "pim:skuId:538270",
+        "techno"
+      ],
+      "updated_at": "2026-04-20T04:23:28-04:00",
+      "product_url": "https://www.myfonts.com/products/normal-archive-538270",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Archive Normal",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "badb99d8aed68121"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/normal-dotted-weekend-538256",
+    "name": "Dotted Weekend Normal",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:30.858190+00:00",
+    "raw": {
+      "id": 8003587997866,
+      "handle": "normal-dotted-weekend-538256",
+      "tags": [
+        "decorative",
+        "heading",
+        "headline",
+        "impactful",
+        "pim:designerId:8264",
+        "pim:familyId:74980",
+        "pim:foundryId:3126",
+        "pim:skuId:538256",
+        "pixel",
+        "quirky"
+      ],
+      "updated_at": "2026-04-20T04:23:28-04:00",
+      "product_url": "https://www.myfonts.com/products/normal-dotted-weekend-538256",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Dotted Weekend Normal",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "8fcccce137d43691"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-light-italic-dotted-weekend-538254",
+    "name": "Dotted Weekend Extra Light Italic",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:30.858332+00:00",
+    "raw": {
+      "id": 8003588128938,
+      "handle": "extra-light-italic-dotted-weekend-538254",
+      "tags": [
+        "decorative",
+        "heading",
+        "headline",
+        "impactful",
+        "pim:designerId:8264",
+        "pim:familyId:74980",
+        "pim:foundryId:3126",
+        "pim:skuId:538254",
+        "quirky"
+      ],
+      "updated_at": "2026-04-20T04:23:28-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-light-italic-dotted-weekend-538254",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Dotted Weekend Extra Light Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "07a2c31e01e2b40c"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/normal-italic-dotted-weekend-538257",
+    "name": "Dotted Weekend Normal Italic",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:30.858395+00:00",
+    "raw": {
+      "id": 8003588096170,
+      "handle": "normal-italic-dotted-weekend-538257",
+      "tags": [
+        "decorative",
+        "heading",
+        "headline",
+        "impactful",
+        "pim:designerId:8264",
+        "pim:familyId:74980",
+        "pim:foundryId:3126",
+        "pim:skuId:538257",
+        "quirky"
+      ],
+      "updated_at": "2026-04-20T04:23:28-04:00",
+      "product_url": "https://www.myfonts.com/products/normal-italic-dotted-weekend-538257",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Dotted Weekend Normal Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "e5aad654bb15cbc7"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/normal-rough-weekend-538379",
+    "name": "Rough Weekend Normal",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:30.858544+00:00",
+    "raw": {
+      "id": 7872775880874,
+      "handle": "normal-rough-weekend-538379",
+      "tags": [
+        "decorative",
+        "heading",
+        "pim:designerId:8264",
+        "pim:familyId:74989",
+        "pim:foundryId:3126",
+        "pim:skuId:538379"
+      ],
+      "updated_at": "2026-04-20T04:23:28-04:00",
+      "product_url": "https://www.myfonts.com/products/normal-rough-weekend-538379",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rough Weekend Normal",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "3df836116db58e7a"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/normal-nice-weekend-538344",
+    "name": "Nice Weekend Normal",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:30.899888+00:00",
+    "raw": {
+      "id": 7872767656106,
+      "handle": "normal-nice-weekend-538344",
+      "tags": [
+        "heading",
+        "pim:designerId:8264",
+        "pim:familyId:74988",
+        "pim:foundryId:3126",
+        "pim:skuId:538344",
+        "rounded"
+      ],
+      "updated_at": "2026-04-20T04:23:28-04:00",
+      "product_url": "https://www.myfonts.com/products/normal-nice-weekend-538344",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Nice Weekend Normal",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "91b02beae1c7daf8"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/light-alternates-nice-weekend-538339",
+    "name": "Nice Weekend Light Alternates",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:30.900135+00:00",
+    "raw": {
+      "id": 7872767754410,
+      "handle": "light-alternates-nice-weekend-538339",
+      "tags": [
+        "pim:designerId:8264",
+        "pim:familyId:74988",
+        "pim:foundryId:3126",
+        "pim:skuId:538339"
+      ],
+      "updated_at": "2026-04-20T04:23:28-04:00",
+      "product_url": "https://www.myfonts.com/products/light-alternates-nice-weekend-538339",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Nice Weekend Light Alternates",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "0f8d809cfefd69cb"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/light-italic-nice-weekend-538341",
+    "name": "Nice Weekend Light Italic",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:30.900201+00:00",
+    "raw": {
+      "id": 7872767787178,
+      "handle": "light-italic-nice-weekend-538341",
+      "tags": [
+        "casual",
+        "pim:designerId:8264",
+        "pim:familyId:74988",
+        "pim:foundryId:3126",
+        "pim:skuId:538341"
+      ],
+      "updated_at": "2026-04-20T04:23:28-04:00",
+      "product_url": "https://www.myfonts.com/products/light-italic-nice-weekend-538341",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Nice Weekend Light Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "c0fd982da9c9c98b"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/black-dotted-weekend-538267",
+    "name": "Dotted Weekend Black",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:30.901331+00:00",
+    "raw": {
+      "id": 8003588522154,
+      "handle": "black-dotted-weekend-538267",
+      "tags": [
+        "heading",
+        "headline",
+        "impactful",
+        "pim:designerId:8264",
+        "pim:familyId:74980",
+        "pim:foundryId:3126",
+        "pim:skuId:538267"
+      ],
+      "updated_at": "2026-04-20T04:23:28-04:00",
+      "product_url": "https://www.myfonts.com/products/black-dotted-weekend-538267",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Dotted Weekend Black",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "6ab3954a15b58dc2"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/bold-oblique-archive-538406",
+    "name": "Archive Bold Oblique",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:30.901521+00:00",
+    "raw": {
+      "id": 7872764739754,
+      "handle": "bold-oblique-archive-538406",
+      "tags": [
+        "decorative",
+        "heading",
+        "pim:designerId:8264",
+        "pim:familyId:74982",
+        "pim:foundryId:3126",
+        "pim:skuId:538406",
+        "techno"
+      ],
+      "updated_at": "2026-04-20T04:23:28-04:00",
+      "product_url": "https://www.myfonts.com/products/bold-oblique-archive-538406",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Archive Bold Oblique",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "eef50623cb14b9df"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/bold-italic-rough-weekend-538393",
+    "name": "Rough Weekend Bold Italic",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:30.901573+00:00",
+    "raw": {
+      "id": 7872776437930,
+      "handle": "bold-italic-rough-weekend-538393",
+      "tags": [
+        "heading",
+        "pim:designerId:8264",
+        "pim:familyId:74989",
+        "pim:foundryId:3126",
+        "pim:skuId:538393"
+      ],
+      "updated_at": "2026-04-20T04:23:28-04:00",
+      "product_url": "https://www.myfonts.com/products/bold-italic-rough-weekend-538393",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rough Weekend Bold Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "fd9a35f40fb9f443"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/light-alternates-rough-weekend-538374",
+    "name": "Rough Weekend Light Alternates",
+    "styles": [],
+    "authors": [
+      "GarageFonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:30.901796+00:00",
+    "raw": {
+      "id": 7872775782570,
+      "handle": "light-alternates-rough-weekend-538374",
+      "tags": [
+        "pim:designerId:8264",
+        "pim:familyId:74989",
+        "pim:foundryId:3126",
+        "pim:skuId:538374"
+      ],
+      "updated_at": "2026-04-20T04:23:28-04:00",
+      "product_url": "https://www.myfonts.com/products/light-alternates-rough-weekend-538374",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rough Weekend Light Alternates",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "1b5b155326ed2c1f"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/rigeras-ultra-expanded-package-1136130",
+    "name": "Rigeras Ultra Expanded",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:36.725046+00:00",
+    "raw": {
+      "id": 8424360706218,
+      "handle": "rigeras-ultra-expanded-package-1136130",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136130"
+      ],
+      "updated_at": "2026-04-20T04:23:28-04:00",
+      "product_url": "https://www.myfonts.com/products/rigeras-ultra-expanded-package-1136130",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Rigeras Ultra Expanded",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "7c88c2205bbbf2f0"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/rigeras-font-seniors-studio",
+    "name": "Rigeras Complete Family",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:52.324109+00:00",
+    "raw": {
+      "id": 8424360575146,
+      "handle": "rigeras-complete-family-package-1136055",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136055"
+      ],
+      "updated_at": "2026-04-20T04:23:28-04:00",
+      "product_url": "https://www.myfonts.com/products/rigeras-complete-family-package-1136055",
+      "collection_url": "https://www.myfonts.com/collections/rigeras-font-seniors-studio",
+      "is_package_product": true,
+      "product_title": "Rigeras Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "7aeaff17db4107ab"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/rigeras-ultra-condensed-package-1136126",
+    "name": "Rigeras Ultra Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:54.652858+00:00",
+    "raw": {
+      "id": 8424360411306,
+      "handle": "rigeras-ultra-condensed-package-1136126",
+      "tags": [
+        "decorative",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136126"
+      ],
+      "updated_at": "2026-04-20T04:23:28-04:00",
+      "product_url": "https://www.myfonts.com/products/rigeras-ultra-condensed-package-1136126",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Rigeras Ultra Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "f06275e1341ed089"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/rigeras-normal-package-1136128",
+    "name": "Rigeras Normal",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:23:54.695532+00:00",
+    "raw": {
+      "id": 8424360345770,
+      "handle": "rigeras-normal-package-1136128",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136128"
+      ],
+      "updated_at": "2026-04-20T04:23:28-04:00",
+      "product_url": "https://www.myfonts.com/products/rigeras-normal-package-1136128",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Rigeras Normal",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "67ae5c20eded0a44"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/rigeras-expanded-package-1136129",
+    "name": "Rigeras Expanded",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:02.524014+00:00",
+    "raw": {
+      "id": 8424360181930,
+      "handle": "rigeras-expanded-package-1136129",
+      "tags": [
+        "decorative",
+        "fashion",
+        "formal",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136129"
+      ],
+      "updated_at": "2026-04-20T04:23:28-04:00",
+      "product_url": "https://www.myfonts.com/products/rigeras-expanded-package-1136129",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Rigeras Expanded",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "54a10e6f47a2fb7a"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/rigeras-condensed-package-1136127",
+    "name": "Rigeras Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:02.524216+00:00",
+    "raw": {
+      "id": 8424360083626,
+      "handle": "rigeras-condensed-package-1136127",
+      "tags": [
+        "classy",
+        "decorative",
+        "elegant",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136127",
+        "serene"
+      ],
+      "updated_at": "2026-04-20T04:23:28-04:00",
+      "product_url": "https://www.myfonts.com/products/rigeras-condensed-package-1136127",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Rigeras Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "ef74ee8137861578"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/black-sr25-italic-exp-rigeras-1136110",
+    "name": "Rigeras Black Sr25 Italic Exp",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:18.001680+00:00",
+    "raw": {
+      "id": 8424359395498,
+      "handle": "black-sr25-italic-exp-rigeras-1136110",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136110"
+      ],
+      "updated_at": "2026-04-20T04:23:28-04:00",
+      "product_url": "https://www.myfonts.com/products/black-sr25-italic-exp-rigeras-1136110",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Black Sr25 Italic Exp",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "90348bd9753f9198"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-bold-sr25-italic-exp-rigeras-1136109",
+    "name": "Rigeras Extra Bold Sr25 Italic Exp",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.199153+00:00",
+    "raw": {
+      "id": 8424359264426,
+      "handle": "extra-bold-sr25-italic-exp-rigeras-1136109",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136109"
+      ],
+      "updated_at": "2026-04-20T04:24:18-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-bold-sr25-italic-exp-rigeras-1136109",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Extra Bold Sr25 Italic Exp",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "a3801b08437aa6f6"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/bold-sr75-italic-rigeras-1136092",
+    "name": "Rigeras Bold Sr75 Italic",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.199400+00:00",
+    "raw": {
+      "id": 8424359100586,
+      "handle": "bold-sr75-italic-rigeras-1136092",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136092"
+      ],
+      "updated_at": "2026-04-20T04:24:18-04:00",
+      "product_url": "https://www.myfonts.com/products/bold-sr75-italic-rigeras-1136092",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Bold Sr75 Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "8737595621b36316"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-light-sr25-italic-ultra-condensed-rigeras-1136059",
+    "name": "Rigeras Extra Light Sr25 Italic Ultra Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.199569+00:00",
+    "raw": {
+      "id": 8424358969514,
+      "handle": "extra-light-sr25-italic-ultra-condensed-rigeras-1136059",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136059"
+      ],
+      "updated_at": "2026-04-20T04:24:18-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-light-sr25-italic-ultra-condensed-rigeras-1136059",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Extra Light Sr25 Italic Ultra Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "478bb0adf7a4934c"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/black-sr75-italic-rigeras-1136096",
+    "name": "Rigeras Black Sr75 Italic",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.199971+00:00",
+    "raw": {
+      "id": 8424358641834,
+      "handle": "black-sr75-italic-rigeras-1136096",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136096"
+      ],
+      "updated_at": "2026-04-20T04:24:18-04:00",
+      "product_url": "https://www.myfonts.com/products/black-sr75-italic-rigeras-1136096",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Black Sr75 Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "407290268259b61f"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/sr25-italic-expanded-rigeras-1136104",
+    "name": "Rigeras Sr25 Italic Expanded",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.200051+00:00",
+    "raw": {
+      "id": 8424358609066,
+      "handle": "sr25-italic-expanded-rigeras-1136104",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136104"
+      ],
+      "updated_at": "2026-04-20T04:24:18-04:00",
+      "product_url": "https://www.myfonts.com/products/sr25-italic-expanded-rigeras-1136104",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Sr25 Italic Expanded",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "7bb6296e23842cbf"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/black-sr25-italic-rigeras-1136097",
+    "name": "Rigeras Black Sr25 Italic",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.200219+00:00",
+    "raw": {
+      "id": 8424358510762,
+      "handle": "black-sr25-italic-rigeras-1136097",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136097"
+      ],
+      "updated_at": "2026-04-20T04:24:18-04:00",
+      "product_url": "https://www.myfonts.com/products/black-sr25-italic-rigeras-1136097",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Black Sr25 Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "fdef4da6507887ec"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/sr75-italic-rigeras-1136090",
+    "name": "Rigeras Sr75 Italic",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.243345+00:00",
+    "raw": {
+      "id": 8424358346922,
+      "handle": "sr75-italic-rigeras-1136090",
+      "tags": [
+        "fashion",
+        "formal",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136090"
+      ],
+      "updated_at": "2026-04-20T04:24:18-04:00",
+      "product_url": "https://www.myfonts.com/products/sr75-italic-rigeras-1136090",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Sr75 Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "cb64c60f9e509f78"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/sr25-italic-rigeras-1136091",
+    "name": "Rigeras Sr25 Italic",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.243410+00:00",
+    "raw": {
+      "id": 8424358314154,
+      "handle": "sr25-italic-rigeras-1136091",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136091"
+      ],
+      "updated_at": "2026-04-20T04:24:18-04:00",
+      "product_url": "https://www.myfonts.com/products/sr25-italic-rigeras-1136091",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Sr25 Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "6398272d763b9424"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/black-sr25-italic-ult-exp-rigeras-1136125",
+    "name": "Rigeras Black Sr25 Italic Ult Exp",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.243812+00:00",
+    "raw": {
+      "id": 8424358052010,
+      "handle": "black-sr25-italic-ult-exp-rigeras-1136125",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136125"
+      ],
+      "updated_at": "2026-04-20T04:24:18-04:00",
+      "product_url": "https://www.myfonts.com/products/black-sr25-italic-ult-exp-rigeras-1136125",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Black Sr25 Italic Ult Exp",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "ee0373e69e902482"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/light-sr75-italic-rigeras-1136089",
+    "name": "Rigeras Light Sr75 Italic",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.243909+00:00",
+    "raw": {
+      "id": 8424357953706,
+      "handle": "light-sr75-italic-rigeras-1136089",
+      "tags": [
+        "classy",
+        "elegant",
+        "fashion",
+        "formal",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136089",
+        "serene",
+        "sophisticated"
+      ],
+      "updated_at": "2026-04-20T04:24:19-04:00",
+      "product_url": "https://www.myfonts.com/products/light-sr75-italic-rigeras-1136089",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Light Sr75 Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "3b636ff267138793"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-bold-sr25-italic-condensed-rigeras-1136080",
+    "name": "Rigeras Extra Bold Sr25 Italic Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.244027+00:00",
+    "raw": {
+      "id": 8424357888170,
+      "handle": "extra-bold-sr25-italic-condensed-rigeras-1136080",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136080"
+      ],
+      "updated_at": "2026-04-20T04:24:19-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-bold-sr25-italic-condensed-rigeras-1136080",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Extra Bold Sr25 Italic Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "957b39b04e3ce354"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/black-sr75-italic-exp-rigeras-1136111",
+    "name": "Rigeras Black Sr75 Italic Exp",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.244080+00:00",
+    "raw": {
+      "id": 8424357855402,
+      "handle": "black-sr75-italic-exp-rigeras-1136111",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136111"
+      ],
+      "updated_at": "2026-04-20T04:24:19-04:00",
+      "product_url": "https://www.myfonts.com/products/black-sr75-italic-exp-rigeras-1136111",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Black Sr75 Italic Exp",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "b21bd20564ddfdc8"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-bold-sr75-italic-ult-exp-rigeras-1136122",
+    "name": "Rigeras Extra Bold Sr75 Italic Ult Exp",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.244127+00:00",
+    "raw": {
+      "id": 8424357789866,
+      "handle": "extra-bold-sr75-italic-ult-exp-rigeras-1136122",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136122"
+      ],
+      "updated_at": "2026-04-20T04:24:19-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-bold-sr75-italic-ult-exp-rigeras-1136122",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Extra Bold Sr75 Italic Ult Exp",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "d62364325dbed730"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/sr25-italic-condensed-rigeras-1136076",
+    "name": "Rigeras Sr25 Italic Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.244219+00:00",
+    "raw": {
+      "id": 8424357757098,
+      "handle": "sr25-italic-condensed-rigeras-1136076",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136076"
+      ],
+      "updated_at": "2026-04-20T04:24:19-04:00",
+      "product_url": "https://www.myfonts.com/products/sr25-italic-condensed-rigeras-1136076",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Sr25 Italic Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "c12e85ad3f476e15"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/thin-sr75-italic-condensed-rigeras-1136071",
+    "name": "Rigeras Thin Sr75 Italic Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.244309+00:00",
+    "raw": {
+      "id": 8424357724330,
+      "handle": "thin-sr75-italic-condensed-rigeras-1136071",
+      "tags": [
+        "decorative",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136071"
+      ],
+      "updated_at": "2026-04-20T04:24:19-04:00",
+      "product_url": "https://www.myfonts.com/products/thin-sr75-italic-condensed-rigeras-1136071",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Thin Sr75 Italic Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "88a59299dacc22f1"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/light-sr75-italic-condensed-rigeras-1136075",
+    "name": "Rigeras Light Sr75 Italic Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.244400+00:00",
+    "raw": {
+      "id": 8424357626026,
+      "handle": "light-sr75-italic-condensed-rigeras-1136075",
+      "tags": [
+        "decorative",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136075"
+      ],
+      "updated_at": "2026-04-20T04:24:19-04:00",
+      "product_url": "https://www.myfonts.com/products/light-sr75-italic-condensed-rigeras-1136075",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Light Sr75 Italic Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "d2088a26f2998920"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/sr25-italic-ultra-condensed-rigeras-1136062",
+    "name": "Rigeras Sr25 Italic Ultra Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.288680+00:00",
+    "raw": {
+      "id": 8424357593258,
+      "handle": "sr25-italic-ultra-condensed-rigeras-1136062",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136062"
+      ],
+      "updated_at": "2026-04-20T04:24:19-04:00",
+      "product_url": "https://www.myfonts.com/products/sr25-italic-ultra-condensed-rigeras-1136062",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Sr25 Italic Ultra Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "8f6e7955e9b8f470"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/light-sr25-italic-ultra-condensed-rigeras-1136061",
+    "name": "Rigeras Light Sr25 Italic Ultra Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.288859+00:00",
+    "raw": {
+      "id": 8424357494954,
+      "handle": "light-sr25-italic-ultra-condensed-rigeras-1136061",
+      "tags": [
+        "decorative",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136061"
+      ],
+      "updated_at": "2026-04-20T04:24:19-04:00",
+      "product_url": "https://www.myfonts.com/products/light-sr25-italic-ultra-condensed-rigeras-1136061",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Light Sr25 Italic Ultra Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "2b205a4942f4c3c0"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-light-sr25-italic-ult-exp-rigeras-1136115",
+    "name": "Rigeras Extra Light Sr25 Italic Ult Exp",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.288958+00:00",
+    "raw": {
+      "id": 8424357429418,
+      "handle": "extra-light-sr25-italic-ult-exp-rigeras-1136115",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136115"
+      ],
+      "updated_at": "2026-04-20T04:24:19-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-light-sr25-italic-ult-exp-rigeras-1136115",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Extra Light Sr25 Italic Ult Exp",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "be13f3bbb6019931"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/black-sr75-italic-ult-exp-rigeras-1136124",
+    "name": "Rigeras Black Sr75 Italic Ult Exp",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.289219+00:00",
+    "raw": {
+      "id": 8424357331114,
+      "handle": "black-sr75-italic-ult-exp-rigeras-1136124",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136124"
+      ],
+      "updated_at": "2026-04-20T04:24:19-04:00",
+      "product_url": "https://www.myfonts.com/products/black-sr75-italic-ult-exp-rigeras-1136124",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Black Sr75 Italic Ult Exp",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "13b7c994521e27e8"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/bold-sr75-italic-condensed-rigeras-1136079",
+    "name": "Rigeras Bold Sr75 Italic Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.289393+00:00",
+    "raw": {
+      "id": 8424357134506,
+      "handle": "bold-sr75-italic-condensed-rigeras-1136079",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136079"
+      ],
+      "updated_at": "2026-04-20T04:24:19-04:00",
+      "product_url": "https://www.myfonts.com/products/bold-sr75-italic-condensed-rigeras-1136079",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Bold Sr75 Italic Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "14c30525e72de6b6"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/sr25-italic-ult-exp-rigeras-1136118",
+    "name": "Rigeras Sr25 Italic Ult Exp",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.289484+00:00",
+    "raw": {
+      "id": 8424357068970,
+      "handle": "sr25-italic-ult-exp-rigeras-1136118",
+      "tags": [
+        "formal",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136118",
+        "professional"
+      ],
+      "updated_at": "2026-04-20T04:24:19-04:00",
+      "product_url": "https://www.myfonts.com/products/sr25-italic-ult-exp-rigeras-1136118",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Sr25 Italic Ult Exp",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "6809d966bb935fcd"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/thin-sr75-italic-exp-rigeras-1136099",
+    "name": "Rigeras Thin Sr75 Italic Exp",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.289688+00:00",
+    "raw": {
+      "id": 8424356905130,
+      "handle": "thin-sr75-italic-exp-rigeras-1136099",
+      "tags": [
+        "decorative",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136099"
+      ],
+      "updated_at": "2026-04-20T04:24:19-04:00",
+      "product_url": "https://www.myfonts.com/products/thin-sr75-italic-exp-rigeras-1136099",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Thin Sr75 Italic Exp",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "08aa79e84d3f2489"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-light-sr25-italic-exp-rigeras-1136101",
+    "name": "Rigeras Extra Light Sr25 Italic Exp",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.289737+00:00",
+    "raw": {
+      "id": 8424356839594,
+      "handle": "extra-light-sr25-italic-exp-rigeras-1136101",
+      "tags": [
+        "classy",
+        "elegant",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136101",
+        "serene",
+        "sophisticated"
+      ],
+      "updated_at": "2026-04-20T04:24:19-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-light-sr25-italic-exp-rigeras-1136101",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Extra Light Sr25 Italic Exp",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "b17ab61bdcd318db"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-light-sr75-italic-condensed-rigeras-1136072",
+    "name": "Rigeras Extra Light Sr75 Italic Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.289825+00:00",
+    "raw": {
+      "id": 8424356806826,
+      "handle": "extra-light-sr75-italic-condensed-rigeras-1136072",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136072"
+      ],
+      "updated_at": "2026-04-20T04:24:19-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-light-sr75-italic-condensed-rigeras-1136072",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Extra Light Sr75 Italic Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "a029bacaec78bf81"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/thin-sr25-italic-rigeras-1136084",
+    "name": "Rigeras Thin Sr25 Italic",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.289914+00:00",
+    "raw": {
+      "id": 8424356675754,
+      "handle": "thin-sr25-italic-rigeras-1136084",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136084"
+      ],
+      "updated_at": "2026-04-20T04:24:19-04:00",
+      "product_url": "https://www.myfonts.com/products/thin-sr25-italic-rigeras-1136084",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Thin Sr25 Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "32727c3e70771cc5"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-bold-sr25-italic-ultra-condensed-rigeras-1136067",
+    "name": "Rigeras Extra Bold Sr25 Italic Ultra Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.335514+00:00",
+    "raw": {
+      "id": 8424356511914,
+      "handle": "extra-bold-sr25-italic-ultra-condensed-rigeras-1136067",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136067"
+      ],
+      "updated_at": "2026-04-20T04:24:19-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-bold-sr25-italic-ultra-condensed-rigeras-1136067",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Extra Bold Sr25 Italic Ultra Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "5704743386e2ad9a"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/bold-sr25-italic-ultra-condensed-rigeras-1136065",
+    "name": "Rigeras Bold Sr25 Italic Ultra Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.335662+00:00",
+    "raw": {
+      "id": 8424356446378,
+      "handle": "bold-sr25-italic-ultra-condensed-rigeras-1136065",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136065"
+      ],
+      "updated_at": "2026-04-20T04:24:19-04:00",
+      "product_url": "https://www.myfonts.com/products/bold-sr25-italic-ultra-condensed-rigeras-1136065",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Bold Sr25 Italic Ultra Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "eba3d41efa6ad0b1"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-bold-sr75-italic-condensed-rigeras-1136081",
+    "name": "Rigeras Extra Bold Sr75 Italic Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.335972+00:00",
+    "raw": {
+      "id": 8424356217002,
+      "handle": "extra-bold-sr75-italic-condensed-rigeras-1136081",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136081"
+      ],
+      "updated_at": "2026-04-20T04:24:19-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-bold-sr75-italic-condensed-rigeras-1136081",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Extra Bold Sr75 Italic Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "b150b2a76743c802"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/light-sr75-italic-ult-exp-rigeras-1136116",
+    "name": "Rigeras Light Sr75 Italic Ult Exp",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:19.336173+00:00",
+    "raw": {
+      "id": 8424356020394,
+      "handle": "light-sr75-italic-ult-exp-rigeras-1136116",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136116"
+      ],
+      "updated_at": "2026-04-20T04:24:19-04:00",
+      "product_url": "https://www.myfonts.com/products/light-sr75-italic-ult-exp-rigeras-1136116",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Light Sr75 Italic Ult Exp",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "9fa07f856e865abd"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-bold-sr25-italic-ult-exp-rigeras-1136123",
+    "name": "Rigeras Extra Bold Sr25 Italic Ult Exp",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.679170+00:00",
+    "raw": {
+      "id": 8424355889322,
+      "handle": "extra-bold-sr25-italic-ult-exp-rigeras-1136123",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136123"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-bold-sr25-italic-ult-exp-rigeras-1136123",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Extra Bold Sr25 Italic Ult Exp",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "2f6b40848f218dcc"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/bold-sr25-italic-ult-exp-rigeras-1136121",
+    "name": "Rigeras Bold Sr25 Italic Ult Exp",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.679463+00:00",
+    "raw": {
+      "id": 8424355758250,
+      "handle": "bold-sr25-italic-ult-exp-rigeras-1136121",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136121"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/bold-sr25-italic-ult-exp-rigeras-1136121",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Bold Sr25 Italic Ult Exp",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "9e1e525c24c38dc8"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/light-sr25-italic-condensed-rigeras-1136074",
+    "name": "Rigeras Light Sr25 Italic Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.679564+00:00",
+    "raw": {
+      "id": 8424355692714,
+      "handle": "light-sr25-italic-condensed-rigeras-1136074",
+      "tags": [
+        "classy",
+        "elegant",
+        "fashion",
+        "formal",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136074",
+        "serene",
+        "sophisticated"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/light-sr25-italic-condensed-rigeras-1136074",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Light Sr25 Italic Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "6185bbbe46b5a747"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/light-sr25-italic-exp-rigeras-1136102",
+    "name": "Rigeras Light Sr25 Italic Exp",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.679617+00:00",
+    "raw": {
+      "id": 8424355659946,
+      "handle": "light-sr25-italic-exp-rigeras-1136102",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136102"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/light-sr25-italic-exp-rigeras-1136102",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Light Sr25 Italic Exp",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "ee360f75c4f80b29"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-light-sr25-italic-rigeras-1136087",
+    "name": "Rigeras Extra Light Sr25 Italic",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.679709+00:00",
+    "raw": {
+      "id": 8424355594410,
+      "handle": "extra-light-sr25-italic-rigeras-1136087",
+      "tags": [
+        "classy",
+        "elegant",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136087",
+        "serene",
+        "sophisticated"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-light-sr25-italic-rigeras-1136087",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Extra Light Sr25 Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "c008abcd46cf990f"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-bold-sr75-italic-ultra-condensed-rigeras-1136066",
+    "name": "Rigeras Extra Bold Sr75 Italic Ultra Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.679873+00:00",
+    "raw": {
+      "id": 8424355430570,
+      "handle": "extra-bold-sr75-italic-ultra-condensed-rigeras-1136066",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136066"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-bold-sr75-italic-ultra-condensed-rigeras-1136066",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Extra Bold Sr75 Italic Ultra Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "4f428e86fb6bf422"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-light-sr75-italic-exp-rigeras-1136100",
+    "name": "Rigeras Extra Light Sr75 Italic Exp",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.727075+00:00",
+    "raw": {
+      "id": 8424355397802,
+      "handle": "extra-light-sr75-italic-exp-rigeras-1136100",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136100"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-light-sr75-italic-exp-rigeras-1136100",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Extra Light Sr75 Italic Exp",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "8bc7a4912c1cbcc8"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/thin-sr25-italic-ult-exp-rigeras-1136112",
+    "name": "Rigeras Thin Sr25 Italic Ult Exp",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.727143+00:00",
+    "raw": {
+      "id": 8424355365034,
+      "handle": "thin-sr25-italic-ult-exp-rigeras-1136112",
+      "tags": [
+        "decorative",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136112"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/thin-sr25-italic-ult-exp-rigeras-1136112",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Thin Sr25 Italic Ult Exp",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "d131dd2d66b35ff3"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/thin-sr25-italic-ultra-condensed-rigeras-1136056",
+    "name": "Rigeras Thin Sr25 Italic Ultra Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.727316+00:00",
+    "raw": {
+      "id": 8424355201194,
+      "handle": "thin-sr25-italic-ultra-condensed-rigeras-1136056",
+      "tags": [
+        "decorative",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136056"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/thin-sr25-italic-ultra-condensed-rigeras-1136056",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Thin Sr25 Italic Ultra Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "696bcfc5632342fe"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/bold-sr75-italic-ultra-condensed-rigeras-1136064",
+    "name": "Rigeras Bold Sr75 Italic Ultra Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.727370+00:00",
+    "raw": {
+      "id": 8424355233962,
+      "handle": "bold-sr75-italic-ultra-condensed-rigeras-1136064",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136064"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/bold-sr75-italic-ultra-condensed-rigeras-1136064",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Bold Sr75 Italic Ultra Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "9d35fa34f783dc04"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/thin-sr75-italic-rigeras-1136085",
+    "name": "Rigeras Thin Sr75 Italic",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.727474+00:00",
+    "raw": {
+      "id": 8424355135658,
+      "handle": "thin-sr75-italic-rigeras-1136085",
+      "tags": [
+        "fashion",
+        "formal",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136085"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/thin-sr75-italic-rigeras-1136085",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Thin Sr75 Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "a533e401ed2e4d36"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/thin-sr75-italic-ultra-condensed-rigeras-1136057",
+    "name": "Rigeras Thin Sr75 Italic Ultra Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.727524+00:00",
+    "raw": {
+      "id": 8424355102890,
+      "handle": "thin-sr75-italic-ultra-condensed-rigeras-1136057",
+      "tags": [
+        "decorative",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136057"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/thin-sr75-italic-ultra-condensed-rigeras-1136057",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Thin Sr75 Italic Ultra Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "81d2b577b47d29cd"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/bold-sr75-italic-exp-rigeras-1136107",
+    "name": "Rigeras Bold Sr75 Italic Exp",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.727616+00:00",
+    "raw": {
+      "id": 8424355037354,
+      "handle": "bold-sr75-italic-exp-rigeras-1136107",
+      "tags": [
+        "formal",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136107",
+        "professional"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/bold-sr75-italic-exp-rigeras-1136107",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Bold Sr75 Italic Exp",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "1128cdbceb01ff84"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-bold-sr25-italic-rigeras-1136095",
+    "name": "Rigeras Extra Bold Sr25 Italic",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.727875+00:00",
+    "raw": {
+      "id": 8424354840746,
+      "handle": "extra-bold-sr25-italic-rigeras-1136095",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136095"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-bold-sr25-italic-rigeras-1136095",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Extra Bold Sr25 Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "4d23bbd547d35149"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/thin-sr75-italic-ult-exp-rigeras-1136113",
+    "name": "Rigeras Thin Sr75 Italic Ult Exp",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.728074+00:00",
+    "raw": {
+      "id": 8424354709674,
+      "handle": "thin-sr75-italic-ult-exp-rigeras-1136113",
+      "tags": [
+        "decorative",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136113"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/thin-sr75-italic-ult-exp-rigeras-1136113",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Thin Sr75 Italic Ult Exp",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "b1a5fdf4a0ee025c"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/sr75-italic-ult-exp-rigeras-1136119",
+    "name": "Rigeras Sr75 Italic Ult Exp",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.728172+00:00",
+    "raw": {
+      "id": 8424354611370,
+      "handle": "sr75-italic-ult-exp-rigeras-1136119",
+      "tags": [
+        "formal",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136119",
+        "professional"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/sr75-italic-ult-exp-rigeras-1136119",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Sr75 Italic Ult Exp",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "b4b623959d150b29"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/bold-sr25-italic-exp-rigeras-1136106",
+    "name": "Rigeras Bold Sr25 Italic Exp",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.814397+00:00",
+    "raw": {
+      "id": 8424354513066,
+      "handle": "bold-sr25-italic-exp-rigeras-1136106",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136106"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/bold-sr25-italic-exp-rigeras-1136106",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Bold Sr25 Italic Exp",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "5766bc4713eba8a9"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/light-sr25-italic-ult-exp-rigeras-1136117",
+    "name": "Rigeras Light Sr25 Italic Ult Exp",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.814474+00:00",
+    "raw": {
+      "id": 8424354480298,
+      "handle": "light-sr25-italic-ult-exp-rigeras-1136117",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136117"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/light-sr25-italic-ult-exp-rigeras-1136117",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Light Sr25 Italic Ult Exp",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "6a21f0133822b651"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/bold-sr25-italic-condensed-rigeras-1136078",
+    "name": "Rigeras Bold Sr25 Italic Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.814528+00:00",
+    "raw": {
+      "id": 8424354447530,
+      "handle": "bold-sr25-italic-condensed-rigeras-1136078",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136078"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/bold-sr25-italic-condensed-rigeras-1136078",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Bold Sr25 Italic Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "d18de3d064d8c3ab"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/light-sr25-italic-rigeras-1136088",
+    "name": "Rigeras Light Sr25 Italic",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.814682+00:00",
+    "raw": {
+      "id": 8424354349226,
+      "handle": "light-sr25-italic-rigeras-1136088",
+      "tags": [
+        "classy",
+        "elegant",
+        "fashion",
+        "formal",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136088",
+        "serene",
+        "sophisticated"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/light-sr25-italic-rigeras-1136088",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Light Sr25 Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "b1c6850629ebde9c"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/black-sr75-italic-condensed-rigeras-1136083",
+    "name": "Rigeras Black Sr75 Italic Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.814743+00:00",
+    "raw": {
+      "id": 8424354316458,
+      "handle": "black-sr75-italic-condensed-rigeras-1136083",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136083"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/black-sr75-italic-condensed-rigeras-1136083",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Black Sr75 Italic Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "7002973f2bdf5fae"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/sr75-italic-ultra-condensed-rigeras-1136063",
+    "name": "Rigeras Sr75 Italic Ultra Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.814926+00:00",
+    "raw": {
+      "id": 8424354218154,
+      "handle": "sr75-italic-ultra-condensed-rigeras-1136063",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136063"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/sr75-italic-ultra-condensed-rigeras-1136063",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Sr75 Italic Ultra Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "e0cf236a0331a776"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/thin-sr25-italic-exp-rigeras-1136098",
+    "name": "Rigeras Thin Sr25 Italic Exp",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.815053+00:00",
+    "raw": {
+      "id": 8424354152618,
+      "handle": "thin-sr25-italic-exp-rigeras-1136098",
+      "tags": [
+        "decorative",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136098"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/thin-sr25-italic-exp-rigeras-1136098",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Thin Sr25 Italic Exp",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "b5cc78998a26d55b"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/thin-sr25-italic-condensed-rigeras-1136070",
+    "name": "Rigeras Thin Sr25 Italic Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.815109+00:00",
+    "raw": {
+      "id": 8424354087082,
+      "handle": "thin-sr25-italic-condensed-rigeras-1136070",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136070"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/thin-sr25-italic-condensed-rigeras-1136070",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Thin Sr25 Italic Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "7bf56317769830a8"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/black-sr25-italic-ultra-condensed-rigeras-1136068",
+    "name": "Rigeras Black Sr25 Italic Ultra Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.815299+00:00",
+    "raw": {
+      "id": 8424353956010,
+      "handle": "black-sr25-italic-ultra-condensed-rigeras-1136068",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136068"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/black-sr25-italic-ultra-condensed-rigeras-1136068",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Black Sr25 Italic Ultra Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "ad8e90be3b521e47"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/black-sr25-italic-condensed-rigeras-1136082",
+    "name": "Rigeras Black Sr25 Italic Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.815352+00:00",
+    "raw": {
+      "id": 8424353890474,
+      "handle": "black-sr25-italic-condensed-rigeras-1136082",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136082"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/black-sr25-italic-condensed-rigeras-1136082",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Black Sr25 Italic Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "6df31ff525f20a87"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/sr75-italic-condensed-rigeras-1136077",
+    "name": "Rigeras Sr75 Italic Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.865579+00:00",
+    "raw": {
+      "id": 8424353595562,
+      "handle": "sr75-italic-condensed-rigeras-1136077",
+      "tags": [
+        "fashion",
+        "formal",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136077"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/sr75-italic-condensed-rigeras-1136077",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Sr75 Italic Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "8f7c99c1372e2442"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-bold-sr75-italic-exp-rigeras-1136108",
+    "name": "Rigeras Extra Bold Sr75 Italic Exp",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.865848+00:00",
+    "raw": {
+      "id": 8424353530026,
+      "handle": "extra-bold-sr75-italic-exp-rigeras-1136108",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136108"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-bold-sr75-italic-exp-rigeras-1136108",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Extra Bold Sr75 Italic Exp",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "123e053cd85a80e0"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-light-sr25-italic-condensed-rigeras-1136073",
+    "name": "Rigeras Extra Light Sr25 Italic Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.866115+00:00",
+    "raw": {
+      "id": 8424353398954,
+      "handle": "extra-light-sr25-italic-condensed-rigeras-1136073",
+      "tags": [
+        "classy",
+        "elegant",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136073",
+        "serene",
+        "sophisticated"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-light-sr25-italic-condensed-rigeras-1136073",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Extra Light Sr25 Italic Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "84c41cd4de7f130e"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-bold-sr75-italic-rigeras-1136094",
+    "name": "Rigeras Extra Bold Sr75 Italic",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.866171+00:00",
+    "raw": {
+      "id": 8424353366186,
+      "handle": "extra-bold-sr75-italic-rigeras-1136094",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136094"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-bold-sr75-italic-rigeras-1136094",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Extra Bold Sr75 Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "3b57144e1c570e3e"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/light-sr75-italic-ultra-condensed-rigeras-1136060",
+    "name": "Rigeras Light Sr75 Italic Ultra Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.866312+00:00",
+    "raw": {
+      "id": 8424353235114,
+      "handle": "light-sr75-italic-ultra-condensed-rigeras-1136060",
+      "tags": [
+        "decorative",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136060"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/light-sr75-italic-ultra-condensed-rigeras-1136060",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Light Sr75 Italic Ultra Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "c51159dbe93f2e15"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/bold-sr25-italic-rigeras-1136093",
+    "name": "Rigeras Bold Sr25 Italic",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.866364+00:00",
+    "raw": {
+      "id": 8424353169578,
+      "handle": "bold-sr25-italic-rigeras-1136093",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136093"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/bold-sr25-italic-rigeras-1136093",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Bold Sr25 Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "1c6ef5773f5fb6b5"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/bold-sr75-italic-ult-exp-rigeras-1136120",
+    "name": "Rigeras Bold Sr75 Italic Ult Exp",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.866413+00:00",
+    "raw": {
+      "id": 8424353136810,
+      "handle": "bold-sr75-italic-ult-exp-rigeras-1136120",
+      "tags": [
+        "formal",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136120",
+        "professional"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/bold-sr75-italic-ult-exp-rigeras-1136120",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Bold Sr75 Italic Ult Exp",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "e5fc61af8e8bec61"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-light-sr75-italic-ultra-condensed-rigeras-1136058",
+    "name": "Rigeras Extra Light Sr75 Italic Ultra Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.866592+00:00",
+    "raw": {
+      "id": 8424353005738,
+      "handle": "extra-light-sr75-italic-ultra-condensed-rigeras-1136058",
+      "tags": [
+        "decorative",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136058"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-light-sr75-italic-ultra-condensed-rigeras-1136058",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Extra Light Sr75 Italic Ultra Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "17e148c5d8d91974"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/light-sr75-italic-exp-rigeras-1136103",
+    "name": "Rigeras Light Sr75 Italic Exp",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:20.866644+00:00",
+    "raw": {
+      "id": 8424352841898,
+      "handle": "light-sr75-italic-exp-rigeras-1136103",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136103"
+      ],
+      "updated_at": "2026-04-20T04:24:20-04:00",
+      "product_url": "https://www.myfonts.com/products/light-sr75-italic-exp-rigeras-1136103",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Light Sr75 Italic Exp",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "7c7ee013542c3eb2"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-light-sr75-italic-rigeras-1136086",
+    "name": "Rigeras Extra Light Sr75 Italic",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:22.332595+00:00",
+    "raw": {
+      "id": 8424352678058,
+      "handle": "extra-light-sr75-italic-rigeras-1136086",
+      "tags": [
+        "decorative",
+        "fashion",
+        "formal",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136086"
+      ],
+      "updated_at": "2026-04-20T04:24:22-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-light-sr75-italic-rigeras-1136086",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Extra Light Sr75 Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "66abb7db865861ac"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-light-sr75-italic-ult-exp-rigeras-1136114",
+    "name": "Rigeras Extra Light Sr75 Italic Ult Exp",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:22.388325+00:00",
+    "raw": {
+      "id": 8424352317610,
+      "handle": "extra-light-sr75-italic-ult-exp-rigeras-1136114",
+      "tags": [
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136114"
+      ],
+      "updated_at": "2026-04-20T04:24:22-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-light-sr75-italic-ult-exp-rigeras-1136114",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Extra Light Sr75 Italic Ult Exp",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "79e3289487f318ca"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/black-sr75-italic-ultra-condensed-rigeras-1136069",
+    "name": "Rigeras Black Sr75 Italic Ultra Condensed",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:22.388401+00:00",
+    "raw": {
+      "id": 8424352350378,
+      "handle": "black-sr75-italic-ultra-condensed-rigeras-1136069",
+      "tags": [
+        "decorative",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136069"
+      ],
+      "updated_at": "2026-04-20T04:24:22-04:00",
+      "product_url": "https://www.myfonts.com/products/black-sr75-italic-ultra-condensed-rigeras-1136069",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Black Sr75 Italic Ultra Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "8f4497db2c3815b0"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/sr75-italic-expanded-rigeras-1136105",
+    "name": "Rigeras Sr75 Italic Expanded",
+    "styles": [],
+    "authors": [
+      "Seniors Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-04-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-20T08:24:22.388819+00:00",
+    "raw": {
+      "id": 8424352022698,
+      "handle": "sr75-italic-expanded-rigeras-1136105",
+      "tags": [
+        "formal",
+        "pim:designerId:5357",
+        "pim:familyId:121277",
+        "pim:foundryId:2384",
+        "pim:skuId:1136105",
+        "professional"
+      ],
+      "updated_at": "2026-04-20T04:24:22-04:00",
+      "product_url": "https://www.myfonts.com/products/sr75-italic-expanded-rigeras-1136105",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Rigeras Sr75 Italic Expanded",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "8bc7405e9cd3c6d0"
+  }
+]
