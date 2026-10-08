@@ -1,0 +1,36 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/flaviazim/zc-casual?v=1.0",
+    "name": "ZC Casual",
+    "styles": [],
+    "authors": [
+      "Flavia Zimbardi"
+    ],
+    "scripts": [
+      "extended-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-05-07",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/71/medium_Lygia_1.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/8307/ZCCasual_Specimen.pdf",
+    "discovered_at": "2026-05-08T08:07:45.358722+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:21110",
+      "activity_id": 21110,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "1.0",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 8307,
+      "resolved_typeface_id": 103,
+      "typeface_language": "extended-latin"
+    },
+    "release_id": "1939669a987859c6"
+  }
+]

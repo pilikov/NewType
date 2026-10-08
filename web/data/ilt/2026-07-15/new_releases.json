@@ -1,0 +1,157 @@
+[
+  {
+    "source_id": "ilt",
+    "source_name": "I Love Typography",
+    "source_url": "https://fonts.ilovetypography.com/fonts/mac-rhino-fonts/olimpico",
+    "name": "Olimpico",
+    "styles": [
+      "Regular",
+      "Bold"
+    ],
+    "authors": [
+      "MAC Rhino Fonts",
+      "Stefan Hattenbach"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2023-04-18",
+    "image_url": "https://empty-grouse.transforms.svdcdn.com/production/images/MRF_myfonts_OLIMPICO-1.png?w=580&auto=compress%2Cformat&fit=min&dm=1784042380&s=0b99f340c758722d14468431f1f7a3ae",
+    "woff_url": "https://d3qx8f8l5aa3yc.cloudfront.net/webfonts/mac-rhino-fonts/Olimpico-Regular.woff?v=1784042091",
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-15T08:43:02.030284+00:00",
+    "raw": {
+      "release_identity": "ilt:1755328",
+      "typesense_id": "1755328",
+      "slug": "olimpico",
+      "foundry": "MAC Rhino Fonts",
+      "designer": "Stefan Hattenbach",
+      "description": "The name of this typeface is a hymn to the Stadio Olimpico in Rome. The home arena to the World's most beautiful football club – AS ROMA. A club with many great players through the years. The biggest of them all, is already a living legend… Francesco Totti. The design is a 2-weight family perfect for elegant display work. The regular weight is more even in blackness while the bold weight carries more contrast.",
+      "categories": [
+        "Sans serif fonts"
+      ],
+      "otfeatures": [
+        "Stylistic Alternates",
+        "Discretionary Ligatures",
+        "Standard Ligatures",
+        "Small Capitals",
+        "Small Capitals from Capitals",
+        "Case-sensitive  Forms",
+        "Superscript",
+        "Lining Figures",
+        "Old-style Figures",
+        "Fractions"
+      ],
+      "cedars": {
+        "cLatinCapWaist": "5",
+        "cLatinLowerA": "double",
+        "cLatinLowerAStroke": "convex",
+        "cLatinLowerC": "flared",
+        "cLatinLowerE": "flat",
+        "cLatinLowerG": "single",
+        "cLatinSerif": "na",
+        "cLatinUpperK": "intersecting",
+        "cLatinUpperM": "baseline",
+        "cLatinUpperR": "straight",
+        "cLatinWidths": "proportional",
+        "cLatinxHeight": "60",
+        "cedarsAxis": "90",
+        "cedarsConstruction": "formal",
+        "cedarsContrast": "2",
+        "cedarsEnergy": "3",
+        "cedarsFill": "solid",
+        "cedarsFinials": "1",
+        "cedarsLoops": "oval",
+        "cedarsPattern": "3",
+        "cedarsTerminals": "flared",
+        "cedarsTransitions": "intersecting",
+        "cedarsWidths": "5"
+      },
+      "price": 89,
+      "fromPrice": 59,
+      "onPromotion": true,
+      "hasDemoFonts": false,
+      "hasFreeFonts": false,
+      "enabled": true,
+      "api_source": "https://ikgq6me4n0p3u2bvp-1.a1.typesense.net/collections/prod_FONTS/documents/search"
+    },
+    "release_id": "2c57ba9d45aba0cf"
+  },
+  {
+    "source_id": "ilt",
+    "source_name": "I Love Typography",
+    "source_url": "https://fonts.ilovetypography.com/fonts/mac-rhino-fonts/tassista",
+    "name": "Tassista",
+    "styles": [
+      "Medium"
+    ],
+    "authors": [
+      "MAC Rhino Fonts",
+      "Stefan Hattenbach"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2023-03-29",
+    "image_url": "https://empty-grouse.transforms.svdcdn.com/production/images/MRF_myfonts_TASSISTA-1.png?w=580&auto=compress%2Cformat&fit=min&dm=1784040340&s=4de6dfb0512130606bc48dadd5a7772c",
+    "woff_url": "https://d3qx8f8l5aa3yc.cloudfront.net/webfonts/mac-rhino-fonts/Tassista.woff?v=1784039852",
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-15T08:43:02.030333+00:00",
+    "raw": {
+      "release_identity": "ilt:1755307",
+      "typesense_id": "1755307",
+      "slug": "tassista",
+      "foundry": "MAC Rhino Fonts",
+      "designer": "Stefan Hattenbach",
+      "description": "Tassista means taxi in Italian. It suits this typeface well as the source of inspiration is the closing credits from the film Taxi driver, directed by Martin Scorsese in 1976. The typeface is designed to perform especially well in smaller sizes and makes it suitable for various credit copy, footnotes etcetera, nearly always presented in minor sizes. During the designs process it seemed more logical to make small caps instead of traditional lowercases.",
+      "categories": [
+        "Sans serif fonts"
+      ],
+      "otfeatures": [
+        "Stylistic Alternates",
+        "Standard Ligatures",
+        "Small Capitals",
+        "Small Capitals from Capitals",
+        "Case-sensitive  Forms",
+        "Superscript",
+        "Proportional Figures",
+        "Tabular Figures",
+        "Fractions"
+      ],
+      "cedars": {
+        "cLatinCapWaist": "5",
+        "cLatinLowerA": "na",
+        "cLatinLowerAStroke": "na",
+        "cLatinLowerC": "na",
+        "cLatinLowerE": "na",
+        "cLatinLowerG": "na",
+        "cLatinSerif": "na",
+        "cLatinUpperK": "stepped",
+        "cLatinUpperM": "baseline",
+        "cLatinUpperR": "straight",
+        "cLatinWidths": "proportional",
+        "cedarsAxis": "90",
+        "cedarsConstruction": "formal",
+        "cedarsContrast": "na",
+        "cedarsEnergy": "3",
+        "cedarsFill": "solid",
+        "cedarsFinials": "na",
+        "cedarsLoops": "roundedRectangle",
+        "cedarsPattern": "5",
+        "cedarsTerminals": "blunted",
+        "cedarsTransitions": "intersecting",
+        "cedarsWidths": "5"
+      },
+      "price": 59,
+      "fromPrice": 59,
+      "onPromotion": true,
+      "hasDemoFonts": false,
+      "hasFreeFonts": false,
+      "enabled": true,
+      "api_source": "https://ikgq6me4n0p3u2bvp-1.a1.typesense.net/collections/prod_FONTS/documents/search"
+    },
+    "release_id": "765dbb4361560f6e"
+  }
+]
