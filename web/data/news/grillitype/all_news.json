@@ -320,5 +320,47 @@
       "typeface": "GT Walsheim"
     },
     "news_id": "7b7c41189bbac29f"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Deutsche Oper am Rhein",
+    "url": "https://www.grillitype.com/blog/in-use/deutsche-oper-design",
+    "published_at": "2026-10-08",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/6ac/6e0/4d8/6ac6e04d8bb84668429519.png",
+    "discovered_at": "2026-10-08T13:21:49.317560+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Sectra"
+    },
+    "news_id": "a7523eec34da5037"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Shelby Storage",
+    "url": "https://www.grillitype.com/blog/in-use/shelby-storage-design",
+    "published_at": "2026-10-08",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/6ac/6e3/24b/6ac6e324b52a9197881836.png",
+    "discovered_at": "2026-10-08T13:21:49.779253+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Planar"
+    },
+    "news_id": "bfc551dd87934a53"
+  },
+  {
+    "source_id": "grillitype",
+    "source_name": "Grilli Type",
+    "title": "Wallace & Gromit and Friends exhibition",
+    "url": "https://www.grillitype.com/blog/in-use/wallace-gromit-exhibition-design",
+    "published_at": "2026-10-07",
+    "image_url": "https://www.grillitype.com/api/storage/app/uploads/public/6ac/6da/d36/6ac6dad3648a5430161324.png",
+    "discovered_at": "2026-10-08T13:21:50.686595+00:00",
+    "raw": {
+      "category": "in-use",
+      "typeface": "GT Standard"
+    },
+    "news_id": "04510caaefff7612"
   }
 ]

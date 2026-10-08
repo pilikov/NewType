@@ -656,5 +656,19 @@
       "post_date": "2026-10-05"
     },
     "news_id": "e71912b7af3652a8"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Oceanic Text in use: Mill Italian Bistro",
+    "url": "https://type.today/en/journal/mill-italian-bistro",
+    "published_at": "2026-10-08",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/3/1321/preview_420_preview_image_en-13YRNo0gUd5Gyzi4yWshVoSqziqyPCYi8A.png",
+    "discovered_at": "2026-10-08T13:21:15.649899+00:00",
+    "raw": {
+      "slug": "mill-italian-bistro",
+      "post_date": "2026-10-08"
+    },
+    "news_id": "ab5c8ddbc3d37ef5"
   }
 ]
