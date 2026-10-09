@@ -1,0 +1,84 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/collection-morning-font-timelesstype-studio",
+    "name": "Collection Morning Complete Family",
+    "styles": [],
+    "authors": [
+      "Timelesstype Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-06-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-23T09:58:52.125517+00:00",
+    "raw": {
+      "id": 8466533810346,
+      "handle": "collection-morning-complete-family-package-1172434",
+      "tags": [
+        "pim:designerId:6292",
+        "pim:familyId:134276",
+        "pim:foundryId:6609",
+        "pim:skuId:1172434"
+      ],
+      "updated_at": "2026-06-23T05:58:14-04:00",
+      "product_url": "https://www.myfonts.com/products/collection-morning-complete-family-package-1172434",
+      "collection_url": "https://www.myfonts.com/collections/collection-morning-font-timelesstype-studio",
+      "is_package_product": true,
+      "product_title": "Collection Morning Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "278088027f34eba9"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/dunker-font-mans-greback/",
+    "name": "Dunker",
+    "styles": [],
+    "authors": [
+      "Mans Greback"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-08",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10237/VfawpivixRZeF9sbbSqFCBU7_80e2a8e7e3c01d8047aeac90de94c022.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-09T09:53:39.120527+00:00",
+    "raw": {
+      "id": 8478512185514,
+      "handle": "dunker-complete-family-package-1161910",
+      "tags": [
+        "bubble",
+        "comic",
+        "decorative",
+        "graffiti",
+        "pim:designerId:2344",
+        "pim:familyId:133321",
+        "pim:foundryId:3066",
+        "pim:skuId:1161910",
+        "retro",
+        "tattoo"
+      ],
+      "updated_at": "2026-07-09T05:53:31-04:00",
+      "product_url": "https://www.myfonts.com/products/dunker-complete-family-package-1161910",
+      "collection_url": "https://www.myfonts.com/collections/dunker-font-mans-greback/",
+      "is_package_product": true,
+      "product_title": "Dunker Complete Family",
+      "collection_name": "Dunker",
+      "myfonts_debut_date": "2026-07-08",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "769894327103270f"
+  }
+]
