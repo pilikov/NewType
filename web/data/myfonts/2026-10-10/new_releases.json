@@ -1,0 +1,553 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/impacted-xpress-font-tension-type",
+    "name": "Impacted Xpress Complete Family",
+    "styles": [],
+    "authors": [
+      "Tension Type"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-21",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-22T11:25:55.573428+00:00",
+    "raw": {
+      "id": 8634518470826,
+      "handle": "impacted-xpress-complete-family-package-1226971",
+      "tags": [
+        "allcaps",
+        "decorative",
+        "pim:designerId:2578",
+        "pim:familyId:137581",
+        "pim:foundryId:655",
+        "pim:skuId:1226971"
+      ],
+      "updated_at": "2026-09-22T07:25:19-04:00",
+      "product_url": "https://www.myfonts.com/products/impacted-xpress-complete-family-package-1226971",
+      "collection_url": "https://www.myfonts.com/collections/impacted-xpress-font-tension-type",
+      "is_package_product": true,
+      "product_title": "Impacted Xpress Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "f06f0643ff1760eb"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/lootta-font-artiveko",
+    "name": "Lootta Complete Family",
+    "styles": [],
+    "authors": [
+      "Artiveko"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-21",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-22T11:25:56.535097+00:00",
+    "raw": {
+      "id": 8634518372522,
+      "handle": "lootta-complete-family-package-1228072",
+      "tags": [
+        "decorative",
+        "friendly",
+        "pim:designerId:8871",
+        "pim:familyId:137639",
+        "pim:foundryId:6427",
+        "pim:skuId:1228072",
+        "rounded",
+        "soft",
+        "youthful"
+      ],
+      "updated_at": "2026-09-22T07:25:19-04:00",
+      "product_url": "https://www.myfonts.com/products/lootta-complete-family-package-1228072",
+      "collection_url": "https://www.myfonts.com/collections/lootta-font-artiveko",
+      "is_package_product": true,
+      "product_title": "Lootta Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "1f92b47c2c41d385"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/gc-barcuda-font-onyx-studio",
+    "name": "GC Barcuda Complete Family",
+    "styles": [],
+    "authors": [
+      "Onyx Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-21",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-22T11:25:58.352636+00:00",
+    "raw": {
+      "id": 8634518306986,
+      "handle": "gc-barcuda-complete-family-package-1227157",
+      "tags": [
+        "clean",
+        "formal",
+        "geometric",
+        "legible",
+        "luxury",
+        "pim:designerId:9525",
+        "pim:familyId:137586",
+        "pim:foundryId:6995",
+        "pim:skuId:1227157",
+        "professional",
+        "serene",
+        "sleek",
+        "sophisticated"
+      ],
+      "updated_at": "2026-09-22T07:25:19-04:00",
+      "product_url": "https://www.myfonts.com/products/gc-barcuda-complete-family-package-1227157",
+      "collection_url": "https://www.myfonts.com/collections/gc-barcuda-font-onyx-studio",
+      "is_package_product": true,
+      "product_title": "GC Barcuda Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "3f4f09ef3f6d88f6"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/man-udigital-font-kalam",
+    "name": "Man uDigital Complete Family",
+    "styles": [],
+    "authors": [
+      "Kalam"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-21",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-22T11:25:59.310018+00:00",
+    "raw": {
+      "id": 8634518274218,
+      "handle": "man-udigital-complete-family-package-1226935",
+      "tags": [
+        "decorative",
+        "pim:designerId:5870",
+        "pim:designerId:9917",
+        "pim:familyId:137571",
+        "pim:foundryId:7353",
+        "pim:skuId:1226935"
+      ],
+      "updated_at": "2026-09-22T07:25:19-04:00",
+      "product_url": "https://www.myfonts.com/products/man-udigital-complete-family-package-1226935",
+      "collection_url": "https://www.myfonts.com/collections/man-udigital-font-kalam",
+      "is_package_product": true,
+      "product_title": "Man uDigital Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "871263b0dc9a51ba"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/kotorogo-font-artiveko",
+    "name": "Kotorogo Complete Family",
+    "styles": [],
+    "authors": [
+      "Artiveko"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-21",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-22T11:26:00.414648+00:00",
+    "raw": {
+      "id": 8634518175914,
+      "handle": "kotorogo-complete-family-package-1227992",
+      "tags": [
+        "pim:designerId:8871",
+        "pim:familyId:137637",
+        "pim:foundryId:6427",
+        "pim:skuId:1227992"
+      ],
+      "updated_at": "2026-09-22T07:25:19-04:00",
+      "product_url": "https://www.myfonts.com/products/kotorogo-complete-family-package-1227992",
+      "collection_url": "https://www.myfonts.com/collections/kotorogo-font-artiveko",
+      "is_package_product": true,
+      "product_title": "Kotorogo Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "423c2aff2cfaef4f"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/christmas-memory-font-unitype-studio",
+    "name": "Christmas Memory Complete Family",
+    "styles": [],
+    "authors": [
+      "Unitype Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-21",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-22T11:26:03.321965+00:00",
+    "raw": {
+      "id": 8634517979306,
+      "handle": "christmas-memory-complete-family-package-1227169",
+      "tags": [
+        "classy",
+        "decorative",
+        "elegant",
+        "fashion",
+        "formal",
+        "pim:designerId:8551",
+        "pim:familyId:137588",
+        "pim:foundryId:6181",
+        "pim:skuId:1227169",
+        "serene"
+      ],
+      "updated_at": "2026-09-22T07:25:19-04:00",
+      "product_url": "https://www.myfonts.com/products/christmas-memory-complete-family-package-1227169",
+      "collection_url": "https://www.myfonts.com/collections/christmas-memory-font-unitype-studio",
+      "is_package_product": true,
+      "product_title": "Christmas Memory Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "d58ffad8decf4ee6"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/logotika-font-asenbayu",
+    "name": "Logotika Complete Family",
+    "styles": [],
+    "authors": [
+      "Asenbayu"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-21",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-22T11:26:04.402422+00:00",
+    "raw": {
+      "id": 8634517946538,
+      "handle": "logotika-complete-family-package-1228075",
+      "tags": [
+        "pim:designerId:6111",
+        "pim:familyId:137640",
+        "pim:foundryId:4343",
+        "pim:skuId:1228075"
+      ],
+      "updated_at": "2026-09-22T07:25:19-04:00",
+      "product_url": "https://www.myfonts.com/products/logotika-complete-family-package-1228075",
+      "collection_url": "https://www.myfonts.com/collections/logotika-font-asenbayu",
+      "is_package_product": true,
+      "product_title": "Logotika Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "e1c806fdba61fc67"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/font-bundle-4-package-919741",
+    "name": "Font Bundle 4",
+    "styles": [],
+    "authors": [
+      "Slava Antipov"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-10-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-10-10T12:20:03.673942+00:00",
+    "raw": {
+      "id": 7952693428394,
+      "handle": "font-bundle-4-package-919741",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-10-10T08:19:53-04:00",
+      "product_url": "https://www.myfonts.com/products/font-bundle-4-package-919741",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Font Bundle 4",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "c9d315d57229882f"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/exzan-drawn-font-isolatype/",
+    "name": "Exzan Drawn",
+    "styles": [],
+    "authors": [
+      "Isolatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-10-09",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10286/GWPcqfj9ET0Ode850CeqWrMq_1b1b56165c9675cef29ead204ccd123f.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-10-10T12:21:09.459722+00:00",
+    "raw": {
+      "id": 15391672729770,
+      "handle": "exzan-drawn-complete-family-package-1240080",
+      "tags": [
+        "comic",
+        "decorative",
+        "friendly",
+        "kids",
+        "pim:designerId:7961",
+        "pim:familyId:138505",
+        "pim:foundryId:5427",
+        "pim:skuId:1240080",
+        "playful",
+        "rounded",
+        "soft",
+        "whimsical",
+        "youthful"
+      ],
+      "updated_at": "2026-10-10T08:19:53-04:00",
+      "product_url": "https://www.myfonts.com/products/exzan-drawn-complete-family-package-1240080",
+      "collection_url": "https://www.myfonts.com/collections/exzan-drawn-font-isolatype/",
+      "is_package_product": true,
+      "product_title": "Exzan Drawn Complete Family",
+      "collection_name": "Exzan Drawn",
+      "myfonts_debut_date": "2026-10-09",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "41d54a26a1a98757"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/font-bundle-2-package-919739",
+    "name": "Font Bundle 2",
+    "styles": [],
+    "authors": [
+      "Slava Antipov"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-10-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-10-10T12:22:40.057838+00:00",
+    "raw": {
+      "id": 7952687202474,
+      "handle": "font-bundle-2-package-919739",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-10-10T08:21:52-04:00",
+      "product_url": "https://www.myfonts.com/products/font-bundle-2-package-919739",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Font Bundle 2",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "e1070fe8f2a11b48"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/font-bundle-3-package-919740",
+    "name": "Font Bundle 3",
+    "styles": [],
+    "authors": [
+      "Slava Antipov"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-10-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-10-10T12:22:41.695927+00:00",
+    "raw": {
+      "id": 7952687169706,
+      "handle": "font-bundle-3-package-919740",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-10-10T08:21:52-04:00",
+      "product_url": "https://www.myfonts.com/products/font-bundle-3-package-919740",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Font Bundle 3",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "beb7bb83100f0b98"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/font-bundle-5-package-919742",
+    "name": "Font Bundle 5",
+    "styles": [],
+    "authors": [
+      "Slava Antipov"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-10-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-10-10T12:22:43.392081+00:00",
+    "raw": {
+      "id": 7952702406826,
+      "handle": "font-bundle-5-package-919742",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-10-10T08:21:52-04:00",
+      "product_url": "https://www.myfonts.com/products/font-bundle-5-package-919742",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Font Bundle 5",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "2063df8d1e475cbf"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/font-bundle-1-package-952138",
+    "name": "Font Bundle 1",
+    "styles": [],
+    "authors": [
+      "Slava Antipov"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-10-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-10-10T12:22:44.556350+00:00",
+    "raw": {
+      "id": 8013458669738,
+      "handle": "font-bundle-1-package-952138",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-10-10T08:21:52-04:00",
+      "product_url": "https://www.myfonts.com/products/font-bundle-1-package-952138",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Font Bundle 1",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "fc4d12b799f80cb3"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/munbird-font-wildan-carfont/",
+    "name": "Munbird",
+    "styles": [],
+    "authors": [
+      "Wildan Type"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-10-09",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10286/mS8jh2upPETx1nT90Nix22PB_1e5725ecb94419f71e58f33b65cc821b.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-10-10T12:23:09.518031+00:00",
+    "raw": {
+      "id": 15391655854250,
+      "handle": "regular-munbird-1240079",
+      "tags": [
+        "friendly",
+        "pim:designerId:7961",
+        "pim:familyId:138504",
+        "pim:foundryId:3961",
+        "pim:skuId:1240079"
+      ],
+      "updated_at": "2026-10-10T08:23:03-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-munbird-1240079",
+      "collection_url": "https://www.myfonts.com/collections/munbird-font-wildan-carfont/",
+      "is_package_product": false,
+      "product_title": "Munbird",
+      "collection_name": "Munbird",
+      "myfonts_debut_date": "2026-10-09",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "5502677c284ada53"
+  }
+]
