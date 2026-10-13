@@ -1,0 +1,466 @@
+[
+  {
+    "source_id": "ilt",
+    "source_name": "I Love Typography",
+    "source_url": "https://fonts.ilovetypography.com/fonts/huy-fonts/brickie-extended-2",
+    "name": "Brickie Extended",
+    "styles": [
+      "Extended Hairline",
+      "Extended Hairline Slanted",
+      "Extended Thin",
+      "Extended Thin Slanted",
+      "Extended Extralight",
+      "Extended Extralight Slanted",
+      "Extended Light",
+      "Extended Light Slanted",
+      "Extended",
+      "Extended Slanted",
+      "Extended Medium",
+      "Extended Medium Slanted",
+      "Extended Semibold",
+      "Extended Semibold Slanted",
+      "Extended Bold",
+      "Extended Bold Slanted",
+      "Extended Heavy",
+      "Extended Heavy Slanted",
+      "Extended Black",
+      "Extended Black Slanted"
+    ],
+    "authors": [
+      "MTM",
+      "Juanjo López"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-09-01",
+    "image_url": "https://empty-grouse.transforms.svdcdn.com/production/images/Mesa-de-trabajo-17-copia-100_2026-08-26-093832_vvfp.jpg?w=580&auto=compress%2Cformat&fit=min&dm=1787737112&s=72ef7e7da1c7ec19fc0a18cee33a62dc",
+    "woff_url": "https://d3qx8f8l5aa3yc.cloudfront.net/webfonts/huy-fonts/Brickie-Extended_2026-08-26-093314_ypbi.woff?v=1787743725",
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-27T17:50:11.869755+00:00",
+    "raw": {
+      "release_identity": "ilt:1761325",
+      "typesense_id": "1761325",
+      "slug": "brickie-extended-2",
+      "foundry": "MTM",
+      "designer": "Juanjo López",
+      "description": "Brickie is a semi-serif family designed to offer a variety of widths and weights, aiming to create the boldest posters in extreme styles and the most legible text in the regular zone of the family.\n\nDesigned to substitute Adoquin, my first font family, Brickie quickly got out of hand and took on a life of its own, drifting further and further away from Adoquin until it became a design with a personality all its own.\n\nWith a grotesque look, but the ability to switch to a humanist style via the OpenType menu, Brickie is so extense that I can’t think of a single place where it wouldn’t fit perfectly. As long as you like quirky semi-serifs, of course.",
+      "categories": [
+        "Sans serif fonts"
+      ],
+      "otfeatures": [
+        "Contextual Alternates",
+        "Stylistic Alternates",
+        "Standard Ligatures",
+        "Case-sensitive  Forms",
+        "Subscript",
+        "Superscript",
+        "Proportional Figures",
+        "Tabular Figures",
+        "Fractions"
+      ],
+      "cedars": {
+        "cedarsFill": "solid"
+      },
+      "price": 210,
+      "fromPrice": 50,
+      "onPromotion": true,
+      "hasDemoFonts": false,
+      "hasFreeFonts": false,
+      "enabled": true,
+      "api_source": "https://ikgq6me4n0p3u2bvp-1.a1.typesense.net/collections/prod_FONTS/documents/search"
+    },
+    "release_id": "84e117123f4114a5"
+  },
+  {
+    "source_id": "ilt",
+    "source_name": "I Love Typography",
+    "source_url": "https://fonts.ilovetypography.com/fonts/huy-fonts/brickie-semi-extended-2",
+    "name": "Brickie Semi Extended",
+    "styles": [
+      "SemiExtended Hairline",
+      "SemiExtended Hairline Slanted",
+      "SemiExtended Thin",
+      "SemiExtended Thin Slanted",
+      "SemiExtended Extralight",
+      "SemiExtended Extralight Slanted",
+      "SemiExtended Light",
+      "SemiExtended Light Slanted",
+      "SemiExtended",
+      "SemiExtended Slanted",
+      "SemiExtended Medium",
+      "SemiExtended Medium Slanted",
+      "SemiExtended Semibold",
+      "SemiExtended Semibold Slanted",
+      "SemiExtended Bold",
+      "SemiExtended Bold Slanted",
+      "SemiExtended Heavy",
+      "SemiExtended Heavy Slanted",
+      "SemiExtended Black",
+      "SemiExtended Black Slanted"
+    ],
+    "authors": [
+      "MTM",
+      "Juanjo López"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-09-01",
+    "image_url": "https://empty-grouse.transforms.svdcdn.com/production/images/Mesa-de-trabajo-17-copia-100_2026-08-26-092831_fhhz.jpg?w=580&auto=compress%2Cformat&fit=min&dm=1787736511&s=1a395ed8fea5a7c23035674f19951811",
+    "woff_url": "https://d3qx8f8l5aa3yc.cloudfront.net/webfonts/huy-fonts/Brickie-SemiExtended_2026-08-23-093531_eqfk.woff?v=1787477731",
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-27T17:50:11.869817+00:00",
+    "raw": {
+      "release_identity": "ilt:1761253",
+      "typesense_id": "1761253",
+      "slug": "brickie-semi-extended-2",
+      "foundry": "MTM",
+      "designer": "Juanjo López",
+      "description": "Brickie is a semi-serif family designed to offer a variety of widths and weights, aiming to create the boldest posters in extreme styles and the most legible text in the regular zone of the family.\n\nDesigned to substitute Adoquin, my first font family, Brickie quickly got out of hand and took on a life of its own, drifting further and further away from Adoquin until it became a design with a personality all its own.\n\nWith a grotesque look, but the ability to switch to a humanist style via the OpenType menu, Brickie is so extense that I can’t think of a single place where it wouldn’t fit perfectly. As long as you like quirky semi-serifs, of course.",
+      "categories": [
+        "Sans serif fonts"
+      ],
+      "otfeatures": [
+        "Contextual Alternates",
+        "Stylistic Alternates",
+        "Standard Ligatures",
+        "Case-sensitive  Forms",
+        "Subscript",
+        "Superscript",
+        "Proportional Figures",
+        "Tabular Figures",
+        "Fractions"
+      ],
+      "cedars": {
+        "cedarsFill": "solid"
+      },
+      "price": 210,
+      "fromPrice": 50,
+      "onPromotion": true,
+      "hasDemoFonts": false,
+      "hasFreeFonts": false,
+      "enabled": true,
+      "api_source": "https://ikgq6me4n0p3u2bvp-1.a1.typesense.net/collections/prod_FONTS/documents/search"
+    },
+    "release_id": "bb0f9496ee4aa7dc"
+  },
+  {
+    "source_id": "ilt",
+    "source_name": "I Love Typography",
+    "source_url": "https://fonts.ilovetypography.com/fonts/huy-fonts/brickie-wide-2",
+    "name": "Brickie Wide",
+    "styles": [
+      "Wide Hairline",
+      "Wide Hairline Slanted",
+      "Wide Thin",
+      "Wide Thin Slanted",
+      "Wide Extralight",
+      "Wide Extralight Slanted",
+      "Wide Light",
+      "Wide Light Slanted",
+      "Wide",
+      "Wide Slanted",
+      "Wide Medium",
+      "Wide Medium Slanted",
+      "Wide Semibold",
+      "Wide Semibold Slanted",
+      "Wide Bold",
+      "Wide Bold Slanted",
+      "Wide Heavy",
+      "Wide Heavy Slanted",
+      "Wide Black",
+      "Wide Black Slanted"
+    ],
+    "authors": [
+      "MTM",
+      "Juanjo López"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-09-01",
+    "image_url": "https://empty-grouse.transforms.svdcdn.com/production/images/Mesa-de-trabajo-17-copia-100_2026-08-26-091524_flrs.jpg?w=580&auto=compress%2Cformat&fit=min&dm=1787735724&s=f97f0d35bf5180306a6805610a593293",
+    "woff_url": "https://d3qx8f8l5aa3yc.cloudfront.net/webfonts/huy-fonts/Brickie-Wide_2026-08-26-091023_pcgp.woff?v=1787739848",
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-27T17:50:11.869845+00:00",
+    "raw": {
+      "release_identity": "ilt:1761180",
+      "typesense_id": "1761180",
+      "slug": "brickie-wide-2",
+      "foundry": "MTM",
+      "designer": "Juanjo López",
+      "description": "Brickie is a semi-serif family designed to offer a variety of widths and weights, aiming to create the boldest posters in extreme styles and the most legible text in the regular zone of the family.\n\nDesigned to substitute Adoquin, my first font family, Brickie quickly got out of hand and took on a life of its own, drifting further and further away from Adoquin until it became a design with a personality all its own.\n\nWith a grotesque look, but the ability to switch to a humanist style via the OpenType menu, Brickie is so extense that I can’t think of a single place where it wouldn’t fit perfectly. As long as you like quirky semi-serifs, of course.",
+      "categories": [
+        "Sans serif fonts"
+      ],
+      "otfeatures": [
+        "Contextual Alternates",
+        "Stylistic Alternates",
+        "Standard Ligatures",
+        "Case-sensitive  Forms",
+        "Subscript",
+        "Superscript",
+        "Proportional Figures",
+        "Tabular Figures",
+        "Fractions"
+      ],
+      "cedars": {
+        "cedarsFill": "solid"
+      },
+      "price": 210,
+      "fromPrice": 50,
+      "onPromotion": true,
+      "hasDemoFonts": false,
+      "hasFreeFonts": false,
+      "enabled": true,
+      "api_source": "https://ikgq6me4n0p3u2bvp-1.a1.typesense.net/collections/prod_FONTS/documents/search"
+    },
+    "release_id": "095cbfa64ddc61a8"
+  },
+  {
+    "source_id": "ilt",
+    "source_name": "I Love Typography",
+    "source_url": "https://fonts.ilovetypography.com/fonts/huy-fonts/brickie-medium-2",
+    "name": "Brickie Medium",
+    "styles": [
+      "Hairline",
+      "Hairline Slanted",
+      "Thin",
+      "Thin Slanted",
+      "Extralight",
+      "Extralight Slanted",
+      "Light",
+      "Light Slanted",
+      "Regular",
+      "Slanted",
+      "Medium",
+      "Medium Slanted",
+      "Semibold",
+      "Semibold Slanted",
+      "Bold",
+      "Bold Slanted",
+      "Heavy",
+      "Heavy Slanted",
+      "Black",
+      "Black Slanted"
+    ],
+    "authors": [
+      "MTM",
+      "Juanjo López"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-09-01",
+    "image_url": "https://empty-grouse.transforms.svdcdn.com/production/images/Mesa-de-trabajo-17-copia-100_2026-08-26-090511_sjay.jpg?w=580&auto=compress%2Cformat&fit=min&dm=1787735111&s=0e18b32b635f879d66a672efdadbed54",
+    "woff_url": "https://d3qx8f8l5aa3yc.cloudfront.net/webfonts/huy-fonts/Brickie-Regular_2026-08-26-090152_loft.woff?v=1787737818",
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-27T17:50:11.869868+00:00",
+    "raw": {
+      "release_identity": "ilt:1761067",
+      "typesense_id": "1761067",
+      "slug": "brickie-medium-2",
+      "foundry": "MTM",
+      "designer": "Juanjo López",
+      "description": "Brickie is a semi-serif family designed to offer a variety of widths and weights, aiming to create the boldest posters in extreme styles and the most legible text in the regular zone of the family.\n\nDesigned to substitute Adoquin, my first font family, Brickie quickly got out of hand and took on a life of its own, drifting further and further away from Adoquin until it became a design with a personality all its own.\n\nWith a grotesque look, but the ability to switch to a humanist style via the OpenType menu, Brickie is so extense that I can’t think of a single place where it wouldn’t fit perfectly. As long as you like quirky semi-serifs, of course.",
+      "categories": [
+        "Sans serif fonts"
+      ],
+      "otfeatures": [
+        "Contextual Alternates",
+        "Stylistic Alternates",
+        "Standard Ligatures",
+        "Case-sensitive  Forms",
+        "Subscript",
+        "Superscript",
+        "Proportional Figures",
+        "Tabular Figures",
+        "Fractions"
+      ],
+      "cedars": {
+        "cedarsFill": "solid"
+      },
+      "price": 210,
+      "fromPrice": 50,
+      "onPromotion": true,
+      "hasDemoFonts": false,
+      "hasFreeFonts": false,
+      "enabled": true,
+      "api_source": "https://ikgq6me4n0p3u2bvp-1.a1.typesense.net/collections/prod_FONTS/documents/search"
+    },
+    "release_id": "0529a38aa0bd1e53"
+  },
+  {
+    "source_id": "ilt",
+    "source_name": "I Love Typography",
+    "source_url": "https://fonts.ilovetypography.com/fonts/huy-fonts/brickie-narrow-2",
+    "name": "Brickie Narrow",
+    "styles": [
+      "Narrow Hairline",
+      "Narrow Hairline Slanted",
+      "Narrow Thin",
+      "Narrow Thin Slanted",
+      "Narrow Extralight",
+      "Narrow Extralight Slanted",
+      "Narrow Light",
+      "Narrow Light Slanted",
+      "Narrow",
+      "Narrow Slanted",
+      "Narrow Medium",
+      "Narrow Medium Slanted",
+      "Narrow Semibold",
+      "Narrow Semibold Slanted",
+      "Narrow Bold",
+      "Narrow Bold Slanted",
+      "Narrow Heavy",
+      "Narrow Heavy Slanted",
+      "Narrow Black",
+      "Narrow Black Slanted"
+    ],
+    "authors": [
+      "MTM",
+      "Juanjo López"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-09-01",
+    "image_url": "https://empty-grouse.transforms.svdcdn.com/production/images/Mesa-de-trabajo-17-copia-100_2026-08-26-085140_goyb.jpg?w=580&auto=compress%2Cformat&fit=min&dm=1787734300&s=557d746d1a0320d496c5db3743ac7394",
+    "woff_url": "https://d3qx8f8l5aa3yc.cloudfront.net/webfonts/huy-fonts/Brickie-Narrow_2026-08-26-084550_egld.woff?v=1787735268",
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-27T17:50:11.869888+00:00",
+    "raw": {
+      "release_identity": "ilt:1760992",
+      "typesense_id": "1760992",
+      "slug": "brickie-narrow-2",
+      "foundry": "MTM",
+      "designer": "Juanjo López",
+      "description": "Brickie is a semi-serif family designed to offer a variety of widths and weights, aiming to create the boldest posters in extreme styles and the most legible text in the regular zone of the family.\n\nDesigned to substitute Adoquin, my first font family, Brickie quickly got out of hand and took on a life of its own, drifting further and further away from Adoquin until it became a design with a personality all its own.\n\nWith a grotesque look, but the ability to switch to a humanist style via the OpenType menu, Brickie is so extense that I can’t think of a single place where it wouldn’t fit perfectly. As long as you like quirky semi-serifs, of course.",
+      "categories": [
+        "Sans serif fonts"
+      ],
+      "otfeatures": [
+        "Contextual Alternates",
+        "Stylistic Alternates",
+        "Standard Ligatures",
+        "Case-sensitive  Forms",
+        "Subscript",
+        "Superscript",
+        "Proportional Figures",
+        "Tabular Figures",
+        "Fractions"
+      ],
+      "cedars": {
+        "cedarsFill": "solid"
+      },
+      "price": 210,
+      "fromPrice": 50,
+      "onPromotion": true,
+      "hasDemoFonts": false,
+      "hasFreeFonts": false,
+      "enabled": true,
+      "api_source": "https://ikgq6me4n0p3u2bvp-1.a1.typesense.net/collections/prod_FONTS/documents/search"
+    },
+    "release_id": "183cacf2db00ae4e"
+  },
+  {
+    "source_id": "ilt",
+    "source_name": "I Love Typography",
+    "source_url": "https://fonts.ilovetypography.com/fonts/huy-fonts/brickie-condensed-2",
+    "name": "Brickie Condensed",
+    "styles": [
+      "Condensed Hairline",
+      "Condensed Hairline Slanted",
+      "Condensed Thin",
+      "Condensed Thin Slanted",
+      "Condensed Extralight",
+      "Condensed Extralight Slanted",
+      "Condensed Light",
+      "Condensed Light Slanted",
+      "Condensed",
+      "Condensed Slanted",
+      "Condensed Medium",
+      "Condensed Medium Slanted",
+      "Condensed Semibold",
+      "Condensed Semibold Slanted",
+      "Condensed Bold",
+      "Condensed Bold Slanted",
+      "Condensed Heavy",
+      "Condensed Heavy Slanted",
+      "Condensed Black",
+      "Condensed Black Slanted"
+    ],
+    "authors": [
+      "MTM",
+      "Juanjo López"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-09-01",
+    "image_url": "https://empty-grouse.transforms.svdcdn.com/production/images/Mesa-de-trabajo-17-copia-100_2026-08-26-083639_ztgf.jpg?w=580&auto=compress%2Cformat&fit=min&dm=1787733399&s=d599d91fddf9182a2dfe28e868d5ae6d",
+    "woff_url": "https://d3qx8f8l5aa3yc.cloudfront.net/webfonts/huy-fonts/Brickie-Condensed_2026-08-26-082217_qewz.woff?v=1787732573",
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-27T17:50:11.869910+00:00",
+    "raw": {
+      "release_identity": "ilt:1760874",
+      "typesense_id": "1760874",
+      "slug": "brickie-condensed-2",
+      "foundry": "MTM",
+      "designer": "Juanjo López",
+      "description": "Brickie is a semi-serif family designed to offer a variety of widths and weights, aiming to create the boldest posters in extreme styles and the most legible text in the regular zone of the family.\n\nDesigned to substitute Adoquin, my first font family, Brickie quickly got out of hand and took on a life of its own, drifting further and further away from Adoquin until it became a design with a personality all its own.\n\nWith a grotesque look, but the ability to switch to a humanist style via the OpenType menu, Brickie is so extense that I can’t think of a single place where it wouldn’t fit perfectly. As long as you like quirky semi-serifs, of course.",
+      "categories": [
+        "Sans serif fonts"
+      ],
+      "otfeatures": [
+        "Contextual Alternates",
+        "Stylistic Alternates",
+        "Standard Ligatures",
+        "Case-sensitive  Forms",
+        "Subscript",
+        "Superscript",
+        "Proportional Figures",
+        "Tabular Figures",
+        "Fractions"
+      ],
+      "cedars": {
+        "cLatinCapWaist": "5",
+        "cLatinLowerA": "double",
+        "cLatinLowerAStroke": "flat",
+        "cLatinLowerC": "blunted",
+        "cLatinLowerG": "single",
+        "cLatinSerif": "asymmetric",
+        "cLatinUpperK": "intersecting",
+        "cLatinUpperM": "baseline",
+        "cLatinUpperR": "straight",
+        "cLatinWidths": "proportional",
+        "cedarsAxis": "90",
+        "cedarsConstruction": "formal",
+        "cedarsContrast": "2",
+        "cedarsEnergy": "3",
+        "cedarsFill": "solid",
+        "cedarsFinials": "3",
+        "cedarsLoops": "superellipse",
+        "cedarsPattern": "1",
+        "cedarsTerminals": "angled",
+        "cedarsTransitions": "blended",
+        "cedarsWidths": "5"
+      },
+      "price": 210,
+      "fromPrice": 50,
+      "onPromotion": true,
+      "hasDemoFonts": false,
+      "hasFreeFonts": false,
+      "enabled": true,
+      "api_source": "https://ikgq6me4n0p3u2bvp-1.a1.typesense.net/collections/prod_FONTS/documents/search"
+    },
+    "release_id": "88bb93e78fc5baba"
+  }
+]

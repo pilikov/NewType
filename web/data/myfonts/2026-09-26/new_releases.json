@@ -1,0 +1,112 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/skolasans-font-totem/",
+    "name": "SkolaSans",
+    "styles": [],
+    "authors": [
+      "Totem"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-09-25",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10281/xb9YYGF6nJxUgowqOy4psAYu_57362150aee2f78970b63ba695ecdb49.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-26T11:14:04.657635+00:00",
+    "raw": {
+      "id": 15373405716650,
+      "handle": "uprights-condensed-package-1232071",
+      "tags": [
+        "friendly",
+        "legible",
+        "pim:designerId:1973",
+        "pim:familyId:137865",
+        "pim:foundryId:1666",
+        "pim:skuId:1232071"
+      ],
+      "updated_at": "2026-09-26T07:13:57-04:00",
+      "product_url": "https://www.myfonts.com/products/uprights-condensed-package-1232071",
+      "collection_url": "https://www.myfonts.com/collections/skolasans-font-totem/",
+      "is_package_product": true,
+      "product_title": "Uprights Condensed",
+      "collection_name": "SkolaSans",
+      "myfonts_debut_date": "2026-09-25",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "b327d02bf1dceb82"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/pixel-fonts-bundle-package-1232266",
+    "name": "Pixel Fonts Bundle",
+    "styles": [],
+    "authors": [
+      "Gleb Guralnyk"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-25",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-26T11:14:21.823236+00:00",
+    "raw": {
+      "id": 8639434522794,
+      "handle": "pixel-fonts-bundle-package-1232266",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-09-26T07:13:57-04:00",
+      "product_url": "https://www.myfonts.com/products/pixel-fonts-bundle-package-1232266",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Pixel Fonts Bundle",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "62b8a75e4dbffb8a"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/heavy-music-fan-bundle-package-988768",
+    "name": "Heavy Music Fan Bundle",
+    "styles": [],
+    "authors": [
+      "Gleb Guralnyk"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-25",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-26T11:14:23.103746+00:00",
+    "raw": {
+      "id": 8067964698794,
+      "handle": "heavy-music-fan-bundle-package-988768",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-09-26T07:13:57-04:00",
+      "product_url": "https://www.myfonts.com/products/heavy-music-fan-bundle-package-988768",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Heavy Music Fan Bundle",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "a91f706c40acec12"
+  }
+]
