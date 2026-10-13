@@ -801,5 +801,27 @@
     "discovered_at": "2026-10-08T13:22:32.250176+00:00",
     "raw": {},
     "news_id": "310d157b178deb0c"
+  },
+  {
+    "source_id": "itsnicethat",
+    "source_name": "It's Nice That",
+    "title": "David Rudnick on the “borderline impossible” process of designing a bespoke blackletter typeface for Arsenal",
+    "url": "https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026",
+    "published_at": "2026-10-12",
+    "image_url": null,
+    "discovered_at": "2026-10-13T00:05:15.116016+00:00",
+    "raw": {},
+    "news_id": "78160c681a925dda"
+  },
+  {
+    "source_id": "itsnicethat",
+    "source_name": "It's Nice That",
+    "title": "“I’m merely cosplaying as a type designer”: Raoul Gottschling on chasing ridiculous ‘what if’ questions",
+    "url": "https://www.itsnicethat.com/articles/raoul-gottschling-graphic-design-project-121026",
+    "published_at": "2026-10-12",
+    "image_url": null,
+    "discovered_at": "2026-10-13T00:05:15.116036+00:00",
+    "raw": {},
+    "news_id": "f8db9ac90b6828b6"
   }
 ]
