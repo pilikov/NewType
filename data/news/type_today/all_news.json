@@ -670,5 +670,19 @@
       "post_date": "2026-10-08"
     },
     "news_id": "ab5c8ddbc3d37ef5"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Lyon, Qommodore, Opague, Repose, Grato Marker, Elma Trio in use: How We Became Human",
+    "url": "https://type.today/en/journal/falkorhistory",
+    "published_at": "2026-10-14",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/3/1322/preview_420_preview_image_en-uyG33cPF6elwHKzUuEjPaM_drtXCQoB4oA.png",
+    "discovered_at": "2026-10-14T12:10:05.970779+00:00",
+    "raw": {
+      "slug": "falkorhistory",
+      "post_date": "2026-10-14"
+    },
+    "news_id": "fd00de80a26f764c"
   }
 ]
