@@ -1,0 +1,3065 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/kalibrasi-font-slex-studio",
+    "name": "Kalibrasi Complete Family",
+    "styles": [],
+    "authors": [
+      "Slex Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-07-28",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-29T08:55:05.403465+00:00",
+    "raw": {
+      "id": 8564395376810,
+      "handle": "kalibrasi-complete-family-package-1189095",
+      "tags": [
+        "decorative",
+        "discount_New-Font_Slex-Studio_2026-07-28_2026-09-11_30_ANojF69eo5r2wNroTZzdrXVP:1785246602",
+        "pim:designerId:6184",
+        "pim:familyId:135486",
+        "pim:foundryId:4416",
+        "pim:skuId:1189095",
+        "special_offer",
+        "vintage"
+      ],
+      "updated_at": "2026-07-29T04:53:28-04:00",
+      "product_url": "https://www.myfonts.com/products/kalibrasi-complete-family-package-1189095",
+      "collection_url": "https://www.myfonts.com/collections/kalibrasi-font-slex-studio",
+      "is_package_product": true,
+      "product_title": "Kalibrasi Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "49a09b8916500618"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/psikey-font-mkgd/",
+    "name": "Psikey",
+    "styles": [],
+    "authors": [
+      "MKGD"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10258/LYdiMef0KzowBA9v2Adc0RRt_e25d3441db44f33333749c3c7eb84da9.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:50:02.289298+00:00",
+    "raw": {
+      "id": 8590450983082,
+      "handle": "regular-psikey-1191768",
+      "tags": [
+        "allcaps",
+        "comic",
+        "decorative",
+        "pim:designerId:6703",
+        "pim:familyId:135717",
+        "pim:foundryId:4781",
+        "pim:skuId:1191768",
+        "retro",
+        "tattoo",
+        "vintage"
+      ],
+      "updated_at": "2026-08-04T04:49:59-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-psikey-1191768",
+      "collection_url": "https://www.myfonts.com/collections/psikey-font-mkgd/",
+      "is_package_product": false,
+      "product_title": "Psikey",
+      "collection_name": "Psikey",
+      "myfonts_debut_date": "2026-08-03",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "acd8696ea42d44cc"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/cargen-pro-font-bimaksara/",
+    "name": "Cargen Pro",
+    "styles": [],
+    "authors": [
+      "Bimaksara"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10258/85oZJ2RMckNN8XzxLlEo3NRA_42136e78c16ff88793a4b1e29a383e06.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:50:15.274770+00:00",
+    "raw": {
+      "id": 8589862633642,
+      "handle": "cargen-pro-complete-family-package-1192327",
+      "tags": [
+        "pim:designerId:9871",
+        "pim:familyId:135743",
+        "pim:foundryId:7306",
+        "pim:skuId:1192327"
+      ],
+      "updated_at": "2026-08-04T04:49:59-04:00",
+      "product_url": "https://www.myfonts.com/products/cargen-pro-complete-family-package-1192327",
+      "collection_url": "https://www.myfonts.com/collections/cargen-pro-font-bimaksara/",
+      "is_package_product": true,
+      "product_title": "Cargen Pro Complete Family",
+      "collection_name": "Cargen Pro",
+      "myfonts_debut_date": "2026-08-03",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "4de05bda2efe6d16"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/gangsta-verse-font-denustudio/",
+    "name": "Gangsta Verse",
+    "styles": [],
+    "authors": [
+      "Denustudio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10258/xh0SywnPIVTtTk3Xak2Lzs4P_9b2496401f9e4854815ebf66e817f170.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:50:17.529595+00:00",
+    "raw": {
+      "id": 8589861781674,
+      "handle": "regular-gangsta-verse-1192319",
+      "tags": [
+        "decorative",
+        "pim:designerId:9929",
+        "pim:familyId:135740",
+        "pim:foundryId:5873",
+        "pim:skuId:1192319",
+        "tattoo"
+      ],
+      "updated_at": "2026-08-04T04:49:59-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-gangsta-verse-1192319",
+      "collection_url": "https://www.myfonts.com/collections/gangsta-verse-font-denustudio/",
+      "is_package_product": false,
+      "product_title": "Gangsta Verse",
+      "collection_name": "Gangsta Verse",
+      "myfonts_debut_date": "2026-08-03",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "d90ee1f0cd20a768"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/rasa-panggang-font-trabas-kriya/",
+    "name": "Rasa Panggang",
+    "styles": [],
+    "authors": [
+      "Trabas Kriya"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10258/neYWKTDQTB6BVM7rapD9GRYr_0adcc6614db2d6bc6f0fd9c3398a715f.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:50:19.618988+00:00",
+    "raw": {
+      "id": 8589861716138,
+      "handle": "regular-rasa-panggang-1192326",
+      "tags": [
+        "comic",
+        "decorative",
+        "friendly",
+        "kids",
+        "pim:designerId:9237",
+        "pim:familyId:135744",
+        "pim:foundryId:6737",
+        "pim:skuId:1192326",
+        "playful",
+        "rounded",
+        "soft",
+        "whimsical",
+        "youthful"
+      ],
+      "updated_at": "2026-08-04T04:49:59-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-rasa-panggang-1192326",
+      "collection_url": "https://www.myfonts.com/collections/rasa-panggang-font-trabas-kriya/",
+      "is_package_product": false,
+      "product_title": "Rasa Panggang",
+      "collection_name": "Rasa Panggang",
+      "myfonts_debut_date": "2026-08-03",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "deea985bb9b7bf53"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/camosta-font-flawlessandco/",
+    "name": "Camosta",
+    "styles": [],
+    "authors": [
+      "Flawlessandco"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10258/k6GrOURBKI1IhsBH35SM4Jpe_9a49a5405d60f22718d52c760f70dbdf.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:50:21.746157+00:00",
+    "raw": {
+      "id": 8589861650602,
+      "handle": "regular-camosta-1192310",
+      "tags": [
+        "artnouveau",
+        "decorative",
+        "organic",
+        "pim:designerId:4959",
+        "pim:familyId:135736",
+        "pim:foundryId:5662",
+        "pim:skuId:1192310",
+        "vintage"
+      ],
+      "updated_at": "2026-08-04T04:49:59-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-camosta-1192310",
+      "collection_url": "https://www.myfonts.com/collections/camosta-font-flawlessandco/",
+      "is_package_product": false,
+      "product_title": "Camosta",
+      "collection_name": "Camosta",
+      "myfonts_debut_date": "2026-08-03",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "ff0241cffc100482"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/hidden-cafe-font-epiclinez/",
+    "name": "Hidden Cafe",
+    "styles": [],
+    "authors": [
+      "Epiclinez"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10258/0wacJbx4rT9dflmGx1ptmz0w_47bdd89885124c6f3dfee7f9abd89bb8.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:50:23.885736+00:00",
+    "raw": {
+      "id": 8589861683370,
+      "handle": "regular-hidden-cafe-1192328",
+      "tags": [
+        "carefree",
+        "decorative",
+        "friendly",
+        "handwriting",
+        "holiday",
+        "pim:designerId:5116",
+        "pim:familyId:135745",
+        "pim:foundryId:1733",
+        "pim:skuId:1192328",
+        "serene",
+        "whimsical"
+      ],
+      "updated_at": "2026-08-04T04:49:59-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-hidden-cafe-1192328",
+      "collection_url": "https://www.myfonts.com/collections/hidden-cafe-font-epiclinez/",
+      "is_package_product": false,
+      "product_title": "Hidden Cafe",
+      "collection_name": "Hidden Cafe",
+      "myfonts_debut_date": "2026-08-03",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "df8c9afde5cecbc1"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/roulte-font-maikohatta/",
+    "name": "Roulte",
+    "styles": [],
+    "authors": [
+      "Maikohatta"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10258/oR6fpYcfnP6aHkaHd65vLaIa_2a69f7a57ac57ec0bbab2c95403d9242.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:50:26.049006+00:00",
+    "raw": {
+      "id": 8589861453994,
+      "handle": "roulte-regular-roulte-1192129",
+      "tags": [
+        "pim:designerId:8786",
+        "pim:familyId:135720",
+        "pim:foundryId:6383",
+        "pim:skuId:1192129"
+      ],
+      "updated_at": "2026-08-04T04:49:59-04:00",
+      "product_url": "https://www.myfonts.com/products/roulte-regular-roulte-1192129",
+      "collection_url": "https://www.myfonts.com/collections/roulte-font-maikohatta/",
+      "is_package_product": false,
+      "product_title": "Roulte",
+      "collection_name": "Roulte",
+      "myfonts_debut_date": "2026-08-03",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "b5e573263254ffba"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/heavy-block-font-jinan-studio/",
+    "name": "Heavy Block",
+    "styles": [],
+    "authors": [
+      "Jinan Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10258/OBJp4lgx0PjG6hF5k5aVuVDF_2abcede2c8d45cf213e0fa1cecd39fff.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:50:28.152272+00:00",
+    "raw": {
+      "id": 8589861388458,
+      "handle": "regular-heavy-block-1192315",
+      "tags": [
+        "decorative",
+        "pim:designerId:8510",
+        "pim:familyId:135738",
+        "pim:foundryId:6152",
+        "pim:skuId:1192315"
+      ],
+      "updated_at": "2026-08-04T04:49:59-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-heavy-block-1192315",
+      "collection_url": "https://www.myfonts.com/collections/heavy-block-font-jinan-studio/",
+      "is_package_product": false,
+      "product_title": "Heavy Block",
+      "collection_name": "Heavy Block",
+      "myfonts_debut_date": "2026-08-03",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "36d8c45ad7be04fc"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/grety-playfull-font-morisco-studio/",
+    "name": "Grety Playfull",
+    "styles": [],
+    "authors": [
+      "Morisco Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10258/0Z1yXGhO2QW91g1PuMBspeGq_0a65dbdaef9a206e6f7ab6e8b7968710.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:50:30.220566+00:00",
+    "raw": {
+      "id": 8589861290154,
+      "handle": "regular-grety-playfull-1192300",
+      "tags": [
+        "decorative",
+        "friendly",
+        "kids",
+        "pim:designerId:8524",
+        "pim:familyId:135732",
+        "pim:foundryId:6155",
+        "pim:skuId:1192300",
+        "playful",
+        "rounded",
+        "soft",
+        "whimsical",
+        "youthful"
+      ],
+      "updated_at": "2026-08-04T04:49:59-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-grety-playfull-1192300",
+      "collection_url": "https://www.myfonts.com/collections/grety-playfull-font-morisco-studio/",
+      "is_package_product": false,
+      "product_title": "Grety Playfull",
+      "collection_name": "Grety Playfull",
+      "myfonts_debut_date": "2026-08-03",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "789d2aaa138100d2"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/bangkar-rowers-font-maulana-creative/",
+    "name": "Bangkar Rowers",
+    "styles": [],
+    "authors": [
+      "Maulana Creative"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10258/MuK05EgHYCmmugQfD7VgJJAz_2ddb84c6a1f7bc56c4d8fb77d3eeb345.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:50:32.336605+00:00",
+    "raw": {
+      "id": 8589861224618,
+      "handle": "regular-bangkar-rowers-1192290",
+      "tags": [
+        "brush",
+        "carefree",
+        "comic",
+        "decorative",
+        "friendly",
+        "handwriting",
+        "kids",
+        "pim:designerId:5043",
+        "pim:familyId:135729",
+        "pim:foundryId:1642",
+        "pim:skuId:1192290",
+        "playful",
+        "serene",
+        "soft",
+        "whimsical",
+        "youthful"
+      ],
+      "updated_at": "2026-08-04T04:49:59-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-bangkar-rowers-1192290",
+      "collection_url": "https://www.myfonts.com/collections/bangkar-rowers-font-maulana-creative/",
+      "is_package_product": false,
+      "product_title": "Bangkar Rowers",
+      "collection_name": "Bangkar Rowers",
+      "myfonts_debut_date": "2026-08-03",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "46826d7ad0431c1d"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/giblu-font-morisco-studio/",
+    "name": "Giblu",
+    "styles": [],
+    "authors": [
+      "Morisco Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10258/W8qB5Q9pmtuwyOEJ9wwUsRfY_52d242dec7c3ada2270ff745f4cd7afd.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:50:34.787398+00:00",
+    "raw": {
+      "id": 8589861191850,
+      "handle": "regular-giblu-1192299",
+      "tags": [
+        "comic",
+        "decorative",
+        "friendly",
+        "kids",
+        "pim:designerId:8524",
+        "pim:familyId:135731",
+        "pim:foundryId:6155",
+        "pim:skuId:1192299",
+        "playful",
+        "rounded",
+        "soft",
+        "whimsical",
+        "youthful"
+      ],
+      "updated_at": "2026-08-04T04:49:59-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-giblu-1192299",
+      "collection_url": "https://www.myfonts.com/collections/giblu-font-morisco-studio/",
+      "is_package_product": false,
+      "product_title": "Giblu",
+      "collection_name": "Giblu",
+      "myfonts_debut_date": "2026-08-03",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "a368eee0852d848a"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/montegito-signature-font-mercurial/",
+    "name": "Montegito Signature",
+    "styles": [],
+    "authors": [
+      "Mercurial"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10258/xRtRvIbdOgbe4Tsu24468yY1_dfa1683e90911ee3815ae82988704523.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:50:36.735848+00:00",
+    "raw": {
+      "id": 8589861159082,
+      "handle": "regular-montegito-signature-1192236",
+      "tags": [
+        "brush",
+        "carefree",
+        "decorative",
+        "friendly",
+        "handwriting",
+        "holiday",
+        "pim:designerId:4223",
+        "pim:familyId:135724",
+        "pim:foundryId:2299",
+        "pim:skuId:1192236",
+        "romantic",
+        "signature",
+        "whimsical"
+      ],
+      "updated_at": "2026-08-04T04:49:59-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-montegito-signature-1192236",
+      "collection_url": "https://www.myfonts.com/collections/montegito-signature-font-mercurial/",
+      "is_package_product": false,
+      "product_title": "Montegito Signature",
+      "collection_name": "Montegito Signature",
+      "myfonts_debut_date": "2026-08-03",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "4f755eb0d85d4c84"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/roastberry-font-ikiikowrk/",
+    "name": "Roastberry",
+    "styles": [],
+    "authors": [
+      "IKIIKOWRK"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10258/Y44uFXpKVKgkWhf816LWtIZX_6af04fdad448a96583f02ac84981978f.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:50:38.836249+00:00",
+    "raw": {
+      "id": 8589861126314,
+      "handle": "regular-roastberry-1192141",
+      "tags": [
+        "carefree",
+        "comic",
+        "decorative",
+        "kids",
+        "pim:designerId:7033",
+        "pim:familyId:135722",
+        "pim:foundryId:5070",
+        "pim:skuId:1192141",
+        "playful",
+        "soft",
+        "whimsical",
+        "youthful"
+      ],
+      "updated_at": "2026-08-04T04:49:59-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-roastberry-1192141",
+      "collection_url": "https://www.myfonts.com/collections/roastberry-font-ikiikowrk/",
+      "is_package_product": false,
+      "product_title": "Roastberry",
+      "collection_name": "Roastberry",
+      "myfonts_debut_date": "2026-08-03",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "6b3eef9bb783c71c"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/cosmo-core-font-tini-fitriani/",
+    "name": "Cosmo Core",
+    "styles": [],
+    "authors": [
+      "Tini Fitriani"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10258/sx07213CzvdrPJBepZpCUnQK_73625018b362928b9723383479b96c7c.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:50:42.186842+00:00",
+    "raw": {
+      "id": 8589861028010,
+      "handle": "regular-cosmo-core-1192347",
+      "tags": [
+        "decorative",
+        "pim:designerId:9022",
+        "pim:familyId:135746",
+        "pim:foundryId:6536",
+        "pim:skuId:1192347",
+        "techno"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-cosmo-core-1192347",
+      "collection_url": "https://www.myfonts.com/collections/cosmo-core-font-tini-fitriani/",
+      "is_package_product": false,
+      "product_title": "Cosmo Core",
+      "collection_name": "Cosmo Core",
+      "myfonts_debut_date": "2026-08-03",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "4997ed1d8db922ee"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-soft-slant-italic-astone-nisam-1191788",
+    "name": "Astone Nisam Italic Soft Slant Italic",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:01.442885+00:00",
+    "raw": {
+      "id": 8589515129002,
+      "handle": "italic-soft-slant-italic-astone-nisam-1191788",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191788"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-soft-slant-italic-astone-nisam-1191788",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Italic Soft Slant Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "219307ad56428229"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-semi-condensed-italic-astone-nisam-1191784",
+    "name": "Astone Nisam Italic Semi Condensed Italic",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:01.443117+00:00",
+    "raw": {
+      "id": 8589515063466,
+      "handle": "italic-semi-condensed-italic-astone-nisam-1191784",
+      "tags": [
+        "formal",
+        "legible",
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191784",
+        "professional"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-semi-condensed-italic-astone-nisam-1191784",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Italic Semi Condensed Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "66d22807266c5c6a"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-condensed-italic-astone-nisam-1191776",
+    "name": "Astone Nisam Italic Condensed Italic",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:01.443330+00:00",
+    "raw": {
+      "id": 8589514932394,
+      "handle": "italic-condensed-italic-astone-nisam-1191776",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191776"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-condensed-italic-astone-nisam-1191776",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Italic Condensed Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "adf3fd2178071537"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/grade-condensed-slant-astone-nisam-1191808",
+    "name": "Astone Nisam Grade Condensed Slant",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:01.443562+00:00",
+    "raw": {
+      "id": 8589514735786,
+      "handle": "grade-condensed-slant-astone-nisam-1191808",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191808"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/grade-condensed-slant-astone-nisam-1191808",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Grade Condensed Slant",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "2a9a6db9e4f3b81a"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-soft-semi-expanded-italic-astone-nisam-1191777",
+    "name": "Astone Nisam Italic Soft Semi Expanded Italic",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:01.443618+00:00",
+    "raw": {
+      "id": 8589514703018,
+      "handle": "italic-soft-semi-expanded-italic-astone-nisam-1191777",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191777",
+        "serious"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-soft-semi-expanded-italic-astone-nisam-1191777",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Italic Soft Semi Expanded Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "a8cde7e52e0f0eb6"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/soft-extra-expanded-astone-nisam-1191803",
+    "name": "Astone Nisam Soft Extra Expanded",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:01.443673+00:00",
+    "raw": {
+      "id": 8589514637482,
+      "handle": "soft-extra-expanded-astone-nisam-1191803",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191803"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/soft-extra-expanded-astone-nisam-1191803",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Soft Extra Expanded",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "e4e8eaa981f67cd9"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-extra-expanded-italic-astone-nisam-1191795",
+    "name": "Astone Nisam Italic Extra Expanded Italic",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:01.975156+00:00",
+    "raw": {
+      "id": 8589514408106,
+      "handle": "italic-extra-expanded-italic-astone-nisam-1191795",
+      "tags": [
+        "formal",
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191795",
+        "professional"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-extra-expanded-italic-astone-nisam-1191795",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Italic Extra Expanded Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "045767a46bd98b55"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-semi-expanded-italic-astone-nisam-1191780",
+    "name": "Astone Nisam Italic Semi Expanded Italic",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:01.975336+00:00",
+    "raw": {
+      "id": 8589514604714,
+      "handle": "italic-semi-expanded-italic-astone-nisam-1191780",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191780",
+        "serious"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-semi-expanded-italic-astone-nisam-1191780",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Italic Semi Expanded Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "33f9eae7a6e86bcb"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-expanded-slant-italic-astone-nisam-1191783",
+    "name": "Astone Nisam Italic Expanded Slant Italic",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:01.975402+00:00",
+    "raw": {
+      "id": 8589514571946,
+      "handle": "italic-expanded-slant-italic-astone-nisam-1191783",
+      "tags": [
+        "formal",
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191783",
+        "professional"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-expanded-slant-italic-astone-nisam-1191783",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Italic Expanded Slant Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "d8e9e519c198635d"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-soft-expanded-slant-italic-astone-nisam-1191781",
+    "name": "Astone Nisam Italic Soft Expanded Slant Italic",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:01.975530+00:00",
+    "raw": {
+      "id": 8589514473642,
+      "handle": "italic-soft-expanded-slant-italic-astone-nisam-1191781",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191781"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-soft-expanded-slant-italic-astone-nisam-1191781",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Italic Soft Expanded Slant Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "68661f37bef688b8"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/soft-slant-astone-nisam-1191800",
+    "name": "Astone Nisam Soft Slant",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:01.975637+00:00",
+    "raw": {
+      "id": 8589514440874,
+      "handle": "soft-slant-astone-nisam-1191800",
+      "tags": [
+        "legible",
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191800",
+        "serious"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/soft-slant-astone-nisam-1191800",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Soft Slant",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "1dc40739494ec955"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-extra-expanded-slant-italic-astone-nisam-1191775",
+    "name": "Astone Nisam Italic Extra Expanded Slant Italic",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:01.975694+00:00",
+    "raw": {
+      "id": 8589514375338,
+      "handle": "italic-extra-expanded-slant-italic-astone-nisam-1191775",
+      "tags": [
+        "formal",
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191775",
+        "professional"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-extra-expanded-slant-italic-astone-nisam-1191775",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Italic Extra Expanded Slant Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "5f7e7e404908bcb6"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-slant-italic-astone-nisam-1191786",
+    "name": "Astone Nisam Italic Slant Italic",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:01.975797+00:00",
+    "raw": {
+      "id": 8589514244266,
+      "handle": "italic-slant-italic-astone-nisam-1191786",
+      "tags": [
+        "formal",
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191786",
+        "professional"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-slant-italic-astone-nisam-1191786",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Italic Slant Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "caa467f4710eaea5"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/soft-semi-expanded-astone-nisam-1191802",
+    "name": "Astone Nisam Soft Semi Expanded",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:01.975898+00:00",
+    "raw": {
+      "id": 8589514277034,
+      "handle": "soft-semi-expanded-astone-nisam-1191802",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191802"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/soft-semi-expanded-astone-nisam-1191802",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Soft Semi Expanded",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "c01f71a3a61a8090"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-semi-expanded-slant-italic-astone-nisam-1191773",
+    "name": "Astone Nisam Italic Semi Expanded Slant Italic",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:01.976000+00:00",
+    "raw": {
+      "id": 8589514113194,
+      "handle": "italic-semi-expanded-slant-italic-astone-nisam-1191773",
+      "tags": [
+        "formal",
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191773",
+        "professional"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-semi-expanded-slant-italic-astone-nisam-1191773",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Italic Semi Expanded Slant Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "7c865808df571d65"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/soft-semi-condensed-astone-nisam-1191801",
+    "name": "Astone Nisam Soft Semi Condensed",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:01.976122+00:00",
+    "raw": {
+      "id": 8589514178730,
+      "handle": "soft-semi-condensed-astone-nisam-1191801",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191801"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/soft-semi-condensed-astone-nisam-1191801",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Soft Semi Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "dcc766b8d202c3f3"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-condensed-slant-italic-astone-nisam-1191778",
+    "name": "Astone Nisam Italic Condensed Slant Italic",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:02.459740+00:00",
+    "raw": {
+      "id": 8589514145962,
+      "handle": "italic-condensed-slant-italic-astone-nisam-1191778",
+      "tags": [
+        "legible",
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191778"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-condensed-slant-italic-astone-nisam-1191778",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Italic Condensed Slant Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "497b5111a82627e6"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-soft-italic-astone-nisam-1191787",
+    "name": "Astone Nisam Italic Soft Italic",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:02.459919+00:00",
+    "raw": {
+      "id": 8589514047658,
+      "handle": "italic-soft-italic-astone-nisam-1191787",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191787",
+        "serious"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-soft-italic-astone-nisam-1191787",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Italic Soft Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "0158c10c56edb1ed"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-semi-condensed-slant-italic-astone-nisam-1191789",
+    "name": "Astone Nisam Italic Semi Condensed Slant Italic",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:02.460108+00:00",
+    "raw": {
+      "id": 8589513949354,
+      "handle": "italic-semi-condensed-slant-italic-astone-nisam-1191789",
+      "tags": [
+        "formal",
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191789",
+        "professional"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-semi-condensed-slant-italic-astone-nisam-1191789",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Italic Semi Condensed Slant Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "c90044088abc6799"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-soft-extra-expanded-italic-astone-nisam-1191779",
+    "name": "Astone Nisam Italic Soft Extra Expanded Italic",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:02.460353+00:00",
+    "raw": {
+      "id": 8589513719978,
+      "handle": "italic-soft-extra-expanded-italic-astone-nisam-1191779",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191779",
+        "serious"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-soft-extra-expanded-italic-astone-nisam-1191779",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Italic Soft Extra Expanded Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "576367242ecef723"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/grade-semi-expanded-slant-astone-nisam-1191809",
+    "name": "Astone Nisam Grade Semi Expanded Slant",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:02.460498+00:00",
+    "raw": {
+      "id": 8589513556138,
+      "handle": "grade-semi-expanded-slant-astone-nisam-1191809",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191809",
+        "retro",
+        "serious",
+        "vintage"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/grade-semi-expanded-slant-astone-nisam-1191809",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Grade Semi Expanded Slant",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "7b40bcb25eb79ce2"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-soft-semi-condensed-italic-astone-nisam-1191790",
+    "name": "Astone Nisam Italic Soft Semi Condensed Italic",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:02.460607+00:00",
+    "raw": {
+      "id": 8589513588906,
+      "handle": "italic-soft-semi-condensed-italic-astone-nisam-1191790",
+      "tags": [
+        "legible",
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191790"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-soft-semi-condensed-italic-astone-nisam-1191790",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Italic Soft Semi Condensed Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "e1350f908f5cc440"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/regular-astone-nisam-1191771",
+    "name": "Astone Nisam Regular",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:02.460832+00:00",
+    "raw": {
+      "id": 8589513326762,
+      "handle": "regular-astone-nisam-1191771",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191771"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-astone-nisam-1191771",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "67dad85bbdfc7ddf"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/soft-expanded-slant-astone-nisam-1191806",
+    "name": "Astone Nisam Soft Expanded Slant",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:02.460934+00:00",
+    "raw": {
+      "id": 8589513293994,
+      "handle": "soft-expanded-slant-astone-nisam-1191806",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191806",
+        "serious"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/soft-expanded-slant-astone-nisam-1191806",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Soft Expanded Slant",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "2d37c031b62b7108"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-soft-semi-expanded-slant-italic-astone-nisam-1191794",
+    "name": "Astone Nisam Italic Soft Semi Expanded Slant Italic",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:02.461214+00:00",
+    "raw": {
+      "id": 8589513130154,
+      "handle": "italic-soft-semi-expanded-slant-italic-astone-nisam-1191794",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191794",
+        "serious"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-soft-semi-expanded-slant-italic-astone-nisam-1191794",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Italic Soft Semi Expanded Slant Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "c9919f2ef70b6a37"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/soft-regular-astone-nisam-1191797",
+    "name": "Astone Nisam Soft Regular",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:02.461314+00:00",
+    "raw": {
+      "id": 8589513031850,
+      "handle": "soft-regular-astone-nisam-1191797",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191797"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/soft-regular-astone-nisam-1191797",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Soft Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "7a077b9fe65d0488"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/soft-condensed-astone-nisam-1191807",
+    "name": "Astone Nisam Soft Condensed",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:02.969889+00:00",
+    "raw": {
+      "id": 8589512933546,
+      "handle": "soft-condensed-astone-nisam-1191807",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191807"
+      ],
+      "updated_at": "2026-08-04T04:50:39-04:00",
+      "product_url": "https://www.myfonts.com/products/soft-condensed-astone-nisam-1191807",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Soft Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "52514601279a853d"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/soft-condensed-slant-astone-nisam-1191796",
+    "name": "Astone Nisam Soft Condensed Slant",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:04.460282+00:00",
+    "raw": {
+      "id": 8589512802474,
+      "handle": "soft-condensed-slant-astone-nisam-1191796",
+      "tags": [
+        "legible",
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191796",
+        "serious"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/soft-condensed-slant-astone-nisam-1191796",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Soft Condensed Slant",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "ffc9d14985ac8650"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/soft-semi-expanded-slant-astone-nisam-1191804",
+    "name": "Astone Nisam Soft Semi Expanded Slant",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:04.460484+00:00",
+    "raw": {
+      "id": 8589512704170,
+      "handle": "soft-semi-expanded-slant-astone-nisam-1191804",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191804",
+        "serious"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/soft-semi-expanded-slant-astone-nisam-1191804",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Soft Semi Expanded Slant",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "c5aaea45c5e06a12"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-italic-astone-nisam-1191772",
+    "name": "Astone Nisam Italic Italic",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:04.460809+00:00",
+    "raw": {
+      "id": 8589512605866,
+      "handle": "italic-italic-astone-nisam-1191772",
+      "tags": [
+        "formal",
+        "legible",
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191772",
+        "professional"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-italic-astone-nisam-1191772",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Italic Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "fa77af97dbf632f7"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-soft-extra-expanded-slant-italic-astone-nisam-1191782",
+    "name": "Astone Nisam Italic Soft Extra Expanded Slant Italic",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:04.460956+00:00",
+    "raw": {
+      "id": 8589512474794,
+      "handle": "italic-soft-extra-expanded-slant-italic-astone-nisam-1191782",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191782"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-soft-extra-expanded-slant-italic-astone-nisam-1191782",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Italic Soft Extra Expanded Slant Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "145d1b7ea43ae43a"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/grade-semi-condensed-slant-astone-nisam-1191811",
+    "name": "Astone Nisam Grade Semi Condensed Slant",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:04.461017+00:00",
+    "raw": {
+      "id": 8589512442026,
+      "handle": "grade-semi-condensed-slant-astone-nisam-1191811",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191811"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/grade-semi-condensed-slant-astone-nisam-1191811",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Grade Semi Condensed Slant",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "15d3e87920149c4c"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/soft-semi-condensed-slant-astone-nisam-1191799",
+    "name": "Astone Nisam Soft Semi Condensed Slant",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:04.461192+00:00",
+    "raw": {
+      "id": 8589512278186,
+      "handle": "soft-semi-condensed-slant-astone-nisam-1191799",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191799",
+        "serious"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/soft-semi-condensed-slant-astone-nisam-1191799",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Soft Semi Condensed Slant",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "03041e391267b2c6"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/grade-extra-expanded-astone-nisam-1191810",
+    "name": "Astone Nisam Grade Extra Expanded",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:04.461254+00:00",
+    "raw": {
+      "id": 8589512245418,
+      "handle": "grade-extra-expanded-astone-nisam-1191810",
+      "tags": [
+        "legible",
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191810"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/grade-extra-expanded-astone-nisam-1191810",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Grade Extra Expanded",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "60f9e420e59da573"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-soft-condensed-italic-astone-nisam-1191785",
+    "name": "Astone Nisam Italic Soft Condensed Italic",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:04.461366+00:00",
+    "raw": {
+      "id": 8589512212650,
+      "handle": "italic-soft-condensed-italic-astone-nisam-1191785",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191785"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-soft-condensed-italic-astone-nisam-1191785",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Italic Soft Condensed Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "1a7cc777c7b3003d"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/soft-extra-expanded-slant-astone-nisam-1191805",
+    "name": "Astone Nisam Soft Extra Expanded Slant",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:04.461470+00:00",
+    "raw": {
+      "id": 8589512179882,
+      "handle": "soft-extra-expanded-slant-astone-nisam-1191805",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191805",
+        "serious"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/soft-extra-expanded-slant-astone-nisam-1191805",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Soft Extra Expanded Slant",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "0520cb3d049e4aca"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/soft-expanded-astone-nisam-1191798",
+    "name": "Astone Nisam Soft Expanded",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:04.947086+00:00",
+    "raw": {
+      "id": 8589511917738,
+      "handle": "soft-expanded-astone-nisam-1191798",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191798"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/soft-expanded-astone-nisam-1191798",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Soft Expanded",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "59cbd4005cc13b7a"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-expanded-italic-astone-nisam-1191792",
+    "name": "Astone Nisam Italic Expanded Italic",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:04.947300+00:00",
+    "raw": {
+      "id": 8589511852202,
+      "handle": "italic-expanded-italic-astone-nisam-1191792",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191792"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-expanded-italic-astone-nisam-1191792",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Italic Expanded Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "3627f5e484e5571d"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-soft-expanded-italic-astone-nisam-1191793",
+    "name": "Astone Nisam Italic Soft Expanded Italic",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:04.947363+00:00",
+    "raw": {
+      "id": 8589511786666,
+      "handle": "italic-soft-expanded-italic-astone-nisam-1191793",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191793"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-soft-expanded-italic-astone-nisam-1191793",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Italic Soft Expanded Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "90035bb97583f802"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-soft-semi-condensed-slant-italic-astone-nisam-1191791",
+    "name": "Astone Nisam Italic Soft Semi Condensed Slant Italic",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:04.947474+00:00",
+    "raw": {
+      "id": 8589511622826,
+      "handle": "italic-soft-semi-condensed-slant-italic-astone-nisam-1191791",
+      "tags": [
+        "formal",
+        "legible",
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191791",
+        "professional"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-soft-semi-condensed-slant-italic-astone-nisam-1191791",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Italic Soft Semi Condensed Slant Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "d49fd3ae541ef0af"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-soft-condensed-slant-italic-astone-nisam-1191774",
+    "name": "Astone Nisam Italic Soft Condensed Slant Italic",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:04.947533+00:00",
+    "raw": {
+      "id": 8589511655594,
+      "handle": "italic-soft-condensed-slant-italic-astone-nisam-1191774",
+      "tags": [
+        "legible",
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191774"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-soft-condensed-slant-italic-astone-nisam-1191774",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Italic Soft Condensed Slant Italic",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "60aae10a166967d8"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/grade-semi-condensed-astone-nisam-1191812",
+    "name": "Astone Nisam Grade Semi Condensed",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:04.947592+00:00",
+    "raw": {
+      "id": 8589511688362,
+      "handle": "grade-semi-condensed-astone-nisam-1191812",
+      "tags": [
+        "legible",
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191812"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/grade-semi-condensed-astone-nisam-1191812",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Grade Semi Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "13ab03e30c58409f"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/astone-nisam-complete-family-package-1191769",
+    "name": "Astone Nisam Complete Family",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:04.947695+00:00",
+    "raw": {
+      "id": 8589461225642,
+      "handle": "astone-nisam-complete-family-package-1191769",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191769"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/astone-nisam-complete-family-package-1191769",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Astone Nisam Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "4bf397d9bbb0190a"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/the-handwritten-font-library-35-premium-fonts-package-1191767",
+    "name": "The Handwritten Font Library 35 Premium Fonts",
+    "styles": [],
+    "authors": [
+      "Pineungtype misinklab"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:06.684808+00:00",
+    "raw": {
+      "id": 8589461192874,
+      "handle": "the-handwritten-font-library-35-premium-fonts-package-1191767",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/the-handwritten-font-library-35-premium-fonts-package-1191767",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "The Handwritten Font Library 35 Premium Fonts",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "2b0c1cd53ab4e61e"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/semi-condensed-astone-nisam-1191830",
+    "name": "Astone Nisam Semi Condensed",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:40.868340+00:00",
+    "raw": {
+      "id": 8589459357866,
+      "handle": "semi-condensed-astone-nisam-1191830",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191830"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/semi-condensed-astone-nisam-1191830",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Semi Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "2075b663ff0bedae"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/condensed-astone-nisam-1191829",
+    "name": "Astone Nisam Condensed",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:40.868431+00:00",
+    "raw": {
+      "id": 8589459259562,
+      "handle": "condensed-astone-nisam-1191829",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191829"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/condensed-astone-nisam-1191829",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "6fac99a694d4037e"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/semi-expanded-astone-nisam-1191828",
+    "name": "Astone Nisam Semi Expanded",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:41.355167+00:00",
+    "raw": {
+      "id": 8589459128490,
+      "handle": "semi-expanded-astone-nisam-1191828",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191828",
+        "serious"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/semi-expanded-astone-nisam-1191828",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Semi Expanded",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "2a6839c6cb398b94"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/semi-expanded-slant-astone-nisam-1191827",
+    "name": "Astone Nisam Semi Expanded Slant",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:41.355574+00:00",
+    "raw": {
+      "id": 8589458899114,
+      "handle": "semi-expanded-slant-astone-nisam-1191827",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191827",
+        "serious"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/semi-expanded-slant-astone-nisam-1191827",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Semi Expanded Slant",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "b1bf5ce7635e1e43"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-expanded-astone-nisam-1191826",
+    "name": "Astone Nisam Extra Expanded",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:41.355787+00:00",
+    "raw": {
+      "id": 8589458702506,
+      "handle": "extra-expanded-astone-nisam-1191826",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191826",
+        "serious"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-expanded-astone-nisam-1191826",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Extra Expanded",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "069d300c6da79b0f"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/expanded-astone-nisam-1191825",
+    "name": "Astone Nisam Expanded",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:41.356033+00:00",
+    "raw": {
+      "id": 8589458473130,
+      "handle": "expanded-astone-nisam-1191825",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191825"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/expanded-astone-nisam-1191825",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Expanded",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "b72ae2ae2150fc9d"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/semi-condensed-slant-astone-nisam-1191824",
+    "name": "Astone Nisam Semi Condensed Slant",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:41.356301+00:00",
+    "raw": {
+      "id": 8589458276522,
+      "handle": "semi-condensed-slant-astone-nisam-1191824",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191824",
+        "serious"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/semi-condensed-slant-astone-nisam-1191824",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Semi Condensed Slant",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "d2a5227d17d1cf75"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/condensed-slant-astone-nisam-1191823",
+    "name": "Astone Nisam Condensed Slant",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:41.356591+00:00",
+    "raw": {
+      "id": 8589458014378,
+      "handle": "condensed-slant-astone-nisam-1191823",
+      "tags": [
+        "legible",
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191823",
+        "serious"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/condensed-slant-astone-nisam-1191823",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Condensed Slant",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "8edfa8ea9403e035"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/slant-astone-nisam-1191822",
+    "name": "Astone Nisam Slant",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:41.356789+00:00",
+    "raw": {
+      "id": 8589457719466,
+      "handle": "slant-astone-nisam-1191822",
+      "tags": [
+        "formal",
+        "legible",
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191822",
+        "professional"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/slant-astone-nisam-1191822",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Slant",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "a75476746e2b2043"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/extra-expanded-slant-astone-nisam-1191821",
+    "name": "Astone Nisam Extra Expanded Slant",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:41.357096+00:00",
+    "raw": {
+      "id": 8589457359018,
+      "handle": "extra-expanded-slant-astone-nisam-1191821",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191821",
+        "serious"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/extra-expanded-slant-astone-nisam-1191821",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Extra Expanded Slant",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "6704ce655cff2b39"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/expanded-slant-astone-nisam-1191820",
+    "name": "Astone Nisam Expanded Slant",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:41.357407+00:00",
+    "raw": {
+      "id": 8589457096874,
+      "handle": "expanded-slant-astone-nisam-1191820",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191820",
+        "serious"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/expanded-slant-astone-nisam-1191820",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Expanded Slant",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "b8a0f48a4916457a"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/grade-expanded-astone-nisam-1191819",
+    "name": "Astone Nisam Grade Expanded",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:41.357746+00:00",
+    "raw": {
+      "id": 8589456801962,
+      "handle": "grade-expanded-astone-nisam-1191819",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191819",
+        "serious"
+      ],
+      "updated_at": "2026-08-04T04:51:04-04:00",
+      "product_url": "https://www.myfonts.com/products/grade-expanded-astone-nisam-1191819",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Grade Expanded",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "cd77e6583c62bbbd"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/grade-condensed-astone-nisam-1191818",
+    "name": "Astone Nisam Grade Condensed",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:43.369991+00:00",
+    "raw": {
+      "id": 8589456605354,
+      "handle": "grade-condensed-astone-nisam-1191818",
+      "tags": [
+        "legible",
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191818",
+        "vintage"
+      ],
+      "updated_at": "2026-08-04T04:51:42-04:00",
+      "product_url": "https://www.myfonts.com/products/grade-condensed-astone-nisam-1191818",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Grade Condensed",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "c6bd1710b1efc9c3"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/grade-regular-astone-nisam-1191817",
+    "name": "Astone Nisam Grade Regular",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:43.370287+00:00",
+    "raw": {
+      "id": 8589456408746,
+      "handle": "grade-regular-astone-nisam-1191817",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191817"
+      ],
+      "updated_at": "2026-08-04T04:51:42-04:00",
+      "product_url": "https://www.myfonts.com/products/grade-regular-astone-nisam-1191817",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Grade Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "3d0419dac2815d4f"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/grade-extra-expanded-slant-astone-nisam-1191816",
+    "name": "Astone Nisam Grade Extra Expanded Slant",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:43.370608+00:00",
+    "raw": {
+      "id": 8589456081066,
+      "handle": "grade-extra-expanded-slant-astone-nisam-1191816",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191816",
+        "vintage"
+      ],
+      "updated_at": "2026-08-04T04:51:42-04:00",
+      "product_url": "https://www.myfonts.com/products/grade-extra-expanded-slant-astone-nisam-1191816",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Grade Extra Expanded Slant",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "a799d26b9dc94935"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/grade-semi-expanded-astone-nisam-1191815",
+    "name": "Astone Nisam Grade Semi Expanded",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:43.370873+00:00",
+    "raw": {
+      "id": 8589455851690,
+      "handle": "grade-semi-expanded-astone-nisam-1191815",
+      "tags": [
+        "legible",
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191815"
+      ],
+      "updated_at": "2026-08-04T04:51:42-04:00",
+      "product_url": "https://www.myfonts.com/products/grade-semi-expanded-astone-nisam-1191815",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Grade Semi Expanded",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "d8d5bec4ebad10bf"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/grade-slant-astone-nisam-1191814",
+    "name": "Astone Nisam Grade Slant",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:43.371036+00:00",
+    "raw": {
+      "id": 8589455655082,
+      "handle": "grade-slant-astone-nisam-1191814",
+      "tags": [
+        "legible",
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191814"
+      ],
+      "updated_at": "2026-08-04T04:51:42-04:00",
+      "product_url": "https://www.myfonts.com/products/grade-slant-astone-nisam-1191814",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Grade Slant",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "a6fa2f7f3278bd81"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/grade-expanded-slant-astone-nisam-1191813",
+    "name": "Astone Nisam Grade Expanded Slant",
+    "styles": [],
+    "authors": [
+      "Gatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-03",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-04T08:51:43.371417+00:00",
+    "raw": {
+      "id": 8589455491242,
+      "handle": "grade-expanded-slant-astone-nisam-1191813",
+      "tags": [
+        "pim:designerId:4208",
+        "pim:familyId:121882",
+        "pim:foundryId:2319",
+        "pim:skuId:1191813"
+      ],
+      "updated_at": "2026-08-04T04:51:42-04:00",
+      "product_url": "https://www.myfonts.com/products/grade-expanded-slant-astone-nisam-1191813",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Astone Nisam Grade Expanded Slant",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "3eecfa5ab2f91c41"
+  }
+]
