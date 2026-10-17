@@ -1,0 +1,36 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/compania-tipografica-de-chile/notue-gothic?v=0.2",
+    "name": "Notué Gothic",
+    "styles": [],
+    "authors": [
+      "Compañía Tipográfica de Chile"
+    ],
+    "scripts": [
+      "extended-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-06-22",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/67/medium_Mesa_de_trabajo_1.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/5238/Notue__Gothic_0.2_Specimen.pdf",
+    "discovered_at": "2026-06-23T10:23:05.868469+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:22364",
+      "activity_id": 22364,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.2",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 5238,
+      "resolved_typeface_id": 323,
+      "typeface_language": "extended-latin"
+    },
+    "release_id": "03f72c84e842c9be"
+  }
+]
