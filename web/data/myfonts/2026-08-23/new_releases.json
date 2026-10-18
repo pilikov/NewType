@@ -1,0 +1,251 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/retro-bundle-iii-package-987509",
+    "name": "Retro Bundle III",
+    "styles": [],
+    "authors": [
+      "Taboja Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-08-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-23T06:53:10.170967+00:00",
+    "raw": {
+      "id": 8063553208490,
+      "handle": "retro-bundle-iii-package-987509",
+      "tags": [
+        "discount_Hello-May_Taboja-Studio_2026-05-13_2026-06-10_20_nGRf5BFiOKPKhtFUeeVGwQfQ:1778630405",
+        "heading",
+        "headline",
+        "pim:designerId:8147",
+        "pim:designerId:8775",
+        "pim:foundryId:6375",
+        "pim:skuId:987509",
+        "special_offer"
+      ],
+      "updated_at": "2026-08-23T02:53:05-04:00",
+      "product_url": "https://www.myfonts.com/products/retro-bundle-iii-package-987509",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Retro Bundle III",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "6437287b0d1a9699"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/modern-branding-font-bundle-iii-package-987510",
+    "name": "Modern Branding Font Bundle III",
+    "styles": [],
+    "authors": [
+      "Taboja Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-08-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-23T06:53:11.455974+00:00",
+    "raw": {
+      "id": 8063938527402,
+      "handle": "modern-branding-font-bundle-iii-package-987510",
+      "tags": [
+        "discount_Hello-May_Taboja-Studio_2026-05-13_2026-06-10_20_nGRf5BFiOKPKhtFUeeVGwQfQ:1778630405",
+        "discount_Hey-June_Taboja-Studio_2026-06-13_2026-07-13_20_8A2GbpnJV1gILMEvMipGHqZo:1781320326",
+        "heading",
+        "headline",
+        "pim:designerId:8775",
+        "pim:foundryId:6375",
+        "pim:skuId:987510",
+        "special_offer"
+      ],
+      "updated_at": "2026-08-23T02:53:05-04:00",
+      "product_url": "https://www.myfonts.com/products/modern-branding-font-bundle-iii-package-987510",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Modern Branding Font Bundle III",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "5f0a0d61d3ce3765"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/soft-package-1207070",
+    "name": "Soft",
+    "styles": [],
+    "authors": [
+      "Akbartype"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-08-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-23T06:53:33.388329+00:00",
+    "raw": {
+      "id": 8602839482538,
+      "handle": "soft-package-1207070",
+      "tags": [
+        "classy",
+        "elegant",
+        "legible",
+        "pim:designerId:9258",
+        "pim:familyId:136422",
+        "pim:foundryId:6752",
+        "pim:skuId:1207070",
+        "serene",
+        "sophisticated"
+      ],
+      "updated_at": "2026-08-23T02:53:05-04:00",
+      "product_url": "https://www.myfonts.com/products/soft-package-1207070",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Soft",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "a55598616d006015"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/hard-package-1207069",
+    "name": "Hard",
+    "styles": [],
+    "authors": [
+      "Akbartype"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-08-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-23T06:53:55.643261+00:00",
+    "raw": {
+      "id": 8602839318698,
+      "handle": "hard-package-1207069",
+      "tags": [
+        "classy",
+        "elegant",
+        "fashion",
+        "formal",
+        "pim:designerId:9258",
+        "pim:familyId:136422",
+        "pim:foundryId:6752",
+        "pim:skuId:1207069",
+        "serene",
+        "sophisticated"
+      ],
+      "updated_at": "2026-08-23T02:53:05-04:00",
+      "product_url": "https://www.myfonts.com/products/hard-package-1207069",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Hard",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "c2b4c1f3f6e8929c"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/fullgraf-complete-family-package-1205703",
+    "name": "Fullgraf Complete Family",
+    "styles": [],
+    "authors": [
+      "Akbartype"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-08-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-23T06:55:10.165665+00:00",
+    "raw": {
+      "id": 8602838073514,
+      "handle": "fullgraf-complete-family-package-1205703",
+      "tags": [
+        "legible",
+        "pim:designerId:9258",
+        "pim:familyId:136422",
+        "pim:foundryId:6752",
+        "pim:skuId:1205703"
+      ],
+      "updated_at": "2026-08-23T02:53:05-04:00",
+      "product_url": "https://www.myfonts.com/products/fullgraf-complete-family-package-1205703",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Fullgraf Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "fd3e035b5f1635f0"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/kilti-font-agung-sudirman/",
+    "name": "Kilti",
+    "styles": [],
+    "authors": [
+      "Agung Sudirman"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-22",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10265/D3Xgil0tbOZuWufTTE78y2yI_6d62ffc7f8e0f1a7c82b85039d8b2234.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-23T06:55:15.175948+00:00",
+    "raw": {
+      "id": 8602838040746,
+      "handle": "kilti-complete-family-package-1206366",
+      "tags": [
+        "legible",
+        "pim:designerId:9809",
+        "pim:familyId:136469",
+        "pim:foundryId:7247",
+        "pim:skuId:1206366"
+      ],
+      "updated_at": "2026-08-23T02:53:05-04:00",
+      "product_url": "https://www.myfonts.com/products/kilti-complete-family-package-1206366",
+      "collection_url": "https://www.myfonts.com/collections/kilti-font-agung-sudirman/",
+      "is_package_product": true,
+      "product_title": "Kilti Complete Family",
+      "collection_name": "Kilti",
+      "myfonts_debut_date": "2026-08-22",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "d7b6e44999c3a11a"
+  }
+]
