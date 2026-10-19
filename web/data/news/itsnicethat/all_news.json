@@ -856,5 +856,27 @@
     "discovered_at": "2026-10-16T20:27:06.914646+00:00",
     "raw": {},
     "news_id": "8d4c736b63ca4320"
+  },
+  {
+    "source_id": "itsnicethat",
+    "source_name": "It's Nice That",
+    "title": "Fulham F.C gets a brand refresh built on hand-rendered lettering found on the walls of its stadium",
+    "url": "https://www.itsnicethat.com/articles/music-f37-foundry-fulham-football-club-refresh-graphic-design-project-191026",
+    "published_at": "2026-10-19",
+    "image_url": null,
+    "discovered_at": "2026-10-19T21:57:55.150690+00:00",
+    "raw": {},
+    "news_id": "bcefa3f10ff83777"
+  },
+  {
+    "source_id": "itsnicethat",
+    "source_name": "It's Nice That",
+    "title": "SourceType’s Dictionary of the Illegible explores what happens when typography stops making sense",
+    "url": "https://www.itsnicethat.com/features/sourcetype-laurenz-brunner-dictionary-of-the-illegible-graphic-design-publication-spotlight-191026",
+    "published_at": "2026-10-19",
+    "image_url": null,
+    "discovered_at": "2026-10-19T21:57:55.150708+00:00",
+    "raw": {},
+    "news_id": "b5375ce1a7942cb0"
   }
 ]
