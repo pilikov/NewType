@@ -1,0 +1,37 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/the-sans-edit-package-1178048",
+    "name": "The Sans Edit",
+    "styles": [],
+    "authors": [
+      "Fontop"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-07-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-10T09:51:12.395769+00:00",
+    "raw": {
+      "id": 8479889588394,
+      "handle": "the-sans-edit-package-1178048",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-07-10T05:51:05-04:00",
+      "product_url": "https://www.myfonts.com/products/the-sans-edit-package-1178048",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "The Sans Edit",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "2de3a29477cc8b89"
+  }
+]
