@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-07-16T08:44:38.782499+00:00",
+  "source_id": "type_today",
+  "total_releases": 1,
+  "baseline_count": 0,
+  "new_release_count": 1,
+  "removed_release_count": 0,
+  "changed_release_count": 0,
+  "new_release_examples": [
+    {
+      "slug": "",
+      "name": "Crimp",
+      "source_url": "https://type.today/ru/crimp",
+      "fingerprint": "2f5b6c70ad857b1351c03dd1"
+    }
+  ],
+  "removed_release_examples": [],
+  "changed_release_examples": [],
+  "monitoring_plan": [
+    "Run source=type_today daily and inspect new_release_count/changed_release_count in this report.",
+    "Alert when new_release_count > 0 or changed_release_count > 0.",
+    "Store latest monitor snapshot in state to diff against previous run.",
+    "Use fields[fonts]=slug,title,new_badge,year lightweight probe for frequent checks if needed."
+  ]
+}
