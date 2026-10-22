@@ -1,0 +1,416 @@
+[
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/cast/fonts/am-toscana",
+    "name": "AM Toscana",
+    "styles": [],
+    "authors": [
+      "CAST"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-06-24",
+    "image_url": "https://www.c-a-s-t.com/wp/wp-content/uploads/2022/04/CARD_8@2x.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-25T10:05:25.704061+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5583",
+      "family_id": 5583,
+      "family_slug": "am-toscana",
+      "catalog_url": "/foundry/cast/fonts/am-toscana",
+      "released": "2026-06-24T22:29:39.861625Z",
+      "uploaded": "2026-06-24T22:29:39.861631Z",
+      "foundry_ids": [
+        148
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "CAST",
+        "foundry_site_url": "https://www.c-a-s-t.com/",
+        "image_page_url": "https://www.c-a-s-t.com/typefaces/8/"
+      }
+    },
+    "release_id": "675e514d6114ab84"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/cast/fonts/am-impero",
+    "name": "AM Impero",
+    "styles": [],
+    "authors": [
+      "CAST"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-06-24",
+    "image_url": "https://www.c-a-s-t.com/wp/wp-content/uploads/2025/12/CARD_AM-Impero-1.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-25T10:05:27.441186+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5582",
+      "family_id": 5582,
+      "family_slug": "am-impero",
+      "catalog_url": "/foundry/cast/fonts/am-impero",
+      "released": "2026-06-24T22:29:39.675294Z",
+      "uploaded": "2026-06-24T22:29:39.675301Z",
+      "foundry_ids": [
+        148
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "CAST",
+        "foundry_site_url": "https://www.c-a-s-t.com/",
+        "image_page_url": "https://www.c-a-s-t.com/typefaces/am-impero/"
+      }
+    },
+    "release_id": "bf1b78ee8acdf9ab"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/cast/fonts/am-vittoria",
+    "name": "AM Vittoria",
+    "styles": [],
+    "authors": [
+      "CAST"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-06-24",
+    "image_url": "https://www.c-a-s-t.com/wp/wp-content/uploads/2025/11/CARD_AM-Vittoria-1.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-25T10:05:29.218072+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5581",
+      "family_id": 5581,
+      "family_slug": "am-vittoria",
+      "catalog_url": "/foundry/cast/fonts/am-vittoria",
+      "released": "2026-06-24T22:23:21.628485Z",
+      "uploaded": "2026-06-24T22:23:21.628490Z",
+      "foundry_ids": [
+        148
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "CAST",
+        "foundry_site_url": "https://www.c-a-s-t.com/",
+        "image_page_url": "https://www.c-a-s-t.com/typefaces/am-vittoria/"
+      }
+    },
+    "release_id": "bd8d5e09a773cb46"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/cast/fonts/am-tobruk",
+    "name": "AM Tobruk",
+    "styles": [],
+    "authors": [
+      "CAST"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-06-24",
+    "image_url": "https://www.c-a-s-t.com/wp/wp-content/uploads/2022/04/CARD_8@2x.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-25T10:05:30.932389+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5580",
+      "family_id": 5580,
+      "family_slug": "am-tobruk",
+      "catalog_url": "/foundry/cast/fonts/am-tobruk",
+      "released": "2026-06-24T22:23:21.433937Z",
+      "uploaded": "2026-06-24T22:23:21.433943Z",
+      "foundry_ids": [
+        148
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "CAST",
+        "foundry_site_url": "https://www.c-a-s-t.com/",
+        "image_page_url": "https://www.c-a-s-t.com/typefaces/8/"
+      }
+    },
+    "release_id": "9fa5612027227c92"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/cast/fonts/am-radio",
+    "name": "AM Radio",
+    "styles": [],
+    "authors": [
+      "CAST"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-06-24",
+    "image_url": "https://www.c-a-s-t.com/wp/wp-content/uploads/2022/04/CARD_8@2x.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-25T10:05:33.476459+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5579",
+      "family_id": 5579,
+      "family_slug": "am-radio",
+      "catalog_url": "/foundry/cast/fonts/am-radio",
+      "released": "2026-06-24T22:23:21.288882Z",
+      "uploaded": "2026-06-24T22:23:21.288887Z",
+      "foundry_ids": [
+        148
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "CAST",
+        "foundry_site_url": "https://www.c-a-s-t.com/",
+        "image_page_url": "https://www.c-a-s-t.com/typefaces/8/"
+      }
+    },
+    "release_id": "820398e9f9ab32e6"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/cast/fonts/am-macalle",
+    "name": "AM Macallè",
+    "styles": [],
+    "authors": [
+      "CAST"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-06-24",
+    "image_url": "https://www.c-a-s-t.com/wp/wp-content/uploads/2025/11/CARD_AM-Macalle.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-25T10:05:35.141773+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5578",
+      "family_id": 5578,
+      "family_slug": "am-macalle",
+      "catalog_url": "/foundry/cast/fonts/am-macalle",
+      "released": "2026-06-24T22:23:21.140806Z",
+      "uploaded": "2026-06-24T22:23:21.140812Z",
+      "foundry_ids": [
+        148
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "CAST",
+        "foundry_site_url": "https://www.c-a-s-t.com/",
+        "image_page_url": "https://www.c-a-s-t.com/typefaces/am-macalle/"
+      }
+    },
+    "release_id": "727afe19a90a248a"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/cast/fonts/am-futurismo",
+    "name": "AM Futurismo",
+    "styles": [],
+    "authors": [
+      "CAST"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-06-24",
+    "image_url": "https://www.c-a-s-t.com/wp/wp-content/uploads/2022/04/CARD_8@2x.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-25T10:05:36.910073+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5577",
+      "family_id": 5577,
+      "family_slug": "am-futurismo",
+      "catalog_url": "/foundry/cast/fonts/am-futurismo",
+      "released": "2026-06-24T22:23:20.998418Z",
+      "uploaded": "2026-06-24T22:23:20.998424Z",
+      "foundry_ids": [
+        148
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "CAST",
+        "foundry_site_url": "https://www.c-a-s-t.com/",
+        "image_page_url": "https://www.c-a-s-t.com/typefaces/8/"
+      }
+    },
+    "release_id": "72ab07dde2c3b4c3"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/cast/fonts/am-fiume",
+    "name": "AM Fiume",
+    "styles": [],
+    "authors": [
+      "CAST"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-06-24",
+    "image_url": "https://www.c-a-s-t.com/wp/wp-content/uploads/2026/01/CARD_AM-Fiume-1.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-25T10:05:38.629791+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5576",
+      "family_id": 5576,
+      "family_slug": "am-fiume",
+      "catalog_url": "/foundry/cast/fonts/am-fiume",
+      "released": "2026-06-24T22:23:20.862808Z",
+      "uploaded": "2026-06-24T22:23:20.862813Z",
+      "foundry_ids": [
+        148
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "CAST",
+        "foundry_site_url": "https://www.c-a-s-t.com/",
+        "image_page_url": "https://www.c-a-s-t.com/typefaces/am-fiume/"
+      }
+    },
+    "release_id": "c0ba1067cd80f5a1"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/cast/fonts/am-appennino",
+    "name": "AM Appennino",
+    "styles": [],
+    "authors": [
+      "CAST"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-06-24",
+    "image_url": "https://www.c-a-s-t.com/wp/wp-content/uploads/2026/02/CARD_AM-Appennino-1.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-25T10:05:40.365274+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5575",
+      "family_id": 5575,
+      "family_slug": "am-appennino",
+      "catalog_url": "/foundry/cast/fonts/am-appennino",
+      "released": "2026-06-24T22:23:20.676259Z",
+      "uploaded": "2026-06-24T22:23:20.676265Z",
+      "foundry_ids": [
+        148
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "CAST",
+        "foundry_site_url": "https://www.c-a-s-t.com/",
+        "image_page_url": "https://www.c-a-s-t.com/typefaces/am-appennino/"
+      }
+    },
+    "release_id": "89e9c893a473d1f2"
+  }
+]

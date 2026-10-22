@@ -1,0 +1,107 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/linda-hintz/sled?v=0.2",
+    "name": "Sled",
+    "styles": [],
+    "authors": [
+      "Linda Hintz"
+    ],
+    "scripts": [
+      "extended-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-04-28",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/228/medium_Header_FuFo_1500x180.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/9231/Specimen_Sled_V0.2.pdf",
+    "discovered_at": "2026-04-29T08:44:34.982092+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:20780",
+      "activity_id": 20780,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.2",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 9231,
+      "resolved_typeface_id": 2530,
+      "typeface_language": "extended-latin"
+    },
+    "release_id": "e8d16a9afdb83190"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/arrowtype/kyrios?v=1.0",
+    "name": "Kyrios",
+    "styles": [],
+    "authors": [
+      "ArrowType"
+    ],
+    "scripts": [
+      "basic-latin",
+      "extended-latin",
+      "vietnamese"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-04-28",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/166/medium_arrowtype-banner_3x-2.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/7812/AT_Kyrios_-_Specimen.pdf",
+    "discovered_at": "2026-04-29T08:44:35.314674+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:20715",
+      "activity_id": 20715,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "1.0",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 7812,
+      "resolved_typeface_id": 318,
+      "typeface_language": "basic-latin,extended-latin,vietnamese"
+    },
+    "release_id": "9e5d13f08ccbc389"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/cstm/onweer?v=0.2",
+    "name": "Onweer",
+    "styles": [],
+    "authors": [
+      "CSTM Fonts"
+    ],
+    "scripts": [
+      "cyrillic",
+      "basic-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-04-28",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/61/medium_cover.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/9198/tt_Onweer_2026.pdf",
+    "discovered_at": "2026-04-29T08:44:35.603505+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:20714",
+      "activity_id": 20714,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.2",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 9198,
+      "resolved_typeface_id": 1507,
+      "typeface_language": "cyrillic,basic-latin"
+    },
+    "release_id": "d8da4a983e34bda8"
+  }
+]
