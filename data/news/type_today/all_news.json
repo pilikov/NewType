@@ -684,5 +684,19 @@
       "post_date": "2026-10-14"
     },
     "news_id": "fd00de80a26f764c"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Cyrillic on Google Fonts: Geometric Sans (Part&nbsp;2)",
+    "url": "https://type.today/en/journal/geo2",
+    "published_at": "2026-10-23",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/3/1323/preview_420_preview_image_en-whsce-wHx4tg_U5PpqVDbgjZjs4JjJ6-Ww.png",
+    "discovered_at": "2026-10-23T11:50:41.773640+00:00",
+    "raw": {
+      "slug": "geo2",
+      "post_date": "2026-10-23"
+    },
+    "news_id": "4e105844a4d14699"
   }
 ]
