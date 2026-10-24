@@ -1,0 +1,80 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/din-2014-font-paratype",
+    "name": "DIN 2014 Complete Family",
+    "styles": [],
+    "authors": [
+      "ParaType"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-07-20",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-21T08:46:16.823528+00:00",
+    "raw": {
+      "id": 8497083318442,
+      "handle": "din-2014-complete-family-package-1184620",
+      "tags": [
+        "pim:designerId:2002",
+        "pim:familyId:11399",
+        "pim:foundryId:3104",
+        "pim:skuId:1184620",
+        "serious"
+      ],
+      "updated_at": "2026-07-21T04:46:16-04:00",
+      "product_url": "https://www.myfonts.com/products/din-2014-complete-family-package-1184620",
+      "collection_url": "https://www.myfonts.com/collections/din-2014-font-paratype",
+      "is_package_product": true,
+      "product_title": "DIN 2014 Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "988b5445a11d8c94"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/velomino-font-mans-greback/",
+    "name": "Velomino",
+    "styles": [],
+    "authors": [
+      "Mans Greback"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-22",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10238/D2TskLmxkpB6cLepNJvPcdKX_31c45bc6e1555eefa8e4b7737f41429e.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-23T08:41:44.988387+00:00",
+    "raw": {
+      "id": 8500631634090,
+      "handle": "velomino-complete-family-package-1163983",
+      "tags": [
+        "decorative",
+        "pim:designerId:2344",
+        "pim:familyId:133632",
+        "pim:foundryId:3066",
+        "pim:skuId:1163983"
+      ],
+      "updated_at": "2026-07-23T04:41:17-04:00",
+      "product_url": "https://www.myfonts.com/products/velomino-complete-family-package-1163983",
+      "collection_url": "https://www.myfonts.com/collections/velomino-font-mans-greback/",
+      "is_package_product": true,
+      "product_title": "Velomino Complete Family",
+      "collection_name": "Velomino",
+      "myfonts_debut_date": "2026-07-22",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "b335c2df49ca83cb"
+  }
+]
