@@ -1,0 +1,66 @@
+[
+  {
+    "source_id": "ilt",
+    "source_name": "I Love Typography",
+    "source_url": "https://fonts.ilovetypography.com/fonts/martin-majoor/seria",
+    "name": "Seria",
+    "styles": [
+      "Regular",
+      "Italic",
+      "Bold",
+      "Bold Italic"
+    ],
+    "authors": [
+      "Martin Majoor"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Greek",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2000-01-01",
+    "image_url": "https://empty-grouse.transforms.svdcdn.com/production/images/MartinMajoor-SeriaSans-2400x1200-96dp-1.png?w=580&auto=compress%2Cformat&fit=min&dm=1792799918&s=76eb56747e66d3652dfcaac3f2e3164e",
+    "woff_url": "https://d3qx8f8l5aa3yc.cloudfront.net/webfonts/martin-majoor/SeriaPro-Regular.woff?v=1792799508",
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-10-24T11:09:44.301799+00:00",
+    "raw": {
+      "release_identity": "ilt:1767728",
+      "typesense_id": "1767728",
+      "slug": "seria",
+      "foundry": "Martin Majoor",
+      "designer": "Martin Majoor",
+      "description": "Seria: a subtle text face with striking details.\n\nSeria® was released in 2000. It can be seen as a 'literary' typeface, with long ascenders & descenders and a distinctive upright italic. Its relatively small x-height makes Seria a rewarding challenge for the experienced typographer.\n\nIn 2003, the Seria family won two awards: a Certificate of Excellence from the ISTD and a Certificate of Excellence in Type Design.",
+      "categories": [
+        "Serif fonts",
+        "Web Fonts"
+      ],
+      "otfeatures": [
+        "Contextual Alternates",
+        "Stylistic Alternates",
+        "Discretionary Ligatures",
+        "Standard Ligatures",
+        "Small Capitals",
+        "Small Capitals from Capitals",
+        "Case-sensitive  Forms",
+        "Subscript",
+        "Superscript",
+        "Lining Figures",
+        "Proportional Figures",
+        "Tabular Figures",
+        "Fractions"
+      ],
+      "cedars": {
+        "cedarsFill": "solid"
+      },
+      "price": 149,
+      "fromPrice": 49,
+      "onPromotion": false,
+      "hasDemoFonts": false,
+      "hasFreeFonts": false,
+      "enabled": true,
+      "api_source": "https://ikgq6me4n0p3u2bvp-1.a1.typesense.net/collections/prod_FONTS/documents/search"
+    },
+    "release_id": "f1989d31f7d1643f"
+  }
+]
