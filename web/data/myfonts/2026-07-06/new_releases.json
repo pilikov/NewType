@@ -1,0 +1,123 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/old-ledger-font-mans-greback/",
+    "name": "Old Ledger",
+    "styles": [],
+    "authors": [
+      "Mans Greback"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-06",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10237/v6WcwcSD2gNoGdFbw10O3dBS_fd5e3010bc78f3f9d2172e3ab9cf6109.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-06T10:54:16.134431+00:00",
+    "raw": {
+      "id": 8476163408042,
+      "handle": "old-ledger-complete-family-package-1161900",
+      "tags": [
+        "brush",
+        "carefree",
+        "decorative",
+        "friendly",
+        "handwriting",
+        "holiday",
+        "pim:designerId:2344",
+        "pim:familyId:133319",
+        "pim:foundryId:3066",
+        "pim:skuId:1161900",
+        "romantic",
+        "serene",
+        "whimsical"
+      ],
+      "updated_at": "2026-07-06T06:54:12-04:00",
+      "product_url": "https://www.myfonts.com/products/old-ledger-complete-family-package-1161900",
+      "collection_url": "https://www.myfonts.com/collections/old-ledger-font-mans-greback/",
+      "is_package_product": true,
+      "product_title": "Old Ledger Complete Family",
+      "collection_name": "Old Ledger",
+      "myfonts_debut_date": "2026-07-06",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "7adff83209caf672"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/font-duo-package-1176625",
+    "name": "Font Duo",
+    "styles": [],
+    "authors": [
+      "Ceeskiiw"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-07-05",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-06T10:54:33.877677+00:00",
+    "raw": {
+      "id": 8476041281706,
+      "handle": "font-duo-package-1176625",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-07-06T06:54:12-04:00",
+      "product_url": "https://www.myfonts.com/products/font-duo-package-1176625",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Font Duo",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "aa9f1524b20474ef"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/mitshuka-font-mans-greback/",
+    "name": "Mitshuka",
+    "styles": [],
+    "authors": [
+      "Mans Greback"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-05",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10237/NFtyl8HW2t94srfvPaxduRYV_a967cf4714282a31bf1771f05078e32d.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-06T10:55:14.918714+00:00",
+    "raw": {
+      "id": 8475906113706,
+      "handle": "mitshuka-complete-family-package-1161895",
+      "tags": [
+        "decorative",
+        "pim:designerId:2344",
+        "pim:familyId:133318",
+        "pim:foundryId:3066",
+        "pim:skuId:1161895"
+      ],
+      "updated_at": "2026-07-06T06:54:48-04:00",
+      "product_url": "https://www.myfonts.com/products/mitshuka-complete-family-package-1161895",
+      "collection_url": "https://www.myfonts.com/collections/mitshuka-font-mans-greback/",
+      "is_package_product": true,
+      "product_title": "Mitshuka Complete Family",
+      "collection_name": "Mitshuka",
+      "myfonts_debut_date": "2026-07-05",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "efb8bdf966f94ee7"
+  }
+]

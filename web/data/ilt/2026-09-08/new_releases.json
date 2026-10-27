@@ -1,0 +1,127 @@
+[
+  {
+    "source_id": "ilt",
+    "source_name": "I Love Typography",
+    "source_url": "https://fonts.ilovetypography.com/fonts/type-forward/thorn-serif",
+    "name": "Thorn Serif",
+    "styles": [
+      "Hairline",
+      "Thin",
+      "Light",
+      "Regular",
+      "Medium",
+      "SemiBold",
+      "Bold",
+      "Black"
+    ],
+    "authors": [
+      "Type Forward",
+      "Mirela Belova, Stan Partalev"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-09-15",
+    "image_url": "https://empty-grouse.transforms.svdcdn.com/production/images/Thorn_01.png?w=580&auto=compress%2Cformat&fit=min&dm=1788866363&s=cf29b0061304d530bf4a87129495c591",
+    "woff_url": "https://d3qx8f8l5aa3yc.cloudfront.net/webfonts/ThornSerif-Medium.woff?v=1788865884",
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-08T11:32:06.867612+00:00",
+    "raw": {
+      "release_identity": "ilt:1763455",
+      "typesense_id": "1763455",
+      "slug": "thorn-serif",
+      "foundry": "Type Forward",
+      "designer": "Mirela Belova, Stan Partalev",
+      "description": "Inspired by the raw typography of ancient Roman coinage, Thorn Serif captures historic craftsmanship in a versatile design. Created by Type Forward, it features rugged \"carved\" serifs, minimal stroke contrast, compact ascenders, and a high x-height.\n\nThe family spans 8 weights-from a crisp Hairline to a monolithic Black-available as standalone styles or a single variable font file. With rich OpenType features, broad language support, and carefully tuned spacing, Thorn Serif balances ancient heritage with modern digital precision. It is built to deliver a powerful, timeless aesthetic for editorial, branding, and display design.",
+      "categories": [
+        "Serif fonts",
+        "Web Fonts"
+      ],
+      "otfeatures": [
+        "Contextual Alternates",
+        "Discretionary Ligatures",
+        "Standard Ligatures",
+        "Case-sensitive  Forms",
+        "Subscript",
+        "Superscript",
+        "Lining Figures",
+        "Old-style Figures",
+        "Proportional Figures",
+        "Tabular Figures",
+        "Fractions"
+      ],
+      "cedars": {
+        "cedarsFill": "solid"
+      },
+      "price": 230,
+      "fromPrice": 32,
+      "onPromotion": true,
+      "hasDemoFonts": false,
+      "hasFreeFonts": false,
+      "enabled": false,
+      "api_source": "https://ikgq6me4n0p3u2bvp-1.a1.typesense.net/collections/prod_FONTS/documents/search"
+    },
+    "release_id": "8c613a844c98762c"
+  },
+  {
+    "source_id": "ilt",
+    "source_name": "I Love Typography",
+    "source_url": "https://fonts.ilovetypography.com/fonts/dezcom/dez-alt-occult",
+    "name": "Dez Alt Occult",
+    "styles": [
+      "Regular"
+    ],
+    "authors": [
+      "Dezcom",
+      "Chris Lozos"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-09-07",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-08T11:32:06.867666+00:00",
+    "raw": {
+      "release_identity": "ilt:1763390",
+      "typesense_id": "1763390",
+      "slug": "dez-alt-occult",
+      "foundry": "Dezcom",
+      "designer": "Chris Lozos",
+      "description": "Bewitching and Spooky, with a tinge of Evil lurking among the glyphs. Dez Alt Occult brings Witchcraft and talk of demons to the fray. Several bonus symbols are included, with skeletal pointing hands to make typographic life a bit more frightening. Smallcaps give an optional presentation.",
+      "categories": [
+        "Serif fonts",
+        "Display & decorative fonts"
+      ],
+      "otfeatures": [
+        "Stylistic Alternates",
+        "Discretionary Ligatures",
+        "Standard Ligatures",
+        "Small Capitals",
+        "Small Capitals from Capitals",
+        "Case-sensitive  Forms",
+        "Subscript",
+        "Superscript",
+        "Proportional Figures",
+        "Tabular Figures",
+        "Slashed Zero",
+        "Fractions"
+      ],
+      "cedars": {
+        "cedarsFill": "solid"
+      },
+      "price": 15,
+      "fromPrice": 30,
+      "onPromotion": false,
+      "hasDemoFonts": false,
+      "hasFreeFonts": false,
+      "enabled": false,
+      "api_source": "https://ikgq6me4n0p3u2bvp-1.a1.typesense.net/collections/prod_FONTS/documents/search"
+    },
+    "release_id": "4902ad3361e324d0"
+  }
+]

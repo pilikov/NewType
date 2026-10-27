@@ -1,0 +1,78 @@
+[
+  {
+    "source_id": "ilt",
+    "source_name": "I Love Typography",
+    "source_url": "https://fonts.ilovetypography.com/fonts/dez-nordekis",
+    "name": "dez Nordekis",
+    "styles": [
+      "Thin",
+      "Thin Italic",
+      "ExtraLight",
+      "ExtraLight Italic",
+      "Light",
+      "Light Italic",
+      "Regular",
+      "Italic",
+      "SemiBold",
+      "SemiBold Italic",
+      "Bold",
+      "Bold Italic",
+      "ExtraBold",
+      "ExtraBold Italic",
+      "Black",
+      "Black Italic"
+    ],
+    "authors": [
+      "Dezcom",
+      "Chris Lozos"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-08-24",
+    "image_url": "https://empty-grouse.transforms.svdcdn.com/production/images/Dez_Nordekis_sweedish_story.png?w=580&auto=compress%2Cformat&fit=min&dm=1787611518&s=a22721bbc082fcbc0765d8d2cc9ad3db",
+    "woff_url": "https://d3qx8f8l5aa3yc.cloudfront.net/webfonts/dezcom/DezNordekis-Regular.woff?v=1787610797",
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-25T07:16:05.284922+00:00",
+    "raw": {
+      "release_identity": "ilt:1760152",
+      "typesense_id": "1760152",
+      "slug": "dez-nordekis",
+      "foundry": "Dezcom",
+      "designer": "Chris Lozos",
+      "description": "Dez Nordekis is suitable for most advertising, Branding, Institutional, Editorial, and Sales Promotional work. With over 750 glyphs, it covers the vast majority of Latin script languages (except Vietnamese). There are eight weights plus italics, smallcaps, and multiple figure styles.",
+      "categories": [
+        "Sans serif fonts",
+        "Display & decorative fonts"
+      ],
+      "otfeatures": [
+        "Stylistic Alternates",
+        "Discretionary Ligatures",
+        "Standard Ligatures",
+        "Small Capitals",
+        "Small Capitals from Capitals",
+        "Case-sensitive  Forms",
+        "Subscript",
+        "Superscript",
+        "Lining Figures",
+        "Old-style Figures",
+        "Proportional Figures",
+        "Tabular Figures",
+        "Fractions"
+      ],
+      "cedars": {
+        "cedarsContrast": "0",
+        "cedarsFill": "solid"
+      },
+      "price": 300,
+      "fromPrice": 30,
+      "onPromotion": false,
+      "hasDemoFonts": false,
+      "hasFreeFonts": false,
+      "enabled": false,
+      "api_source": "https://ikgq6me4n0p3u2bvp-1.a1.typesense.net/collections/prod_FONTS/documents/search"
+    },
+    "release_id": "5b9a685ecab14996"
+  }
+]
