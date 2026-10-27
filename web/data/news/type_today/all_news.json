@@ -698,5 +698,19 @@
       "post_date": "2026-10-23"
     },
     "news_id": "4e105844a4d14699"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Forma DJR in&nbsp;use: De Bijloke",
+    "url": "https://type.today/en/journal/de-bijloke",
+    "published_at": "2026-10-27",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/3/1324/preview_420_preview_image_en-nP6KRKue0tcgOdJEGdW4U2meB_flPzAhIg.png",
+    "discovered_at": "2026-10-27T12:27:28.865978+00:00",
+    "raw": {
+      "slug": "de-bijloke",
+      "post_date": "2026-10-27"
+    },
+    "news_id": "6b3d89d3fd5f1ab0"
   }
 ]
