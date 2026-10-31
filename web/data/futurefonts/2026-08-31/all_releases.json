@@ -1,0 +1,38 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/fredsfonts/empress?v=0.3",
+    "name": "Empress",
+    "styles": [],
+    "authors": [
+      "Freds Fonts"
+    ],
+    "scripts": [
+      "basic-latin",
+      "cyrillic",
+      "extended-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-08-31",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/244/medium_FredsFonts_Banner_03.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/10617/Empress_Specimen_v0.3.pdf",
+    "discovered_at": "2026-08-31T13:40:45.694080+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:23321",
+      "activity_id": 23321,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.3",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 10617,
+      "resolved_typeface_id": 367,
+      "typeface_language": "basic-latin,cyrillic,extended-latin"
+    },
+    "release_id": "6f344c0b454754e9"
+  }
+]
