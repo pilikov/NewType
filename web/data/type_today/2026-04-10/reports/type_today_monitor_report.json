@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-04-10T08:07:48.493122+00:00",
+  "source_id": "type_today",
+  "total_releases": 1,
+  "baseline_count": 0,
+  "new_release_count": 1,
+  "removed_release_count": 0,
+  "changed_release_count": 0,
+  "new_release_examples": [
+    {
+      "slug": "",
+      "name": "Algorytm",
+      "source_url": "https://type.today/ru/algorytm",
+      "fingerprint": "5f20af275c52a242cfb1c6e4"
+    }
+  ],
+  "removed_release_examples": [],
+  "changed_release_examples": [],
+  "monitoring_plan": [
+    "Run source=type_today daily and inspect new_release_count/changed_release_count in this report.",
+    "Alert when new_release_count > 0 or changed_release_count > 0.",
+    "Store latest monitor snapshot in state to diff against previous run.",
+    "Use fields[fonts]=slug,title,new_badge,year lightweight probe for frequent checks if needed."
+  ]
+}

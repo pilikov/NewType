@@ -1,0 +1,84 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ultimate-script-bundle-package-1183614",
+    "name": "Ultimate Script Bundle",
+    "styles": [],
+    "authors": [
+      "Fontdroe"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-07-15",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-16T08:26:26.887816+00:00",
+    "raw": {
+      "id": 8485954977962,
+      "handle": "ultimate-script-bundle-package-1183614",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-07-16T04:26:25-04:00",
+      "product_url": "https://www.myfonts.com/products/ultimate-script-bundle-package-1183614",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Ultimate Script Bundle",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "7ef5745aa2b416b5"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/frutti-font-mans-greback/",
+    "name": "Frutti",
+    "styles": [],
+    "authors": [
+      "Mans Greback"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-15",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10238/cGOlrZ3MTGOodk2c0lJ4pUFo_88e1f1740824439d539e86e2ce00d44a.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-16T08:29:29.826140+00:00",
+    "raw": {
+      "id": 8485480595626,
+      "handle": "frutti-complete-family-package-1163963",
+      "tags": [
+        "allcaps",
+        "carefree",
+        "comic",
+        "decorative",
+        "kids",
+        "pim:designerId:2344",
+        "pim:familyId:133628",
+        "pim:foundryId:3066",
+        "pim:skuId:1163963",
+        "playful",
+        "soft",
+        "whimsical",
+        "youthful"
+      ],
+      "updated_at": "2026-07-16T04:28:32-04:00",
+      "product_url": "https://www.myfonts.com/products/frutti-complete-family-package-1163963",
+      "collection_url": "https://www.myfonts.com/collections/frutti-font-mans-greback/",
+      "is_package_product": true,
+      "product_title": "Frutti Complete Family",
+      "collection_name": "Frutti",
+      "myfonts_debut_date": "2026-07-15",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "4b9223ab650e5571"
+  }
+]

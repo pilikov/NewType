@@ -1,0 +1,44 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/autentica-slab-font-sofiamohr/",
+    "name": "Autêntica Slab",
+    "styles": [],
+    "authors": [
+      "Sofia Mohr"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-10-29",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10275/2z0uqxrPAzCBLmwmSJXfcysV_abde389403fc7d539f203590d15d005e.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-11-01T15:05:29.157846+00:00",
+    "raw": {
+      "id": 15415283318954,
+      "handle": "autentica-slab-complete-family-package-1224349",
+      "tags": [
+        "body",
+        "legible",
+        "pim:designerId:3638",
+        "pim:familyId:137455",
+        "pim:foundryId:3394",
+        "pim:skuId:1224349",
+        "serious",
+        "strong"
+      ],
+      "updated_at": "2026-11-01T10:04:27-05:00",
+      "product_url": "https://www.myfonts.com/products/autentica-slab-complete-family-package-1224349",
+      "collection_url": "https://www.myfonts.com/collections/autentica-slab-font-sofiamohr/",
+      "is_package_product": true,
+      "product_title": "Autêntica Slab Complete Family",
+      "collection_name": "Autêntica Slab",
+      "myfonts_debut_date": "2026-10-29",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "a259aa026937bd58"
+  }
+]
