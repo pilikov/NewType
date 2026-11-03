@@ -1,0 +1,272 @@
+[
+  {
+    "source_id": "contemporarytype",
+    "source_name": "Contemporary Type",
+    "source_url": "https://contemporarytype.com/fonts/reiher",
+    "name": "Reiher",
+    "styles": [
+      "Reiher Headline Light",
+      "Reiher Headline Light Italic",
+      "Reiher Headline Regular",
+      "Reiher Headline Italic",
+      "Reiher Headline Bold",
+      "Reiher Headline Bold Italic",
+      "Reiher Headline Black",
+      "Reiher Headline Black Italic",
+      "Reiher Headline Open Regular"
+    ],
+    "authors": [
+      "Retype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-19",
+    "image_url": "https://backend.contemporarytype.com/files/images/artboard-1-copy-4226188.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/ReiherHeadline-Specimen.pdf",
+    "discovered_at": "2026-08-20T07:09:31.255160+00:00",
+    "raw": {
+      "release_identity": "contemporarytype-product:163",
+      "product": {
+        "id": 163,
+        "title": "Reiher",
+        "slug": "reiher",
+        "url": "https://contemporarytype.com/fonts/reiher",
+        "body": "Reiher Headline is a type family inspired by two fonts displayed in the famous Ploos van Amstel specimen, first printed in Amsterdam in 1767.\r\n\r\nRamiro Espinoza’s affinity for Baroque types and his desire to study their characteristics in detail were the driving forces behind this new type family. As is typical of his revivals, Reiher Headline does not faithfully follow the forms of historical sources. Espinoza made numerous updates and modifications to the design so that it would better suit the tastes and requirements of contemporary type users.\r\n\r\nThe Reiher Headline romans were based on the handsome N° 1 Groote Paragon Romein, a rather condensed typeface whose punchcutter has not yet been identified. These types are almost certainly of German origin, having appeared in such seventeenth-century books as Scrutinium chimicum vitrioli [Jena, 1666] and in the 1671 specimen produced by the Anton Janson foundry in Leipzig.\r\n\r\nReiher Headline’s italics were based on the Aszendonica attributed to Nicholas Kis that can be found in the Ploos van Amstel specimen, as well as in numerous books and catalogues printed in the Netherlands in the seventeenth century.\r\n\r\nSeveral of the ornaments included in the Reiher types have been ascribed to J.F. Rosart, and were used extensively throughout Europe and the Americas during the seventeenth and eighteenth centuries. Espinoza further expanded the possibilities of his new family with Reiher Headline Open, a decorative inline version of Reiher Headline Bold.\r\n\r\nReiher Headline was designed with magazine and newspapers in mind. These typefaces display a marked contrast and a crisp presence both in print and on screen, making the family an ideal choice for robust titles, pull quotes, and introductory texts.\r\n\r\nThe Reiher Headline suite of feature-rich OpenType fonts is fully equipped to tackle complex, professional typography. Its extensive character set includes small caps, fractions, alternate characters, case-sensitive forms, five sets of numerals, and plentiful ornaments and fleurons. In addition to standard Latin, Reiher Headline supports Central European, Baltic, and Turkish languages.",
+        "seo_title": "Reiher ● Baroque Serif Font Family ● Download Free Trials",
+        "seo_description": "Reiher is a modern serif font family inspired by Baroque typefaces. Elegant and sophisticated, Reiher is a perfect font for professional typography, including headlines, editorial design, magazines, books, covers, websites and brand identities.",
+        "download_pdf": "https://backend.contemporarytype.com/files/products/ReiherHeadline-Specimen.pdf",
+        "free_trials": "https://backend.contemporarytype.com/files/products/Reiher-TRIAL-1.zip",
+        "end_user_license": "https://backend.contemporarytype.com/files/products/Retype-ContemporaryType-EULA-1.pdf",
+        "font_size_sum": 0,
+        "group": [
+          "serif"
+        ],
+        "tone": [
+          "formal"
+        ],
+        "use_size": [
+          "large",
+          "medium"
+        ],
+        "width": [
+          "normal"
+        ],
+        "weight": [
+          "light",
+          "regular",
+          "medium",
+          "bold"
+        ],
+        "contrast": [
+          "high"
+        ],
+        "other": [
+          "italic"
+        ],
+        "languages": [],
+        "ot_features": [
+          "aalt",
+          "c2sc",
+          "case",
+          "ccmp",
+          "dlig",
+          "frac",
+          "liga",
+          "lnum",
+          "locl",
+          "onum",
+          "ordn",
+          "pnum",
+          "smcp",
+          "tnum",
+          "dnom",
+          "numr",
+          "salt",
+          "sinf",
+          "ss01",
+          "subs",
+          "sups"
+        ],
+        "approved": true,
+        "approved_date": "2026-08-19",
+        "purchasable": true,
+        "hasWoff": true,
+        "created": "2026-05-09 22:26:24",
+        "customizer_active": false
+      },
+      "brand": {
+        "id": 97,
+        "title": "Retype",
+        "slug": "retype",
+        "body": "Retype Foundry is a two-person independent digital type foundry based in The Hague. Ramiro Espinoza, who founded the company in 2007, manages it in close collaboration with his partner, editorial designer Paula Mastrangelo. Retype’s catalogue reflects the pair’s interest in editorial design and a keen familiarity with Dutch type history.\r\n\r\nDiscerning design studios and art directors looking for solid, modern-looking type families will find in Retype a well-crafted and diverse selection of typefaces, many of which have won design awards. The foundry’s work meets even the most exacting requirements for aesthetics, legibility, and originality.\r\n\r\nCompanies in need of a unique visual identity can also turn to Retype for custom typeface design, as well as the fine-tuning of existing fonts, pieces of lettering, and logos.\r\n\r\nContact: [email](espinozaramiro@gmail.com)\r\n\r\nInstagram: [@retypefoundry](https://www.instagram.com/retypefoundry)",
+        "buyable": true,
+        "approved": true,
+        "currency": "USD"
+      },
+      "supported_languages": [],
+      "language_source": "none",
+      "variant_count": 9,
+      "license_count": 2,
+      "detail_enrichment": {
+        "used": true,
+        "ok": true
+      },
+      "api_source": "https://backend.contemporarytype.com/api_front/products"
+    },
+    "release_id": "5b49ad89bb1b3204"
+  },
+  {
+    "source_id": "contemporarytype",
+    "source_name": "Contemporary Type",
+    "source_url": "https://contemporarytype.com/fonts/guyot",
+    "name": "Guyot",
+    "styles": [
+      "Guyot Headline Light",
+      "Guyot Headline Light Italic",
+      "Guyot Headline Regular",
+      "Guyot Headline Italic",
+      "Guyot Headline SemiBold",
+      "Guyot Headline SemiBold Italic",
+      "Guyot Headline Bold",
+      "Guyot Headline Bold Italic",
+      "Guyot Headline ExtraBold",
+      "Guyot Headline ExtraBold Italic",
+      "Guyot Headline Black",
+      "Guyot Headline Black Italic",
+      "Guyot Text Regular",
+      "Guyot Text Italic",
+      "Guyot Text SemiBold",
+      "Guyot Text SemiBold Italic",
+      "Guyot Text Bold",
+      "Guyot Text Bold Italic",
+      "Guyot Text ExtraBold",
+      "Guyot Text ExtraBold Italic",
+      "Guyot Press Regular 1",
+      "Guyot Press Regular 2",
+      "Guyot Press Regular 3",
+      "Guyot Press Italic 1",
+      "Guyot Press Italic 2",
+      "Guyot Press Italic 3",
+      "Guyot Press Bold 1",
+      "Guyot Press Bold 2",
+      "Guyot Press Bold 3",
+      "Guyot Press Bold Italic 1",
+      "Guyot Press Bold Italic 2",
+      "Guyot Press Bold Italic 3",
+      "Guyot Press ExtraBold 1",
+      "Guyot Press ExtraBold 2",
+      "Guyot Press ExtraBold 3",
+      "Guyot Press ExtraBold Italic 1",
+      "Guyot Press ExtraBold Italic 2",
+      "Guyot Press ExtraBold Italic 3"
+    ],
+    "authors": [
+      "Retype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-19",
+    "image_url": "https://backend.contemporarytype.com/files/images/357693.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Guyot-Specimen.pdf",
+    "discovered_at": "2026-08-20T07:09:31.457716+00:00",
+    "raw": {
+      "release_identity": "contemporarytype-product:162",
+      "product": {
+        "id": 162,
+        "title": "Guyot",
+        "slug": "guyot",
+        "url": "https://contemporarytype.com/fonts/guyot",
+        "body": "Guyot is a type family inspired by the work of the punchcutter François Guyot, who lived and worked in Antwerp during the sixteenth century. Ramiro Espinoza got acquainted with the work of Guyot while attending the Expert Class in Type Design at Antwerp’s Plantin Institute for Typography. Researching French and Flemish punchcutters, Espinoza soon realized that the work of the most important masters of the period had already been digitized. However, he found the work of lesser-known punchcutters like Guyot, though perhaps not of the same superior quality as the others, equally compelling. And so a digital Guyot seemed in order.\r\nEspinoza decided early on that his Guyot was not going to be a facsimile typeface, but rather a modern interpretation aimed at the editorial market. He selected the most interesting elements from the Gros Canon and Ascendonica sizes and assembled them into a consistent family of contemporary detailing. \r\nDuring his year at the Plantin Institute for Typography, Espinoza researched several more punchcutters from the seventeenth century. Details common to the types of that period—like an increased contrast and an enlarged terminal in the a—were applied to Guyot to give its look a more familiar and universal appeal. The Guyot family was eventually divided into three subfamilies: Headline, Text and Press to take full advantage of the possibilities of these optical ranges. \r\n\r\nIn 2018 Guyot was awarded by the Type Directors Club with a ‘Certificate of Typographic Excellence’.",
+        "seo_title": "Guyot ● Serif Font Family ● Download Free Trials",
+        "seo_description": "Guyot is a sophisticated modern serif typeface rooted in the 16th century. Headline, Press and Text optical sizes make Guyot a perfect font for big and small sizes: body copy, long paragraphs, headlines, editorial, magazines, websites & branding.",
+        "download_pdf": "https://backend.contemporarytype.com/files/products/Guyot-Specimen.pdf",
+        "free_trials": "https://backend.contemporarytype.com/files/products/Guyot-TRIAL.zip",
+        "end_user_license": "https://backend.contemporarytype.com/files/products/Retype-ContemporaryType-EULA.pdf",
+        "font_size_sum": 0,
+        "group": [
+          "serif"
+        ],
+        "tone": [
+          "formal"
+        ],
+        "use_size": [
+          "large",
+          "medium",
+          "small"
+        ],
+        "width": [
+          "normal"
+        ],
+        "weight": [
+          "light",
+          "regular",
+          "medium",
+          "bold"
+        ],
+        "contrast": [
+          "medium"
+        ],
+        "other": [
+          "italic"
+        ],
+        "languages": [],
+        "ot_features": [
+          "aalt",
+          "c2sc",
+          "calt",
+          "case",
+          "dlig",
+          "dnom",
+          "frac",
+          "liga",
+          "lnum",
+          "locl",
+          "numr",
+          "onum",
+          "ordn",
+          "pnum",
+          "salt",
+          "sinf",
+          "smcp",
+          "ss01",
+          "ss02",
+          "ss03",
+          "ss04",
+          "subs",
+          "sups",
+          "swsh",
+          "tnum",
+          "ss05",
+          "ss06"
+        ],
+        "approved": true,
+        "approved_date": "2026-08-19",
+        "purchasable": true,
+        "hasWoff": true,
+        "created": "2026-05-08 10:03:12",
+        "customizer_active": false
+      },
+      "brand": {
+        "id": 97,
+        "title": "Retype",
+        "slug": "retype",
+        "body": "Retype Foundry is a two-person independent digital type foundry based in The Hague. Ramiro Espinoza, who founded the company in 2007, manages it in close collaboration with his partner, editorial designer Paula Mastrangelo. Retype’s catalogue reflects the pair’s interest in editorial design and a keen familiarity with Dutch type history.\r\n\r\nDiscerning design studios and art directors looking for solid, modern-looking type families will find in Retype a well-crafted and diverse selection of typefaces, many of which have won design awards. The foundry’s work meets even the most exacting requirements for aesthetics, legibility, and originality.\r\n\r\nCompanies in need of a unique visual identity can also turn to Retype for custom typeface design, as well as the fine-tuning of existing fonts, pieces of lettering, and logos.\r\n\r\nContact: [email](espinozaramiro@gmail.com)\r\n\r\nInstagram: [@retypefoundry](https://www.instagram.com/retypefoundry)",
+        "buyable": true,
+        "approved": true,
+        "currency": "USD"
+      },
+      "supported_languages": [],
+      "language_source": "none",
+      "variant_count": 38,
+      "license_count": 2,
+      "detail_enrichment": {
+        "used": true,
+        "ok": true
+      },
+      "api_source": "https://backend.contemporarytype.com/api_front/products"
+    },
+    "release_id": "4301be4b8cce2ce9"
+  }
+]
