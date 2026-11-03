@@ -1,0 +1,83 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/dream-type-bundle-package-678547",
+    "name": "Dream Type Bundle",
+    "styles": [],
+    "authors": [
+      "VP Creative Shop"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-07-24",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-25T08:23:52.713776+00:00",
+    "raw": {
+      "id": 7824779641002,
+      "handle": "dream-type-bundle-package-678547",
+      "tags": [
+        "bundle:withImages",
+        "discount_April26_VP-Creative-Shop_2026-03-31_2026-05-15_30_dJwG55t2vvctfsGs6CfdnBVb:1774990806",
+        "special_offer"
+      ],
+      "updated_at": "2026-07-25T04:23:51-04:00",
+      "product_url": "https://www.myfonts.com/products/dream-type-bundle-package-678547",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Dream Type Bundle",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "0f33848d005c9a24"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/yours-truly-font-mans-greback/",
+    "name": "Yours Truly",
+    "styles": [],
+    "authors": [
+      "Mans Greback"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-24",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10238/DbvjeJUEuzaYm1Pqfhm0Sl6a_923e3ea5cedc0f8bbdd933a499e2d5d4.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-25T08:23:53.949550+00:00",
+    "raw": {
+      "id": 8501797355690,
+      "handle": "yours-truly-complete-family-package-1163992",
+      "tags": [
+        "decorative",
+        "formal",
+        "handwriting",
+        "luxury",
+        "pim:designerId:2344",
+        "pim:familyId:133634",
+        "pim:foundryId:3066",
+        "pim:skuId:1163992",
+        "romantic",
+        "sleek"
+      ],
+      "updated_at": "2026-07-25T04:23:51-04:00",
+      "product_url": "https://www.myfonts.com/products/yours-truly-complete-family-package-1163992",
+      "collection_url": "https://www.myfonts.com/collections/yours-truly-font-mans-greback/",
+      "is_package_product": true,
+      "product_title": "Yours Truly Complete Family",
+      "collection_name": "Yours Truly",
+      "myfonts_debut_date": "2026-07-24",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "a5c004b65e373e49"
+  }
+]
