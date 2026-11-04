@@ -1,0 +1,138 @@
+[
+  {
+    "source_id": "contemporarytype",
+    "source_name": "Contemporary Type",
+    "source_url": "https://contemporarytype.com/fonts/optic",
+    "name": "Optic",
+    "styles": [
+      "Optic Regular",
+      "Optic Italic",
+      "Optic Medium",
+      "Optic Medium Italic",
+      "Optic Semibold",
+      "Optic Semibold Italic",
+      "Optic Bold",
+      "Optic Bold Italic",
+      "Optic Black",
+      "Optic Black Italic",
+      "Optic Narrow",
+      "Optic Narrow Italic",
+      "Optic Narrow Medium",
+      "Optic Narrow Medium Italic",
+      "Optic Narrow Semibold",
+      "Optic Narrow Semibold Italic",
+      "Optic Narrow Bold",
+      "Optic Narrow Bold Italic",
+      "Optic Narrow Black",
+      "Optic Narrow Black Italic",
+      "Optic Wide",
+      "Optic Wide Italic",
+      "Optic Wide Medium",
+      "Optic Wide Medium Italic",
+      "Optic Wide Semibold",
+      "Optic Wide Semibold Italic",
+      "Optic Wide Bold",
+      "Optic Wide Bold Italic",
+      "Optic Wide Black",
+      "Optic Wide Black Italic",
+      "Optic VF"
+    ],
+    "authors": [
+      "Love Letters"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-04-15",
+    "image_url": "https://backend.contemporarytype.com/files/images/tiles-optic-1080x1350845952.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/Optic-Specimen-1.pdf",
+    "discovered_at": "2026-04-16T08:09:32.213921+00:00",
+    "raw": {
+      "release_identity": "contemporarytype-product:136",
+      "product": {
+        "id": 136,
+        "title": "Optic",
+        "slug": "optic",
+        "url": "https://contemporarytype.com/fonts/optic",
+        "body": "Tough on the inside and soft on the outside, Optic is a bold but light-hearted design. The letters look as if they were carved in blocks of rock, giving them a natural and raw aesthetic. The strokes of the letters are slightly uneven, which adds to the charm of the design. Optic would work well for a variety of projects, including advertising, packaging, and branding. Its playful yet sturdy design would also make it a great choice for children's books or educational materials. Overall, Optic is a versatile and eye-catching typeface that adds personality to any project.",
+        "seo_title": "Optic ● Bold & Soft Sans-Serif ● Download Free Trial Fonts",
+        "seo_description": "Optic is a rounded variable typeface with a fun, light-hearted, raw aesthetic. Tough yet soft, the font family is good choice when your design needs kindness & warmth: for food branding, children’s books, pet care websites, logos, packaging and alike",
+        "download_pdf": "https://backend.contemporarytype.com/files/products/Optic-Specimen-1.pdf",
+        "free_trials": "https://backend.contemporarytype.com/files/products/Optic Trial.zip",
+        "end_user_license": "https://backend.contemporarytype.com/files/products/Love-Letters-EULA.pdf",
+        "font_size_sum": 0,
+        "group": [
+          "sans-serif"
+        ],
+        "tone": [
+          "casual",
+          "weird"
+        ],
+        "use_size": [
+          "large",
+          "medium",
+          "small"
+        ],
+        "width": [
+          "narrow",
+          "normal",
+          "wide"
+        ],
+        "weight": [
+          "light",
+          "regular",
+          "medium",
+          "bold"
+        ],
+        "contrast": [
+          "low"
+        ],
+        "other": [
+          "variable",
+          "rounded"
+        ],
+        "languages": [
+          "latin"
+        ],
+        "ot_features": [
+          "aalt",
+          "case",
+          "ccmp",
+          "locl",
+          "ss01",
+          "rlig",
+          "frac",
+          "liga",
+          "ordn",
+          "sups"
+        ],
+        "approved": true,
+        "approved_date": "2026-04-15",
+        "hasWoff": true,
+        "created": "2025-11-12 14:48:43"
+      },
+      "brand": {
+        "id": 86,
+        "title": "Love Letters",
+        "slug": "love-letters",
+        "body": "Love Letters is Sébastien Sanfilippo’s type foundry.\r\n\r\nInstagram: [@sebastien_sanfilippo](https://www.instagram.com/sebastien_sanfilippo)\r\n\r\nContact: [email](info@loveletters.be)",
+        "buyable": true,
+        "approved": true
+      },
+      "supported_languages": [
+        "latin"
+      ],
+      "language_source": "product.languages",
+      "variant_count": 31,
+      "license_count": 1,
+      "detail_enrichment": {
+        "used": true,
+        "ok": true
+      },
+      "api_source": "https://backend.contemporarytype.com/api_front/products"
+    },
+    "release_id": "7ad1c329461c42f9"
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/family-font-bundle-package-1214723",
+    "name": "Family Font Bundle",
+    "styles": [],
+    "authors": [
+      "Propertype"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-02",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-03T11:04:23.326002+00:00",
+    "raw": {
+      "id": 8612348985514,
+      "handle": "family-font-bundle-package-1214723",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-09-03T07:04:02-04:00",
+      "product_url": "https://www.myfonts.com/products/family-font-bundle-package-1214723",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Family Font Bundle",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "904df23609ceb065"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/te-mary2-font-tharwat-emara/",
+    "name": "TE Mary2",
+    "styles": [],
+    "authors": [
+      "Tharwat Emara"
+    ],
+    "scripts": [
+      "Latin",
+      "Arabic"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-09-02",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10270/VnvqBgGXfRoWN26rA5HPoxkT_58453a0e12f32effea04ae067efe0b73.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-03T11:05:44.682484+00:00",
+    "raw": {
+      "id": 8612189667498,
+      "handle": "tharwatemara-regular-te-mary2-1214707",
+      "tags": [
+        "decorative",
+        "discount_Mary2-Arabic-latiny_Tharwat-Emara_2026-09-02_2026-10-02_20_GBDqk979VaXkq5cTfOWqtDT3:1788382803",
+        "pim:designerId:3228",
+        "pim:familyId:136874",
+        "pim:foundryId:2416",
+        "pim:skuId:1214707",
+        "special_offer"
+      ],
+      "updated_at": "2026-09-03T07:04:02-04:00",
+      "product_url": "https://www.myfonts.com/products/tharwatemara-regular-te-mary2-1214707",
+      "collection_url": "https://www.myfonts.com/collections/te-mary2-font-tharwat-emara/",
+      "is_package_product": false,
+      "product_title": "TE Mary2",
+      "collection_name": "TE Mary2",
+      "myfonts_debut_date": "2026-09-02",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "33d1b08070c1bdba"
+  }
+]
