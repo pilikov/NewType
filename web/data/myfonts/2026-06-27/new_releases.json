@@ -1,0 +1,122 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/rabiola-ganesh-font-black-junst",
+    "name": "Rabiola Ganesh Complete Family",
+    "styles": [],
+    "authors": [
+      "Black Junst"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-06-24",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-24T09:47:07.354637+00:00",
+    "raw": {
+      "id": 8467191136426,
+      "handle": "rabiola-ganesh-complete-family-package-1173551",
+      "tags": [
+        "pim:designerId:4953",
+        "pim:familyId:134413",
+        "pim:foundryId:7135",
+        "pim:skuId:1173551"
+      ],
+      "updated_at": "2026-06-24T05:46:11-04:00",
+      "product_url": "https://www.myfonts.com/products/rabiola-ganesh-complete-family-package-1173551",
+      "collection_url": "https://www.myfonts.com/collections/rabiola-ganesh-font-black-junst",
+      "is_package_product": true,
+      "product_title": "Rabiola Ganesh Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "524be2f83e6f32c5"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/muchino-font-luminatype-studio",
+    "name": "Muchino Complete Family",
+    "styles": [],
+    "authors": [
+      "Luminatype Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-06-24",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-24T09:47:54.427589+00:00",
+    "raw": {
+      "id": 8467168886954,
+      "handle": "muchino-complete-family-package-1172516",
+      "tags": [
+        "legible",
+        "pim:designerId:7918",
+        "pim:familyId:134293",
+        "pim:foundryId:6638",
+        "pim:skuId:1172516"
+      ],
+      "updated_at": "2026-06-24T05:47:38-04:00",
+      "product_url": "https://www.myfonts.com/products/muchino-complete-family-package-1172516",
+      "collection_url": "https://www.myfonts.com/collections/muchino-font-luminatype-studio",
+      "is_package_product": true,
+      "product_title": "Muchino Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "5f468d9f43f071c6"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/sitting-duck-pro-font-hanoded",
+    "name": "Sitting Duck Pro Complete Family",
+    "styles": [],
+    "authors": [
+      "Hanoded"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-06-24",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-25T09:37:15.435176+00:00",
+    "raw": {
+      "id": 8467325092010,
+      "handle": "sitting-duck-pro-complete-family-package-1172632",
+      "tags": [
+        "comic",
+        "decorative",
+        "kids",
+        "pim:designerId:2407",
+        "pim:familyId:134318",
+        "pim:foundryId:3241",
+        "pim:skuId:1172632",
+        "soft",
+        "youthful"
+      ],
+      "updated_at": "2026-06-25T05:36:47-04:00",
+      "product_url": "https://www.myfonts.com/products/sitting-duck-pro-complete-family-package-1172632",
+      "collection_url": "https://www.myfonts.com/collections/sitting-duck-pro-font-hanoded",
+      "is_package_product": true,
+      "product_title": "Sitting Duck Pro Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "c81ff6cee4688fce"
+  }
+]
