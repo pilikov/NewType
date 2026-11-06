@@ -1,0 +1,73 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/spoke/vieno?v=1.0",
+    "name": "Vieno",
+    "styles": [],
+    "authors": [
+      "Spoke"
+    ],
+    "scripts": [
+      "basic-latin",
+      "extended-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-08-18",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/10/medium_Spoke_header.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/10386/Vieno_specimen.pdf",
+    "discovered_at": "2026-08-19T07:07:37.696461+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:22991",
+      "activity_id": 22991,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "1.0",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 10386,
+      "resolved_typeface_id": 44,
+      "typeface_language": "basic-latin,extended-latin"
+    },
+    "release_id": "b8b9c5bbafa42643"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/james-plattner/motley?v=1.0",
+    "name": "Motley",
+    "styles": [],
+    "authors": [
+      "James Plattner"
+    ],
+    "scripts": [
+      "basic-latin",
+      "extended-latin",
+      "vietnamese"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-08-18",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/328/medium_future_fonts_background-16.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/10188/Motley_Specimen.pdf",
+    "discovered_at": "2026-08-19T07:07:37.902571+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:22958",
+      "activity_id": 22958,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "1.0",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 10188,
+      "resolved_typeface_id": 2662,
+      "typeface_language": "basic-latin,extended-latin,vietnamese"
+    },
+    "release_id": "681f053759de3e8a"
+  }
+]

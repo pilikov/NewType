@@ -1,0 +1,25 @@
+[
+  {
+    "source_id": "fontstand",
+    "source_name": "Fontstand",
+    "source_url": "https://fontstand.com/fonts/cofo-glassier",
+    "name": "CoFo Glassier",
+    "styles": [],
+    "authors": [
+      "Contrast Foundry"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-11-02",
+    "image_url": "https://fontstand.com/assets/Uploads/Foundry/67/Aa/_resampled/ScaleHeightWzIwMF0/CoFo-Glassier-Regular-Aa-43882de6144a1cd47596fba580c998d1.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-11-03T14:33:14.307478+00:00",
+    "raw": {
+      "release_identity": "fontstand:cofo-glassier",
+      "link": "fonts/cofo-glassier",
+      "incremental": true
+    },
+    "release_id": "9fd9a55a6bc41256"
+  }
+]

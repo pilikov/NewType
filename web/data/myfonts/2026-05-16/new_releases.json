@@ -1,0 +1,77 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/aukim-ii-shape-font-aukimvisuel",
+    "name": "Aukim II Shape Complete Family",
+    "styles": [],
+    "authors": [
+      "AukimVisuel"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-05-06",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-07T08:46:14.246459+00:00",
+    "raw": {
+      "id": 8434151358634,
+      "handle": "aukim-ii-shape-complete-family-package-1146810",
+      "tags": [
+        "pim:designerId:6310",
+        "pim:familyId:132369",
+        "pim:foundryId:4366",
+        "pim:skuId:1146810"
+      ],
+      "updated_at": "2026-05-07T04:45:53-04:00",
+      "product_url": "https://www.myfonts.com/products/aukim-ii-shape-complete-family-package-1146810",
+      "collection_url": "https://www.myfonts.com/collections/aukim-ii-shape-font-aukimvisuel",
+      "is_package_product": true,
+      "product_title": "Aukim II Shape Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "d36b45d77d834c33"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/regular-handset-sans-hebrew-1154321",
+    "name": "Handset Sans Hebrew Regular",
+    "styles": [],
+    "authors": [
+      "OEM Monotype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-05-15",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-16T08:14:42.053731+00:00",
+    "raw": {
+      "id": 8438861725866,
+      "handle": "regular-handset-sans-hebrew-1154321",
+      "tags": [
+        "pim:familyId:78500",
+        "pim:foundryId:3019",
+        "pim:skuId:1154321"
+      ],
+      "updated_at": "2026-05-16T04:14:38-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-handset-sans-hebrew-1154321",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Handset Sans Hebrew Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "69af469f30c465f0"
+  }
+]
