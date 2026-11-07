@@ -1,0 +1,131 @@
+[
+  {
+    "source_id": "ilt",
+    "source_name": "I Love Typography",
+    "source_url": "https://fonts.ilovetypography.com/fonts/identity-letters/mainboard-mono",
+    "name": "Mainboard Mono",
+    "styles": [
+      "Extralight",
+      "Light",
+      "Regular",
+      "Medium",
+      "Semibold",
+      "Bold",
+      "Extrabold"
+    ],
+    "authors": [
+      "Identity Letters",
+      "Moritz Kleinsorge"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-06-22",
+    "image_url": "https://empty-grouse.transforms.svdcdn.com/production/images/MainboardMono1.jpg?w=580&auto=compress%2Cformat&fit=min&dm=1782121285&s=bee90a27c13c09b2e7d3ffd8cbe96dfd",
+    "woff_url": "https://d3qx8f8l5aa3yc.cloudfront.net/webfonts/identity-letters/MainboardMono-Regular.woff?v=1782113907",
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-22T12:46:24.108088+00:00",
+    "raw": {
+      "release_identity": "ilt:1752611",
+      "typesense_id": "1752611",
+      "slug": "mainboard-mono",
+      "foundry": "Identity Letters",
+      "designer": "Moritz Kleinsorge",
+      "description": "They’re worlds apart—or so it seems. But sports and computing have one thing in common: the constant pursuit of speed and progress. The Mainboard superfamily is our approach to expressing these ambitions typographically. Mainboard Mono has been developed from a sleek, spurless sans with on-screen usage in mind. Generous apertures and rectangular dots ensure easy legibility in all resolutions. The family of 7 weights comes with 500+ glyphs. You can fine-tune it by toggling various stylistic sets and figure sets. Pair it with its proportional sibling, Mainboard: this winning combination might just give you the edge over those runner-ups breathing down your neck while you’re coding the future.",
+      "categories": [
+        "Sans serif fonts"
+      ],
+      "otfeatures": [
+        "Case-sensitive  Forms",
+        "Subscript",
+        "Superscript",
+        "Slashed Zero",
+        "Fractions"
+      ],
+      "cedars": {
+        "cedarsFill": "solid"
+      },
+      "price": 109,
+      "fromPrice": 39,
+      "onPromotion": false,
+      "hasDemoFonts": false,
+      "hasFreeFonts": false,
+      "enabled": false,
+      "api_source": "https://ikgq6me4n0p3u2bvp-1.a1.typesense.net/collections/prod_FONTS/documents/search"
+    },
+    "release_id": "056c9d46bcec78d2"
+  },
+  {
+    "source_id": "ilt",
+    "source_name": "I Love Typography",
+    "source_url": "https://fonts.ilovetypography.com/fonts/identity-letters/mainboard",
+    "name": "Mainboard",
+    "styles": [
+      "Thin",
+      "Thin Italic",
+      "Light",
+      "Light Italic",
+      "Regular",
+      "Regular Italic",
+      "Medium",
+      "SemiBold",
+      "SemiBold Italic",
+      "Medium Italic",
+      "Bold Italic",
+      "Bold",
+      "ExtraBold",
+      "ExtraBold Italic",
+      "Black",
+      "Black Italic"
+    ],
+    "authors": [
+      "Identity Letters",
+      "Moritz Kleinsorge"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-06-22",
+    "image_url": "https://empty-grouse.transforms.svdcdn.com/production/images/Mainboard.jpg?w=580&auto=compress%2Cformat&fit=min&dm=1782121335&s=e07fbd74c2e326a3068bd7be8e1df61e",
+    "woff_url": "https://d3qx8f8l5aa3yc.cloudfront.net/webfonts/identity-letters/Mainboard-Regular.woff?v=1782112614",
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-22T12:46:24.108154+00:00",
+    "raw": {
+      "release_identity": "ilt:1752529",
+      "typesense_id": "1752529",
+      "slug": "mainboard",
+      "foundry": "Identity Letters",
+      "designer": "Moritz Kleinsorge",
+      "description": "They seem to be worlds apart—but sports and computing have one thing in common: the constant pursuit of speed and progress. Mainboard is our approach to expressing this ambition typographically. It’s a sleek sans with pleasant proportions and a distinct spurless appearance. Its humanist skeleton with generous apertures and rectangular details make for easy legibility in all resolutions and sizes. The family of 14 fonts (7 weights plus italics) is equipped with 600+ glyphs and can be fine-tuned with various stylistic sets. Pair it with Mainboard Mono: This winning combination might give you the edge over those runner-ups breathing down your neck while you’re chasing world records.",
+      "categories": [
+        "Sans serif fonts"
+      ],
+      "otfeatures": [
+        "Discretionary Ligatures",
+        "Standard Ligatures",
+        "Case-sensitive  Forms",
+        "Subscript",
+        "Superscript",
+        "Lining Figures",
+        "Old-style Figures",
+        "Proportional Figures",
+        "Tabular Figures",
+        "Slashed Zero",
+        "Fractions"
+      ],
+      "cedars": {
+        "cedarsFill": "solid"
+      },
+      "price": 179,
+      "fromPrice": 39,
+      "onPromotion": false,
+      "hasDemoFonts": false,
+      "hasFreeFonts": false,
+      "enabled": false,
+      "api_source": "https://ikgq6me4n0p3u2bvp-1.a1.typesense.net/collections/prod_FONTS/documents/search"
+    },
+    "release_id": "d2b05b8ee26ac574"
+  }
+]

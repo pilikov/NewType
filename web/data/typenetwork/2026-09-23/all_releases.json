@@ -1,0 +1,49 @@
+[
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/identityletters/fonts/novaform",
+    "name": "Novaform",
+    "styles": [],
+    "authors": [
+      "Identity Letters"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-09-22",
+    "image_url": "https://www.identity-letters.com/_next/image?url=https%3A%2F%2Fcdn.fontdue.com%2Fidentity-letters%2Fimages%2F2342865906561986116%2FNovaform-Visuals-1.jpg%3Fv%3D63953478581&w=3840&q=75",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-23T11:43:50.151313+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5697",
+      "family_id": 5697,
+      "family_slug": "novaform",
+      "catalog_url": "/foundry/identityletters/fonts/novaform",
+      "released": "2026-09-22T00:17:58.078077Z",
+      "uploaded": "2026-09-22T00:17:58.078086Z",
+      "foundry_ids": [
+        128
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": true,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Identity Letters",
+        "foundry_site_url": "https://www.identity-letters.com/",
+        "image_page_url": "https://www.identity-letters.com/font-catalog/novaform"
+      }
+    },
+    "release_id": "21011f3baf8ed2ca"
+  }
+]
