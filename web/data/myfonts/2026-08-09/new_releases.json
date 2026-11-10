@@ -1,0 +1,124 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/unique-sans-and-serif-bundle-collection-package-911859",
+    "name": "Unique Sans And Serif Bundle Collection",
+    "styles": [],
+    "authors": [
+      "Skinny Type"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-08-08",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-09T07:07:39.971155+00:00",
+    "raw": {
+      "id": 7932528591018,
+      "handle": "unique-sans-and-serif-bundle-collection-package-911859",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-08-09T03:07:37-04:00",
+      "product_url": "https://www.myfonts.com/products/unique-sans-and-serif-bundle-collection-package-911859",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Unique Sans And Serif Bundle Collection",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "b9a93cb96075b6f4"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/neuvor-extended-font-steptype/",
+    "name": "Neuvor Extended",
+    "styles": [],
+    "authors": [
+      "Steptype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-08",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10259/GzOB2xFpJ7jxYDwXCR6lsTxs_3e6e780492c22e59d0d17e9ff982b09e.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-09T07:09:07.336767+00:00",
+    "raw": {
+      "id": 8593005478058,
+      "handle": "neuvor-extended-complete-family-package-1195076",
+      "tags": [
+        "pim:designerId:8920",
+        "pim:familyId:135902",
+        "pim:foundryId:6937",
+        "pim:skuId:1195076"
+      ],
+      "updated_at": "2026-08-09T03:07:37-04:00",
+      "product_url": "https://www.myfonts.com/products/neuvor-extended-complete-family-package-1195076",
+      "collection_url": "https://www.myfonts.com/collections/neuvor-extended-font-steptype/",
+      "is_package_product": true,
+      "product_title": "Neuvor Extended Complete Family",
+      "collection_name": "Neuvor Extended",
+      "myfonts_debut_date": "2026-08-08",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "34712ed3627cab89"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/rastary-font-syafbe/",
+    "name": "Rastary",
+    "styles": [],
+    "authors": [
+      "Syafbe"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-08",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10259/6KgXpRraMsxkDfg9tehaORAq_96a68db1057a7ac5ca3116193e069cb7.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-09T07:09:49.196438+00:00",
+    "raw": {
+      "id": 8592999186602,
+      "handle": "regular-rastary-1195179",
+      "tags": [
+        "brush",
+        "carefree",
+        "decorative",
+        "friendly",
+        "handwriting",
+        "holiday",
+        "pim:designerId:7022",
+        "pim:familyId:135933",
+        "pim:foundryId:5061",
+        "pim:skuId:1195179",
+        "playful",
+        "romantic",
+        "serene",
+        "whimsical",
+        "youthful"
+      ],
+      "updated_at": "2026-08-09T03:09:47-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-rastary-1195179",
+      "collection_url": "https://www.myfonts.com/collections/rastary-font-syafbe/",
+      "is_package_product": false,
+      "product_title": "Rastary",
+      "collection_name": "Rastary",
+      "myfonts_debut_date": "2026-08-08",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "a8eea3713577c304"
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "source_id": "contemporarytype",
+    "source_name": "Contemporary Type",
+    "source_url": "https://contemporarytype.com/fonts/se-micro",
+    "name": "Se Micro",
+    "styles": [
+      "Se Micro Condensed Hairline",
+      "Se Micro Condensed Hairline Italic",
+      "Se Micro Condensed Thin",
+      "Se Micro Condensed Thin Italic",
+      "Se Micro Condensed ExtraLight",
+      "Se Micro Condensed ExtraLight Italic",
+      "Se Micro Condensed Light",
+      "Se Micro Condensed Light Italic",
+      "Se Micro Condensed Regular",
+      "Se Micro Condensed Italic",
+      "Se Micro Condensed Medium",
+      "Se Micro Condensed Medium Italic",
+      "Se Micro Condensed Bold",
+      "Se Micro Condensed Bold Italic",
+      "Se Micro Condensed ExtraBold",
+      "Se Micro Condensed ExtraBold Italic",
+      "Se Micro Condensed Black",
+      "Se Micro Condensed Black Italic",
+      "Se Micro Condensed Ultra",
+      "Se Micro Condensed Ultra Italic",
+      "Se Micro Hairline",
+      "Se Micro Hairline Italic",
+      "Se Micro Thin",
+      "Se Micro Thin Italic",
+      "Se Micro ExtraLight",
+      "Se Micro ExtraLight Italic",
+      "Se Micro Light",
+      "Se Micro Light Italic",
+      "Se Micro Regular",
+      "Se Micro Italic",
+      "Se Micro Medium",
+      "Se Micro Medium Italic",
+      "Se Micro Bold",
+      "Se Micro Bold Italic",
+      "Se Micro ExtraBold",
+      "Se Micro ExtraBold Italic",
+      "Se Micro Black",
+      "Se Micro Black Italic",
+      "Se Micro Ultra",
+      "Se Micro Ultra Italic",
+      "Se Micro Wide Hairline",
+      "Se Micro Wide Hairline Italic",
+      "Se Micro Wide Thin",
+      "Se Micro Wide Thin Italic",
+      "Se Micro Wide ExtraLight",
+      "Se Micro Wide ExtraLight Italic",
+      "Se Micro Wide Light",
+      "Se Micro Wide Light Italic",
+      "Se Micro Wide Regular",
+      "Se Micro Wide Italic",
+      "Se Micro Wide Medium",
+      "Se Micro Wide Medium Italic",
+      "Se Micro Wide Bold",
+      "Se Micro Wide Bold Italic",
+      "Se Micro Wide ExtraBold",
+      "Se Micro Wide ExtraBold Italic",
+      "Se Micro Wide Black",
+      "Se Micro Wide Black Italic",
+      "Se Micro Wide Ultra",
+      "Se Micro Wide Ultra Italic",
+      "Se Micro Variable",
+      "Se Micro Italic Variable"
+    ],
+    "authors": [
+      "Gallery Type"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-09-04",
+    "image_url": "https://backend.contemporarytype.com/files/images/glry-promo-semicro-260827-1541754.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/GalleryType_SeMicro_Specimen-1.pdf",
+    "discovered_at": "2026-09-05T10:45:23.720574+00:00",
+    "raw": {
+      "release_identity": "contemporarytype-product:185",
+      "product": {
+        "id": 185,
+        "title": "Se Micro",
+        "slug": "se-micro",
+        "url": "https://contemporarytype.com/fonts/se-micro",
+        "body": "Se Micro is the microtypographic counterpart to its sibling, [Se Macro](https://contemporarytype.com/fonts/se-macro) – refined for clarity at small sizes. Both blend functional versatility for use in flexible design systems with architectural precision and understated elegance. While Se Micro follows the same skeleton as Se Macro, its differences become more pronounced in the heavier weights. Se Micro’s open apertures and deep inktraps are optimized for performance in challenging conditions. When used at display sizes, these features shift from purely functional to aesthetically distinctive, giving it a strong and idiosyncratic character.\r\n\r\nDesigned for the visual language of contemporary brands, fashion labels, cultural platforms, and design-driven products, Se Micro offers more than function – it offers identity. It’s a tool for designers who demand both structural integrity and stylistic impact. Spanning an impressive 10 weights and 3 widths, Se Micro is part of Gallery Type’s Se Collection, launched with Se Macro and to be joined by Se Mono and Se Rounded – to be released between 2026 and 2027.\r\n\r\nRelated typeface: [Se Macro](https://contemporarytype.com/fonts/se-macro)",
+        "seo_title": "Se Micro font family ● Microtypographic elegance and bold appearance in big sizes ● Download free trial fonts",
+        "seo_description": "Se Micro font blend functional versatility with architectural precision and understated elegance. Designed for the visual language of modern brands, fashion labels, cultural platforms, design-driven products and more.",
+        "download_pdf": "https://backend.contemporarytype.com/files/products/GalleryType_SeMicro_Specimen-1.pdf",
+        "free_trials": "https://backend.contemporarytype.com/files/products/SeMicro-TRIAL.zip",
+        "end_user_license": "https://backend.contemporarytype.com/files/products/GalleryType_EULA-4.pdf",
+        "font_size_sum": 0,
+        "group": [
+          "sans-serif"
+        ],
+        "tone": [
+          "formal",
+          "casual"
+        ],
+        "use_size": [
+          "large",
+          "medium",
+          "small"
+        ],
+        "width": [
+          "narrow",
+          "normal",
+          "wide"
+        ],
+        "weight": [
+          "light",
+          "regular",
+          "medium",
+          "bold"
+        ],
+        "contrast": [
+          "medium"
+        ],
+        "other": [
+          "variable",
+          "italic"
+        ],
+        "languages": [
+          "latin"
+        ],
+        "ot_features": [
+          "aalt",
+          "case",
+          "ccmp",
+          "dnom",
+          "frac",
+          "liga",
+          "lnum",
+          "locl",
+          "numr",
+          "onum",
+          "ordn",
+          "pnum",
+          "sinf",
+          "ss01",
+          "ss03",
+          "ss04",
+          "ss10",
+          "ss11",
+          "subs",
+          "sups",
+          "tnum",
+          "zero",
+          "ss02",
+          "rvrn"
+        ],
+        "approved": true,
+        "approved_date": "2026-09-04",
+        "purchasable": true,
+        "hasWoff": false,
+        "created": "2026-09-02 14:27:49",
+        "customizer_active": false
+      },
+      "brand": {
+        "id": 95,
+        "title": "Gallery Type",
+        "slug": "gallery-type",
+        "body": "We are Gallery Type—a German type foundry by designers for designers.\r\n\r\nWe create fonts for brands with a radically simple licensing model. We offer bespoke typographic services, such as custom fonts, font modifications and consultancy. With a team of internationally renowned experts, we know what it takes to design fonts that make a difference, for small and international brands.\r\n\r\nInstagram: [@gallery.typefoundry](https://www.instagram.com/gallery.typefoundry)\r\n\r\nContact: [email](mailto:info@gallerytype.com)",
+        "buyable": true,
+        "approved": true,
+        "currency": "EUR"
+      },
+      "supported_languages": [
+        "latin"
+      ],
+      "language_source": "product.languages",
+      "variant_count": 62,
+      "license_count": 2,
+      "detail_enrichment": {
+        "used": true,
+        "ok": true
+      },
+      "api_source": "https://backend.contemporarytype.com/api_front/products"
+    },
+    "release_id": "a5550f227d3e7f44"
+  }
+]

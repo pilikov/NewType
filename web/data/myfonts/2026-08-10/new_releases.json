@@ -1,0 +1,1081 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/spurtle-pro-font-hanoded/",
+    "name": "Spurtle Pro",
+    "styles": [],
+    "authors": [
+      "Hanoded"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-09",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10260/ypxFjH5dOniEuSrsArfgUbpW_cbd69b2707e0c3fdda90f17d9f030ef8.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:56:58.127597+00:00",
+    "raw": {
+      "id": 8593255792810,
+      "handle": "spurtle-pro-complete-family-package-1195465",
+      "tags": [
+        "carefree",
+        "comic",
+        "decorative",
+        "kids",
+        "pim:designerId:2407",
+        "pim:familyId:135981",
+        "pim:foundryId:3241",
+        "pim:skuId:1195465",
+        "playful",
+        "soft",
+        "whimsical",
+        "youthful"
+      ],
+      "updated_at": "2026-08-10T03:56:55-04:00",
+      "product_url": "https://www.myfonts.com/products/spurtle-pro-complete-family-package-1195465",
+      "collection_url": "https://www.myfonts.com/collections/spurtle-pro-font-hanoded/",
+      "is_package_product": true,
+      "product_title": "Spurtle Pro Complete Family",
+      "collection_name": "Spurtle Pro",
+      "myfonts_debut_date": "2026-08-09",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "a28d3c7c712049fb"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/transylvania-avenue-pro-font-hanoded/",
+    "name": "Transylvania Avenue Pro",
+    "styles": [],
+    "authors": [
+      "Hanoded"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-09",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10260/Xs29hWrywDyIauAjEDKUDhBd_6f0a8cd19a57f1557198744e17f1fc0f.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:57:00.470535+00:00",
+    "raw": {
+      "id": 8593255760042,
+      "handle": "transylvania-avenue-pro-complete-family-package-1195462",
+      "tags": [
+        "allcaps",
+        "comic",
+        "decorative",
+        "kids",
+        "pim:designerId:2407",
+        "pim:familyId:135980",
+        "pim:foundryId:3241",
+        "pim:skuId:1195462",
+        "playful",
+        "soft",
+        "whimsical",
+        "youthful"
+      ],
+      "updated_at": "2026-08-10T03:56:55-04:00",
+      "product_url": "https://www.myfonts.com/products/transylvania-avenue-pro-complete-family-package-1195462",
+      "collection_url": "https://www.myfonts.com/collections/transylvania-avenue-pro-font-hanoded/",
+      "is_package_product": true,
+      "product_title": "Transylvania Avenue Pro Complete Family",
+      "collection_name": "Transylvania Avenue Pro",
+      "myfonts_debut_date": "2026-08-09",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "585a329cccfca944"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/utterly-bonkers-pro-font-hanoded/",
+    "name": "Utterly Bonkers Pro",
+    "styles": [],
+    "authors": [
+      "Hanoded"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-09",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10260/vfVJO2rHoTxbvQz0nC4bopXc_25204e24f8a9962548f394dce0f94131.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:57:03.002623+00:00",
+    "raw": {
+      "id": 8593255727274,
+      "handle": "utterly-bonkers-pro-complete-family-package-1195459",
+      "tags": [
+        "brush",
+        "carefree",
+        "comic",
+        "decorative",
+        "friendly",
+        "handwriting",
+        "kids",
+        "pim:designerId:2407",
+        "pim:familyId:135979",
+        "pim:foundryId:3241",
+        "pim:skuId:1195459",
+        "playful",
+        "serene",
+        "soft",
+        "whimsical",
+        "youthful"
+      ],
+      "updated_at": "2026-08-10T03:56:55-04:00",
+      "product_url": "https://www.myfonts.com/products/utterly-bonkers-pro-complete-family-package-1195459",
+      "collection_url": "https://www.myfonts.com/collections/utterly-bonkers-pro-font-hanoded/",
+      "is_package_product": true,
+      "product_title": "Utterly Bonkers Pro Complete Family",
+      "collection_name": "Utterly Bonkers Pro",
+      "myfonts_debut_date": "2026-08-09",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "6e5e0b8545dfd506"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ongunkan-futhark-runes-family-complete-family-package-1195402",
+    "name": "Ongunkan  Futhark Runes Family Complete Family",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-08-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:57:15.087190+00:00",
+    "raw": {
+      "id": 8593246716074,
+      "handle": "ongunkan-futhark-runes-family-complete-family-package-1195402",
+      "tags": [
+        "pim:designerId:7608",
+        "pim:familyId:125146",
+        "pim:foundryId:5452",
+        "pim:skuId:1195402"
+      ],
+      "updated_at": "2026-08-10T03:57:06-04:00",
+      "product_url": "https://www.myfonts.com/products/ongunkan-futhark-runes-family-complete-family-package-1195402",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Ongunkan  Futhark Runes Family Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "bac19f09b4a92e13"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ongunkan-marcomannic-rune-regular-ongunkan-elder-futhark-viking-1195412",
+    "name": "Ongunkan  Futhark Runes Family Ongunkan Marcomannic Rune Regular",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:57:27.336687+00:00",
+    "raw": {
+      "id": 8593244815530,
+      "handle": "ongunkan-marcomannic-rune-regular-ongunkan-elder-futhark-viking-1195412",
+      "tags": [
+        "allcaps",
+        "decorative",
+        "pim:designerId:7608",
+        "pim:familyId:125146",
+        "pim:foundryId:5452",
+        "pim:skuId:1195412"
+      ],
+      "updated_at": "2026-08-10T03:57:06-04:00",
+      "product_url": "https://www.myfonts.com/products/ongunkan-marcomannic-rune-regular-ongunkan-elder-futhark-viking-1195412",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Ongunkan  Futhark Runes Family Ongunkan Marcomannic Rune Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "1ffc101412263d21"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ongunkan-elder-futhark-karablgs-regular-ongunkan-elder-futhark-viking-1195425",
+    "name": "Ongunkan  Futhark Runes Family Ongunkan Elder Futhark Karablgs Regular",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:57:27.336826+00:00",
+    "raw": {
+      "id": 8593244717226,
+      "handle": "ongunkan-elder-futhark-karablgs-regular-ongunkan-elder-futhark-viking-1195425",
+      "tags": [
+        "allcaps",
+        "decorative",
+        "pim:designerId:7608",
+        "pim:familyId:125146",
+        "pim:foundryId:5452",
+        "pim:skuId:1195425",
+        "tattoo"
+      ],
+      "updated_at": "2026-08-10T03:57:06-04:00",
+      "product_url": "https://www.myfonts.com/products/ongunkan-elder-futhark-karablgs-regular-ongunkan-elder-futhark-viking-1195425",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Ongunkan  Futhark Runes Family Ongunkan Elder Futhark Karablgs Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "0fb23f876b41431d"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ongunkan-latin-rune-regular-ongunkan-elder-futhark-viking-1195411",
+    "name": "Ongunkan  Futhark Runes Family Ongunkan Latin Rune Regular",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:57:27.336962+00:00",
+    "raw": {
+      "id": 8593244651690,
+      "handle": "ongunkan-latin-rune-regular-ongunkan-elder-futhark-viking-1195411",
+      "tags": [
+        "pim:designerId:7608",
+        "pim:familyId:125146",
+        "pim:foundryId:5452",
+        "pim:skuId:1195411"
+      ],
+      "updated_at": "2026-08-10T03:57:06-04:00",
+      "product_url": "https://www.myfonts.com/products/ongunkan-latin-rune-regular-ongunkan-elder-futhark-viking-1195411",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Ongunkan  Futhark Runes Family Ongunkan Latin Rune Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "f0e136bd30ab6c23"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ongunkan-sweden-dalecarlian-run-regular-ongunkan-elder-futhark-viking-1195410",
+    "name": "Ongunkan  Futhark Runes Family Ongunkan Sweden Dalecarlian Run Regular",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:57:27.337071+00:00",
+    "raw": {
+      "id": 8593244520618,
+      "handle": "ongunkan-sweden-dalecarlian-run-regular-ongunkan-elder-futhark-viking-1195410",
+      "tags": [
+        "pim:designerId:7608",
+        "pim:familyId:125146",
+        "pim:foundryId:5452",
+        "pim:skuId:1195410"
+      ],
+      "updated_at": "2026-08-10T03:57:06-04:00",
+      "product_url": "https://www.myfonts.com/products/ongunkan-sweden-dalecarlian-run-regular-ongunkan-elder-futhark-viking-1195410",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Ongunkan  Futhark Runes Family Ongunkan Sweden Dalecarlian Run Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "62b07a56d6794f6a"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ongunkan-armanen-runes-regular-ongunkan-elder-futhark-viking-1195424",
+    "name": "Ongunkan  Futhark Runes Family Ongunkan Armanen Runes Regular",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:57:27.337172+00:00",
+    "raw": {
+      "id": 8593244455082,
+      "handle": "ongunkan-armanen-runes-regular-ongunkan-elder-futhark-viking-1195424",
+      "tags": [
+        "pim:designerId:7608",
+        "pim:familyId:125146",
+        "pim:foundryId:5452",
+        "pim:skuId:1195424"
+      ],
+      "updated_at": "2026-08-10T03:57:06-04:00",
+      "product_url": "https://www.myfonts.com/products/ongunkan-armanen-runes-regular-ongunkan-elder-futhark-viking-1195424",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Ongunkan  Futhark Runes Family Ongunkan Armanen Runes Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "65ff3720b53e533d"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ongunkan-slavic-runic-regular-ongunkan-elder-futhark-viking-1195409",
+    "name": "Ongunkan  Futhark Runes Family Ongunkan Slavic Runic Regular",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:57:27.337319+00:00",
+    "raw": {
+      "id": 8593244291242,
+      "handle": "ongunkan-slavic-runic-regular-ongunkan-elder-futhark-viking-1195409",
+      "tags": [
+        "pim:designerId:7608",
+        "pim:familyId:125146",
+        "pim:foundryId:5452",
+        "pim:skuId:1195409"
+      ],
+      "updated_at": "2026-08-10T03:57:06-04:00",
+      "product_url": "https://www.myfonts.com/products/ongunkan-slavic-runic-regular-ongunkan-elder-futhark-viking-1195409",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Ongunkan  Futhark Runes Family Ongunkan Slavic Runic Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "aecb8773e0f209da"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ongunkan-radloff-anglosaxon-run-regular-ongunkan-elder-futhark-viking-1195423",
+    "name": "Ongunkan  Futhark Runes Family Ongunkan Radloff Anglosaxon Run Regular",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:57:27.842988+00:00",
+    "raw": {
+      "id": 8593244225706,
+      "handle": "ongunkan-radloff-anglosaxon-run-regular-ongunkan-elder-futhark-viking-1195423",
+      "tags": [
+        "allcaps",
+        "decorative",
+        "pim:designerId:7608",
+        "pim:familyId:125146",
+        "pim:foundryId:5452",
+        "pim:skuId:1195423",
+        "tattoo"
+      ],
+      "updated_at": "2026-08-10T03:57:06-04:00",
+      "product_url": "https://www.myfonts.com/products/ongunkan-radloff-anglosaxon-run-regular-ongunkan-elder-futhark-viking-1195423",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Ongunkan  Futhark Runes Family Ongunkan Radloff Anglosaxon Run Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "3705c7bda723fc48"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ongunkan-icelandic-rune-regular-ongunkan-elder-futhark-viking-1195408",
+    "name": "Ongunkan  Futhark Runes Family Ongunkan Icelandic Rune Regular",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:57:27.843116+00:00",
+    "raw": {
+      "id": 8593244061866,
+      "handle": "ongunkan-icelandic-rune-regular-ongunkan-elder-futhark-viking-1195408",
+      "tags": [
+        "pim:designerId:7608",
+        "pim:familyId:125146",
+        "pim:foundryId:5452",
+        "pim:skuId:1195408"
+      ],
+      "updated_at": "2026-08-10T03:57:06-04:00",
+      "product_url": "https://www.myfonts.com/products/ongunkan-icelandic-rune-regular-ongunkan-elder-futhark-viking-1195408",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Ongunkan  Futhark Runes Family Ongunkan Icelandic Rune Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "94afe05f58f39aaa"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ongunkan-danish-futhark-rune-regular-ongunkan-elder-futhark-viking-1195422",
+    "name": "Ongunkan  Futhark Runes Family Ongunkan Danish Futhark Rune Regular",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:57:27.843268+00:00",
+    "raw": {
+      "id": 8593243996330,
+      "handle": "ongunkan-danish-futhark-rune-regular-ongunkan-elder-futhark-viking-1195422",
+      "tags": [
+        "pim:designerId:7608",
+        "pim:familyId:125146",
+        "pim:foundryId:5452",
+        "pim:skuId:1195422"
+      ],
+      "updated_at": "2026-08-10T03:57:06-04:00",
+      "product_url": "https://www.myfonts.com/products/ongunkan-danish-futhark-rune-regular-ongunkan-elder-futhark-viking-1195422",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Ongunkan  Futhark Runes Family Ongunkan Danish Futhark Rune Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "9a80e9408e09f84e"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ongunkan-staveless-halsinge-run-regular-ongunkan-elder-futhark-viking-1195407",
+    "name": "Ongunkan  Futhark Runes Family Ongunkan Staveless Halsinge Run Regular",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:57:27.843416+00:00",
+    "raw": {
+      "id": 8593243865258,
+      "handle": "ongunkan-staveless-halsinge-run-regular-ongunkan-elder-futhark-viking-1195407",
+      "tags": [
+        "pim:designerId:7608",
+        "pim:familyId:125146",
+        "pim:foundryId:5452",
+        "pim:skuId:1195407"
+      ],
+      "updated_at": "2026-08-10T03:57:06-04:00",
+      "product_url": "https://www.myfonts.com/products/ongunkan-staveless-halsinge-run-regular-ongunkan-elder-futhark-viking-1195407",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Ongunkan  Futhark Runes Family Ongunkan Staveless Halsinge Run Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "3e3393abd05ddba6"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ongunkan-gothenburg-futhark-swe-regular-ongunkan-elder-futhark-viking-1195404",
+    "name": "Ongunkan  Futhark Runes Family Ongunkan Gothenburg Futhark Swe Regular",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:57:27.843561+00:00",
+    "raw": {
+      "id": 8593243406506,
+      "handle": "ongunkan-gothenburg-futhark-swe-regular-ongunkan-elder-futhark-viking-1195404",
+      "tags": [
+        "pim:designerId:7608",
+        "pim:familyId:125146",
+        "pim:foundryId:5452",
+        "pim:skuId:1195404"
+      ],
+      "updated_at": "2026-08-10T03:57:06-04:00",
+      "product_url": "https://www.myfonts.com/products/ongunkan-gothenburg-futhark-swe-regular-ongunkan-elder-futhark-viking-1195404",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Ongunkan  Futhark Runes Family Ongunkan Gothenburg Futhark Swe Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "90742f80f12a8da9"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ongunkan-norwegian-futhark-rune-regular-ongunkan-elder-futhark-viking-1195421",
+    "name": "Ongunkan  Futhark Runes Family Ongunkan Norwegian Futhark Rune Regular",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:57:27.843617+00:00",
+    "raw": {
+      "id": 8593243734186,
+      "handle": "ongunkan-norwegian-futhark-rune-regular-ongunkan-elder-futhark-viking-1195421",
+      "tags": [
+        "pim:designerId:7608",
+        "pim:familyId:125146",
+        "pim:foundryId:5452",
+        "pim:skuId:1195421"
+      ],
+      "updated_at": "2026-08-10T03:57:06-04:00",
+      "product_url": "https://www.myfonts.com/products/ongunkan-norwegian-futhark-rune-regular-ongunkan-elder-futhark-viking-1195421",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Ongunkan  Futhark Runes Family Ongunkan Norwegian Futhark Rune Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "258159ea39559108"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ongunkan-rune-unicode-regular-ongunkan-elder-futhark-viking-1195406",
+    "name": "Ongunkan  Futhark Runes Family Ongunkan Rune Unicode Regular",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:57:27.843715+00:00",
+    "raw": {
+      "id": 8593243668650,
+      "handle": "ongunkan-rune-unicode-regular-ongunkan-elder-futhark-viking-1195406",
+      "tags": [
+        "allcaps",
+        "decorative",
+        "pim:designerId:7608",
+        "pim:familyId:125146",
+        "pim:foundryId:5452",
+        "pim:skuId:1195406"
+      ],
+      "updated_at": "2026-08-10T03:57:06-04:00",
+      "product_url": "https://www.myfonts.com/products/ongunkan-rune-unicode-regular-ongunkan-elder-futhark-viking-1195406",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Ongunkan  Futhark Runes Family Ongunkan Rune Unicode Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "188c991f00ca7976"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ongunkan-anglo-saxon-hollow-regular-ongunkan-elder-futhark-viking-1195405",
+    "name": "Ongunkan  Futhark Runes Family Ongunkan Anglo Saxon Hollow Regular",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:57:27.843856+00:00",
+    "raw": {
+      "id": 8593243570346,
+      "handle": "ongunkan-anglo-saxon-hollow-regular-ongunkan-elder-futhark-viking-1195405",
+      "tags": [
+        "allcaps",
+        "decorative",
+        "pim:designerId:7608",
+        "pim:familyId:125146",
+        "pim:foundryId:5452",
+        "pim:skuId:1195405"
+      ],
+      "updated_at": "2026-08-10T03:57:06-04:00",
+      "product_url": "https://www.myfonts.com/products/ongunkan-anglo-saxon-hollow-regular-ongunkan-elder-futhark-viking-1195405",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Ongunkan  Futhark Runes Family Ongunkan Anglo Saxon Hollow Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "6dc3c198ab2e49cb"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ongunkan-younger-futhark-regular-ongunkan-elder-futhark-viking-1195420",
+    "name": "Ongunkan  Futhark Runes Family Ongunkan Younger Futhark Regular",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:57:27.843933+00:00",
+    "raw": {
+      "id": 8593243537578,
+      "handle": "ongunkan-younger-futhark-regular-ongunkan-elder-futhark-viking-1195420",
+      "tags": [
+        "pim:designerId:7608",
+        "pim:familyId:125146",
+        "pim:foundryId:5452",
+        "pim:skuId:1195420"
+      ],
+      "updated_at": "2026-08-10T03:57:06-04:00",
+      "product_url": "https://www.myfonts.com/products/ongunkan-younger-futhark-regular-ongunkan-elder-futhark-viking-1195420",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Ongunkan  Futhark Runes Family Ongunkan Younger Futhark Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "f85ae61536c9b2b5"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ongunkan-radloff-viking-rune-regular-ongunkan-elder-futhark-viking-1195419",
+    "name": "Ongunkan  Futhark Runes Family Ongunkan Radloff Viking Rune Regular",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:57:27.844165+00:00",
+    "raw": {
+      "id": 8593243308202,
+      "handle": "ongunkan-radloff-viking-rune-regular-ongunkan-elder-futhark-viking-1195419",
+      "tags": [
+        "pim:designerId:7608",
+        "pim:familyId:125146",
+        "pim:foundryId:5452",
+        "pim:skuId:1195419"
+      ],
+      "updated_at": "2026-08-10T03:57:06-04:00",
+      "product_url": "https://www.myfonts.com/products/ongunkan-radloff-viking-rune-regular-ongunkan-elder-futhark-viking-1195419",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Ongunkan  Futhark Runes Family Ongunkan Radloff Viking Rune Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "911ccfe78693d1a2"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ongunkan-rune-unicode-karabalga-regular-ongunkan-elder-futhark-viking-1195403",
+    "name": "Ongunkan  Futhark Runes Family Ongunkan Rune Unicode Karabalga Regular",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:57:28.401418+00:00",
+    "raw": {
+      "id": 8593243144362,
+      "handle": "ongunkan-rune-unicode-karabalga-regular-ongunkan-elder-futhark-viking-1195403",
+      "tags": [
+        "allcaps",
+        "decorative",
+        "pim:designerId:7608",
+        "pim:familyId:125146",
+        "pim:foundryId:5452",
+        "pim:skuId:1195403"
+      ],
+      "updated_at": "2026-08-10T03:57:06-04:00",
+      "product_url": "https://www.myfonts.com/products/ongunkan-rune-unicode-karabalga-regular-ongunkan-elder-futhark-viking-1195403",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Ongunkan  Futhark Runes Family Ongunkan Rune Unicode Karabalga Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "acace68d1f3a7e5b"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ongunkan-swedish-runes-regular-ongunkan-elder-futhark-viking-1195418",
+    "name": "Ongunkan  Futhark Runes Family Ongunkan Swedish Runes Regular",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:57:28.401606+00:00",
+    "raw": {
+      "id": 8593243046058,
+      "handle": "ongunkan-swedish-runes-regular-ongunkan-elder-futhark-viking-1195418",
+      "tags": [
+        "allcaps",
+        "decorative",
+        "pim:designerId:7608",
+        "pim:familyId:125146",
+        "pim:foundryId:5452",
+        "pim:skuId:1195418",
+        "tattoo"
+      ],
+      "updated_at": "2026-08-10T03:57:06-04:00",
+      "product_url": "https://www.myfonts.com/products/ongunkan-swedish-runes-regular-ongunkan-elder-futhark-viking-1195418",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Ongunkan  Futhark Runes Family Ongunkan Swedish Runes Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "477442e6ac9960b9"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ongunkan-tolkien-cirth-rune-regular-ongunkan-elder-futhark-viking-1195417",
+    "name": "Ongunkan  Futhark Runes Family Ongunkan Tolkien Cirth Rune Regular",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:57:28.401846+00:00",
+    "raw": {
+      "id": 8593242816682,
+      "handle": "ongunkan-tolkien-cirth-rune-regular-ongunkan-elder-futhark-viking-1195417",
+      "tags": [
+        "allcaps",
+        "artdeco",
+        "decorative",
+        "fashion",
+        "pim:designerId:7608",
+        "pim:familyId:125146",
+        "pim:foundryId:5452",
+        "pim:skuId:1195417",
+        "tattoo"
+      ],
+      "updated_at": "2026-08-10T03:57:06-04:00",
+      "product_url": "https://www.myfonts.com/products/ongunkan-tolkien-cirth-rune-regular-ongunkan-elder-futhark-viking-1195417",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Ongunkan  Futhark Runes Family Ongunkan Tolkien Cirth Rune Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "c31bc91cbc546964"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ongunkan-irk-bitig-viking-regular-ongunkan-elder-futhark-viking-1195416",
+    "name": "Ongunkan  Futhark Runes Family Ongunkan Irk Bitig Viking Regular",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:57:28.402123+00:00",
+    "raw": {
+      "id": 8593242652842,
+      "handle": "ongunkan-irk-bitig-viking-regular-ongunkan-elder-futhark-viking-1195416",
+      "tags": [
+        "pim:designerId:7608",
+        "pim:familyId:125146",
+        "pim:foundryId:5452",
+        "pim:skuId:1195416"
+      ],
+      "updated_at": "2026-08-10T03:57:06-04:00",
+      "product_url": "https://www.myfonts.com/products/ongunkan-irk-bitig-viking-regular-ongunkan-elder-futhark-viking-1195416",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Ongunkan  Futhark Runes Family Ongunkan Irk Bitig Viking Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "3e64661328792188"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ongunkan-sweden-futhark-rune-regular-ongunkan-elder-futhark-viking-1195415",
+    "name": "Ongunkan  Futhark Runes Family Ongunkan Sweden  Futhark Rune Regular",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:57:28.402505+00:00",
+    "raw": {
+      "id": 8593242456234,
+      "handle": "ongunkan-sweden-futhark-rune-regular-ongunkan-elder-futhark-viking-1195415",
+      "tags": [
+        "pim:designerId:7608",
+        "pim:familyId:125146",
+        "pim:foundryId:5452",
+        "pim:skuId:1195415"
+      ],
+      "updated_at": "2026-08-10T03:57:06-04:00",
+      "product_url": "https://www.myfonts.com/products/ongunkan-sweden-futhark-rune-regular-ongunkan-elder-futhark-viking-1195415",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Ongunkan  Futhark Runes Family Ongunkan Sweden  Futhark Rune Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "2215640aafc58281"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ongunkan-tolkien-english-rune-regular-ongunkan-elder-futhark-viking-1195414",
+    "name": "Ongunkan  Futhark Runes Family Ongunkan Tolkien English Rune Regular",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:57:28.402692+00:00",
+    "raw": {
+      "id": 8593242292394,
+      "handle": "ongunkan-tolkien-english-rune-regular-ongunkan-elder-futhark-viking-1195414",
+      "tags": [
+        "allcaps",
+        "decorative",
+        "pim:designerId:7608",
+        "pim:familyId:125146",
+        "pim:foundryId:5452",
+        "pim:skuId:1195414",
+        "tattoo"
+      ],
+      "updated_at": "2026-08-10T03:57:06-04:00",
+      "product_url": "https://www.myfonts.com/products/ongunkan-tolkien-english-rune-regular-ongunkan-elder-futhark-viking-1195414",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Ongunkan  Futhark Runes Family Ongunkan Tolkien English Rune Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "f22bb7d041be9b26"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/ongunkan-younger-futhark-one-regular-ongunkan-elder-futhark-viking-1195413",
+    "name": "Ongunkan  Futhark Runes Family Ongunkan Younger Futhark One Regular",
+    "styles": [],
+    "authors": [
+      "Runic World Tamgaci"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-08-09",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-08-10T07:57:28.403075+00:00",
+    "raw": {
+      "id": 8593242095786,
+      "handle": "ongunkan-younger-futhark-one-regular-ongunkan-elder-futhark-viking-1195413",
+      "tags": [
+        "pim:designerId:7608",
+        "pim:familyId:125146",
+        "pim:foundryId:5452",
+        "pim:skuId:1195413"
+      ],
+      "updated_at": "2026-08-10T03:57:06-04:00",
+      "product_url": "https://www.myfonts.com/products/ongunkan-younger-futhark-one-regular-ongunkan-elder-futhark-viking-1195413",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Ongunkan  Futhark Runes Family Ongunkan Younger Futhark One Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "6d00b060d63a00a3"
+  }
+]

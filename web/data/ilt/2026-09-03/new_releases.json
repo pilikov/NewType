@@ -1,0 +1,66 @@
+[
+  {
+    "source_id": "ilt",
+    "source_name": "I Love Typography",
+    "source_url": "https://fonts.ilovetypography.com/fonts/dezcom/dez-bollardian",
+    "name": "dez Bollardian",
+    "styles": [
+      "Thin",
+      "Light",
+      "Regular",
+      "Semibold",
+      "Bold",
+      "ExtraBold",
+      "Black"
+    ],
+    "authors": [
+      "Dezcom",
+      "Chris Lozos"
+    ],
+    "scripts": [
+      "Greek",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-09-02",
+    "image_url": "https://empty-grouse.transforms.svdcdn.com/production/images/Dez-Bollardian-posters-2.jpg?w=580&auto=compress%2Cformat&fit=min&dm=1788384984&s=c84f90e441da945aec07f0e4e1a5bcc0",
+    "woff_url": "https://d3qx8f8l5aa3yc.cloudfront.net/webfonts/dezcom/DezBollardian-Regular.woff?v=1788384351",
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-03T11:25:54.912917+00:00",
+    "raw": {
+      "release_identity": "ilt:1762733",
+      "typesense_id": "1762733",
+      "slug": "dez-bollardian",
+      "foundry": "Dezcom",
+      "designer": "Chris Lozos",
+      "description": "Dez Bollardian is a sturdy, modern condensed sans that assists in fitting text in tight spaces. It is a perfect fit for pharmaceutical material and packaging. It is also a good tool for branding, advertising, and editorial jobs. Besides Latin language coverage, Dez Bollardian covers Modern Greek. There are seven weights and multiple figure styles (Italics are in the works).",
+      "categories": [
+        "Sans serif fonts",
+        "Display & decorative fonts"
+      ],
+      "otfeatures": [
+        "Discretionary Ligatures",
+        "Standard Ligatures",
+        "Case-sensitive  Forms",
+        "Subscript",
+        "Superscript",
+        "Proportional Figures",
+        "Tabular Figures",
+        "Slashed Zero",
+        "Fractions"
+      ],
+      "cedars": {
+        "cedarsContrast": "0",
+        "cedarsFill": "solid"
+      },
+      "price": 150,
+      "fromPrice": 30,
+      "onPromotion": false,
+      "hasDemoFonts": false,
+      "hasFreeFonts": false,
+      "enabled": true,
+      "api_source": "https://ikgq6me4n0p3u2bvp-1.a1.typesense.net/collections/prod_FONTS/documents/search"
+    },
+    "release_id": "f001ccbf9680ad3a"
+  }
+]

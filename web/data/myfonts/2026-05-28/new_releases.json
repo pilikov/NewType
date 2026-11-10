@@ -1,0 +1,160 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/racole-font-artisan-themes/",
+    "name": "Racole",
+    "styles": [],
+    "authors": [
+      "Artisan Themes"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-05-27",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10236/ATmWLozpEbsGZCFCvzsLfrkW_e421a4650ba449605c429e7be7153408.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-28T10:20:20.153719+00:00",
+    "raw": {
+      "id": 8446236033194,
+      "handle": "racole-complete-family-package-1160955",
+      "tags": [
+        "carefree",
+        "cursive",
+        "kids",
+        "pim:designerId:9545",
+        "pim:familyId:133230",
+        "pim:foundryId:7007",
+        "pim:skuId:1160955",
+        "soft",
+        "youthful"
+      ],
+      "updated_at": "2026-05-28T06:19:47-04:00",
+      "product_url": "https://www.myfonts.com/products/racole-complete-family-package-1160955",
+      "collection_url": "https://www.myfonts.com/collections/racole-font-artisan-themes/",
+      "is_package_product": true,
+      "product_title": "Racole Complete Family",
+      "collection_name": "Racole",
+      "myfonts_debut_date": "2026-05-27",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "4b18619e275100e4"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/rangers-font-syafbe/",
+    "name": "Rangers",
+    "styles": [],
+    "authors": [
+      "Syafbe"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-05-27",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10236/yCyoySK37QoHmaB6YRE0pLme_412486ec97c35ee4833e2a097ebdb31d.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-28T10:20:47.163916+00:00",
+    "raw": {
+      "id": 8446235771050,
+      "handle": "rangers-complete-family-package-1160930",
+      "tags": [
+        "legible",
+        "pim:designerId:7022",
+        "pim:familyId:133229",
+        "pim:foundryId:5061",
+        "pim:skuId:1160930"
+      ],
+      "updated_at": "2026-05-28T06:19:47-04:00",
+      "product_url": "https://www.myfonts.com/products/rangers-complete-family-package-1160930",
+      "collection_url": "https://www.myfonts.com/collections/rangers-font-syafbe/",
+      "is_package_product": true,
+      "product_title": "Rangers Complete Family",
+      "collection_name": "Rangers",
+      "myfonts_debut_date": "2026-05-27",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "b868b8d078537d90"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/starley-font-sensatype-studio/",
+    "name": "Starley",
+    "styles": [],
+    "authors": [
+      "Sensatype Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-05-27",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10236/aQJeS86swAHEX3PY5LanL4pc_4d041ed182f4778c96024e8b0f8d25b8.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-28T10:21:34.396003+00:00",
+    "raw": {
+      "id": 8446224629930,
+      "handle": "regular-starley-1160929",
+      "tags": [
+        "pim:designerId:5084",
+        "pim:familyId:133228",
+        "pim:foundryId:2670",
+        "pim:skuId:1160929"
+      ],
+      "updated_at": "2026-05-28T06:21:32-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-starley-1160929",
+      "collection_url": "https://www.myfonts.com/collections/starley-font-sensatype-studio/",
+      "is_package_product": false,
+      "product_title": "Starley",
+      "collection_name": "Starley",
+      "myfonts_debut_date": "2026-05-27",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "37bc10377f002261"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/rekova-marove-font-sototive/",
+    "name": "Rekova Marove",
+    "styles": [],
+    "authors": [
+      "Sototive"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-05-27",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10236/UQzaNDn6bQill00OaqgxAIq8_1ee6979b8190f3862244720062f8dbd0.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-28T10:21:38.804510+00:00",
+    "raw": {
+      "id": 8446223843498,
+      "handle": "regular-rekova-marove-1160873",
+      "tags": [
+        "pim:designerId:9843",
+        "pim:familyId:133211",
+        "pim:foundryId:7280",
+        "pim:skuId:1160873"
+      ],
+      "updated_at": "2026-05-28T06:21:32-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-rekova-marove-1160873",
+      "collection_url": "https://www.myfonts.com/collections/rekova-marove-font-sototive/",
+      "is_package_product": false,
+      "product_title": "Rekova Marove",
+      "collection_name": "Rekova Marove",
+      "myfonts_debut_date": "2026-05-27",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "a9985c4c23723739"
+  }
+]

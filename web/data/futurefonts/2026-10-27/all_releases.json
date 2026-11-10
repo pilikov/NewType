@@ -1,0 +1,36 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/spoke/cure-sans?v=0.3",
+    "name": "Cure Sans",
+    "styles": [],
+    "authors": [
+      "Spoke"
+    ],
+    "scripts": [
+      "basic-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-10-27",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/10/medium_Spoke_header.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/11013/CureSans_specimen.pdf",
+    "discovered_at": "2026-10-27T12:25:59.583317+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:24080",
+      "activity_id": 24080,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.3",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 11013,
+      "resolved_typeface_id": 1177,
+      "typeface_language": "basic-latin"
+    },
+    "release_id": "27d97f70e099992a"
+  }
+]
