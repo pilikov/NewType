@@ -1,0 +1,88 @@
+[
+  {
+    "source_id": "ilt",
+    "source_name": "I Love Typography",
+    "source_url": "https://fonts.ilovetypography.com/fonts/martin-majoor/seria-sans-pro",
+    "name": "Seria Sans Pro",
+    "styles": [
+      "Regular",
+      "Italic",
+      "Bold",
+      "Bold Italic"
+    ],
+    "authors": [
+      "Martin Majoor"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Greek",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2000-01-01",
+    "image_url": "https://empty-grouse.transforms.svdcdn.com/production/images/MartinMajoor-SeriaSans-2400x1200-96dp-1_2026-11-10-022802_mrin.png?w=580&auto=compress%2Cformat&fit=min&dm=1794277683&s=d25ad1f557969dd5b3ad5448acf97f39",
+    "woff_url": "https://d3qx8f8l5aa3yc.cloudfront.net/webfonts/martin-majoor/SeriaSansPro-Regular.woff?v=1794277455",
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-11-10T15:11:22.073179+00:00",
+    "raw": {
+      "release_identity": "ilt:1769001",
+      "typesense_id": "1769001",
+      "slug": "seria-sans-pro",
+      "foundry": "Martin Majoor",
+      "designer": "Martin Majoor",
+      "description": "Seria® was released in 2000. It can be seen as a 'literary' typeface, with long ascenders and descenders and a distinctive upright italic. Its relatively small x-height makes Seria a rewarding challenge for the experienced typographer.\n\nAugmenting Seria with a sans serif version was an obvious next step. Using a black marker and some white paint, the serifed characters were transformed into a sans, resulting in Seria Sans, which retains the same long ascenders and descenders as Seria, quite unusual for a sans serif.\n\nIn 2003, the Seria family won two awards: a Certificate of Excellence from the ISTD and a Certificate of Excellence in Type Design from ATypI.",
+      "categories": [
+        "Sans serif fonts",
+        "Web Fonts"
+      ],
+      "otfeatures": [
+        "Contextual Alternates",
+        "Stylistic Alternates",
+        "Discretionary Ligatures",
+        "Standard Ligatures",
+        "Small Capitals",
+        "Small Capitals from Capitals",
+        "Case-sensitive  Forms",
+        "Subscript",
+        "Superscript",
+        "Lining Figures",
+        "Proportional Figures",
+        "Tabular Figures",
+        "Fractions"
+      ],
+      "cedars": {
+        "cLatinCapWaist": "5",
+        "cLatinLowerA": "double",
+        "cLatinLowerAStroke": "angled",
+        "cLatinLowerC": "blunted",
+        "cLatinLowerE": "flat",
+        "cLatinLowerG": "double",
+        "cLatinSerif": "na",
+        "cLatinUpperK": "angled",
+        "cLatinUpperM": "baseline",
+        "cLatinUpperR": "straight",
+        "cLatinWidths": "proportional",
+        "cLatinxHeight": "65",
+        "cedarsAxis": "90",
+        "cedarsConstruction": "formal",
+        "cedarsContrast": "2",
+        "cedarsEnergy": "3",
+        "cedarsFill": "solid",
+        "cedarsFinials": "1",
+        "cedarsLoops": "oval",
+        "cedarsPattern": "5",
+        "cedarsTerminals": "scriptSpecific",
+        "cedarsTransitions": "intersecting",
+        "cedarsWidths": "5"
+      },
+      "price": 149,
+      "fromPrice": 49,
+      "onPromotion": false,
+      "hasDemoFonts": false,
+      "hasFreeFonts": false,
+      "enabled": true,
+      "api_source": "https://ikgq6me4n0p3u2bvp-1.a1.typesense.net/collections/prod_FONTS/documents/search"
+    },
+    "release_id": "51db0fbcb2b69f36"
+  }
+]

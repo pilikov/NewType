@@ -740,5 +740,19 @@
       "post_date": "2026-11-05"
     },
     "news_id": "20c3abf03802edb5"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Type posters today 05: Crimp. Journey",
+    "url": "https://type.today/en/journal/oc-sep-oct-26",
+    "published_at": "2026-11-10",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/3/1327/preview_420_preview_image_en-mOM8YAOudVZZ1ennGr63-uAI_oFBFnGs_A.png",
+    "discovered_at": "2026-11-10T15:12:30.399445+00:00",
+    "raw": {
+      "slug": "oc-sep-oct-26",
+      "post_date": "2026-11-10"
+    },
+    "news_id": "51d89ffadf00e71a"
   }
 ]
