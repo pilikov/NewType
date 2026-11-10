@@ -1,0 +1,37 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/kedua-bundle-package-1020637",
+    "name": "Kedua Bundle",
+    "styles": [],
+    "authors": [
+      "Sidkia Fonts"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-04-10",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-11T07:12:28.584378+00:00",
+    "raw": {
+      "id": 8142989000874,
+      "handle": "kedua-bundle-package-1020637",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-04-11T03:12:24-04:00",
+      "product_url": "https://www.myfonts.com/products/kedua-bundle-package-1020637",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Kedua Bundle",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "5c81ee0c7864362e"
+  }
+]
