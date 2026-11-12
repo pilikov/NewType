@@ -1,0 +1,80 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/goldmund-pro-font-jovica-veljovic/",
+    "name": "Goldmund Pro",
+    "styles": [],
+    "authors": [
+      "Jovica Veljovic"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-10-28",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10294/Xpq70RwS3JvifUsK4ucWWJWk_6a5f32249ee7ba05d8d7095008668b0f.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-10-28T12:38:09.597058+00:00",
+    "raw": {
+      "id": 15424192774314,
+      "handle": "goldmund-pro-complete-family-package-1249258",
+      "tags": [
+        "fashion",
+        "formal",
+        "geometric",
+        "luxury",
+        "pim:designerId:18",
+        "pim:familyId:139281",
+        "pim:foundryId:7329",
+        "pim:skuId:1249258",
+        "sleek"
+      ],
+      "updated_at": "2026-10-28T08:37:24-04:00",
+      "product_url": "https://www.myfonts.com/products/goldmund-pro-complete-family-package-1249258",
+      "collection_url": "https://www.myfonts.com/collections/goldmund-pro-font-jovica-veljovic/",
+      "is_package_product": true,
+      "product_title": "Goldmund Pro Complete Family",
+      "collection_name": "Goldmund Pro",
+      "myfonts_debut_date": "2026-10-28",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "0223538fc3592fa9"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/all-in-fonts-bundles-by-nj-studio-package-942011",
+    "name": "All In Fonts Bundles By NJ Studio",
+    "styles": [],
+    "authors": [
+      "NJ Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-10-27",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-10-28T12:38:31.127117+00:00",
+    "raw": {
+      "id": 7994543866026,
+      "handle": "all-in-fonts-bundles-by-nj-studio-package-942011",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-10-28T08:38:14-04:00",
+      "product_url": "https://www.myfonts.com/products/all-in-fonts-bundles-by-nj-studio-package-942011",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "All In Fonts Bundles By NJ Studio",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "802ecb8af6383417"
+  }
+]
