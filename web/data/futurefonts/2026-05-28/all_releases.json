@@ -1,0 +1,37 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/loveletters/shoplift-gothic?v=0.3",
+    "name": "Shoplift Gothic",
+    "styles": [],
+    "authors": [
+      "Love Letters"
+    ],
+    "scripts": [
+      "basic-latin",
+      "extended-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-05-28",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/60/medium_thumbnail-05.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/9660/Shoplift-Gothic-V03.pdf",
+    "discovered_at": "2026-05-28T10:30:08.831912+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:21770",
+      "activity_id": 21770,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.3",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 9660,
+      "resolved_typeface_id": 2464,
+      "typeface_language": "basic-latin,extended-latin"
+    },
+    "release_id": "1c4bb94ee85ad111"
+  }
+]
