@@ -754,5 +754,19 @@
       "post_date": "2026-11-10"
     },
     "news_id": "51d89ffadf00e71a"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Vadim Zuev, Matveij Malkin: ‘Pay extra if you plan to use our font for AI training’",
+    "url": "https://type.today/en/journal/vadimzuev-matveijmalkin",
+    "published_at": "2026-11-13",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/3/1328/preview_420_preview_image_en-Apr6pJ-F5fo0dkjnZ5zPaZlSY4u41rYH5A.png",
+    "discovered_at": "2026-11-13T15:16:34.902201+00:00",
+    "raw": {
+      "slug": "vadimzuev-matveijmalkin",
+      "post_date": "2026-11-13"
+    },
+    "news_id": "fb5f332f9b69b90e"
   }
 ]
