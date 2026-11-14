@@ -1,0 +1,494 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/evarnique-font-typehill-studio",
+    "name": "Evarnique Complete Family",
+    "styles": [],
+    "authors": [
+      "Typehill Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-05",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-06T10:47:34.384923+00:00",
+    "raw": {
+      "id": 8614936314026,
+      "handle": "evarnique-complete-family-package-1216862",
+      "tags": [
+        "discount_Evarnique-30-Off_Typehill-Studio_2026-09-05_2026-10-20_30_yJsJIcFrx8OjvxDWZbbtqDVh:1788625563",
+        "pim:designerId:4117",
+        "pim:familyId:137041",
+        "pim:foundryId:1209",
+        "pim:skuId:1216862",
+        "special_offer"
+      ],
+      "updated_at": "2026-09-06T06:46:00-04:00",
+      "product_url": "https://www.myfonts.com/products/evarnique-complete-family-package-1216862",
+      "collection_url": "https://www.myfonts.com/collections/evarnique-font-typehill-studio",
+      "is_package_product": true,
+      "product_title": "Evarnique Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "55f7aacef457d9cd"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/twista-collection-package-1217345",
+    "name": "Twista Collection",
+    "styles": [],
+    "authors": [
+      "Viktor Nübel Type Design"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-08",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-08T11:05:37.946382+00:00",
+    "raw": {
+      "id": 8617744564394,
+      "handle": "twista-collection-package-1217345",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-09-08T07:05:31-04:00",
+      "product_url": "https://www.myfonts.com/products/twista-collection-package-1217345",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Twista Collection",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "8c31a98118f0e1b4"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/fleurons-i-v-package-87955",
+    "name": "Fleurons I-V",
+    "styles": [],
+    "authors": [
+      "Wiescher Design"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-07",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-08T11:05:42.998211+00:00",
+    "raw": {
+      "id": 8356002103466,
+      "handle": "fleurons-i-v-package-87955",
+      "tags": [
+        "pim:designerId:776",
+        "pim:familyId:14832",
+        "pim:familyId:15058",
+        "pim:familyId:15567",
+        "pim:familyId:15568",
+        "pim:familyId:16194",
+        "pim:foundryId:3609",
+        "pim:skuId:87955"
+      ],
+      "updated_at": "2026-09-08T07:05:31-04:00",
+      "product_url": "https://www.myfonts.com/products/fleurons-i-v-package-87955",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Fleurons I-V",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "f6b2848982a70397"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/fleurons-one-to-six-package-88793",
+    "name": "Fleurons One to Six",
+    "styles": [],
+    "authors": [
+      "Wiescher Design"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-07",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-08T11:05:42.998349+00:00",
+    "raw": {
+      "id": 8387846111402,
+      "handle": "fleurons-one-to-six-package-88793",
+      "tags": [
+        "pim:designerId:776",
+        "pim:familyId:14832",
+        "pim:familyId:15058",
+        "pim:familyId:15567",
+        "pim:familyId:15568",
+        "pim:familyId:16194",
+        "pim:familyId:16777",
+        "pim:foundryId:3609",
+        "pim:skuId:88793"
+      ],
+      "updated_at": "2026-09-08T07:05:31-04:00",
+      "product_url": "https://www.myfonts.com/products/fleurons-one-to-six-package-88793",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Fleurons One to Six",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "d1a4036c0b1f0108"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/bodoni-classic-deco-one-two-set-package-84226",
+    "name": "Bodoni Classic Deco One + Two Set",
+    "styles": [],
+    "authors": [
+      "Wiescher Design"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-07",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-08T11:05:44.519311+00:00",
+    "raw": {
+      "id": 8356002070698,
+      "handle": "bodoni-classic-deco-one-two-set-package-84226",
+      "tags": [
+        "pim:designerId:776",
+        "pim:familyId:14633",
+        "pim:familyId:15333",
+        "pim:foundryId:3609",
+        "pim:skuId:84226"
+      ],
+      "updated_at": "2026-09-08T07:05:31-04:00",
+      "product_url": "https://www.myfonts.com/products/bodoni-classic-deco-one-two-set-package-84226",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Bodoni Classic Deco One + Two Set",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "4a4078e46a81051d"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/amaro-fleurie-and-amaro-5-package-28457",
+    "name": "Amaro Fleurie & Amaro 5",
+    "styles": [],
+    "authors": [
+      "Autographis"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-07",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-08T11:05:46.062103+00:00",
+    "raw": {
+      "id": 8308527595690,
+      "handle": "amaro-fleurie-and-amaro-5-package-28457",
+      "tags": [
+        "pim:designerId:776",
+        "pim:familyId:6895",
+        "pim:familyId:6910",
+        "pim:foundryId:3025",
+        "pim:skuId:28457"
+      ],
+      "updated_at": "2026-09-08T07:05:31-04:00",
+      "product_url": "https://www.myfonts.com/products/amaro-fleurie-and-amaro-5-package-28457",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Amaro Fleurie & Amaro 5",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "970e72bb5dde3ed3"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/slam-normal-and-rounded-complete-family-package-188571",
+    "name": "Slam Normal and Rounded Complete Family",
+    "styles": [],
+    "authors": [
+      "Wiescher Design"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-07",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-08T11:05:48.718892+00:00",
+    "raw": {
+      "id": 8616006910122,
+      "handle": "slam-normal-and-rounded-complete-family-package-188571",
+      "tags": [
+        "legible",
+        "pim:designerId:776",
+        "pim:familyId:25422",
+        "pim:familyId:25426",
+        "pim:foundryId:3609",
+        "pim:skuId:188571",
+        "serious",
+        "strong"
+      ],
+      "updated_at": "2026-09-08T07:05:31-04:00",
+      "product_url": "https://www.myfonts.com/products/slam-normal-and-rounded-complete-family-package-188571",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Slam Normal and Rounded Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "1f417d1419eb22d0"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/maybella-font-unitype-studio/",
+    "name": "Maybella",
+    "styles": [],
+    "authors": [
+      "Unitype Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-09-07",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10272/r8mA90uPArOxkMZw7KhkqqLJ_143b4e194a25deda3ec682cc4cc0c790.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-08T11:05:54.564777+00:00",
+    "raw": {
+      "id": 8615952187562,
+      "handle": "bold-maybella-1217356",
+      "tags": [
+        "calligraphy",
+        "classy",
+        "decorative",
+        "fantasy",
+        "formal",
+        "handwriting",
+        "pim:designerId:8551",
+        "pim:familyId:137099",
+        "pim:foundryId:6181",
+        "pim:skuId:1217356",
+        "romantic",
+        "wedding"
+      ],
+      "updated_at": "2026-09-08T07:05:31-04:00",
+      "product_url": "https://www.myfonts.com/products/bold-maybella-1217356",
+      "collection_url": "https://www.myfonts.com/collections/maybella-font-unitype-studio/",
+      "is_package_product": false,
+      "product_title": "Maybella",
+      "collection_name": "Maybella",
+      "myfonts_debut_date": "2026-09-07",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "f6e0f110c958e365"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/mukjizat-ramadhan-font-unitype-studio/",
+    "name": "Mukjizat Ramadhan",
+    "styles": [],
+    "authors": [
+      "Unitype Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-09-07",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10272/m1UiI92N2fcdry2urnTu6Kp4_94a1318e5a4886f694c179d335dcdbea.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-08T11:05:59.731407+00:00",
+    "raw": {
+      "id": 8615923318954,
+      "handle": "regular-mukjizat-ramadhan-1217355",
+      "tags": [
+        "calligraphy",
+        "classy",
+        "decorative",
+        "fantasy",
+        "formal",
+        "handwriting",
+        "pim:designerId:8551",
+        "pim:familyId:137098",
+        "pim:foundryId:6181",
+        "pim:skuId:1217355",
+        "tattoo"
+      ],
+      "updated_at": "2026-09-08T07:05:31-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-mukjizat-ramadhan-1217355",
+      "collection_url": "https://www.myfonts.com/collections/mukjizat-ramadhan-font-unitype-studio/",
+      "is_package_product": false,
+      "product_title": "Mukjizat Ramadhan",
+      "collection_name": "Mukjizat Ramadhan",
+      "myfonts_debut_date": "2026-09-07",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "861dcad2eec182f8"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/getina-complete-family-package-1217304",
+    "name": "Getina Complete Family",
+    "styles": [],
+    "authors": [
+      "IM Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-07",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-08T11:07:15.706129+00:00",
+    "raw": {
+      "id": 8615599112362,
+      "handle": "getina-complete-family-package-1217304",
+      "tags": [
+        "decorative",
+        "pim:designerId:4333",
+        "pim:familyId:136973",
+        "pim:foundryId:1528",
+        "pim:skuId:1217304"
+      ],
+      "updated_at": "2026-09-08T07:07:11-04:00",
+      "product_url": "https://www.myfonts.com/products/getina-complete-family-package-1217304",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Getina Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "ee7b4857bf7bf495"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/italic-variable-regular-getina-1217305",
+    "name": "Getina Italic Variable Regular",
+    "styles": [],
+    "authors": [
+      "IM Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-09-07",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-08T11:07:15.706270+00:00",
+    "raw": {
+      "id": 8615597277354,
+      "handle": "italic-variable-regular-getina-1217305",
+      "tags": [
+        "decorative",
+        "fashion",
+        "formal",
+        "pim:designerId:4333",
+        "pim:familyId:136973",
+        "pim:foundryId:1528",
+        "pim:skuId:1217305"
+      ],
+      "updated_at": "2026-09-08T07:07:11-04:00",
+      "product_url": "https://www.myfonts.com/products/italic-variable-regular-getina-1217305",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Getina Italic Variable Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "e43c5e8779fb52d5"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/variable-regular-getina-1217306",
+    "name": "Getina Variable Regular",
+    "styles": [],
+    "authors": [
+      "IM Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-09-07",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-08T11:07:16.177746+00:00",
+    "raw": {
+      "id": 8615597244586,
+      "handle": "variable-regular-getina-1217306",
+      "tags": [
+        "decorative",
+        "fashion",
+        "formal",
+        "pim:designerId:4333",
+        "pim:familyId:136973",
+        "pim:foundryId:1528",
+        "pim:skuId:1217306"
+      ],
+      "updated_at": "2026-09-08T07:07:11-04:00",
+      "product_url": "https://www.myfonts.com/products/variable-regular-getina-1217306",
+      "collection_url": null,
+      "is_package_product": false,
+      "product_title": "Getina Variable Regular",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "8416c14dc0b663b2"
+  }
+]

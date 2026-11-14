@@ -1,0 +1,50 @@
+[
+  {
+    "source_id": "ilt",
+    "source_name": "I Love Typography",
+    "source_url": "https://fonts.ilovetypography.com/fonts/familjen/loopy",
+    "name": "Loopy",
+    "styles": [
+      "Outline + Shadow",
+      "Outline",
+      "Highlight",
+      "Fill"
+    ],
+    "authors": [
+      "FamiljenType"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": null,
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-11T07:26:33.554783+00:00",
+    "raw": {
+      "release_identity": "ilt:1736149",
+      "typesense_id": "1736149",
+      "slug": "loopy",
+      "foundry": "FamiljenType",
+      "designer": "",
+      "description": "",
+      "categories": [],
+      "otfeatures": [
+        "Proportional Figures",
+        "Tabular Figures"
+      ],
+      "cedars": {
+        "cedarsFill": "solid"
+      },
+      "price": 0,
+      "fromPrice": 30,
+      "onPromotion": false,
+      "hasDemoFonts": false,
+      "hasFreeFonts": false,
+      "enabled": false,
+      "api_source": "https://ikgq6me4n0p3u2bvp-1.a1.typesense.net/collections/prod_FONTS/documents/search"
+    },
+    "release_id": "ba6c3caacdb1c0d4"
+  }
+]
