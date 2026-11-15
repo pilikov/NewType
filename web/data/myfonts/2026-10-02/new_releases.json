@@ -1,0 +1,1297 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/mosterina-font-ahweproject",
+    "name": "Mosterina Complete Family",
+    "styles": [],
+    "authors": [
+      "ahweproject"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-23T11:23:00.277806+00:00",
+    "raw": {
+      "id": 8635845083306,
+      "handle": "mosterina-complete-family-package-1227932",
+      "tags": [
+        "pim:designerId:6990",
+        "pim:familyId:137628",
+        "pim:foundryId:5034",
+        "pim:skuId:1227932",
+        "tattoo"
+      ],
+      "updated_at": "2026-09-23T07:22:40-04:00",
+      "product_url": "https://www.myfonts.com/products/mosterina-complete-family-package-1227932",
+      "collection_url": "https://www.myfonts.com/collections/mosterina-font-ahweproject",
+      "is_package_product": true,
+      "product_title": "Mosterina Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "08d2cc44656555f1"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/houston-font-unitype-studio",
+    "name": "Houston Complete Family",
+    "styles": [],
+    "authors": [
+      "Unitype Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-23T11:23:01.945662+00:00",
+    "raw": {
+      "id": 8635845050538,
+      "handle": "houston-complete-family-package-1227885",
+      "tags": [
+        "adventure",
+        "allcaps",
+        "impactful",
+        "industrial",
+        "pim:designerId:8551",
+        "pim:familyId:137616",
+        "pim:foundryId:6181",
+        "pim:skuId:1227885",
+        "serious",
+        "sports",
+        "strong"
+      ],
+      "updated_at": "2026-09-23T07:22:40-04:00",
+      "product_url": "https://www.myfonts.com/products/houston-complete-family-package-1227885",
+      "collection_url": "https://www.myfonts.com/collections/houston-font-unitype-studio",
+      "is_package_product": true,
+      "product_title": "Houston Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "aafdb2c0e4f08838"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/borne-times-font-waftype",
+    "name": "Borne Times Complete Family",
+    "styles": [],
+    "authors": [
+      "Waftype"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-23T11:23:03.040201+00:00",
+    "raw": {
+      "id": 8635844952234,
+      "handle": "borne-times-complete-family-package-1227311",
+      "tags": [
+        "pim:designerId:9664",
+        "pim:familyId:137596",
+        "pim:foundryId:7113",
+        "pim:skuId:1227311"
+      ],
+      "updated_at": "2026-09-23T07:22:40-04:00",
+      "product_url": "https://www.myfonts.com/products/borne-times-complete-family-package-1227311",
+      "collection_url": "https://www.myfonts.com/collections/borne-times-font-waftype",
+      "is_package_product": true,
+      "product_title": "Borne Times Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "448d7bffeded8068"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/geikin-font-agung-sudirman",
+    "name": "Geikin Complete Family",
+    "styles": [],
+    "authors": [
+      "Agung Sudirman"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-23T11:23:04.195621+00:00",
+    "raw": {
+      "id": 8635844886698,
+      "handle": "geikin-complete-family-package-1227929",
+      "tags": [
+        "pim:designerId:9809",
+        "pim:familyId:137627",
+        "pim:foundryId:7247",
+        "pim:skuId:1227929"
+      ],
+      "updated_at": "2026-09-23T07:22:40-04:00",
+      "product_url": "https://www.myfonts.com/products/geikin-complete-family-package-1227929",
+      "collection_url": "https://www.myfonts.com/collections/geikin-font-agung-sudirman",
+      "is_package_product": true,
+      "product_title": "Geikin Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "6afb2f0eb85178bd"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/garncoleia-font-sealoung",
+    "name": "Garncoleia Complete Family",
+    "styles": [],
+    "authors": [
+      "Sealoung"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-23T11:23:05.261810+00:00",
+    "raw": {
+      "id": 8635844919466,
+      "handle": "garncoleia-complete-family-package-1228975",
+      "tags": [
+        "calligraphy",
+        "classy",
+        "decorative",
+        "elegant",
+        "fantasy",
+        "fashion",
+        "formal",
+        "handwriting",
+        "luxury",
+        "pim:designerId:6181",
+        "pim:familyId:137695",
+        "pim:foundryId:4414",
+        "pim:skuId:1228975",
+        "romantic",
+        "serene",
+        "sleek",
+        "wedding"
+      ],
+      "updated_at": "2026-09-23T07:22:40-04:00",
+      "product_url": "https://www.myfonts.com/products/garncoleia-complete-family-package-1228975",
+      "collection_url": "https://www.myfonts.com/collections/garncoleia-font-sealoung",
+      "is_package_product": true,
+      "product_title": "Garncoleia Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "ebfb8bd6488fddb6"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/selvorith-font-donyadesign",
+    "name": "Selvorith Complete Family",
+    "styles": [],
+    "authors": [
+      "DonyaDesign"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-23T11:23:06.372016+00:00",
+    "raw": {
+      "id": 8635844853930,
+      "handle": "selvorith-complete-family-package-1228173",
+      "tags": [
+        "decorative",
+        "discount_30-Off-Selvorith_DonyaDesign_2026-09-22_2026-11-06_30_mGr1nL4fVEdnxtAZxfcE3jme:1790086682",
+        "pim:designerId:4121",
+        "pim:familyId:137656",
+        "pim:foundryId:2256",
+        "pim:skuId:1228173",
+        "special_offer"
+      ],
+      "updated_at": "2026-09-23T07:22:40-04:00",
+      "product_url": "https://www.myfonts.com/products/selvorith-complete-family-package-1228173",
+      "collection_url": "https://www.myfonts.com/collections/selvorith-font-donyadesign",
+      "is_package_product": true,
+      "product_title": "Selvorith Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "81e3059d737c4a2e"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/rejeki-font-abbastype",
+    "name": "Rejeki Complete Family",
+    "styles": [],
+    "authors": [
+      "Abbastype"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-23T11:23:08.382417+00:00",
+    "raw": {
+      "id": 8635844821162,
+      "handle": "rejeki-complete-family-package-1227670",
+      "tags": [
+        "carefree",
+        "decorative",
+        "friendly",
+        "handwriting",
+        "holiday",
+        "pim:designerId:5717",
+        "pim:familyId:137607",
+        "pim:foundryId:4015",
+        "pim:skuId:1227670",
+        "playful",
+        "romantic",
+        "serene",
+        "whimsical",
+        "youthful"
+      ],
+      "updated_at": "2026-09-23T07:22:40-04:00",
+      "product_url": "https://www.myfonts.com/products/rejeki-complete-family-package-1227670",
+      "collection_url": "https://www.myfonts.com/collections/rejeki-font-abbastype",
+      "is_package_product": true,
+      "product_title": "Rejeki Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "24bec87edfca988e"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/demavonia-font-salsatype",
+    "name": "Demavonia Complete Family",
+    "styles": [],
+    "authors": [
+      "Salsatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-23T11:23:09.472134+00:00",
+    "raw": {
+      "id": 8635844788394,
+      "handle": "demavonia-complete-family-package-1228881",
+      "tags": [
+        "formal",
+        "pim:designerId:9943",
+        "pim:familyId:137693",
+        "pim:foundryId:7378",
+        "pim:skuId:1228881",
+        "professional"
+      ],
+      "updated_at": "2026-09-23T07:22:40-04:00",
+      "product_url": "https://www.myfonts.com/products/demavonia-complete-family-package-1228881",
+      "collection_url": "https://www.myfonts.com/collections/demavonia-font-salsatype",
+      "is_package_product": true,
+      "product_title": "Demavonia Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "b72dd545e7df1c22"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/bonthe-font-dora-typefoundry",
+    "name": "Bonthe Complete Family",
+    "styles": [],
+    "authors": [
+      "Dora Typefoundry"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-23T11:23:10.441821+00:00",
+    "raw": {
+      "id": 8635844755626,
+      "handle": "bonthe-complete-family-package-1228154",
+      "tags": [
+        "discount_Bonthe_Dora-Typefoundry_2026-09-23_2026-11-07_30_fLyeZKQ89MsZbyZ3wKREaSxm:1790134083",
+        "pim:designerId:5317",
+        "pim:familyId:137657",
+        "pim:foundryId:3790",
+        "pim:skuId:1228154",
+        "special_offer"
+      ],
+      "updated_at": "2026-09-23T07:22:40-04:00",
+      "product_url": "https://www.myfonts.com/products/bonthe-complete-family-package-1228154",
+      "collection_url": "https://www.myfonts.com/collections/bonthe-font-dora-typefoundry",
+      "is_package_product": true,
+      "product_title": "Bonthe Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "b5dc57c1bb72f3b9"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/pogalis-font-salsatype",
+    "name": "Pogalis Complete Family",
+    "styles": [],
+    "authors": [
+      "Salsatype"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-23T11:23:11.508906+00:00",
+    "raw": {
+      "id": 8635844657322,
+      "handle": "pogalis-complete-family-package-1228794",
+      "tags": [
+        "formal",
+        "pim:designerId:9943",
+        "pim:familyId:137692",
+        "pim:foundryId:7378",
+        "pim:skuId:1228794",
+        "serious"
+      ],
+      "updated_at": "2026-09-23T07:22:40-04:00",
+      "product_url": "https://www.myfonts.com/products/pogalis-complete-family-package-1228794",
+      "collection_url": "https://www.myfonts.com/collections/pogalis-font-salsatype",
+      "is_package_product": true,
+      "product_title": "Pogalis Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "9d74899f6762d4cd"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/janked-font-maulana-creative",
+    "name": "Janked Complete Family",
+    "styles": [],
+    "authors": [
+      "Maulana Creative"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-23T11:23:13.258661+00:00",
+    "raw": {
+      "id": 8635844690090,
+      "handle": "janked-complete-family-package-1227666",
+      "tags": [
+        "decorative",
+        "handwriting",
+        "pim:designerId:5043",
+        "pim:familyId:137608",
+        "pim:foundryId:1642",
+        "pim:skuId:1227666",
+        "signature"
+      ],
+      "updated_at": "2026-09-23T07:22:40-04:00",
+      "product_url": "https://www.myfonts.com/products/janked-complete-family-package-1227666",
+      "collection_url": "https://www.myfonts.com/collections/janked-font-maulana-creative",
+      "is_package_product": true,
+      "product_title": "Janked Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "944e6aac8088af87"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/eastline-font-din-studio",
+    "name": "Eastline Complete Family",
+    "styles": [],
+    "authors": [
+      "Din Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-23T11:23:14.225086+00:00",
+    "raw": {
+      "id": 8635844624554,
+      "handle": "eastline-complete-family-package-1228151",
+      "tags": [
+        "decorative",
+        "pim:designerId:4036",
+        "pim:familyId:137655",
+        "pim:foundryId:2741",
+        "pim:skuId:1228151"
+      ],
+      "updated_at": "2026-09-23T07:22:40-04:00",
+      "product_url": "https://www.myfonts.com/products/eastline-complete-family-package-1228151",
+      "collection_url": "https://www.myfonts.com/collections/eastline-font-din-studio",
+      "is_package_product": true,
+      "product_title": "Eastline Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "755a429badfa6a5f"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/barbie-love-font-abbastype",
+    "name": "Barbie love Complete Family",
+    "styles": [],
+    "authors": [
+      "Abbastype"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-23T11:23:15.212780+00:00",
+    "raw": {
+      "id": 8635844591786,
+      "handle": "barbie-love-complete-family-package-1227473",
+      "tags": [
+        "decorative",
+        "pim:designerId:5717",
+        "pim:familyId:137606",
+        "pim:foundryId:4015",
+        "pim:skuId:1227473",
+        "romantic"
+      ],
+      "updated_at": "2026-09-23T07:22:40-04:00",
+      "product_url": "https://www.myfonts.com/products/barbie-love-complete-family-package-1227473",
+      "collection_url": "https://www.myfonts.com/collections/barbie-love-font-abbastype",
+      "is_package_product": true,
+      "product_title": "Barbie love Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "908bf2e769e40e9a"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/dreadly-font-ronin-design",
+    "name": "Dreadly Complete Family",
+    "styles": [],
+    "authors": [
+      "Ronin Design"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-23T11:23:16.169483+00:00",
+    "raw": {
+      "id": 8635844526250,
+      "handle": "dreadly-complete-family-package-1228791",
+      "tags": [
+        "adventure",
+        "decorative",
+        "grunge",
+        "pim:designerId:5976",
+        "pim:familyId:137691",
+        "pim:foundryId:4232",
+        "pim:skuId:1228791"
+      ],
+      "updated_at": "2026-09-23T07:22:40-04:00",
+      "product_url": "https://www.myfonts.com/products/dreadly-complete-family-package-1228791",
+      "collection_url": "https://www.myfonts.com/collections/dreadly-font-ronin-design",
+      "is_package_product": true,
+      "product_title": "Dreadly Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "4973a28803563884"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/randeta-olindra-font-dgtype",
+    "name": "Randeta Olindra Complete Family",
+    "styles": [],
+    "authors": [
+      "DGtype"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-23T11:23:17.172869+00:00",
+    "raw": {
+      "id": 8635844427946,
+      "handle": "randeta-olindra-complete-family-package-1228140",
+      "tags": [
+        "pim:designerId:4406",
+        "pim:familyId:137654",
+        "pim:foundryId:6214",
+        "pim:skuId:1228140",
+        "vintage"
+      ],
+      "updated_at": "2026-09-23T07:22:40-04:00",
+      "product_url": "https://www.myfonts.com/products/randeta-olindra-complete-family-package-1228140",
+      "collection_url": "https://www.myfonts.com/collections/randeta-olindra-font-dgtype",
+      "is_package_product": true,
+      "product_title": "Randeta Olindra Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "ec9794dfeea55b43"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/the-raylen-font-abbastype",
+    "name": "The Raylen Complete Family",
+    "styles": [],
+    "authors": [
+      "Abbastype"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-23T11:23:18.337111+00:00",
+    "raw": {
+      "id": 8635844395178,
+      "handle": "the-raylen-complete-family-package-1227472",
+      "tags": [
+        "calligraphy",
+        "carefree",
+        "classy",
+        "decorative",
+        "fantasy",
+        "formal",
+        "friendly",
+        "handwriting",
+        "holiday",
+        "pim:designerId:5717",
+        "pim:familyId:137605",
+        "pim:foundryId:4015",
+        "pim:skuId:1227472",
+        "romantic",
+        "serene",
+        "wedding",
+        "whimsical"
+      ],
+      "updated_at": "2026-09-23T07:22:40-04:00",
+      "product_url": "https://www.myfonts.com/products/the-raylen-complete-family-package-1227472",
+      "collection_url": "https://www.myfonts.com/collections/the-raylen-font-abbastype",
+      "is_package_product": true,
+      "product_title": "The Raylen Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "d4f5e93e87c3001c"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/european-vintage-font-rastype-studio",
+    "name": "European Vintage Complete Family",
+    "styles": [],
+    "authors": [
+      "Rastype Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-23T11:23:19.362020+00:00",
+    "raw": {
+      "id": 8635844362410,
+      "handle": "european-vintage-complete-family-package-1228770",
+      "tags": [
+        "artnouveau",
+        "decorative",
+        "organic",
+        "pim:designerId:4178",
+        "pim:familyId:137688",
+        "pim:foundryId:1185",
+        "pim:skuId:1228770",
+        "vintage"
+      ],
+      "updated_at": "2026-09-23T07:22:40-04:00",
+      "product_url": "https://www.myfonts.com/products/european-vintage-complete-family-package-1228770",
+      "collection_url": "https://www.myfonts.com/collections/european-vintage-font-rastype-studio",
+      "is_package_product": true,
+      "product_title": "European Vintage Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "7e03c05a13508715"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/gorvain-soft-font-keren-studio",
+    "name": "Gorvain Soft Complete Family",
+    "styles": [],
+    "authors": [
+      "Keren Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-09-22",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-23T11:23:20.353095+00:00",
+    "raw": {
+      "id": 8635844296874,
+      "handle": "gorvain-soft-complete-family-package-1229066",
+      "tags": [
+        "pim:designerId:5752",
+        "pim:familyId:137721",
+        "pim:foundryId:4043",
+        "pim:skuId:1229066"
+      ],
+      "updated_at": "2026-09-23T07:22:40-04:00",
+      "product_url": "https://www.myfonts.com/products/gorvain-soft-complete-family-package-1229066",
+      "collection_url": "https://www.myfonts.com/collections/gorvain-soft-font-keren-studio",
+      "is_package_product": true,
+      "product_title": "Gorvain Soft Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "f26d2e976f76df08"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/tt-polihaus-font-typetype/",
+    "name": "TT Polihaus",
+    "styles": [],
+    "authors": [
+      "TypeType"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-10-01",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10283/a65dyb706lcgJPHy4PaS670Y_3bc6056624299ce7f37d5ec4bb74a2b0.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-10-02T12:21:18.022654+00:00",
+    "raw": {
+      "id": 15382822518954,
+      "handle": "tt-polihaus-non-variable-package-package-1235792",
+      "tags": [
+        "decorative",
+        "pim:designerId:3816",
+        "pim:designerId:6626",
+        "pim:familyId:138143",
+        "pim:foundryId:3413",
+        "pim:skuId:1235792"
+      ],
+      "updated_at": "2026-10-02T08:21:09-04:00",
+      "product_url": "https://www.myfonts.com/products/tt-polihaus-non-variable-package-package-1235792",
+      "collection_url": "https://www.myfonts.com/collections/tt-polihaus-font-typetype/",
+      "is_package_product": true,
+      "product_title": "TT Polihaus Non-Variable Package",
+      "collection_name": "TT Polihaus",
+      "myfonts_debut_date": "2026-10-01",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "8f21e9e8e989cb1d"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/clay-timber-font-claymoon-lab-studio/",
+    "name": "Clay Timber",
+    "styles": [],
+    "authors": [
+      "Claymoon Lab Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-10-01",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10283/cWyqqOCmTmIOsFhsz0vTZzkV_c04de50f1f08c97140fc07d219136842.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-10-02T12:21:27.337604+00:00",
+    "raw": {
+      "id": 15381632254122,
+      "handle": "regular-clay-timber-1235807",
+      "tags": [
+        "pim:designerId:9853",
+        "pim:familyId:138151",
+        "pim:foundryId:7287",
+        "pim:skuId:1235807"
+      ],
+      "updated_at": "2026-10-02T08:21:09-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-clay-timber-1235807",
+      "collection_url": "https://www.myfonts.com/collections/clay-timber-font-claymoon-lab-studio/",
+      "is_package_product": false,
+      "product_title": "Clay Timber",
+      "collection_name": "Clay Timber",
+      "myfonts_debut_date": "2026-10-01",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "3328e4b681243b40"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/wirana-font-bentype/",
+    "name": "Wirana",
+    "styles": [],
+    "authors": [
+      "Bentype"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-10-01",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10283/nC40aRZEYW2HrAApv2JKgWQm_62898ab80bbbadd8e0cd9b93da50c31d.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-10-02T12:21:29.516934+00:00",
+    "raw": {
+      "id": 15381632221354,
+      "handle": "regular-wirana-1235803",
+      "tags": [
+        "decorative",
+        "pim:designerId:9475",
+        "pim:familyId:138147",
+        "pim:foundryId:6944",
+        "pim:skuId:1235803"
+      ],
+      "updated_at": "2026-10-02T08:21:09-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-wirana-1235803",
+      "collection_url": "https://www.myfonts.com/collections/wirana-font-bentype/",
+      "is_package_product": false,
+      "product_title": "Wirana",
+      "collection_name": "Wirana",
+      "myfonts_debut_date": "2026-10-01",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "da5126c31a95c910"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/mangut-font-canden-meutuah/",
+    "name": "Mangut",
+    "styles": [],
+    "authors": [
+      "Canden Meutuah"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-10-01",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10283/uEl7apgiTrLOBICRA4rizOMA_ef2d60d86f7021cfd98844d5cccb73aa.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-10-02T12:21:33.547695+00:00",
+    "raw": {
+      "id": 15381632188586,
+      "handle": "regular-mangut-1235805",
+      "tags": [
+        "artnouveau",
+        "decorative",
+        "discount_United-Nations-Day_Canden-Meutuah_2026-10-02_2026-10-31_30_CfhESZNHfABpUfpTJTSt04av:1790900766",
+        "organic",
+        "pim:designerId:8040",
+        "pim:familyId:138150",
+        "pim:foundryId:5846",
+        "pim:skuId:1235805",
+        "special_offer",
+        "vintage"
+      ],
+      "updated_at": "2026-10-02T08:21:09-04:00",
+      "product_url": "https://www.myfonts.com/products/regular-mangut-1235805",
+      "collection_url": "https://www.myfonts.com/collections/mangut-font-canden-meutuah/",
+      "is_package_product": false,
+      "product_title": "Mangut",
+      "collection_name": "Mangut",
+      "myfonts_debut_date": "2026-10-01",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "bd0c35801120facf"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/aganote-typeface-font-bosstypestudio/",
+    "name": "Aganote Typeface",
+    "styles": [],
+    "authors": [
+      "Bosstypestudio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-10-01",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10283/hLYhahKDFlsrRXR552iyrcGh_a16ae1199b69eaf3fec16f4eac2c1c70.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-10-02T12:21:38.989104+00:00",
+    "raw": {
+      "id": 15381482537130,
+      "handle": "semi-condensed-package-1235900",
+      "tags": [
+        "pim:designerId:6494",
+        "pim:familyId:138149",
+        "pim:foundryId:4670",
+        "pim:skuId:1235900"
+      ],
+      "updated_at": "2026-10-02T08:21:09-04:00",
+      "product_url": "https://www.myfonts.com/products/semi-condensed-package-1235900",
+      "collection_url": "https://www.myfonts.com/collections/aganote-typeface-font-bosstypestudio/",
+      "is_package_product": true,
+      "product_title": "Semi Condensed",
+      "collection_name": "Aganote Typeface",
+      "myfonts_debut_date": "2026-10-01",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "0660419be9b07d20"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/halloween-essentials-package-1235904",
+    "name": "Halloween Essentials",
+    "styles": [],
+    "authors": [
+      "The Ampersand Forest"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-10-01",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-10-02T12:21:41.078544+00:00",
+    "raw": {
+      "id": 15381482504362,
+      "handle": "halloween-essentials-package-1235904",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-10-02T08:21:09-04:00",
+      "product_url": "https://www.myfonts.com/products/halloween-essentials-package-1235904",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Halloween Essentials",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "a6efa844ecc4ac2b"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/periskop-font-artiveko/",
+    "name": "Periskop",
+    "styles": [],
+    "authors": [
+      "Artiveko"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-10-01",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10283/KBFIxOoVhHThR6jF7aZrYqEl_30f1e79342288a47245819f69d8de23a.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-10-02T12:21:45.350347+00:00",
+    "raw": {
+      "id": 15381482373290,
+      "handle": "periskop-complete-family-package-1235794",
+      "tags": [
+        "allcaps",
+        "decorative",
+        "pim:designerId:8871",
+        "pim:familyId:138144",
+        "pim:foundryId:6427",
+        "pim:skuId:1235794"
+      ],
+      "updated_at": "2026-10-02T08:21:09-04:00",
+      "product_url": "https://www.myfonts.com/products/periskop-complete-family-package-1235794",
+      "collection_url": "https://www.myfonts.com/collections/periskop-font-artiveko/",
+      "is_package_product": true,
+      "product_title": "Periskop Complete Family",
+      "collection_name": "Periskop",
+      "myfonts_debut_date": "2026-10-01",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "3c04bbe5a0b9430f"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/gurl-bones-font-artisan-themes/",
+    "name": "Gurl Bones",
+    "styles": [],
+    "authors": [
+      "Artisan Themes"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-10-02",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10283/YKdrUxeUcYoIPJiPIpgbjC0a_01fa60d1b8383c73751e84e0c62d81c7.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-10-02T12:21:47.717535+00:00",
+    "raw": {
+      "id": 15381482307754,
+      "handle": "gurl-bones-complete-family-package-1235797",
+      "tags": [
+        "allcaps",
+        "decorative",
+        "pim:designerId:9545",
+        "pim:familyId:138145",
+        "pim:foundryId:7007",
+        "pim:skuId:1235797"
+      ],
+      "updated_at": "2026-10-02T08:21:09-04:00",
+      "product_url": "https://www.myfonts.com/products/gurl-bones-complete-family-package-1235797",
+      "collection_url": "https://www.myfonts.com/collections/gurl-bones-font-artisan-themes/",
+      "is_package_product": true,
+      "product_title": "Gurl Bones Complete Family",
+      "collection_name": "Gurl Bones",
+      "myfonts_debut_date": "2026-10-02",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "81af02162ee46bdf"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/draventa-font-asbill-studio/",
+    "name": "Draventa",
+    "styles": [],
+    "authors": [
+      "Asbill Studio"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-10-01",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10283/03f2rC0nE1S2BjjTepx0ShBD_c2fc8d06c960b645f35a7e6861598a11.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-10-02T12:21:51.127964+00:00",
+    "raw": {
+      "id": 15381482274986,
+      "handle": "draventa-complete-family-package-1235800",
+      "tags": [
+        "allcaps",
+        "decorative",
+        "pim:designerId:9932",
+        "pim:familyId:138146",
+        "pim:foundryId:7366",
+        "pim:skuId:1235800",
+        "techno"
+      ],
+      "updated_at": "2026-10-02T08:21:09-04:00",
+      "product_url": "https://www.myfonts.com/products/draventa-complete-family-package-1235800",
+      "collection_url": "https://www.myfonts.com/collections/draventa-font-asbill-studio/",
+      "is_package_product": true,
+      "product_title": "Draventa Complete Family",
+      "collection_name": "Draventa",
+      "myfonts_debut_date": "2026-10-01",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "96da3c4f1b75e5e1"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/elegant-and-creative-font-bundle-package-1235793",
+    "name": "Elegant and Creative Font Bundle",
+    "styles": [],
+    "authors": [
+      "Mei Suseno"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-10-01",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-10-02T12:21:53.859717+00:00",
+    "raw": {
+      "id": 15381227372714,
+      "handle": "elegant-and-creative-font-bundle-package-1235793",
+      "tags": [
+        "bundle:withImages"
+      ],
+      "updated_at": "2026-10-02T08:21:52-04:00",
+      "product_url": "https://www.myfonts.com/products/elegant-and-creative-font-bundle-package-1235793",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Elegant and Creative Font Bundle",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "e0f8386b2531ee08"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/rektor-font-bold-guys/",
+    "name": "Rektor",
+    "styles": [],
+    "authors": [
+      "Bold Guys™"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-10-01",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10283/nLiy8ti7CzSJcXbPTaFK37hs_6d3338f2dfa849aaccd3041691e8b26d.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-10-02T12:21:59.348586+00:00",
+    "raw": {
+      "id": 15380887306410,
+      "handle": "rektor-compressed-package-1235756",
+      "tags": [
+        "legible",
+        "pim:designerId:1546",
+        "pim:familyId:137883",
+        "pim:foundryId:7172",
+        "pim:skuId:1235756"
+      ],
+      "updated_at": "2026-10-02T08:21:52-04:00",
+      "product_url": "https://www.myfonts.com/products/rektor-compressed-package-1235756",
+      "collection_url": "https://www.myfonts.com/collections/rektor-font-bold-guys/",
+      "is_package_product": true,
+      "product_title": "Rektor Compressed",
+      "collection_name": "Rektor",
+      "myfonts_debut_date": "2026-10-01",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "acf3066de78e6fab"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/sektor-font-bold-guys/",
+    "name": "Sektor",
+    "styles": [],
+    "authors": [
+      "Bold Guys™"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-10-01",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10281/L4YxfXIC2Ebe43qz200PLb9M_84750ddb9419bb8a151077b82d62b6ab.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-10-02T12:22:02.079238+00:00",
+    "raw": {
+      "id": 15380886978730,
+      "handle": "sektor-basic-package-1235779",
+      "tags": [
+        "pim:designerId:1546",
+        "pim:familyId:137880",
+        "pim:foundryId:7172",
+        "pim:skuId:1235779"
+      ],
+      "updated_at": "2026-10-02T08:21:52-04:00",
+      "product_url": "https://www.myfonts.com/products/sektor-basic-package-1235779",
+      "collection_url": "https://www.myfonts.com/collections/sektor-font-bold-guys/",
+      "is_package_product": true,
+      "product_title": "Sektor Basic",
+      "collection_name": "Sektor",
+      "myfonts_debut_date": "2026-10-01",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "f3f4ed6a45a007cd"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/rektor-variable-concept-font-bold-guys/",
+    "name": "Rektor Variable Concept",
+    "styles": [],
+    "authors": [
+      "Bold Guys™"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-10-01",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10280/5wtJ3uRZ2AyYvHG3pu6pPcpA_471a1a5d6b8d6085432502368431054d.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-10-02T12:22:04.698538+00:00",
+    "raw": {
+      "id": 15380886782122,
+      "handle": "rektor-variable-concept-complete-family-package-1235760",
+      "tags": [
+        "pim:designerId:1546",
+        "pim:familyId:137844",
+        "pim:foundryId:7172",
+        "pim:skuId:1235760"
+      ],
+      "updated_at": "2026-10-02T08:21:52-04:00",
+      "product_url": "https://www.myfonts.com/products/rektor-variable-concept-complete-family-package-1235760",
+      "collection_url": "https://www.myfonts.com/collections/rektor-variable-concept-font-bold-guys/",
+      "is_package_product": true,
+      "product_title": "Rektor Variable Concept Complete Family",
+      "collection_name": "Rektor Variable Concept",
+      "myfonts_debut_date": "2026-10-01",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "6af1ca111afd5bef"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/sektor-variable-concept-font-bold-guys/",
+    "name": "Sektor Variable Concept",
+    "styles": [],
+    "authors": [
+      "Bold Guys™"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-10-01",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10281/ke6u898TOVsTs9fnCC1STxRm_088a65079e97b2ce354a6b85a7745b09.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-10-02T12:22:07.592383+00:00",
+    "raw": {
+      "id": 15380886421674,
+      "handle": "sektor-variable-concept-complete-family-package-1235780",
+      "tags": [
+        "legible",
+        "pim:designerId:1546",
+        "pim:familyId:137881",
+        "pim:foundryId:7172",
+        "pim:skuId:1235780"
+      ],
+      "updated_at": "2026-10-02T08:21:52-04:00",
+      "product_url": "https://www.myfonts.com/products/sektor-variable-concept-complete-family-package-1235780",
+      "collection_url": "https://www.myfonts.com/collections/sektor-variable-concept-font-bold-guys/",
+      "is_package_product": true,
+      "product_title": "Sektor Variable Concept Complete Family",
+      "collection_name": "Sektor Variable Concept",
+      "myfonts_debut_date": "2026-10-01",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "b025634aa7176d66"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "context": {
+    "run_id": "bedba20b7699",
+    "started_at": "2026-11-15T15:23:49.614815+00:00",
+    "source_filter": [
+      "myfonts"
+    ],
+    "timeout_seconds": 20
+  },
+  "summary": {
+    "run_id": "bedba20b7699",
+    "started_at": "2026-11-15T15:23:49.614815+00:00",
+    "finished_at": "2026-11-15T16:51:59.856122Z",
+    "sources": [
+      {
+        "source_id": "myfonts",
+        "status": "success",
+        "total_releases": 547,
+        "new_releases": 99,
+        "duration_seconds": 5235.734,
+        "output_dir": "/home/runner/work/NewType/NewType/data/myfonts/periods/2026-11-02_2026-11-15",
+        "error": null
+      }
+    ]
+  }
+}
