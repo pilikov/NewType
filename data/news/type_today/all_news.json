@@ -768,5 +768,19 @@
       "post_date": "2026-11-13"
     },
     "news_id": "fb5f332f9b69b90e"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Retiler in use: Tamizdat Review",
+    "url": "https://type.today/en/journal/review",
+    "published_at": "2026-11-17",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/3/1329/preview_420_preview_image_en-F5FuNAZ3AhdzpJE-qhVyNdQC4GxutsD2ow.png",
+    "discovered_at": "2026-11-17T16:20:23.464667+00:00",
+    "raw": {
+      "slug": "review",
+      "post_date": "2026-11-17"
+    },
+    "news_id": "910579617c5b1ae4"
   }
 ]
