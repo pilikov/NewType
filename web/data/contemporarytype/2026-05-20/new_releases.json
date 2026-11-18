@@ -1,0 +1,164 @@
+[
+  {
+    "source_id": "contemporarytype",
+    "source_name": "Contemporary Type",
+    "source_url": "https://contemporarytype.com/fonts/quatorze",
+    "name": "00 Quatorze",
+    "styles": [
+      "00 Quatorze Thin",
+      "00 Quatorze Thin Italic",
+      "00 Quatorze Light",
+      "00 Quatorze Light Italic",
+      "00 Quatorze Regular",
+      "00 Quatorze Italic",
+      "00 Quatorze Medium",
+      "00 Quatorze Medium Italic",
+      "00 Quatorze Bold",
+      "00 Quatorze Bold Italic",
+      "00 Quatorze Black",
+      "00 Quatorze Black Italic",
+      "00 Quatorze Display Thin",
+      "00 Quatorze Display Thin Italic",
+      "00 Quatorze Display Light",
+      "00 Quatorze Display Light Italic",
+      "00 Quatorze Display Regular",
+      "00 Quatorze Display Italic",
+      "00 Quatorze Display Medium",
+      "00 Quatorze Display Medium Italic",
+      "00 Quatorze Display Bold",
+      "00 Quatorze Display Bold Italic",
+      "00 Quatorze Display Black",
+      "00 Quatorze Display Black Italic",
+      "00 Quatorze Mono Thin",
+      "00 Quatorze Mono Thin Italic",
+      "00 Quatorze Mono Light",
+      "00 Quatorze Mono Light Italic",
+      "00 Quatorze Mono Regular",
+      "00 Quatorze Mono Italic",
+      "00 Quatorze Mono Medium",
+      "00 Quatorze Mono Medium Italic",
+      "00 Quatorze Mono Bold",
+      "00 Quatorze Mono Bold Italic",
+      "00 Quatorze Mono Black",
+      "00 Quatorze Mono Black Italic",
+      "00 Quatorze Mono Display Thin",
+      "00 Quatorze Mono Display Thin Italic",
+      "00 Quatorze Mono Display Light",
+      "00 Quatorze Mono Display Light Italic",
+      "00 Quatorze Mono Display Regular",
+      "00 Quatorze Mono Display Italic",
+      "00 Quatorze Mono Display Medium",
+      "00 Quatorze Mono Display Medium Italic",
+      "00 Quatorze Mono Display Bold",
+      "00 Quatorze Mono Display Bold Italic",
+      "00 Quatorze Mono Display Black",
+      "00 Quatorze Mono Display Black Italic",
+      "00 Quatorze Variable"
+    ],
+    "authors": [
+      "D0UBLE ZER0"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-05-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-05-20T09:58:39.404423+00:00",
+    "raw": {
+      "release_identity": "contemporarytype-product:159",
+      "product": {
+        "id": 159,
+        "title": "00 Quatorze",
+        "slug": "quatorze",
+        "url": "https://contemporarytype.com/fonts/quatorze",
+        "body": "00 Quatorze reinterprets the familiar language of the geometric sans serif. Built on clean, rational shapes, it introduces subtle gestures that soften its tone and bring a more human presence. Details such as the single-storey g and u-shaped y lend the typeface human qualities, while the varying widths of the capitals create a distinct texture in all-caps settings.\r\n\r\nFrom this relatively neutral foundation, the family expands into more expressive territories. The Display style pushes contrast to the limit, with hairline connections and extremely tight spacing. The Mono version explores the constraints of fixed spacing, finding inventive solutions for characters like m and r. Finally, the Mono Display combines these experiments and adds connecting serifs, resulting in a final style that feels both unexpected and cohesive.\r\n\r\nTogether, the styles of 00 Quatorze form a family that moves fluidly between clarity and character—capable of shifting from functional text to expressive display with ease.",
+        "seo_title": "00 Quatorze ● Geometric Sans ● Download Free Trials ● by Double Zero",
+        "seo_description": "Quatorze is a modern take on geometric sans-serif design. Built from clean, rational shapes, this variable font family adds subtle details for a softer, more human feel. Available in Mono & Proportional styles across Text & Display optical sizes.",
+        "download_pdf": null,
+        "free_trials": "https://backend.contemporarytype.com/files/products/00 Quatorze Non-Commercial.zip",
+        "end_user_license": "https://backend.contemporarytype.com/files/products/EULA-DBLZR-V1-3-1.pdf",
+        "font_size_sum": 0,
+        "group": [
+          "sans-serif"
+        ],
+        "tone": [
+          "formal",
+          "casual"
+        ],
+        "use_size": [
+          "large",
+          "medium",
+          "small"
+        ],
+        "width": [
+          "normal",
+          "mono"
+        ],
+        "weight": [
+          "light",
+          "regular",
+          "medium",
+          "bold"
+        ],
+        "contrast": [
+          "high",
+          "low"
+        ],
+        "other": [
+          "variable",
+          "italic"
+        ],
+        "languages": [],
+        "ot_features": [
+          "aalt",
+          "case",
+          "ccmp",
+          "dlig",
+          "dnom",
+          "frac",
+          "liga",
+          "lnum",
+          "locl",
+          "numr",
+          "onum",
+          "ordn",
+          "pnum",
+          "sinf",
+          "ss01",
+          "ss02",
+          "ss05",
+          "subs",
+          "sups",
+          "tnum",
+          "rlig"
+        ],
+        "approved": true,
+        "approved_date": "2026-05-19",
+        "purchasable": true,
+        "hasWoff": true,
+        "created": "2026-04-27 23:27:17",
+        "customizer_active": false
+      },
+      "brand": {
+        "id": 77,
+        "title": "D0UBLE ZER0",
+        "slug": "double-zero",
+        "body": "[D0UBLE ZER0](https://www.dblzr.com/) is a French type foundry founded in 2022 by Malou Verlomme. Our fonts are made with love and crafted to the highest quality.\r\n\r\n**The system is the system is the foundry**\r\n\r\nWe like to conceive font families as large systems where type becomes malleable and adaptable. All our fonts abide to the strict rules of the [D0UBLE ZER0 Manifesto](https://www.dblzr.com/manifesto), therefor they also create a larger system. They are all calibrated in the same manner, so every variable is interchangeable. The idea is to have the largest possible palette flow with ease and agility. Our variable fonts, are state of the art, featuring a rich 4 axis design space. In other words, a hypercube. \r\n\r\nInstagram: [@malouverlomme](https://www.instagram.com/malouverlomme/)\r\n\r\nContact: [email](mailto:contact@dblzr.com)",
+        "buyable": true,
+        "approved": true,
+        "currency": "USD"
+      },
+      "supported_languages": [],
+      "language_source": "none",
+      "variant_count": 49,
+      "license_count": 1,
+      "detail_enrichment": {
+        "used": true,
+        "ok": true
+      },
+      "api_source": "https://backend.contemporarytype.com/api_front/products"
+    },
+    "release_id": "94a19ca8345420b5"
+  }
+]

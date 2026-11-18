@@ -1,0 +1,175 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/lucient-font-nia-typework",
+    "name": "Lucient Complete Family",
+    "styles": [],
+    "authors": [
+      "Nia Typework"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-06-19",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-20T09:37:50.134033+00:00",
+    "raw": {
+      "id": 8464351592618,
+      "handle": "lucient-complete-family-package-1171675",
+      "tags": [
+        "discount_30-Off_Nia-Typework_2026-06-20_2026-06-28_30_E63xOJYm2BBxtGad3Xw1394u:1781914926",
+        "discount_Lucient-30-Off_Nia-Typework_2026-06-20_2026-08-04_30_Ognibh2ZDBKWBvdZKBZgZ2TG:1781927762",
+        "pim:designerId:9677",
+        "pim:familyId:134207",
+        "pim:foundryId:7120",
+        "pim:skuId:1171675",
+        "special_offer"
+      ],
+      "updated_at": "2026-06-20T05:35:48-04:00",
+      "product_url": "https://www.myfonts.com/products/lucient-complete-family-package-1171675",
+      "collection_url": "https://www.myfonts.com/collections/lucient-font-nia-typework",
+      "is_package_product": true,
+      "product_title": "Lucient Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "93747e1a9d6b7450"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/publice-font-glyphminds-studios",
+    "name": "Publice Complete Family",
+    "styles": [],
+    "authors": [
+      "Glyphminds Studios"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-06-24",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-24T09:47:55.342773+00:00",
+    "raw": {
+      "id": 8467168854186,
+      "handle": "publice-complete-family-package-1172536",
+      "tags": [
+        "pim:designerId:6283",
+        "pim:familyId:134297",
+        "pim:foundryId:6516",
+        "pim:skuId:1172536"
+      ],
+      "updated_at": "2026-06-24T05:47:38-04:00",
+      "product_url": "https://www.myfonts.com/products/publice-complete-family-package-1172536",
+      "collection_url": "https://www.myfonts.com/collections/publice-font-glyphminds-studios",
+      "is_package_product": true,
+      "product_title": "Publice Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "50c663a1d154c90b"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/kombinator-font-fontroll",
+    "name": "Kombinator Complete Family",
+    "styles": [],
+    "authors": [
+      "Fontroll"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-06-24",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-24T09:48:05.173562+00:00",
+    "raw": {
+      "id": 8467168526506,
+      "handle": "kombinator-complete-family-package-1172505",
+      "tags": [
+        "carefree",
+        "comic",
+        "decorative",
+        "kids",
+        "pim:designerId:7282",
+        "pim:familyId:134289",
+        "pim:foundryId:5258",
+        "pim:skuId:1172505",
+        "playful",
+        "soft",
+        "whimsical",
+        "youthful"
+      ],
+      "updated_at": "2026-06-24T05:47:38-04:00",
+      "product_url": "https://www.myfonts.com/products/kombinator-complete-family-package-1172505",
+      "collection_url": "https://www.myfonts.com/collections/kombinator-font-fontroll",
+      "is_package_product": true,
+      "product_title": "Kombinator Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "1e52a443eaef9c55"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/rasley-heights-font-mans-greback/",
+    "name": "Rasley Heights",
+    "styles": [],
+    "authors": [
+      "Mans Greback"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-01",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10237/jly3QrX96lUT0IyL1dSoeln0_5541f3a6795936d5ee55caa2f2ef81e9.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-02T09:27:48.627782+00:00",
+    "raw": {
+      "id": 8474456260778,
+      "handle": "rasley-heights-complete-family-package-1161877",
+      "tags": [
+        "calligraphy",
+        "classy",
+        "decorative",
+        "fantasy",
+        "formal",
+        "handwriting",
+        "luxury",
+        "pim:designerId:2344",
+        "pim:familyId:133314",
+        "pim:foundryId:3066",
+        "pim:skuId:1161877",
+        "romantic",
+        "sleek",
+        "wedding"
+      ],
+      "updated_at": "2026-07-02T05:27:45-04:00",
+      "product_url": "https://www.myfonts.com/products/rasley-heights-complete-family-package-1161877",
+      "collection_url": "https://www.myfonts.com/collections/rasley-heights-font-mans-greback/",
+      "is_package_product": true,
+      "product_title": "Rasley Heights Complete Family",
+      "collection_name": "Rasley Heights",
+      "myfonts_debut_date": "2026-07-01",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "f454c54a28bedd91"
+  }
+]

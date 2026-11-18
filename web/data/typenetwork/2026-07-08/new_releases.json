@@ -1,0 +1,101 @@
+[
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/contrastfoundry/fonts/cofo-sans-pro-georgian",
+    "name": "CoFo Sans Pro Georgian",
+    "styles": [],
+    "authors": [
+      "Contrast Foundry"
+    ],
+    "scripts": [
+      "Cyrillic",
+      "Latin",
+      "Unknown (241)"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-07-07",
+    "image_url": "https://s3.eu-west-1.amazonaws.com/cofo-uploads-prod/cofo_websote_cover_01653956852899.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-08T08:55:44.247242+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5643",
+      "family_id": 5643,
+      "family_slug": "cofo-sans-pro-georgian",
+      "catalog_url": "/foundry/contrastfoundry/fonts/cofo-sans-pro-georgian",
+      "released": "2026-07-07T18:42:28.127550Z",
+      "uploaded": "2026-07-07T18:42:28.127557Z",
+      "foundry_ids": [
+        66
+      ],
+      "supported_scripts": [
+        215,
+        220,
+        241
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        9
+      ],
+      "variable": true,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Contrast Foundry",
+        "foundry_site_url": "https://contrastfoundry.com/",
+        "image_page_url": "https://contrastfoundry.com/projects"
+      }
+    },
+    "release_id": "d71e9531a16a93bd"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/radluka/fonts/rl-sachs-display",
+    "name": "RL Sachs Display",
+    "styles": [],
+    "authors": [
+      "radluka"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-07-07",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-08T08:55:48.367166+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5642",
+      "family_id": 5642,
+      "family_slug": "rl-sachs-display",
+      "catalog_url": "/foundry/radluka/fonts/rl-sachs-display",
+      "released": "2026-07-07T18:32:18.098718Z",
+      "uploaded": "2026-07-07T18:32:18.098726Z",
+      "foundry_ids": [
+        138
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": true,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "radluka",
+        "foundry_site_url": "https://radluka.com/"
+      }
+    },
+    "release_id": "95b7918f3f9a5fe0"
+  }
+]

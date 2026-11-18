@@ -1,0 +1,71 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/benjamin-tuttle/goetia",
+    "name": "Goetia",
+    "styles": [],
+    "authors": [
+      "Benjamin Tuttle"
+    ],
+    "scripts": [
+      "basic-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-06-11",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/slide/image/40689/medium_Goetia-FutureFonts_Cards-v0_1-1.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-12T10:42:43.570663+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:22199",
+      "activity_id": 22199,
+      "activity_key": "typeface.new_release",
+      "activity_type": "new_release",
+      "activity_type_label": "New Release",
+      "release_kind": "new_release",
+      "is_new_version": false,
+      "version": null,
+      "trackable_type": "Typeface",
+      "trackable_id": 2992,
+      "resolved_typeface_id": 2992,
+      "typeface_language": "basic-latin"
+    },
+    "release_id": "e6ecdd3ec8e97f53"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/loveletters/stupid-sans?v=1.0",
+    "name": "Stupid Sans",
+    "styles": [],
+    "authors": [
+      "Love Letters"
+    ],
+    "scripts": [
+      "basic-latin",
+      "extended-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-06-11",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/60/medium_thumbnail-05.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/9957/Stupid-Sans-V1.0.pdf",
+    "discovered_at": "2026-06-12T10:42:44.046406+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:22166",
+      "activity_id": 22166,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "1.0",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 9957,
+      "resolved_typeface_id": 2497,
+      "typeface_language": "basic-latin,extended-latin"
+    },
+    "release_id": "ee8e79381c64bb87"
+  }
+]
