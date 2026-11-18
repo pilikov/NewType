@@ -1,0 +1,94 @@
+[
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/kontour/fonts/riant-mono-vf",
+    "name": "Riant Mono VF",
+    "styles": [],
+    "authors": [
+      "Kontour"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-11-05",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-11-06T14:26:19.432711+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5761",
+      "family_id": 5761,
+      "family_slug": "riant-mono-vf",
+      "catalog_url": "/foundry/kontour/fonts/riant-mono-vf",
+      "released": "2026-11-05T16:30:43.492963Z",
+      "uploaded": "2026-11-05T16:30:43.492978Z",
+      "foundry_ids": [
+        19
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": true,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Kontour",
+        "foundry_site_url": "http://www.kontour.com"
+      }
+    },
+    "release_id": "61786c2a0cdb9024"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/kontour/fonts/riant-mono",
+    "name": "Riant Mono",
+    "styles": [],
+    "authors": [
+      "Kontour"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-11-05",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-11-06T14:26:19.847179+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5760",
+      "family_id": 5760,
+      "family_slug": "riant-mono",
+      "catalog_url": "/foundry/kontour/fonts/riant-mono",
+      "released": "2026-11-05T16:30:41.328464Z",
+      "uploaded": "2026-11-05T16:30:41.328473Z",
+      "foundry_ids": [
+        19
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "promo_not_found",
+        "foundry_name": "Kontour",
+        "foundry_site_url": "http://www.kontour.com"
+      }
+    },
+    "release_id": "6cd411ea480ebc42"
+  }
+]

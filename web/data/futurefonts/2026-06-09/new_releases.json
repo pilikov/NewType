@@ -1,0 +1,38 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/mass-driver/thermochrome?v=0.5",
+    "name": "MD Thermochrome",
+    "styles": [],
+    "authors": [
+      "Mass-Driver"
+    ],
+    "scripts": [
+      "basic-latin",
+      "extended-latin",
+      "vietnamese"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-06-09",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/172/medium_ff-hero.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/9924/MD_Thermochrome-0_5-Specimen.pdf",
+    "discovered_at": "2026-06-09T10:12:44.383203+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:22067",
+      "activity_id": 22067,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.5",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 9924,
+      "resolved_typeface_id": 517,
+      "typeface_language": "basic-latin,extended-latin,vietnamese"
+    },
+    "release_id": "1aee0071daf35a4d"
+  }
+]
