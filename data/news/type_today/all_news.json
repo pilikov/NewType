@@ -782,5 +782,19 @@
       "post_date": "2026-11-17"
     },
     "news_id": "910579617c5b1ae4"
+  },
+  {
+    "source_id": "type_today",
+    "source_name": "type.today",
+    "title": "Alexander Lubovenko, Ilya Ruderman: ‘At the end of the era of font engineering’",
+    "url": "https://type.today/en/journal/alexander-lubovenko",
+    "published_at": "2026-11-19",
+    "image_url": "https://cdn-gc.type.today/storage/post/1/3/1330/preview_420_preview_image_en-D5NG56lgjwvsXFmtI_IbFe6Uh_Ak2XmyWg.png",
+    "discovered_at": "2026-11-19T16:16:13.590346+00:00",
+    "raw": {
+      "slug": "alexander-lubovenko",
+      "post_date": "2026-11-19"
+    },
+    "news_id": "3cdbdacce805b507"
   }
 ]
