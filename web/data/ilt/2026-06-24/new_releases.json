@@ -1,0 +1,103 @@
+[
+  {
+    "source_id": "ilt",
+    "source_name": "I Love Typography",
+    "source_url": "https://fonts.ilovetypography.com/fonts/rohh/pusia-nova",
+    "name": "Pusia Nova",
+    "styles": [
+      "Hairline",
+      "Hairline Italic",
+      "Ultra Thin",
+      "Ultra Thin Italic",
+      "Thin",
+      "Thin Italic",
+      "Light",
+      "Light Italic",
+      "Book",
+      "Book Italic",
+      "Regular",
+      "Italic",
+      "Demi Bold",
+      "Demi Bold Italic",
+      "Bold",
+      "Bold Italic",
+      "Extra Bold",
+      "Extra Bold Italic",
+      "Black",
+      "Black Italic"
+    ],
+    "authors": [
+      "ROHH",
+      "Roch Modrzejewski"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2025-06-17",
+    "image_url": "https://empty-grouse.transforms.svdcdn.com/production/images/Pusia-Nova-1.png?w=580&auto=compress%2Cformat&fit=min&dm=1782285794&s=75c7d400aebb7c95264325c331cf821c",
+    "woff_url": "https://d3qx8f8l5aa3yc.cloudfront.net/webfonts/rohh/PusiaNova-Regular.woff?v=1782285505",
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-24T10:17:39.427803+00:00",
+    "raw": {
+      "release_identity": "ilt:1752879",
+      "typesense_id": "1752879",
+      "slug": "pusia-nova",
+      "foundry": "ROHH",
+      "designer": "Roch Modrzejewski",
+      "description": "Pusia Nova is a modern spurless sans-serif with a positive vibe. Its design is simple, slightly condensed, and a bit rounded—resulting in a typeface that is minimal without being sterile. It combines sleek, contemporary forms with a casual, friendly presence—approachable yet precise.\n\nBuilt for demanding environments—editorial, identity systems, UI—it handles scale, contrast, and density with ease. Pusia Nova’s effortless personality lets it navigate seamlessly between professional settings and more relaxed, youthful contexts—ideal for video games, magazines, brands, and projects that want clarity with a touch of warmth.",
+      "categories": [
+        "Sans serif fonts"
+      ],
+      "otfeatures": [
+        "Contextual Alternates",
+        "Discretionary Ligatures",
+        "Standard Ligatures",
+        "Small Capitals",
+        "Small Capitals from Capitals",
+        "Case-sensitive  Forms",
+        "Subscript",
+        "Superscript",
+        "Lining Figures",
+        "Old-style Figures",
+        "Proportional Figures",
+        "Tabular Figures",
+        "Slashed Zero",
+        "Fractions"
+      ],
+      "cedars": {
+        "cLatinCapWaist": "5",
+        "cLatinLowerA": "double",
+        "cLatinLowerAStroke": "convex",
+        "cLatinLowerC": "blunted",
+        "cLatinLowerE": "rounded",
+        "cLatinLowerG": "single",
+        "cLatinSerif": "na",
+        "cLatinUpperK": "stepped",
+        "cLatinUpperM": "floating",
+        "cLatinUpperR": "straight",
+        "cLatinWidths": "proportional",
+        "cLatinxHeight": "75",
+        "cedarsAxis": "90",
+        "cedarsConstruction": "formal",
+        "cedarsContrast": "0",
+        "cedarsEnergy": "3",
+        "cedarsFill": "solid",
+        "cedarsFinials": "1",
+        "cedarsLoops": "superellipse",
+        "cedarsPattern": "5",
+        "cedarsTerminals": "soft",
+        "cedarsTransitions": "intersecting",
+        "cedarsWidths": "5"
+      },
+      "price": 180,
+      "fromPrice": 39,
+      "onPromotion": false,
+      "hasDemoFonts": false,
+      "hasFreeFonts": false,
+      "enabled": true,
+      "api_source": "https://ikgq6me4n0p3u2bvp-1.a1.typesense.net/collections/prod_FONTS/documents/search"
+    },
+    "release_id": "c5a782bdbf5eda71"
+  }
+]
