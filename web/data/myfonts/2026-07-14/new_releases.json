@@ -1,0 +1,169 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/sys-1-1-font-fsd/",
+    "name": "Sys 1.1",
+    "styles": [],
+    "authors": [
+      "FSD"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-13",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=150,height=150,fit=contain,format=auto/images/pim/10004/i6V6Kzm1l1DFomQbp97GuNZb_51ba74f67ff7ef13a2befed34c733733.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-14T08:21:25.491437+00:00",
+    "raw": {
+      "id": 8483963535530,
+      "handle": "sys-11-complete-family-package-1181773",
+      "tags": [
+        "legible",
+        "pim:designerId:692",
+        "pim:familyId:77625",
+        "pim:foundryId:3618",
+        "pim:skuId:1181773"
+      ],
+      "updated_at": "2026-07-14T04:21:22-04:00",
+      "product_url": "https://www.myfonts.com/products/sys-11-complete-family-package-1181773",
+      "collection_url": "https://www.myfonts.com/collections/sys-1-1-font-fsd/",
+      "is_package_product": true,
+      "product_title": "Sys 1.1 Complete Family",
+      "collection_name": "Sys 1.1",
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "c2aef057faed04e8"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/telegdi-antiqua-font-monovo/",
+    "name": "Telegdi Antiqua",
+    "styles": [],
+    "authors": [
+      "Monovo"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-13",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10241/X2OjYlmNJ5kCVuWOAJfOP34B_a63c95bdbfbc72b9f514b3cb0e2952d0.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-14T08:21:35.601538+00:00",
+    "raw": {
+      "id": 8483809296554,
+      "handle": "telegdi-antiqua-complete-family-package-1167731",
+      "tags": [
+        "adventure",
+        "decorative",
+        "grunge",
+        "pim:designerId:879",
+        "pim:familyId:133905",
+        "pim:foundryId:7151",
+        "pim:skuId:1167731"
+      ],
+      "updated_at": "2026-07-14T04:21:22-04:00",
+      "product_url": "https://www.myfonts.com/products/telegdi-antiqua-complete-family-package-1167731",
+      "collection_url": "https://www.myfonts.com/collections/telegdi-antiqua-font-monovo/",
+      "is_package_product": true,
+      "product_title": "Telegdi Antiqua Complete Family",
+      "collection_name": "Telegdi Antiqua",
+      "myfonts_debut_date": "2026-07-13",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "9045d4122c6eb191"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/dayset-script-font-mans-greback/",
+    "name": "Dayset Script",
+    "styles": [],
+    "authors": [
+      "Mans Greback"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-13",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10238/L8qei1XSRWTR936HbTydTZ8p_8ae93f3f029162c53a01a84e8f5149b5.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-14T08:21:37.882656+00:00",
+    "raw": {
+      "id": 8483809263786,
+      "handle": "dayset-script-complete-family-package-1163953",
+      "tags": [
+        "brush",
+        "carefree",
+        "decorative",
+        "friendly",
+        "handwriting",
+        "holiday",
+        "pim:designerId:2344",
+        "pim:familyId:133626",
+        "pim:foundryId:3066",
+        "pim:skuId:1163953",
+        "romantic",
+        "serene",
+        "whimsical"
+      ],
+      "updated_at": "2026-07-14T04:21:22-04:00",
+      "product_url": "https://www.myfonts.com/products/dayset-script-complete-family-package-1163953",
+      "collection_url": "https://www.myfonts.com/collections/dayset-script-font-mans-greback/",
+      "is_package_product": true,
+      "product_title": "Dayset Script Complete Family",
+      "collection_name": "Dayset Script",
+      "myfonts_debut_date": "2026-07-13",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "3d1432abc8765e9e"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/deadbeat-font-mans-greback/",
+    "name": "Deadbeat",
+    "styles": [],
+    "authors": [
+      "Mans Greback"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-07-14",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10238/ceds0EE4WyPkY20jrArMUB1c_9bc20619154714e509826300b74059d3.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-14T08:21:42.390551+00:00",
+    "raw": {
+      "id": 8483809165482,
+      "handle": "deadbeat-complete-family-package-1163958",
+      "tags": [
+        "decorative",
+        "pim:designerId:2344",
+        "pim:familyId:133627",
+        "pim:foundryId:3066",
+        "pim:skuId:1163958",
+        "tattoo"
+      ],
+      "updated_at": "2026-07-14T04:21:22-04:00",
+      "product_url": "https://www.myfonts.com/products/deadbeat-complete-family-package-1163958",
+      "collection_url": "https://www.myfonts.com/collections/deadbeat-font-mans-greback/",
+      "is_package_product": true,
+      "product_title": "Deadbeat Complete Family",
+      "collection_name": "Deadbeat",
+      "myfonts_debut_date": "2026-07-14",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "be77e8e2aaac0ec4"
+  }
+]

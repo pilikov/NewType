@@ -1,0 +1,127 @@
+[
+  {
+    "source_id": "ilt",
+    "source_name": "I Love Typography",
+    "source_url": "https://fonts.ilovetypography.com/fonts/typetogether/dargon-text",
+    "name": "Dargon Text",
+    "styles": [
+      "Medium Italic",
+      "Italic",
+      "Extrabold",
+      "Bold",
+      "Semibold",
+      "Medium",
+      "Regular",
+      "Extrabold Italic",
+      "Bold Italic",
+      "Semibold Italic"
+    ],
+    "authors": [
+      "TypeTogether",
+      "Anne-Dauphine Borione"
+    ],
+    "scripts": [
+      "Greek",
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-05-14",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-30T08:59:31.354606+00:00",
+    "raw": {
+      "release_identity": "ilt:1757015",
+      "typesense_id": "1757015",
+      "slug": "dargon-text",
+      "foundry": "TypeTogether",
+      "designer": "Anne-Dauphine Borione",
+      "description": "Carved by light, Anne-Dauphine Borione’s Dargon is an epic type family made by and for fantasy themes. Dargon’s future medieval aesthetics make it the perfect typographic companion for fantastic graphic quests of all kinds, on screens or in print.\n\n2024 Gerard Unger Scholarship",
+      "categories": [
+        "Serif fonts"
+      ],
+      "otfeatures": [
+        "Contextual Alternates",
+        "Discretionary Ligatures",
+        "Standard Ligatures",
+        "Small Capitals",
+        "Small Capitals from Capitals",
+        "Case-sensitive  Forms",
+        "Subscript",
+        "Superscript",
+        "Lining Figures",
+        "Old-style Figures",
+        "Proportional Figures",
+        "Tabular Figures",
+        "Slashed Zero",
+        "Fractions"
+      ],
+      "cedars": {
+        "cedarsFill": "solid"
+      },
+      "price": 307,
+      "fromPrice": 46,
+      "onPromotion": false,
+      "hasDemoFonts": false,
+      "hasFreeFonts": false,
+      "enabled": false,
+      "api_source": "https://ikgq6me4n0p3u2bvp-1.a1.typesense.net/collections/prod_FONTS/documents/search"
+    },
+    "release_id": "8e1184aa822df377"
+  },
+  {
+    "source_id": "ilt",
+    "source_name": "I Love Typography",
+    "source_url": "https://fonts.ilovetypography.com/fonts/typetogether/dargon",
+    "name": "Dargon",
+    "styles": [
+      "Ignis",
+      "Aegis",
+      "Limen",
+      "Mutatio",
+      "Oculus",
+      "Umbra"
+    ],
+    "authors": [
+      "TypeTogether",
+      "Anne-Dauphine Borione"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-05-14",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-07-30T08:59:31.354657+00:00",
+    "raw": {
+      "release_identity": "ilt:1756995",
+      "typesense_id": "1756995",
+      "slug": "dargon",
+      "foundry": "TypeTogether",
+      "designer": "Anne-Dauphine Borione",
+      "description": "Carved by light, Anne-Dauphine Borione’s Dargon is an epic type family made by and for fantasy themes. Dargon’s future medieval aesthetics make it the perfect typographic companion for fantastic graphic quests of all kinds, on screens or in print.\n\n2024 Gerard Unger Scholarship",
+      "categories": [
+        "Serif fonts",
+        "Display & decorative fonts"
+      ],
+      "otfeatures": [
+        "Contextual Alternates",
+        "Superscript",
+        "Fractions"
+      ],
+      "cedars": {
+        "cedarsFill": "solid"
+      },
+      "price": 226,
+      "fromPrice": 46,
+      "onPromotion": false,
+      "hasDemoFonts": false,
+      "hasFreeFonts": false,
+      "enabled": false,
+      "api_source": "https://ikgq6me4n0p3u2bvp-1.a1.typesense.net/collections/prod_FONTS/documents/search"
+    },
+    "release_id": "80478f39f09aa86f"
+  }
+]
