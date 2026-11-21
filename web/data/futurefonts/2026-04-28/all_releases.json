@@ -1,0 +1,37 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/duong-tran/siryous?v=0.2",
+    "name": "Siryous",
+    "styles": [],
+    "authors": [
+      "Dương Trần"
+    ],
+    "scripts": [
+      "vietnamese",
+      "basic-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-04-27",
+    "image_url": "https://assets.futurefonts.com/images/FutureFonts-meta.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/9264/Siryous-0.2_Specimen.pdf",
+    "discovered_at": "2026-04-28T08:51:41.814533+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:20615",
+      "activity_id": 20615,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.2",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 9264,
+      "resolved_typeface_id": 2299,
+      "typeface_language": "vietnamese,basic-latin"
+    },
+    "release_id": "2106dd389b935db6"
+  }
+]
