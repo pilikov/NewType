@@ -1,0 +1,36 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/jakob-fangmeier/kante?v=1.0",
+    "name": "Kante",
+    "styles": [],
+    "authors": [
+      "Jakob Fangmeier"
+    ],
+    "scripts": [
+      "basic-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-09-01",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/292/medium_CoverFF.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/10552/Specimen.pdf",
+    "discovered_at": "2026-09-01T11:45:02.379445+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:23354",
+      "activity_id": 23354,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "1.0",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 10552,
+      "resolved_typeface_id": 1672,
+      "typeface_language": "basic-latin"
+    },
+    "release_id": "0abaf296ee5c4f7d"
+  }
+]
