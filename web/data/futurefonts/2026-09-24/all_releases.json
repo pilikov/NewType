@@ -1,0 +1,72 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/spoke/fulcrum?v=0.3",
+    "name": "Fulcrum",
+    "styles": [],
+    "authors": [
+      "Spoke"
+    ],
+    "scripts": [
+      "basic-latin",
+      "extended-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-09-23",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/10/medium_Spoke_header.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/10749/Fulcrum_specimen.pdf",
+    "discovered_at": "2026-09-24T11:53:08.947545+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:23750",
+      "activity_id": 23750,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.3",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 10749,
+      "resolved_typeface_id": 2167,
+      "typeface_language": "basic-latin,extended-latin"
+    },
+    "release_id": "dab901e02769b9f6"
+  },
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/naipe/pacaembu?v=2.0",
+    "name": "Pacaembu",
+    "styles": [],
+    "authors": [
+      "Naipe Foundry"
+    ],
+    "scripts": [
+      "basic-latin",
+      "extended-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-09-23",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/18/medium_Disc2.png",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/10683/Pacaembu_Specimen.pdf",
+    "discovered_at": "2026-09-24T11:53:09.097520+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:23717",
+      "activity_id": 23717,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "2.0",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 10683,
+      "resolved_typeface_id": 203,
+      "typeface_language": "basic-latin,extended-latin"
+    },
+    "release_id": "a1c7edb665c4fe50"
+  }
+]
