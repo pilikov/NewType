@@ -1,0 +1,56 @@
+[
+  {
+    "source_id": "ilt",
+    "source_name": "I Love Typography",
+    "source_url": "https://fonts.ilovetypography.com/fonts/familjen/test-loopy",
+    "name": "Test Loopy",
+    "styles": [
+      "Fill",
+      "Outline",
+      "Outline + Shadow",
+      "Highlight"
+    ],
+    "authors": [
+      "FamiljenType",
+      "test"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-04-01",
+    "image_url": "https://empty-grouse.transforms.svdcdn.com/production/images/950x475__Sida_1.png?w=580&auto=compress%2Cformat&fit=min&dm=1776851942&s=18a15fccd0dd388b9075a59a3980d0e7",
+    "woff_url": "https://d3qx8f8l5aa3yc.cloudfront.net/webfonts/familjen/Loopy-Fill_2026-04-24-090354_qjfa.woff?v=1777021462",
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-25T07:57:41.638878+00:00",
+    "raw": {
+      "release_identity": "ilt:1737717",
+      "typesense_id": "1737717",
+      "slug": "test-loopy",
+      "foundry": "FamiljenType",
+      "designer": "test",
+      "description": "testtest",
+      "categories": [
+        "Sans serif fonts",
+        "Display & decorative fonts",
+        "Free Fonts",
+        "Web Fonts"
+      ],
+      "otfeatures": [
+        "Proportional Figures",
+        "Tabular Figures"
+      ],
+      "cedars": {
+        "cedarsFill": "solid"
+      },
+      "price": 0,
+      "fromPrice": 0,
+      "onPromotion": false,
+      "hasDemoFonts": false,
+      "hasFreeFonts": true,
+      "enabled": false,
+      "api_source": "https://ikgq6me4n0p3u2bvp-1.a1.typesense.net/collections/prod_FONTS/documents/search"
+    },
+    "release_id": "0e8c2a3f3ba053e8"
+  }
+]
