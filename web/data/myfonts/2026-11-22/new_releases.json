@@ -1,0 +1,41 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/offset-neue-font-blaze-type/",
+    "name": "Offset Neue",
+    "styles": [],
+    "authors": [
+      "Blaze Type"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-11-21",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10308/RDenuWWlfHM6ICLnjkdXC67I_04963e4572f84254a5ec741c7c8c57f6.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-11-22T14:27:06.072591+00:00",
+    "raw": {
+      "id": 15470010335402,
+      "handle": "extended-medium-offset-neue-1271929",
+      "tags": [
+        "pim:designerId:8814",
+        "pim:familyId:140537",
+        "pim:foundryId:6391",
+        "pim:skuId:1271929",
+        "serious"
+      ],
+      "updated_at": "2026-11-22T09:27:02-05:00",
+      "product_url": "https://www.myfonts.com/products/extended-medium-offset-neue-1271929",
+      "collection_url": "https://www.myfonts.com/collections/offset-neue-font-blaze-type/",
+      "is_package_product": false,
+      "product_title": "Offset Neue Extended Medium",
+      "collection_name": "Offset Neue",
+      "myfonts_debut_date": "2026-11-21",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "664eb2d5faf7abf6"
+  }
+]

@@ -1,0 +1,251 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/veldacon-font-absent-satu-type",
+    "name": "Veldacon Complete Family",
+    "styles": [],
+    "authors": [
+      "Absent Satu Type"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-11-12",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-11-12T15:00:23.467022+00:00",
+    "raw": {
+      "id": 15458245017770,
+      "handle": "veldacon-complete-family-package-1259797",
+      "tags": [
+        "classy",
+        "elegant",
+        "fashion",
+        "formal",
+        "pim:designerId:10117",
+        "pim:familyId:140016",
+        "pim:foundryId:7551",
+        "pim:skuId:1259797",
+        "serene",
+        "sophisticated"
+      ],
+      "updated_at": "2026-11-12T10:00:20-05:00",
+      "product_url": "https://www.myfonts.com/products/veldacon-complete-family-package-1259797",
+      "collection_url": "https://www.myfonts.com/collections/veldacon-font-absent-satu-type",
+      "is_package_product": true,
+      "product_title": "Veldacon Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "c6262fe6350ee5de"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/rethavorn-font-absent-satu-type",
+    "name": "Rethavorn Complete Family",
+    "styles": [],
+    "authors": [
+      "Absent Satu Type"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-11-12",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-11-12T15:01:22.845234+00:00",
+    "raw": {
+      "id": 15458244231338,
+      "handle": "rethavorn-complete-family-package-1259807",
+      "tags": [
+        "pim:designerId:10117",
+        "pim:familyId:140018",
+        "pim:foundryId:7551",
+        "pim:skuId:1259807"
+      ],
+      "updated_at": "2026-11-12T10:00:20-05:00",
+      "product_url": "https://www.myfonts.com/products/rethavorn-complete-family-package-1259807",
+      "collection_url": "https://www.myfonts.com/collections/rethavorn-font-absent-satu-type",
+      "is_package_product": true,
+      "product_title": "Rethavorn Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "ecb79fb76776db48"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/waldo-picnic-font-mei-suseno",
+    "name": "Waldo Picnic Complete Family",
+    "styles": [],
+    "authors": [
+      "Mei Suseno"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-11-12",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-11-12T15:01:45.699297+00:00",
+    "raw": {
+      "id": 15458243707050,
+      "handle": "waldo-picnic-complete-family-package-1260640",
+      "tags": [
+        "pim:designerId:5870",
+        "pim:designerId:9836",
+        "pim:familyId:140086",
+        "pim:foundryId:7277",
+        "pim:skuId:1260640"
+      ],
+      "updated_at": "2026-11-12T10:00:20-05:00",
+      "product_url": "https://www.myfonts.com/products/waldo-picnic-complete-family-package-1260640",
+      "collection_url": "https://www.myfonts.com/collections/waldo-picnic-font-mei-suseno",
+      "is_package_product": true,
+      "product_title": "Waldo Picnic Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "4a8df6d95d481d74"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/rokam-letter-font-tini-fitriani",
+    "name": "Rokam Letter Complete Family",
+    "styles": [],
+    "authors": [
+      "Tini Fitriani"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-11-12",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-11-12T15:02:08.999416+00:00",
+    "raw": {
+      "id": 15458243313834,
+      "handle": "rokam-letter-complete-family-package-1260102",
+      "tags": [
+        "allcaps",
+        "carefree",
+        "comic",
+        "decorative",
+        "kids",
+        "pim:designerId:9022",
+        "pim:familyId:140025",
+        "pim:foundryId:6536",
+        "pim:skuId:1260102",
+        "playful",
+        "soft",
+        "whimsical",
+        "youthful"
+      ],
+      "updated_at": "2026-11-12T10:00:20-05:00",
+      "product_url": "https://www.myfonts.com/products/rokam-letter-complete-family-package-1260102",
+      "collection_url": "https://www.myfonts.com/collections/rokam-letter-font-tini-fitriani",
+      "is_package_product": true,
+      "product_title": "Rokam Letter Complete Family",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "b829f71906da9146"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/cabrito-mezzo-font-insigne/",
+    "name": "Cabrito Mezzo",
+    "styles": [],
+    "authors": [
+      "insigne"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-11-15",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10303/2rD8fUDmRBLsjr7FQjdfjMGR_ed6256c0937ffdbb5cf87f34a18bcb35.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-11-15T13:49:23.085285+00:00",
+    "raw": {
+      "id": 15461394055338,
+      "handle": "cabrito-mezzo-complete-family-package-1261241",
+      "tags": [
+        "friendly",
+        "legible",
+        "pim:designerId:1356",
+        "pim:familyId:140137",
+        "pim:foundryId:3260",
+        "pim:skuId:1261241"
+      ],
+      "updated_at": "2026-11-15T08:49:19-05:00",
+      "product_url": "https://www.myfonts.com/products/cabrito-mezzo-complete-family-package-1261241",
+      "collection_url": "https://www.myfonts.com/collections/cabrito-mezzo-font-insigne/",
+      "is_package_product": true,
+      "product_title": "Cabrito Mezzo Complete Family",
+      "collection_name": "Cabrito Mezzo",
+      "myfonts_debut_date": "2026-11-15",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "8c0bc5db7364b327"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/products/contemporary-sans-package-1265428",
+    "name": "Contemporary Sans",
+    "styles": [],
+    "authors": [
+      "Fontop"
+    ],
+    "scripts": [],
+    "script_status": "unknown_package_no_metadata",
+    "release_date": "2026-11-14",
+    "image_url": null,
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-11-15T13:49:24.374746+00:00",
+    "raw": {
+      "id": 15461123588266,
+      "handle": "contemporary-sans-package-1265428",
+      "tags": [
+        "fashion",
+        "formal",
+        "pim:designerId:6631",
+        "pim:familyId:7183",
+        "pim:familyId:7413",
+        "pim:foundryId:1485",
+        "pim:skuId:1265428"
+      ],
+      "updated_at": "2026-11-15T08:49:19-05:00",
+      "product_url": "https://www.myfonts.com/products/contemporary-sans-package-1265428",
+      "collection_url": null,
+      "is_package_product": true,
+      "product_title": "Contemporary Sans",
+      "collection_name": null,
+      "myfonts_debut_date": null,
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": true
+    },
+    "release_id": "3e1b23c05e4e1067"
+  }
+]
