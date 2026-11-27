@@ -1,0 +1,36 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/spoke/zipp?v=0.2",
+    "name": "Zipp",
+    "styles": [],
+    "authors": [
+      "Spoke"
+    ],
+    "scripts": [
+      "basic-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-11-24",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/foundry/header_image/10/medium_Spoke_header.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": "https://incremental-production.s3.us-west-2.amazonaws.com/uploads/typeface_version/specimen/11343/Zipp_specimen.pdf",
+    "discovered_at": "2026-11-24T17:56:20.588956+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:24642",
+      "activity_id": 24642,
+      "activity_key": "typeface_version.new_version",
+      "activity_type": "new_version",
+      "activity_type_label": "New Version",
+      "release_kind": "new_version",
+      "is_new_version": true,
+      "version": "0.2",
+      "trackable_type": "TypefaceVersion",
+      "trackable_id": 11343,
+      "resolved_typeface_id": 2860,
+      "typeface_language": "basic-latin"
+    },
+    "release_id": "7579e9810510cf5a"
+  }
+]

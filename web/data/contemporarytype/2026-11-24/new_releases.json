@@ -1,0 +1,141 @@
+[
+  {
+    "source_id": "contemporarytype",
+    "source_name": "Contemporary Type",
+    "source_url": "https://contemporarytype.com/fonts/qwerty",
+    "name": "Qwerty",
+    "styles": [
+      "Qwerty Light",
+      "Qwerty Light Italic",
+      "Qwerty Regular",
+      "Qwerty Italic",
+      "Qwerty Medium",
+      "Qwerty Medium Italic",
+      "Qwerty Bold",
+      "Qwerty Bold Italic",
+      "Qwerty Black",
+      "Qwerty Black Italic"
+    ],
+    "authors": [
+      "Ludovic Balland"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-11-24",
+    "image_url": "https://backend.contemporarytype.com/files/images/journal3-loevenbruck46891.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": "https://backend.contemporarytype.com/files/products/QWERTY_SPECIMEN_14.10.2026_PF.pdf",
+    "discovered_at": "2026-11-24T17:56:27.420309+00:00",
+    "raw": {
+      "release_identity": "contemporarytype-product:195",
+      "product": {
+        "id": 195,
+        "title": "Qwerty",
+        "slug": "qwerty",
+        "url": "https://contemporarytype.com/fonts/qwerty",
+        "body": "The typewriter appeared in the late 1860s and early 1870s at a moment when information was already moving faster than ever. Railways, telegraphy, newspapers, printing, administration and banking were accelerating the circulation of information, while the production of personalised documents remained largely manual. The telegraph accelerated transmission, printing accelerated reproduction, the postal system distribution, and shorthand the capture of speech. The typewriter accelerated the production of documents, bringing writing into the rhythm of industrialisation.\r\n\r\nThe typewriter did more than change how we wrote. It made writing something that could be measured, standardised, reproduced and organised — eventually becoming one of the foundations of digital writing.\r\nAt the centre of this transformation was the keyboard. The QWERTY layout was developed by American inventor and newspaper publisher Christopher Latham Sholes in the 1870s, as part of his development of the typewriter. It transformed writing into a physical choreography: eye, brain, finger, key, mechanism, letter. Typing speed could be measured in words per minute, turning the typist into an athlete of language.\r\n\r\nQwerty preserves the spirit of mechanical writing while translating it into a contemporary typeface.\r\nIt draws from the monospaced logic of the typewriter, where every character occupies the same amount of space. Its letters are built from the circle as a common graphic matrix, creating open, generous forms with excellent readability at small sizes. This circular geometry also gives the typeface an organic rhythm, connecting the letters while retaining the distinctive rhythm of mechanical text.\r\nQwerty brings the act of typing back into the visual character of the text.\r\nWith five weights and matching italics, the family offers a complete range of typographic hierarchies, from continuous text to titles and headlines. Its combination of geometric, low-contrast forms and more expressive letterforms gives it a strong graphic presence while remaining highly functional.\r\n\r\nAt a time increasingly dominated by AI and automated writing, Qwerty pays tribute to the physical act of writing: the rhythm of the keys, the transcription of speech, the mechanical production of language.",
+        "seo_title": "Qwerty • Editorial serif font family by Ludovic Balland",
+        "seo_description": "Qwerty is a editorial serif typeface inspired by mechanical typewriters. It combines the monospaced logic with geometric, low-contrast forms and more expressive letterforms, which gives it a strong graphic presence while remaining functional",
+        "download_pdf": "https://backend.contemporarytype.com/files/products/QWERTY_SPECIMEN_14.10.2026_PF.pdf",
+        "free_trials": "https://backend.contemporarytype.com/files/products/Qwerty Trial.zip",
+        "end_user_license": "https://backend.contemporarytype.com/files/products/Qwerty-EULA.pdf",
+        "font_size_sum": 0,
+        "group": [
+          "serif"
+        ],
+        "tone": [
+          "casual",
+          "weird"
+        ],
+        "use_size": [
+          "large",
+          "medium",
+          "small"
+        ],
+        "width": [
+          "normal"
+        ],
+        "weight": [
+          "light",
+          "regular",
+          "medium",
+          "bold"
+        ],
+        "contrast": [
+          "medium"
+        ],
+        "other": [
+          "italic"
+        ],
+        "languages": [],
+        "ot_features": [
+          "aalt",
+          "c2sc",
+          "calt",
+          "case",
+          "ccmp",
+          "dlig",
+          "dnom",
+          "frac",
+          "liga",
+          "lnum",
+          "locl",
+          "numr",
+          "onum",
+          "ordn",
+          "pnum",
+          "sinf",
+          "smcp",
+          "ss01",
+          "ss02",
+          "ss03",
+          "ss04",
+          "ss05",
+          "ss06",
+          "ss07",
+          "ss08",
+          "ss09",
+          "ss10",
+          "ss11",
+          "ss12",
+          "ss13",
+          "ss14",
+          "ss15",
+          "ss16",
+          "ss17",
+          "ss18",
+          "ss20",
+          "subs",
+          "sups",
+          "tnum",
+          "zero"
+        ],
+        "approved": true,
+        "approved_date": "2026-11-24",
+        "purchasable": true,
+        "hasWoff": true,
+        "created": "2026-10-14 21:47:10",
+        "customizer_active": false
+      },
+      "brand": {
+        "id": 100,
+        "title": "Ludovic Balland",
+        "slug": "ludovic-balland",
+        "body": "Typo Cabinet is a graphic design studio, established in 2006 by Ludovic Balland. The studio focuses on book design, art direction and, more generally on developing editorial design projects, while also realizing visual identities for international brands and cultural institutions. Ludovic Balland also produces (and leads) the photographic projects for specific book projects. He has been a regular instructor at the ECAL (CH) for over 10 years, and conducted several editorial and graphic design workshops in America and Europe. \r\n\r\nContact: [email](mailto:ludovic@ludovic-balland.ch)\r\n\r\nInstagram: [@ludovic_balland](https://www.instagram.com/ludovic_balland/)",
+        "buyable": true,
+        "approved": false,
+        "currency": "EUR"
+      },
+      "supported_languages": [],
+      "language_source": "none",
+      "variant_count": 10,
+      "license_count": 1,
+      "detail_enrichment": {
+        "used": true,
+        "ok": true
+      },
+      "api_source": "https://backend.contemporarytype.com/api_front/products"
+    },
+    "release_id": "a3bd566231c46bd8"
+  }
+]

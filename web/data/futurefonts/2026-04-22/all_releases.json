@@ -1,0 +1,36 @@
+[
+  {
+    "source_id": "futurefonts",
+    "source_name": "Future Fonts",
+    "source_url": "https://www.futurefonts.com/kind-type-foundry/missive-bead",
+    "name": "Missive Bead",
+    "styles": [],
+    "authors": [
+      "Kind Type Foundry"
+    ],
+    "scripts": [
+      "basic-latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-04-21",
+    "image_url": "https://incremental-production.s3.amazonaws.com/uploads/slide/image/39633/medium_MISSIVE-BEAD_FF-CAROUSEL_01-01.jpg",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-04-22T08:14:02.045587+00:00",
+    "raw": {
+      "release_identity": "futurefonts-activity:20318",
+      "activity_id": 20318,
+      "activity_key": "typeface.new_release",
+      "activity_type": "new_release",
+      "activity_type_label": "New Release",
+      "release_kind": "new_release",
+      "is_new_version": false,
+      "version": null,
+      "trackable_type": "Typeface",
+      "trackable_id": 2827,
+      "resolved_typeface_id": 2827,
+      "typeface_language": "basic-latin"
+    },
+    "release_id": "b218b39557c97c6c"
+  }
+]
