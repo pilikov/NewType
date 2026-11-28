@@ -1,0 +1,378 @@
+[
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/gallerytype/fonts/se-micro-vf",
+    "name": "Se Micro VF",
+    "styles": [],
+    "authors": [
+      "Gallery Type"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-09-16",
+    "image_url": "https://www.gallerytype.com/media/pages/fonts/se-collection/se-micro/91020e8926-1780412658/micro_16x9_s.mp4",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-17T11:45:19.025468+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5691",
+      "family_id": 5691,
+      "family_slug": "se-micro-vf",
+      "catalog_url": "/foundry/gallerytype/fonts/se-micro-vf",
+      "released": "2026-09-16T16:01:50.060710Z",
+      "uploaded": "2026-09-16T16:01:50.060715Z",
+      "foundry_ids": [
+        160
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": true,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Gallery Type",
+        "foundry_site_url": "https://www.gallerytype.com",
+        "image_page_url": "https://www.gallerytype.com/fonts/se-collection/se-micro"
+      }
+    },
+    "release_id": "e6a7c58e1eca08c6"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/gallerytype/fonts/se-micro-wide",
+    "name": "Se Micro Wide",
+    "styles": [],
+    "authors": [
+      "Gallery Type"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-09-16",
+    "image_url": "https://www.gallerytype.com/media/pages/fonts/se-collection/se-micro/91020e8926-1780412658/micro_16x9_s.mp4",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-17T11:45:19.401026+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5690",
+      "family_id": 5690,
+      "family_slug": "se-micro-wide",
+      "catalog_url": "/foundry/gallerytype/fonts/se-micro-wide",
+      "released": "2026-09-16T16:01:47.620562Z",
+      "uploaded": "2026-09-16T16:01:47.620576Z",
+      "foundry_ids": [
+        160
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Gallery Type",
+        "foundry_site_url": "https://www.gallerytype.com",
+        "image_page_url": "https://www.gallerytype.com/fonts/se-collection/se-micro"
+      }
+    },
+    "release_id": "681c090a82b52cda"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/gallerytype/fonts/se-micro-condensed",
+    "name": "Se Micro Condensed",
+    "styles": [],
+    "authors": [
+      "Gallery Type"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-09-16",
+    "image_url": "https://www.gallerytype.com/media/pages/fonts/se-collection/se-micro/91020e8926-1780412658/micro_16x9_s.mp4",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-17T11:45:19.781501+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5689",
+      "family_id": 5689,
+      "family_slug": "se-micro-condensed",
+      "catalog_url": "/foundry/gallerytype/fonts/se-micro-condensed",
+      "released": "2026-09-16T15:56:01.540499Z",
+      "uploaded": "2026-09-16T15:56:01.540506Z",
+      "foundry_ids": [
+        160
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Gallery Type",
+        "foundry_site_url": "https://www.gallerytype.com",
+        "image_page_url": "https://www.gallerytype.com/fonts/se-collection/se-micro"
+      }
+    },
+    "release_id": "79a11eaf74a3e786"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/gallerytype/fonts/se-micro",
+    "name": "Se Micro",
+    "styles": [],
+    "authors": [
+      "Gallery Type"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-09-16",
+    "image_url": "https://www.gallerytype.com/media/pages/fonts/se-collection/se-micro/91020e8926-1780412658/micro_16x9_s.mp4",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-17T11:45:20.190178+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5688",
+      "family_id": 5688,
+      "family_slug": "se-micro",
+      "catalog_url": "/foundry/gallerytype/fonts/se-micro",
+      "released": "2026-09-16T15:55:58.502641Z",
+      "uploaded": "2026-09-16T15:55:58.502651Z",
+      "foundry_ids": [
+        160
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Gallery Type",
+        "foundry_site_url": "https://www.gallerytype.com",
+        "image_page_url": "https://www.gallerytype.com/fonts/se-collection/se-micro"
+      }
+    },
+    "release_id": "bfeaa147791d2fb6"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/gallerytype/fonts/se-macro-vf",
+    "name": "Se Macro VF",
+    "styles": [],
+    "authors": [
+      "Gallery Type"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-09-16",
+    "image_url": "https://www.gallerytype.com/media/pages/fonts/se-collection/se-macro/55790ea9a1-1772454942/macro_16x9_s.mp4",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-17T11:45:20.727590+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5687",
+      "family_id": 5687,
+      "family_slug": "se-macro-vf",
+      "catalog_url": "/foundry/gallerytype/fonts/se-macro-vf",
+      "released": "2026-09-16T15:46:46.030372Z",
+      "uploaded": "2026-09-16T15:46:46.030378Z",
+      "foundry_ids": [
+        160
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": true,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Gallery Type",
+        "foundry_site_url": "https://www.gallerytype.com",
+        "image_page_url": "https://www.gallerytype.com/fonts/se-collection/se-macro"
+      }
+    },
+    "release_id": "d24260e7099d6d20"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/gallerytype/fonts/se-macro-wide",
+    "name": "Se Macro Wide",
+    "styles": [],
+    "authors": [
+      "Gallery Type"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-09-16",
+    "image_url": "https://www.gallerytype.com/media/pages/fonts/se-collection/se-macro/55790ea9a1-1772454942/macro_16x9_s.mp4",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-17T11:45:21.108898+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5686",
+      "family_id": 5686,
+      "family_slug": "se-macro-wide",
+      "catalog_url": "/foundry/gallerytype/fonts/se-macro-wide",
+      "released": "2026-09-16T15:46:43.337424Z",
+      "uploaded": "2026-09-16T15:46:43.337433Z",
+      "foundry_ids": [
+        160
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Gallery Type",
+        "foundry_site_url": "https://www.gallerytype.com",
+        "image_page_url": "https://www.gallerytype.com/fonts/se-collection/se-macro"
+      }
+    },
+    "release_id": "62437506e3a6c3ac"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/gallerytype/fonts/se-macro-condensed",
+    "name": "Se Macro Condensed",
+    "styles": [],
+    "authors": [
+      "Gallery Type"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-09-16",
+    "image_url": "https://www.gallerytype.com/media/pages/fonts/se-collection/se-macro/55790ea9a1-1772454942/macro_16x9_s.mp4",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-17T11:45:21.517765+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5685",
+      "family_id": 5685,
+      "family_slug": "se-macro-condensed",
+      "catalog_url": "/foundry/gallerytype/fonts/se-macro-condensed",
+      "released": "2026-09-16T15:44:26.449446Z",
+      "uploaded": "2026-09-16T15:44:26.449452Z",
+      "foundry_ids": [
+        160
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Gallery Type",
+        "foundry_site_url": "https://www.gallerytype.com",
+        "image_page_url": "https://www.gallerytype.com/fonts/se-collection/se-macro"
+      }
+    },
+    "release_id": "4ed8e9b64138d243"
+  },
+  {
+    "source_id": "typenetwork",
+    "source_name": "Type Network",
+    "source_url": "https://store.typenetwork.com/foundry/gallerytype/fonts/se-macro",
+    "name": "Se Macro",
+    "styles": [],
+    "authors": [
+      "Gallery Type"
+    ],
+    "scripts": [
+      "Latin"
+    ],
+    "script_status": "ok",
+    "release_date": "2026-09-16",
+    "image_url": "https://www.gallerytype.com/media/pages/fonts/se-collection/se-macro/55790ea9a1-1772454942/macro_16x9_s.mp4",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-09-17T11:45:22.032740+00:00",
+    "raw": {
+      "release_identity": "typenetwork-family:5684",
+      "family_id": 5684,
+      "family_slug": "se-macro",
+      "catalog_url": "/foundry/gallerytype/fonts/se-macro",
+      "released": "2026-09-16T15:44:23.897961Z",
+      "uploaded": "2026-09-16T15:44:23.897969Z",
+      "foundry_ids": [
+        160
+      ],
+      "supported_scripts": [
+        215
+      ],
+      "supported_languages": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "variable": false,
+      "image_enrichment": {
+        "status": "ok",
+        "foundry_name": "Gallery Type",
+        "foundry_site_url": "https://www.gallerytype.com",
+        "image_page_url": "https://www.gallerytype.com/fonts/se-collection/se-macro"
+      }
+    },
+    "release_id": "7bb4626e6e42b89a"
+  }
+]

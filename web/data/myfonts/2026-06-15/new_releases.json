@@ -1,0 +1,136 @@
+[
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/ziboulateur-pro-font-hanoded/",
+    "name": "Ziboulateur Pro",
+    "styles": [],
+    "authors": [
+      "Hanoded"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-06-14",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10242/vNXMnSKCD4KpVL5dd2UDmMUr_d565da40691edc025a3f0fcdf61ce24a.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-15T12:35:33.277135+00:00",
+    "raw": {
+      "id": 8459949244586,
+      "handle": "ziboulateur-pro-complete-family-package-1169032",
+      "tags": [
+        "allcaps",
+        "comic",
+        "decorative",
+        "kids",
+        "pim:designerId:2407",
+        "pim:familyId:134029",
+        "pim:foundryId:3241",
+        "pim:skuId:1169032",
+        "soft",
+        "youthful"
+      ],
+      "updated_at": "2026-06-15T08:35:27-04:00",
+      "product_url": "https://www.myfonts.com/products/ziboulateur-pro-complete-family-package-1169032",
+      "collection_url": "https://www.myfonts.com/collections/ziboulateur-pro-font-hanoded/",
+      "is_package_product": true,
+      "product_title": "Ziboulateur Pro Complete Family",
+      "collection_name": "Ziboulateur Pro",
+      "myfonts_debut_date": "2026-06-14",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "80916a345141def4"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/kunze-pro-font-hanoded/",
+    "name": "Kunze Pro",
+    "styles": [],
+    "authors": [
+      "Hanoded"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-06-14",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10242/Lyzml1wcDBdcAaPYaBhDt3w6_0913fd949cc3035d990efb5efe6c583a.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-15T12:35:35.745911+00:00",
+    "raw": {
+      "id": 8459949211818,
+      "handle": "kunze-pro-complete-family-package-1169035",
+      "tags": [
+        "allcaps",
+        "decorative",
+        "pim:designerId:2407",
+        "pim:familyId:134030",
+        "pim:foundryId:3241",
+        "pim:skuId:1169035"
+      ],
+      "updated_at": "2026-06-15T08:35:27-04:00",
+      "product_url": "https://www.myfonts.com/products/kunze-pro-complete-family-package-1169035",
+      "collection_url": "https://www.myfonts.com/collections/kunze-pro-font-hanoded/",
+      "is_package_product": true,
+      "product_title": "Kunze Pro Complete Family",
+      "collection_name": "Kunze Pro",
+      "myfonts_debut_date": "2026-06-14",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "8293aed93d4e495e"
+  },
+  {
+    "source_id": "myfonts",
+    "source_name": "MyFonts",
+    "source_url": "https://www.myfonts.com/collections/take-the-money-pro-font-hanoded/",
+    "name": "Take The Money Pro",
+    "styles": [],
+    "authors": [
+      "Hanoded"
+    ],
+    "scripts": [],
+    "script_status": "unknown",
+    "release_date": "2026-06-14",
+    "image_url": "https://cdn.myfonts.net/cdn-cgi/image/width=417,height=208,fit=contain,format=auto/images/pim/10242/7F3kQyQ3ImG6t0o9o1bJYzuv_fe51d5c3a494c45c4dffeead28f9a332.png",
+    "woff_url": null,
+    "specimen_pdf_url": null,
+    "discovered_at": "2026-06-15T12:35:37.892413+00:00",
+    "raw": {
+      "id": 8459949146282,
+      "handle": "take-the-money-pro-complete-family-package-1169027",
+      "tags": [
+        "allcaps",
+        "carefree",
+        "comic",
+        "decorative",
+        "friendly",
+        "handwriting",
+        "kids",
+        "pim:designerId:2407",
+        "pim:familyId:134028",
+        "pim:foundryId:3241",
+        "pim:skuId:1169027",
+        "playful",
+        "serene",
+        "soft",
+        "whimsical",
+        "youthful"
+      ],
+      "updated_at": "2026-06-15T08:35:27-04:00",
+      "product_url": "https://www.myfonts.com/products/take-the-money-pro-complete-family-package-1169027",
+      "collection_url": "https://www.myfonts.com/collections/take-the-money-pro-font-hanoded/",
+      "is_package_product": true,
+      "product_title": "Take The Money Pro Complete Family",
+      "collection_name": "Take The Money Pro",
+      "myfonts_debut_date": "2026-06-14",
+      "tech_specs_scripts": [],
+      "tech_specs_supported_languages": [],
+      "is_package_without_metadata": false
+    },
+    "release_id": "73f8473a37b2a014"
+  }
+]
